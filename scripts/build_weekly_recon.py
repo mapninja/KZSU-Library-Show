@@ -29,6 +29,10 @@ Zookeeper reads columns by POSITION, not by name, and there is no header row:
 This order is inferred from your Sept. 10 import, which loaded correctly.
 The Sept. 24 import used a 5-column file (no tag column), so every label
 became a duration like "3:37". Keeping 6 columns avoids that.
+
+Row ORDER is reversed: the first on-air track is the LAST row and the last
+on-air track is the FIRST row. This matches the reversed YouTube Music
+"Working" playlist, because Stace's playback setup runs bottom-up.
 """
 import csv
 import json
@@ -106,16 +110,23 @@ def main(show_date: str, input_name: str = "candidates.json") -> None:
     lines.insert(5, "")
     (out_dir / f"{prefix or 'track_'}{'playlist' if prefix else 'suggestions'}.md").write_text("\n".join(lines), encoding="utf-8")
 
-    # ---- 2. Zookeeper CSV (forward order, SKIP tracks removed) ------------
+    # ---- 2. Zookeeper CSV (REVERSED order, SKIP and CUT tracks removed) ---
+    # Why reversed? DJ Stace's playback setup works bottom-up: the first
+    # on-air track must be the LAST row, just like the reversed YouTube Music
+    # "Working" playlist. So we collect the rows in forward air order first,
+    # then write them out backwards.
+    rows = []  # a Python list; each item is one CSV row (itself a list of 6 values)
+    for s in data["sets"]:
+        for t in s["tracks"]:
+            if t["priority"] in ("SKIP", "CUT"):
+                continue  # skip FCC problems and tracks Stace removed
+            album = t["album"].replace(" (advance single)", "")
+            label = "" if t["label"] == "unverified" else t["label"]
+            rows.append([t["artist"], t["track"], album, t.get("tag", ""), label, ""])
+    rows.reverse()  # flips the list in place: last on-air track now comes first
     with (out_dir / f"{prefix}zookeeper_upload.csv").open("w", newline="", encoding="utf-8") as f:
-        w = csv.writer(f, quoting=csv.QUOTE_ALL)
-        for s in data["sets"]:
-            for t in s["tracks"]:
-                if t["priority"] in ("SKIP", "CUT"):
-                    continue
-                album = t["album"].replace(" (advance single)", "")
-                label = "" if t["label"] == "unverified" else t["label"]
-                w.writerow([t["artist"], t["track"], album, t.get("tag", ""), label, ""])
+        w = csv.writer(f, quoting=csv.QUOTE_ALL)  # QUOTE_ALL wraps every field in "quotes"
+        w.writerows(rows)  # writes every row in one call
 
     # ---- 3. YTM working playlist plan -------------------------------------
     ytm = [{"artist": t["artist"], "track": t["track"], "album": t["album"], "priority": t["priority"],

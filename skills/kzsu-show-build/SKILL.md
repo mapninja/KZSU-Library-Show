@@ -133,7 +133,9 @@ Put the three files in Stace's **KZSU** folder in Google Drive. Folder ID is `1K
 - Use the Google Drive connector (create or update file). Find it with ToolSearch, for example "google drive create file."
 - Name them `<show date> working_zookeeper_upload.csv`, `<show date> working_playlist.md` and `<show date> show_script.md`.
 - If files with those names are already in the folder, update them instead of creating duplicates.
+- Upload them as raw files, with conversion to Google types turned off, so the CSV stays a CSV and the .md files stay Markdown.
 - If no Drive connector is available, keep the files in `outputs/recon/<show date>/`. Tell Stace which connector to add, and share the local paths.
+- Everything related to KZSU or the show goes in the KZSU folder, never the Drive root. That includes interview scripts, review drafts and skill packages. If you notice KZSU files in the root, move them into the KZSU folder and tell her.
 
 ### 8. Summary
 Keep it short: bullets, AP style, no em dashes, no hyperbole.
@@ -147,5 +149,6 @@ Keep it short: bullets, AP style, no em dashes, no hyperbole.
 
 ## Standing rules
 - Follow AP style. Don't use em dashes. Keep adjectives and hyperbole out of the script and the summaries.
-- Delete only files you created. Move anything else to `_to_delete/`.
+- Delete only files you created. Move anything else to `_to_delete/`, both locally and in Drive (`KZSU/_to_delete`).
+- Skills for the show go in Drive under `KZSU/Library Show skills/<skill-name>/`. Each folder holds a raw `SKILL.md` whose YAML frontmatter has the name and description, plus a `<skill-name>.skill` zip that includes that `SKILL.md`.
 - Never reproduce lyrics.

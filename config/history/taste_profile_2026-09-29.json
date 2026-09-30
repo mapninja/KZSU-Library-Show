@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30",
+ "generated": "2026-09-29",
  "weights": {
   "airplay": 3.0,
   "recent_air": 6.0,
@@ -443,14 +443,14 @@
    }
   },
   {
-   "artist": "The Warlocks",
+   "artist": "Grinderman",
    "playlist_score": 4.64,
    "playlists": {
     "Liked Music": 4
    }
   },
   {
-   "artist": "Grinderman",
+   "artist": "The Warlocks",
    "playlist_score": 4.64,
    "playlists": {
     "Liked Music": 4
@@ -471,14 +471,14 @@
    }
   },
   {
-   "artist": "Black Diamond Heavies",
+   "artist": "Radio Moscow",
    "playlist_score": 4.64,
    "playlists": {
     "Liked Music": 4
    }
   },
   {
-   "artist": "Radio Moscow",
+   "artist": "Black Diamond Heavies",
    "playlist_score": 4.64,
    "playlists": {
     "Liked Music": 4
@@ -495,7 +495,7 @@
    }
   },
   {
-   "artist": "The Crystal Ark",
+   "artist": "Marissa Nadler",
    "playlist_score": 4.5,
    "playlists": {
     "All-Time Favorites": 1,
@@ -505,7 +505,7 @@
    }
   },
   {
-   "artist": "Marissa Nadler",
+   "artist": "The Crystal Ark",
    "playlist_score": 4.5,
    "playlists": {
     "All-Time Favorites": 1,
@@ -634,7 +634,7 @@
    "shows": 92,
    "shows_12mo": 9,
    "ytm_plays": 507,
-   "ytm_plays_90d": 16,
+   "ytm_plays_90d": 17,
    "reviews": 3,
    "first_spin": "2016-01-26",
    "last_spin": "2026-08-06",
@@ -654,7 +654,7 @@
    "shows": 81,
    "shows_12mo": 11,
    "ytm_plays": 958,
-   "ytm_plays_90d": 91,
+   "ytm_plays_90d": 92,
    "reviews": 1,
    "first_spin": "2016-02-09",
    "last_spin": "2026-09-24",
@@ -718,7 +718,7 @@
    "shows": 93,
    "shows_12mo": 6,
    "ytm_plays": 534,
-   "ytm_plays_90d": 12,
+   "ytm_plays_90d": 13,
    "reviews": 2,
    "first_spin": "2016-02-09",
    "last_spin": "2026-07-30",
@@ -882,6 +882,24 @@
    "score": 45.4
   },
   {
+   "artist": "the Wedding Present",
+   "key": "wedding present",
+   "shows": 48,
+   "shows_12mo": 3,
+   "ytm_plays": 104,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2016-02-16",
+   "last_spin": "2026-08-06",
+   "playlist_score": 11.42,
+   "playlists": {
+    "All-Time Favorites": 7,
+    "Crawfish Boil": 7,
+    "Liked Music": 10
+   },
+   "score": 44.6
+  },
+  {
    "artist": "The Arcs",
    "key": "arcs",
    "shows": 50,
@@ -897,24 +915,6 @@
     "All-Time Favorites": 7,
     "Crawfish Boil": 27,
     "Liked Music": 3
-   },
-   "score": 44.6
-  },
-  {
-   "artist": "the Wedding Present",
-   "key": "wedding present",
-   "shows": 48,
-   "shows_12mo": 3,
-   "ytm_plays": 104,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2016-02-16",
-   "last_spin": "2026-08-06",
-   "playlist_score": 11.42,
-   "playlists": {
-    "All-Time Favorites": 7,
-    "Crawfish Boil": 7,
-    "Liked Music": 10
    },
    "score": 44.6
   },
@@ -1131,7 +1131,7 @@
    "shows": 15,
    "shows_12mo": 7,
    "ytm_plays": 92,
-   "ytm_plays_90d": 3,
+   "ytm_plays_90d": 4,
    "reviews": 0,
    "first_spin": "2019-08-28",
    "last_spin": "2026-04-30",
@@ -1164,24 +1164,6 @@
    "score": 32.3
   },
   {
-   "artist": "IDLES",
-   "key": "idles",
-   "shows": 23,
-   "shows_12mo": 6,
-   "ytm_plays": 1144,
-   "ytm_plays_90d": 41,
-   "reviews": 0,
-   "first_spin": "2019-08-07",
-   "last_spin": "2026-09-10",
-   "playlist_score": 6.14,
-   "playlists": {
-    "All-Time Favorites": 1,
-    "Crawfish Boil": 1,
-    "Liked Music": 4
-   },
-   "score": 31.1
-  },
-  {
    "artist": "This Is Lorelei",
    "key": "this is lorelei",
    "shows": 10,
@@ -1197,6 +1179,24 @@
     "All-Time Favorites": 10,
     "Liked Music": 4,
     "DJ Stace - Next Show": 1
+   },
+   "score": 31.1
+  },
+  {
+   "artist": "IDLES",
+   "key": "idles",
+   "shows": 23,
+   "shows_12mo": 6,
+   "ytm_plays": 1144,
+   "ytm_plays_90d": 41,
+   "reviews": 0,
+   "first_spin": "2019-08-07",
+   "last_spin": "2026-09-10",
+   "playlist_score": 6.14,
+   "playlists": {
+    "All-Time Favorites": 1,
+    "Crawfish Boil": 1,
+    "Liked Music": 4
    },
    "score": 31.1
   },
@@ -1247,7 +1247,7 @@
    "shows": 21,
    "shows_12mo": 1,
    "ytm_plays": 319,
-   "ytm_plays_90d": 25,
+   "ytm_plays_90d": 26,
    "reviews": 0,
    "first_spin": "2016-02-09",
    "last_spin": "2026-02-12",
@@ -1259,24 +1259,6 @@
     "Liked Music": 4
    },
    "score": 28.2
-  },
-  {
-   "artist": "Andrew Bird",
-   "key": "andrew bird",
-   "shows": 24,
-   "shows_12mo": 3,
-   "ytm_plays": 549,
-   "ytm_plays_90d": 10,
-   "reviews": 0,
-   "first_spin": "2016-04-19",
-   "last_spin": "2026-06-25",
-   "playlist_score": 6.65,
-   "playlists": {
-    "All-Time Favorites": 4,
-    "Crawfish Boil": 4,
-    "Liked Music": 2
-   },
-   "score": 28.0
   },
   {
    "artist": "Cat Power",
@@ -1295,6 +1277,24 @@
     "Songs 2:00 and less": 1,
     "Crawfish Boil": 4,
     "Liked Music": 6
+   },
+   "score": 28.0
+  },
+  {
+   "artist": "Andrew Bird",
+   "key": "andrew bird",
+   "shows": 24,
+   "shows_12mo": 3,
+   "ytm_plays": 549,
+   "ytm_plays_90d": 10,
+   "reviews": 0,
+   "first_spin": "2016-04-19",
+   "last_spin": "2026-06-25",
+   "playlist_score": 6.65,
+   "playlists": {
+    "All-Time Favorites": 4,
+    "Crawfish Boil": 4,
+    "Liked Music": 2
    },
    "score": 28.0
   },
@@ -1397,7 +1397,7 @@
    "shows": 27,
    "shows_12mo": 0,
    "ytm_plays": 160,
-   "ytm_plays_90d": 3,
+   "ytm_plays_90d": 4,
    "reviews": 1,
    "first_spin": "2016-07-14",
    "last_spin": "2020-01-08",
@@ -1433,7 +1433,7 @@
    "shows": 7,
    "shows_12mo": 6,
    "ytm_plays": 96,
-   "ytm_plays_90d": 33,
+   "ytm_plays_90d": 35,
    "reviews": 0,
    "first_spin": "2022-08-23",
    "last_spin": "2026-09-24",
@@ -1470,24 +1470,6 @@
    "score": 26.0
   },
   {
-   "artist": "Viagra Boys",
-   "key": "viagra boys",
-   "shows": 6,
-   "shows_12mo": 6,
-   "ytm_plays": 172,
-   "ytm_plays_90d": 38,
-   "reviews": 0,
-   "first_spin": "2026-01-15",
-   "last_spin": "2026-09-10",
-   "playlist_score": 14.17,
-   "playlists": {
-    "All-Time Favorites": 1,
-    "To Review": 15,
-    "Liked Music": 5
-   },
-   "score": 25.9
-  },
-  {
    "artist": "Bauhaus",
    "key": "bauhaus",
    "shows": 20,
@@ -1502,6 +1484,24 @@
     "Halloweenie music": 22,
     "All-Time Favorites": 62,
     "Crawfish Boil": 62
+   },
+   "score": 25.9
+  },
+  {
+   "artist": "Viagra Boys",
+   "key": "viagra boys",
+   "shows": 6,
+   "shows_12mo": 6,
+   "ytm_plays": 172,
+   "ytm_plays_90d": 38,
+   "reviews": 0,
+   "first_spin": "2026-01-15",
+   "last_spin": "2026-09-10",
+   "playlist_score": 14.17,
+   "playlists": {
+    "All-Time Favorites": 1,
+    "To Review": 15,
+    "Liked Music": 5
    },
    "score": 25.9
   },
@@ -1658,7 +1658,7 @@
    "shows": 10,
    "shows_12mo": 6,
    "ytm_plays": 179,
-   "ytm_plays_90d": 18,
+   "ytm_plays_90d": 19,
    "reviews": 0,
    "first_spin": "2024-03-06",
    "last_spin": "2026-09-24",
@@ -1713,7 +1713,7 @@
    "shows": 26,
    "shows_12mo": 0,
    "ytm_plays": 158,
-   "ytm_plays_90d": 2,
+   "ytm_plays_90d": 3,
    "reviews": 0,
    "first_spin": "2017-05-03",
    "last_spin": "2024-03-27",
@@ -1748,6 +1748,20 @@
    "score": 23.8
   },
   {
+   "artist": "The Coathangers",
+   "key": "coathangers",
+   "shows": 40,
+   "shows_12mo": 0,
+   "ytm_plays": 0,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2016-08-17",
+   "last_spin": "2019-08-21",
+   "playlist_score": 0.0,
+   "playlists": {},
+   "score": 23.7
+  },
+  {
    "artist": "Dan Auerbach",
    "key": "dan auerbach",
    "shows": 19,
@@ -1763,20 +1777,6 @@
     "Crawfish Boil": 30,
     "Liked Music": 5
    },
-   "score": 23.7
-  },
-  {
-   "artist": "The Coathangers",
-   "key": "coathangers",
-   "shows": 40,
-   "shows_12mo": 0,
-   "ytm_plays": 0,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2016-08-17",
-   "last_spin": "2019-08-21",
-   "playlist_score": 0.0,
-   "playlists": {},
    "score": 23.7
   },
   {
@@ -1815,6 +1815,23 @@
    "score": 23.6
   },
   {
+   "artist": "Mitski",
+   "key": "mitski",
+   "shows": 11,
+   "shows_12mo": 5,
+   "ytm_plays": 84,
+   "ytm_plays_90d": 1,
+   "reviews": 0,
+   "first_spin": "2016-07-07",
+   "last_spin": "2026-06-25",
+   "playlist_score": 9.17,
+   "playlists": {
+    "To Review": 11,
+    "Liked Music": 1
+   },
+   "score": 23.1
+  },
+  {
    "artist": "Melvins",
    "key": "melvins",
    "shows": 19,
@@ -1830,23 +1847,6 @@
     "Covers": 1,
     "Crawfish Boil": 4,
     "Liked Music": 4
-   },
-   "score": 23.1
-  },
-  {
-   "artist": "Mitski",
-   "key": "mitski",
-   "shows": 11,
-   "shows_12mo": 5,
-   "ytm_plays": 84,
-   "ytm_plays_90d": 1,
-   "reviews": 0,
-   "first_spin": "2016-07-07",
-   "last_spin": "2026-06-25",
-   "playlist_score": 9.17,
-   "playlists": {
-    "To Review": 11,
-    "Liked Music": 1
    },
    "score": 23.1
   },
@@ -1874,7 +1874,7 @@
    "shows": 6,
    "shows_12mo": 6,
    "ytm_plays": 447,
-   "ytm_plays_90d": 29,
+   "ytm_plays_90d": 30,
    "reviews": 0,
    "first_spin": "2026-01-15",
    "last_spin": "2026-05-28",
@@ -1885,24 +1885,6 @@
     "Liked Music": 8
    },
    "score": 22.4
-  },
-  {
-   "artist": "Love And Rockets",
-   "key": "love and rockets",
-   "shows": 20,
-   "shows_12mo": 2,
-   "ytm_plays": 249,
-   "ytm_plays_90d": 17,
-   "reviews": 0,
-   "first_spin": "2016-01-26",
-   "last_spin": "2026-06-25",
-   "playlist_score": 4.67,
-   "playlists": {
-    "All-Time Favorites": 1,
-    "Crawfish Boil": 1,
-    "Liked Music": 2
-   },
-   "score": 22.2
   },
   {
    "artist": "SAULT",
@@ -1920,6 +1902,24 @@
     "All-Time Favorites": 2,
     "Crawfish Boil": 2,
     "Liked Music": 3
+   },
+   "score": 22.2
+  },
+  {
+   "artist": "Love And Rockets",
+   "key": "love and rockets",
+   "shows": 20,
+   "shows_12mo": 2,
+   "ytm_plays": 249,
+   "ytm_plays_90d": 17,
+   "reviews": 0,
+   "first_spin": "2016-01-26",
+   "last_spin": "2026-06-25",
+   "playlist_score": 4.67,
+   "playlists": {
+    "All-Time Favorites": 1,
+    "Crawfish Boil": 1,
+    "Liked Music": 2
    },
    "score": 22.2
   },
@@ -1948,7 +1948,7 @@
    "shows": 18,
    "shows_12mo": 0,
    "ytm_plays": 283,
-   "ytm_plays_90d": 22,
+   "ytm_plays_90d": 23,
    "reviews": 0,
    "first_spin": "2016-02-23",
    "last_spin": "2024-06-19",
@@ -2018,25 +2018,6 @@
    "score": 21.5
   },
   {
-   "artist": "the Mountain Goats",
-   "key": "mountain goats",
-   "shows": 14,
-   "shows_12mo": 3,
-   "ytm_plays": 24,
-   "ytm_plays_90d": 12,
-   "reviews": 0,
-   "first_spin": "2016-02-09",
-   "last_spin": "2026-09-03",
-   "playlist_score": 8.55,
-   "playlists": {
-    "DJ Stace - 09/10/2026": 1,
-    "All-Time Favorites": 2,
-    "Crawfish Boil": 2,
-    "Liked Music": 2
-   },
-   "score": 21.1
-  },
-  {
    "artist": "Yeah Yeah Yeahs",
    "key": "yeah yeah yeahs",
    "shows": 14,
@@ -2056,12 +2037,31 @@
    "score": 21.1
   },
   {
+   "artist": "the Mountain Goats",
+   "key": "mountain goats",
+   "shows": 14,
+   "shows_12mo": 3,
+   "ytm_plays": 24,
+   "ytm_plays_90d": 12,
+   "reviews": 0,
+   "first_spin": "2016-02-09",
+   "last_spin": "2026-09-03",
+   "playlist_score": 8.55,
+   "playlists": {
+    "DJ Stace - 09/10/2026": 1,
+    "All-Time Favorites": 2,
+    "Crawfish Boil": 2,
+    "Liked Music": 2
+   },
+   "score": 21.1
+  },
+  {
    "artist": "Old 97'S",
    "key": "old 97 s",
    "shows": 19,
    "shows_12mo": 0,
    "ytm_plays": 158,
-   "ytm_plays_90d": 0,
+   "ytm_plays_90d": 13,
    "reviews": 0,
    "first_spin": "2016-03-08",
    "last_spin": "2019-09-25",
@@ -2072,6 +2072,23 @@
     "Liked Music": 1
    },
    "score": 21.0
+  },
+  {
+   "artist": "The Nude Party",
+   "key": "nude party",
+   "shows": 21,
+   "shows_12mo": 2,
+   "ytm_plays": 26,
+   "ytm_plays_90d": 0,
+   "reviews": 1,
+   "first_spin": "2018-07-25",
+   "last_spin": "2026-06-25",
+   "playlist_score": 3.0,
+   "playlists": {
+    "All-Time Favorites": 3,
+    "Crawfish Boil": 3
+   },
+   "score": 20.7
   },
   {
    "artist": "Tricky",
@@ -2088,23 +2105,6 @@
     "Night mix": 13,
     "All-Time Favorites": 1,
     "Crawfish Boil": 1
-   },
-   "score": 20.7
-  },
-  {
-   "artist": "The Nude Party",
-   "key": "nude party",
-   "shows": 21,
-   "shows_12mo": 2,
-   "ytm_plays": 26,
-   "ytm_plays_90d": 0,
-   "reviews": 1,
-   "first_spin": "2018-07-25",
-   "last_spin": "2026-06-25",
-   "playlist_score": 3.0,
-   "playlists": {
-    "All-Time Favorites": 3,
-    "Crawfish Boil": 3
    },
    "score": 20.7
   },
@@ -2126,6 +2126,23 @@
    "score": 20.7
   },
   {
+   "artist": "MJ Lenderman",
+   "key": "mj lenderman",
+   "shows": 6,
+   "shows_12mo": 5,
+   "ytm_plays": 666,
+   "ytm_plays_90d": 41,
+   "reviews": 0,
+   "first_spin": "2024-06-26",
+   "last_spin": "2026-09-03",
+   "playlist_score": 7.64,
+   "playlists": {
+    "Your Top 25 Tracks of 2026": 1,
+    "Liked Music": 4
+   },
+   "score": 20.6
+  },
+  {
    "artist": "Pixies",
    "key": "pixies",
    "shows": 13,
@@ -2140,23 +2157,6 @@
     "All-Time Favorites": 20,
     "Songs 2:00 and less": 1,
     "Crawfish Boil": 2,
-    "Liked Music": 4
-   },
-   "score": 20.6
-  },
-  {
-   "artist": "MJ Lenderman",
-   "key": "mj lenderman",
-   "shows": 6,
-   "shows_12mo": 5,
-   "ytm_plays": 666,
-   "ytm_plays_90d": 41,
-   "reviews": 0,
-   "first_spin": "2024-06-26",
-   "last_spin": "2026-09-03",
-   "playlist_score": 7.64,
-   "playlists": {
-    "Your Top 25 Tracks of 2026": 1,
     "Liked Music": 4
    },
    "score": 20.6
@@ -2234,24 +2234,6 @@
    "score": 19.8
   },
   {
-   "artist": "Beirut",
-   "key": "beirut",
-   "shows": 20,
-   "shows_12mo": 0,
-   "ytm_plays": 73,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2016-03-01",
-   "last_spin": "2024-06-19",
-   "playlist_score": 5.55,
-   "playlists": {
-    "All-Time Favorites": 2,
-    "Crawfish Boil": 2,
-    "Liked Music": 2
-   },
-   "score": 19.6
-  },
-  {
    "artist": "Beastie Boys",
    "key": "beastie boys",
    "shows": 7,
@@ -2268,6 +2250,24 @@
     "Crawfish Boil": 16,
     "Liked Music": 3,
     "FCC Edit Needed": 1
+   },
+   "score": 19.6
+  },
+  {
+   "artist": "Beirut",
+   "key": "beirut",
+   "shows": 20,
+   "shows_12mo": 0,
+   "ytm_plays": 73,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2016-03-01",
+   "last_spin": "2024-06-19",
+   "playlist_score": 5.55,
+   "playlists": {
+    "All-Time Favorites": 2,
+    "Crawfish Boil": 2,
+    "Liked Music": 2
    },
    "score": 19.6
   },
@@ -2327,24 +2327,6 @@
    "score": 19.4
   },
   {
-   "artist": "Ulrika Spacek",
-   "key": "ulrika spacek",
-   "shows": 8,
-   "shows_12mo": 4,
-   "ytm_plays": 44,
-   "ytm_plays_90d": 12,
-   "reviews": 0,
-   "first_spin": "2019-04-10",
-   "last_spin": "2026-07-02",
-   "playlist_score": 8.67,
-   "playlists": {
-    "All-Time Favorites": 1,
-    "Crawfish Boil": 1,
-    "To Review": 11
-   },
-   "score": 19.3
-  },
-  {
    "artist": "Yo La Tengo",
    "key": "yo la tengo",
    "shows": 12,
@@ -2359,6 +2341,24 @@
     "All-Time Favorites": 19,
     "Crawfish Boil": 19,
     "Liked Music": 1
+   },
+   "score": 19.3
+  },
+  {
+   "artist": "Ulrika Spacek",
+   "key": "ulrika spacek",
+   "shows": 8,
+   "shows_12mo": 4,
+   "ytm_plays": 44,
+   "ytm_plays_90d": 12,
+   "reviews": 0,
+   "first_spin": "2019-04-10",
+   "last_spin": "2026-07-02",
+   "playlist_score": 8.67,
+   "playlists": {
+    "All-Time Favorites": 1,
+    "Crawfish Boil": 1,
+    "To Review": 11
    },
    "score": 19.3
   },
@@ -2399,25 +2399,6 @@
    "score": 19.0
   },
   {
-   "artist": "Coil",
-   "key": "coil",
-   "shows": 9,
-   "shows_12mo": 0,
-   "ytm_plays": 58,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2016-02-23",
-   "last_spin": "2024-02-07",
-   "playlist_score": 13.27,
-   "playlists": {
-    "Halloweenie music": 32,
-    "All-Time Favorites": 35,
-    "Crawfish Boil": 35,
-    "Liked Music": 3
-   },
-   "score": 19.0
-  },
-  {
    "artist": "Jack White",
    "key": "jack white",
    "shows": 6,
@@ -2433,6 +2414,25 @@
     "All-Time Favorites": 3,
     "Crawfish Boil": 3,
     "Liked Music": 6
+   },
+   "score": 19.0
+  },
+  {
+   "artist": "Coil",
+   "key": "coil",
+   "shows": 9,
+   "shows_12mo": 0,
+   "ytm_plays": 58,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2016-02-23",
+   "last_spin": "2024-02-07",
+   "playlist_score": 13.27,
+   "playlists": {
+    "Halloweenie music": 32,
+    "All-Time Favorites": 35,
+    "Crawfish Boil": 35,
+    "Liked Music": 3
    },
    "score": 19.0
   },
@@ -2508,24 +2508,6 @@
    "score": 18.3
   },
   {
-   "artist": "Angel Olsen",
-   "key": "angel olsen",
-   "shows": 15,
-   "shows_12mo": 1,
-   "ytm_plays": 112,
-   "ytm_plays_90d": 3,
-   "reviews": 0,
-   "first_spin": "2016-09-14",
-   "last_spin": "2026-09-10",
-   "playlist_score": 5.55,
-   "playlists": {
-    "All-Time Favorites": 2,
-    "Crawfish Boil": 2,
-    "Liked Music": 2
-   },
-   "score": 18.2
-  },
-  {
    "artist": "New Order",
    "key": "new order",
    "shows": 14,
@@ -2540,6 +2522,24 @@
     "All-Time Favorites": 4,
     "Crawfish Boil": 3,
     "Liked Music": 1
+   },
+   "score": 18.2
+  },
+  {
+   "artist": "Angel Olsen",
+   "key": "angel olsen",
+   "shows": 15,
+   "shows_12mo": 1,
+   "ytm_plays": 112,
+   "ytm_plays_90d": 3,
+   "reviews": 0,
+   "first_spin": "2016-09-14",
+   "last_spin": "2026-09-10",
+   "playlist_score": 5.55,
+   "playlists": {
+    "All-Time Favorites": 2,
+    "Crawfish Boil": 2,
+    "Liked Music": 2
    },
    "score": 18.2
   },
@@ -2583,24 +2583,6 @@
    "score": 18.1
   },
   {
-   "artist": "Ezra Furman",
-   "key": "ezra furman",
-   "shows": 16,
-   "shows_12mo": 1,
-   "ytm_plays": 22,
-   "ytm_plays_90d": 0,
-   "reviews": 1,
-   "first_spin": "2019-09-11",
-   "last_spin": "2026-04-09",
-   "playlist_score": 5.0,
-   "playlists": {
-    "All-Time Favorites": 3,
-    "Crawfish Boil": 3,
-    "Liked Music": 1
-   },
-   "score": 18.0
-  },
-  {
    "artist": "Bob Dylan",
    "key": "bob dylan",
    "shows": 13,
@@ -2615,6 +2597,24 @@
     "All-Time Favorites": 9,
     "Crawfish Boil": 9,
     "Liked Music": 2
+   },
+   "score": 18.0
+  },
+  {
+   "artist": "Ezra Furman",
+   "key": "ezra furman",
+   "shows": 16,
+   "shows_12mo": 1,
+   "ytm_plays": 22,
+   "ytm_plays_90d": 0,
+   "reviews": 1,
+   "first_spin": "2019-09-11",
+   "last_spin": "2026-04-09",
+   "playlist_score": 5.0,
+   "playlists": {
+    "All-Time Favorites": 3,
+    "Crawfish Boil": 3,
+    "Liked Music": 1
    },
    "score": 18.0
   },
@@ -2657,23 +2657,6 @@
    "score": 17.9
   },
   {
-   "artist": "Royal Blood",
-   "key": "royal blood",
-   "shows": 5,
-   "shows_12mo": 5,
-   "ytm_plays": 218,
-   "ytm_plays_90d": 38,
-   "reviews": 0,
-   "first_spin": "2026-08-20",
-   "last_spin": "2026-09-24",
-   "playlist_score": 6.0,
-   "playlists": {
-    "DJ Stace - 09/10/2026": 1,
-    "DJ Stace - Next Show": 1
-   },
-   "score": 17.8
-  },
-  {
    "artist": "Brant Bjork",
    "key": "brant bjork",
    "shows": 15,
@@ -2693,22 +2676,21 @@
    "score": 17.8
   },
   {
-   "artist": "King Gizzard And The Lizard Wizard",
-   "key": "king gizzard and the lizard wizard",
-   "shows": 9,
-   "shows_12mo": 1,
-   "ytm_plays": 381,
-   "ytm_plays_90d": 17,
-   "reviews": 1,
-   "first_spin": "2016-06-29",
-   "last_spin": "2026-05-07",
-   "playlist_score": 7.0,
+   "artist": "Royal Blood",
+   "key": "royal blood",
+   "shows": 5,
+   "shows_12mo": 5,
+   "ytm_plays": 218,
+   "ytm_plays_90d": 38,
+   "reviews": 0,
+   "first_spin": "2026-08-20",
+   "last_spin": "2026-09-24",
+   "playlist_score": 6.0,
    "playlists": {
-    "All-Time Favorites": 3,
-    "Crawfish Boil": 3,
-    "Liked Music": 3
+    "DJ Stace - 09/10/2026": 1,
+    "DJ Stace - Next Show": 1
    },
-   "score": 17.7
+   "score": 17.8
   },
   {
    "artist": "Stef Chura",
@@ -2725,6 +2707,24 @@
     "All-Time Favorites": 2,
     "Crawfish Boil": 2,
     "Liked Music": 1
+   },
+   "score": 17.7
+  },
+  {
+   "artist": "King Gizzard And The Lizard Wizard",
+   "key": "king gizzard and the lizard wizard",
+   "shows": 9,
+   "shows_12mo": 1,
+   "ytm_plays": 381,
+   "ytm_plays_90d": 17,
+   "reviews": 1,
+   "first_spin": "2016-06-29",
+   "last_spin": "2026-05-07",
+   "playlist_score": 7.0,
+   "playlists": {
+    "All-Time Favorites": 3,
+    "Crawfish Boil": 3,
+    "Liked Music": 3
    },
    "score": 17.7
   },
@@ -2796,23 +2796,6 @@
    "score": 16.9
   },
   {
-   "artist": "The National",
-   "key": "national",
-   "shows": 17,
-   "shows_12mo": 0,
-   "ytm_plays": 151,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2016-03-22",
-   "last_spin": "2019-08-07",
-   "playlist_score": 3.48,
-   "playlists": {
-    "All-Time Favorites": 4,
-    "Crawfish Boil": 4
-   },
-   "score": 16.8
-  },
-  {
    "artist": "James Johnston",
    "key": "james johnston",
    "shows": 11,
@@ -2832,22 +2815,21 @@
    "score": 16.8
   },
   {
-   "artist": "Jane's Addiction",
-   "key": "jane s addiction",
-   "shows": 11,
+   "artist": "The National",
+   "key": "national",
+   "shows": 17,
    "shows_12mo": 0,
-   "ytm_plays": 110,
-   "ytm_plays_90d": 14,
+   "ytm_plays": 151,
+   "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": "2016-03-29",
-   "last_spin": "2024-04-24",
-   "playlist_score": 8.17,
+   "first_spin": "2016-03-22",
+   "last_spin": "2019-08-07",
+   "playlist_score": 3.48,
    "playlists": {
-    "All-Time Favorites": 3,
-    "Crawfish Boil": 3,
-    "Liked Music": 5
+    "All-Time Favorites": 4,
+    "Crawfish Boil": 4
    },
-   "score": 16.7
+   "score": 16.8
   },
   {
    "artist": "Skinny Puppy",
@@ -2875,7 +2857,7 @@
    "shows": 2,
    "shows_12mo": 0,
    "ytm_plays": 388,
-   "ytm_plays_90d": 10,
+   "ytm_plays_90d": 11,
    "reviews": 0,
    "first_spin": "2016-02-16",
    "last_spin": "2024-05-01",
@@ -2885,6 +2867,24 @@
     "All-Time Favorites": 3,
     "Crawfish Boil": 3,
     "Liked Music": 4
+   },
+   "score": 16.7
+  },
+  {
+   "artist": "Jane's Addiction",
+   "key": "jane s addiction",
+   "shows": 11,
+   "shows_12mo": 0,
+   "ytm_plays": 110,
+   "ytm_plays_90d": 14,
+   "reviews": 0,
+   "first_spin": "2016-03-29",
+   "last_spin": "2024-04-24",
+   "playlist_score": 8.17,
+   "playlists": {
+    "All-Time Favorites": 3,
+    "Crawfish Boil": 3,
+    "Liked Music": 5
    },
    "score": 16.7
   },
@@ -2921,19 +2921,20 @@
    "score": 16.5
   },
   {
-   "artist": "The Felice Brothers",
-   "key": "felice brothers",
-   "shows": 20,
-   "shows_12mo": 1,
-   "ytm_plays": 1,
-   "ytm_plays_90d": 0,
-   "reviews": 1,
-   "first_spin": "2019-05-15",
-   "last_spin": "2026-07-30",
-   "playlist_score": 2.38,
+   "artist": "Arcade Fire",
+   "key": "arcade fire",
+   "shows": 13,
+   "shows_12mo": 0,
+   "ytm_plays": 127,
+   "ytm_plays_90d": 1,
+   "reviews": 0,
+   "first_spin": "2016-02-16",
+   "last_spin": "2022-08-09",
+   "playlist_score": 6.17,
    "playlists": {
-    "All-Time Favorites": 2,
-    "Crawfish Boil": 2
+    "All-Time Favorites": 3,
+    "Crawfish Boil": 3,
+    "Liked Music": 2
    },
    "score": 16.4
   },
@@ -2955,40 +2956,21 @@
    "score": 16.4
   },
   {
-   "artist": "Arcade Fire",
-   "key": "arcade fire",
-   "shows": 13,
-   "shows_12mo": 0,
-   "ytm_plays": 127,
-   "ytm_plays_90d": 1,
-   "reviews": 0,
-   "first_spin": "2016-02-16",
-   "last_spin": "2022-08-09",
-   "playlist_score": 6.17,
-   "playlists": {
-    "All-Time Favorites": 3,
-    "Crawfish Boil": 3,
-    "Liked Music": 2
-   },
-   "score": 16.4
-  },
-  {
-   "artist": "The Strokes",
-   "key": "strokes",
-   "shows": 10,
-   "shows_12mo": 2,
-   "ytm_plays": 332,
-   "ytm_plays_90d": 16,
-   "reviews": 0,
-   "first_spin": "2016-04-05",
-   "last_spin": "2026-04-16",
-   "playlist_score": 4.38,
+   "artist": "The Felice Brothers",
+   "key": "felice brothers",
+   "shows": 20,
+   "shows_12mo": 1,
+   "ytm_plays": 1,
+   "ytm_plays_90d": 0,
+   "reviews": 1,
+   "first_spin": "2019-05-15",
+   "last_spin": "2026-07-30",
+   "playlist_score": 2.38,
    "playlists": {
     "All-Time Favorites": 2,
-    "Crawfish Boil": 2,
-    "Liked Music": 1
+    "Crawfish Boil": 2
    },
-   "score": 16.3
+   "score": 16.4
   },
   {
    "artist": "King Tuff",
@@ -3022,6 +3004,24 @@
     "All-Time Favorites": 15,
     "Crawfish Boil": 15,
     "Liked Music": 2
+   },
+   "score": 16.3
+  },
+  {
+   "artist": "The Strokes",
+   "key": "strokes",
+   "shows": 10,
+   "shows_12mo": 2,
+   "ytm_plays": 332,
+   "ytm_plays_90d": 16,
+   "reviews": 0,
+   "first_spin": "2016-04-05",
+   "last_spin": "2026-04-16",
+   "playlist_score": 4.38,
+   "playlists": {
+    "All-Time Favorites": 2,
+    "Crawfish Boil": 2,
+    "Liked Music": 1
    },
    "score": 16.3
   },
@@ -3062,24 +3062,6 @@
    "score": 16.2
   },
   {
-   "artist": "She Keeps Bees",
-   "key": "she keeps bees",
-   "shows": 14,
-   "shows_12mo": 1,
-   "ytm_plays": 8,
-   "ytm_plays_90d": 0,
-   "reviews": 1,
-   "first_spin": "2016-02-23",
-   "last_spin": "2026-03-26",
-   "playlist_score": 5.0,
-   "playlists": {
-    "All-Time Favorites": 3,
-    "Crawfish Boil": 3,
-    "Liked Music": 1
-   },
-   "score": 16.1
-  },
-  {
    "artist": "Pip Blom",
    "key": "pip blom",
    "shows": 15,
@@ -3093,6 +3075,24 @@
    "playlists": {
     "All-Time Favorites": 3,
     "Crawfish Boil": 2,
+    "Liked Music": 1
+   },
+   "score": 16.1
+  },
+  {
+   "artist": "She Keeps Bees",
+   "key": "she keeps bees",
+   "shows": 14,
+   "shows_12mo": 1,
+   "ytm_plays": 8,
+   "ytm_plays_90d": 0,
+   "reviews": 1,
+   "first_spin": "2016-02-23",
+   "last_spin": "2026-03-26",
+   "playlist_score": 5.0,
+   "playlists": {
+    "All-Time Favorites": 3,
+    "Crawfish Boil": 3,
     "Liked Music": 1
    },
    "score": 16.1
@@ -3136,6 +3136,20 @@
    "score": 15.7
   },
   {
+   "artist": "Bleachers",
+   "key": "bleachers",
+   "shows": 7,
+   "shows_12mo": 7,
+   "ytm_plays": 59,
+   "ytm_plays_90d": 3,
+   "reviews": 0,
+   "first_spin": "2026-05-07",
+   "last_spin": "2026-09-24",
+   "playlist_score": 0.0,
+   "playlists": {},
+   "score": 15.6
+  },
+  {
    "artist": "Black Pistol Fire",
    "key": "black pistol fire",
    "shows": 15,
@@ -3154,18 +3168,23 @@
    "score": 15.6
   },
   {
-   "artist": "Bleachers",
-   "key": "bleachers",
-   "shows": 7,
-   "shows_12mo": 7,
-   "ytm_plays": 59,
-   "ytm_plays_90d": 3,
+   "artist": "Inxs",
+   "key": "inxs",
+   "shows": 4,
+   "shows_12mo": 1,
+   "ytm_plays": 132,
+   "ytm_plays_90d": 2,
    "reviews": 0,
-   "first_spin": "2026-05-07",
-   "last_spin": "2026-09-24",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 15.6
+   "first_spin": "2016-07-20",
+   "last_spin": "2026-08-06",
+   "playlist_score": 10.22,
+   "playlists": {
+    "Love Songs - DJ Stace Library Show": 1,
+    "All-Time Favorites": 60,
+    "Crawfish Boil": 2,
+    "Liked Music": 1
+   },
+   "score": 15.5
   },
   {
    "artist": "Skinshape",
@@ -3205,25 +3224,6 @@
    "score": 15.5
   },
   {
-   "artist": "Inxs",
-   "key": "inxs",
-   "shows": 4,
-   "shows_12mo": 1,
-   "ytm_plays": 132,
-   "ytm_plays_90d": 2,
-   "reviews": 0,
-   "first_spin": "2016-07-20",
-   "last_spin": "2026-08-06",
-   "playlist_score": 10.22,
-   "playlists": {
-    "Love Songs - DJ Stace Library Show": 1,
-    "All-Time Favorites": 60,
-    "Crawfish Boil": 2,
-    "Liked Music": 1
-   },
-   "score": 15.5
-  },
-  {
    "artist": "Cass McCombs",
    "key": "cass mccombs",
    "shows": 13,
@@ -3256,19 +3256,20 @@
    "score": 15.4
   },
   {
-   "artist": "Nightmares On Wax",
-   "key": "nightmares on wax",
-   "shows": 4,
-   "shows_12mo": 4,
-   "ytm_plays": 195,
-   "ytm_plays_90d": 6,
+   "artist": "Ron Gallo",
+   "key": "ron gallo",
+   "shows": 11,
+   "shows_12mo": 1,
+   "ytm_plays": 37,
+   "ytm_plays_90d": 2,
    "reviews": 0,
-   "first_spin": "2026-01-15",
-   "last_spin": "2026-04-30",
-   "playlist_score": 5.17,
+   "first_spin": "2018-02-07",
+   "last_spin": "2026-09-03",
+   "playlist_score": 6.0,
    "playlists": {
-    "To Review": 1,
-    "Liked Music": 2
+    "DJ Stace - 09/10/2026": 1,
+    "All-Time Favorites": 3,
+    "Crawfish Boil": 3
    },
    "score": 15.3
   },
@@ -3293,22 +3294,38 @@
    "score": 15.3
   },
   {
-   "artist": "Ron Gallo",
-   "key": "ron gallo",
-   "shows": 11,
-   "shows_12mo": 1,
-   "ytm_plays": 37,
-   "ytm_plays_90d": 2,
+   "artist": "Nightmares On Wax",
+   "key": "nightmares on wax",
+   "shows": 4,
+   "shows_12mo": 4,
+   "ytm_plays": 195,
+   "ytm_plays_90d": 6,
    "reviews": 0,
-   "first_spin": "2018-02-07",
-   "last_spin": "2026-09-03",
-   "playlist_score": 6.0,
+   "first_spin": "2026-01-15",
+   "last_spin": "2026-04-30",
+   "playlist_score": 5.17,
    "playlists": {
-    "DJ Stace - 09/10/2026": 1,
-    "All-Time Favorites": 3,
-    "Crawfish Boil": 3
+    "To Review": 1,
+    "Liked Music": 2
    },
    "score": 15.3
+  },
+  {
+   "artist": "Buck Meek",
+   "key": "buck meek",
+   "shows": 3,
+   "shows_12mo": 3,
+   "ytm_plays": 28,
+   "ytm_plays_90d": 1,
+   "reviews": 0,
+   "first_spin": "2026-03-05",
+   "last_spin": "2026-05-07",
+   "playlist_score": 9.17,
+   "playlists": {
+    "To Review": 11,
+    "Liked Music": 1
+   },
+   "score": 15.2
   },
   {
    "artist": "Panda Bear & Sonic Boom",
@@ -3340,23 +3357,6 @@
    "playlist_score": 2.3,
    "playlists": {
     "Soundbed": 1,
-    "Liked Music": 1
-   },
-   "score": 15.2
-  },
-  {
-   "artist": "Buck Meek",
-   "key": "buck meek",
-   "shows": 3,
-   "shows_12mo": 3,
-   "ytm_plays": 28,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2026-03-05",
-   "last_spin": "2026-05-07",
-   "playlist_score": 9.17,
-   "playlists": {
-    "To Review": 11,
     "Liked Music": 1
    },
    "score": 15.2
@@ -3450,6 +3450,24 @@
    "score": 14.6
   },
   {
+   "artist": "R.E.M.",
+   "key": "r e m",
+   "shows": 10,
+   "shows_12mo": 0,
+   "ytm_plays": 313,
+   "ytm_plays_90d": 72,
+   "reviews": 0,
+   "first_spin": "2016-03-15",
+   "last_spin": "2018-01-03",
+   "playlist_score": 5.25,
+   "playlists": {
+    "Love Songs - DJ Stace Library Show": 1,
+    "All-Time Favorites": 5,
+    "Crawfish Boil": 4
+   },
+   "score": 14.6
+  },
+  {
    "artist": "The Bobby Lees",
    "key": "bobby lees",
    "shows": 7,
@@ -3461,24 +3479,6 @@
    "last_spin": "2026-09-24",
    "playlist_score": 0.0,
    "playlists": {},
-   "score": 14.6
-  },
-  {
-   "artist": "R.E.M.",
-   "key": "r e m",
-   "shows": 10,
-   "shows_12mo": 0,
-   "ytm_plays": 313,
-   "ytm_plays_90d": 58,
-   "reviews": 0,
-   "first_spin": "2016-03-15",
-   "last_spin": "2018-01-03",
-   "playlist_score": 5.25,
-   "playlists": {
-    "Love Songs - DJ Stace Library Show": 1,
-    "All-Time Favorites": 5,
-    "Crawfish Boil": 4
-   },
    "score": 14.6
   },
   {
@@ -3575,22 +3575,6 @@
    "score": 14.4
   },
   {
-   "artist": "La Luz",
-   "key": "la luz",
-   "shows": 12,
-   "shows_12mo": 1,
-   "ytm_plays": 91,
-   "ytm_plays_90d": 2,
-   "reviews": 0,
-   "first_spin": "2018-05-23",
-   "last_spin": "2026-02-19",
-   "playlist_score": 3.17,
-   "playlists": {
-    "Liked Music": 2
-   },
-   "score": 14.3
-  },
-  {
    "artist": "Big Star",
    "key": "big star",
    "shows": 11,
@@ -3610,12 +3594,28 @@
    "score": 14.3
   },
   {
+   "artist": "La Luz",
+   "key": "la luz",
+   "shows": 12,
+   "shows_12mo": 1,
+   "ytm_plays": 91,
+   "ytm_plays_90d": 2,
+   "reviews": 0,
+   "first_spin": "2018-05-23",
+   "last_spin": "2026-02-19",
+   "playlist_score": 3.17,
+   "playlists": {
+    "Liked Music": 2
+   },
+   "score": 14.3
+  },
+  {
    "artist": "Lcd Soundsystem",
    "key": "lcd soundsystem",
    "shows": 2,
    "shows_12mo": 2,
    "ytm_plays": 268,
-   "ytm_plays_90d": 13,
+   "ytm_plays_90d": 14,
    "reviews": 0,
    "first_spin": "2026-02-19",
    "last_spin": "2026-04-30",
@@ -3623,6 +3623,23 @@
    "playlists": {
     "All-Time Favorites": 10,
     "Crawfish Boil": 1,
+    "Liked Music": 3
+   },
+   "score": 14.2
+  },
+  {
+   "artist": "Hurray For The Riff Raff",
+   "key": "hurray for the riff raff",
+   "shows": 11,
+   "shows_12mo": 0,
+   "ytm_plays": 113,
+   "ytm_plays_90d": 1,
+   "reviews": 0,
+   "first_spin": "2017-08-09",
+   "last_spin": "2024-04-17",
+   "playlist_score": 5.0,
+   "playlists": {
+    "All-Time Favorites": 1,
     "Liked Music": 3
    },
    "score": 14.2
@@ -3646,21 +3663,22 @@
    "score": 14.2
   },
   {
-   "artist": "Hurray For The Riff Raff",
-   "key": "hurray for the riff raff",
-   "shows": 11,
+   "artist": "The Murlocs",
+   "key": "murlocs",
+   "shows": 8,
    "shows_12mo": 0,
-   "ytm_plays": 113,
-   "ytm_plays_90d": 1,
+   "ytm_plays": 203,
+   "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": "2017-08-09",
-   "last_spin": "2024-04-17",
-   "playlist_score": 5.0,
+   "first_spin": "2019-05-22",
+   "last_spin": "2022-12-22",
+   "playlist_score": 6.61,
    "playlists": {
-    "All-Time Favorites": 1,
-    "Liked Music": 3
+    "All-Time Favorites": 2,
+    "Crawfish Boil": 12,
+    "Liked Music": 2
    },
-   "score": 14.2
+   "score": 14.1
   },
   {
    "artist": "Dr. John",
@@ -3677,24 +3695,6 @@
     "All-Time Favorites": 1,
     "Crawfish Boil": 34,
     "Liked Music": 1
-   },
-   "score": 14.1
-  },
-  {
-   "artist": "The Murlocs",
-   "key": "murlocs",
-   "shows": 8,
-   "shows_12mo": 0,
-   "ytm_plays": 203,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2019-05-22",
-   "last_spin": "2022-12-22",
-   "playlist_score": 6.61,
-   "playlists": {
-    "All-Time Favorites": 2,
-    "Crawfish Boil": 12,
-    "Liked Music": 2
    },
    "score": 14.1
   },
@@ -3733,38 +3733,6 @@
     "Crawfish Boil": 2
    },
    "score": 13.9
-  },
-  {
-   "artist": "Dread Spectre Council",
-   "key": "dread spectre council",
-   "shows": 6,
-   "shows_12mo": 6,
-   "ytm_plays": 57,
-   "ytm_plays_90d": 10,
-   "reviews": 0,
-   "first_spin": "2026-05-21",
-   "last_spin": "2026-07-02",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 13.8
-  },
-  {
-   "artist": "Seratones",
-   "key": "seratones",
-   "shows": 11,
-   "shows_12mo": 0,
-   "ytm_plays": 5,
-   "ytm_plays_90d": 0,
-   "reviews": 1,
-   "first_spin": "2017-03-22",
-   "last_spin": "2020-01-29",
-   "playlist_score": 6.25,
-   "playlists": {
-    "All-Time Favorites": 5,
-    "FCC Edited": 2,
-    "Crawfish Boil": 5
-   },
-   "score": 13.8
   },
   {
    "artist": "Talking Heads",
@@ -3823,23 +3791,36 @@
    "score": 13.8
   },
   {
-   "artist": "Dumb",
-   "key": "dumb",
-   "shows": 4,
-   "shows_12mo": 1,
-   "ytm_plays": 164,
-   "ytm_plays_90d": 2,
+   "artist": "Seratones",
+   "key": "seratones",
+   "shows": 11,
+   "shows_12mo": 0,
+   "ytm_plays": 5,
+   "ytm_plays_90d": 0,
    "reviews": 1,
-   "first_spin": "2023-01-12",
-   "last_spin": "2026-03-05",
-   "playlist_score": 6.5,
+   "first_spin": "2017-03-22",
+   "last_spin": "2020-01-29",
+   "playlist_score": 6.25,
    "playlists": {
-    "All-Time Favorites": 1,
-    "Songs 2:00 and less": 1,
-    "Crawfish Boil": 1,
-    "Liked Music": 3
+    "All-Time Favorites": 5,
+    "FCC Edited": 2,
+    "Crawfish Boil": 5
    },
-   "score": 13.7
+   "score": 13.8
+  },
+  {
+   "artist": "Dread Spectre Council",
+   "key": "dread spectre council",
+   "shows": 6,
+   "shows_12mo": 6,
+   "ytm_plays": 57,
+   "ytm_plays_90d": 10,
+   "reviews": 0,
+   "first_spin": "2026-05-21",
+   "last_spin": "2026-07-02",
+   "playlist_score": 0.0,
+   "playlists": {},
+   "score": 13.8
   },
   {
    "artist": "Sharon Van Etten",
@@ -3856,6 +3837,25 @@
     "All-Time Favorites": 2,
     "Crawfish Boil": 2,
     "Liked Music": 1
+   },
+   "score": 13.7
+  },
+  {
+   "artist": "Dumb",
+   "key": "dumb",
+   "shows": 4,
+   "shows_12mo": 1,
+   "ytm_plays": 164,
+   "ytm_plays_90d": 2,
+   "reviews": 1,
+   "first_spin": "2023-01-12",
+   "last_spin": "2026-03-05",
+   "playlist_score": 6.5,
+   "playlists": {
+    "All-Time Favorites": 1,
+    "Songs 2:00 and less": 1,
+    "Crawfish Boil": 1,
+    "Liked Music": 3
    },
    "score": 13.7
   },
@@ -3878,6 +3878,22 @@
    "score": 13.5
   },
   {
+   "artist": "the Magnetic Fields",
+   "key": "magnetic fields",
+   "shows": 16,
+   "shows_12mo": 0,
+   "ytm_plays": 14,
+   "ytm_plays_90d": 4,
+   "reviews": 0,
+   "first_spin": "2016-02-23",
+   "last_spin": "2022-12-08",
+   "playlist_score": 2.38,
+   "playlists": {
+    "Love Songs - DJ Stace Library Show": 2
+   },
+   "score": 13.5
+  },
+  {
    "artist": "Iggy Pop",
    "key": "iggy pop",
    "shows": 12,
@@ -3892,22 +3908,6 @@
     "All-Time Favorites": 1,
     "Crawfish Boil": 1,
     "Liked Music": 2
-   },
-   "score": 13.5
-  },
-  {
-   "artist": "the Magnetic Fields",
-   "key": "magnetic fields",
-   "shows": 16,
-   "shows_12mo": 0,
-   "ytm_plays": 14,
-   "ytm_plays_90d": 3,
-   "reviews": 0,
-   "first_spin": "2016-02-23",
-   "last_spin": "2022-12-08",
-   "playlist_score": 2.38,
-   "playlists": {
-    "Love Songs - DJ Stace Library Show": 2
    },
    "score": 13.5
   },
@@ -3995,21 +3995,21 @@
    "score": 13.1
   },
   {
-   "artist": "Wugazi",
-   "key": "wugazi",
-   "shows": 3,
-   "shows_12mo": 0,
-   "ytm_plays": 0,
-   "ytm_plays_90d": 0,
+   "artist": "The Stone Roses",
+   "key": "stone roses",
+   "shows": 7,
+   "shows_12mo": 1,
+   "ytm_plays": 37,
+   "ytm_plays_90d": 2,
    "reviews": 0,
-   "first_spin": "2016-03-29",
-   "last_spin": "2020-08-05",
-   "playlist_score": 14.25,
+   "first_spin": "2016-02-23",
+   "last_spin": "2026-03-26",
+   "playlist_score": 6.08,
    "playlists": {
-    "All-Time Favorites": 23,
-    "FCC Edited": 11,
-    "Crawfish Boil": 23,
-    "Liked Music": 1
+    "Your Top 25 Tracks of 2026": 1,
+    "All-Time Favorites": 2,
+    "Covers": 1,
+    "Crawfish Boil": 1
    },
    "score": 13.0
   },
@@ -4042,21 +4042,21 @@
    "score": 13.0
   },
   {
-   "artist": "The Stone Roses",
-   "key": "stone roses",
-   "shows": 7,
-   "shows_12mo": 1,
-   "ytm_plays": 37,
-   "ytm_plays_90d": 2,
+   "artist": "Wugazi",
+   "key": "wugazi",
+   "shows": 3,
+   "shows_12mo": 0,
+   "ytm_plays": 0,
+   "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": "2016-02-23",
-   "last_spin": "2026-03-26",
-   "playlist_score": 6.08,
+   "first_spin": "2016-03-29",
+   "last_spin": "2020-08-05",
+   "playlist_score": 14.25,
    "playlists": {
-    "Your Top 25 Tracks of 2026": 1,
-    "All-Time Favorites": 2,
-    "Covers": 1,
-    "Crawfish Boil": 1
+    "All-Time Favorites": 23,
+    "FCC Edited": 11,
+    "Crawfish Boil": 23,
+    "Liked Music": 1
    },
    "score": 13.0
   },
@@ -4079,24 +4079,6 @@
    "score": 12.9
   },
   {
-   "artist": "Kevin Morby",
-   "key": "kevin morby",
-   "shows": 6,
-   "shows_12mo": 2,
-   "ytm_plays": 178,
-   "ytm_plays_90d": 15,
-   "reviews": 0,
-   "first_spin": "2022-10-13",
-   "last_spin": "2026-04-16",
-   "playlist_score": 3.5,
-   "playlists": {
-    "All-Time Favorites": 1,
-    "Crawfish Boil": 1,
-    "Liked Music": 1
-   },
-   "score": 12.8
-  },
-  {
    "artist": "Nebula",
    "key": "nebula",
    "shows": 8,
@@ -4111,6 +4093,24 @@
     "All-Time Favorites": 2,
     "Covers": 1,
     "Crawfish Boil": 2,
+    "Liked Music": 1
+   },
+   "score": 12.8
+  },
+  {
+   "artist": "Kevin Morby",
+   "key": "kevin morby",
+   "shows": 6,
+   "shows_12mo": 2,
+   "ytm_plays": 178,
+   "ytm_plays_90d": 16,
+   "reviews": 0,
+   "first_spin": "2022-10-13",
+   "last_spin": "2026-04-16",
+   "playlist_score": 3.5,
+   "playlists": {
+    "All-Time Favorites": 1,
+    "Crawfish Boil": 1,
     "Liked Music": 1
    },
    "score": 12.8
@@ -4134,73 +4134,6 @@
    "score": 12.8
   },
   {
-   "artist": "Animal Collective",
-   "key": "animal collective",
-   "shows": 10,
-   "shows_12mo": 0,
-   "ytm_plays": 69,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2016-02-16",
-   "last_spin": "2018-07-25",
-   "playlist_score": 4.38,
-   "playlists": {
-    "All-Time Favorites": 2,
-    "Crawfish Boil": 2,
-    "Liked Music": 1
-   },
-   "score": 12.7
-  },
-  {
-   "artist": "Froth",
-   "key": "froth",
-   "shows": 16,
-   "shows_12mo": 1,
-   "ytm_plays": 3,
-   "ytm_plays_90d": 1,
-   "reviews": 1,
-   "first_spin": "2019-06-19",
-   "last_spin": "2026-04-30",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 12.7
-  },
-  {
-   "artist": "Scratch Acid",
-   "key": "scratch acid",
-   "shows": 14,
-   "shows_12mo": 0,
-   "ytm_plays": 7,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2016-02-16",
-   "last_spin": "2022-08-02",
-   "playlist_score": 3.5,
-   "playlists": {
-    "All-Time Favorites": 1,
-    "Crawfish Boil": 1,
-    "Liked Music": 1
-   },
-   "score": 12.7
-  },
-  {
-   "artist": "Waxahatchee",
-   "key": "waxahatchee",
-   "shows": 5,
-   "shows_12mo": 1,
-   "ytm_plays": 292,
-   "ytm_plays_90d": 14,
-   "reviews": 0,
-   "first_spin": "2017-10-25",
-   "last_spin": "2026-01-22",
-   "playlist_score": 5.17,
-   "playlists": {
-    "All-Time Favorites": 3,
-    "Liked Music": 2
-   },
-   "score": 12.7
-  },
-  {
    "artist": "Smashing Pumpkins",
    "key": "smashing pumpkins",
    "shows": 4,
@@ -4215,23 +4148,6 @@
     "All-Time Favorites": 2,
     "Crawfish Boil": 1,
     "Liked Music": 3
-   },
-   "score": 12.7
-  },
-  {
-   "artist": "Helado Negro",
-   "key": "helado negro",
-   "shows": 3,
-   "shows_12mo": 0,
-   "ytm_plays": 379,
-   "ytm_plays_90d": 19,
-   "reviews": 0,
-   "first_spin": "2019-08-07",
-   "last_spin": "2024-04-17",
-   "playlist_score": 7.97,
-   "playlists": {
-    "All-Time Favorites": 9,
-    "Liked Music": 4
    },
    "score": 12.7
   },
@@ -4253,22 +4169,88 @@
    "score": 12.7
   },
   {
-   "artist": "the Shins",
-   "key": "shins",
-   "shows": 7,
-   "shows_12mo": 0,
-   "ytm_plays": 91,
-   "ytm_plays_90d": 3,
+   "artist": "Waxahatchee",
+   "key": "waxahatchee",
+   "shows": 5,
+   "shows_12mo": 1,
+   "ytm_plays": 292,
+   "ytm_plays_90d": 14,
    "reviews": 0,
-   "first_spin": "2016-03-15",
-   "last_spin": "2019-11-20",
-   "playlist_score": 6.17,
+   "first_spin": "2017-10-25",
+   "last_spin": "2026-01-22",
+   "playlist_score": 5.17,
    "playlists": {
     "All-Time Favorites": 3,
-    "Crawfish Boil": 3,
     "Liked Music": 2
    },
-   "score": 12.6
+   "score": 12.7
+  },
+  {
+   "artist": "Froth",
+   "key": "froth",
+   "shows": 16,
+   "shows_12mo": 1,
+   "ytm_plays": 3,
+   "ytm_plays_90d": 1,
+   "reviews": 1,
+   "first_spin": "2019-06-19",
+   "last_spin": "2026-04-30",
+   "playlist_score": 0.0,
+   "playlists": {},
+   "score": 12.7
+  },
+  {
+   "artist": "Animal Collective",
+   "key": "animal collective",
+   "shows": 10,
+   "shows_12mo": 0,
+   "ytm_plays": 69,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2016-02-16",
+   "last_spin": "2018-07-25",
+   "playlist_score": 4.38,
+   "playlists": {
+    "All-Time Favorites": 2,
+    "Crawfish Boil": 2,
+    "Liked Music": 1
+   },
+   "score": 12.7
+  },
+  {
+   "artist": "Helado Negro",
+   "key": "helado negro",
+   "shows": 3,
+   "shows_12mo": 0,
+   "ytm_plays": 379,
+   "ytm_plays_90d": 19,
+   "reviews": 0,
+   "first_spin": "2019-08-07",
+   "last_spin": "2024-04-17",
+   "playlist_score": 7.97,
+   "playlists": {
+    "All-Time Favorites": 9,
+    "Liked Music": 4
+   },
+   "score": 12.7
+  },
+  {
+   "artist": "Scratch Acid",
+   "key": "scratch acid",
+   "shows": 14,
+   "shows_12mo": 0,
+   "ytm_plays": 7,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2016-02-16",
+   "last_spin": "2022-08-02",
+   "playlist_score": 3.5,
+   "playlists": {
+    "All-Time Favorites": 1,
+    "Crawfish Boil": 1,
+    "Liked Music": 1
+   },
+   "score": 12.7
   },
   {
    "artist": "The Clash",
@@ -4289,22 +4271,22 @@
    "score": 12.6
   },
   {
-   "artist": "The Raconteurs",
-   "key": "raconteurs",
+   "artist": "the Shins",
+   "key": "shins",
    "shows": 7,
    "shows_12mo": 0,
-   "ytm_plays": 21,
-   "ytm_plays_90d": 0,
+   "ytm_plays": 91,
+   "ytm_plays_90d": 3,
    "reviews": 0,
-   "first_spin": "2019-01-02",
-   "last_spin": "2019-08-21",
-   "playlist_score": 7.55,
+   "first_spin": "2016-03-15",
+   "last_spin": "2019-11-20",
+   "playlist_score": 6.17,
    "playlists": {
-    "All-Time Favorites": 2,
-    "Crawfish Boil": 2,
-    "Liked Music": 5
+    "All-Time Favorites": 3,
+    "Crawfish Boil": 3,
+    "Liked Music": 2
    },
-   "score": 12.5
+   "score": 12.6
   },
   {
    "artist": "Steel Beans",
@@ -4321,6 +4303,24 @@
     "All-Time Favorites": 1,
     "Crawfish Boil": 1,
     "Liked Music": 2
+   },
+   "score": 12.5
+  },
+  {
+   "artist": "The Raconteurs",
+   "key": "raconteurs",
+   "shows": 7,
+   "shows_12mo": 0,
+   "ytm_plays": 21,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2019-01-02",
+   "last_spin": "2019-08-21",
+   "playlist_score": 7.55,
+   "playlists": {
+    "All-Time Favorites": 2,
+    "Crawfish Boil": 2,
+    "Liked Music": 5
    },
    "score": 12.5
   },
@@ -4343,23 +4343,6 @@
    "score": 12.4
   },
   {
-   "artist": "The Avett Brothers",
-   "key": "avett brothers",
-   "shows": 13,
-   "shows_12mo": 1,
-   "ytm_plays": 7,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2016-02-16",
-   "last_spin": "2026-04-30",
-   "playlist_score": 2.38,
-   "playlists": {
-    "All-Time Favorites": 2,
-    "Crawfish Boil": 2
-   },
-   "score": 12.4
-  },
-  {
    "artist": "the American Analog Set",
    "key": "american analog set",
    "shows": 10,
@@ -4373,6 +4356,23 @@
    "playlists": {
     "All-Time Favorites": 4,
     "Crawfish Boil": 4
+   },
+   "score": 12.4
+  },
+  {
+   "artist": "The Avett Brothers",
+   "key": "avett brothers",
+   "shows": 13,
+   "shows_12mo": 1,
+   "ytm_plays": 7,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2016-02-16",
+   "last_spin": "2026-04-30",
+   "playlist_score": 2.38,
+   "playlists": {
+    "All-Time Favorites": 2,
+    "Crawfish Boil": 2
    },
    "score": 12.4
   },
@@ -4446,20 +4446,6 @@
    "score": 12.0
   },
   {
-   "artist": "Snapped Ankles",
-   "key": "snapped ankles",
-   "shows": 17,
-   "shows_12mo": 0,
-   "ytm_plays": 2,
-   "ytm_plays_90d": 0,
-   "reviews": 1,
-   "first_spin": "2019-05-15",
-   "last_spin": "2020-01-08",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 11.9
-  },
-  {
    "artist": "Pink Floyd",
    "key": "pink floyd",
    "shows": 6,
@@ -4478,22 +4464,18 @@
    "score": 11.9
   },
   {
-   "artist": "Depeche Mode",
-   "key": "depeche mode",
-   "shows": 6,
-   "shows_12mo": 1,
-   "ytm_plays": 234,
-   "ytm_plays_90d": 9,
-   "reviews": 0,
-   "first_spin": "2016-09-29",
-   "last_spin": "2026-01-15",
-   "playlist_score": 3.5,
-   "playlists": {
-    "All-Time Favorites": 1,
-    "Crawfish Boil": 1,
-    "Liked Music": 1
-   },
-   "score": 11.8
+   "artist": "Snapped Ankles",
+   "key": "snapped ankles",
+   "shows": 17,
+   "shows_12mo": 0,
+   "ytm_plays": 2,
+   "ytm_plays_90d": 0,
+   "reviews": 1,
+   "first_spin": "2019-05-15",
+   "last_spin": "2020-01-08",
+   "playlist_score": 0.0,
+   "playlists": {},
+   "score": 11.9
   },
   {
    "artist": "Songs: Ohia",
@@ -4528,6 +4510,24 @@
     "All-Time Favorites": 14,
     "Covers": 1,
     "Crawfish Boil": 14,
+    "Liked Music": 1
+   },
+   "score": 11.8
+  },
+  {
+   "artist": "Depeche Mode",
+   "key": "depeche mode",
+   "shows": 6,
+   "shows_12mo": 1,
+   "ytm_plays": 234,
+   "ytm_plays_90d": 9,
+   "reviews": 0,
+   "first_spin": "2016-09-29",
+   "last_spin": "2026-01-15",
+   "playlist_score": 3.5,
+   "playlists": {
+    "All-Time Favorites": 1,
+    "Crawfish Boil": 1,
     "Liked Music": 1
    },
    "score": 11.8
@@ -4623,22 +4623,6 @@
    "score": 11.6
   },
   {
-   "artist": "The Heavy",
-   "key": "heavy",
-   "shows": 9,
-   "shows_12mo": 0,
-   "ytm_plays": 6,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2016-05-31",
-   "last_spin": "2018-02-21",
-   "playlist_score": 6.0,
-   "playlists": {
-    "Liked Music": 7
-   },
-   "score": 11.6
-  },
-  {
    "artist": "Olive Jones",
    "key": "olive jones",
    "shows": 1,
@@ -4656,22 +4640,20 @@
    "score": 11.6
   },
   {
-   "artist": "Deap Vally",
-   "key": "deap vally",
-   "shows": 7,
+   "artist": "The Heavy",
+   "key": "heavy",
+   "shows": 9,
    "shows_12mo": 0,
-   "ytm_plays": 0,
+   "ytm_plays": 6,
    "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": "2016-02-23",
-   "last_spin": "2018-07-25",
-   "playlist_score": 9.34,
+   "first_spin": "2016-05-31",
+   "last_spin": "2018-02-21",
+   "playlist_score": 6.0,
    "playlists": {
-    "All-Time Favorites": 3,
-    "Crawfish Boil": 3,
-    "Liked Music": 8
+    "Liked Music": 7
    },
-   "score": 11.5
+   "score": 11.6
   },
   {
    "artist": "Thee Shams",
@@ -4692,12 +4674,30 @@
    "score": 11.5
   },
   {
+   "artist": "Deap Vally",
+   "key": "deap vally",
+   "shows": 7,
+   "shows_12mo": 0,
+   "ytm_plays": 0,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2016-02-23",
+   "last_spin": "2018-07-25",
+   "playlist_score": 9.34,
+   "playlists": {
+    "All-Time Favorites": 3,
+    "Crawfish Boil": 3,
+    "Liked Music": 8
+   },
+   "score": 11.5
+  },
+  {
    "artist": "The Rolling Stones",
    "key": "rolling stones",
    "shows": 1,
    "shows_12mo": 0,
    "ytm_plays": 129,
-   "ytm_plays_90d": 4,
+   "ytm_plays_90d": 10,
    "reviews": 0,
    "first_spin": "2016-06-21",
    "last_spin": "2016-06-21",
@@ -4709,6 +4709,24 @@
     "Liked Music": 5
    },
    "score": 11.5
+  },
+  {
+   "artist": "Weezer",
+   "key": "weezer",
+   "shows": 3,
+   "shows_12mo": 0,
+   "ytm_plays": 17,
+   "ytm_plays_90d": 2,
+   "reviews": 0,
+   "first_spin": "2016-04-26",
+   "last_spin": "2017-03-22",
+   "playlist_score": 9.37,
+   "playlists": {
+    "All-Time Favorites": 51,
+    "Crawfish Boil": 1,
+    "Liked Music": 2
+   },
+   "score": 11.4
   },
   {
    "artist": "Widowspeak",
@@ -4733,13 +4751,30 @@
    "shows": 7,
    "shows_12mo": 1,
    "ytm_plays": 91,
-   "ytm_plays_90d": 20,
+   "ytm_plays_90d": 21,
    "reviews": 0,
    "first_spin": "2016-06-21",
    "last_spin": "2026-01-29",
    "playlist_score": 3.17,
    "playlists": {
     "Liked Music": 2
+   },
+   "score": 11.4
+  },
+  {
+   "artist": "Latin Playboys",
+   "key": "latin playboys",
+   "shows": 6,
+   "shows_12mo": 0,
+   "ytm_plays": 132,
+   "ytm_plays_90d": 6,
+   "reviews": 0,
+   "first_spin": "2016-03-08",
+   "last_spin": "2017-11-22",
+   "playlist_score": 5.09,
+   "playlists": {
+    "All-Time Favorites": 16,
+    "Crawfish Boil": 3
    },
    "score": 11.4
   },
@@ -4781,59 +4816,6 @@
    "score": 11.4
   },
   {
-   "artist": "Weezer",
-   "key": "weezer",
-   "shows": 3,
-   "shows_12mo": 0,
-   "ytm_plays": 17,
-   "ytm_plays_90d": 2,
-   "reviews": 0,
-   "first_spin": "2016-04-26",
-   "last_spin": "2017-03-22",
-   "playlist_score": 9.37,
-   "playlists": {
-    "All-Time Favorites": 51,
-    "Crawfish Boil": 1,
-    "Liked Music": 2
-   },
-   "score": 11.4
-  },
-  {
-   "artist": "Latin Playboys",
-   "key": "latin playboys",
-   "shows": 6,
-   "shows_12mo": 0,
-   "ytm_plays": 132,
-   "ytm_plays_90d": 6,
-   "reviews": 0,
-   "first_spin": "2016-03-08",
-   "last_spin": "2017-11-22",
-   "playlist_score": 5.09,
-   "playlists": {
-    "All-Time Favorites": 16,
-    "Crawfish Boil": 3
-   },
-   "score": 11.4
-  },
-  {
-   "artist": "The Avalanches",
-   "key": "avalanches",
-   "shows": 5,
-   "shows_12mo": 2,
-   "ytm_plays": 21,
-   "ytm_plays_90d": 1,
-   "reviews": 0,
-   "first_spin": "2016-08-31",
-   "last_spin": "2026-09-10",
-   "playlist_score": 4.5,
-   "playlists": {
-    "All-Time Favorites": 1,
-    "Crawfish Boil": 1,
-    "DJ Stace - Next Show": 1
-   },
-   "score": 11.3
-  },
-  {
    "artist": "Jesse Welles",
    "key": "jesse welles",
    "shows": 5,
@@ -4845,24 +4827,6 @@
    "last_spin": "2026-09-03",
    "playlist_score": 0.0,
    "playlists": {},
-   "score": 11.3
-  },
-  {
-   "artist": "Sin Ropas",
-   "key": "sin ropas",
-   "shows": 8,
-   "shows_12mo": 2,
-   "ytm_plays": 5,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2016-07-06",
-   "last_spin": "2026-07-30",
-   "playlist_score": 3.5,
-   "playlists": {
-    "All-Time Favorites": 1,
-    "Crawfish Boil": 1,
-    "Liked Music": 1
-   },
    "score": 11.3
   },
   {
@@ -4885,32 +4849,40 @@
    "score": 11.3
   },
   {
-   "artist": "Dead Heavens",
-   "key": "dead heavens",
-   "shows": 19,
-   "shows_12mo": 0,
-   "ytm_plays": 0,
+   "artist": "Sin Ropas",
+   "key": "sin ropas",
+   "shows": 8,
+   "shows_12mo": 2,
+   "ytm_plays": 5,
    "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": "2017-07-26",
-   "last_spin": "2018-06-13",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 11.2
+   "first_spin": "2016-07-06",
+   "last_spin": "2026-07-30",
+   "playlist_score": 3.5,
+   "playlists": {
+    "All-Time Favorites": 1,
+    "Crawfish Boil": 1,
+    "Liked Music": 1
+   },
+   "score": 11.3
   },
   {
-   "artist": "R. Ring",
-   "key": "r ring",
-   "shows": 19,
-   "shows_12mo": 0,
-   "ytm_plays": 0,
-   "ytm_plays_90d": 0,
+   "artist": "The Avalanches",
+   "key": "avalanches",
+   "shows": 5,
+   "shows_12mo": 2,
+   "ytm_plays": 21,
+   "ytm_plays_90d": 1,
    "reviews": 0,
-   "first_spin": "2017-06-21",
-   "last_spin": "2019-02-27",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 11.2
+   "first_spin": "2016-08-31",
+   "last_spin": "2026-09-10",
+   "playlist_score": 4.5,
+   "playlists": {
+    "All-Time Favorites": 1,
+    "Crawfish Boil": 1,
+    "DJ Stace - Next Show": 1
+   },
+   "score": 11.3
   },
   {
    "artist": "Siouxsie & The Banshees",
@@ -4928,6 +4900,34 @@
     "All-Time Favorites": 2,
     "Crawfish Boil": 2
    },
+   "score": 11.2
+  },
+  {
+   "artist": "R. Ring",
+   "key": "r ring",
+   "shows": 19,
+   "shows_12mo": 0,
+   "ytm_plays": 0,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2017-06-21",
+   "last_spin": "2019-02-27",
+   "playlist_score": 0.0,
+   "playlists": {},
+   "score": 11.2
+  },
+  {
+   "artist": "Dead Heavens",
+   "key": "dead heavens",
+   "shows": 19,
+   "shows_12mo": 0,
+   "ytm_plays": 0,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2017-07-26",
+   "last_spin": "2018-06-13",
+   "playlist_score": 0.0,
+   "playlists": {},
    "score": 11.2
   },
   {
@@ -4967,42 +4967,6 @@
    "score": 11.1
   },
   {
-   "artist": "Smog",
-   "key": "smog",
-   "shows": 7,
-   "shows_12mo": 2,
-   "ytm_plays": 8,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2019-01-23",
-   "last_spin": "2026-03-19",
-   "playlist_score": 3.5,
-   "playlists": {
-    "All-Time Favorites": 1,
-    "Crawfish Boil": 1,
-    "Liked Music": 1
-   },
-   "score": 11.0
-  },
-  {
-   "artist": "Lord Huron",
-   "key": "lord huron",
-   "shows": 7,
-   "shows_12mo": 0,
-   "ytm_plays": 185,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2019-02-27",
-   "last_spin": "2019-10-09",
-   "playlist_score": 3.5,
-   "playlists": {
-    "All-Time Favorites": 1,
-    "Crawfish Boil": 1,
-    "Liked Music": 1
-   },
-   "score": 11.0
-  },
-  {
    "artist": "Lucius",
    "key": "lucius",
    "shows": 5,
@@ -5040,6 +5004,42 @@
    "score": 11.0
   },
   {
+   "artist": "Lord Huron",
+   "key": "lord huron",
+   "shows": 7,
+   "shows_12mo": 0,
+   "ytm_plays": 185,
+   "ytm_plays_90d": 1,
+   "reviews": 0,
+   "first_spin": "2019-02-27",
+   "last_spin": "2019-10-09",
+   "playlist_score": 3.5,
+   "playlists": {
+    "All-Time Favorites": 1,
+    "Crawfish Boil": 1,
+    "Liked Music": 1
+   },
+   "score": 11.0
+  },
+  {
+   "artist": "Smog",
+   "key": "smog",
+   "shows": 7,
+   "shows_12mo": 2,
+   "ytm_plays": 8,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2019-01-23",
+   "last_spin": "2026-03-19",
+   "playlist_score": 3.5,
+   "playlists": {
+    "All-Time Favorites": 1,
+    "Crawfish Boil": 1,
+    "Liked Music": 1
+   },
+   "score": 11.0
+  },
+  {
    "artist": "Babe Rainbow",
    "key": "babe rainbow",
    "shows": 2,
@@ -5055,24 +5055,6 @@
     "Liked Music": 3
    },
    "score": 11.0
-  },
-  {
-   "artist": "Wu-Tang Clan",
-   "key": "wu tang clan",
-   "shows": 1,
-   "shows_12mo": 0,
-   "ytm_plays": 50,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2020-08-05",
-   "last_spin": "2020-08-05",
-   "playlist_score": 9.14,
-   "playlists": {
-    "All-Time Favorites": 15,
-    "Crawfish Boil": 1,
-    "Liked Music": 4
-   },
-   "score": 10.9
   },
   {
    "artist": "The Stooges",
@@ -5098,7 +5080,7 @@
    "shows": 0,
    "shows_12mo": 0,
    "ytm_plays": 134,
-   "ytm_plays_90d": 2,
+   "ytm_plays_90d": 14,
    "reviews": 0,
    "first_spin": null,
    "last_spin": null,
@@ -5111,20 +5093,22 @@
    "score": 10.9
   },
   {
-   "artist": "Mark Lanegan",
-   "key": "mark lanegan",
-   "shows": 2,
-   "shows_12mo": 1,
-   "ytm_plays": 113,
-   "ytm_plays_90d": 1,
+   "artist": "Wu-Tang Clan",
+   "key": "wu tang clan",
+   "shows": 1,
+   "shows_12mo": 0,
+   "ytm_plays": 50,
+   "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": "2024-06-19",
-   "last_spin": "2026-04-30",
-   "playlist_score": 6.0,
+   "first_spin": "2020-08-05",
+   "last_spin": "2020-08-05",
+   "playlist_score": 9.14,
    "playlists": {
-    "Liked Music": 7
+    "All-Time Favorites": 15,
+    "Crawfish Boil": 1,
+    "Liked Music": 4
    },
-   "score": 10.8
+   "score": 10.9
   },
   {
    "artist": "Daniel Johnston",
@@ -5145,20 +5129,36 @@
    "score": 10.8
   },
   {
-   "artist": "Palace",
-   "key": "palace",
-   "shows": 1,
+   "artist": "Mark Lanegan",
+   "key": "mark lanegan",
+   "shows": 2,
    "shows_12mo": 1,
-   "ytm_plays": 33,
-   "ytm_plays_90d": 11,
+   "ytm_plays": 113,
+   "ytm_plays_90d": 2,
    "reviews": 0,
-   "first_spin": "2026-09-24",
-   "last_spin": "2026-09-24",
-   "playlist_score": 7.75,
+   "first_spin": "2024-06-19",
+   "last_spin": "2026-04-30",
+   "playlist_score": 6.0,
+   "playlists": {
+    "Liked Music": 7
+   },
+   "score": 10.8
+  },
+  {
+   "artist": "Angelica Garcia",
+   "key": "angelica garcia",
+   "shows": 3,
+   "shows_12mo": 0,
+   "ytm_plays": 20,
+   "ytm_plays_90d": 0,
+   "reviews": 1,
+   "first_spin": "2020-07-22",
+   "last_spin": "2020-08-05",
+   "playlist_score": 7.04,
    "playlists": {
     "All-Time Favorites": 1,
-    "Liked Music": 1,
-    "DJ Stace - Next Show": 2
+    "Crawfish Boil": 16,
+    "Liked Music": 3
    },
    "score": 10.7
   },
@@ -5181,20 +5181,20 @@
    "score": 10.7
   },
   {
-   "artist": "Angelica Garcia",
-   "key": "angelica garcia",
-   "shows": 3,
-   "shows_12mo": 0,
-   "ytm_plays": 20,
-   "ytm_plays_90d": 0,
-   "reviews": 1,
-   "first_spin": "2020-07-22",
-   "last_spin": "2020-08-05",
-   "playlist_score": 7.04,
+   "artist": "Palace",
+   "key": "palace",
+   "shows": 1,
+   "shows_12mo": 1,
+   "ytm_plays": 33,
+   "ytm_plays_90d": 11,
+   "reviews": 0,
+   "first_spin": "2026-09-24",
+   "last_spin": "2026-09-24",
+   "playlist_score": 7.75,
    "playlists": {
     "All-Time Favorites": 1,
-    "Crawfish Boil": 16,
-    "Liked Music": 3
+    "Liked Music": 1,
+    "DJ Stace - Next Show": 2
    },
    "score": 10.7
   },
@@ -5249,6 +5249,25 @@
    "score": 10.5
   },
   {
+   "artist": "Bon Iver",
+   "key": "bon iver",
+   "shows": 5,
+   "shows_12mo": 0,
+   "ytm_plays": 131,
+   "ytm_plays_90d": 1,
+   "reviews": 0,
+   "first_spin": "2017-01-25",
+   "last_spin": "2024-05-01",
+   "playlist_score": 4.5,
+   "playlists": {
+    "Night mix": 1,
+    "All-Time Favorites": 1,
+    "Crawfish Boil": 1,
+    "Liked Music": 1
+   },
+   "score": 10.4
+  },
+  {
    "artist": "Van Morrison",
    "key": "van morrison",
    "shows": 1,
@@ -5283,25 +5302,6 @@
    "score": 10.4
   },
   {
-   "artist": "Bon Iver",
-   "key": "bon iver",
-   "shows": 5,
-   "shows_12mo": 0,
-   "ytm_plays": 131,
-   "ytm_plays_90d": 1,
-   "reviews": 0,
-   "first_spin": "2017-01-25",
-   "last_spin": "2024-05-01",
-   "playlist_score": 4.5,
-   "playlists": {
-    "Night mix": 1,
-    "All-Time Favorites": 1,
-    "Crawfish Boil": 1,
-    "Liked Music": 1
-   },
-   "score": 10.4
-  },
-  {
    "artist": "Jon Spencer BLues Explosion",
    "key": "jon spencer blues explosion",
    "shows": 1,
@@ -5316,6 +5316,23 @@
     "All-Time Favorites": 9,
     "Crawfish Boil": 29,
     "Liked Music": 5
+   },
+   "score": 10.3
+  },
+  {
+   "artist": "Alex G",
+   "key": "alex g",
+   "shows": 8,
+   "shows_12mo": 0,
+   "ytm_plays": 111,
+   "ytm_plays_90d": 3,
+   "reviews": 0,
+   "first_spin": "2018-01-17",
+   "last_spin": "2022-11-10",
+   "playlist_score": 2.38,
+   "playlists": {
+    "All-Time Favorites": 2,
+    "Crawfish Boil": 2
    },
    "score": 10.3
   },
@@ -5337,21 +5354,22 @@
    "score": 10.3
   },
   {
-   "artist": "Alex G",
-   "key": "alex g",
-   "shows": 8,
+   "artist": "Arctic Monkeys",
+   "key": "arctic monkeys",
+   "shows": 4,
    "shows_12mo": 0,
-   "ytm_plays": 111,
+   "ytm_plays": 33,
    "ytm_plays_90d": 3,
    "reviews": 0,
-   "first_spin": "2018-01-17",
-   "last_spin": "2022-11-10",
-   "playlist_score": 2.38,
+   "first_spin": "2016-08-04",
+   "last_spin": "2018-09-05",
+   "playlist_score": 6.38,
    "playlists": {
     "All-Time Favorites": 2,
-    "Crawfish Boil": 2
+    "Crawfish Boil": 2,
+    "Liked Music": 3
    },
-   "score": 10.3
+   "score": 10.2
   },
   {
    "artist": "Rage Against the Machine",
@@ -5390,38 +5408,20 @@
    "score": 10.2
   },
   {
-   "artist": "Arctic Monkeys",
-   "key": "arctic monkeys",
-   "shows": 4,
-   "shows_12mo": 0,
-   "ytm_plays": 33,
-   "ytm_plays_90d": 3,
-   "reviews": 0,
-   "first_spin": "2016-08-04",
-   "last_spin": "2018-09-05",
-   "playlist_score": 6.38,
-   "playlists": {
-    "All-Time Favorites": 2,
-    "Crawfish Boil": 2,
-    "Liked Music": 3
-   },
-   "score": 10.2
-  },
-  {
-   "artist": "Sly & the Family Stone",
-   "key": "sly and the family stone",
-   "shows": 1,
-   "shows_12mo": 0,
-   "ytm_plays": 261,
+   "artist": "Dry Cleaning",
+   "key": "dry cleaning",
+   "shows": 2,
+   "shows_12mo": 2,
+   "ytm_plays": 118,
    "ytm_plays_90d": 1,
    "reviews": 0,
-   "first_spin": "2016-08-31",
-   "last_spin": "2016-08-31",
-   "playlist_score": 6.5,
+   "first_spin": "2026-01-15",
+   "last_spin": "2026-02-26",
+   "playlist_score": 3.5,
    "playlists": {
-    "All-Time Favorites": 3,
+    "All-Time Favorites": 1,
     "Crawfish Boil": 1,
-    "Liked Music": 3
+    "Liked Music": 1
    },
    "score": 10.1
   },
@@ -5445,20 +5445,20 @@
    "score": 10.1
   },
   {
-   "artist": "Dry Cleaning",
-   "key": "dry cleaning",
-   "shows": 2,
-   "shows_12mo": 2,
-   "ytm_plays": 118,
+   "artist": "Sly & the Family Stone",
+   "key": "sly and the family stone",
+   "shows": 1,
+   "shows_12mo": 0,
+   "ytm_plays": 261,
    "ytm_plays_90d": 1,
    "reviews": 0,
-   "first_spin": "2026-01-15",
-   "last_spin": "2026-02-26",
-   "playlist_score": 3.5,
+   "first_spin": "2016-08-31",
+   "last_spin": "2016-08-31",
+   "playlist_score": 6.5,
    "playlists": {
-    "All-Time Favorites": 1,
+    "All-Time Favorites": 3,
     "Crawfish Boil": 1,
-    "Liked Music": 1
+    "Liked Music": 3
    },
    "score": 10.1
   },
@@ -5511,6 +5511,41 @@
    "score": 10.0
   },
   {
+   "artist": "Neutral Milk Hotel",
+   "key": "neutral milk hotel",
+   "shows": 5,
+   "shows_12mo": 1,
+   "ytm_plays": 77,
+   "ytm_plays_90d": 1,
+   "reviews": 0,
+   "first_spin": "2016-09-08",
+   "last_spin": "2026-05-28",
+   "playlist_score": 3.0,
+   "playlists": {
+    "All-Time Favorites": 3,
+    "Crawfish Boil": 3
+   },
+   "score": 9.9
+  },
+  {
+   "artist": "Talk Talk",
+   "key": "talk talk",
+   "shows": 3,
+   "shows_12mo": 2,
+   "ytm_plays": 43,
+   "ytm_plays_90d": 3,
+   "reviews": 0,
+   "first_spin": "2017-08-02",
+   "last_spin": "2026-08-20",
+   "playlist_score": 3.5,
+   "playlists": {
+    "All-Time Favorites": 1,
+    "Crawfish Boil": 1,
+    "Liked Music": 1
+   },
+   "score": 9.9
+  },
+  {
    "artist": "13th Floor Elevators",
    "key": "13th floor elevators",
    "shows": 12,
@@ -5548,39 +5583,20 @@
    "score": 9.9
   },
   {
-   "artist": "Neutral Milk Hotel",
-   "key": "neutral milk hotel",
-   "shows": 5,
-   "shows_12mo": 1,
-   "ytm_plays": 77,
-   "ytm_plays_90d": 1,
+   "artist": "Real Estate",
+   "key": "real estate",
+   "shows": 8,
+   "shows_12mo": 0,
+   "ytm_plays": 131,
+   "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": "2016-09-08",
-   "last_spin": "2026-05-28",
-   "playlist_score": 3.0,
+   "first_spin": "2017-03-29",
+   "last_spin": "2024-05-15",
+   "playlist_score": 1.58,
    "playlists": {
-    "All-Time Favorites": 3,
-    "Crawfish Boil": 3
+    "All-Time Favorites": 2
    },
-   "score": 9.9
-  },
-  {
-   "artist": "Talk Talk",
-   "key": "talk talk",
-   "shows": 3,
-   "shows_12mo": 2,
-   "ytm_plays": 43,
-   "ytm_plays_90d": 3,
-   "reviews": 0,
-   "first_spin": "2017-08-02",
-   "last_spin": "2026-08-20",
-   "playlist_score": 3.5,
-   "playlists": {
-    "All-Time Favorites": 1,
-    "Crawfish Boil": 1,
-    "Liked Music": 1
-   },
-   "score": 9.9
+   "score": 9.8
   },
   {
    "artist": "Jimmy Buffett",
@@ -5597,22 +5613,6 @@
     "All-Time Favorites": 13,
     "Crawfish Boil": 2,
     "Liked Music": 1
-   },
-   "score": 9.8
-  },
-  {
-   "artist": "Real Estate",
-   "key": "real estate",
-   "shows": 8,
-   "shows_12mo": 0,
-   "ytm_plays": 131,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2017-03-29",
-   "last_spin": "2024-05-15",
-   "playlist_score": 1.58,
-   "playlists": {
-    "All-Time Favorites": 2
    },
    "score": 9.8
   },
@@ -5634,6 +5634,65 @@
    "score": 9.7
   },
   {
+   "artist": "Westside Cowboy",
+   "key": "westside cowboy",
+   "shows": 2,
+   "shows_12mo": 2,
+   "ytm_plays": 13,
+   "ytm_plays_90d": 5,
+   "reviews": 0,
+   "first_spin": "2026-06-25",
+   "last_spin": "2026-07-02",
+   "playlist_score": 5.0,
+   "playlists": {
+    "Liked Music": 1,
+    "DJ Stace - Next Show": 1
+   },
+   "score": 9.6
+  },
+  {
+   "artist": "Frankie Cosmos",
+   "key": "frankie cosmos",
+   "shows": 9,
+   "shows_12mo": 1,
+   "ytm_plays": 53,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2018-04-04",
+   "last_spin": "2026-06-25",
+   "playlist_score": 0.0,
+   "playlists": {},
+   "score": 9.6
+  },
+  {
+   "artist": "Pretenders",
+   "key": "pretenders",
+   "shows": 13,
+   "shows_12mo": 0,
+   "ytm_plays": 11,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2016-02-23",
+   "last_spin": "2017-11-08",
+   "playlist_score": 0.0,
+   "playlists": {},
+   "score": 9.6
+  },
+  {
+   "artist": "The Hives",
+   "key": "hives",
+   "shows": 11,
+   "shows_12mo": 0,
+   "ytm_plays": 53,
+   "ytm_plays_90d": 1,
+   "reviews": 0,
+   "first_spin": "2016-03-08",
+   "last_spin": "2022-11-17",
+   "playlist_score": 0.0,
+   "playlists": {},
+   "score": 9.6
+  },
+  {
    "artist": "The Velvet Underground",
    "key": "velvet underground",
    "shows": 4,
@@ -5649,37 +5708,6 @@
     "Crawfish Boil": 1,
     "Liked Music": 1
    },
-   "score": 9.6
-  },
-  {
-   "artist": "Still Corners",
-   "key": "still corners",
-   "shows": 4,
-   "shows_12mo": 0,
-   "ytm_plays": 146,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2024-04-10",
-   "last_spin": "2024-05-22",
-   "playlist_score": 4.17,
-   "playlists": {
-    "All-Time Favorites": 1,
-    "Liked Music": 2
-   },
-   "score": 9.6
-  },
-  {
-   "artist": "The Hives",
-   "key": "hives",
-   "shows": 11,
-   "shows_12mo": 0,
-   "ytm_plays": 53,
-   "ytm_plays_90d": 1,
-   "reviews": 0,
-   "first_spin": "2016-03-08",
-   "last_spin": "2022-11-17",
-   "playlist_score": 0.0,
-   "playlists": {},
    "score": 9.6
   },
   {
@@ -5718,66 +5746,21 @@
    "score": 9.6
   },
   {
-   "artist": "Pretenders",
-   "key": "pretenders",
-   "shows": 13,
+   "artist": "Still Corners",
+   "key": "still corners",
+   "shows": 4,
    "shows_12mo": 0,
-   "ytm_plays": 11,
+   "ytm_plays": 146,
    "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": "2016-02-23",
-   "last_spin": "2017-11-08",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 9.6
-  },
-  {
-   "artist": "Westside Cowboy",
-   "key": "westside cowboy",
-   "shows": 2,
-   "shows_12mo": 2,
-   "ytm_plays": 13,
-   "ytm_plays_90d": 4,
-   "reviews": 0,
-   "first_spin": "2026-06-25",
-   "last_spin": "2026-07-02",
-   "playlist_score": 5.0,
+   "first_spin": "2024-04-10",
+   "last_spin": "2024-05-22",
+   "playlist_score": 4.17,
    "playlists": {
-    "Liked Music": 1,
-    "DJ Stace - Next Show": 1
+    "All-Time Favorites": 1,
+    "Liked Music": 2
    },
    "score": 9.6
-  },
-  {
-   "artist": "Frankie Cosmos",
-   "key": "frankie cosmos",
-   "shows": 9,
-   "shows_12mo": 1,
-   "ytm_plays": 53,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2018-04-04",
-   "last_spin": "2026-06-25",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 9.6
-  },
-  {
-   "artist": "Ween",
-   "key": "ween",
-   "shows": 6,
-   "shows_12mo": 0,
-   "ytm_plays": 55,
-   "ytm_plays_90d": 3,
-   "reviews": 0,
-   "first_spin": "2016-03-08",
-   "last_spin": "2017-09-20",
-   "playlist_score": 3.5,
-   "playlists": {
-    "Liked Music": 1,
-    "FCC Edit Needed": 1
-   },
-   "score": 9.5
   },
   {
    "artist": "Lo Tom",
@@ -5809,6 +5792,42 @@
     "Crawfish Boil": 4
    },
    "score": 9.5
+  },
+  {
+   "artist": "Ween",
+   "key": "ween",
+   "shows": 6,
+   "shows_12mo": 0,
+   "ytm_plays": 55,
+   "ytm_plays_90d": 3,
+   "reviews": 0,
+   "first_spin": "2016-03-08",
+   "last_spin": "2017-09-20",
+   "playlist_score": 3.5,
+   "playlists": {
+    "Liked Music": 1,
+    "FCC Edit Needed": 1
+   },
+   "score": 9.5
+  },
+  {
+   "artist": "Eddie Vedder",
+   "key": "eddie vedder",
+   "shows": 1,
+   "shows_12mo": 1,
+   "ytm_plays": 62,
+   "ytm_plays_90d": 7,
+   "reviews": 0,
+   "first_spin": "2026-01-22",
+   "last_spin": "2026-01-22",
+   "playlist_score": 5.47,
+   "playlists": {
+    "All-Time Favorites": 2,
+    "Covers": 2,
+    "Karaoke": 1,
+    "Liked Music": 1
+   },
+   "score": 9.4
   },
   {
    "artist": "Fugazi",
@@ -5862,25 +5881,6 @@
    "score": 9.4
   },
   {
-   "artist": "Eddie Vedder",
-   "key": "eddie vedder",
-   "shows": 1,
-   "shows_12mo": 1,
-   "ytm_plays": 62,
-   "ytm_plays_90d": 7,
-   "reviews": 0,
-   "first_spin": "2026-01-22",
-   "last_spin": "2026-01-22",
-   "playlist_score": 5.47,
-   "playlists": {
-    "All-Time Favorites": 2,
-    "Covers": 2,
-    "Karaoke": 1,
-    "Liked Music": 1
-   },
-   "score": 9.4
-  },
-  {
    "artist": "Future Islands",
    "key": "future islands",
    "shows": 2,
@@ -5909,24 +5909,6 @@
    "last_spin": "2019-05-29",
    "playlist_score": 0.0,
    "playlists": {},
-   "score": 9.3
-  },
-  {
-   "artist": "Okkervil River",
-   "key": "okkervil river",
-   "shows": 9,
-   "shows_12mo": 0,
-   "ytm_plays": 1,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2016-09-08",
-   "last_spin": "2018-10-03",
-   "playlist_score": 4.38,
-   "playlists": {
-    "All-Time Favorites": 2,
-    "Crawfish Boil": 2,
-    "Liked Music": 1
-   },
    "score": 9.3
   },
   {
@@ -5999,6 +5981,42 @@
    "score": 9.3
   },
   {
+   "artist": "Okkervil River",
+   "key": "okkervil river",
+   "shows": 9,
+   "shows_12mo": 0,
+   "ytm_plays": 1,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2016-09-08",
+   "last_spin": "2018-10-03",
+   "playlist_score": 4.38,
+   "playlists": {
+    "All-Time Favorites": 2,
+    "Crawfish Boil": 2,
+    "Liked Music": 1
+   },
+   "score": 9.3
+  },
+  {
+   "artist": "Ac/Dc",
+   "key": "ac dc",
+   "shows": 2,
+   "shows_12mo": 0,
+   "ytm_plays": 104,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2016-08-24",
+   "last_spin": "2024-05-15",
+   "playlist_score": 5.55,
+   "playlists": {
+    "All-Time Favorites": 2,
+    "Crawfish Boil": 2,
+    "Liked Music": 2
+   },
+   "score": 9.2
+  },
+  {
    "artist": "Tones on Tail",
    "key": "tones on tail",
    "shows": 5,
@@ -6032,24 +6050,6 @@
     "Crawfish Boil": 2,
     "Liked Music": 2,
     "DJ Stace - Next Show": 1
-   },
-   "score": 9.2
-  },
-  {
-   "artist": "Ac/Dc",
-   "key": "ac dc",
-   "shows": 2,
-   "shows_12mo": 0,
-   "ytm_plays": 104,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2016-08-24",
-   "last_spin": "2024-05-15",
-   "playlist_score": 5.55,
-   "playlists": {
-    "All-Time Favorites": 2,
-    "Crawfish Boil": 2,
-    "Liked Music": 2
    },
    "score": 9.2
   },
@@ -6122,6 +6122,20 @@
    "score": 9.0
   },
   {
+   "artist": "Karen O & Danger Mouse",
+   "key": "karen o and danger mouse",
+   "shows": 15,
+   "shows_12mo": 0,
+   "ytm_plays": 0,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2019-05-22",
+   "last_spin": "2020-01-08",
+   "playlist_score": 0.0,
+   "playlists": {},
+   "score": 8.9
+  },
+  {
    "artist": "Novablood",
    "key": "novablood",
    "shows": 4,
@@ -6131,6 +6145,20 @@
    "reviews": 0,
    "first_spin": "2026-05-21",
    "last_spin": "2026-07-02",
+   "playlist_score": 0.0,
+   "playlists": {},
+   "score": 8.9
+  },
+  {
+   "artist": "Can",
+   "key": "can",
+   "shows": 9,
+   "shows_12mo": 1,
+   "ytm_plays": 21,
+   "ytm_plays_90d": 1,
+   "reviews": 0,
+   "first_spin": "2019-05-15",
+   "last_spin": "2026-03-05",
    "playlist_score": 0.0,
    "playlists": {},
    "score": 8.9
@@ -6172,20 +6200,6 @@
    "score": 8.9
   },
   {
-   "artist": "Can",
-   "key": "can",
-   "shows": 9,
-   "shows_12mo": 1,
-   "ytm_plays": 21,
-   "ytm_plays_90d": 1,
-   "reviews": 0,
-   "first_spin": "2019-05-15",
-   "last_spin": "2026-03-05",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 8.9
-  },
-  {
    "artist": "Jeff Tweedy",
    "key": "jeff tweedy",
    "shows": 10,
@@ -6200,86 +6214,18 @@
    "score": 8.9
   },
   {
-   "artist": "Karen O & Danger Mouse",
-   "key": "karen o and danger mouse",
-   "shows": 15,
+   "artist": "Damien Jurado",
+   "key": "damien jurado",
+   "shows": 7,
    "shows_12mo": 0,
-   "ytm_plays": 0,
+   "ytm_plays": 10,
    "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": "2019-05-22",
-   "last_spin": "2020-01-08",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 8.9
-  },
-  {
-   "artist": "Kendrick Lamar",
-   "key": "kendrick lamar",
-   "shows": 0,
-   "shows_12mo": 0,
-   "ytm_plays": 66,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": null,
-   "last_spin": null,
-   "playlist_score": 6.91,
-   "playlists": {
-    "All-Time Favorites": 29,
-    "Liked Music": 1
-   },
-   "score": 8.8
-  },
-  {
-   "artist": "The Beach Boys",
-   "key": "beach boys",
-   "shows": 3,
-   "shows_12mo": 0,
-   "ytm_plays": 13,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2016-04-05",
-   "last_spin": "2017-11-08",
-   "playlist_score": 6.29,
-   "playlists": {
-    "Love Songs - DJ Stace Library Show": 1,
-    "All-Time Favorites": 3,
-    "Crawfish Boil": 2,
-    "Liked Music": 1
-   },
-   "score": 8.8
-  },
-  {
-   "artist": "Folly Group",
-   "key": "folly group",
-   "shows": 3,
-   "shows_12mo": 0,
-   "ytm_plays": 51,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2024-01-24",
-   "last_spin": "2024-03-06",
-   "playlist_score": 5.0,
+   "first_spin": "2016-03-22",
+   "last_spin": "2019-10-23",
+   "playlist_score": 3.5,
    "playlists": {
     "All-Time Favorites": 1,
-    "Liked Music": 3
-   },
-   "score": 8.8
-  },
-  {
-   "artist": "Tim Buckley",
-   "key": "tim buckley",
-   "shows": 2,
-   "shows_12mo": 2,
-   "ytm_plays": 17,
-   "ytm_plays_90d": 3,
-   "reviews": 0,
-   "first_spin": "2026-01-22",
-   "last_spin": "2026-05-28",
-   "playlist_score": 3.8,
-   "playlists": {
-    "All-Time Favorites": 1,
-    "Karaoke": 1,
     "Crawfish Boil": 1,
     "Liked Music": 1
    },
@@ -6303,22 +6249,94 @@
    "score": 8.8
   },
   {
-   "artist": "Damien Jurado",
-   "key": "damien jurado",
-   "shows": 7,
+   "artist": "The Beach Boys",
+   "key": "beach boys",
+   "shows": 3,
    "shows_12mo": 0,
-   "ytm_plays": 10,
+   "ytm_plays": 13,
    "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": "2016-03-22",
-   "last_spin": "2019-10-23",
-   "playlist_score": 3.5,
+   "first_spin": "2016-04-05",
+   "last_spin": "2017-11-08",
+   "playlist_score": 6.29,
+   "playlists": {
+    "Love Songs - DJ Stace Library Show": 1,
+    "All-Time Favorites": 3,
+    "Crawfish Boil": 2,
+    "Liked Music": 1
+   },
+   "score": 8.8
+  },
+  {
+   "artist": "Tim Buckley",
+   "key": "tim buckley",
+   "shows": 2,
+   "shows_12mo": 2,
+   "ytm_plays": 17,
+   "ytm_plays_90d": 3,
+   "reviews": 0,
+   "first_spin": "2026-01-22",
+   "last_spin": "2026-05-28",
+   "playlist_score": 3.8,
    "playlists": {
     "All-Time Favorites": 1,
+    "Karaoke": 1,
     "Crawfish Boil": 1,
     "Liked Music": 1
    },
    "score": 8.8
+  },
+  {
+   "artist": "Folly Group",
+   "key": "folly group",
+   "shows": 3,
+   "shows_12mo": 0,
+   "ytm_plays": 51,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2024-01-24",
+   "last_spin": "2024-03-06",
+   "playlist_score": 5.0,
+   "playlists": {
+    "All-Time Favorites": 1,
+    "Liked Music": 3
+   },
+   "score": 8.8
+  },
+  {
+   "artist": "Kendrick Lamar",
+   "key": "kendrick lamar",
+   "shows": 0,
+   "shows_12mo": 0,
+   "ytm_plays": 66,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": null,
+   "last_spin": null,
+   "playlist_score": 6.91,
+   "playlists": {
+    "All-Time Favorites": 29,
+    "Liked Music": 1
+   },
+   "score": 8.8
+  },
+  {
+   "artist": "duster",
+   "key": "duster",
+   "shows": 0,
+   "shows_12mo": 0,
+   "ytm_plays": 59,
+   "ytm_plays_90d": 1,
+   "reviews": 0,
+   "first_spin": null,
+   "last_spin": null,
+   "playlist_score": 7.0,
+   "playlists": {
+    "All-Time Favorites": 15,
+    "Songs 2:00 and less": 1,
+    "Crawfish Boil": 15
+   },
+   "score": 8.7
   },
   {
    "artist": "Lauryn Hill",
@@ -6355,24 +6373,6 @@
    "score": 8.7
   },
   {
-   "artist": "duster",
-   "key": "duster",
-   "shows": 0,
-   "shows_12mo": 0,
-   "ytm_plays": 59,
-   "ytm_plays_90d": 1,
-   "reviews": 0,
-   "first_spin": null,
-   "last_spin": null,
-   "playlist_score": 7.0,
-   "playlists": {
-    "All-Time Favorites": 15,
-    "Songs 2:00 and less": 1,
-    "Crawfish Boil": 15
-   },
-   "score": 8.7
-  },
-  {
    "artist": "Sparklehorse",
    "key": "sparklehorse",
    "shows": 1,
@@ -6393,6 +6393,51 @@
    "score": 8.7
   },
   {
+   "artist": "Warpaint",
+   "key": "warpaint",
+   "shows": 4,
+   "shows_12mo": 0,
+   "ytm_plays": 41,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2016-09-28",
+   "last_spin": "2016-10-26",
+   "playlist_score": 4.17,
+   "playlists": {
+    "All-Time Favorites": 1,
+    "Liked Music": 2
+   },
+   "score": 8.6
+  },
+  {
+   "artist": "Wet Leg",
+   "key": "wet leg",
+   "shows": 7,
+   "shows_12mo": 0,
+   "ytm_plays": 286,
+   "ytm_plays_90d": 35,
+   "reviews": 0,
+   "first_spin": "2022-08-02",
+   "last_spin": "2022-12-22",
+   "playlist_score": 0.0,
+   "playlists": {},
+   "score": 8.6
+  },
+  {
+   "artist": "Earthlings?",
+   "key": "earthlings",
+   "shows": 11,
+   "shows_12mo": 1,
+   "ytm_plays": 2,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2016-01-26",
+   "last_spin": "2026-07-02",
+   "playlist_score": 0.0,
+   "playlists": {},
+   "score": 8.6
+  },
+  {
    "artist": "Jay Som",
    "key": "jay som",
    "shows": 11,
@@ -6402,48 +6447,6 @@
    "reviews": 0,
    "first_spin": "2017-04-05",
    "last_spin": "2020-03-11",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 8.6
-  },
-  {
-   "artist": "The Spores",
-   "key": "spores",
-   "shows": 13,
-   "shows_12mo": 0,
-   "ytm_plays": 2,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2018-03-28",
-   "last_spin": "2024-04-24",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 8.6
-  },
-  {
-   "artist": "Wet Leg",
-   "key": "wet leg",
-   "shows": 7,
-   "shows_12mo": 0,
-   "ytm_plays": 286,
-   "ytm_plays_90d": 33,
-   "reviews": 0,
-   "first_spin": "2022-08-02",
-   "last_spin": "2022-12-22",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 8.6
-  },
-  {
-   "artist": "Flight of the Conchords",
-   "key": "flight of the conchords",
-   "shows": 13,
-   "shows_12mo": 0,
-   "ytm_plays": 2,
-   "ytm_plays_90d": 2,
-   "reviews": 0,
-   "first_spin": "2016-10-12",
-   "last_spin": "2019-01-09",
    "playlist_score": 0.0,
    "playlists": {},
    "score": 8.6
@@ -6463,20 +6466,31 @@
    "score": 8.6
   },
   {
-   "artist": "Warpaint",
-   "key": "warpaint",
-   "shows": 4,
+   "artist": "The Spores",
+   "key": "spores",
+   "shows": 13,
    "shows_12mo": 0,
-   "ytm_plays": 41,
+   "ytm_plays": 2,
    "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": "2016-09-28",
-   "last_spin": "2016-10-26",
-   "playlist_score": 4.17,
-   "playlists": {
-    "All-Time Favorites": 1,
-    "Liked Music": 2
-   },
+   "first_spin": "2018-03-28",
+   "last_spin": "2024-04-24",
+   "playlist_score": 0.0,
+   "playlists": {},
+   "score": 8.6
+  },
+  {
+   "artist": "Flight of the Conchords",
+   "key": "flight of the conchords",
+   "shows": 13,
+   "shows_12mo": 0,
+   "ytm_plays": 2,
+   "ytm_plays_90d": 2,
+   "reviews": 0,
+   "first_spin": "2016-10-12",
+   "last_spin": "2019-01-09",
+   "playlist_score": 0.0,
+   "playlists": {},
    "score": 8.6
   },
   {
@@ -6496,18 +6510,21 @@
    "score": 8.6
   },
   {
-   "artist": "Earthlings?",
-   "key": "earthlings",
-   "shows": 11,
+   "artist": "The The",
+   "key": "the",
+   "shows": 3,
    "shows_12mo": 1,
-   "ytm_plays": 2,
-   "ytm_plays_90d": 0,
+   "ytm_plays": 17,
+   "ytm_plays_90d": 1,
    "reviews": 0,
-   "first_spin": "2016-01-26",
-   "last_spin": "2026-07-02",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 8.6
+   "first_spin": "2016-03-08",
+   "last_spin": "2026-04-16",
+   "playlist_score": 4.17,
+   "playlists": {
+    "All-Time Favorites": 1,
+    "Liked Music": 2
+   },
+   "score": 8.5
   },
   {
    "artist": "Afghan Whigs",
@@ -6597,95 +6614,6 @@
    "score": 8.5
   },
   {
-   "artist": "The The",
-   "key": "the",
-   "shows": 3,
-   "shows_12mo": 1,
-   "ytm_plays": 17,
-   "ytm_plays_90d": 1,
-   "reviews": 0,
-   "first_spin": "2016-03-08",
-   "last_spin": "2026-04-16",
-   "playlist_score": 4.17,
-   "playlists": {
-    "All-Time Favorites": 1,
-    "Liked Music": 2
-   },
-   "score": 8.5
-  },
-  {
-   "artist": "Daisy Chainsaw",
-   "key": "daisy chainsaw",
-   "shows": 6,
-   "shows_12mo": 1,
-   "ytm_plays": 2,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2016-01-26",
-   "last_spin": "2026-04-09",
-   "playlist_score": 3.5,
-   "playlists": {
-    "All-Time Favorites": 1,
-    "Crawfish Boil": 1,
-    "Liked Music": 1
-   },
-   "score": 8.4
-  },
-  {
-   "artist": "Phosphorescent",
-   "key": "phosphorescent",
-   "shows": 5,
-   "shows_12mo": 0,
-   "ytm_plays": 3,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2016-06-21",
-   "last_spin": "2019-03-06",
-   "playlist_score": 5.55,
-   "playlists": {
-    "All-Time Favorites": 2,
-    "Crawfish Boil": 2,
-    "Liked Music": 2
-   },
-   "score": 8.4
-  },
-  {
-   "artist": "Modest Mouse",
-   "key": "modest mouse",
-   "shows": 2,
-   "shows_12mo": 0,
-   "ytm_plays": 115,
-   "ytm_plays_90d": 5,
-   "reviews": 0,
-   "first_spin": "2016-07-13",
-   "last_spin": "2024-04-10",
-   "playlist_score": 4.38,
-   "playlists": {
-    "All-Time Favorites": 2,
-    "Crawfish Boil": 2,
-    "Liked Music": 1
-   },
-   "score": 8.4
-  },
-  {
-   "artist": "The Dead Weather",
-   "key": "dead weather",
-   "shows": 1,
-   "shows_12mo": 0,
-   "ytm_plays": 9,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2016-02-09",
-   "last_spin": "2016-02-09",
-   "playlist_score": 7.55,
-   "playlists": {
-    "All-Time Favorites": 2,
-    "Crawfish Boil": 2,
-    "Liked Music": 5
-   },
-   "score": 8.4
-  },
-  {
    "artist": "Jealous of the Birds",
    "key": "jealous of the birds",
    "shows": 10,
@@ -6717,6 +6645,78 @@
    "score": 8.4
   },
   {
+   "artist": "Modest Mouse",
+   "key": "modest mouse",
+   "shows": 2,
+   "shows_12mo": 0,
+   "ytm_plays": 115,
+   "ytm_plays_90d": 6,
+   "reviews": 0,
+   "first_spin": "2016-07-13",
+   "last_spin": "2024-04-10",
+   "playlist_score": 4.38,
+   "playlists": {
+    "All-Time Favorites": 2,
+    "Crawfish Boil": 2,
+    "Liked Music": 1
+   },
+   "score": 8.4
+  },
+  {
+   "artist": "Phosphorescent",
+   "key": "phosphorescent",
+   "shows": 5,
+   "shows_12mo": 0,
+   "ytm_plays": 3,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2016-06-21",
+   "last_spin": "2019-03-06",
+   "playlist_score": 5.55,
+   "playlists": {
+    "All-Time Favorites": 2,
+    "Crawfish Boil": 2,
+    "Liked Music": 2
+   },
+   "score": 8.4
+  },
+  {
+   "artist": "Daisy Chainsaw",
+   "key": "daisy chainsaw",
+   "shows": 6,
+   "shows_12mo": 1,
+   "ytm_plays": 2,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2016-01-26",
+   "last_spin": "2026-04-09",
+   "playlist_score": 3.5,
+   "playlists": {
+    "All-Time Favorites": 1,
+    "Crawfish Boil": 1,
+    "Liked Music": 1
+   },
+   "score": 8.4
+  },
+  {
+   "artist": "The Dead Weather",
+   "key": "dead weather",
+   "shows": 1,
+   "shows_12mo": 0,
+   "ytm_plays": 9,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2016-02-09",
+   "last_spin": "2016-02-09",
+   "playlist_score": 7.55,
+   "playlists": {
+    "All-Time Favorites": 2,
+    "Crawfish Boil": 2,
+    "Liked Music": 5
+   },
+   "score": 8.4
+  },
+  {
    "artist": "The Tallest Man On Earth",
    "key": "tallest man on earth",
    "shows": 5,
@@ -6732,6 +6732,20 @@
     "Crawfish Boil": 2,
     "Liked Music": 1
    },
+   "score": 8.3
+  },
+  {
+   "artist": "Dirty Fences",
+   "key": "dirty fences",
+   "shows": 14,
+   "shows_12mo": 0,
+   "ytm_plays": 0,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2017-07-26",
+   "last_spin": "2018-02-14",
+   "playlist_score": 0.0,
+   "playlists": {},
    "score": 8.3
   },
   {
@@ -6754,18 +6768,18 @@
    "score": 8.3
   },
   {
-   "artist": "Dirty Fences",
-   "key": "dirty fences",
-   "shows": 14,
+   "artist": "J Mascis",
+   "key": "j mascis",
+   "shows": 11,
    "shows_12mo": 0,
-   "ytm_plays": 0,
+   "ytm_plays": 8,
    "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": "2017-07-26",
-   "last_spin": "2018-02-14",
+   "first_spin": "2016-10-26",
+   "last_spin": "2024-01-31",
    "playlist_score": 0.0,
    "playlists": {},
-   "score": 8.3
+   "score": 8.2
   },
   {
    "artist": "Toledo",
@@ -6782,23 +6796,6 @@
     "All-Time Favorites": 13,
     "Crawfish Boil": 12,
     "Liked Music": 1
-   },
-   "score": 8.2
-  },
-  {
-   "artist": "Don Williams",
-   "key": "don williams",
-   "shows": 1,
-   "shows_12mo": 0,
-   "ytm_plays": 22,
-   "ytm_plays_90d": 2,
-   "reviews": 0,
-   "first_spin": "2017-09-20",
-   "last_spin": "2017-09-20",
-   "playlist_score": 6.49,
-   "playlists": {
-    "All-Time Favorites": 9,
-    "Liked Music": 2
    },
    "score": 8.2
   },
@@ -6821,33 +6818,66 @@
    "score": 8.2
   },
   {
-   "artist": "J Mascis",
-   "key": "j mascis",
-   "shows": 11,
+   "artist": "Don Williams",
+   "key": "don williams",
+   "shows": 1,
    "shows_12mo": 0,
-   "ytm_plays": 8,
-   "ytm_plays_90d": 0,
+   "ytm_plays": 22,
+   "ytm_plays_90d": 2,
    "reviews": 0,
-   "first_spin": "2016-10-26",
-   "last_spin": "2024-01-31",
-   "playlist_score": 0.0,
-   "playlists": {},
+   "first_spin": "2017-09-20",
+   "last_spin": "2017-09-20",
+   "playlist_score": 6.49,
+   "playlists": {
+    "All-Time Favorites": 9,
+    "Liked Music": 2
+   },
    "score": 8.2
   },
   {
-   "artist": "Apparat",
-   "key": "apparat",
-   "shows": 0,
+   "artist": "Naomi Punk",
+   "key": "naomi punk",
+   "shows": 9,
    "shows_12mo": 0,
-   "ytm_plays": 35,
+   "ytm_plays": 0,
    "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": null,
-   "last_spin": null,
-   "playlist_score": 6.64,
+   "first_spin": "2017-09-20",
+   "last_spin": "2017-11-29",
+   "playlist_score": 3.5,
    "playlists": {
-    "To Review": 9
+    "All-Time Favorites": 1,
+    "Crawfish Boil": 1,
+    "Liked Music": 1
    },
+   "score": 8.1
+  },
+  {
+   "artist": "Charles Bradley",
+   "key": "charles bradley",
+   "shows": 10,
+   "shows_12mo": 0,
+   "ytm_plays": 15,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2016-07-20",
+   "last_spin": "2016-09-07",
+   "playlist_score": 0.0,
+   "playlists": {},
+   "score": 8.1
+  },
+  {
+   "artist": "Wives",
+   "key": "wives",
+   "shows": 12,
+   "shows_12mo": 0,
+   "ytm_plays": 0,
+   "ytm_plays_90d": 0,
+   "reviews": 1,
+   "first_spin": "2019-09-25",
+   "last_spin": "2020-01-22",
+   "playlist_score": 0.0,
+   "playlists": {},
    "score": 8.1
   },
   {
@@ -6869,20 +6899,6 @@
    "score": 8.1
   },
   {
-   "artist": "Charles Bradley",
-   "key": "charles bradley",
-   "shows": 10,
-   "shows_12mo": 0,
-   "ytm_plays": 15,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2016-07-20",
-   "last_spin": "2016-09-07",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 8.1
-  },
-  {
    "artist": "L’epée",
    "key": "lepee",
    "shows": 10,
@@ -6894,24 +6910,6 @@
    "last_spin": "2026-02-19",
    "playlist_score": 0.0,
    "playlists": {},
-   "score": 8.1
-  },
-  {
-   "artist": "Naomi Punk",
-   "key": "naomi punk",
-   "shows": 9,
-   "shows_12mo": 0,
-   "ytm_plays": 0,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2017-09-20",
-   "last_spin": "2017-11-29",
-   "playlist_score": 3.5,
-   "playlists": {
-    "All-Time Favorites": 1,
-    "Crawfish Boil": 1,
-    "Liked Music": 1
-   },
    "score": 8.1
   },
   {
@@ -6932,18 +6930,37 @@
    "score": 8.1
   },
   {
-   "artist": "Wives",
-   "key": "wives",
-   "shows": 12,
+   "artist": "Apparat",
+   "key": "apparat",
+   "shows": 0,
    "shows_12mo": 0,
-   "ytm_plays": 0,
+   "ytm_plays": 35,
    "ytm_plays_90d": 0,
-   "reviews": 1,
-   "first_spin": "2019-09-25",
-   "last_spin": "2020-01-22",
-   "playlist_score": 0.0,
-   "playlists": {},
+   "reviews": 0,
+   "first_spin": null,
+   "last_spin": null,
+   "playlist_score": 6.64,
+   "playlists": {
+    "To Review": 9
+   },
    "score": 8.1
+  },
+  {
+   "artist": "Colter Wall",
+   "key": "colter wall",
+   "shows": 3,
+   "shows_12mo": 0,
+   "ytm_plays": 30,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2019-08-28",
+   "last_spin": "2020-08-19",
+   "playlist_score": 4.46,
+   "playlists": {
+    "All-Time Favorites": 10,
+    "Crawfish Boil": 3
+   },
+   "score": 8.0
   },
   {
    "artist": "Adrianne Lenker",
@@ -6959,6 +6976,37 @@
    "playlists": {
     "All-Time Favorites": 3,
     "Liked Music": 1
+   },
+   "score": 8.0
+  },
+  {
+   "artist": "Whitney",
+   "key": "whitney",
+   "shows": 10,
+   "shows_12mo": 0,
+   "ytm_plays": 13,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2016-07-06",
+   "last_spin": "2016-08-25",
+   "playlist_score": 0.0,
+   "playlists": {},
+   "score": 8.0
+  },
+  {
+   "artist": "The English Beat",
+   "key": "english beat",
+   "shows": 3,
+   "shows_12mo": 0,
+   "ytm_plays": 41,
+   "ytm_plays_90d": 2,
+   "reviews": 0,
+   "first_spin": "2016-03-08",
+   "last_spin": "2019-08-28",
+   "playlist_score": 4.17,
+   "playlists": {
+    "All-Time Favorites": 1,
+    "Liked Music": 2
    },
    "score": 8.0
   },
@@ -6980,37 +7028,6 @@
    "score": 8.0
   },
   {
-   "artist": "The English Beat",
-   "key": "english beat",
-   "shows": 3,
-   "shows_12mo": 0,
-   "ytm_plays": 41,
-   "ytm_plays_90d": 2,
-   "reviews": 0,
-   "first_spin": "2016-03-08",
-   "last_spin": "2019-08-28",
-   "playlist_score": 4.17,
-   "playlists": {
-    "All-Time Favorites": 1,
-    "Liked Music": 2
-   },
-   "score": 8.0
-  },
-  {
-   "artist": "Whitney",
-   "key": "whitney",
-   "shows": 10,
-   "shows_12mo": 0,
-   "ytm_plays": 13,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2016-07-06",
-   "last_spin": "2016-08-25",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 8.0
-  },
-  {
    "artist": "Laura Marling",
    "key": "laura marling",
    "shows": 2,
@@ -7029,23 +7046,6 @@
    "score": 8.0
   },
   {
-   "artist": "Colter Wall",
-   "key": "colter wall",
-   "shows": 3,
-   "shows_12mo": 0,
-   "ytm_plays": 30,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2019-08-28",
-   "last_spin": "2020-08-19",
-   "playlist_score": 4.46,
-   "playlists": {
-    "All-Time Favorites": 10,
-    "Crawfish Boil": 3
-   },
-   "score": 8.0
-  },
-  {
    "artist": "Helado Tropical, Helado Negro & Reyna Tropical",
    "key": "helado tropical",
    "shows": 3,
@@ -7055,20 +7055,6 @@
    "reviews": 0,
    "first_spin": "2026-05-21",
    "last_spin": "2026-06-25",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 7.9
-  },
-  {
-   "artist": "Gelli Haha",
-   "key": "gelli haha",
-   "shows": 3,
-   "shows_12mo": 3,
-   "ytm_plays": 26,
-   "ytm_plays_90d": 1,
-   "reviews": 0,
-   "first_spin": "2026-04-16",
-   "last_spin": "2026-05-07",
    "playlist_score": 0.0,
    "playlists": {},
    "score": 7.9
@@ -7091,15 +7077,29 @@
    "score": 7.9
   },
   {
-   "artist": "The Mars Volta",
-   "key": "mars volta",
-   "shows": 5,
-   "shows_12mo": 1,
-   "ytm_plays": 30,
+   "artist": "Gelli Haha",
+   "key": "gelli haha",
+   "shows": 3,
+   "shows_12mo": 3,
+   "ytm_plays": 26,
    "ytm_plays_90d": 1,
-   "reviews": 1,
-   "first_spin": "2022-09-20",
+   "reviews": 0,
+   "first_spin": "2026-04-16",
    "last_spin": "2026-05-07",
+   "playlist_score": 0.0,
+   "playlists": {},
+   "score": 7.9
+  },
+  {
+   "artist": "Boards of Canada",
+   "key": "boards of canada",
+   "shows": 3,
+   "shows_12mo": 3,
+   "ytm_plays": 23,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2026-05-21",
+   "last_spin": "2026-06-18",
    "playlist_score": 0.0,
    "playlists": {},
    "score": 7.8
@@ -7141,65 +7141,33 @@
    "score": 7.8
   },
   {
-   "artist": "Boards of Canada",
-   "key": "boards of canada",
-   "shows": 3,
-   "shows_12mo": 3,
-   "ytm_plays": 23,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2026-05-21",
-   "last_spin": "2026-06-18",
+   "artist": "The Mars Volta",
+   "key": "mars volta",
+   "shows": 5,
+   "shows_12mo": 1,
+   "ytm_plays": 30,
+   "ytm_plays_90d": 1,
+   "reviews": 1,
+   "first_spin": "2022-09-20",
+   "last_spin": "2026-05-07",
    "playlist_score": 0.0,
    "playlists": {},
    "score": 7.8
   },
   {
-   "artist": "Belle And Sebastian",
-   "key": "belle and sebastian",
-   "shows": 8,
+   "artist": "Mk.gee",
+   "key": "mk gee",
+   "shows": 2,
    "shows_12mo": 0,
-   "ytm_plays": 43,
+   "ytm_plays": 106,
    "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": "2018-03-28",
-   "last_spin": "2019-11-06",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 7.7
-  },
-  {
-   "artist": "Teenage Fanclub",
-   "key": "teenage fanclub",
-   "shows": 3,
-   "shows_12mo": 0,
-   "ytm_plays": 7,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2017-01-11",
-   "last_spin": "2017-02-08",
-   "playlist_score": 5.48,
-   "playlists": {
-    "All-Time Favorites": 4,
-    "Crawfish Boil": 4,
-    "Liked Music": 1
-   },
-   "score": 7.7
-  },
-  {
-   "artist": "Stiff Little Fingers",
-   "key": "stiff little fingers",
-   "shows": 7,
-   "shows_12mo": 0,
-   "ytm_plays": 8,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2016-03-15",
-   "last_spin": "2019-08-28",
-   "playlist_score": 2.38,
+   "first_spin": "2024-04-17",
+   "last_spin": "2024-04-24",
+   "playlist_score": 3.58,
    "playlists": {
     "All-Time Favorites": 2,
-    "Crawfish Boil": 2
+    "Liked Music": 1
    },
    "score": 7.7
   },
@@ -7232,21 +7200,81 @@
    "score": 7.7
   },
   {
-   "artist": "Mk.gee",
-   "key": "mk gee",
-   "shows": 2,
+   "artist": "Stiff Little Fingers",
+   "key": "stiff little fingers",
+   "shows": 7,
    "shows_12mo": 0,
-   "ytm_plays": 106,
+   "ytm_plays": 8,
    "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": "2024-04-17",
-   "last_spin": "2024-04-24",
-   "playlist_score": 3.58,
+   "first_spin": "2016-03-15",
+   "last_spin": "2019-08-28",
+   "playlist_score": 2.38,
    "playlists": {
     "All-Time Favorites": 2,
+    "Crawfish Boil": 2
+   },
+   "score": 7.7
+  },
+  {
+   "artist": "Teenage Fanclub",
+   "key": "teenage fanclub",
+   "shows": 3,
+   "shows_12mo": 0,
+   "ytm_plays": 7,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2017-01-11",
+   "last_spin": "2017-02-08",
+   "playlist_score": 5.48,
+   "playlists": {
+    "All-Time Favorites": 4,
+    "Crawfish Boil": 4,
     "Liked Music": 1
    },
    "score": 7.7
+  },
+  {
+   "artist": "Belle And Sebastian",
+   "key": "belle and sebastian",
+   "shows": 8,
+   "shows_12mo": 0,
+   "ytm_plays": 43,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2018-03-28",
+   "last_spin": "2019-11-06",
+   "playlist_score": 0.0,
+   "playlists": {},
+   "score": 7.7
+  },
+  {
+   "artist": "White Denim",
+   "key": "white denim",
+   "shows": 8,
+   "shows_12mo": 0,
+   "ytm_plays": 10,
+   "ytm_plays_90d": 0,
+   "reviews": 1,
+   "first_spin": "2018-09-26",
+   "last_spin": "2019-03-06",
+   "playlist_score": 0.0,
+   "playlists": {},
+   "score": 7.6
+  },
+  {
+   "artist": "My Bloody Valentine",
+   "key": "my bloody valentine",
+   "shows": 12,
+   "shows_12mo": 0,
+   "ytm_plays": 1,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2016-02-16",
+   "last_spin": "2024-05-22",
+   "playlist_score": 0.0,
+   "playlists": {},
+   "score": 7.6
   },
   {
    "artist": "Timber Timbre",
@@ -7267,34 +7295,6 @@
    "score": 7.6
   },
   {
-   "artist": "My Bloody Valentine",
-   "key": "my bloody valentine",
-   "shows": 12,
-   "shows_12mo": 0,
-   "ytm_plays": 1,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2016-02-16",
-   "last_spin": "2024-05-22",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 7.6
-  },
-  {
-   "artist": "White Denim",
-   "key": "white denim",
-   "shows": 8,
-   "shows_12mo": 0,
-   "ytm_plays": 10,
-   "ytm_plays_90d": 0,
-   "reviews": 1,
-   "first_spin": "2018-09-26",
-   "last_spin": "2019-03-06",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 7.6
-  },
-  {
    "artist": "A Tribe Called Quest",
    "key": "a tribe called quest",
    "shows": 3,
@@ -7309,6 +7309,20 @@
     "All-Time Favorites": 28
    },
    "score": 7.6
+  },
+  {
+   "artist": "The Beths",
+   "key": "beths",
+   "shows": 7,
+   "shows_12mo": 0,
+   "ytm_plays": 74,
+   "ytm_plays_90d": 5,
+   "reviews": 0,
+   "first_spin": "2018-10-03",
+   "last_spin": "2022-10-13",
+   "playlist_score": 0.0,
+   "playlists": {},
+   "score": 7.5
   },
   {
    "artist": "Big Business",
@@ -7357,18 +7371,18 @@
    "score": 7.5
   },
   {
-   "artist": "The Beths",
-   "key": "beths",
-   "shows": 7,
+   "artist": "Clap Your Hands Say Yeah",
+   "key": "clap your hands say yeah",
+   "shows": 8,
    "shows_12mo": 0,
-   "ytm_plays": 74,
-   "ytm_plays_90d": 5,
+   "ytm_plays": 30,
+   "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": "2018-10-03",
-   "last_spin": "2022-10-13",
+   "first_spin": "2017-03-29",
+   "last_spin": "2019-08-07",
    "playlist_score": 0.0,
    "playlists": {},
-   "score": 7.5
+   "score": 7.4
   },
   {
    "artist": "The Clientele",
@@ -7404,20 +7418,6 @@
    "score": 7.4
   },
   {
-   "artist": "Clap Your Hands Say Yeah",
-   "key": "clap your hands say yeah",
-   "shows": 8,
-   "shows_12mo": 0,
-   "ytm_plays": 30,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2017-03-29",
-   "last_spin": "2019-08-07",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 7.4
-  },
-  {
    "artist": "Jessica Pratt",
    "key": "jessica pratt",
    "shows": 4,
@@ -7434,22 +7434,17 @@
    "score": 7.4
   },
   {
-   "artist": "Sleaford Mods",
-   "key": "sleaford mods",
-   "shows": 0,
+   "artist": "Goat Girl",
+   "key": "goat girl",
+   "shows": 6,
    "shows_12mo": 0,
-   "ytm_plays": 66,
-   "ytm_plays_90d": 1,
+   "ytm_plays": 119,
+   "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": null,
-   "last_spin": null,
-   "playlist_score": 5.0,
-   "playlists": {
-    "All-Time Favorites": 1,
-    "Crawfish Boil": 1,
-    "Liked Music": 1,
-    "FCC Edit Needed": 1
-   },
+   "first_spin": "2018-05-23",
+   "last_spin": "2024-03-20",
+   "playlist_score": 0.0,
+   "playlists": {},
    "score": 7.3
   },
   {
@@ -7471,17 +7466,22 @@
    "score": 7.3
   },
   {
-   "artist": "Goat Girl",
-   "key": "goat girl",
-   "shows": 6,
+   "artist": "Sleaford Mods",
+   "key": "sleaford mods",
+   "shows": 0,
    "shows_12mo": 0,
-   "ytm_plays": 119,
-   "ytm_plays_90d": 0,
+   "ytm_plays": 66,
+   "ytm_plays_90d": 1,
    "reviews": 0,
-   "first_spin": "2018-05-23",
-   "last_spin": "2024-03-20",
-   "playlist_score": 0.0,
-   "playlists": {},
+   "first_spin": null,
+   "last_spin": null,
+   "playlist_score": 5.0,
+   "playlists": {
+    "All-Time Favorites": 1,
+    "Crawfish Boil": 1,
+    "Liked Music": 1,
+    "FCC Edit Needed": 1
+   },
    "score": 7.3
   },
   {
@@ -7502,6 +7502,24 @@
     "FCC Edit Needed": 1
    },
    "score": 7.3
+  },
+  {
+   "artist": "Wolfmother",
+   "key": "wolfmother",
+   "shows": 1,
+   "shows_12mo": 0,
+   "ytm_plays": 6,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2016-02-16",
+   "last_spin": "2016-02-16",
+   "playlist_score": 6.38,
+   "playlists": {
+    "All-Time Favorites": 2,
+    "Crawfish Boil": 2,
+    "Liked Music": 3
+   },
+   "score": 7.2
   },
   {
    "artist": "This Mortal Coil",
@@ -7540,6 +7558,23 @@
    "score": 7.2
   },
   {
+   "artist": "Santigold",
+   "key": "santigold",
+   "shows": 9,
+   "shows_12mo": 0,
+   "ytm_plays": 0,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2016-05-10",
+   "last_spin": "2022-08-23",
+   "playlist_score": 2.38,
+   "playlists": {
+    "All-Time Favorites": 2,
+    "Crawfish Boil": 2
+   },
+   "score": 7.2
+  },
+  {
    "artist": "Reigning Sound",
    "key": "reigning sound",
    "shows": 3,
@@ -7574,41 +7609,6 @@
    "score": 7.2
   },
   {
-   "artist": "Wolfmother",
-   "key": "wolfmother",
-   "shows": 1,
-   "shows_12mo": 0,
-   "ytm_plays": 6,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2016-02-16",
-   "last_spin": "2016-02-16",
-   "playlist_score": 6.38,
-   "playlists": {
-    "All-Time Favorites": 2,
-    "Crawfish Boil": 2,
-    "Liked Music": 3
-   },
-   "score": 7.2
-  },
-  {
-   "artist": "Santigold",
-   "key": "santigold",
-   "shows": 9,
-   "shows_12mo": 0,
-   "ytm_plays": 0,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2016-05-10",
-   "last_spin": "2022-08-23",
-   "playlist_score": 2.38,
-   "playlists": {
-    "All-Time Favorites": 2,
-    "Crawfish Boil": 2
-   },
-   "score": 7.2
-  },
-  {
    "artist": "Lava La Rue",
    "key": "lava la rue",
    "shows": 3,
@@ -7623,21 +7623,17 @@
    "score": 7.1
   },
   {
-   "artist": "Doors",
-   "key": "doors",
-   "shows": 1,
-   "shows_12mo": 0,
-   "ytm_plays": 26,
+   "artist": "Matt Berringer",
+   "key": "matt berringer",
+   "shows": 4,
+   "shows_12mo": 4,
+   "ytm_plays": 0,
    "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": "2017-01-25",
-   "last_spin": "2017-01-25",
-   "playlist_score": 5.0,
-   "playlists": {
-    "All-Time Favorites": 3,
-    "Crawfish Boil": 3,
-    "Liked Music": 1
-   },
+   "first_spin": "2026-01-22",
+   "last_spin": "2026-04-09",
+   "playlist_score": 0.0,
+   "playlists": {},
    "score": 7.1
   },
   {
@@ -7659,17 +7655,21 @@
    "score": 7.1
   },
   {
-   "artist": "Matt Berringer",
-   "key": "matt berringer",
-   "shows": 4,
-   "shows_12mo": 4,
-   "ytm_plays": 0,
+   "artist": "Doors",
+   "key": "doors",
+   "shows": 1,
+   "shows_12mo": 0,
+   "ytm_plays": 26,
    "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": "2026-01-22",
-   "last_spin": "2026-04-09",
-   "playlist_score": 0.0,
-   "playlists": {},
+   "first_spin": "2017-01-25",
+   "last_spin": "2017-01-25",
+   "playlist_score": 5.0,
+   "playlists": {
+    "All-Time Favorites": 3,
+    "Crawfish Boil": 3,
+    "Liked Music": 1
+   },
    "score": 7.1
   },
   {
@@ -7708,20 +7708,6 @@
    "score": 7.0
   },
   {
-   "artist": "Shitkid",
-   "key": "shitkid",
-   "shows": 8,
-   "shows_12mo": 0,
-   "ytm_plays": 17,
-   "ytm_plays_90d": 17,
-   "reviews": 0,
-   "first_spin": "2017-07-19",
-   "last_spin": "2019-08-21",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 7.0
-  },
-  {
    "artist": "Firewater",
    "key": "firewater",
    "shows": 4,
@@ -7752,36 +7738,18 @@
    "score": 7.0
   },
   {
-   "artist": "the Meters",
-   "key": "meters",
-   "shows": 1,
+   "artist": "Shitkid",
+   "key": "shitkid",
+   "shows": 8,
    "shows_12mo": 0,
-   "ytm_plays": 95,
-   "ytm_plays_90d": 0,
+   "ytm_plays": 17,
+   "ytm_plays_90d": 17,
    "reviews": 0,
-   "first_spin": "2016-07-07",
-   "last_spin": "2016-07-07",
-   "playlist_score": 3.44,
-   "playlists": {
-    "Crawfish Boil": 116
-   },
-   "score": 6.9
-  },
-  {
-   "artist": "PACKS",
-   "key": "packs",
-   "shows": 4,
-   "shows_12mo": 0,
-   "ytm_plays": 13,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2024-01-24",
-   "last_spin": "2024-03-27",
-   "playlist_score": 3.17,
-   "playlists": {
-    "Liked Music": 2
-   },
-   "score": 6.9
+   "first_spin": "2017-07-19",
+   "last_spin": "2019-08-21",
+   "playlist_score": 0.0,
+   "playlists": {},
+   "score": 7.0
   },
   {
    "artist": "A Giant Dog",
@@ -7793,20 +7761,6 @@
    "reviews": 1,
    "first_spin": "2017-09-13",
    "last_spin": "2020-01-08",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 6.9
-  },
-  {
-   "artist": "Deadfellow",
-   "key": "deadfellow",
-   "shows": 10,
-   "shows_12mo": 0,
-   "ytm_plays": 0,
-   "ytm_plays_90d": 0,
-   "reviews": 1,
-   "first_spin": "2017-09-27",
-   "last_spin": "2017-12-27",
    "playlist_score": 0.0,
    "playlists": {},
    "score": 6.9
@@ -7829,17 +7783,67 @@
    "score": 6.9
   },
   {
-   "artist": "Declan McKenna",
-   "key": "declan mckenna",
-   "shows": 5,
+   "artist": "PACKS",
+   "key": "packs",
+   "shows": 4,
    "shows_12mo": 0,
-   "ytm_plays": 133,
-   "ytm_plays_90d": 3,
+   "ytm_plays": 13,
+   "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": "2024-02-28",
+   "first_spin": "2024-01-24",
    "last_spin": "2024-03-27",
+   "playlist_score": 3.17,
+   "playlists": {
+    "Liked Music": 2
+   },
+   "score": 6.9
+  },
+  {
+   "artist": "the Meters",
+   "key": "meters",
+   "shows": 1,
+   "shows_12mo": 0,
+   "ytm_plays": 95,
+   "ytm_plays_90d": 1,
+   "reviews": 0,
+   "first_spin": "2016-07-07",
+   "last_spin": "2016-07-07",
+   "playlist_score": 3.44,
+   "playlists": {
+    "Crawfish Boil": 116
+   },
+   "score": 6.9
+  },
+  {
+   "artist": "Deadfellow",
+   "key": "deadfellow",
+   "shows": 10,
+   "shows_12mo": 0,
+   "ytm_plays": 0,
+   "ytm_plays_90d": 0,
+   "reviews": 1,
+   "first_spin": "2017-09-27",
+   "last_spin": "2017-12-27",
    "playlist_score": 0.0,
    "playlists": {},
+   "score": 6.9
+  },
+  {
+   "artist": "Franz Ferdinand",
+   "key": "franz ferdinand",
+   "shows": 2,
+   "shows_12mo": 0,
+   "ytm_plays": 36,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2016-08-18",
+   "last_spin": "2016-09-28",
+   "playlist_score": 3.5,
+   "playlists": {
+    "All-Time Favorites": 1,
+    "Crawfish Boil": 1,
+    "Liked Music": 1
+   },
    "score": 6.8
   },
   {
@@ -7874,35 +7878,34 @@
    "score": 6.8
   },
   {
-   "artist": "Franz Ferdinand",
-   "key": "franz ferdinand",
-   "shows": 2,
+   "artist": "Declan McKenna",
+   "key": "declan mckenna",
+   "shows": 5,
    "shows_12mo": 0,
-   "ytm_plays": 36,
-   "ytm_plays_90d": 0,
+   "ytm_plays": 133,
+   "ytm_plays_90d": 3,
    "reviews": 0,
-   "first_spin": "2016-08-18",
-   "last_spin": "2016-09-28",
-   "playlist_score": 3.5,
-   "playlists": {
-    "All-Time Favorites": 1,
-    "Crawfish Boil": 1,
-    "Liked Music": 1
-   },
+   "first_spin": "2024-02-28",
+   "last_spin": "2024-03-27",
+   "playlist_score": 0.0,
+   "playlists": {},
    "score": 6.8
   },
   {
-   "artist": "Feist",
-   "key": "feist",
-   "shows": 5,
+   "artist": "Big Boi",
+   "key": "big boi",
+   "shows": 6,
    "shows_12mo": 0,
-   "ytm_plays": 111,
-   "ytm_plays_90d": 0,
+   "ytm_plays": 4,
+   "ytm_plays_90d": 1,
    "reviews": 0,
-   "first_spin": "2017-05-03",
-   "last_spin": "2017-10-25",
-   "playlist_score": 0.0,
-   "playlists": {},
+   "first_spin": "2017-06-23",
+   "last_spin": "2017-08-23",
+   "playlist_score": 2.38,
+   "playlists": {
+    "All-Time Favorites": 2,
+    "Crawfish Boil": 2
+   },
    "score": 6.7
   },
   {
@@ -7924,15 +7927,34 @@
    "score": 6.7
   },
   {
-   "artist": "Monk Parker",
-   "key": "monk parker",
-   "shows": 6,
+   "artist": "Amen Dunes",
+   "key": "amen dunes",
+   "shows": 0,
    "shows_12mo": 0,
-   "ytm_plays": 14,
+   "ytm_plays": 52,
+   "ytm_plays_90d": 2,
+   "reviews": 0,
+   "first_spin": null,
+   "last_spin": null,
+   "playlist_score": 4.5,
+   "playlists": {
+    "All-Time Favorites": 1,
+    "Covers": 1,
+    "Crawfish Boil": 1,
+    "Liked Music": 1
+   },
+   "score": 6.7
+  },
+  {
+   "artist": "Feist",
+   "key": "feist",
+   "shows": 5,
+   "shows_12mo": 0,
+   "ytm_plays": 111,
    "ytm_plays_90d": 0,
-   "reviews": 1,
-   "first_spin": "2018-02-21",
-   "last_spin": "2022-12-01",
+   "reviews": 0,
+   "first_spin": "2017-05-03",
+   "last_spin": "2017-10-25",
    "playlist_score": 0.0,
    "playlists": {},
    "score": 6.7
@@ -7971,54 +7993,33 @@
    "score": 6.7
   },
   {
-   "artist": "Amen Dunes",
-   "key": "amen dunes",
-   "shows": 0,
+   "artist": "Monk Parker",
+   "key": "monk parker",
+   "shows": 6,
    "shows_12mo": 0,
-   "ytm_plays": 52,
-   "ytm_plays_90d": 2,
-   "reviews": 0,
-   "first_spin": null,
-   "last_spin": null,
-   "playlist_score": 4.5,
-   "playlists": {
-    "All-Time Favorites": 1,
-    "Covers": 1,
-    "Crawfish Boil": 1,
-    "Liked Music": 1
-   },
+   "ytm_plays": 14,
+   "ytm_plays_90d": 0,
+   "reviews": 1,
+   "first_spin": "2018-02-21",
+   "last_spin": "2022-12-01",
+   "playlist_score": 0.0,
+   "playlists": {},
    "score": 6.7
   },
   {
-   "artist": "Big Boi",
-   "key": "big boi",
-   "shows": 6,
-   "shows_12mo": 0,
-   "ytm_plays": 4,
-   "ytm_plays_90d": 1,
+   "artist": "Gladys Knight & The Pips",
+   "key": "gladys knight and the pips",
+   "shows": 4,
+   "shows_12mo": 2,
+   "ytm_plays": 0,
+   "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": "2017-06-23",
-   "last_spin": "2017-08-23",
+   "first_spin": "2017-08-23",
+   "last_spin": "2026-06-25",
    "playlist_score": 2.38,
    "playlists": {
     "All-Time Favorites": 2,
     "Crawfish Boil": 2
-   },
-   "score": 6.7
-  },
-  {
-   "artist": "Orgone",
-   "key": "orgone",
-   "shows": 0,
-   "shows_12mo": 0,
-   "ytm_plays": 171,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": null,
-   "last_spin": null,
-   "playlist_score": 3.17,
-   "playlists": {
-    "Liked Music": 2
    },
    "score": 6.6
   },
@@ -8058,6 +8059,22 @@
    "score": 6.6
   },
   {
+   "artist": "Orgone",
+   "key": "orgone",
+   "shows": 0,
+   "shows_12mo": 0,
+   "ytm_plays": 171,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": null,
+   "last_spin": null,
+   "playlist_score": 3.17,
+   "playlists": {
+    "Liked Music": 2
+   },
+   "score": 6.6
+  },
+  {
    "artist": "The War On Drugs",
    "key": "war on drugs",
    "shows": 3,
@@ -8076,21 +8093,40 @@
    "score": 6.6
   },
   {
-   "artist": "Gladys Knight & The Pips",
-   "key": "gladys knight and the pips",
-   "shows": 4,
-   "shows_12mo": 2,
-   "ytm_plays": 0,
+   "artist": "RJD2",
+   "key": "rjd2",
+   "shows": 1,
+   "shows_12mo": 0,
+   "ytm_plays": 55,
    "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": "2017-08-23",
-   "last_spin": "2026-06-25",
-   "playlist_score": 2.38,
+   "first_spin": "2024-06-12",
+   "last_spin": "2024-06-12",
+   "playlist_score": 3.5,
    "playlists": {
-    "All-Time Favorites": 2,
-    "Crawfish Boil": 2
+    "All-Time Favorites": 1,
+    "Crawfish Boil": 1,
+    "Liked Music": 1
    },
-   "score": 6.6
+   "score": 6.5
+  },
+  {
+   "artist": "Cabaret Voltaire",
+   "key": "cabaret voltaire",
+   "shows": 2,
+   "shows_12mo": 1,
+   "ytm_plays": 5,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2020-07-29",
+   "last_spin": "2026-05-28",
+   "playlist_score": 3.5,
+   "playlists": {
+    "All-Time Favorites": 1,
+    "Crawfish Boil": 1,
+    "Liked Music": 1
+   },
+   "score": 6.5
   },
   {
    "artist": "Conor Oberst",
@@ -8121,6 +8157,20 @@
    "score": 6.5
   },
   {
+   "artist": "Lala Lala",
+   "key": "lala lala",
+   "shows": 11,
+   "shows_12mo": 0,
+   "ytm_plays": 0,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2017-09-27",
+   "last_spin": "2018-12-19",
+   "playlist_score": 0.0,
+   "playlists": {},
+   "score": 6.5
+  },
+  {
    "artist": "Adult Mom",
    "key": "adult mom",
    "shows": 11,
@@ -8135,35 +8185,17 @@
    "score": 6.5
   },
   {
-   "artist": "Friko",
-   "key": "friko",
-   "shows": 3,
+   "artist": "Superchunk",
+   "key": "superchunk",
+   "shows": 6,
    "shows_12mo": 1,
-   "ytm_plays": 91,
-   "ytm_plays_90d": 6,
+   "ytm_plays": 8,
+   "ytm_plays_90d": 3,
    "reviews": 0,
-   "first_spin": "2024-02-28",
-   "last_spin": "2026-04-30",
+   "first_spin": "2018-06-06",
+   "last_spin": "2026-08-27",
    "playlist_score": 0.0,
    "playlists": {},
-   "score": 6.5
-  },
-  {
-   "artist": "Cabaret Voltaire",
-   "key": "cabaret voltaire",
-   "shows": 2,
-   "shows_12mo": 1,
-   "ytm_plays": 5,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2020-07-29",
-   "last_spin": "2026-05-28",
-   "playlist_score": 3.5,
-   "playlists": {
-    "All-Time Favorites": 1,
-    "Crawfish Boil": 1,
-    "Liked Music": 1
-   },
    "score": 6.5
   },
   {
@@ -8185,50 +8217,35 @@
    "score": 6.5
   },
   {
-   "artist": "Superchunk",
-   "key": "superchunk",
-   "shows": 6,
+   "artist": "Friko",
+   "key": "friko",
+   "shows": 3,
    "shows_12mo": 1,
-   "ytm_plays": 8,
-   "ytm_plays_90d": 3,
+   "ytm_plays": 91,
+   "ytm_plays_90d": 6,
    "reviews": 0,
-   "first_spin": "2018-06-06",
-   "last_spin": "2026-08-27",
+   "first_spin": "2024-02-28",
+   "last_spin": "2026-04-30",
    "playlist_score": 0.0,
    "playlists": {},
    "score": 6.5
   },
   {
-   "artist": "Lala Lala",
-   "key": "lala lala",
-   "shows": 11,
+   "artist": "Four Tet",
+   "key": "four tet",
+   "shows": 0,
    "shows_12mo": 0,
-   "ytm_plays": 0,
-   "ytm_plays_90d": 0,
+   "ytm_plays": 18,
+   "ytm_plays_90d": 1,
    "reviews": 0,
-   "first_spin": "2017-09-27",
-   "last_spin": "2018-12-19",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 6.5
-  },
-  {
-   "artist": "RJD2",
-   "key": "rjd2",
-   "shows": 1,
-   "shows_12mo": 0,
-   "ytm_plays": 55,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2024-06-12",
-   "last_spin": "2024-06-12",
-   "playlist_score": 3.5,
+   "first_spin": null,
+   "last_spin": null,
+   "playlist_score": 5.17,
    "playlists": {
-    "All-Time Favorites": 1,
-    "Crawfish Boil": 1,
+    "All-Time Favorites": 8,
     "Liked Music": 1
    },
-   "score": 6.5
+   "score": 6.4
   },
   {
    "artist": "Death Valley Girls",
@@ -8245,23 +8262,6 @@
     "All-Time Favorites": 1,
     "Crawfish Boil": 1,
     "DJ Stace - Next Show": 1
-   },
-   "score": 6.4
-  },
-  {
-   "artist": "Four Tet",
-   "key": "four tet",
-   "shows": 0,
-   "shows_12mo": 0,
-   "ytm_plays": 18,
-   "ytm_plays_90d": 1,
-   "reviews": 0,
-   "first_spin": null,
-   "last_spin": null,
-   "playlist_score": 5.17,
-   "playlists": {
-    "All-Time Favorites": 8,
-    "Liked Music": 1
    },
    "score": 6.4
   },
@@ -8303,22 +8303,6 @@
    "score": 6.3
   },
   {
-   "artist": "Wendy Eisenberg",
-   "key": "wendy eisenberg",
-   "shows": 0,
-   "shows_12mo": 0,
-   "ytm_plays": 2,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": null,
-   "last_spin": null,
-   "playlist_score": 6.92,
-   "playlists": {
-    "To Review": 10
-   },
-   "score": 6.3
-  },
-  {
    "artist": "Portugal. The Man",
    "key": "portugal the man",
    "shows": 0,
@@ -8337,20 +8321,33 @@
    "score": 6.3
   },
   {
-   "artist": "The Libertines",
-   "key": "libertines",
+   "artist": "Wendy Eisenberg",
+   "key": "wendy eisenberg",
    "shows": 0,
    "shows_12mo": 0,
-   "ytm_plays": 8,
+   "ytm_plays": 2,
    "ytm_plays_90d": 0,
    "reviews": 0,
    "first_spin": null,
    "last_spin": null,
-   "playlist_score": 5.71,
+   "playlist_score": 6.92,
    "playlists": {
-    "All-Time Favorites": 13,
-    "Crawfish Boil": 13
+    "To Review": 10
    },
+   "score": 6.3
+  },
+  {
+   "artist": "Grace Cummings",
+   "key": "grace cummings",
+   "shows": 4,
+   "shows_12mo": 1,
+   "ytm_plays": 29,
+   "ytm_plays_90d": 2,
+   "reviews": 0,
+   "first_spin": "2024-02-28",
+   "last_spin": "2026-07-09",
+   "playlist_score": 0.0,
+   "playlists": {},
    "score": 6.2
   },
   {
@@ -8418,35 +8415,21 @@
    "score": 6.2
   },
   {
-   "artist": "Grace Cummings",
-   "key": "grace cummings",
-   "shows": 4,
-   "shows_12mo": 1,
-   "ytm_plays": 29,
-   "ytm_plays_90d": 2,
-   "reviews": 0,
-   "first_spin": "2024-02-28",
-   "last_spin": "2026-07-09",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 6.2
-  },
-  {
-   "artist": "De La Soul",
-   "key": "de la soul",
-   "shows": 3,
+   "artist": "The Libertines",
+   "key": "libertines",
+   "shows": 0,
    "shows_12mo": 0,
-   "ytm_plays": 0,
+   "ytm_plays": 8,
    "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": "2017-01-04",
-   "last_spin": "2023-01-19",
-   "playlist_score": 5.45,
+   "first_spin": null,
+   "last_spin": null,
+   "playlist_score": 5.71,
    "playlists": {
-    "All-Time Favorites": 30,
-    "Crawfish Boil": 1
+    "All-Time Favorites": 13,
+    "Crawfish Boil": 13
    },
-   "score": 6.1
+   "score": 6.2
   },
   {
    "artist": "CBC Music",
@@ -8469,17 +8452,19 @@
    "score": 6.1
   },
   {
-   "artist": "Crumb",
-   "key": "crumb",
-   "shows": 5,
+   "artist": "OutKast",
+   "key": "outkast",
+   "shows": 0,
    "shows_12mo": 0,
-   "ytm_plays": 51,
+   "ytm_plays": 10,
    "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": "2019-07-17",
-   "last_spin": "2019-08-28",
-   "playlist_score": 0.0,
-   "playlists": {},
+   "first_spin": null,
+   "last_spin": null,
+   "playlist_score": 5.32,
+   "playlists": {
+    "All-Time Favorites": 39
+   },
    "score": 6.1
   },
   {
@@ -8511,23 +8496,34 @@
    "score": 6.1
   },
   {
-   "artist": "Bedouine, Hurray For The Riff Raff & Waxahatchee",
-   "key": "bedouine hurray for the riff raff and waxahatchee",
-   "shows": 2,
-   "shows_12mo": 1,
+   "artist": "De La Soul",
+   "key": "de la soul",
+   "shows": 3,
+   "shows_12mo": 0,
    "ytm_plays": 0,
    "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": "2022-12-01",
-   "last_spin": "2026-02-12",
-   "playlist_score": 4.8,
+   "first_spin": "2017-01-04",
+   "last_spin": "2023-01-19",
+   "playlist_score": 5.45,
    "playlists": {
-    "All-Time Favorites": 1,
-    "Covers": 1,
-    "Karaoke": 1,
-    "Crawfish Boil": 1,
-    "Liked Music": 1
+    "All-Time Favorites": 30,
+    "Crawfish Boil": 1
    },
+   "score": 6.1
+  },
+  {
+   "artist": "Crumb",
+   "key": "crumb",
+   "shows": 5,
+   "shows_12mo": 0,
+   "ytm_plays": 51,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2019-07-17",
+   "last_spin": "2019-08-28",
+   "playlist_score": 0.0,
+   "playlists": {},
    "score": 6.1
   },
   {
@@ -8549,20 +8545,42 @@
    "score": 6.1
   },
   {
-   "artist": "OutKast",
-   "key": "outkast",
-   "shows": 0,
-   "shows_12mo": 0,
-   "ytm_plays": 10,
+   "artist": "Bedouine, Hurray For The Riff Raff & Waxahatchee",
+   "key": "bedouine hurray for the riff raff and waxahatchee",
+   "shows": 2,
+   "shows_12mo": 1,
+   "ytm_plays": 0,
    "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": null,
-   "last_spin": null,
-   "playlist_score": 5.32,
+   "first_spin": "2022-12-01",
+   "last_spin": "2026-02-12",
+   "playlist_score": 4.8,
    "playlists": {
-    "All-Time Favorites": 39
+    "All-Time Favorites": 1,
+    "Covers": 1,
+    "Karaoke": 1,
+    "Crawfish Boil": 1,
+    "Liked Music": 1
    },
    "score": 6.1
+  },
+  {
+   "artist": "Cat Stevens",
+   "key": "cat stevens",
+   "shows": 4,
+   "shows_12mo": 0,
+   "ytm_plays": 0,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2016-02-16",
+   "last_spin": "2016-11-09",
+   "playlist_score": 4.67,
+   "playlists": {
+    "All-Time Favorites": 1,
+    "Crawfish Boil": 1,
+    "Liked Music": 2
+   },
+   "score": 6.0
   },
   {
    "artist": "Meat Puppets",
@@ -8579,24 +8597,6 @@
     "All-Time Favorites": 1,
     "Crawfish Boil": 1,
     "Liked Music": 1
-   },
-   "score": 6.0
-  },
-  {
-   "artist": "Uncle Tupelo",
-   "key": "uncle tupelo",
-   "shows": 0,
-   "shows_12mo": 0,
-   "ytm_plays": 69,
-   "ytm_plays_90d": 24,
-   "reviews": 0,
-   "first_spin": null,
-   "last_spin": null,
-   "playlist_score": 3.38,
-   "playlists": {
-    "All-Time Favorites": 2,
-    "Covers": 1,
-    "Crawfish Boil": 2
    },
    "score": 6.0
   },
@@ -8618,24 +8618,6 @@
    "score": 6.0
   },
   {
-   "artist": "Cat Stevens",
-   "key": "cat stevens",
-   "shows": 4,
-   "shows_12mo": 0,
-   "ytm_plays": 0,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2016-02-16",
-   "last_spin": "2016-11-09",
-   "playlist_score": 4.67,
-   "playlists": {
-    "All-Time Favorites": 1,
-    "Crawfish Boil": 1,
-    "Liked Music": 2
-   },
-   "score": 6.0
-  },
-  {
    "artist": "Boygenius",
    "key": "boygenius",
    "shows": 4,
@@ -8650,18 +8632,22 @@
    "score": 6.0
   },
   {
-   "artist": "The Moonlandingz",
-   "key": "moonlandingz",
-   "shows": 10,
+   "artist": "Uncle Tupelo",
+   "key": "uncle tupelo",
+   "shows": 0,
    "shows_12mo": 0,
-   "ytm_plays": 0,
-   "ytm_plays_90d": 0,
+   "ytm_plays": 69,
+   "ytm_plays_90d": 24,
    "reviews": 0,
-   "first_spin": "2016-06-21",
-   "last_spin": "2018-05-09",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 5.9
+   "first_spin": null,
+   "last_spin": null,
+   "playlist_score": 3.38,
+   "playlists": {
+    "All-Time Favorites": 2,
+    "Covers": 1,
+    "Crawfish Boil": 2
+   },
+   "score": 6.0
   },
   {
    "artist": "Fontaines DC",
@@ -8673,6 +8659,20 @@
    "reviews": 0,
    "first_spin": "2019-01-30",
    "last_spin": "2026-04-16",
+   "playlist_score": 0.0,
+   "playlists": {},
+   "score": 5.9
+  },
+  {
+   "artist": "Glenn Gould",
+   "key": "glenn gould",
+   "shows": 0,
+   "shows_12mo": 0,
+   "ytm_plays": 1682,
+   "ytm_plays_90d": 1,
+   "reviews": 0,
+   "first_spin": null,
+   "last_spin": null,
    "playlist_score": 0.0,
    "playlists": {},
    "score": 5.9
@@ -8692,15 +8692,29 @@
    "score": 5.9
   },
   {
-   "artist": "Glenn Gould",
-   "key": "glenn gould",
-   "shows": 0,
+   "artist": "Brandy",
+   "key": "brandy",
+   "shows": 9,
    "shows_12mo": 0,
-   "ytm_plays": 1682,
-   "ytm_plays_90d": 1,
+   "ytm_plays": 1,
+   "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": null,
-   "last_spin": null,
+   "first_spin": "2019-05-29",
+   "last_spin": "2019-08-28",
+   "playlist_score": 0.0,
+   "playlists": {},
+   "score": 5.9
+  },
+  {
+   "artist": "The Moonlandingz",
+   "key": "moonlandingz",
+   "shows": 10,
+   "shows_12mo": 0,
+   "ytm_plays": 0,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2016-06-21",
+   "last_spin": "2018-05-09",
    "playlist_score": 0.0,
    "playlists": {},
    "score": 5.9
@@ -8734,32 +8748,35 @@
    "score": 5.9
   },
   {
-   "artist": "Brandy",
-   "key": "brandy",
-   "shows": 9,
+   "artist": "Weyes Blood",
+   "key": "weyes blood",
+   "shows": 1,
    "shows_12mo": 0,
-   "ytm_plays": 1,
+   "ytm_plays": 32,
    "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": "2019-05-29",
-   "last_spin": "2019-08-28",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 5.9
-  },
-  {
-   "artist": "Cold War Kids",
-   "key": "cold war kids",
-   "shows": 3,
-   "shows_12mo": 0,
-   "ytm_plays": 6,
-   "ytm_plays_90d": 2,
-   "reviews": 0,
-   "first_spin": "2016-07-20",
-   "last_spin": "2016-09-07",
+   "first_spin": "2019-10-30",
+   "last_spin": "2019-10-30",
    "playlist_score": 3.17,
    "playlists": {
     "Liked Music": 2
+   },
+   "score": 5.8
+  },
+  {
+   "artist": "Shuggie Otis",
+   "key": "shuggie otis",
+   "shows": 3,
+   "shows_12mo": 0,
+   "ytm_plays": 4,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2016-03-08",
+   "last_spin": "2019-07-17",
+   "playlist_score": 3.54,
+   "playlists": {
+    "All-Time Favorites": 2,
+    "Crawfish Boil": 14
    },
    "score": 5.8
   },
@@ -8796,39 +8813,6 @@
    "score": 5.8
   },
   {
-   "artist": "Weyes Blood",
-   "key": "weyes blood",
-   "shows": 1,
-   "shows_12mo": 0,
-   "ytm_plays": 32,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2019-10-30",
-   "last_spin": "2019-10-30",
-   "playlist_score": 3.17,
-   "playlists": {
-    "Liked Music": 2
-   },
-   "score": 5.8
-  },
-  {
-   "artist": "Shuggie Otis",
-   "key": "shuggie otis",
-   "shows": 3,
-   "shows_12mo": 0,
-   "ytm_plays": 4,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2016-03-08",
-   "last_spin": "2019-07-17",
-   "playlist_score": 3.54,
-   "playlists": {
-    "All-Time Favorites": 2,
-    "Crawfish Boil": 14
-   },
-   "score": 5.8
-  },
-  {
    "artist": "Current Joys",
    "key": "current joys",
    "shows": 0,
@@ -8845,18 +8829,20 @@
    "score": 5.8
   },
   {
-   "artist": "The Goon Sax",
-   "key": "goon sax",
-   "shows": 8,
+   "artist": "Cold War Kids",
+   "key": "cold war kids",
+   "shows": 3,
    "shows_12mo": 0,
-   "ytm_plays": 0,
-   "ytm_plays_90d": 0,
-   "reviews": 1,
-   "first_spin": "2019-09-25",
-   "last_spin": "2020-01-08",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 5.7
+   "ytm_plays": 6,
+   "ytm_plays_90d": 2,
+   "reviews": 0,
+   "first_spin": "2016-07-20",
+   "last_spin": "2016-09-07",
+   "playlist_score": 3.17,
+   "playlists": {
+    "Liked Music": 2
+   },
+   "score": 5.8
   },
   {
    "artist": "Dolly Parton",
@@ -8876,21 +8862,34 @@
    "score": 5.7
   },
   {
-   "artist": "Bad Brains",
-   "key": "bad brains",
-   "shows": 2,
+   "artist": "Mount Kimbie",
+   "key": "mount kimbie",
+   "shows": 0,
    "shows_12mo": 0,
-   "ytm_plays": 8,
-   "ytm_plays_90d": 1,
+   "ytm_plays": 71,
+   "ytm_plays_90d": 2,
    "reviews": 0,
-   "first_spin": "2016-03-22",
-   "last_spin": "2016-10-19",
-   "playlist_score": 3.5,
+   "first_spin": null,
+   "last_spin": null,
+   "playlist_score": 3.0,
    "playlists": {
     "All-Time Favorites": 1,
-    "Crawfish Boil": 1,
     "Liked Music": 1
    },
+   "score": 5.7
+  },
+  {
+   "artist": "The Goon Sax",
+   "key": "goon sax",
+   "shows": 8,
+   "shows_12mo": 0,
+   "ytm_plays": 0,
+   "ytm_plays_90d": 0,
+   "reviews": 1,
+   "first_spin": "2019-09-25",
+   "last_spin": "2020-01-08",
+   "playlist_score": 0.0,
+   "playlists": {},
    "score": 5.7
   },
   {
@@ -8911,18 +8910,19 @@
    "score": 5.7
   },
   {
-   "artist": "Mount Kimbie",
-   "key": "mount kimbie",
-   "shows": 0,
+   "artist": "Bad Brains",
+   "key": "bad brains",
+   "shows": 2,
    "shows_12mo": 0,
-   "ytm_plays": 71,
-   "ytm_plays_90d": 2,
+   "ytm_plays": 8,
+   "ytm_plays_90d": 1,
    "reviews": 0,
-   "first_spin": null,
-   "last_spin": null,
-   "playlist_score": 3.0,
+   "first_spin": "2016-03-22",
+   "last_spin": "2016-10-19",
+   "playlist_score": 3.5,
    "playlists": {
     "All-Time Favorites": 1,
+    "Crawfish Boil": 1,
     "Liked Music": 1
    },
    "score": 5.7
@@ -8962,38 +8962,6 @@
    "score": 5.6
   },
   {
-   "artist": "Townes Van Zandt",
-   "key": "townes van zandt",
-   "shows": 1,
-   "shows_12mo": 0,
-   "ytm_plays": 9,
-   "ytm_plays_90d": 1,
-   "reviews": 0,
-   "first_spin": "2019-06-12",
-   "last_spin": "2019-06-12",
-   "playlist_score": 4.09,
-   "playlists": {
-    "All-Time Favorites": 16
-   },
-   "score": 5.6
-  },
-  {
-   "artist": "Electric Six",
-   "key": "electric six",
-   "shows": 2,
-   "shows_12mo": 0,
-   "ytm_plays": 11,
-   "ytm_plays_90d": 4,
-   "reviews": 0,
-   "first_spin": "2017-01-25",
-   "last_spin": "2017-02-08",
-   "playlist_score": 3.17,
-   "playlists": {
-    "Liked Music": 2
-   },
-   "score": 5.6
-  },
-  {
    "artist": "Public Enemy",
    "key": "public enemy",
    "shows": 0,
@@ -9011,65 +8979,6 @@
    "score": 5.6
   },
   {
-   "artist": "Nick Cave",
-   "key": "nick cave",
-   "shows": 2,
-   "shows_12mo": 0,
-   "ytm_plays": 256,
-   "ytm_plays_90d": 2,
-   "reviews": 0,
-   "first_spin": "2019-08-28",
-   "last_spin": "2020-07-22",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 5.6
-  },
-  {
-   "artist": "Deerhunter",
-   "key": "deerhunter",
-   "shows": 7,
-   "shows_12mo": 0,
-   "ytm_plays": 5,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2016-01-26",
-   "last_spin": "2019-03-06",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 5.6
-  },
-  {
-   "artist": "Michael Kiwanuka",
-   "key": "michael kiwanuka",
-   "shows": 5,
-   "shows_12mo": 0,
-   "ytm_plays": 27,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2019-06-12",
-   "last_spin": "2019-12-18",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 5.6
-  },
-  {
-   "artist": "George Jones",
-   "key": "george jones",
-   "shows": 0,
-   "shows_12mo": 0,
-   "ytm_plays": 15,
-   "ytm_plays_90d": 4,
-   "reviews": 0,
-   "first_spin": null,
-   "last_spin": null,
-   "playlist_score": 4.32,
-   "playlists": {
-    "All-Time Favorites": 4,
-    "Liked Music": 1
-   },
-   "score": 5.6
-  },
-  {
    "artist": "Johnny Cash",
    "key": "johnny cash",
    "shows": 6,
@@ -9079,6 +8988,20 @@
    "reviews": 0,
    "first_spin": "2016-03-29",
    "last_spin": "2024-04-24",
+   "playlist_score": 0.0,
+   "playlists": {},
+   "score": 5.6
+  },
+  {
+   "artist": "Nick Cave",
+   "key": "nick cave",
+   "shows": 2,
+   "shows_12mo": 0,
+   "ytm_plays": 256,
+   "ytm_plays_90d": 2,
+   "reviews": 0,
+   "first_spin": "2019-08-28",
+   "last_spin": "2020-07-22",
    "playlist_score": 0.0,
    "playlists": {},
    "score": 5.6
@@ -9101,6 +9024,22 @@
    "score": 5.6
   },
   {
+   "artist": "Electric Six",
+   "key": "electric six",
+   "shows": 2,
+   "shows_12mo": 0,
+   "ytm_plays": 11,
+   "ytm_plays_90d": 4,
+   "reviews": 0,
+   "first_spin": "2017-01-25",
+   "last_spin": "2017-02-08",
+   "playlist_score": 3.17,
+   "playlists": {
+    "Liked Music": 2
+   },
+   "score": 5.6
+  },
+  {
    "artist": "Laetitia Sadier",
    "key": "laetitia sadier",
    "shows": 0,
@@ -9117,20 +9056,81 @@
    "score": 5.6
   },
   {
-   "artist": "ABlackShade",
-   "key": "ablackshade",
+   "artist": "Townes Van Zandt",
+   "key": "townes van zandt",
+   "shows": 1,
+   "shows_12mo": 0,
+   "ytm_plays": 9,
+   "ytm_plays_90d": 1,
+   "reviews": 0,
+   "first_spin": "2019-06-12",
+   "last_spin": "2019-06-12",
+   "playlist_score": 4.09,
+   "playlists": {
+    "All-Time Favorites": 16
+   },
+   "score": 5.6
+  },
+  {
+   "artist": "Deerhunter",
+   "key": "deerhunter",
+   "shows": 7,
+   "shows_12mo": 0,
+   "ytm_plays": 5,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2016-01-26",
+   "last_spin": "2019-03-06",
+   "playlist_score": 0.0,
+   "playlists": {},
+   "score": 5.6
+  },
+  {
+   "artist": "George Jones",
+   "key": "george jones",
    "shows": 0,
+   "shows_12mo": 0,
+   "ytm_plays": 15,
+   "ytm_plays_90d": 4,
+   "reviews": 0,
+   "first_spin": null,
+   "last_spin": null,
+   "playlist_score": 4.32,
+   "playlists": {
+    "All-Time Favorites": 4,
+    "Liked Music": 1
+   },
+   "score": 5.6
+  },
+  {
+   "artist": "Michael Kiwanuka",
+   "key": "michael kiwanuka",
+   "shows": 5,
    "shows_12mo": 0,
    "ytm_plays": 27,
    "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": null,
-   "last_spin": null,
-   "playlist_score": 3.67,
+   "first_spin": "2019-06-12",
+   "last_spin": "2019-12-18",
+   "playlist_score": 0.0,
+   "playlists": {},
+   "score": 5.6
+  },
+  {
+   "artist": "Redd Kross",
+   "key": "redd kross",
+   "shows": 1,
+   "shows_12mo": 0,
+   "ytm_plays": 15,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2019-01-09",
+   "last_spin": "2019-01-09",
+   "playlist_score": 3.5,
    "playlists": {
-    "Desert Sessions": 2,
-    "All-Time Favorites": 2,
-    "Crawfish Boil": 1
+    "All-Time Favorites": 1,
+    "Crawfish Boil": 1,
+    "Liked Music": 1
    },
    "score": 5.5
   },
@@ -9152,20 +9152,70 @@
    "score": 5.5
   },
   {
-   "artist": "Redd Kross",
-   "key": "redd kross",
+   "artist": "Arcy Drive",
+   "key": "arcy drive",
    "shows": 1,
    "shows_12mo": 0,
-   "ytm_plays": 15,
+   "ytm_plays": 23,
    "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": "2019-01-09",
-   "last_spin": "2019-01-09",
-   "playlist_score": 3.5,
+   "first_spin": "2024-04-24",
+   "last_spin": "2024-04-24",
+   "playlist_score": 3.0,
    "playlists": {
     "All-Time Favorites": 1,
-    "Crawfish Boil": 1,
     "Liked Music": 1
+   },
+   "score": 5.5
+  },
+  {
+   "artist": "Billy Bragg and Wilco",
+   "key": "billy bragg and wilco",
+   "shows": 5,
+   "shows_12mo": 0,
+   "ytm_plays": 0,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2016-03-01",
+   "last_spin": "2017-11-08",
+   "playlist_score": 3.17,
+   "playlists": {
+    "Liked Music": 2
+   },
+   "score": 5.5
+  },
+  {
+   "artist": "Broken Bells",
+   "key": "broken bells",
+   "shows": 1,
+   "shows_12mo": 0,
+   "ytm_plays": 44,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2022-09-20",
+   "last_spin": "2022-09-20",
+   "playlist_score": 2.38,
+   "playlists": {
+    "All-Time Favorites": 2,
+    "Crawfish Boil": 2
+   },
+   "score": 5.5
+  },
+  {
+   "artist": "ABlackShade",
+   "key": "ablackshade",
+   "shows": 0,
+   "shows_12mo": 0,
+   "ytm_plays": 27,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": null,
+   "last_spin": null,
+   "playlist_score": 3.67,
+   "playlists": {
+    "Desert Sessions": 2,
+    "All-Time Favorites": 2,
+    "Crawfish Boil": 1
    },
    "score": 5.5
   },
@@ -9204,160 +9254,6 @@
    "score": 5.5
   },
   {
-   "artist": "Billy Bragg and Wilco",
-   "key": "billy bragg and wilco",
-   "shows": 5,
-   "shows_12mo": 0,
-   "ytm_plays": 0,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2016-03-01",
-   "last_spin": "2017-11-08",
-   "playlist_score": 3.17,
-   "playlists": {
-    "Liked Music": 2
-   },
-   "score": 5.5
-  },
-  {
-   "artist": "Arcy Drive",
-   "key": "arcy drive",
-   "shows": 1,
-   "shows_12mo": 0,
-   "ytm_plays": 23,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2024-04-24",
-   "last_spin": "2024-04-24",
-   "playlist_score": 3.0,
-   "playlists": {
-    "All-Time Favorites": 1,
-    "Liked Music": 1
-   },
-   "score": 5.5
-  },
-  {
-   "artist": "Broken Bells",
-   "key": "broken bells",
-   "shows": 1,
-   "shows_12mo": 0,
-   "ytm_plays": 44,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2022-09-20",
-   "last_spin": "2022-09-20",
-   "playlist_score": 2.38,
-   "playlists": {
-    "All-Time Favorites": 2,
-    "Crawfish Boil": 2
-   },
-   "score": 5.5
-  },
-  {
-   "artist": "Angine de Poitrine",
-   "key": "angine de poitrine",
-   "shows": 2,
-   "shows_12mo": 2,
-   "ytm_plays": 9,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2026-04-09",
-   "last_spin": "2026-04-16",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 5.4
-  },
-  {
-   "artist": "the Beta Band",
-   "key": "beta band",
-   "shows": 5,
-   "shows_12mo": 1,
-   "ytm_plays": 4,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2018-07-04",
-   "last_spin": "2026-02-19",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 5.4
-  },
-  {
-   "artist": "L'Epee",
-   "key": "l epee",
-   "shows": 3,
-   "shows_12mo": 0,
-   "ytm_plays": 4,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2019-09-18",
-   "last_spin": "2019-10-02",
-   "playlist_score": 3.0,
-   "playlists": {
-    "All-Time Favorites": 3,
-    "Crawfish Boil": 3
-   },
-   "score": 5.4
-  },
-  {
-   "artist": "DAM",
-   "key": "dam",
-   "shows": 1,
-   "shows_12mo": 1,
-   "ytm_plays": 102,
-   "ytm_plays_90d": 2,
-   "reviews": 0,
-   "first_spin": "2026-01-15",
-   "last_spin": "2026-01-15",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 5.4
-  },
-  {
-   "artist": "Kristin Hersh",
-   "key": "kristin hersh",
-   "shows": 5,
-   "shows_12mo": 0,
-   "ytm_plays": 21,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2017-03-08",
-   "last_spin": "2019-10-16",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 5.4
-  },
-  {
-   "artist": "Panda Bear",
-   "key": "panda bear",
-   "shows": 2,
-   "shows_12mo": 0,
-   "ytm_plays": 203,
-   "ytm_plays_90d": 2,
-   "reviews": 0,
-   "first_spin": "2019-05-15",
-   "last_spin": "2019-06-05",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 5.4
-  },
-  {
-   "artist": "Husker Du",
-   "key": "husker du",
-   "shows": 5,
-   "shows_12mo": 0,
-   "ytm_plays": 1,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2016-06-21",
-   "last_spin": "2018-02-14",
-   "playlist_score": 2.38,
-   "playlists": {
-    "All-Time Favorites": 2,
-    "Crawfish Boil": 2
-   },
-   "score": 5.4
-  },
-  {
    "artist": "The Specials",
    "key": "specials",
    "shows": 2,
@@ -9370,25 +9266,6 @@
    "playlist_score": 3.5,
    "playlists": {
     "All-Time Favorites": 1,
-    "Crawfish Boil": 1,
-    "Liked Music": 1
-   },
-   "score": 5.4
-  },
-  {
-   "artist": "The Crystal Ark",
-   "key": "crystal ark",
-   "shows": 0,
-   "shows_12mo": 0,
-   "ytm_plays": 10,
-   "ytm_plays_90d": 1,
-   "reviews": 0,
-   "first_spin": null,
-   "last_spin": null,
-   "playlist_score": 4.5,
-   "playlists": {
-    "All-Time Favorites": 1,
-    "Covers": 1,
     "Crawfish Boil": 1,
     "Liked Music": 1
    },
@@ -9415,6 +9292,65 @@
    "score": 5.4
   },
   {
+   "artist": "Panda Bear",
+   "key": "panda bear",
+   "shows": 2,
+   "shows_12mo": 0,
+   "ytm_plays": 203,
+   "ytm_plays_90d": 2,
+   "reviews": 0,
+   "first_spin": "2019-05-15",
+   "last_spin": "2019-06-05",
+   "playlist_score": 0.0,
+   "playlists": {},
+   "score": 5.4
+  },
+  {
+   "artist": "Balkan Beat Box",
+   "key": "balkan beat box",
+   "shows": 7,
+   "shows_12mo": 0,
+   "ytm_plays": 4,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2017-01-11",
+   "last_spin": "2018-07-04",
+   "playlist_score": 0.0,
+   "playlists": {},
+   "score": 5.4
+  },
+  {
+   "artist": "Kristin Hersh",
+   "key": "kristin hersh",
+   "shows": 5,
+   "shows_12mo": 0,
+   "ytm_plays": 21,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2017-03-08",
+   "last_spin": "2019-10-16",
+   "playlist_score": 0.0,
+   "playlists": {},
+   "score": 5.4
+  },
+  {
+   "artist": "L'Epee",
+   "key": "l epee",
+   "shows": 3,
+   "shows_12mo": 0,
+   "ytm_plays": 4,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2019-09-18",
+   "last_spin": "2019-10-02",
+   "playlist_score": 3.0,
+   "playlists": {
+    "All-Time Favorites": 3,
+    "Crawfish Boil": 3
+   },
+   "score": 5.4
+  },
+  {
    "artist": "Amy Winehouse",
    "key": "amy winehouse",
    "shows": 0,
@@ -9432,46 +9368,15 @@
    "score": 5.4
   },
   {
-   "artist": "the Art of Noise",
-   "key": "art of noise",
-   "shows": 4,
+   "artist": "the Beta Band",
+   "key": "beta band",
+   "shows": 5,
    "shows_12mo": 1,
-   "ytm_plays": 9,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2016-08-31",
-   "last_spin": "2026-05-07",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 5.4
-  },
-  {
-   "artist": "The Stranglers",
-   "key": "stranglers",
-   "shows": 3,
-   "shows_12mo": 0,
-   "ytm_plays": 8,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2016-02-23",
-   "last_spin": "2016-11-09",
-   "playlist_score": 2.38,
-   "playlists": {
-    "All-Time Favorites": 2,
-    "Crawfish Boil": 2
-   },
-   "score": 5.4
-  },
-  {
-   "artist": "Balkan Beat Box",
-   "key": "balkan beat box",
-   "shows": 7,
-   "shows_12mo": 0,
    "ytm_plays": 4,
    "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": "2017-01-11",
-   "last_spin": "2018-07-04",
+   "first_spin": "2018-07-04",
+   "last_spin": "2026-02-19",
    "playlist_score": 0.0,
    "playlists": {},
    "score": 5.4
@@ -9496,45 +9401,126 @@
    "score": 5.4
   },
   {
-   "artist": "John Cale",
-   "key": "john cale",
-   "shows": 1,
+   "artist": "The Crystal Ark",
+   "key": "crystal ark",
+   "shows": 0,
    "shows_12mo": 0,
-   "ytm_plays": 16,
+   "ytm_plays": 10,
    "ytm_plays_90d": 1,
    "reviews": 0,
-   "first_spin": "2024-06-26",
-   "last_spin": "2024-06-26",
-   "playlist_score": 3.17,
+   "first_spin": null,
+   "last_spin": null,
+   "playlist_score": 4.5,
    "playlists": {
-    "Liked Music": 2
+    "All-Time Favorites": 1,
+    "Covers": 1,
+    "Crawfish Boil": 1,
+    "Liked Music": 1
+   },
+   "score": 5.4
+  },
+  {
+   "artist": "Angine de Poitrine",
+   "key": "angine de poitrine",
+   "shows": 2,
+   "shows_12mo": 2,
+   "ytm_plays": 9,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2026-04-09",
+   "last_spin": "2026-04-16",
+   "playlist_score": 0.0,
+   "playlists": {},
+   "score": 5.4
+  },
+  {
+   "artist": "The Stranglers",
+   "key": "stranglers",
+   "shows": 3,
+   "shows_12mo": 0,
+   "ytm_plays": 8,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2016-02-23",
+   "last_spin": "2016-11-09",
+   "playlist_score": 2.38,
+   "playlists": {
+    "All-Time Favorites": 2,
+    "Crawfish Boil": 2
+   },
+   "score": 5.4
+  },
+  {
+   "artist": "DAM",
+   "key": "dam",
+   "shows": 1,
+   "shows_12mo": 1,
+   "ytm_plays": 102,
+   "ytm_plays_90d": 2,
+   "reviews": 0,
+   "first_spin": "2026-01-15",
+   "last_spin": "2026-01-15",
+   "playlist_score": 0.0,
+   "playlists": {},
+   "score": 5.4
+  },
+  {
+   "artist": "Husker Du",
+   "key": "husker du",
+   "shows": 5,
+   "shows_12mo": 0,
+   "ytm_plays": 1,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2016-06-21",
+   "last_spin": "2018-02-14",
+   "playlist_score": 2.38,
+   "playlists": {
+    "All-Time Favorites": 2,
+    "Crawfish Boil": 2
+   },
+   "score": 5.4
+  },
+  {
+   "artist": "the Art of Noise",
+   "key": "art of noise",
+   "shows": 4,
+   "shows_12mo": 1,
+   "ytm_plays": 9,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2016-08-31",
+   "last_spin": "2026-05-07",
+   "playlist_score": 0.0,
+   "playlists": {},
+   "score": 5.4
+  },
+  {
+   "artist": "Dead Meadow",
+   "key": "dead meadow",
+   "shows": 0,
+   "shows_12mo": 0,
+   "ytm_plays": 1,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": null,
+   "last_spin": null,
+   "playlist_score": 6.0,
+   "playlists": {
+    "Liked Music": 7
    },
    "score": 5.3
   },
   {
-   "artist": "Trampled by Turtles & Jeff Tweedy",
-   "key": "trampled by turtles and jeff tweedy",
+   "artist": "New Constellations & STRFKR",
+   "key": "new constellations and strfkr",
    "shows": 3,
    "shows_12mo": 3,
    "ytm_plays": 0,
    "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": "2026-07-02",
-   "last_spin": "2026-07-30",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 5.3
-  },
-  {
-   "artist": "ear",
-   "key": "ear",
-   "shows": 2,
-   "shows_12mo": 2,
-   "ytm_plays": 8,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2026-05-21",
-   "last_spin": "2026-05-28",
+   "first_spin": "2026-06-18",
+   "last_spin": "2026-06-25",
    "playlist_score": 0.0,
    "playlists": {},
    "score": 5.3
@@ -9582,17 +9568,33 @@
    "score": 5.3
   },
   {
-   "artist": "New Constellations & STRFKR",
-   "key": "new constellations and strfkr",
-   "shows": 3,
-   "shows_12mo": 3,
-   "ytm_plays": 0,
+   "artist": "ear",
+   "key": "ear",
+   "shows": 2,
+   "shows_12mo": 2,
+   "ytm_plays": 8,
    "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": "2026-06-18",
-   "last_spin": "2026-06-25",
+   "first_spin": "2026-05-21",
+   "last_spin": "2026-05-28",
    "playlist_score": 0.0,
    "playlists": {},
+   "score": 5.3
+  },
+  {
+   "artist": "John Cale",
+   "key": "john cale",
+   "shows": 1,
+   "shows_12mo": 0,
+   "ytm_plays": 16,
+   "ytm_plays_90d": 1,
+   "reviews": 0,
+   "first_spin": "2024-06-26",
+   "last_spin": "2024-06-26",
+   "playlist_score": 3.17,
+   "playlists": {
+    "Liked Music": 2
+   },
    "score": 5.3
   },
   {
@@ -9610,55 +9612,18 @@
    "score": 5.3
   },
   {
-   "artist": "Dead Meadow",
-   "key": "dead meadow",
-   "shows": 0,
-   "shows_12mo": 0,
-   "ytm_plays": 1,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": null,
-   "last_spin": null,
-   "playlist_score": 6.0,
-   "playlists": {
-    "Liked Music": 7
-   },
-   "score": 5.3
-  },
-  {
-   "artist": "Lee Moses",
-   "key": "lee moses",
+   "artist": "Trampled by Turtles & Jeff Tweedy",
+   "key": "trampled by turtles and jeff tweedy",
    "shows": 3,
-   "shows_12mo": 0,
-   "ytm_plays": 6,
-   "ytm_plays_90d": 1,
-   "reviews": 0,
-   "first_spin": "2019-06-26",
-   "last_spin": "2019-10-30",
-   "playlist_score": 2.38,
-   "playlists": {
-    "All-Time Favorites": 2,
-    "Crawfish Boil": 2
-   },
-   "score": 5.2
-  },
-  {
-   "artist": "The Cramps",
-   "key": "cramps",
-   "shows": 5,
-   "shows_12mo": 0,
-   "ytm_plays": 2,
+   "shows_12mo": 3,
+   "ytm_plays": 0,
    "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": "2016-06-07",
-   "last_spin": "2018-10-31",
-   "playlist_score": 1.8,
-   "playlists": {
-    "Halloweenie music": 1,
-    "All-Time Favorites": 1,
-    "Crawfish Boil": 1
-   },
-   "score": 5.2
+   "first_spin": "2026-07-02",
+   "last_spin": "2026-07-30",
+   "playlist_score": 0.0,
+   "playlists": {},
+   "score": 5.3
   },
   {
    "artist": "Morphine",
@@ -9693,6 +9658,23 @@
    "score": 5.2
   },
   {
+   "artist": "Lee Moses",
+   "key": "lee moses",
+   "shows": 3,
+   "shows_12mo": 0,
+   "ytm_plays": 6,
+   "ytm_plays_90d": 1,
+   "reviews": 0,
+   "first_spin": "2019-06-26",
+   "last_spin": "2019-10-30",
+   "playlist_score": 2.38,
+   "playlists": {
+    "All-Time Favorites": 2,
+    "Crawfish Boil": 2
+   },
+   "score": 5.2
+  },
+  {
    "artist": "Black Lips",
    "key": "black lips",
    "shows": 7,
@@ -9721,18 +9703,22 @@
    "score": 5.2
   },
   {
-   "artist": "Maidavale",
-   "key": "maidavale",
-   "shows": 7,
+   "artist": "The Cramps",
+   "key": "cramps",
+   "shows": 5,
    "shows_12mo": 0,
-   "ytm_plays": 0,
+   "ytm_plays": 2,
    "ytm_plays_90d": 0,
-   "reviews": 1,
-   "first_spin": "2018-02-28",
-   "last_spin": "2019-04-10",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 5.1
+   "reviews": 0,
+   "first_spin": "2016-06-07",
+   "last_spin": "2018-10-31",
+   "playlist_score": 1.8,
+   "playlists": {
+    "Halloweenie music": 1,
+    "All-Time Favorites": 1,
+    "Crawfish Boil": 1
+   },
+   "score": 5.2
   },
   {
    "artist": "The Notorious B.I.G.",
@@ -9751,39 +9737,34 @@
    "score": 5.1
   },
   {
-   "artist": "Patrick Sweany",
-   "key": "patrick sweany",
-   "shows": 0,
+   "artist": "IDLES & LCD Soundsystem",
+   "key": "idles and lcd soundsystem",
+   "shows": 2,
    "shows_12mo": 0,
-   "ytm_plays": 5,
+   "ytm_plays": 0,
    "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": null,
-   "last_spin": null,
-   "playlist_score": 4.67,
+   "first_spin": "2024-01-17",
+   "last_spin": "2024-01-24",
+   "playlist_score": 5.0,
    "playlists": {
-    "All-Time Favorites": 1,
-    "Crawfish Boil": 1,
-    "Liked Music": 2
+    "Your Top 25 Tracks of 2026": 1,
+    "Liked Music": 1
    },
    "score": 5.1
   },
   {
-   "artist": "Rival Sons",
-   "key": "rival sons",
-   "shows": 0,
+   "artist": "X",
+   "key": "x",
+   "shows": 5,
    "shows_12mo": 0,
-   "ytm_plays": 5,
+   "ytm_plays": 14,
    "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": null,
-   "last_spin": null,
-   "playlist_score": 4.67,
-   "playlists": {
-    "All-Time Favorites": 1,
-    "Crawfish Boil": 1,
-    "Liked Music": 2
-   },
+   "first_spin": "2019-08-14",
+   "last_spin": "2024-04-24",
+   "playlist_score": 0.0,
+   "playlists": {},
    "score": 5.1
   },
   {
@@ -9819,33 +9800,52 @@
    "score": 5.1
   },
   {
-   "artist": "X",
-   "key": "x",
-   "shows": 5,
+   "artist": "Patrick Sweany",
+   "key": "patrick sweany",
+   "shows": 0,
    "shows_12mo": 0,
-   "ytm_plays": 14,
+   "ytm_plays": 5,
    "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": "2019-08-14",
-   "last_spin": "2024-04-24",
+   "first_spin": null,
+   "last_spin": null,
+   "playlist_score": 4.67,
+   "playlists": {
+    "All-Time Favorites": 1,
+    "Crawfish Boil": 1,
+    "Liked Music": 2
+   },
+   "score": 5.1
+  },
+  {
+   "artist": "Maidavale",
+   "key": "maidavale",
+   "shows": 7,
+   "shows_12mo": 0,
+   "ytm_plays": 0,
+   "ytm_plays_90d": 0,
+   "reviews": 1,
+   "first_spin": "2018-02-28",
+   "last_spin": "2019-04-10",
    "playlist_score": 0.0,
    "playlists": {},
    "score": 5.1
   },
   {
-   "artist": "IDLES & LCD Soundsystem",
-   "key": "idles and lcd soundsystem",
-   "shows": 2,
+   "artist": "Rival Sons",
+   "key": "rival sons",
+   "shows": 0,
    "shows_12mo": 0,
-   "ytm_plays": 0,
+   "ytm_plays": 5,
    "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": "2024-01-17",
-   "last_spin": "2024-01-24",
-   "playlist_score": 5.0,
+   "first_spin": null,
+   "last_spin": null,
+   "playlist_score": 4.67,
    "playlists": {
-    "Your Top 25 Tracks of 2026": 1,
-    "Liked Music": 1
+    "All-Time Favorites": 1,
+    "Crawfish Boil": 1,
+    "Liked Music": 2
    },
    "score": 5.1
   },
@@ -9868,20 +9868,6 @@
    "score": 5.0
   },
   {
-   "artist": "Nina Winder-Lind",
-   "key": "nina winder lind",
-   "shows": 2,
-   "shows_12mo": 2,
-   "ytm_plays": 5,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2026-05-21",
-   "last_spin": "2026-06-25",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 5.0
-  },
-  {
    "artist": "Sun June",
    "key": "sun june",
    "shows": 0,
@@ -9896,34 +9882,6 @@
     "All-Time Favorites": 1,
     "Liked Music": 1
    },
-   "score": 5.0
-  },
-  {
-   "artist": "Throwing Muses",
-   "key": "throwing muses",
-   "shows": 2,
-   "shows_12mo": 2,
-   "ytm_plays": 5,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2026-04-09",
-   "last_spin": "2026-04-16",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 5.0
-  },
-  {
-   "artist": "Leonard Cohen",
-   "key": "leonard cohen",
-   "shows": 6,
-   "shows_12mo": 0,
-   "ytm_plays": 5,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2016-12-07",
-   "last_spin": "2024-04-10",
-   "playlist_score": 0.0,
-   "playlists": {},
    "score": 5.0
   },
   {
@@ -9956,6 +9914,48 @@
    "playlists": {
     "To Review": 6
    },
+   "score": 5.0
+  },
+  {
+   "artist": "Throwing Muses",
+   "key": "throwing muses",
+   "shows": 2,
+   "shows_12mo": 2,
+   "ytm_plays": 5,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2026-04-09",
+   "last_spin": "2026-04-16",
+   "playlist_score": 0.0,
+   "playlists": {},
+   "score": 5.0
+  },
+  {
+   "artist": "Leonard Cohen",
+   "key": "leonard cohen",
+   "shows": 6,
+   "shows_12mo": 0,
+   "ytm_plays": 5,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2016-12-07",
+   "last_spin": "2024-04-10",
+   "playlist_score": 0.0,
+   "playlists": {},
+   "score": 5.0
+  },
+  {
+   "artist": "Nina Winder-Lind",
+   "key": "nina winder lind",
+   "shows": 2,
+   "shows_12mo": 2,
+   "ytm_plays": 5,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2026-05-21",
+   "last_spin": "2026-06-25",
+   "playlist_score": 0.0,
+   "playlists": {},
    "score": 5.0
   },
   {
@@ -9995,41 +9995,6 @@
    "score": 4.9
   },
   {
-   "artist": "Fontaines D.C. & War Child Records",
-   "key": "fontaines d c and war child records",
-   "shows": 1,
-   "shows_12mo": 1,
-   "ytm_plays": 0,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2026-05-07",
-   "last_spin": "2026-05-07",
-   "playlist_score": 4.0,
-   "playlists": {
-    "To Review": 1,
-    "Liked Music": 1
-   },
-   "score": 4.9
-  },
-  {
-   "artist": "Fleet Foxes",
-   "key": "fleet foxes",
-   "shows": 0,
-   "shows_12mo": 0,
-   "ytm_plays": 14,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": null,
-   "last_spin": null,
-   "playlist_score": 3.5,
-   "playlists": {
-    "All-Time Favorites": 1,
-    "Crawfish Boil": 1,
-    "Liked Music": 1
-   },
-   "score": 4.9
-  },
-  {
    "artist": "16 Horsepower",
    "key": "16 horsepower",
    "shows": 0,
@@ -10064,6 +10029,59 @@
    "score": 4.9
   },
   {
+   "artist": "Fleet Foxes",
+   "key": "fleet foxes",
+   "shows": 0,
+   "shows_12mo": 0,
+   "ytm_plays": 14,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": null,
+   "last_spin": null,
+   "playlist_score": 3.5,
+   "playlists": {
+    "All-Time Favorites": 1,
+    "Crawfish Boil": 1,
+    "Liked Music": 1
+   },
+   "score": 4.9
+  },
+  {
+   "artist": "Fontaines D.C. & War Child Records",
+   "key": "fontaines d c and war child records",
+   "shows": 1,
+   "shows_12mo": 1,
+   "ytm_plays": 0,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2026-05-07",
+   "last_spin": "2026-05-07",
+   "playlist_score": 4.0,
+   "playlists": {
+    "To Review": 1,
+    "Liked Music": 1
+   },
+   "score": 4.9
+  },
+  {
+   "artist": "Black Midi",
+   "key": "black midi",
+   "shows": 2,
+   "shows_12mo": 0,
+   "ytm_plays": 2,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2019-07-31",
+   "last_spin": "2019-09-04",
+   "playlist_score": 3.5,
+   "playlists": {
+    "All-Time Favorites": 1,
+    "Crawfish Boil": 1,
+    "Liked Music": 1
+   },
+   "score": 4.8
+  },
+  {
    "artist": "Jenny Lewis",
    "key": "jenny lewis",
    "shows": 6,
@@ -10073,6 +10091,20 @@
    "reviews": 0,
    "first_spin": "2019-04-24",
    "last_spin": "2019-07-10",
+   "playlist_score": 0.0,
+   "playlists": {},
+   "score": 4.8
+  },
+  {
+   "artist": "Wednesday",
+   "key": "wednesday",
+   "shows": 1,
+   "shows_12mo": 1,
+   "ytm_plays": 46,
+   "ytm_plays_90d": 8,
+   "reviews": 0,
+   "first_spin": "2026-06-18",
+   "last_spin": "2026-06-18",
    "playlist_score": 0.0,
    "playlists": {},
    "score": 4.8
@@ -10096,20 +10128,6 @@
    "score": 4.8
   },
   {
-   "artist": "Wednesday",
-   "key": "wednesday",
-   "shows": 1,
-   "shows_12mo": 1,
-   "ytm_plays": 46,
-   "ytm_plays_90d": 8,
-   "reviews": 0,
-   "first_spin": "2026-06-18",
-   "last_spin": "2026-06-18",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 4.8
-  },
-  {
    "artist": "Underscores",
    "key": "underscores",
    "shows": 3,
@@ -10124,20 +10142,20 @@
    "score": 4.8
   },
   {
-   "artist": "Black Midi",
-   "key": "black midi",
-   "shows": 2,
+   "artist": "Gary Clark Jr.",
+   "key": "gary clark jr",
+   "shows": 0,
    "shows_12mo": 0,
-   "ytm_plays": 2,
+   "ytm_plays": 3,
    "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": "2019-07-31",
-   "last_spin": "2019-09-04",
-   "playlist_score": 3.5,
+   "first_spin": null,
+   "last_spin": null,
+   "playlist_score": 4.67,
    "playlists": {
     "All-Time Favorites": 1,
     "Crawfish Boil": 1,
-    "Liked Music": 1
+    "Liked Music": 2
    },
    "score": 4.8
   },
@@ -10151,24 +10169,6 @@
    "reviews": 0,
    "first_spin": "2016-08-03",
    "last_spin": "2016-08-03",
-   "playlist_score": 4.67,
-   "playlists": {
-    "All-Time Favorites": 1,
-    "Crawfish Boil": 1,
-    "Liked Music": 2
-   },
-   "score": 4.8
-  },
-  {
-   "artist": "Gary Clark Jr.",
-   "key": "gary clark jr",
-   "shows": 0,
-   "shows_12mo": 0,
-   "ytm_plays": 3,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": null,
-   "last_spin": null,
    "playlist_score": 4.67,
    "playlists": {
     "All-Time Favorites": 1,
@@ -10194,15 +10194,15 @@
    "score": 4.8
   },
   {
-   "artist": "Phantogram",
-   "key": "phantogram",
-   "shows": 5,
+   "artist": "French Vanilla",
+   "key": "french vanilla",
+   "shows": 8,
    "shows_12mo": 0,
-   "ytm_plays": 8,
+   "ytm_plays": 0,
    "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": "2016-08-31",
-   "last_spin": "2017-06-21",
+   "first_spin": "2017-07-26",
+   "last_spin": "2019-08-28",
    "playlist_score": 0.0,
    "playlists": {},
    "score": 4.7
@@ -10222,43 +10222,15 @@
    "score": 4.7
   },
   {
-   "artist": "Lonesome Shack",
-   "key": "lonesome shack",
+   "artist": "The New Year",
+   "key": "new year",
    "shows": 8,
    "shows_12mo": 0,
    "ytm_plays": 0,
    "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": "2019-07-31",
-   "last_spin": "2019-09-25",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 4.7
-  },
-  {
-   "artist": "Stephen Malkmus",
-   "key": "stephen malkmus",
-   "shows": 8,
-   "shows_12mo": 0,
-   "ytm_plays": 0,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2019-04-24",
-   "last_spin": "2020-01-08",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 4.7
-  },
-  {
-   "artist": "The Dream Syndicate",
-   "key": "dream syndicate",
-   "shows": 8,
-   "shows_12mo": 0,
-   "ytm_plays": 0,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2018-01-03",
-   "last_spin": "2018-07-25",
+   "first_spin": "2017-07-19",
+   "last_spin": "2018-04-25",
    "playlist_score": 0.0,
    "playlists": {},
    "score": 4.7
@@ -10278,34 +10250,35 @@
    "score": 4.7
   },
   {
-   "artist": "Damned",
-   "key": "damned",
-   "shows": 3,
+   "artist": "Lonesome Shack",
+   "key": "lonesome shack",
+   "shows": 8,
    "shows_12mo": 0,
-   "ytm_plays": 3,
+   "ytm_plays": 0,
    "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": "2016-06-21",
-   "last_spin": "2017-12-27",
-   "playlist_score": 2.38,
-   "playlists": {
-    "All-Time Favorites": 2,
-    "Crawfish Boil": 2
-   },
+   "first_spin": "2019-07-31",
+   "last_spin": "2019-09-25",
+   "playlist_score": 0.0,
+   "playlists": {},
    "score": 4.7
   },
   {
-   "artist": "Les Rita Mitsouko",
-   "key": "les rita mitsouko",
-   "shows": 5,
-   "shows_12mo": 1,
-   "ytm_plays": 1,
+   "artist": "Kings Of Leon",
+   "key": "kings of leon",
+   "shows": 0,
+   "shows_12mo": 0,
+   "ytm_plays": 11,
    "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": "2016-04-26",
-   "last_spin": "2026-04-09",
-   "playlist_score": 0.0,
-   "playlists": {},
+   "first_spin": null,
+   "last_spin": null,
+   "playlist_score": 3.5,
+   "playlists": {
+    "All-Time Favorites": 1,
+    "Crawfish Boil": 1,
+    "Liked Music": 1
+   },
    "score": 4.7
   },
   {
@@ -10337,50 +10310,91 @@
    "score": 4.7
   },
   {
-   "artist": "French Vanilla",
-   "key": "french vanilla",
-   "shows": 8,
+   "artist": "Phantogram",
+   "key": "phantogram",
+   "shows": 5,
    "shows_12mo": 0,
-   "ytm_plays": 0,
+   "ytm_plays": 8,
    "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": "2017-07-26",
-   "last_spin": "2019-08-28",
+   "first_spin": "2016-08-31",
+   "last_spin": "2017-06-21",
    "playlist_score": 0.0,
    "playlists": {},
    "score": 4.7
   },
   {
-   "artist": "Kings Of Leon",
-   "key": "kings of leon",
-   "shows": 0,
-   "shows_12mo": 0,
-   "ytm_plays": 11,
+   "artist": "Les Rita Mitsouko",
+   "key": "les rita mitsouko",
+   "shows": 5,
+   "shows_12mo": 1,
+   "ytm_plays": 1,
    "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": null,
-   "last_spin": null,
-   "playlist_score": 3.5,
+   "first_spin": "2016-04-26",
+   "last_spin": "2026-04-09",
+   "playlist_score": 0.0,
+   "playlists": {},
+   "score": 4.7
+  },
+  {
+   "artist": "Damned",
+   "key": "damned",
+   "shows": 3,
+   "shows_12mo": 0,
+   "ytm_plays": 3,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2016-06-21",
+   "last_spin": "2017-12-27",
+   "playlist_score": 2.38,
    "playlists": {
-    "All-Time Favorites": 1,
-    "Crawfish Boil": 1,
-    "Liked Music": 1
+    "All-Time Favorites": 2,
+    "Crawfish Boil": 2
    },
    "score": 4.7
   },
   {
-   "artist": "The New Year",
-   "key": "new year",
+   "artist": "The Dream Syndicate",
+   "key": "dream syndicate",
    "shows": 8,
    "shows_12mo": 0,
    "ytm_plays": 0,
    "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": "2017-07-19",
-   "last_spin": "2018-04-25",
+   "first_spin": "2018-01-03",
+   "last_spin": "2018-07-25",
    "playlist_score": 0.0,
    "playlists": {},
    "score": 4.7
+  },
+  {
+   "artist": "Stephen Malkmus",
+   "key": "stephen malkmus",
+   "shows": 8,
+   "shows_12mo": 0,
+   "ytm_plays": 0,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2019-04-24",
+   "last_spin": "2020-01-08",
+   "playlist_score": 0.0,
+   "playlists": {},
+   "score": 4.7
+  },
+  {
+   "artist": "Water From Your Eyes",
+   "key": "water from your eyes",
+   "shows": 1,
+   "shows_12mo": 1,
+   "ytm_plays": 34,
+   "ytm_plays_90d": 5,
+   "reviews": 0,
+   "first_spin": "2026-08-20",
+   "last_spin": "2026-08-20",
+   "playlist_score": 0.0,
+   "playlists": {},
+   "score": 4.6
   },
   {
    "artist": "Charlie Rich",
@@ -10397,20 +10411,6 @@
     "All-Time Favorites": 2,
     "Liked Music": 1
    },
-   "score": 4.6
-  },
-  {
-   "artist": "Water From Your Eyes",
-   "key": "water from your eyes",
-   "shows": 1,
-   "shows_12mo": 1,
-   "ytm_plays": 34,
-   "ytm_plays_90d": 5,
-   "reviews": 0,
-   "first_spin": "2026-08-20",
-   "last_spin": "2026-08-20",
-   "playlist_score": 0.0,
-   "playlists": {},
    "score": 4.6
   },
   {
@@ -10432,6 +10432,38 @@
    "score": 4.6
   },
   {
+   "artist": "Beach House",
+   "key": "beach house",
+   "shows": 3,
+   "shows_12mo": 0,
+   "ytm_plays": 29,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2016-06-07",
+   "last_spin": "2016-07-20",
+   "playlist_score": 0.0,
+   "playlists": {},
+   "score": 4.5
+  },
+  {
+   "artist": "King Buffalo",
+   "key": "king buffalo",
+   "shows": 0,
+   "shows_12mo": 0,
+   "ytm_plays": 2,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": null,
+   "last_spin": null,
+   "playlist_score": 4.67,
+   "playlists": {
+    "All-Time Favorites": 1,
+    "Crawfish Boil": 1,
+    "Liked Music": 2
+   },
+   "score": 4.5
+  },
+  {
    "artist": "Destroyer",
    "key": "destroyer",
    "shows": 5,
@@ -10441,20 +10473,6 @@
    "reviews": 0,
    "first_spin": "2017-12-13",
    "last_spin": "2020-03-11",
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 4.5
-  },
-  {
-   "artist": "Screaming Trees",
-   "key": "screaming trees",
-   "shows": 4,
-   "shows_12mo": 0,
-   "ytm_plays": 14,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2016-03-15",
-   "last_spin": "2022-12-22",
    "playlist_score": 0.0,
    "playlists": {},
    "score": 4.5
@@ -10478,24 +10496,6 @@
    "score": 4.5
   },
   {
-   "artist": "King Buffalo",
-   "key": "king buffalo",
-   "shows": 0,
-   "shows_12mo": 0,
-   "ytm_plays": 2,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": null,
-   "last_spin": null,
-   "playlist_score": 4.67,
-   "playlists": {
-    "All-Time Favorites": 1,
-    "Crawfish Boil": 1,
-    "Liked Music": 2
-   },
-   "score": 4.5
-  },
-  {
    "artist": "Lera Lynn & Shovels & Rope",
    "key": "lera lynn and shovels and rope",
    "shows": 0,
@@ -10513,20 +10513,6 @@
     "Crawfish Boil": 2,
     "Liked Music": 1
    },
-   "score": 4.5
-  },
-  {
-   "artist": "Adia Victoria",
-   "key": "adia victoria",
-   "shows": 5,
-   "shows_12mo": 0,
-   "ytm_plays": 1,
-   "ytm_plays_90d": 0,
-   "reviews": 1,
-   "first_spin": "2019-10-16",
-   "last_spin": "2020-02-26",
-   "playlist_score": 0.0,
-   "playlists": {},
    "score": 4.5
   },
   {
@@ -10563,33 +10549,59 @@
    "score": 4.5
   },
   {
-   "artist": "Beach House",
-   "key": "beach house",
-   "shows": 3,
+   "artist": "Adia Victoria",
+   "key": "adia victoria",
+   "shows": 5,
    "shows_12mo": 0,
-   "ytm_plays": 29,
+   "ytm_plays": 1,
    "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2016-06-07",
-   "last_spin": "2016-07-20",
+   "reviews": 1,
+   "first_spin": "2019-10-16",
+   "last_spin": "2020-02-26",
    "playlist_score": 0.0,
    "playlists": {},
    "score": 4.5
   },
   {
-   "artist": "Sleepy Sun",
-   "key": "sleepy sun",
+   "artist": "Screaming Trees",
+   "key": "screaming trees",
+   "shows": 4,
+   "shows_12mo": 0,
+   "ytm_plays": 14,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2016-03-15",
+   "last_spin": "2022-12-22",
+   "playlist_score": 0.0,
+   "playlists": {},
+   "score": 4.5
+  },
+  {
+   "artist": "Silversun Pickups",
+   "key": "silversun pickups",
+   "shows": 2,
+   "shows_12mo": 0,
+   "ytm_plays": 56,
+   "ytm_plays_90d": 0,
+   "reviews": 0,
+   "first_spin": "2017-10-18",
+   "last_spin": "2024-03-27",
+   "playlist_score": 0.0,
+   "playlists": {},
+   "score": 4.4
+  },
+  {
+   "artist": "The Smile",
+   "key": "smile",
    "shows": 0,
    "shows_12mo": 0,
-   "ytm_plays": 0,
-   "ytm_plays_90d": 0,
+   "ytm_plays": 267,
+   "ytm_plays_90d": 1,
    "reviews": 0,
    "first_spin": null,
    "last_spin": null,
-   "playlist_score": 5.61,
-   "playlists": {
-    "Liked Music": 6
-   },
+   "playlist_score": 0.0,
+   "playlists": {},
    "score": 4.4
   },
   {
@@ -10637,48 +10649,19 @@
    "score": 4.4
   },
   {
-   "artist": "The Smile",
-   "key": "smile",
+   "artist": "Sleepy Sun",
+   "key": "sleepy sun",
    "shows": 0,
    "shows_12mo": 0,
-   "ytm_plays": 267,
-   "ytm_plays_90d": 1,
+   "ytm_plays": 0,
+   "ytm_plays_90d": 0,
    "reviews": 0,
    "first_spin": null,
    "last_spin": null,
-   "playlist_score": 0.0,
-   "playlists": {},
-   "score": 4.4
-  },
-  {
-   "artist": "Squeeze",
-   "key": "squeeze",
-   "shows": 2,
-   "shows_12mo": 0,
-   "ytm_plays": 6,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2016-04-19",
-   "last_spin": "2016-08-18",
-   "playlist_score": 2.08,
+   "playlist_score": 5.61,
    "playlists": {
-    "All-Time Favorites": 2,
-    "Crawfish Boil": 1
+    "Liked Music": 6
    },
-   "score": 4.4
-  },
-  {
-   "artist": "Silversun Pickups",
-   "key": "silversun pickups",
-   "shows": 2,
-   "shows_12mo": 0,
-   "ytm_plays": 56,
-   "ytm_plays_90d": 0,
-   "reviews": 0,
-   "first_spin": "2017-10-18",
-   "last_spin": "2024-03-27",
-   "playlist_score": 0.0,
-   "playlists": {},
    "score": 4.4
   },
   {
@@ -10700,37 +10683,50 @@
    "score": 4.4
   },
   {
-   "artist": "Everything Everything",
-   "key": "everything everything",
-   "shows": 0,
+   "artist": "Squeeze",
+   "key": "squeeze",
+   "shows": 2,
    "shows_12mo": 0,
-   "ytm_plays": 10,
+   "ytm_plays": 6,
    "ytm_plays_90d": 0,
    "reviews": 0,
-   "first_spin": null,
-   "last_spin": null,
-   "playlist_score": 3.0,
+   "first_spin": "2016-04-19",
+   "last_spin": "2016-08-18",
+   "playlist_score": 2.08,
    "playlists": {
-    "All-Time Favorites": 1,
-    "Liked Music": 1
+    "All-Time Favorites": 2,
+    "Crawfish Boil": 1
    },
+   "score": 4.4
+  },
+  {
+   "artist": "Gladie",
+   "key": "gladie",
+   "shows": 1,
+   "shows_12mo": 0,
+   "ytm_plays": 32,
+   "ytm_plays_90d": 0,
+   "reviews": 1,
+   "first_spin": "2023-02-02",
+   "last_spin": "2023-02-02",
+   "playlist_score": 0.0,
+   "playlists": {},
    "score": 4.3
   },
   {
-   "artist": "Juliana Hatfield",
-   "key": "juliana hatfield",
-   "shows": 1,
+   "artist": "Thundercat",
+   "key": "thundercat",
+   "shows": 0,
    "shows_12mo": 0,
-   "ytm_plays": 8,
-   "ytm_plays_90d": 0,
+   "ytm_plays": 29,
+   "ytm_plays_90d": 1,
    "reviews": 0,
-   "first_spin": "2016-10-26",
-   "last_spin": "2016-10-26",
-   "playlist_score": 2.5,
+   "first_spin": null,
+   "last_spin": null,
+   "playlist_score": 2.0,
    "playlists": {
     "All-Time Favorites": 1,
-    "Covers": 1,
-    "Crawfish Boil": 1
+    "Covers": 1
    },
    "score": 4.3
   },
@@ -10752,19 +10748,18 @@
    "score": 4.3
   },
   {
-   "artist": "Thundercat",
-   "key": "thundercat",
+   "artist": "2Pac",
+   "key": "2pac",
    "shows": 0,
    "shows_12mo": 0,
-   "ytm_plays": 29,
-   "ytm_plays_90d": 1,
+   "ytm_plays": 1,
+   "ytm_plays_90d": 0,
    "reviews": 0,
    "first_spin": null,
    "last_spin": null,
-   "playlist_score": 2.0,
+   "playlist_score": 4.81,
    "playlists": {
-    "All-Time Favorites": 1,
-    "Covers": 1
+    "All-Time Favorites": 27
    },
    "score": 4.3
   },
@@ -10783,17 +10778,19 @@
    "score": 4.3
   },
   {
-   "artist": "Gladie",
-   "key": "gladie",
-   "shows": 1,
+   "artist": "Mobb Deep",
+   "key": "mobb deep",
+   "shows": 0,
    "shows_12mo": 0,
-   "ytm_plays": 32,
+   "ytm_plays": 3,
    "ytm_plays_90d": 0,
-   "reviews": 1,
-   "first_spin": "2023-02-02",
-   "last_spin": "2023-02-02",
-   "playlist_score": 0.0,
-   "playlists": {},
+   "reviews": 0,
+   "first_spin": null,
+   "last_spin": null,
+   "playlist_score": 4.09,
+   "playlists": {
+    "All-Time Favorites": 16
+   },
    "score": 4.3
   }
  ],

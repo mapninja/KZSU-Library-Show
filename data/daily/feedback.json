@@ -1,11 +1,13 @@
 {
  "note": "Taste feedback from DJ Stace's playlist edits. 'removed' = she deleted it: not currently interested; don't re-suggest for 60 days (cooloff_until); downweight an artist only after 3+ removals. 'added_by_stace' = she added it herself: it fits, keep it, never remove it in automated rewrites, and treat artist/label/RIYL as positive signals. 'kept' = survived 2+ daily checks. Written by the kzsu-daily-playlist and kzsu-thursday-working-rewrite tasks.",
  "playlist": {
-  "name": "Stace's Daily Playlist",
+  "name": "Stace's Weekly Playlist",
   "id": "PLCLF-Tik2UHk",
   "url": "https://music.youtube.com/playlist?list=PLCLF-Tik2UHk",
   "created": "2026-09-29",
-  "privacy": "Public"
+  "privacy": "Public",
+  "renamed": "2026-09-30",
+  "cadence": "weekly, Thursdays 6 p.m. PT"
  },
  "removed": [
   {
@@ -103,6 +105,36 @@
    "title": "Real Wild Child (Wild One)",
    "videoId": "d1IQLLkXBck",
    "cooloff_until": "2026-11-26"
+  },
+  {
+   "date": "2026-09-30",
+   "source_playlist": "Stace's Daily Playlist (PLCLF-Tik2UHk)",
+   "artist": "The War On Drugs",
+   "title": "Who's That",
+   "videoId": "QcXna5iWtOk",
+   "bucket": "show",
+   "signal": "new single, Stereogum Best Songs",
+   "cooloff_until": "2026-11-29"
+  },
+  {
+   "date": "2026-09-30",
+   "source_playlist": "Stace's Daily Playlist (PLCLF-Tik2UHk)",
+   "artist": "Iceage",
+   "title": "Match Head Girl",
+   "videoId": "jCOIczD6iPQ",
+   "bucket": "review",
+   "signal": "staged album No. 9; aired single \"Star\"",
+   "cooloff_until": "2026-11-29"
+  },
+  {
+   "date": "2026-09-30",
+   "source_playlist": "Stace's Daily Playlist (PLCLF-Tik2UHk)",
+   "artist": "Wishy",
+   "title": "Mona Lisa",
+   "videoId": "pm2d3dXkJ4w",
+   "bucket": "show",
+   "signal": "Oct. 1 candidate list, new single",
+   "cooloff_until": "2026-11-29"
   }
  ],
  "added_by_stace": [
@@ -134,6 +166,9 @@
   "Blondshell": 1,
   "Johnny Marr": 1,
   "Blancmange": 1,
-  "Iggy Pop": 1
+  "Iggy Pop": 1,
+  "The War On Drugs": 1,
+  "Iceage": 1,
+  "Wishy": 1
  }
 }

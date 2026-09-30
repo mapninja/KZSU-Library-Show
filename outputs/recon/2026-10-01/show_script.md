@@ -149,5 +149,5 @@ Draft 3, Sept. 29. Synced to your Air Order edits: 39 tracks, about 2 hours, 34 
 
 - [ ] Listen to Little Barrie "Luggin' Hurt" and Mandrake Handshake for FCC words (no lyrics posted).
 - [ ] Refresh Tuesday (Sept. 29) recon for late singles.
-- [ ] Upload `working_zookeeper_upload.csv` (41 rows, includes Deerhoof and Swans), then delete unplayed rows after the show.
+- [ ] Upload `working_zookeeper_upload.csv` (41 rows, includes Deerhoof and Swans; reversed, so Dirty Three is row 1 and QOTSA is row 41), then delete unplayed rows after the show.
 - [ ] Fix the Sept. 24 playlist labels in Zookeeper.
