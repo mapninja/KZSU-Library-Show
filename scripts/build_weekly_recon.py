@@ -10,7 +10,7 @@ INPUT (you or the assistant edit this):
 
 OUTPUTS (regenerated every run, safe to overwrite):
     outputs/recon/<SHOW_DATE>/track_suggestions.md   preview links, metadata, FCC flags
-    outputs/recon/<SHOW_DATE>/zookeeper_upload.csv    KZSU Zookeeper import file
+    outputs/recon/<SHOW_DATE>/zookeeper_upload.csv    KZSU Zookeeper import file (REVERSED air order)
     outputs/recon/<SHOW_DATE>/ytm_playlist.json        track list for the YTM playlist
     (a "working_" prefix is added when the input is working_playlist.json)
 
@@ -110,23 +110,23 @@ def main(show_date: str, input_name: str = "candidates.json") -> None:
     lines.insert(5, "")
     (out_dir / f"{prefix or 'track_'}{'playlist' if prefix else 'suggestions'}.md").write_text("\n".join(lines), encoding="utf-8")
 
-    # ---- 2. Zookeeper CSV (REVERSED order, SKIP and CUT tracks removed) ---
-    # Why reversed? DJ Stace's playback setup works bottom-up: the first
-    # on-air track must be the LAST row, just like the reversed YouTube Music
-    # "Working" playlist. So we collect the rows in forward air order first,
-    # then write them out backwards.
-    rows = []  # a Python list; each item is one CSV row (itself a list of 6 values)
+    # ---- 2. Zookeeper CSV (REVERSED order, SKIP/CUT tracks removed) -------
+    # DJ Stace's playback setup works bottom-up, like the YTM Working playlist.
+    # So the CSV is written in REVERSE air order:
+    #   first row = LAST track on air, last row = FIRST track on air.
+    rows = []  # collect rows in forward (air) order first
     for s in data["sets"]:
         for t in s["tracks"]:
             if t["priority"] in ("SKIP", "CUT"):
-                continue  # skip FCC problems and tracks Stace removed
+                continue  # skipped or cut tracks never go in the upload
             album = t["album"].replace(" (advance single)", "")
             label = "" if t["label"] == "unverified" else t["label"]
+            # 6 positional columns: artist, track, album, tag, label, timestamp
             rows.append([t["artist"], t["track"], album, t.get("tag", ""), label, ""])
-    rows.reverse()  # flips the list in place: last on-air track now comes first
+    rows.reverse()  # flip to bottom-up order for playback
     with (out_dir / f"{prefix}zookeeper_upload.csv").open("w", newline="", encoding="utf-8") as f:
-        w = csv.writer(f, quoting=csv.QUOTE_ALL)  # QUOTE_ALL wraps every field in "quotes"
-        w.writerows(rows)  # writes every row in one call
+        w = csv.writer(f, quoting=csv.QUOTE_ALL)  # quote every field, as Zookeeper expects
+        w.writerows(rows)
 
     # ---- 3. YTM working playlist plan -------------------------------------
     ytm = [{"artist": t["artist"], "track": t["track"], "album": t["album"], "priority": t["priority"],
