@@ -1,0 +1,6 @@
+{
+    "lmstudioCode.minContextLength": 131072,
+    "lmstudioCode.permissionMode": "bypass",
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda"
+}

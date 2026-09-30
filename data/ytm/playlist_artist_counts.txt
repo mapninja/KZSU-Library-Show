@@ -1,0 +1,598 @@
+# Artist counts per YouTube Music playlist, scraped from music.youtube.com on 2026-09-29.
+# Format: artist:<code><count> ...   ("&" was written as "+" during export)
+# Codes are defined in data/ytm/playlists.json. Artists with only one track that sits
+# in both All-Time Favorites (h) and Crawfish Boil (n) were dropped as weak signal.
+Ty Segall:d1 f2 h12 j2 n10 o5 p8 q1
+Queens of the Stone Age:c9 d1 h14 j1 n8 p8 r1
+Father John Misty:f6 g4 h29 n12 p8 q1
+Sturgill Simpson:g1 h33 j3 m2 n5 p5
+Twisted Teens:d1 f4 l22 o12 p4 q2
+BODEGA:d1 h18 l2 n3 p8 q1
+Elliott Smith:a1 g1 h5 j1 n5 p3
+Iron + Wine:h2 j1 m1 n2 p1 q2
+Guided By Voices:g1 h82 i1 n81 p10
+Beastie Boys:b13 h39 n16 p3 r1
+El Michels Affair:b15 h15 n15 o16 p1
+Wilco:g1 h41 j2 n10 p3
+Queens Of The Stone Age:c13 h17 j1 n9 p12
+Car Seat Headrest:f2 h35 j2 n5 p2
+Skinny Puppy:e30 h4 i1 n4 p4
+Soundgarden:g1 h13 j1 n13 p13
+Cat Power:a23 h4 i1 n4 p6
+Nick Cave + The Bad Seeds:e2 g1 h9 n8 p11
+Mazzy Star:a10 g1 h4 n4 p1
+Bill Callahan:f1 g1 h1 o12 p1
+Van Morrison:g1 h3 m1 n2 p2
+Sparklehorse:h3 j1 m1 n3 p1
+Lucius:h3 j1 m1 n2 p1
+TV Priest:d1 h1 n1 p2 q2
+Lera Lynn + Shovels + Rope:e1 h2 j1 n2 p1
+Death Cab for Cutie:g1 h1 m1 n1 p1
+beckmangroup:g1 h1 j1 m1 n1
+Bedouine , Hurray For The Riff Raff + Waxahatchee:h1 j1 m1 n1 p1
+CBC Music:h1 j1 m1 n1 p1
+Lucy Dacus:h1 j1 n1 p1 q1
+Coil:e32 h35 n35 p3
+The Black Keys:g1 h12 n54 p20
+Nick Drake:a68 h3 n3 p4
+Willie Nelson:g1 h63 n6 p4
+INXS:g1 h60 n2 p1
+Wugazi:h23 k11 n23 p1
+The Black Angels:e1 h8 n8 p31
+Karen Dalton:a1 h20 n20 p1
+The Flaming Lips:g1 h19 n18 p1
+The Arcs:g1 h7 n27 p3
+The Brian Jonestown Massacre:h9 i1 n9 p13
+Galaxie 500:h14 j1 n14 p1
+Beck:h8 j10 n7 p4
+SAULT:a20 h2 n2 p3
+Pixies:h20 i1 n2 p4
+Tricky + Martina Topley-Bird:a23 h1 n1 p1
+Desert Sessions:c3 h11 k3 n9
+Stereolab:f1 h17 n4 p1
+Suki Waterhouse:f2 h2 l15 p2
+Fatso Jetson:b1 c6 h8 n3
+The Dirtbombs:g1 h3 n13 p1
+This Is Lorelei:d1 h10 p4 q1
+PJ Harvey:g1 h5 n4 p6
+Brant Bjork:c3 h6 n3 p3
+James Johnston:a10 h1 n1 p2
+Fu Manchu:c3 h5 n4 p2
+The Rolling Stones:e1 h4 n4 p5
+Yeah Yeah Yeahs:g1 h5 n5 p3
+Jack White:f1 h3 n3 p6
+Melvins:h4 j1 n4 p4
+St. Vincent:h4 j1 n4 p4
+Eagles Of Death Metal:c2 h4 j2 n4
+The Kills:e1 h3 n3 p5
+The Police:g2 h5 n4 p1
+Caroline Rose:d2 h4 n4 r1
+The Psychedelic Furs:h5 m1 n3 p2
+Tindersticks:a1 h3 n3 p3
+The White Stripes:g1 h3 n2 p4
+Leon Bridges:a1 h2 n2 p4
+The Jesus and Mary Chain:g1 h2 n2 p4
+Fruit Bats:h3 j1 n3 p2
+Big Star:h3 m1 n3 p2
+Cigarettes After Sex:a1 h3 n3 p1
+Eagles of Death Metal:c1 g1 h1 p5
+Talking Heads:e1 h3 n3 p1
+Devo:g1 h1 n1 p5
+DeVotchKa:h2 j1 n1 p4
+The Mountain Goats:d1 h2 n2 p2
+The Beach Boys:g1 h3 n2 p1
+Pavement:h2 j1 n2 p2
+SOFT PLAY:h2 n2 p2 q1
+Rage Against The Machine:h1 n1 p4 r1
+The Beatles:g1 h2 n2 p1
+Big Thief:g1 h2 n2 p1
+Bedhead:h3 j1 n1 p1
+Nebula:h2 j1 n2 p1
+Dumb:h1 i1 n1 p3
+Nilüfer Yanya:h1 j1 n1 p3
+Eddie Vedder:h2 j2 m1 p1
+The Stone Roses:f1 h2 j1 n1
+Sylvan Esso:h1 l1 n1 p2
+She Wants Revenge:h1 n1 p2 r1
+Benjamin Booker:h1 n1 p2 r1
+Bon Iver:a1 h1 n1 p1
+Lee Harvey Oswald Band:h1 k1 n1 p1
+Sneaker Pimps:h1 j1 n1 p1
+Amen Dunes:h1 j1 n1 p1
+Tim Buckley:h1 m1 n1 p1
+Tkay Maidza:h1 j1 n1 p1
+Sunflower Bean:h1 j1 n1 p1
+The Crystal Ark:h1 j1 n1 p1
+Marissa Nadler:h1 j1 n1 p1
+Sleaford Mods:h1 n1 p1 r1
+Bauhaus:e22 h62 n62
+Tom Waits:h69 n53 p4
+Mr. Gnome:h41 n41 p8
+Cocteau Twins:a63 f1 p2
+Weezer:h51 n1 p2
+Radiohead:h40 n9 p3
+Sonic Youth:h42 n3 p5
+Spoon:h21 n21 p7
+The Glands:h23 n23 p1
+Dan Auerbach:h9 n30 p5
+Yo La Tengo:h19 n19 p1
+Dr. John:h1 n34 p1
+Led Zeppelin:h27 n3 p2
+The Walkmen:h15 n15 p2
+Duster:h15 i1 n15
+The Grifters:h25 n2 p3
+Them Crooked Vultures:c13 h13 p3
+Barkmarket:h14 n14 p1
+Old 97's:h26 n1 p1
+Built To Spill:h12 n12 p3
+Grifters:h16 n4 p7
+Toledo:h13 n12 p1
+Betty Davis:h1 n23 p2
+The Wedding Present:h7 n7 p10
+Nirvana:h5 n3 p16
+Interpol:h11 n11 p1
+Viagra Boys:h1 o15 p5
+Bob Dylan:h9 n9 p2
+Angelica Garcia:h1 n16 p3
+Wu-Tang Clan:h15 n1 p4
+Hanni El Khatib:h6 n6 p7
+Parquet Courts:h15 n1 p3
+Lauryn Hill:h16 n1 p1
+DOPE LEMON:g1 h12 p3
+Jimmy Buffett:h13 n2 p1
+The Murlocs:h2 n12 p2
+Tricky:a13 h1 n1
+Funkadelic:h7 n7 q1
+Massive Attack:a12 h1 n1
+This Mortal Coil:a12 h1 n1
+Annabelle Chairlegs:d1 o10 p3
+Son Volt:d1 h11 n2
+LCD Soundsystem:h10 n1 p3
+Courtney Barnett:h5 n5 p4
+Deap Vally:h3 n3 p8
+Ulrika Spacek:h1 n1 o11
+Cage The Elephant:h5 n5 p3
+Black Rebel Motorcycle Club:h3 n3 p7
+David Bowie:h4 n4 p5
+Dirty Three:a1 h10 p1
+Gallon Drunk:h5 n5 p2
+Seratones:h5 k2 n5
+Jane's Addiction:h3 n3 p5
+UNKLE:h4 n4 p3
+R.E.M.:g1 h5 n4
+Geese:g1 h1 p8
+Black Pistol Fire:h4 n4 p2
+Unsane:h4 n4 p2
+Alabama Shakes:h3 n3 p4
+Andrew Bird:h4 n4 p2
+Joy Division:h4 n4 p2
+Black Mountain:h1 n1 p8
+The Raconteurs:h2 n2 p5
+King Gizzard + The Lizard Wizard:h3 n3 p3
+Teenage Fanclub:h4 n4 p1
+The Dead Weather:h2 n2 p5
+Band Of Skulls:h2 n2 p4
+Cass McCombs:h3 n3 p2
+The Shins:h3 n3 p2
+My Morning Jacket:h3 n3 p2
+Arcade Fire:h3 n3 p2
+Screaming Females:h4 j1 n3
+New Order:h4 n3 p1
+The Pleasure Routine:h2 n2 p4
+The Jesus Lizard:h4 n2 p2
+Skinshape:d1 l1 p5
+Ron Gallo:d1 h3 n3
+Stevie Wonder:g1 h3 n3
+Ezra Furman:h3 n3 p1
+CocoRosie:h3 n3 p1
+Laura Marling:h2 n2 p3
+Fontaines D.C.:h4 n2 p1
+Black Pumas:h3 n3 p1
+Daniel Johnston:h3 n3 p1
+She Keeps Bees:h3 n3 p1
+Sly + The Family Stone:h3 n1 p3
+The Doors:h3 n3 p1
+Wolfmother:h2 n2 p3
+Slint:h2 n2 p3
+Kurt Vile:h3 j1 n3
+The Breeders:h3 n2 p2
+20 Miles:h3 n3 p1
+Arctic Monkeys:h2 n2 p3
+Jon Spencer Blues Explosion:h1 n1 p5
+Tropical Fuck Storm:h3 j1 n3
+Mike Oldfield:b2 h2 n2
+Angel Olsen:h2 n2 p2
+Swans:h2 n2 p2
+Public Image Ltd.:h2 n2 p2
+Pip Blom:h3 n2 p1
+Wire:h2 n2 p2
+IDLES:h1 n1 p4
+Dinosaur Jr.:h2 n2 p2
+Timber Timbre:h2 n2 p2
+AC/DC:h2 n2 p2
+The Big Moon:h2 n2 p2
+Portugal. The Man:h3 j1 n2
+16 Horsepower:h2 n2 p2
+Son House:h2 n2 p2
+Beirut:h2 n2 p2
+Phosphorescent:h2 n2 p2
+alt-J:h2 n2 p2
+Adam + The Ants:h2 n2 p2
+Royel Otis:h2 j1 p3
+Girl and Girl:h2 l1 p3
+Consolidated:h2 n2 r2
+ABlackShade:c2 h2 n1
+Yard Act:d1 p3 q1
+Siouxsie And The Banshees:e1 h2 n2
+Ministry:e1 h2 n2
+The Cure:h2 n2 p1
+Low Cut Connie:h2 n2 p1
+Sharon Van Etten:h2 n2 p1
+Stef Chura:h2 n2 p1
+Kae Tempest:h2 n2 p1
+Thee Shams:h2 n2 p1
+Modest Mouse:h2 n2 p1
+Okkervil River:h2 n2 p1
+Jolie Holland:h2 n2 p1
+The Tallest Man On Earth:h2 n2 p1
+Perfume Genius:h1 n1 p3
+U.S. Girls:h2 n2 p1
+Built to Spill:h2 n2 p1
+Uncle Tupelo:h2 j1 n2
+Those Bastard Souls:h2 n2 p1
+Animal Collective:h2 n2 p1
+The Strokes:h2 n2 p1
+Railroad Jerk:h2 n2 p1
+Kyle Craft:h2 n2 p1
+T. Rex:h1 n1 p3
+Prong:h2 n2 p1
+Iggy + The Stooges:h2 n2 p1
+Blondie:h1 n1 p3
+Butthole Surfers:h2 k1 n2
+Anna Erhard:h2 n1 p2
+Shame:h2 n2 p1
+Tricky + Mitch Sanders:d1 l2 q1
+Reigning Sound:h1 n1 p2
+Killing Joke:h1 n1 p2
+Chuck E. Weiss:h1 n1 p2
+Love and Rockets:h1 n1 p2
+Cat Stevens:h1 n1 p2
+Florence + The Machine:h2 j1 n1
+Luna:h1 n1 p2
+King Buffalo:h1 n1 p2
+All Them Witches:h1 n1 p2
+Smashing Pumpkins:h2 n1 p1
+Patrick Sweany:h1 n1 p2
+The Last Internationale:h1 n1 p2
+Rival Sons:h1 n1 p2
+Gary Clark Jr.:h1 n1 p2
+Band of Skulls:h1 n1 p2
+Pink Floyd:h1 n1 p2
+Iggy Pop:h1 n1 p2
+Nouvelle Vague:h2 j1 n1
+The Clash:h1 n1 p2
+Tones On Tail:h1 n1 p2
+Bob Marley + The Wailers:h1 n1 p2
+Palace:h1 p1 q2
+Steel Beans:h1 n1 p2
+Blakroc:h1 n1 p2
+35007:h1 n1 p1
+Ratatat:b1 h1 n1
+Maxence Cyrin:b1 h1 n1
+Nusrat Fateh Ali Khan:b1 h1 n1
+Baaba Maal:b1 h1 n1
+Esso, Sylvan:d1 k1 q1
+Orville Peck:d1 h1 n1
+The Cramps:e1 h1 n1
+Nick Cave and The Bad Seeds:e1 h1 n1
+Kevin Morby:h1 n1 p1
+Redd Kross:h1 n1 p1
+Boss Hog:h1 n1 p1
+Smog:h1 n1 p1
+Lord Huron:h1 n1 p1
+Baby Huey:h1 n1 p1
+Scratch Acid:h1 n1 p1
+The Little Killers:h1 n1 p1
+The Stone Foxes:h1 n1 p1
+Bonnie "Prince" Billy:h1 n1 p1
+Valerie June:h1 n1 p1
+Sin Ropas:h1 n1 p1
+Delta Spirit:h1 n1 p1
+13th Floor Elevators:h1 n1 p1
+Naomi Punk:h1 n1 p1
+Frank Black and the Catholics:h1 n1 p1
+Dead Kennedys:h1 n1 p1
+Tom Petty + The Heartbreakers:h1 n1 p1
+Kings Of Leon:h1 n1 p1
+Duran Duran:h1 n1 p1
+Talk Talk:h1 n1 p1
+The Avalanches:h1 n1 q1
+Martha:h1 n1 p1
+Beth Orton:h1 n1 p1
+Dry Cleaning:h1 n1 p1
+Nina Simone:h1 n1 p1
+Painteens:h1 n1 p1
+Toots + The Maytals:h1 n1 p1
+Daisy Chainsaw:h1 n1 p1
+Cabaret Voltaire:h1 n1 p1
+Fleet Foxes:h1 n1 p1
+TRAAMS:h1 n1 p1
+DIIV:h1 n1 p1
+Damien Jurado:h1 n1 p1
+The Gun Club:h1 n1 p1
+Morphine:h1 n1 p1
+The Specials:h1 n1 p1
+RJD2:h1 n1 p1
+M. Ward:h1 n1 p1
+Black Eyed Snakes:h1 n1 p1
+Meat Puppets:h1 n1 p1
+Los Lobos:h1 n1 p1
+Sugar:h1 n1 p1
+Mission Of Burma:h1 n1 p1
+Modern English:h1 n1 p1
+TV on the Radio:h1 n1 p1
+Franz Ferdinand:h1 n1 p1
+MGMT:h1 n1 p1
+Depeche Mode:h1 n1 p1
+The Mooney Suzuki:h1 n1 p1
+Compulsive Gamblers:h1 n1 p1
+The War On Drugs:h1 n1 p1
+The Orwells:h1 n1 p1
+Son Little:h1 n1 p1
+Death From Above 1979:h1 n1 p1
+The Velvet Underground:h1 n1 p1
+White Zombie:h1 n1 p1
+The Stooges:h1 n1 p1
+Ramones:h1 n1 p1
+Marvin Gaye:h1 n1 p1
+clipping:h1 k1 n1
+Lucinda Williams:h1 n1 p1
+Bad Brains:h1 n1 p1
+Low + Dirty Three:h1 j1 n1
+Chromatics:h1 j1 n1
+Juliana Hatfield:h1 j1 n1
+Guided by Voices:h1 n1 p1
+Gillian Welch:h1 n1 p1
+Songs: Ohia:h1 n1 p1
+Death Valley Girls:h1 n1 q1
+black midi:h1 n1 p1
+Stick Men With Ray Guns:h1 n1 r1
+Nervebreakers:h1 n1 r1
+MC 900 Ft Jesus:h1 n1 r1
+Monster Magnet:h1 n1 r1
+The Jon Spencer Blues Explosion:h8 n28
+De La Soul:h30 n1
+Kendrick Lamar:h29 p1
+The Libertines:h13 n13
+The Delta 72:h2 n23
+Cosmo Sheldrake:h19 p5
+Courtney Barnett + Kurt Vile:h10 n10
+Latin Playboys:h16 n3
+Public Enemy:h17 n1
+Shuggie Otis:h2 n14
+Mandy, Indiana:o10 p5
+Colter Wall:h10 n3
+Helado Negro:h9 p4
+Vampire Weekend:h11 p2
+Kim Gordon:o11 p2
+Olive Jones:o12 p1
+Vera Sola:h11 p1
+Gen and the Degenerates:h10 p2
+clipping.:h6 n6
+Mitski:o11 p1
+Buck Meek:o11 p1
+Don Williams:h9 p2
+Four Tet:h8 p1
+The American Analog Set:h4 n4
+Echo + The Bunnymen:h4 n4
+The National:h4 n4
+The Afghan Whigs:h4 n4
+Nick Cave + the Bad Seeds:h3 n3
+L'Epee:h3 n3
+The Nude Party:h3 n3
+Amy Winehouse:h3 n3
+Devendra Banhart:h3 n3
+Neutral Milk Hotel:h3 n3
+Buzzcocks:h3 n3
+Panda Bear + Sonic Boom:h3 n3
+Me First and the Gimme Gimmes:h3 n3
+Waylon Jennings + Willie Nelson:h4 p2
+Cass McCombs + Weak Signal:h3 n3
+Otha Turner and The Rising Star Fife and Drum Band:h3 n3
+Thee Oh Sees:o4 p2
+MJ Lenderman:f1 p4
+George Jones:h4 p1
+Waylon Jennings:h4 p1
+bar italia:h4 p1
+Method Man:h1 p4
+Waxahatchee:h3 p2
+Sharp Pins:p4 q1
+Sluice:f2 p2
+The Felice Brothers:h2 n2
+The Velvet Underground + Nico:h2 n2
+The Boomtown Rats:h2 n2
+illuminati hotties:h2 n2
+Lee Moses:h2 n2
+Oh Sees:h2 n2
+Alex G:h2 n2
+Gladys Knight + The Pips:h2 n2
+The Damned:h2 n2
+The Cult:h2 n2
+Tacocat:h2 n2
+Stiff Little Fingers:h2 n2
+The Avett Brothers:h2 n2
+Hüsker Dü:h2 n2
+Neil Young:h2 n2
+Bright Eyes:h2 n2
+Santigold:h2 n2
+Widowspeak:h2 n2
+Broken Bells:h2 n2
+Swervedriver:h2 n2
+Blind Willie Johnson:h2 n2
+The Raveonettes:h2 n2
+Lush:h2 n2
+The Jam:h2 n2
+George Harrison:h2 n2
+Faith No More:h2 n2
+The Stranglers:h2 n2
+Temple Of The Dog:h2 n2
+Big Boi:h2 n2
+Sheer Mag:h2 n2
+L7:h2 n2
+Blue Cheer:h2 n2
+King Tuff:h2 n2
+Slothrust:h2 n2
+Barry White:h2 n2
+Dolly Parton:h3 n1
+Adrianne Lenker:h3 p1
+Hurray for the Riff Raff:h1 p3
+Folly Group:h1 p3
+Paris Paloma:h3 p1
+Babe Rainbow:h1 p3
+Frankie and the Witch Fingers:h2 n2
+Algiers:h2 n2
+Radio Entropy:b2 i1
+Spiritualized:g1 p2
+Future Islands:g1 p2
+Graham Nash:h2 n1
+Squeeze:h2 n1
+Helmet:h2 n1
+Big Black:h2 n1
+Chicano Batman:h2 n1
+XTC:h2 n1
+Shellac:h1 p2
+Low:h2 p1
+The English Beat:h1 p2
+The The:h1 p2
+Charlie Rich:h2 p1
+Still Corners:h1 p2
+Dehd:h2 p1
+Mk.gee:h2 p1
+Khruangbin:h1 p2
+Warpaint:h1 p2
+Nightmares On Wax:o1 p2
+Lex Walton:p2 q1
+Calibro 35:b1 p1
+Royal Blood:d1 q1
+The Sonics:e1 p1
+Lana Del Rey:e1 p1
+This Is Lorelei + MJ Lenderman:f1 l1
+IDLES + LCD Soundsystem:f1 p1
+John Prine:g1 p1
+TAD:h1 p1
+Nell Smith + The Flaming Lips:h1 j1
+Thundercat:h1 j1
+Andrew Bird + Lucius:h1 j1
+Joe Cocker:h1 m1
+meija + JAWNY:h1 p1
+Lionlimb + Angel Olsen:h1 p1
+Arcy Drive:h1 p1
+Mount Kimbie:h1 p1
+LA Priest:h1 p1
+Everything Everything:h1 p1
+Sun June:h1 p1
+Blur:i1 p1
+FONTAINES D.C.:i1 p1
+Autobahns:i1 p1
+Fine Young Cannibals:j1 p1
+Nightmares On Wax + LSK:l1 o1
+Magnolia Electric Co. + Jason Molina:o1 p1
+Fontaines D.C. + War Child Records:o1 p1
+Westside Cowboy:p1 q1
+Ween:p1 r1
+The Meters:n116
+Booker T. + the MG's:n79
+JAŸ-Z:h40
+Outkast:h39
+A Tribe Called Quest:h28
+2Pac:h27
+Ghostface Killah:h21
+Madvillain , Madlib + MF Doom:h20
+Brian Eno + David Byrne:h18
+Notorious B.I.G.:h18
+Townes Van Zandt:h16
+Mobb Deep:h16
+Kanye West:h13
+GZA:h13
+Gavin Bryars Ensemble:e11
+Black Moth Super Rainbow:h10
+Laetitia Sadier:h10
+Cut Worms:o10
+Wendy Eisenberg:o10
+Apparat:o9
+Cocteau Twins + Harold Budd:a8
+The Heavy:p7
+Mark Lanegan:p7
+Dead Meadow:p7
+Cancer House:o6
+Sleepy Sun:p6
+Dr. Dre:h5
+The Lemon Twigs:h4
+TOOL:p4
+The Birthday Party:p4
+Grinderman:p4
+The Warlocks:p4
+Left Lane Cruiser:p4
+Buffalo Killers:p4
+Radio Moscow:p4
+Black Diamond Heavies:p4
+Tompall Glaser and Band:h3
+Jessica Pratt:h3
+Nightmares On Wax + Liam Bailey:o3
+The Fall:p3
+Aldous Harding:p3
+STRFKR:p3
+meija:p3
+Kyuss:p3
+Robert Pollard:p3
+The Blackwater Fever:p3
+Molly Drake:a2
+The Magnetic Fields:g2
+Jessi Colter:h2
+Kris Kristofferson:h2
+Cosmo Sheldrake + HOWL:h2
+Cosmo Sheldrake + Bunty:h2
+Kowloon:h2
+Yot Club:h2
+Tim Atlas:h2
+Real Estate:h2
+Hovvdy:h2
+Slaughter Beach, Dog:h2
+Mei Jun:h2
+PRAY FOR RAIN:i2
+Nightmares On Wax + Sadie Walker:o2
+Gilla Band:p2
+Mudhoney:p2
+JG Thirlwell:p2
+La Luz:p2
+The Smiths:p2
+Nick Waterhouse:p2
+Orgone:p2
+The Budos Band:p2
+Stone Temple Pilots:p2
+The Smashing Pumpkins:p2
+Missy Elliott:p2
+Cameron Winter:p2
+Billy Bragg + Wilco:p2
+Current Joys:p2
+John Cale:p2
+Deer Tick:p2
+J. Roddy Walston + The Business:p2
+Low Hum:p2
+Electric Six:p2
+COMA:p2
+Mannequin Pussy:p2
+Little Simz:p2
+PACKS:p2
+SPRINTS:p2
+The Clientele:p2
+Weyes Blood:p2
+Khruangbin + Leon Bridges:p2
+They Might Be Giants:p2
+Red Hot Chili Peppers:p2
+Cold War Kids:p2
+Henry's Funeral Shoe:p2
+Paul Simon:p2
+Wooden Shjips:p2
+"Weird Al" Yankovic:p2
+The Greenhornes:p2

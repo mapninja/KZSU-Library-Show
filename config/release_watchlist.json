@@ -1,0 +1,4240 @@
+{
+ "generated": "2026-09-29",
+ "rules": {
+  "min_total_spins": 12,
+  "min_recent_spins": 3,
+  "recent_since": "2024-01-01",
+  "top_artists": 200
+ },
+ "labels": {
+  "matador": {
+   "label": "Matador Records",
+   "spins": 400,
+   "artists": 44,
+   "last_spin": "2026-09-24",
+   "recent_spins": 44,
+   "top_artists": [
+    "Guided By Voices",
+    "Car Seat Headrest",
+    "Spoon",
+    "Queens of the Stone Age",
+    "Interpol",
+    "Courtney Barnett & Kurt Vile",
+    "Kurt Vile",
+    "Spencer, Jon Blues Explosion"
+   ],
+   "sources": [
+    "airplay",
+    "reviews",
+    "sources.yml"
+   ],
+   "reviews": 4,
+   "url": "https://matadorrecords.com/",
+   "tier": 1
+  },
+  "sub pop": {
+   "label": "Sub Pop Records",
+   "spins": 271,
+   "artists": 47,
+   "last_spin": "2026-09-24",
+   "recent_spins": 45,
+   "top_artists": [
+    "Father John Misty",
+    "Iron & Wine",
+    "Kyle Craft",
+    "King Tuff",
+    "the Grifters",
+    "Frankie Cosmos",
+    "Cocorosie",
+    "Downtown Boys"
+   ],
+   "sources": [
+    "airplay",
+    "reviews",
+    "sources.yml"
+   ],
+   "reviews": 4,
+   "url": "https://www.subpop.com/",
+   "tier": 1
+  },
+  "merge": {
+   "label": "Merge Records",
+   "spins": 157,
+   "artists": 25,
+   "last_spin": "2026-07-30",
+   "recent_spins": 12,
+   "top_artists": [
+    "Spoon",
+    "Fruit Bats",
+    "A Giant Dog",
+    "M. Ward",
+    "Ex Hex",
+    "Destroyer",
+    "Sneaks",
+    "Superchunk"
+   ],
+   "sources": [
+    "airplay",
+    "reviews",
+    "sources.yml"
+   ],
+   "reviews": 2,
+   "url": "https://www.mergerecords.com/",
+   "tier": 1
+  },
+  "drag city": {
+   "label": "Drag City Records",
+   "spins": 154,
+   "artists": 16,
+   "last_spin": "2026-09-24",
+   "recent_spins": 42,
+   "top_artists": [
+    "Segall, Ty",
+    "Callahan, Bill",
+    "Matt Sweeney & Bonnie Prince",
+    "Smog",
+    "Ty Segall & White Fence",
+    "Pratt, Jessica",
+    "Annabelle Chairlegs",
+    "Cate Le Bon"
+   ],
+   "sources": [
+    "airplay",
+    "reviews",
+    "sources.yml"
+   ],
+   "reviews": 4,
+   "url": "https://www.dragcity.com/",
+   "tier": 1
+  },
+  "nonesuch": {
+   "label": "Nonesuch Records Inc.",
+   "spins": 136,
+   "artists": 12,
+   "last_spin": "2026-07-30",
+   "recent_spins": 8,
+   "top_artists": [
+    "The Arcs",
+    "The Black Keys",
+    "the Magnetic Fields",
+    "Devendra Banhart",
+    "Wilco",
+    "Conor Oberst",
+    "Dan Auerback",
+    "Dr. John"
+   ],
+   "sources": [
+    "airplay",
+    "reviews",
+    "sources.yml"
+   ],
+   "reviews": 2,
+   "url": "https://www.nonesuch.com/",
+   "tier": 1
+  },
+  "new west": {
+   "label": "New West Records",
+   "spins": 122,
+   "artists": 10,
+   "last_spin": "2026-09-03",
+   "recent_spins": 11,
+   "top_artists": [
+    "Caroline Rose",
+    "The Glands",
+    "Nude Party, The",
+    "Seratones",
+    "Gallo, Ron",
+    "All Them Witches",
+    "Andrew Combs",
+    "Dan Luke & the Raid"
+   ],
+   "sources": [
+    "airplay",
+    "reviews",
+    "sources.yml"
+   ],
+   "reviews": 3,
+   "url": "https://www.newwestrecords.com/",
+   "tier": 1
+  },
+  "4ad": {
+   "label": "4AD",
+   "spins": 117,
+   "artists": 31,
+   "last_spin": "2026-08-20",
+   "recent_spins": 18,
+   "top_artists": [
+    "Beirut",
+    "The National",
+    "the Mountain Goats",
+    "U.S. Girls",
+    "Big Thief",
+    "The Breeders",
+    "the Pixies",
+    "Aldous Harding"
+   ],
+   "sources": [
+    "airplay",
+    "sources.yml"
+   ],
+   "url": "https://4ad.com/",
+   "tier": 1
+  },
+  "partisan": {
+   "label": "Partisan Records",
+   "spins": 113,
+   "artists": 11,
+   "last_spin": "2026-09-10",
+   "recent_spins": 26,
+   "top_artists": [
+    "Fontaines D.C.",
+    "IDLES",
+    "Black Angels",
+    "Cigarettes After Sex",
+    "Geese",
+    "Winter, Cameron",
+    "IDLES & LCD Soundsystem",
+    "Sylvan Esso"
+   ],
+   "sources": [
+    "airplay",
+    "reviews",
+    "sources.yml"
+   ],
+   "reviews": 4,
+   "url": "https://partisanrecords.com/",
+   "tier": 1
+  },
+  "ato": {
+   "label": "Ato Records",
+   "spins": 100,
+   "artists": 16,
+   "last_spin": "2026-07-09",
+   "recent_spins": 8,
+   "top_artists": [
+    "Black Pumas",
+    "My Morning Jacket",
+    "Chicano Batman",
+    "Okkervil River",
+    "Old 97's",
+    "Hurray For The Riff Raff",
+    "Grace Cummings",
+    "Alabama Shakes"
+   ],
+   "sources": [
+    "airplay",
+    "reviews",
+    "sources.yml"
+   ],
+   "reviews": 1,
+   "url": "https://www.atorecords.com/",
+   "tier": 1
+  },
+  "domino company": {
+   "label": "Domino Recording Company",
+   "spins": 93,
+   "artists": 16,
+   "last_spin": "2026-07-09",
+   "recent_spins": 9,
+   "top_artists": [
+    "The Kills",
+    "Animal Collective",
+    "Panda Bear & Sonic Boom",
+    "Real Estate",
+    "Alex G",
+    "Wet Leg",
+    "Buzzcocks",
+    "Cat Power"
+   ],
+   "sources": [
+    "airplay",
+    "reviews",
+    "sources.yml"
+   ],
+   "reviews": 1,
+   "url": "https://www.dominorecordco.com/",
+   "tier": 1
+  },
+  "jagjaguwar": {
+   "label": "Jagjaguwar Records",
+   "spins": 74,
+   "artists": 11,
+   "last_spin": "2026-09-10",
+   "recent_spins": 5,
+   "top_artists": [
+    "Father John Misty",
+    "Dinosaur Jr.",
+    "Angel Olsen",
+    "Sharon Van Etten",
+    "Foxygen",
+    "Black Mountain",
+    "The Besnard Lakes",
+    "Bon Iver"
+   ],
+   "sources": [
+    "airplay",
+    "sources.yml"
+   ],
+   "url": "https://jagjaguwar.com/",
+   "tier": 1
+  },
+  "touch and go": {
+   "label": "Touch and Go Records",
+   "spins": 65,
+   "artists": 16,
+   "last_spin": "2026-07-02",
+   "recent_spins": 15,
+   "top_artists": [
+    "The Jesus Lizard",
+    "Scratch Acid",
+    "Lee Harvey Oswald,The",
+    "Slint",
+    "the Delta 72",
+    "the Lee Harvey Oswald Band",
+    "Shellac",
+    "Coco Rosie"
+   ],
+   "sources": [
+    "airplay",
+    "sources.yml"
+   ],
+   "url": "https://www.touchandgorecords.com/",
+   "tier": 1
+  },
+  "anti": {
+   "label": "Anti-",
+   "spins": 64,
+   "artists": 16,
+   "last_spin": "2026-02-26",
+   "recent_spins": 9,
+   "top_artists": [
+    "Cass McCombs",
+    "Jeff Tweedy",
+    "The Dream Syndicate",
+    "Elliott Smith",
+    "MJ Lenderman",
+    "Art Moore",
+    "Girlpool",
+    "Katy Kirby"
+   ],
+   "sources": [
+    "airplay",
+    "reviews",
+    "style fit"
+   ],
+   "reviews": 1,
+   "url": "https://anti.com/",
+   "tier": 1
+  },
+  "in the red": {
+   "label": "In the Red Records",
+   "spins": 60,
+   "artists": 9,
+   "last_spin": "2026-07-02",
+   "recent_spins": 12,
+   "top_artists": [
+    "The Dirtbombs",
+    "Boss Hog",
+    "Osees",
+    "Ty Segall",
+    "Reigning Sound",
+    "The C.I.A.",
+    "Meatbodies",
+    "Reining Sound"
+   ],
+   "sources": [
+    "airplay",
+    "sources.yml"
+   ],
+   "url": "https://intheredrecords.com/",
+   "tier": 1
+  },
+  "mom pop": {
+   "label": "Mom+Pop Music",
+   "spins": 60,
+   "artists": 7,
+   "last_spin": "2026-08-06",
+   "recent_spins": 8,
+   "top_artists": [
+    "Courtney Barnett",
+    "Sunflower Bean",
+    "Lucius",
+    "Sleigh Bells",
+    "Underscores",
+    "Hinds",
+    "MGMT"
+   ],
+   "sources": [
+    "airplay",
+    "sources.yml"
+   ],
+   "url": "https://www.momandpopmusic.com/",
+   "tier": 1
+  },
+  "what s your rupture": {
+   "label": "What's Your Rupture?",
+   "spins": 58,
+   "artists": 2,
+   "last_spin": "2026-08-20",
+   "recent_spins": 19,
+   "top_artists": [
+    "Bodega",
+    "Savoy Motel"
+   ],
+   "sources": [
+    "airplay",
+    "reviews"
+   ],
+   "reviews": 1,
+   "url": "https://whatsyourrupture.com/",
+   "tier": 1
+  },
+  "dirty water": {
+   "label": "Dirty Water Records",
+   "spins": 57,
+   "artists": 18,
+   "last_spin": "2019-09-11",
+   "recent_spins": 0,
+   "top_artists": [
+    "Dirty Fences",
+    "The Scaners",
+    "Playboy Manbaby",
+    "The Routes",
+    "Bee Bee Sea",
+    "Suicide Generation",
+    "The Heck",
+    "The Darts"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "https://www.dirtywaterrecords.com/",
+   "tier": 1
+  },
+  "rough trade": {
+   "label": "Rough Trade Records",
+   "spins": 53,
+   "artists": 17,
+   "last_spin": "2026-04-09",
+   "recent_spins": 6,
+   "top_artists": [
+    "Parquet Courts",
+    "Goat Girl",
+    "Warpaint",
+    "Bodega",
+    "Camper Van Beethoven",
+    "Black Midi",
+    "SOAK",
+    "Gysin, Brion"
+   ],
+   "sources": [
+    "airplay",
+    "sources.yml"
+   ],
+   "url": "https://www.roughtraderecords.com/",
+   "tier": 1
+  },
+  "beggars banquet": {
+   "label": "Beggars Banquet Records",
+   "spins": 50,
+   "artists": 11,
+   "last_spin": "2026-06-25",
+   "recent_spins": 9,
+   "top_artists": [
+    "Bauhaus",
+    "Love and Rockets",
+    "Cult, the",
+    "Tones on Tail",
+    "The Fall",
+    "the Hair & Skin Trading Co.",
+    "The National",
+    "Mark Lanegan"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "https://www.beggars.com/",
+   "tier": 1
+  },
+  "secretly canadian": {
+   "label": "Secretly Canadian Records",
+   "spins": 48,
+   "artists": 9,
+   "last_spin": "2026-06-25",
+   "recent_spins": 3,
+   "top_artists": [
+    "Cherry Glazerr",
+    "Whitney",
+    "Yeah Yeah Yeahs",
+    "Damien Jurado",
+    "Songs: Ohia",
+    "Cherry Glazer",
+    "Cherry Glazr",
+    "Widowspeak"
+   ],
+   "sources": [
+    "airplay",
+    "sources.yml"
+   ],
+   "url": "https://secretlycanadian.com/",
+   "tier": 2
+  },
+  "polyvinyl": {
+   "label": "Polyvinyl Records",
+   "spins": 47,
+   "artists": 10,
+   "last_spin": "2024-06-26",
+   "recent_spins": 10,
+   "top_artists": [
+    "Jay Som",
+    "Pedro the Lion",
+    "Strfkr",
+    "Deerhoof",
+    "Of Montreal",
+    "Palehound",
+    "Tancred",
+    "Xiu Xiu"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "https://www.polyvinylrecords.com/",
+   "tier": 1
+  },
+  "saddle creek": {
+   "label": "Saddle Creek Records",
+   "spins": 47,
+   "artists": 6,
+   "last_spin": "2026-04-30",
+   "recent_spins": 2,
+   "top_artists": [
+    "Big Thief",
+    "Stef Chura",
+    "Bright Eyes",
+    "The Faint",
+    "The Mynabirds",
+    "Young Jesus"
+   ],
+   "sources": [
+    "airplay",
+    "reviews",
+    "sources.yml"
+   ],
+   "reviews": 1,
+   "url": "https://saddle-creek.com/",
+   "tier": 2
+  },
+  "suicide squeeze": {
+   "label": "Suicide Squeeze Records",
+   "spins": 46,
+   "artists": 5,
+   "last_spin": "2019-08-21",
+   "recent_spins": 0,
+   "top_artists": [
+    "The Coathangers",
+    "L.A. Witch",
+    "Hinds",
+    "Los Nastys",
+    "Ty Segall"
+   ],
+   "sources": [
+    "airplay",
+    "sources.yml"
+   ],
+   "url": "https://suicidesqueeze.net/",
+   "tier": 2
+  },
+  "castle face": {
+   "label": "Castle Face Records",
+   "spins": 45,
+   "artists": 7,
+   "last_spin": "2019-07-24",
+   "recent_spins": 0,
+   "top_artists": [
+    "Thee Oh Sees",
+    "Mountains & Rainbows",
+    "Oh Sees",
+    "Once & Future Band",
+    "The Zig Zags",
+    "Prettiest Eyes",
+    "Running"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "https://castlefacerecords.com/",
+   "tier": 2
+  },
+  "fat possum": {
+   "label": "Fat Possum Records",
+   "spins": 43,
+   "artists": 17,
+   "last_spin": "2026-03-19",
+   "recent_spins": 8,
+   "top_artists": [
+    "the Black Keys",
+    "Thee Shams",
+    "X",
+    "American Wrestlers",
+    "Dehd",
+    "Fat White Family",
+    "Soccer Mommy",
+    "Melody's Echo Chamber"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "https://www.fatpossum.com/",
+   "tier": 2
+  },
+  "innovative leisure": {
+   "label": "Innovative Leisure Records",
+   "spins": 41,
+   "artists": 7,
+   "last_spin": "2026-05-07",
+   "recent_spins": 3,
+   "top_artists": [
+    "Hanni El Khatib",
+    "The Buttertones",
+    "Hanni el Khatib & Rudy de Anda",
+    "Geli Haha",
+    "Gelli Haha",
+    "Iguana Death Cult",
+    "Mint Field"
+   ],
+   "sources": [
+    "airplay",
+    "reviews"
+   ],
+   "reviews": 1,
+   "url": "https://innovativeleisure.net/",
+   "tier": 2
+  },
+  "dead oceans": {
+   "label": "Dead Oceans",
+   "spins": 40,
+   "artists": 11,
+   "last_spin": "2026-06-25",
+   "recent_spins": 8,
+   "top_artists": [
+    "Mitski",
+    "Better Oblivion Community Center",
+    "Morby, Kevin",
+    "Phosphorescent",
+    "The Tallest Man On Earth",
+    "Bleached",
+    "Lump",
+    "Japanese Breakfast"
+   ],
+   "sources": [
+    "airplay",
+    "style fit"
+   ],
+   "url": "https://deadoceans.com/",
+   "tier": 2
+  },
+  "light in the attic": {
+   "label": "Light in the Attic Records",
+   "spins": 40,
+   "artists": 4,
+   "last_spin": "2026-08-27",
+   "recent_spins": 4,
+   "top_artists": [
+    "The Black Angels",
+    "Acetone",
+    "Dalton, Karen",
+    "The Toadies"
+   ],
+   "sources": [
+    "airplay",
+    "sources.yml"
+   ],
+   "url": "https://lightintheattic.net/",
+   "tier": 2
+  },
+  "city slang": {
+   "label": "City Slang Records",
+   "spins": 39,
+   "artists": 10,
+   "last_spin": "2024-06-26",
+   "recent_spins": 7,
+   "top_artists": [
+    "Wives",
+    "Tindersticks",
+    "White Denim",
+    "SPRINTS",
+    "Sola, Vera",
+    "Gold Panda",
+    "Sinkane",
+    "Sir Was"
+   ],
+   "sources": [
+    "airplay",
+    "reviews"
+   ],
+   "reviews": 3,
+   "url": "https://cityslang.com/",
+   "tier": 2
+  },
+  "loma vista": {
+   "label": "Loma Vista Recordings",
+   "spins": 39,
+   "artists": 6,
+   "last_spin": "2026-06-25",
+   "recent_spins": 4,
+   "top_artists": [
+    "Andrew Bird",
+    "Iggy Pop",
+    "St. Vincent",
+    "New Constellations & STRFKR",
+    "Sampa the Great",
+    "Sylvan Esso"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "https://lomavistarecordings.com/",
+   "tier": 2
+  },
+  "hardly art": {
+   "label": "Hardly Art",
+   "spins": 35,
+   "artists": 9,
+   "last_spin": "2020-07-22",
+   "recent_spins": 0,
+   "top_artists": [
+    "La Luz",
+    "Chastity Belt",
+    "Lala Lala",
+    "Shana Cleveland",
+    "Tacocat",
+    "The Julie Ruin",
+    "Ian Sweet",
+    "Dude York"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "https://www.hardlyart.com/",
+   "tier": 2
+  },
+  "xl": {
+   "label": "Xl Recordings",
+   "spins": 35,
+   "artists": 9,
+   "last_spin": "2024-06-19",
+   "recent_spins": 1,
+   "top_artists": [
+    "Radiohead",
+    "Devendra Banhart",
+    "The Avalanches",
+    "Electric Six",
+    "Fontaines D.C.",
+    "Låpsley",
+    "Makaya McCraven",
+    "Ratatat"
+   ],
+   "sources": [
+    "airplay",
+    "sources.yml"
+   ],
+   "url": "https://www.xlrecordings.com/",
+   "tier": 2
+  },
+  "dbpm": {
+   "label": "dBpm Records",
+   "spins": 33,
+   "artists": 2,
+   "last_spin": "2020-03-11",
+   "recent_spins": 0,
+   "top_artists": [
+    "Wilco",
+    "Jeff Tweedy"
+   ],
+   "sources": [
+    "airplay",
+    "reviews"
+   ],
+   "reviews": 1,
+   "url": "https://www.dbpmrecords.com/",
+   "tier": 2
+  },
+  "man s ruin": {
+   "label": "man's ruin",
+   "spins": 31,
+   "artists": 6,
+   "last_spin": "2026-08-06",
+   "recent_spins": 2,
+   "top_artists": [
+    "Bjork, Brant",
+    "Desert Sessions",
+    "Earthlings?",
+    "Fu Manchu",
+    "Delta 72",
+    "Earthings?"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "https://www.mansruinrecords.com/",
+   "tier": 2
+  },
+  "mute": {
+   "label": "Mute Records Ltd",
+   "spins": 30,
+   "artists": 10,
+   "last_spin": "2026-02-12",
+   "recent_spins": 4,
+   "top_artists": [
+    "Nick Cave & The Bad Seeds",
+    "Yeasayer",
+    "Lift To Experience",
+    "Can",
+    "Fad Gadget",
+    "Spencer, Jon Blues Explosion",
+    "Jose Gonzales",
+    "Jose Gonzalez"
+   ],
+   "sources": [
+    "airplay",
+    "sources.yml"
+   ],
+   "url": "https://mute.com/",
+   "tier": 2
+  },
+  "dine alone": {
+   "label": "Dine Alone Records",
+   "spins": 29,
+   "artists": 4,
+   "last_spin": "2019-07-03",
+   "recent_spins": 0,
+   "top_artists": [
+    "Dead Heavens",
+    "Dave Catching",
+    "City and Colour",
+    "The Dandy Warhols"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "https://dinealonerecords.com/",
+   "tier": 2
+  },
+  "rykodisc": {
+   "label": "Rykodisc",
+   "spins": 28,
+   "artists": 7,
+   "last_spin": "2026-03-12",
+   "recent_spins": 2,
+   "top_artists": [
+    "David Bowie",
+    "Weiss, Chuck E.",
+    "Big Star",
+    "Galaxie 500",
+    "Gallon Drunk",
+    "Morphine",
+    "Nick Drake"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "https://www.rykodisc.com/",
+   "tier": 2
+  },
+  "captured tracks": {
+   "label": "Captured Tracks",
+   "spins": 27,
+   "artists": 9,
+   "last_spin": "2024-01-31",
+   "recent_spins": 2,
+   "top_artists": [
+    "Naomi Punk",
+    "Diiv",
+    "Widowspeak",
+    "Capital Punishment",
+    "Drahla",
+    "Wild Nothing",
+    "B Boys",
+    "Chris Cohen"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "https://capturedtracks.com/",
+   "tier": 2
+  },
+  "a v club": {
+   "label": "A.V. Club",
+   "spins": 25,
+   "artists": 2,
+   "last_spin": "2020-02-26",
+   "recent_spins": 0,
+   "top_artists": [
+    "Screaming Females",
+    "Father John Misty"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "",
+   "tier": 2
+  },
+  "barsuk": {
+   "label": "Barsuk Records",
+   "spins": 25,
+   "artists": 3,
+   "last_spin": "2019-05-08",
+   "recent_spins": 0,
+   "top_artists": [
+    "Lo Tom",
+    "Ra Ra Riot",
+    "Phantogram"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "https://www.barsuk.com/",
+   "tier": 2
+  },
+  "fire": {
+   "label": "Fire Records",
+   "spins": 25,
+   "artists": 10,
+   "last_spin": "2026-07-09",
+   "recent_spins": 4,
+   "top_artists": [
+    "Hater",
+    "Bardo Pond",
+    "Kristin Hersh",
+    "Robert Pollard",
+    "Ulrika Spacek",
+    "Babe Rainbow",
+    "Giant Sand",
+    "Half Japanese"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "https://www.firerecords.com/",
+   "tier": 2
+  },
+  "easy eye sound": {
+   "label": "Easy Eye Sound",
+   "spins": 24,
+   "artists": 5,
+   "last_spin": "2026-06-25",
+   "recent_spins": 2,
+   "top_artists": [
+    "Auerbach, Dan",
+    "Robert Finley",
+    "The Arcs",
+    "Link Wray",
+    "Little Barrie"
+   ],
+   "sources": [
+    "airplay",
+    "reviews"
+   ],
+   "reviews": 1,
+   "url": "https://www.easyeyesound.com/",
+   "tier": 2
+  },
+  "yep roc": {
+   "label": "Yep Roc Records",
+   "spins": 24,
+   "artists": 4,
+   "last_spin": "2026-07-30",
+   "recent_spins": 1,
+   "top_artists": [
+    "The Felice Brothers",
+    "The Fleshtones",
+    "Nick Lowe",
+    "Sloan"
+   ],
+   "sources": [
+    "airplay",
+    "reviews"
+   ],
+   "reviews": 1,
+   "url": "https://www.yeproc.com/",
+   "tier": 2
+  },
+  "third man": {
+   "label": "Third Man Records",
+   "spins": 22,
+   "artists": 8,
+   "last_spin": "2026-06-25",
+   "recent_spins": 1,
+   "top_artists": [
+    "The Raconteurs",
+    "Jack White",
+    "Olivia Jean",
+    "Courtney Barnett",
+    "The Dead Weather",
+    "Jaan Pehechaan Ho",
+    "Jack White (feat. Alicia Keys)",
+    "Michael Kiwanuka"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "https://thirdmanrecords.com/",
+   "tier": 2
+  },
+  "shangri la": {
+   "label": "Shangri-La Records",
+   "spins": 21,
+   "artists": 2,
+   "last_spin": "2026-01-15",
+   "recent_spins": 2,
+   "top_artists": [
+    "Grifters",
+    "Band of Skulls"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "https://www.shangri-la.com/",
+   "tier": 2
+  },
+  "vagrant": {
+   "label": "Vagrant Records",
+   "spins": 21,
+   "artists": 4,
+   "last_spin": "2019-10-02",
+   "recent_spins": 0,
+   "top_artists": [
+    "PJ Harvey",
+    "Black Rebel Motorcycle Club",
+    "City and Colour",
+    "Edward Sharpe & The Magnetic Zeros"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "https://www.vagrant.com/",
+   "tier": 2
+  },
+  "wharf cat": {
+   "label": "Wharf Cat Records",
+   "spins": 21,
+   "artists": 10,
+   "last_spin": "2019-07-31",
+   "recent_spins": 0,
+   "top_artists": [
+    "Honey",
+    "Big French",
+    "Joey Agresta",
+    "Wall",
+    "Public Practice",
+    "Wet Hair",
+    "Bichkraft",
+    "Holy Motors"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "https://wharfcatrecords.com/",
+   "tier": 2
+  },
+  "burger": {
+   "label": "Burger Records",
+   "spins": 20,
+   "artists": 11,
+   "last_spin": "2020-01-22",
+   "recent_spins": 0,
+   "top_artists": [
+    "Pink Mexico",
+    "Gap Dream",
+    "Faux Ferocious",
+    "Outrageous Cherry",
+    "Prefab Messiahs",
+    "Beechwood",
+    "Chai",
+    "The Dates"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "https://burgerrecords.org/",
+   "tier": 2
+  },
+  "ipecac": {
+   "label": "Ipecac Records",
+   "spins": 20,
+   "artists": 3,
+   "last_spin": "2026-06-25",
+   "recent_spins": 2,
+   "top_artists": [
+    "Melvins",
+    "the Desert Sessions",
+    "Eagles of Death Metal"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "https://ipecac.com/",
+   "tier": 2
+  },
+  "thrill jockey": {
+   "label": "Thrill Jockey Records",
+   "spins": 20,
+   "artists": 11,
+   "last_spin": "2020-01-22",
+   "recent_spins": 0,
+   "top_artists": [
+    "Wooden Shjips",
+    "Alexander Tucker",
+    "Dommengang",
+    "Trans Am",
+    "The Body",
+    "Dan Friel",
+    "Rose City Band",
+    "The Sea And Cake"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "https://thrilljockey.com/",
+   "tier": 2
+  },
+  "bella union": {
+   "label": "Bella Union",
+   "spins": 19,
+   "artists": 3,
+   "last_spin": "2026-04-09",
+   "recent_spins": 2,
+   "top_artists": [
+    "Ezra Furman",
+    "Lanterns On The Lake",
+    "Nell Smith & The Flaming Lips"
+   ],
+   "sources": [
+    "airplay",
+    "reviews"
+   ],
+   "reviews": 1,
+   "url": "https://www.bellaunion.com/",
+   "tier": 2
+  },
+  "carpark": {
+   "label": "Carpark Records",
+   "spins": 19,
+   "artists": 8,
+   "last_spin": "2024-06-26",
+   "recent_spins": 3,
+   "top_artists": [
+    "Beths, The",
+    "Cloud Nothings",
+    "Speedy Ortiz",
+    "Palm",
+    "Ducks Ltd.",
+    "Greys",
+    "Gabriel, Rui",
+    "Teen"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "https://carparkrecords.com/",
+   "tier": 2
+  },
+  "wichita": {
+   "label": "Wichita Recordings",
+   "spins": 19,
+   "artists": 2,
+   "last_spin": "2026-04-30",
+   "recent_spins": 1,
+   "top_artists": [
+    "Froth",
+    "Ride"
+   ],
+   "sources": [
+    "airplay",
+    "reviews",
+    "sources.yml"
+   ],
+   "reviews": 1,
+   "url": "https://www.wichita-recordings.com/",
+   "tier": 2
+  },
+  "slovenly": {
+   "label": "Slovenly Recordings",
+   "spins": 18,
+   "artists": 10,
+   "last_spin": "2020-01-29",
+   "recent_spins": 0,
+   "top_artists": [
+    "Ladrones",
+    "Priors",
+    "Haxxan",
+    "The Monsieurs",
+    "The Rippers",
+    "Tandoori Knights",
+    "The Cavemen",
+    "Gutara Kyo"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "https://slovenly.com/",
+   "tier": 2
+  },
+  "young god": {
+   "label": "Young God Records",
+   "spins": 17,
+   "artists": 2,
+   "last_spin": "2026-07-02",
+   "recent_spins": 4,
+   "top_artists": [
+    "Swans",
+    "Devendra Banhart"
+   ],
+   "sources": [
+    "airplay",
+    "sources.yml"
+   ],
+   "url": "https://younggodrecords.com/",
+   "tier": 2
+  },
+  "dirtnap": {
+   "label": "Dirtnap Records",
+   "spins": 15,
+   "artists": 2,
+   "last_spin": "2026-07-09",
+   "recent_spins": 2,
+   "top_artists": [
+    "Martha",
+    "Sonic Avenues"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "https://www.dirtnaprecords.com/",
+   "tier": 2
+  },
+  "heavenly": {
+   "label": "Heavenly Recordings",
+   "spins": 15,
+   "artists": 1,
+   "last_spin": "2024-04-17",
+   "recent_spins": 2,
+   "top_artists": [
+    "Pip Blom"
+   ],
+   "sources": [
+    "airplay",
+    "reviews"
+   ],
+   "reviews": 1,
+   "url": "https://www.heavenlyrecordings.com/",
+   "tier": 2
+  },
+  "darla": {
+   "label": "Darla Records",
+   "spins": 14,
+   "artists": 1,
+   "last_spin": "2026-08-20",
+   "recent_spins": 1,
+   "top_artists": [
+    "Those Bastard Souls"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "https://www.darla.com/",
+   "tier": 2
+  },
+  "joyful noise": {
+   "label": "Joyful Noise Records",
+   "spins": 14,
+   "artists": 4,
+   "last_spin": "2019-12-18",
+   "recent_spins": 0,
+   "top_artists": [
+    "Big Business",
+    "Tropical Fuck Storm",
+    "Eerie Wanda",
+    "Helvetia"
+   ],
+   "sources": [
+    "airplay",
+    "reviews"
+   ],
+   "reviews": 1,
+   "url": "https://www.joyfulnoiserecordings.com/",
+   "tier": 2
+  },
+  "bloodshot": {
+   "label": "Bloodshot Records",
+   "spins": 13,
+   "artists": 2,
+   "last_spin": "2019-09-25",
+   "recent_spins": 0,
+   "top_artists": [
+    "Old 97'S",
+    "Andre Williams"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "https://www.bloodshotrecords.com/",
+   "tier": 2
+  },
+  "clouds hill": {
+   "label": "Clouds Hill Ltd.",
+   "spins": 13,
+   "artists": 2,
+   "last_spin": "2026-05-07",
+   "recent_spins": 3,
+   "top_artists": [
+    "Johnston, James",
+    "The Mars Volta"
+   ],
+   "sources": [
+    "airplay",
+    "reviews"
+   ],
+   "reviews": 1,
+   "url": "https://www.cloudshill.de/",
+   "tier": 2
+  },
+  "goner": {
+   "label": "Goner Records",
+   "spins": 13,
+   "artists": 9,
+   "last_spin": "2019-09-04",
+   "recent_spins": 0,
+   "top_artists": [
+    "Aquarian Blood",
+    "Carbonas",
+    "Golden Pelicans",
+    "Nots",
+    "Bad Times",
+    "The Blind Shake",
+    "Cobra Man",
+    "Bobo, Harlan T"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "https://goner-records.com/",
+   "tier": 2
+  },
+  "loosegroove": {
+   "label": "Loosegroove Records",
+   "spins": 13,
+   "artists": 1,
+   "last_spin": "2026-08-27",
+   "recent_spins": 2,
+   "top_artists": [
+    "Queens of the Stone Age"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "https://loosegrooverecords.com/",
+   "tier": 2
+  },
+  "norton": {
+   "label": "Norton Records",
+   "spins": 13,
+   "artists": 1,
+   "last_spin": "2024-04-10",
+   "recent_spins": 1,
+   "top_artists": [
+    "The Sonics"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "https://nortonrecords.com/",
+   "tier": 2
+  },
+  "tiny engines": {
+   "label": "Tiny Engines",
+   "spins": 13,
+   "artists": 2,
+   "last_spin": "2019-12-11",
+   "recent_spins": 0,
+   "top_artists": [
+    "Adult Mom",
+    "Strange Ranger"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "https://tinyengines.net/",
+   "tier": 2
+  },
+  "chain smoking": {
+   "label": "Chain Smoking Records",
+   "spins": 12,
+   "artists": 1,
+   "last_spin": "2026-08-27",
+   "recent_spins": 12,
+   "top_artists": [
+    "Twisted Teens"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "https://chainsmokingrecords.com/",
+   "tier": 1
+  },
+  "dangerbird": {
+   "label": "Dangerbird Records",
+   "spins": 12,
+   "artists": 3,
+   "last_spin": "2024-03-27",
+   "recent_spins": 1,
+   "top_artists": [
+    "Sebadoh",
+    "Swervedriver",
+    "Silversun Pickups"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "https://dangerbirdrecords.com/",
+   "tier": 2
+  },
+  "leaf label": {
+   "label": "Leaf Label",
+   "spins": 12,
+   "artists": 1,
+   "last_spin": "2020-01-08",
+   "recent_spins": 0,
+   "top_artists": [
+    "Snapped Ankles"
+   ],
+   "sources": [
+    "airplay",
+    "reviews"
+   ],
+   "reviews": 1,
+   "url": "https://www.theleaflabel.com/",
+   "tier": 2
+  },
+  "single lock": {
+   "label": "Single Lock Records",
+   "spins": 12,
+   "artists": 3,
+   "last_spin": "2019-10-09",
+   "recent_spins": 0,
+   "top_artists": [
+    "Lera Lynn",
+    "Lera Lyn",
+    "St. Paul & the Broken Bones"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "https://singlelock.com/",
+   "tier": 2
+  },
+  "sacred bones": {
+   "label": "Sacred Bones Records",
+   "spins": 10,
+   "artists": 4,
+   "last_spin": "2026-05-07",
+   "recent_spins": 4,
+   "top_artists": [
+    "Moon Duo",
+    "Mandy, Indiana",
+    "The Holydrug Couple",
+    "Jim Jarmusch and Anika"
+   ],
+   "sources": [
+    "airplay",
+    "style fit"
+   ],
+   "url": "https://www.sacredbonesrecords.com/",
+   "tier": 2
+  },
+  "uni distribution corp": {
+   "label": "Uni Distribution Corp.",
+   "spins": 10,
+   "artists": 1,
+   "last_spin": "2026-04-30",
+   "recent_spins": 3,
+   "top_artists": [
+    "Swans"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "",
+   "tier": 2
+  },
+  "epitaph": {
+   "label": "Epitaph Records",
+   "spins": 9,
+   "artists": 5,
+   "last_spin": "2026-09-10",
+   "recent_spins": 4,
+   "top_artists": [
+    "The Bobby Lees",
+    "The Linda Lindas",
+    "Mannequin Pussy",
+    "Tom Waits",
+    "Teenage Wrist"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "https://www.epitaph.com/",
+   "tier": 2
+  },
+  "perishable": {
+   "label": "Perishable",
+   "spins": 9,
+   "artists": 2,
+   "last_spin": "2026-07-30",
+   "recent_spins": 3,
+   "top_artists": [
+    "Sin Ropas",
+    "Fruit Bats"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "",
+   "tier": 2
+  },
+  "kill rock stars": {
+   "label": "Kill Rock Stars",
+   "spins": 8,
+   "artists": 5,
+   "last_spin": "2024-04-10",
+   "recent_spins": 3,
+   "top_artists": [
+    "Elliott Smith",
+    "Stern, Marnie",
+    "Elliot Smith",
+    "Low",
+    "Wimps"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "",
+   "tier": 2
+  },
+  "tardigrade": {
+   "label": "Tardigrade Records",
+   "spins": 8,
+   "artists": 1,
+   "last_spin": "2024-06-19",
+   "recent_spins": 8,
+   "top_artists": [
+    "Sheldrake, Cosmo"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "https://tardigraderecords.com/",
+   "tier": 2
+  },
+  "thirty tigers": {
+   "label": "Thirty Tigers",
+   "spins": 8,
+   "artists": 2,
+   "last_spin": "2024-04-17",
+   "recent_spins": 6,
+   "top_artists": [
+    "Lizzie No",
+    "Bare, Bobby Jr."
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "https://www.thirtytigers.com/",
+   "tier": 2
+  },
+  "warp": {
+   "label": "Warp Records",
+   "spins": 7,
+   "artists": 3,
+   "last_spin": "2026-04-30",
+   "recent_spins": 3,
+   "top_artists": [
+    "Nightmares On Wax",
+    "Aphex Twin",
+    "Battles"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "",
+   "tier": 2
+  },
+  "forever living originals": {
+   "label": "Forever Living Originals",
+   "spins": 6,
+   "artists": 1,
+   "last_spin": "2026-03-26",
+   "recent_spins": 3,
+   "top_artists": [
+    "SAULT"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "",
+   "tier": 2
+  },
+  "ourness": {
+   "label": "Ourness",
+   "spins": 6,
+   "artists": 2,
+   "last_spin": "2024-06-26",
+   "recent_spins": 6,
+   "top_artists": [
+    "Royel Otis",
+    "Royal Otis"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "https://ourness.bandcamp.com/",
+   "tier": 2
+  },
+  "trouble in mind": {
+   "label": "Trouble In Mind Records",
+   "spins": 6,
+   "artists": 2,
+   "last_spin": "2024-03-06",
+   "recent_spins": 5,
+   "top_artists": [
+    "Facs",
+    "Rays"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "https://troubleinmindrecs.com/",
+   "tier": 2
+  },
+  "duophonic ultra high fs": {
+   "label": "Duophonic Ultra High Fs",
+   "spins": 5,
+   "artists": 1,
+   "last_spin": "2026-04-09",
+   "recent_spins": 5,
+   "top_artists": [
+    "Stereolab"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "https://www.stereolab.co.uk/",
+   "tier": 2
+  },
+  "warner": {
+   "label": "Warner Records",
+   "spins": 5,
+   "artists": 5,
+   "last_spin": "2026-09-10",
+   "recent_spins": 3,
+   "top_artists": [
+    "Portugal, The Man",
+    "Orville Peck",
+    "Royal Blood",
+    "The Smiths",
+    "Son Volt"
+   ],
+   "sources": [
+    "airplay",
+    "sources.yml"
+   ],
+   "url": "https://www.warnerrecords.com/",
+   "tier": 2
+  },
+  "dirty hit": {
+   "label": "Dirty Hit",
+   "spins": 4,
+   "artists": 2,
+   "last_spin": "2026-07-09",
+   "recent_spins": 4,
+   "top_artists": [
+    "Bleachers",
+    "Lava La Rue"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "https://dirtyhit.co.uk/",
+   "tier": 2
+  },
+  "fire talk": {
+   "label": "Fire Talk",
+   "spins": 4,
+   "artists": 1,
+   "last_spin": "2024-03-27",
+   "recent_spins": 4,
+   "top_artists": [
+    "PACKS"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "https://www.firetalkrecs.com/",
+   "tier": 2
+  },
+  "suck": {
+   "label": "SUCK Records",
+   "spins": 4,
+   "artists": 1,
+   "last_spin": "2026-09-10",
+   "recent_spins": 4,
+   "top_artists": [
+    "Caroline Rose"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "https://www.carolinerose.com/",
+   "tier": 2
+  },
+  "confidence river island": {
+   "label": "Confidence River, Inc. / Island Records",
+   "spins": 3,
+   "artists": 1,
+   "last_spin": "2026-06-25",
+   "recent_spins": 3,
+   "top_artists": [
+    "Suki Waterhouse"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "",
+   "tier": 2
+  },
+  "geocities": {
+   "label": "Geocities",
+   "spins": 3,
+   "artists": 1,
+   "last_spin": "2024-05-22",
+   "recent_spins": 3,
+   "top_artists": [
+    "Cindy Lee"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "",
+   "tier": 2
+  },
+  "hometown fantasy": {
+   "label": "Hometown Fantasy",
+   "spins": 3,
+   "artists": 1,
+   "last_spin": "2024-02-28",
+   "recent_spins": 3,
+   "top_artists": [
+    "The American Analog Set"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "",
+   "tier": 2
+  },
+  "jazz life": {
+   "label": "Jazz Life",
+   "spins": 3,
+   "artists": 1,
+   "last_spin": "2026-04-30",
+   "recent_spins": 3,
+   "top_artists": [
+    "Twisted Teens"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "",
+   "tier": 2
+  },
+  "k": {
+   "label": "K Records",
+   "spins": 3,
+   "artists": 1,
+   "last_spin": "2026-09-10",
+   "recent_spins": 3,
+   "top_artists": [
+    "Sharp Pins"
+   ],
+   "sources": [
+    "airplay",
+    "style fit"
+   ],
+   "url": "https://www.krecs.com/",
+   "tier": 2
+  },
+  "parlophone": {
+   "label": "Parlophone Records",
+   "spins": 3,
+   "artists": 2,
+   "last_spin": "2024-06-19",
+   "recent_spins": 3,
+   "top_artists": [
+    "Bowie, David",
+    "The Beatles"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "",
+   "tier": 2
+  },
+  "psychic hotline": {
+   "label": "Psychic Hotline",
+   "spins": 3,
+   "artists": 2,
+   "last_spin": "2026-09-10",
+   "recent_spins": 3,
+   "top_artists": [
+    "Esso, Sylvan",
+    "Helado Tropical, Helado Negro & Reyna Tropical"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "",
+   "tier": 2
+  },
+  "radicalis gmbh": {
+   "label": "Radicalis Music Gmbh",
+   "spins": 3,
+   "artists": 1,
+   "last_spin": "2024-05-15",
+   "recent_spins": 3,
+   "top_artists": [
+    "Erhard, Anna"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "",
+   "tier": 2
+  },
+  "rca victor": {
+   "label": "RCA Victor",
+   "spins": 3,
+   "artists": 1,
+   "last_spin": "2026-08-27",
+   "recent_spins": 3,
+   "top_artists": [
+    "Dolly Parton"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "",
+   "tier": 2
+  },
+  "shrimptech enterprises": {
+   "label": "Shrimptech Enterprises",
+   "spins": 3,
+   "artists": 1,
+   "last_spin": "2026-09-10",
+   "recent_spins": 3,
+   "top_artists": [
+    "Viagra Boys"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "",
+   "tier": 2
+  },
+  "so young": {
+   "label": "So Young Records!",
+   "spins": 3,
+   "artists": 1,
+   "last_spin": "2024-03-06",
+   "recent_spins": 3,
+   "top_artists": [
+    "Folly Group"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "",
+   "tier": 2
+  },
+  "todo": {
+   "label": "TODO Records",
+   "spins": 3,
+   "artists": 1,
+   "last_spin": "2026-09-10",
+   "recent_spins": 3,
+   "top_artists": [
+    "Annabelle Chairlegs"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "",
+   "tier": 2
+  },
+  "turbo disco": {
+   "label": "Turbo Disco",
+   "spins": 3,
+   "artists": 1,
+   "last_spin": "2026-03-05",
+   "recent_spins": 3,
+   "top_artists": [
+    "Twisted Teens"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "",
+   "tier": 2
+  },
+  "war child": {
+   "label": "War Child Records",
+   "spins": 3,
+   "artists": 3,
+   "last_spin": "2026-05-07",
+   "recent_spins": 3,
+   "top_artists": [
+    "Fontaines D.C.",
+    "Fontaines D.C. & War Child Records",
+    "Fontaines DC"
+   ],
+   "sources": [
+    "airplay"
+   ],
+   "url": "",
+   "tier": 2
+  },
+  "ba da bing": {
+   "label": "Ba Da Bing!",
+   "spins": 0,
+   "sources": [
+    "reviews",
+    "style fit"
+   ],
+   "reviews": 1,
+   "url": "https://badabingrecords.com/",
+   "tier": 2
+  },
+  "canvasback atl": {
+   "label": "Canvasback/atl",
+   "spins": 0,
+   "sources": [
+    "reviews"
+   ],
+   "reviews": 1,
+   "url": "",
+   "tier": 2
+  },
+  "chapter": {
+   "label": "Chapter",
+   "spins": 0,
+   "sources": [
+    "reviews"
+   ],
+   "reviews": 1,
+   "url": "",
+   "tier": 2
+  },
+  "fiction": {
+   "label": "Fiction Records",
+   "spins": 0,
+   "sources": [
+    "reviews",
+    "style fit"
+   ],
+   "reviews": 1,
+   "url": "https://www.fictionrecords.co.uk/",
+   "tier": 2
+  },
+  "harvest": {
+   "label": "Harvest Records",
+   "spins": 0,
+   "sources": [
+    "reviews"
+   ],
+   "reviews": 1,
+   "url": "",
+   "tier": 2
+  },
+  "mint": {
+   "label": "Mint Records Inc.",
+   "spins": 0,
+   "sources": [
+    "reviews",
+    "style fit"
+   ],
+   "reviews": 1,
+   "url": "https://www.mintrecs.com/",
+   "tier": 2
+  },
+  "plum": {
+   "label": "Plum Records",
+   "spins": 0,
+   "sources": [
+    "reviews"
+   ],
+   "reviews": 1,
+   "url": "",
+   "tier": 2
+  },
+  "rhyme reason": {
+   "label": "Rhyme & Reason",
+   "spins": 0,
+   "sources": [
+    "reviews"
+   ],
+   "reviews": 1,
+   "url": "",
+   "tier": 2
+  },
+  "spacebomb": {
+   "label": "Spacebomb",
+   "spins": 0,
+   "sources": [
+    "reviews",
+    "style fit"
+   ],
+   "reviews": 1,
+   "url": "https://spacebombrecords.com/",
+   "tier": 2
+  },
+  "stargazer": {
+   "label": "Stargazer Records",
+   "spins": 0,
+   "sources": [
+    "reviews",
+    "style fit"
+   ],
+   "reviews": 1,
+   "url": "https://stargazerrecords.com/",
+   "tier": 2
+  },
+  "the sign": {
+   "label": "The Sign Records",
+   "spins": 0,
+   "sources": [
+    "reviews"
+   ],
+   "reviews": 1,
+   "url": "",
+   "tier": 2
+  },
+  "sire records": {
+   "label": "Sire Records",
+   "spins": 0,
+   "sources": [
+    "sources.yml"
+   ],
+   "url": "https://www.sirerecords.com/",
+   "tier": 2
+  },
+  "no more heroes": {
+   "label": "No More Heroes",
+   "spins": 0,
+   "sources": [
+    "sources.yml"
+   ],
+   "url": "https://www.nomoreheroes.co.uk/",
+   "tier": 2
+  },
+  "exploding in sound": {
+   "label": "Exploding In Sound",
+   "spins": 0,
+   "sources": [
+    "style fit"
+   ],
+   "url": "https://explodinginsound.com/",
+   "tier": 2
+  },
+  "julia s war": {
+   "label": "Julia S War",
+   "spins": 0,
+   "sources": [
+    "style fit"
+   ],
+   "url": "https://juliaswar.com/",
+   "tier": 2
+  },
+  "perennial": {
+   "label": "Perennial",
+   "spins": 0,
+   "sources": [
+    "style fit"
+   ],
+   "url": "https://perennialrecords.bandcamp.com/",
+   "tier": 2
+  },
+  "speedy wunderground": {
+   "label": "Speedy Wunderground",
+   "spins": 0,
+   "sources": [
+    "style fit"
+   ],
+   "url": "https://www.speedywunderground.co.uk/",
+   "tier": 2
+  },
+  "kartel": {
+   "label": "Kartel",
+   "spins": 0,
+   "sources": [
+    "style fit"
+   ],
+   "url": "https://kartelmusicgroup.com/",
+   "tier": 2
+  },
+  "big scary monsters": {
+   "label": "Big Scary Monsters",
+   "spins": 0,
+   "sources": [
+    "style fit"
+   ],
+   "url": "https://bsmrocks.com/",
+   "tier": 2
+  },
+  "memphis industries": {
+   "label": "Memphis Industries",
+   "spins": 0,
+   "sources": [
+    "style fit"
+   ],
+   "url": "https://memphis-industries.com/",
+   "tier": 2
+  },
+  "bayonet": {
+   "label": "Bayonet",
+   "spins": 0,
+   "sources": [
+    "style fit"
+   ],
+   "url": "https://www.bayonetrecords.com/",
+   "tier": 2
+  },
+  "numero group": {
+   "label": "Numero Group",
+   "spins": 0,
+   "sources": [
+    "style fit"
+   ],
+   "url": "https://numerogroup.com/",
+   "tier": 2
+  },
+  "daptone": {
+   "label": "Daptone",
+   "spins": 0,
+   "sources": [
+    "style fit"
+   ],
+   "url": "https://daptonerecords.com/",
+   "tier": 2
+  },
+  "big crown": {
+   "label": "Big Crown",
+   "spins": 0,
+   "sources": [
+    "style fit"
+   ],
+   "url": "https://bigcrownrecords.com/",
+   "tier": 2
+  },
+  "riding easy": {
+   "label": "Riding Easy",
+   "spins": 0,
+   "sources": [
+    "style fit"
+   ],
+   "url": "https://ridingeasyrecords.com/",
+   "tier": 2
+  },
+  "heavy psych sounds": {
+   "label": "Heavy Psych Sounds",
+   "spins": 0,
+   "sources": [
+    "style fit"
+   ],
+   "url": "https://www.heavypsychsounds.com/",
+   "tier": 2
+  },
+  "god unknown": {
+   "label": "God Unknown",
+   "spins": 0,
+   "sources": [
+    "style fit"
+   ],
+   "url": "https://www.godunknownrecords.co.uk/",
+   "tier": 2
+  },
+  "rocket recordings": {
+   "label": "Rocket Recordings",
+   "spins": 0,
+   "sources": [
+    "style fit"
+   ],
+   "url": "https://www.rocketrecordings.com/",
+   "tier": 2
+  },
+  "mexican summer": {
+   "label": "Mexican Summer",
+   "spins": 0,
+   "sources": [
+    "style fit"
+   ],
+   "url": "https://mexicansummer.com/",
+   "tier": 2
+  },
+  "ghostly international": {
+   "label": "Ghostly International",
+   "spins": 0,
+   "sources": [
+    "style fit"
+   ],
+   "url": "https://ghostly.com/",
+   "tier": 2
+  },
+  "sinderlyn": {
+   "label": "Sinderlyn",
+   "spins": 0,
+   "sources": [
+    "style fit"
+   ],
+   "url": "https://sinderlyn.com/",
+   "tier": 2
+  },
+  "full time hobby": {
+   "label": "Full Time Hobby",
+   "spins": 0,
+   "sources": [
+    "style fit"
+   ],
+   "url": "https://fulltimehobby.co.uk/",
+   "tier": 2
+  },
+  "pias": {
+   "label": "Pias",
+   "spins": 0,
+   "sources": [
+    "style fit"
+   ],
+   "url": "https://www.pias.com/",
+   "tier": 2
+  },
+  "bandcamp self release": {
+   "label": "Bandcamp Self Release",
+   "spins": 0,
+   "sources": [
+    "style fit"
+   ],
+   "url": "https://bandcamp.com/discover/rock?s=new",
+   "tier": 2
+  }
+ },
+ "artists": [
+  {
+   "artist": "Ty Segall",
+   "key": "ty segall",
+   "score": 100.0,
+   "shows": 90,
+   "shows_12mo": 13,
+   "ytm_plays": 906,
+   "ytm_plays_90d": 67,
+   "last_spin": "2026-09-24"
+  },
+  {
+   "artist": "Guided By Voices",
+   "key": "guided by voices",
+   "score": 94.8,
+   "shows": 92,
+   "shows_12mo": 9,
+   "ytm_plays": 507,
+   "ytm_plays_90d": 17,
+   "last_spin": "2026-08-06"
+  },
+  {
+   "artist": "Spoon",
+   "key": "spoon",
+   "score": 89.7,
+   "shows": 93,
+   "shows_12mo": 6,
+   "ytm_plays": 534,
+   "ytm_plays_90d": 14,
+   "last_spin": "2026-07-30"
+  },
+  {
+   "artist": "Father John Misty",
+   "key": "father john misty",
+   "score": 87.5,
+   "shows": 81,
+   "shows_12mo": 11,
+   "ytm_plays": 958,
+   "ytm_plays_90d": 94,
+   "last_spin": "2026-09-24"
+  },
+  {
+   "artist": "Bodega",
+   "key": "bodega",
+   "score": 82.9,
+   "shows": 67,
+   "shows_12mo": 16,
+   "ytm_plays": 216,
+   "ytm_plays_90d": 14,
+   "last_spin": "2026-09-24"
+  },
+  {
+   "artist": "Queens of the Stone Age",
+   "key": "queens of the stone age",
+   "score": 71.7,
+   "shows": 70,
+   "shows_12mo": 7,
+   "ytm_plays": 997,
+   "ytm_plays_90d": 47,
+   "last_spin": "2026-09-10"
+  },
+  {
+   "artist": "Caroline Rose",
+   "key": "caroline rose",
+   "score": 68.1,
+   "shows": 52,
+   "shows_12mo": 15,
+   "ytm_plays": 143,
+   "ytm_plays_90d": 9,
+   "last_spin": "2026-09-24"
+  },
+  {
+   "artist": "Car Seat Headrest",
+   "key": "car seat headrest",
+   "score": 62.9,
+   "shows": 54,
+   "shows_12mo": 10,
+   "ytm_plays": 340,
+   "ytm_plays_90d": 16,
+   "last_spin": "2026-09-10"
+  },
+  {
+   "artist": "Courtney Barnett",
+   "key": "courtney barnett",
+   "score": 58.3,
+   "shows": 58,
+   "shows_12mo": 5,
+   "ytm_plays": 369,
+   "ytm_plays_90d": 23,
+   "last_spin": "2026-08-06"
+  },
+  {
+   "artist": "The Pleasure Routine",
+   "key": "pleasure routine",
+   "score": 57.9,
+   "shows": 68,
+   "shows_12mo": 1,
+   "ytm_plays": 14,
+   "ytm_plays_90d": 0,
+   "last_spin": "2026-03-26"
+  },
+  {
+   "artist": "The Black Angels",
+   "key": "black angels",
+   "score": 55.7,
+   "shows": 58,
+   "shows_12mo": 3,
+   "ytm_plays": 165,
+   "ytm_plays_90d": 7,
+   "last_spin": "2026-08-27"
+  },
+  {
+   "artist": "Twisted Teens",
+   "key": "twisted teens",
+   "score": 50.1,
+   "shows": 19,
+   "shows_12mo": 19,
+   "ytm_plays": 438,
+   "ytm_plays_90d": 125,
+   "last_spin": "2026-09-24"
+  },
+  {
+   "artist": "Mr. Gnome",
+   "key": "mr gnome",
+   "score": 47.6,
+   "shows": 44,
+   "shows_12mo": 4,
+   "ytm_plays": 492,
+   "ytm_plays_90d": 38,
+   "last_spin": "2026-09-24"
+  },
+  {
+   "artist": "The Arcs",
+   "key": "arcs",
+   "score": 46.8,
+   "shows": 50,
+   "shows_12mo": 2,
+   "ytm_plays": 167,
+   "ytm_plays_90d": 1,
+   "last_spin": "2026-07-02"
+  },
+  {
+   "artist": "the Wedding Present",
+   "key": "wedding present",
+   "score": 46.3,
+   "shows": 48,
+   "shows_12mo": 3,
+   "ytm_plays": 104,
+   "ytm_plays_90d": 0,
+   "last_spin": "2026-08-06"
+  },
+  {
+   "artist": "Built To Spill",
+   "key": "built to spill",
+   "score": 44.8,
+   "shows": 35,
+   "shows_12mo": 7,
+   "ytm_plays": 292,
+   "ytm_plays_90d": 9,
+   "last_spin": "2026-09-03"
+  },
+  {
+   "artist": "Fontaines D.C.",
+   "key": "fontaines d c",
+   "score": 41.8,
+   "shows": 37,
+   "shows_12mo": 3,
+   "ytm_plays": 414,
+   "ytm_plays_90d": 18,
+   "last_spin": "2026-03-26"
+  },
+  {
+   "artist": "Thee Oh Sees",
+   "key": "thee oh sees",
+   "score": 41.3,
+   "shows": 32,
+   "shows_12mo": 7,
+   "ytm_plays": 339,
+   "ytm_plays_90d": 17,
+   "last_spin": "2026-09-03"
+  },
+  {
+   "artist": "The Dirtbombs",
+   "key": "dirtbombs",
+   "score": 40.4,
+   "shows": 39,
+   "shows_12mo": 4,
+   "ytm_plays": 65,
+   "ytm_plays_90d": 11,
+   "last_spin": "2026-07-02"
+  },
+  {
+   "artist": "Nick Cave & The Bad Seeds",
+   "key": "nick cave and the bad seeds",
+   "score": 38.6,
+   "shows": 46,
+   "shows_12mo": 1,
+   "ytm_plays": 4,
+   "ytm_plays_90d": 0,
+   "last_spin": "2026-02-12"
+  },
+  {
+   "artist": "Low Cut Connie",
+   "key": "low cut connie",
+   "score": 37.5,
+   "shows": 31,
+   "shows_12mo": 6,
+   "ytm_plays": 78,
+   "ytm_plays_90d": 21,
+   "last_spin": "2026-07-09"
+  },
+  {
+   "artist": "PJ Harvey",
+   "key": "pj harvey",
+   "score": 37.1,
+   "shows": 37,
+   "shows_12mo": 2,
+   "ytm_plays": 234,
+   "ytm_plays_90d": 2,
+   "last_spin": "2026-07-30"
+  },
+  {
+   "artist": "Devo",
+   "key": "devo",
+   "score": 36.1,
+   "shows": 33,
+   "shows_12mo": 4,
+   "ytm_plays": 87,
+   "ytm_plays_90d": 7,
+   "last_spin": "2026-09-24"
+  },
+  {
+   "artist": "Wilco",
+   "key": "wilco",
+   "score": 35.9,
+   "shows": 32,
+   "shows_12mo": 2,
+   "ytm_plays": 856,
+   "ytm_plays_90d": 36,
+   "last_spin": "2026-07-30"
+  },
+  {
+   "artist": "Grifters",
+   "key": "grifters",
+   "score": 34.8,
+   "shows": 34,
+   "shows_12mo": 3,
+   "ytm_plays": 49,
+   "ytm_plays_90d": 28,
+   "last_spin": "2026-08-06"
+  },
+  {
+   "artist": "IDLES",
+   "key": "idles",
+   "score": 34.1,
+   "shows": 23,
+   "shows_12mo": 6,
+   "ytm_plays": 1144,
+   "ytm_plays_90d": 44,
+   "last_spin": "2026-09-10"
+  },
+  {
+   "artist": "Hanni El Khatib",
+   "key": "hanni el khatib",
+   "score": 32.7,
+   "shows": 36,
+   "shows_12mo": 1,
+   "ytm_plays": 8,
+   "ytm_plays_90d": 0,
+   "last_spin": "2026-03-19"
+  },
+  {
+   "artist": "Sheer Mag",
+   "key": "sheer mag",
+   "score": 31.6,
+   "shows": 38,
+   "shows_12mo": 0,
+   "ytm_plays": 2,
+   "ytm_plays_90d": 0,
+   "last_spin": "2019-08-07"
+  },
+  {
+   "artist": "The Black Keys",
+   "key": "black keys",
+   "score": 31.0,
+   "shows": 30,
+   "shows_12mo": 1,
+   "ytm_plays": 515,
+   "ytm_plays_90d": 2,
+   "last_spin": "2026-02-12"
+  },
+  {
+   "artist": "The Coathangers",
+   "key": "coathangers",
+   "score": 30.8,
+   "shows": 40,
+   "shows_12mo": 0,
+   "ytm_plays": 0,
+   "ytm_plays_90d": 0,
+   "last_spin": "2019-08-21"
+  },
+  {
+   "artist": "Suki Waterhouse",
+   "key": "suki waterhouse",
+   "score": 30.0,
+   "shows": 11,
+   "shows_12mo": 10,
+   "ytm_plays": 397,
+   "ytm_plays_90d": 93,
+   "last_spin": "2026-08-20"
+  },
+  {
+   "artist": "Dinosaur Jr",
+   "key": "dinosaur jr",
+   "score": 29.8,
+   "shows": 28,
+   "shows_12mo": 3,
+   "ytm_plays": 34,
+   "ytm_plays_90d": 25,
+   "last_spin": "2026-09-10"
+  },
+  {
+   "artist": "Andrew Bird",
+   "key": "andrew bird",
+   "score": 29.5,
+   "shows": 24,
+   "shows_12mo": 3,
+   "ytm_plays": 549,
+   "ytm_plays_90d": 11,
+   "last_spin": "2026-06-25"
+  },
+  {
+   "artist": "Interpol",
+   "key": "interpol",
+   "score": 28.7,
+   "shows": 22,
+   "shows_12mo": 4,
+   "ytm_plays": 237,
+   "ytm_plays_90d": 22,
+   "last_spin": "2026-07-09"
+  },
+  {
+   "artist": "Fruit Bats",
+   "key": "fruit bats",
+   "score": 27.2,
+   "shows": 27,
+   "shows_12mo": 0,
+   "ytm_plays": 160,
+   "ytm_plays_90d": 4,
+   "last_spin": "2020-01-08"
+  },
+  {
+   "artist": "Swans",
+   "key": "swans",
+   "score": 27.1,
+   "shows": 22,
+   "shows_12mo": 4,
+   "ytm_plays": 49,
+   "ytm_plays_90d": 0,
+   "last_spin": "2026-07-02"
+  },
+  {
+   "artist": "Bill Callahan",
+   "key": "bill callahan",
+   "score": 26.9,
+   "shows": 15,
+   "shows_12mo": 7,
+   "ytm_plays": 92,
+   "ytm_plays_90d": 20,
+   "last_spin": "2026-04-30"
+  },
+  {
+   "artist": "This Is Lorelei",
+   "key": "this is lorelei",
+   "score": 26.0,
+   "shows": 10,
+   "shows_12mo": 8,
+   "ytm_plays": 361,
+   "ytm_plays_90d": 102,
+   "last_spin": "2026-09-03"
+  },
+  {
+   "artist": "Black Pumas",
+   "key": "black pumas",
+   "score": 25.5,
+   "shows": 26,
+   "shows_12mo": 0,
+   "ytm_plays": 61,
+   "ytm_plays_90d": 0,
+   "last_spin": "2024-01-24"
+  },
+  {
+   "artist": "Big Thief",
+   "key": "big thief",
+   "score": 25.2,
+   "shows": 26,
+   "shows_12mo": 0,
+   "ytm_plays": 158,
+   "ytm_plays_90d": 3,
+   "last_spin": "2024-03-27"
+  },
+  {
+   "artist": "Sluice",
+   "key": "sluice",
+   "score": 25.0,
+   "shows": 9,
+   "shows_12mo": 9,
+   "ytm_plays": 60,
+   "ytm_plays_90d": 3,
+   "last_spin": "2026-07-30"
+  },
+  {
+   "artist": "Screaming Females",
+   "key": "screaming females",
+   "score": 24.9,
+   "shows": 25,
+   "shows_12mo": 1,
+   "ytm_plays": 54,
+   "ytm_plays_90d": 1,
+   "last_spin": "2026-03-26"
+  },
+  {
+   "artist": "TV Priest",
+   "key": "tv priest",
+   "score": 24.7,
+   "shows": 10,
+   "shows_12mo": 8,
+   "ytm_plays": 98,
+   "ytm_plays_90d": 20,
+   "last_spin": "2026-09-24"
+  },
+  {
+   "artist": "Eagles of Death Metal",
+   "key": "eagles of death metal",
+   "score": 24.5,
+   "shows": 25,
+   "shows_12mo": 1,
+   "ytm_plays": 38,
+   "ytm_plays_90d": 4,
+   "last_spin": "2026-02-12"
+  },
+  {
+   "artist": "Love And Rockets",
+   "key": "love and rockets",
+   "score": 24.1,
+   "shows": 20,
+   "shows_12mo": 2,
+   "ytm_plays": 249,
+   "ytm_plays_90d": 25,
+   "last_spin": "2026-06-25"
+  },
+  {
+   "artist": "Kurt Vile",
+   "key": "kurt vile",
+   "score": 24.1,
+   "shows": 22,
+   "shows_12mo": 1,
+   "ytm_plays": 249,
+   "ytm_plays_90d": 11,
+   "last_spin": "2026-04-16"
+  },
+  {
+   "artist": "The Nude Party",
+   "key": "nude party",
+   "score": 23.9,
+   "shows": 21,
+   "shows_12mo": 2,
+   "ytm_plays": 26,
+   "ytm_plays_90d": 0,
+   "last_spin": "2026-06-25"
+  },
+  {
+   "artist": "Devendra Banhart",
+   "key": "devendra banhart",
+   "score": 23.9,
+   "shows": 24,
+   "shows_12mo": 0,
+   "ytm_plays": 15,
+   "ytm_plays_90d": 1,
+   "last_spin": "2020-08-05"
+  },
+  {
+   "artist": "The Glands",
+   "key": "glands",
+   "score": 23.7,
+   "shows": 21,
+   "shows_12mo": 1,
+   "ytm_plays": 102,
+   "ytm_plays_90d": 0,
+   "last_spin": "2026-05-07"
+  },
+  {
+   "artist": "Beck",
+   "key": "beck",
+   "score": 23.6,
+   "shows": 21,
+   "shows_12mo": 1,
+   "ytm_plays": 319,
+   "ytm_plays_90d": 26,
+   "last_spin": "2026-02-12"
+  },
+  {
+   "artist": "The Flaming Lips",
+   "key": "flaming lips",
+   "score": 23.3,
+   "shows": 22,
+   "shows_12mo": 1,
+   "ytm_plays": 108,
+   "ytm_plays_90d": 1,
+   "last_spin": "2026-07-09"
+  },
+  {
+   "artist": "Bauhaus",
+   "key": "bauhaus",
+   "score": 23.1,
+   "shows": 20,
+   "shows_12mo": 2,
+   "ytm_plays": 91,
+   "ytm_plays_90d": 10,
+   "last_spin": "2026-09-03"
+  },
+  {
+   "artist": "Parquet Courts",
+   "key": "parquet courts",
+   "score": 23.1,
+   "shows": 21,
+   "shows_12mo": 1,
+   "ytm_plays": 192,
+   "ytm_plays_90d": 13,
+   "last_spin": "2026-02-26"
+  },
+  {
+   "artist": "Desert Sessions",
+   "key": "desert sessions",
+   "score": 23.0,
+   "shows": 22,
+   "shows_12mo": 1,
+   "ytm_plays": 24,
+   "ytm_plays_90d": 1,
+   "last_spin": "2026-08-06"
+  },
+  {
+   "artist": "Yard Act",
+   "key": "yard act",
+   "score": 22.2,
+   "shows": 10,
+   "shows_12mo": 6,
+   "ytm_plays": 179,
+   "ytm_plays_90d": 20,
+   "last_spin": "2026-09-24"
+  },
+  {
+   "artist": "Sampa the Great",
+   "key": "sampa the great",
+   "score": 22.0,
+   "shows": 8,
+   "shows_12mo": 8,
+   "ytm_plays": 30,
+   "ytm_plays_90d": 5,
+   "last_spin": "2026-04-16"
+  },
+  {
+   "artist": "Radiohead",
+   "key": "radiohead",
+   "score": 21.7,
+   "shows": 20,
+   "shows_12mo": 0,
+   "ytm_plays": 483,
+   "ytm_plays_90d": 12,
+   "last_spin": "2016-09-15"
+  },
+  {
+   "artist": "Stereolab",
+   "key": "stereolab",
+   "score": 21.7,
+   "shows": 10,
+   "shows_12mo": 5,
+   "ytm_plays": 489,
+   "ytm_plays_90d": 53,
+   "last_spin": "2026-04-09"
+  },
+  {
+   "artist": "Jon Blues Explosion Spencer",
+   "key": "jon blues explosion spencer",
+   "score": 21.5,
+   "shows": 26,
+   "shows_12mo": 1,
+   "ytm_plays": 0,
+   "ytm_plays_90d": 0,
+   "last_spin": "2026-03-05"
+  },
+  {
+   "artist": "Tricky",
+   "key": "tricky",
+   "score": 21.4,
+   "shows": 13,
+   "shows_12mo": 4,
+   "ytm_plays": 176,
+   "ytm_plays_90d": 58,
+   "last_spin": "2026-09-03"
+  },
+  {
+   "artist": "Aldous Harding",
+   "key": "aldous harding",
+   "score": 21.4,
+   "shows": 7,
+   "shows_12mo": 7,
+   "ytm_plays": 172,
+   "ytm_plays_90d": 23,
+   "last_spin": "2026-07-30"
+  },
+  {
+   "artist": "Cat Power",
+   "key": "cat power",
+   "score": 21.3,
+   "shows": 15,
+   "shows_12mo": 3,
+   "ytm_plays": 152,
+   "ytm_plays_90d": 5,
+   "last_spin": "2026-03-12"
+  },
+  {
+   "artist": "Tom Waits",
+   "key": "tom waits",
+   "score": 21.0,
+   "shows": 21,
+   "shows_12mo": 0,
+   "ytm_plays": 108,
+   "ytm_plays_90d": 1,
+   "last_spin": "2024-04-17"
+  },
+  {
+   "artist": "Annabelle Chairlegs",
+   "key": "annabelle chairlegs",
+   "score": 20.8,
+   "shows": 7,
+   "shows_12mo": 7,
+   "ytm_plays": 92,
+   "ytm_plays_90d": 4,
+   "last_spin": "2026-09-10"
+  },
+  {
+   "artist": "Mitski",
+   "key": "mitski",
+   "score": 20.7,
+   "shows": 11,
+   "shows_12mo": 5,
+   "ytm_plays": 84,
+   "ytm_plays_90d": 1,
+   "last_spin": "2026-06-25"
+  },
+  {
+   "artist": "Melvins",
+   "key": "melvins",
+   "score": 20.7,
+   "shows": 19,
+   "shows_12mo": 1,
+   "ytm_plays": 85,
+   "ytm_plays_90d": 0,
+   "last_spin": "2026-06-25"
+  },
+  {
+   "artist": "Girl and Girl",
+   "key": "girl and girl",
+   "score": 20.4,
+   "shows": 14,
+   "shows_12mo": 3,
+   "ytm_plays": 129,
+   "ytm_plays_90d": 3,
+   "last_spin": "2026-08-06"
+  },
+  {
+   "artist": "Bleachers",
+   "key": "bleachers",
+   "score": 20.3,
+   "shows": 7,
+   "shows_12mo": 7,
+   "ytm_plays": 59,
+   "ytm_plays_90d": 3,
+   "last_spin": "2026-09-24"
+  },
+  {
+   "artist": "Iron & Wine",
+   "key": "iron and wine",
+   "score": 20.2,
+   "shows": 18,
+   "shows_12mo": 1,
+   "ytm_plays": 115,
+   "ytm_plays_90d": 21,
+   "last_spin": "2026-09-24"
+  },
+  {
+   "artist": "Geese",
+   "key": "geese",
+   "score": 20.1,
+   "shows": 6,
+   "shows_12mo": 6,
+   "ytm_plays": 447,
+   "ytm_plays_90d": 33,
+   "last_spin": "2026-05-28"
+  },
+  {
+   "artist": "Daniele Luppi & Parquet Courts",
+   "key": "daniele luppi and parquet courts",
+   "score": 20.0,
+   "shows": 24,
+   "shows_12mo": 1,
+   "ytm_plays": 0,
+   "ytm_plays_90d": 0,
+   "last_spin": "2026-04-09"
+  },
+  {
+   "artist": "My Morning Jacket",
+   "key": "my morning jacket",
+   "score": 19.9,
+   "shows": 19,
+   "shows_12mo": 0,
+   "ytm_plays": 182,
+   "ytm_plays_90d": 1,
+   "last_spin": "2019-10-23"
+  },
+  {
+   "artist": "Beirut",
+   "key": "beirut",
+   "score": 19.8,
+   "shows": 20,
+   "shows_12mo": 0,
+   "ytm_plays": 73,
+   "ytm_plays_90d": 0,
+   "last_spin": "2024-06-19"
+  },
+  {
+   "artist": "Old 97'S",
+   "key": "old 97 s",
+   "score": 19.8,
+   "shows": 19,
+   "shows_12mo": 0,
+   "ytm_plays": 158,
+   "ytm_plays_90d": 13,
+   "last_spin": "2019-09-25"
+  },
+  {
+   "artist": "Sturgill Simpson",
+   "key": "sturgill simpson",
+   "score": 19.8,
+   "shows": 17,
+   "shows_12mo": 1,
+   "ytm_plays": 157,
+   "ytm_plays_90d": 2,
+   "last_spin": "2026-09-24"
+  },
+  {
+   "artist": "David Bowie",
+   "key": "david bowie",
+   "score": 19.6,
+   "shows": 18,
+   "shows_12mo": 0,
+   "ytm_plays": 283,
+   "ytm_plays_90d": 23,
+   "last_spin": "2024-06-19"
+  },
+  {
+   "artist": "The Brian Jonestown Massacre",
+   "key": "brian jonestown massacre",
+   "score": 19.5,
+   "shows": 14,
+   "shows_12mo": 2,
+   "ytm_plays": 255,
+   "ytm_plays_90d": 2,
+   "last_spin": "2026-03-05"
+  },
+  {
+   "artist": "Dan Auerbach",
+   "key": "dan auerbach",
+   "score": 19.5,
+   "shows": 19,
+   "shows_12mo": 0,
+   "ytm_plays": 34,
+   "ytm_plays_90d": 1,
+   "last_spin": "2024-05-15"
+  },
+  {
+   "artist": "Willie Nelson",
+   "key": "willie nelson",
+   "score": 19.4,
+   "shows": 15,
+   "shows_12mo": 2,
+   "ytm_plays": 110,
+   "ytm_plays_90d": 4,
+   "last_spin": "2026-03-12"
+  },
+  {
+   "artist": "Sylvan Esso",
+   "key": "sylvan esso",
+   "score": 19.3,
+   "shows": 7,
+   "shows_12mo": 6,
+   "ytm_plays": 96,
+   "ytm_plays_90d": 35,
+   "last_spin": "2026-09-24"
+  },
+  {
+   "artist": "Fu Manchu",
+   "key": "fu manchu",
+   "score": 19.3,
+   "shows": 19,
+   "shows_12mo": 0,
+   "ytm_plays": 98,
+   "ytm_plays_90d": 1,
+   "last_spin": "2020-02-26"
+  },
+  {
+   "artist": "Courtney Barnett & Kurt Vile",
+   "key": "courtney barnett and kurt vile",
+   "score": 19.2,
+   "shows": 25,
+   "shows_12mo": 0,
+   "ytm_plays": 0,
+   "ytm_plays_90d": 0,
+   "last_spin": "2019-09-11"
+  },
+  {
+   "artist": "Cameron Winter",
+   "key": "cameron winter",
+   "score": 19.2,
+   "shows": 6,
+   "shows_12mo": 6,
+   "ytm_plays": 186,
+   "ytm_plays_90d": 6,
+   "last_spin": "2026-05-28"
+  },
+  {
+   "artist": "Viagra Boys",
+   "key": "viagra boys",
+   "score": 19.1,
+   "shows": 6,
+   "shows_12mo": 6,
+   "ytm_plays": 172,
+   "ytm_plays_90d": 38,
+   "last_spin": "2026-09-10"
+  },
+  {
+   "artist": "The Bobby Lees",
+   "key": "bobby lees",
+   "score": 19.0,
+   "shows": 7,
+   "shows_12mo": 7,
+   "ytm_plays": 15,
+   "ytm_plays_90d": 10,
+   "last_spin": "2026-09-24"
+  },
+  {
+   "artist": "MJ Lenderman",
+   "key": "mj lenderman",
+   "score": 19.0,
+   "shows": 6,
+   "shows_12mo": 5,
+   "ytm_plays": 666,
+   "ytm_plays_90d": 44,
+   "last_spin": "2026-09-03"
+  },
+  {
+   "artist": "The Felice Brothers",
+   "key": "felice brothers",
+   "score": 18.9,
+   "shows": 20,
+   "shows_12mo": 1,
+   "ytm_plays": 1,
+   "ytm_plays_90d": 0,
+   "last_spin": "2026-07-30"
+  },
+  {
+   "artist": "King Tuff",
+   "key": "king tuff",
+   "score": 18.8,
+   "shows": 18,
+   "shows_12mo": 0,
+   "ytm_plays": 35,
+   "ytm_plays_90d": 0,
+   "last_spin": "2020-03-11"
+  },
+  {
+   "artist": "the Mountain Goats",
+   "key": "mountain goats",
+   "score": 18.7,
+   "shows": 14,
+   "shows_12mo": 3,
+   "ytm_plays": 24,
+   "ytm_plays_90d": 12,
+   "last_spin": "2026-09-03"
+  },
+  {
+   "artist": "Sharp Pins",
+   "key": "sharp pins",
+   "score": 18.6,
+   "shows": 6,
+   "shows_12mo": 6,
+   "ytm_plays": 100,
+   "ytm_plays_90d": 36,
+   "last_spin": "2026-09-10"
+  },
+  {
+   "artist": "Stef Chura",
+   "key": "stef chura",
+   "score": 18.6,
+   "shows": 17,
+   "shows_12mo": 2,
+   "ytm_plays": 2,
+   "ytm_plays_90d": 1,
+   "last_spin": "2026-08-06"
+  },
+  {
+   "artist": "Ezra Furman",
+   "key": "ezra furman",
+   "score": 18.3,
+   "shows": 16,
+   "shows_12mo": 1,
+   "ytm_plays": 22,
+   "ytm_plays_90d": 0,
+   "last_spin": "2026-04-09"
+  },
+  {
+   "artist": "The Jesus Lizard",
+   "key": "jesus lizard",
+   "score": 18.2,
+   "shows": 17,
+   "shows_12mo": 0,
+   "ytm_plays": 151,
+   "ytm_plays_90d": 27,
+   "last_spin": "2024-06-26"
+  },
+  {
+   "artist": "Indiana Mandy",
+   "key": "indiana mandy",
+   "score": 18.2,
+   "shows": 6,
+   "shows_12mo": 6,
+   "ytm_plays": 72,
+   "ytm_plays_90d": 5,
+   "last_spin": "2026-05-28"
+  },
+  {
+   "artist": "The National",
+   "key": "national",
+   "score": 18.2,
+   "shows": 17,
+   "shows_12mo": 0,
+   "ytm_plays": 151,
+   "ytm_plays_90d": 0,
+   "last_spin": "2019-08-07"
+  },
+  {
+   "artist": "New Order",
+   "key": "new order",
+   "score": 18.1,
+   "shows": 14,
+   "shows_12mo": 2,
+   "ytm_plays": 66,
+   "ytm_plays_90d": 6,
+   "last_spin": "2026-09-10"
+  },
+  {
+   "artist": "Death Cab For Cutie",
+   "key": "death cab for cutie",
+   "score": 18.1,
+   "shows": 17,
+   "shows_12mo": 1,
+   "ytm_plays": 28,
+   "ytm_plays_90d": 2,
+   "last_spin": "2026-02-12"
+  },
+  {
+   "artist": "Dread Spectre Council",
+   "key": "dread spectre council",
+   "score": 18.0,
+   "shows": 6,
+   "shows_12mo": 6,
+   "ytm_plays": 57,
+   "ytm_plays_90d": 10,
+   "last_spin": "2026-07-02"
+  },
+  {
+   "artist": "Angel Olsen",
+   "key": "angel olsen",
+   "score": 17.9,
+   "shows": 15,
+   "shows_12mo": 1,
+   "ytm_plays": 112,
+   "ytm_plays_90d": 3,
+   "last_spin": "2026-09-10"
+  },
+  {
+   "artist": "Yeah Yeah Yeahs",
+   "key": "yeah yeah yeahs",
+   "score": 17.8,
+   "shows": 14,
+   "shows_12mo": 1,
+   "ytm_plays": 211,
+   "ytm_plays_90d": 2,
+   "last_spin": "2026-02-12"
+  },
+  {
+   "artist": "SAULT",
+   "key": "sault",
+   "score": 17.8,
+   "shows": 7,
+   "shows_12mo": 4,
+   "ytm_plays": 443,
+   "ytm_plays_90d": 6,
+   "last_spin": "2026-03-26"
+  },
+  {
+   "artist": "Soundgarden",
+   "key": "soundgarden",
+   "score": 17.6,
+   "shows": 14,
+   "shows_12mo": 1,
+   "ytm_plays": 172,
+   "ytm_plays_90d": 12,
+   "last_spin": "2026-06-25"
+  },
+  {
+   "artist": "Gallon Drunk",
+   "key": "gallon drunk",
+   "score": 17.6,
+   "shows": 15,
+   "shows_12mo": 2,
+   "ytm_plays": 18,
+   "ytm_plays_90d": 0,
+   "last_spin": "2026-03-05"
+  },
+  {
+   "artist": "Calibro 35",
+   "key": "calibro 35",
+   "score": 17.4,
+   "shows": 6,
+   "shows_12mo": 6,
+   "ytm_plays": 32,
+   "ytm_plays_90d": 4,
+   "last_spin": "2026-06-25"
+  },
+  {
+   "artist": "Royal Blood",
+   "key": "royal blood",
+   "score": 17.1,
+   "shows": 5,
+   "shows_12mo": 5,
+   "ytm_plays": 218,
+   "ytm_plays_90d": 38,
+   "last_spin": "2026-09-24"
+  },
+  {
+   "artist": "The Kills",
+   "key": "kills",
+   "score": 17.1,
+   "shows": 15,
+   "shows_12mo": 0,
+   "ytm_plays": 239,
+   "ytm_plays_90d": 2,
+   "last_spin": "2017-12-27"
+  },
+  {
+   "artist": "Little Barrie",
+   "key": "little barrie",
+   "score": 17.1,
+   "shows": 6,
+   "shows_12mo": 6,
+   "ytm_plays": 22,
+   "ytm_plays_90d": 3,
+   "last_spin": "2026-06-25"
+  },
+  {
+   "artist": "Pedro the Lion",
+   "key": "pedro the lion",
+   "score": 17.0,
+   "shows": 18,
+   "shows_12mo": 0,
+   "ytm_plays": 20,
+   "ytm_plays_90d": 0,
+   "last_spin": "2024-06-19"
+  },
+  {
+   "artist": "Slaves",
+   "key": "slaves",
+   "score": 16.9,
+   "shows": 20,
+   "shows_12mo": 1,
+   "ytm_plays": 0,
+   "ytm_plays_90d": 0,
+   "last_spin": "2026-08-06"
+  },
+  {
+   "artist": "UNKLE",
+   "key": "unkle",
+   "score": 16.8,
+   "shows": 13,
+   "shows_12mo": 2,
+   "ytm_plays": 38,
+   "ytm_plays_90d": 0,
+   "last_spin": "2026-08-06"
+  },
+  {
+   "artist": "Panda Bear & Sonic Boom",
+   "key": "panda bear and sonic boom",
+   "score": 16.7,
+   "shows": 12,
+   "shows_12mo": 4,
+   "ytm_plays": 0,
+   "ytm_plays_90d": 0,
+   "last_spin": "2026-07-09"
+  },
+  {
+   "artist": "The Strokes",
+   "key": "strokes",
+   "score": 16.7,
+   "shows": 10,
+   "shows_12mo": 2,
+   "ytm_plays": 332,
+   "ytm_plays_90d": 16,
+   "last_spin": "2026-04-16"
+  },
+  {
+   "artist": "Froth",
+   "key": "froth",
+   "score": 16.5,
+   "shows": 16,
+   "shows_12mo": 1,
+   "ytm_plays": 3,
+   "ytm_plays_90d": 1,
+   "last_spin": "2026-04-30"
+  },
+  {
+   "artist": "The Jesus And Mary Chain",
+   "key": "jesus and mary chain",
+   "score": 16.5,
+   "shows": 16,
+   "shows_12mo": 0,
+   "ytm_plays": 58,
+   "ytm_plays_90d": 1,
+   "last_spin": "2023-01-05"
+  },
+  {
+   "artist": "Yo La Tengo",
+   "key": "yo la tengo",
+   "score": 16.4,
+   "shows": 12,
+   "shows_12mo": 1,
+   "ytm_plays": 244,
+   "ytm_plays_90d": 2,
+   "last_spin": "2026-06-25"
+  },
+  {
+   "artist": "Elliott Smith",
+   "key": "elliott smith",
+   "score": 16.3,
+   "shows": 11,
+   "shows_12mo": 1,
+   "ytm_plays": 463,
+   "ytm_plays_90d": 3,
+   "last_spin": "2026-06-25"
+  },
+  {
+   "artist": "Ulrika Spacek",
+   "key": "ulrika spacek",
+   "score": 16.2,
+   "shows": 8,
+   "shows_12mo": 4,
+   "ytm_plays": 44,
+   "ytm_plays_90d": 12,
+   "last_spin": "2026-07-02"
+  },
+  {
+   "artist": "Cocorosie",
+   "key": "cocorosie",
+   "score": 16.1,
+   "shows": 14,
+   "shows_12mo": 2,
+   "ytm_plays": 8,
+   "ytm_plays_90d": 2,
+   "last_spin": "2026-08-20"
+  },
+  {
+   "artist": "The Psychedelic Furs",
+   "key": "psychedelic furs",
+   "score": 16.0,
+   "shows": 13,
+   "shows_12mo": 1,
+   "ytm_plays": 81,
+   "ytm_plays_90d": 10,
+   "last_spin": "2026-05-21"
+  },
+  {
+   "artist": "Pip Blom",
+   "key": "pip blom",
+   "score": 16.0,
+   "shows": 15,
+   "shows_12mo": 0,
+   "ytm_plays": 21,
+   "ytm_plays_90d": 0,
+   "last_spin": "2024-04-17"
+  },
+  {
+   "artist": "She Keeps Bees",
+   "key": "she keeps bees",
+   "score": 15.8,
+   "shows": 14,
+   "shows_12mo": 1,
+   "ytm_plays": 8,
+   "ytm_plays_90d": 0,
+   "last_spin": "2026-03-26"
+  },
+  {
+   "artist": "King Gizzard And The Lizard Wizard",
+   "key": "king gizzard and the lizard wizard",
+   "score": 15.8,
+   "shows": 9,
+   "shows_12mo": 1,
+   "ytm_plays": 381,
+   "ytm_plays_90d": 18,
+   "last_spin": "2026-05-07"
+  },
+  {
+   "artist": "Pixies",
+   "key": "pixies",
+   "score": 15.7,
+   "shows": 13,
+   "shows_12mo": 0,
+   "ytm_plays": 267,
+   "ytm_plays_90d": 3,
+   "last_spin": "2024-05-08"
+  },
+  {
+   "artist": "Snapped Ankles",
+   "key": "snapped ankles",
+   "score": 15.5,
+   "shows": 17,
+   "shows_12mo": 0,
+   "ytm_plays": 2,
+   "ytm_plays_90d": 0,
+   "last_spin": "2020-01-08"
+  },
+  {
+   "artist": "La Luz",
+   "key": "la luz",
+   "score": 15.4,
+   "shows": 12,
+   "shows_12mo": 1,
+   "ytm_plays": 91,
+   "ytm_plays_90d": 2,
+   "last_spin": "2026-02-19"
+  },
+  {
+   "artist": "Kyle Craft",
+   "key": "kyle craft",
+   "score": 15.2,
+   "shows": 17,
+   "shows_12mo": 0,
+   "ytm_plays": 7,
+   "ytm_plays_90d": 0,
+   "last_spin": "2022-12-22"
+  },
+  {
+   "artist": "the Magnetic Fields",
+   "key": "magnetic fields",
+   "score": 15.1,
+   "shows": 16,
+   "shows_12mo": 0,
+   "ytm_plays": 14,
+   "ytm_plays_90d": 4,
+   "last_spin": "2022-12-08"
+  },
+  {
+   "artist": "Tindersticks",
+   "key": "tindersticks",
+   "score": 15.1,
+   "shows": 14,
+   "shows_12mo": 0,
+   "ytm_plays": 18,
+   "ytm_plays_90d": 0,
+   "last_spin": "2024-05-15"
+  },
+  {
+   "artist": "Bob Dylan",
+   "key": "bob dylan",
+   "score": 15.0,
+   "shows": 13,
+   "shows_12mo": 1,
+   "ytm_plays": 29,
+   "ytm_plays_90d": 1,
+   "last_spin": "2026-01-29"
+  },
+  {
+   "artist": "Arcade Fire",
+   "key": "arcade fire",
+   "score": 15.0,
+   "shows": 13,
+   "shows_12mo": 0,
+   "ytm_plays": 127,
+   "ytm_plays_90d": 1,
+   "last_spin": "2022-08-09"
+  },
+  {
+   "artist": "Slint",
+   "key": "slint",
+   "score": 14.9,
+   "shows": 12,
+   "shows_12mo": 2,
+   "ytm_plays": 12,
+   "ytm_plays_90d": 0,
+   "last_spin": "2026-07-30"
+  },
+  {
+   "artist": "The Jam",
+   "key": "jam",
+   "score": 14.7,
+   "shows": 16,
+   "shows_12mo": 0,
+   "ytm_plays": 9,
+   "ytm_plays_90d": 0,
+   "last_spin": "2024-05-22"
+  },
+  {
+   "artist": "Jesse Welles",
+   "key": "jesse welles",
+   "score": 14.7,
+   "shows": 5,
+   "shows_12mo": 5,
+   "ytm_plays": 21,
+   "ytm_plays_90d": 2,
+   "last_spin": "2026-09-03"
+  },
+  {
+   "artist": "Dead Heavens",
+   "key": "dead heavens",
+   "score": 14.6,
+   "shows": 19,
+   "shows_12mo": 0,
+   "ytm_plays": 0,
+   "ytm_plays_90d": 0,
+   "last_spin": "2018-06-13"
+  },
+  {
+   "artist": "R. Ring",
+   "key": "r ring",
+   "score": 14.6,
+   "shows": 19,
+   "shows_12mo": 0,
+   "ytm_plays": 0,
+   "ytm_plays_90d": 0,
+   "last_spin": "2019-02-27"
+  },
+  {
+   "artist": "Nightmares On Wax",
+   "key": "nightmares on wax",
+   "score": 14.6,
+   "shows": 4,
+   "shows_12mo": 4,
+   "ytm_plays": 195,
+   "ytm_plays_90d": 16,
+   "last_spin": "2026-04-30"
+  },
+  {
+   "artist": "The Cure",
+   "key": "cure",
+   "score": 14.4,
+   "shows": 8,
+   "shows_12mo": 2,
+   "ytm_plays": 160,
+   "ytm_plays_90d": 8,
+   "last_spin": "2026-09-10"
+  },
+  {
+   "artist": "Royel Otis",
+   "key": "royel otis",
+   "score": 14.4,
+   "shows": 7,
+   "shows_12mo": 2,
+   "ytm_plays": 314,
+   "ytm_plays_90d": 14,
+   "last_spin": "2026-04-16"
+  },
+  {
+   "artist": "U.S. Girls",
+   "key": "u s girls",
+   "score": 14.4,
+   "shows": 10,
+   "shows_12mo": 2,
+   "ytm_plays": 33,
+   "ytm_plays_90d": 0,
+   "last_spin": "2026-06-18"
+  },
+  {
+   "artist": "Cage the Elephant",
+   "key": "cage the elephant",
+   "score": 14.3,
+   "shows": 13,
+   "shows_12mo": 0,
+   "ytm_plays": 65,
+   "ytm_plays_90d": 3,
+   "last_spin": "2022-11-10"
+  },
+  {
+   "artist": "St. Vincent",
+   "key": "st vincent",
+   "score": 14.1,
+   "shows": 10,
+   "shows_12mo": 1,
+   "ytm_plays": 117,
+   "ytm_plays_90d": 1,
+   "last_spin": "2026-02-12"
+  },
+  {
+   "artist": "Butthole Surfers",
+   "key": "butthole surfers",
+   "score": 14.1,
+   "shows": 8,
+   "shows_12mo": 3,
+   "ytm_plays": 25,
+   "ytm_plays_90d": 3,
+   "last_spin": "2026-08-06"
+  },
+  {
+   "artist": "Cigarettes After Sex",
+   "key": "cigarettes after sex",
+   "score": 14.0,
+   "shows": 11,
+   "shows_12mo": 0,
+   "ytm_plays": 61,
+   "ytm_plays_90d": 0,
+   "last_spin": "2018-05-09"
+  },
+  {
+   "artist": "Martha",
+   "key": "martha",
+   "score": 13.9,
+   "shows": 14,
+   "shows_12mo": 1,
+   "ytm_plays": 4,
+   "ytm_plays_90d": 1,
+   "last_spin": "2026-07-09"
+  },
+  {
+   "artist": "Adam and the Ants",
+   "key": "adam and the ants",
+   "score": 13.8,
+   "shows": 14,
+   "shows_12mo": 2,
+   "ytm_plays": 0,
+   "ytm_plays_90d": 0,
+   "last_spin": "2026-09-10"
+  },
+  {
+   "artist": "Ron Gallo",
+   "key": "ron gallo",
+   "score": 13.7,
+   "shows": 11,
+   "shows_12mo": 1,
+   "ytm_plays": 37,
+   "ytm_plays_90d": 2,
+   "last_spin": "2026-09-03"
+  },
+  {
+   "artist": "Nirvana",
+   "key": "nirvana",
+   "score": 13.7,
+   "shows": 10,
+   "shows_12mo": 1,
+   "ytm_plays": 78,
+   "ytm_plays_90d": 2,
+   "last_spin": "2026-09-24"
+  },
+  {
+   "artist": "Chicano Batman",
+   "key": "chicano batman",
+   "score": 13.7,
+   "shows": 14,
+   "shows_12mo": 0,
+   "ytm_plays": 17,
+   "ytm_plays_90d": 0,
+   "last_spin": "2020-03-11"
+  },
+  {
+   "artist": "Cass McCombs",
+   "key": "cass mccombs",
+   "score": 13.7,
+   "shows": 13,
+   "shows_12mo": 0,
+   "ytm_plays": 38,
+   "ytm_plays_90d": 1,
+   "last_spin": "2022-12-01"
+  },
+  {
+   "artist": "The Avett Brothers",
+   "key": "avett brothers",
+   "score": 13.7,
+   "shows": 13,
+   "shows_12mo": 1,
+   "ytm_plays": 7,
+   "ytm_plays_90d": 0,
+   "last_spin": "2026-04-30"
+  },
+  {
+   "artist": "Toadies",
+   "key": "toadies",
+   "score": 13.6,
+   "shows": 5,
+   "shows_12mo": 4,
+   "ytm_plays": 32,
+   "ytm_plays_90d": 1,
+   "last_spin": "2026-03-26"
+  },
+  {
+   "artist": "Cherry Glazerr",
+   "key": "cherry glazerr",
+   "score": 13.6,
+   "shows": 14,
+   "shows_12mo": 0,
+   "ytm_plays": 15,
+   "ytm_plays_90d": 1,
+   "last_spin": "2019-06-05"
+  },
+  {
+   "artist": "R.E.M.",
+   "key": "r e m",
+   "score": 13.6,
+   "shows": 10,
+   "shows_12mo": 0,
+   "ytm_plays": 313,
+   "ytm_plays_90d": 72,
+   "last_spin": "2018-01-03"
+  },
+  {
+   "artist": "James Johnston",
+   "key": "james johnston",
+   "score": 13.5,
+   "shows": 11,
+   "shows_12mo": 1,
+   "ytm_plays": 29,
+   "ytm_plays_90d": 0,
+   "last_spin": "2026-03-05"
+  },
+  {
+   "artist": "Black Pistol Fire",
+   "key": "black pistol fire",
+   "score": 13.5,
+   "shows": 15,
+   "shows_12mo": 0,
+   "ytm_plays": 6,
+   "ytm_plays_90d": 3,
+   "last_spin": "2019-08-21"
+  },
+  {
+   "artist": "Those Bastard Souls",
+   "key": "those bastard souls",
+   "score": 13.4,
+   "shows": 14,
+   "shows_12mo": 1,
+   "ytm_plays": 2,
+   "ytm_plays_90d": 0,
+   "last_spin": "2026-08-20"
+  },
+  {
+   "artist": "Sharon Van Etten",
+   "key": "sharon van etten",
+   "score": 13.4,
+   "shows": 11,
+   "shows_12mo": 0,
+   "ytm_plays": 118,
+   "ytm_plays_90d": 0,
+   "last_spin": "2022-08-23"
+  },
+  {
+   "artist": "Buzzcocks",
+   "key": "buzzcocks",
+   "score": 13.4,
+   "shows": 14,
+   "shows_12mo": 1,
+   "ytm_plays": 2,
+   "ytm_plays_90d": 0,
+   "last_spin": "2026-05-07"
+  },
+  {
+   "artist": "Hurray For The Riff Raff",
+   "key": "hurray for the riff raff",
+   "score": 13.3,
+   "shows": 11,
+   "shows_12mo": 0,
+   "ytm_plays": 113,
+   "ytm_plays_90d": 1,
+   "last_spin": "2024-04-17"
+  },
+  {
+   "artist": "Jane's Addiction",
+   "key": "jane s addiction",
+   "score": 13.3,
+   "shows": 11,
+   "shows_12mo": 0,
+   "ytm_plays": 110,
+   "ytm_plays_90d": 14,
+   "last_spin": "2024-04-24"
+  },
+  {
+   "artist": "Brant Bjork",
+   "key": "brant bjork",
+   "score": 13.1,
+   "shows": 15,
+   "shows_12mo": 1,
+   "ytm_plays": 0,
+   "ytm_plays_90d": 0,
+   "last_spin": "2026-03-26"
+  },
+  {
+   "artist": "the White Stripes",
+   "key": "white stripes",
+   "score": 13.1,
+   "shows": 10,
+   "shows_12mo": 1,
+   "ytm_plays": 44,
+   "ytm_plays_90d": 0,
+   "last_spin": "2026-02-12"
+  },
+  {
+   "artist": "Anna Erhard",
+   "key": "anna erhard",
+   "score": 13.1,
+   "shows": 9,
+   "shows_12mo": 1,
+   "ytm_plays": 88,
+   "ytm_plays_90d": 0,
+   "last_spin": "2026-01-15"
+  },
+  {
+   "artist": "Kevin Morby",
+   "key": "kevin morby",
+   "score": 13.0,
+   "shows": 6,
+   "shows_12mo": 2,
+   "ytm_plays": 178,
+   "ytm_plays_90d": 16,
+   "last_spin": "2026-04-16"
+  },
+  {
+   "artist": "Strfkr",
+   "key": "strfkr",
+   "score": 13.0,
+   "shows": 9,
+   "shows_12mo": 0,
+   "ytm_plays": 363,
+   "ytm_plays_90d": 3,
+   "last_spin": "2024-03-20"
+  },
+  {
+   "artist": "Kraftwerk",
+   "key": "kraftwerk",
+   "score": 13.0,
+   "shows": 11,
+   "shows_12mo": 0,
+   "ytm_plays": 86,
+   "ytm_plays_90d": 1,
+   "last_spin": "2024-05-15"
+  },
+  {
+   "artist": "Scratch Acid",
+   "key": "scratch acid",
+   "score": 12.9,
+   "shows": 14,
+   "shows_12mo": 0,
+   "ytm_plays": 7,
+   "ytm_plays_90d": 0,
+   "last_spin": "2022-08-02"
+  },
+  {
+   "artist": "Jack White",
+   "key": "jack white",
+   "score": 12.8,
+   "shows": 6,
+   "shows_12mo": 2,
+   "ytm_plays": 141,
+   "ytm_plays_90d": 10,
+   "last_spin": "2026-06-25"
+  },
+  {
+   "artist": "Iggy Pop",
+   "key": "iggy pop",
+   "score": 12.7,
+   "shows": 12,
+   "shows_12mo": 0,
+   "ytm_plays": 29,
+   "ytm_plays_90d": 1,
+   "last_spin": "2016-09-08"
+  },
+  {
+   "artist": "the American Analog Set",
+   "key": "american analog set",
+   "score": 12.6,
+   "shows": 10,
+   "shows_12mo": 0,
+   "ytm_plays": 117,
+   "ytm_plays_90d": 1,
+   "last_spin": "2024-02-28"
+  },
+  {
+   "artist": "Orville Peck",
+   "key": "orville peck",
+   "score": 12.6,
+   "shows": 4,
+   "shows_12mo": 3,
+   "ytm_plays": 122,
+   "ytm_plays_90d": 9,
+   "last_spin": "2026-09-10"
+  },
+  {
+   "artist": "Dr. John",
+   "key": "dr john",
+   "score": 12.6,
+   "shows": 11,
+   "shows_12mo": 0,
+   "ytm_plays": 57,
+   "ytm_plays_90d": 2,
+   "last_spin": "2019-06-12"
+  },
+  {
+   "artist": "The Hives",
+   "key": "hives",
+   "score": 12.5,
+   "shows": 11,
+   "shows_12mo": 0,
+   "ytm_plays": 53,
+   "ytm_plays_90d": 1,
+   "last_spin": "2022-11-17"
+  },
+  {
+   "artist": "Pretenders",
+   "key": "pretenders",
+   "score": 12.5,
+   "shows": 13,
+   "shows_12mo": 0,
+   "ytm_plays": 11,
+   "ytm_plays_90d": 0,
+   "last_spin": "2017-11-08"
+  },
+  {
+   "artist": "Talking Heads",
+   "key": "talking heads",
+   "score": 12.5,
+   "shows": 6,
+   "shows_12mo": 2,
+   "ytm_plays": 108,
+   "ytm_plays_90d": 0,
+   "last_spin": "2026-07-02"
+  },
+  {
+   "artist": "Wire",
+   "key": "wire",
+   "score": 12.5,
+   "shows": 11,
+   "shows_12mo": 1,
+   "ytm_plays": 10,
+   "ytm_plays_90d": 2,
+   "last_spin": "2026-05-21"
+  },
+  {
+   "artist": "Frankie Cosmos",
+   "key": "frankie cosmos",
+   "score": 12.5,
+   "shows": 9,
+   "shows_12mo": 1,
+   "ytm_plays": 53,
+   "ytm_plays_90d": 0,
+   "last_spin": "2026-06-25"
+  },
+  {
+   "artist": "Widowspeak",
+   "key": "widowspeak",
+   "score": 12.4,
+   "shows": 6,
+   "shows_12mo": 2,
+   "ytm_plays": 94,
+   "ytm_plays_90d": 1,
+   "last_spin": "2026-06-25"
+  },
+  {
+   "artist": "Barkmarket",
+   "key": "barkmarket",
+   "score": 12.3,
+   "shows": 10,
+   "shows_12mo": 1,
+   "ytm_plays": 20,
+   "ytm_plays_90d": 1,
+   "last_spin": "2026-05-28"
+  },
+  {
+   "artist": "Lo Tom",
+   "key": "lo tom",
+   "score": 12.3,
+   "shows": 16,
+   "shows_12mo": 0,
+   "ytm_plays": 0,
+   "ytm_plays_90d": 0,
+   "last_spin": "2019-05-08"
+  },
+  {
+   "artist": "Lucy Dacus",
+   "key": "lucy dacus",
+   "score": 12.3,
+   "shows": 10,
+   "shows_12mo": 0,
+   "ytm_plays": 85,
+   "ytm_plays_90d": 7,
+   "last_spin": "2022-10-20"
+  },
+  {
+   "artist": "Bedhead",
+   "key": "bedhead",
+   "score": 12.3,
+   "shows": 10,
+   "shows_12mo": 0,
+   "ytm_plays": 85,
+   "ytm_plays_90d": 0,
+   "last_spin": "2024-05-08"
+  },
+  {
+   "artist": "Vampire Weekend",
+   "key": "vampire weekend",
+   "score": 12.3,
+   "shows": 9,
+   "shows_12mo": 0,
+   "ytm_plays": 181,
+   "ytm_plays_90d": 0,
+   "last_spin": "2024-06-19"
+  },
+  {
+   "artist": "Fugazi",
+   "key": "fugazi",
+   "score": 12.3,
+   "shows": 9,
+   "shows_12mo": 1,
+   "ytm_plays": 40,
+   "ytm_plays_90d": 2,
+   "last_spin": "2026-04-16"
+  },
+  {
+   "artist": "Califone",
+   "key": "califone",
+   "score": 12.1,
+   "shows": 10,
+   "shows_12mo": 0,
+   "ytm_plays": 75,
+   "ytm_plays_90d": 0,
+   "last_spin": "2017-11-29"
+  },
+  {
+   "artist": "The Greeting Committee",
+   "key": "greeting committee",
+   "score": 12.1,
+   "shows": 11,
+   "shows_12mo": 0,
+   "ytm_plays": 9,
+   "ytm_plays_90d": 0,
+   "last_spin": "2019-05-29"
+  },
+  {
+   "artist": "The Sonics",
+   "key": "sonics",
+   "score": 12.0,
+   "shows": 13,
+   "shows_12mo": 0,
+   "ytm_plays": 6,
+   "ytm_plays_90d": 0,
+   "last_spin": "2024-04-10"
+  },
+  {
+   "artist": "Animal Collective",
+   "key": "animal collective",
+   "score": 12.0,
+   "shows": 10,
+   "shows_12mo": 0,
+   "ytm_plays": 69,
+   "ytm_plays_90d": 0,
+   "last_spin": "2018-07-25"
+  },
+  {
+   "artist": "Sonic Youth",
+   "key": "sonic youth",
+   "score": 11.9,
+   "shows": 10,
+   "shows_12mo": 0,
+   "ytm_plays": 59,
+   "ytm_plays_90d": 0,
+   "last_spin": "2019-05-01"
+  },
+  {
+   "artist": "Big Star",
+   "key": "big star",
+   "score": 11.9,
+   "shows": 11,
+   "shows_12mo": 0,
+   "ytm_plays": 28,
+   "ytm_plays_90d": 0,
+   "last_spin": "2019-07-24"
+  },
+  {
+   "artist": "Lera Lynn",
+   "key": "lera lynn",
+   "score": 11.9,
+   "shows": 10,
+   "shows_12mo": 0,
+   "ytm_plays": 58,
+   "ytm_plays_90d": 0,
+   "last_spin": "2019-08-07"
+  },
+  {
+   "artist": "the Walkmen",
+   "key": "walkmen",
+   "score": 11.8,
+   "shows": 5,
+   "shows_12mo": 2,
+   "ytm_plays": 113,
+   "ytm_plays_90d": 4,
+   "last_spin": "2026-09-24"
+  },
+  {
+   "artist": "Siouxsie & The Banshees",
+   "key": "siouxsie and the banshees",
+   "score": 11.8,
+   "shows": 9,
+   "shows_12mo": 1,
+   "ytm_plays": 26,
+   "ytm_plays_90d": 0,
+   "last_spin": "2026-04-09"
+  },
+  {
+   "artist": "Depeche Mode",
+   "key": "depeche mode",
+   "score": 11.7,
+   "shows": 6,
+   "shows_12mo": 1,
+   "ytm_plays": 234,
+   "ytm_plays_90d": 9,
+   "last_spin": "2026-01-15"
+  },
+  {
+   "artist": "Songs: Ohia",
+   "key": "songs ohia",
+   "score": 11.7,
+   "shows": 4,
+   "shows_12mo": 2,
+   "ytm_plays": 233,
+   "ytm_plays_90d": 11,
+   "last_spin": "2026-09-03"
+  },
+  {
+   "artist": "Novablood",
+   "key": "novablood",
+   "score": 11.6,
+   "shows": 4,
+   "shows_12mo": 4,
+   "ytm_plays": 9,
+   "ytm_plays_90d": 2,
+   "last_spin": "2026-07-02"
+  },
+  {
+   "artist": "The Smiths",
+   "key": "smiths",
+   "score": 11.6,
+   "shows": 7,
+   "shows_12mo": 1,
+   "ytm_plays": 91,
+   "ytm_plays_90d": 22,
+   "last_spin": "2026-01-29"
+  },
+  {
+   "artist": "Seratones",
+   "key": "seratones",
+   "score": 11.6,
+   "shows": 11,
+   "shows_12mo": 0,
+   "ytm_plays": 5,
+   "ytm_plays_90d": 0,
+   "last_spin": "2020-01-29"
+  },
+  {
+   "artist": "Can",
+   "key": "can",
+   "score": 11.6,
+   "shows": 9,
+   "shows_12mo": 1,
+   "ytm_plays": 21,
+   "ytm_plays_90d": 1,
+   "last_spin": "2026-03-05"
+  },
+  {
+   "artist": "The Clash",
+   "key": "clash",
+   "score": 11.6,
+   "shows": 10,
+   "shows_12mo": 0,
+   "ytm_plays": 43,
+   "ytm_plays_90d": 0,
+   "last_spin": "2024-05-15"
+  }
+ ]
+}

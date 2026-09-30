@@ -1,0 +1,20 @@
+# Secrets: never commit these
+.env
+browser.json
+notebooks/browser.json
+src/dj_stace/scratch.json
+oauth.json
+secrets/
+
+# Large or personal data
+data/MyActivity.html
+data/library_show.db
+data/processed/
+
+# Python and editor clutter
+.venv/
+.venv-1/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+_to_delete/

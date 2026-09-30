@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Library with DJ Stace: Music Activity Explorer</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.5.0/dist/chart.umd.js" integrity="sha384-iU8HYtnGQ8Cy4zl7gbNMOhsDTTKX02BTXptVP/vqAWIaTfM7isw76iyZCsjL2eVi" crossorigin="anonymous"></script>
+<style>
+  :root { color-scheme: light; --bg:#fafaf7; --card:#fff; --ink:#1d1d1b; --mute:#6b6b66; --line:#e4e3dc; --accent:#8c1515; --accent2:#2e5e7e; }
+  * { box-sizing: border-box; }
+  body { margin:0; font:14px/1.45 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background:var(--bg); color:var(--ink); }
+  header { padding:18px 22px 8px; }
+  h1 { margin:0; font-size:20px; }
+  .sub { color:var(--mute); font-size:12px; }
+  nav { display:flex; gap:4px; flex-wrap:wrap; padding:6px 22px; border-bottom:1px solid var(--line); position:sticky; top:0; background:var(--bg); z-index:5; }
+  nav button { border:1px solid var(--line); background:var(--card); padding:6px 12px; border-radius:6px; cursor:pointer; font-size:13px; }
+  nav button.on { background:var(--accent); color:#fff; border-color:var(--accent); }
+  main { padding:16px 22px 40px; }
+  .kpis { display:grid; grid-template-columns:repeat(auto-fit,minmax(150px,1fr)); gap:10px; margin-bottom:16px; }
+  .kpi { background:var(--card); border:1px solid var(--line); border-radius:8px; padding:10px 12px; }
+  .kpi b { display:block; font-size:22px; }
+  .kpi span { color:var(--mute); font-size:12px; }
+  .grid2 { display:grid; grid-template-columns:repeat(auto-fit,minmax(380px,1fr)); gap:14px; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:8px; padding:12px 14px; margin-bottom:14px; }
+  .card h3 { margin:0 0 8px; font-size:14px; }
+  .chart { position:relative; height:240px; }
+  input[type=search] { padding:7px 10px; border:1px solid var(--line); border-radius:6px; width:320px; max-width:100%; font-size:13px; }
+  .controls { display:flex; gap:10px; align-items:center; margin-bottom:10px; flex-wrap:wrap; }
+  .controls label { color:var(--mute); font-size:12px; }
+  table { border-collapse:collapse; width:100%; font-size:13px; }
+  th, td { text-align:left; padding:5px 8px; border-bottom:1px solid var(--line); vertical-align:top; }
+  th { cursor:pointer; user-select:none; color:var(--mute); font-weight:600; position:sticky; top:42px; background:var(--card); }
+  th.num, td.num { text-align:right; font-variant-numeric:tabular-nums; }
+  tr.click { cursor:pointer; }
+  tr.click:hover { background:#f3f1ea; }
+  .tag { display:inline-block; padding:1px 6px; border-radius:4px; font-size:11px; background:#efeee8; color:var(--mute); }
+  .tag.warn { background:#fbe9e7; color:#8c1515; }
+  .detail { background:#f6f5ef; border-left:3px solid var(--accent2); padding:10px 12px; margin:8px 0 14px; white-space:pre-wrap; font-size:13px; }
+  a { color:var(--accent2); }
+  .muted { color:var(--mute); }
+  .pager { margin-top:8px; color:var(--mute); font-size:12px; }
+  .hidden { display:none; }
+</style>
+</head>
+<body>
+<header>
+  <h1>The Library with DJ Stace: Music Activity Explorer</h1>
+  <div class="sub" id="gen"></div>
+</header>
+<nav id="tabs"></nav>
+<main>
+  <section id="t-overview"></section>
+  <section id="t-artists" class="hidden"></section>
+  <section id="t-labels" class="hidden"></section>
+  <section id="t-shows" class="hidden"></section>
+  <section id="t-spins" class="hidden"></section>
+  <section id="t-reviews" class="hidden"></section>
+  <section id="t-ytm" class="hidden"></section>
+  <section id="t-opps" class="hidden"></section>
+</main>
+
+<script>
+/* ------------------------------------------------------------------
+   DATA is injected by scripts/build_dashboard.py from
+   outputs/dashboard/dashboard_data.json. Do not edit by hand.
+------------------------------------------------------------------- */
+const DATA = /*__DATA__*/null;
+
+/* ---------- small helpers ---------- */
+const $ = (s, el=document) => el.querySelector(s);
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const fmt = n => (n ?? 0).toLocaleString();
+const ytmSearch = q => 'https://music.youtube.com/search?q=' + encodeURIComponent(q);
+const flip = n => { const p = String(n||'').split(','); return (p.length===2 && p[1].trim().split(' ').length<=3 && !p[1].includes('&')) ? (p[1].trim()+' '+p[0].trim()) : n; };
+
+// Spins arrive as compact arrays: [playlist_id, date, artist, track, album, label, artist_key]
+const SPINS = DATA.spins.map(r => ({pid:r[0], date:r[1], artist:r[2], track:r[3], album:r[4], label:r[5], key:r[6]}));
+const SHOW_BY_ID = Object.fromEntries(DATA.shows.map(s => [s.playlist_id, s]));
+
+/* ---------- generic sortable, filterable table ----------
+   cols: [{k:'field', t:'Header', num:true, f:(row)=>html}]
+   Renders into `el`, keeps sort state, shows first `limit` rows. */
+function makeTable(el, rows, cols, opts={}) {
+  let sortK = opts.sort || cols[0].k, dir = opts.dir || -1, filter = '', limit = opts.limit || 200;
+  const wrap = document.createElement('div');
+  wrap.innerHTML = `<div class="controls"><input type="search" placeholder="${opts.placeholder||'Filter...'}"> ${opts.extra||''}</div><div class="tbl"></div><div class="pager"></div>`;
+  el.appendChild(wrap);
+  const input = $('input', wrap), tbl = $('.tbl', wrap), pager = $('.pager', wrap);
+  function render() {
+    const f = filter.toLowerCase();
+    let r = f ? rows.filter(x => cols.some(c => String(x[c.k] ?? '').toLowerCase().includes(f))) : rows.slice();
+    if (opts.pre) r = r.filter(opts.pre);
+    r.sort((a,b) => { const A=a[sortK], B=b[sortK]; return (A>B?1:A<B?-1:0)*dir; });
+    const shown = r.slice(0, limit);
+    tbl.innerHTML = `<table><thead><tr>${cols.map(c=>`<th data-k="${c.k}" class="${c.num?'num':''}">${c.t}${sortK===c.k?(dir>0?' ▲':' ▼'):''}</th>`).join('')}</tr></thead><tbody>${
+      shown.map((x,i)=>`<tr class="${opts.onClick?'click':''}" data-i="${i}">${cols.map(c=>`<td class="${c.num?'num':''}">${c.f?c.f(x):esc(x[c.k])}</td>`).join('')}</tr>`).join('')}</tbody></table>`;
+    pager.textContent = `${fmt(r.length)} rows${r.length>limit?`, showing ${limit}`:''}`;
+    tbl.querySelectorAll('th').forEach(th => th.onclick = () => { const k=th.dataset.k; dir = sortK===k ? -dir : -1; sortK=k; render(); });
+    if (opts.onClick) tbl.querySelectorAll('tbody tr').forEach(tr => tr.onclick = () => opts.onClick(shown[+tr.dataset.i], tr));
+  }
+  input.oninput = () => { filter = input.value; render(); };
+  render();
+  return { rerender: render, setFilter: v => { input.value = v; filter = v; render(); } };
+}
+
+/* Insert/remove an expandable detail row under a clicked row */
+function toggleDetail(tr, html) {
+  const next = tr.nextElementSibling;
+  if (next && next.classList.contains('drow')) { next.remove(); return; }
+  const d = document.createElement('tr'); d.className = 'drow';
+  d.innerHTML = `<td colspan="20"><div class="detail">${html}</div></td>`;
+  tr.after(d);
+}
+
+/* ---------- tabs ---------- */
+const TABS = [['overview','Overview'],['artists','Artists'],['labels','Labels'],['shows','Shows'],['spins','All spins'],['reviews','Reviews'],['ytm','YouTube Music'],['opps','Opportunities']];
+const built = {};
+function show(id) {
+  TABS.forEach(([k]) => { $('#t-'+k).classList.toggle('hidden', k!==id); });
+  document.querySelectorAll('nav button').forEach(b => b.classList.toggle('on', b.dataset.t===id));
+  if (!built[id]) { BUILD[id](); built[id] = true; }
+}
+$('#tabs').innerHTML = TABS.map(([k,t]) => `<button data-t="${k}">${t}</button>`).join('');
+document.querySelectorAll('nav button').forEach(b => b.onclick = () => show(b.dataset.t));
+$('#gen').textContent = `Data built ${DATA.generated_at.replace('T',' ')} from KZSU Zookeeper (airname 1428) and Google Takeout. Rebroadcasts excluded from airplay.`;
+
+/* Artist detail: every spin, reviews, links */
+function artistDetail(a) {
+  const sp = SPINS.filter(s => s.key === a.artist_key).sort((x,y)=> y.date.localeCompare(x.date));
+  const rv = DATA.reviews.filter(r => flip(r.artist).toLowerCase() === flip(a.artist).toLowerCase());
+  return `<b>${esc(flip(a.artist))}</b>  <a href="${ytmSearch(flip(a.artist))}" target="_blank">YouTube Music</a>\n` +
+    (rv.length ? `Reviewed: ${rv.map(r=>esc(r.album)+' ('+r.review_date+')').join('; ')}\n` : '') +
+    `\n${sp.slice(0,60).map(s=>`${s.date}  ${esc(s.track)}  <span class="muted">${esc(s.album)} / ${esc(s.label)}</span>`).join('\n')}` +
+    (sp.length>60 ? `\n... ${sp.length-60} more` : '');
+}
+
+const BUILD = {
+  overview() {
+    const el = $('#t-overview');
+    const orig = DATA.shows.filter(s=>!s.rebroadcast && s.n_spins>0);
+    const ytmTotal = DATA.ytm_by_month.reduce((a,b)=>a+b.plays,0);
+    el.innerHTML = `<div class="kpis">
+      <div class="kpi"><b>${fmt(orig.length)}</b><span>original shows logged</span></div>
+      <div class="kpi"><b>${fmt(SPINS.length)}</b><span>on-air spins</span></div>
+      <div class="kpi"><b>${fmt(new Set(SPINS.map(s=>s.key)).size)}</b><span>artists aired</span></div>
+      <div class="kpi"><b>${fmt(DATA.reviews.length)}</b><span>KZSU reviews</span></div>
+      <div class="kpi"><b>${fmt(ytmTotal)}</b><span>YouTube Music plays</span></div>
+      <div class="kpi"><b>${orig.length?orig[orig.length-1].date:''}</b><span>latest show</span></div>
+    </div>
+    <div class="grid2">
+      <div class="card"><h3>On-air spins by year</h3><div class="chart"><canvas id="c1"></canvas></div></div>
+      <div class="card"><h3>YouTube Music plays by month</h3><div class="chart"><canvas id="c2"></canvas></div></div>
+      <div class="card"><h3>Top 20 artists on air (shows)</h3><div class="chart" style="height:420px"><canvas id="c3"></canvas></div></div>
+      <div class="card"><h3>Top 20 labels on air (spins)</h3><div class="chart" style="height:420px"><canvas id="c4"></canvas></div></div>
+      <div class="card"><h3>YouTube Music listening by hour</h3><div class="chart"><canvas id="c5"></canvas></div></div>
+      <div class="card"><h3>In rotation: last 90 days of YouTube Music</h3><div id="rot" style="max-height:240px;overflow:auto"></div></div>
+    </div>`;
+    const bar = (id, labels, data, color, horiz) => new Chart($(id), { type:'bar', data:{labels, datasets:[{data, backgroundColor:color}]},
+      options:{ responsive:true, maintainAspectRatio:false, indexAxis: horiz?'y':'x', plugins:{legend:{display:false}}, scales:{x:{ticks:{font:{size:11}}},y:{ticks:{font:{size:11}}}} } });
+    bar('#c1', DATA.spins_by_year.map(r=>r.year), DATA.spins_by_year.map(r=>r.spins), '#8c1515');
+    bar('#c2', DATA.ytm_by_month.map(r=>r.month), DATA.ytm_by_month.map(r=>r.plays), '#2e5e7e');
+    const topA = DATA.artists.slice().sort((a,b)=>b.shows-a.shows).slice(0,20);
+    bar('#c3', topA.map(a=>flip(a.artist)), topA.map(a=>a.shows), '#8c1515', true);
+    const topL = DATA.labels.slice(0,20);
+    bar('#c4', topL.map(l=>l.label), topL.map(l=>l.spins), '#6b7d3a', true);
+    bar('#c5', DATA.ytm_by_hour.map(r=>r.hour+':00'), DATA.ytm_by_hour.map(r=>r.plays), '#2e5e7e');
+    $('#rot').innerHTML = `<table>${DATA.ytm_recent_artists.map(r=>`<tr><td><a href="${ytmSearch(r.artist)}" target="_blank">${esc(r.artist)}</a></td><td class="num">${r.plays}</td></tr>`).join('')}</table>`;
+  },
+  artists() {
+    const el = $('#t-artists');
+    el.innerHTML = `<p class="muted">All sources combined. Click a row for every spin of that artist.</p>`;
+    makeTable(el, DATA.artists, [
+      {k:'artist', t:'Artist', f:a=>esc(flip(a.artist))},
+      {k:'shows', t:'Shows', num:true}, {k:'spins', t:'Spins', num:true},
+      {k:'first_spin', t:'First aired'}, {k:'last_spin', t:'Last aired'},
+      {k:'ytm_plays', t:'YTM plays', num:true}, {k:'reviews', t:'Reviews', num:true},
+    ], { sort:'shows', placeholder:'Filter artists...', onClick:(a,tr)=>toggleDetail(tr, artistDetail(a)) });
+  },
+  labels() {
+    const el = $('#t-labels');
+    el.innerHTML = `<p class="muted">Click a label to list its spins.</p>`;
+    makeTable(el, DATA.labels, [
+      {k:'label', t:'Label'}, {k:'spins', t:'Spins', num:true}, {k:'artists', t:'Artists', num:true},
+      {k:'first', t:'First'}, {k:'last', t:'Last'},
+    ], { sort:'spins', placeholder:'Filter labels...', onClick:(l,tr)=>{
+      const sp = SPINS.filter(s => (s.label||'').toLowerCase() === (l.label||'').toLowerCase()).reverse();
+      const byA = {}; sp.forEach(s => byA[flip(s.artist)] = (byA[flip(s.artist)]||0)+1);
+      toggleDetail(tr, Object.entries(byA).sort((a,b)=>b[1]-a[1]).map(([a,n])=>`${esc(a)} (${n})`).join(', '));
+    }});
+  },
+  shows() {
+    const el = $('#t-shows');
+    el.innerHTML = `<p class="muted">Click a show to see its playlist. Links open Zookeeper.</p>`;
+    makeTable(el, DATA.shows, [
+      {k:'date', t:'Date'}, {k:'time', t:'Time'}, {k:'name', t:'Name'},
+      {k:'n_spins', t:'Spins', num:true},
+      {k:'rebroadcast', t:'', f:s=>s.rebroadcast?'<span class="tag">rebroadcast</span>':''},
+      {k:'zookeeper_url', t:'Link', f:s=>`<a href="${s.zookeeper_url}" target="_blank" onclick="event.stopPropagation()">Zookeeper</a>`},
+    ], { sort:'date', limit:400, placeholder:'Filter by date or name...', onClick:(s,tr)=>{
+      const sp = SPINS.filter(x=>x.pid===s.playlist_id);
+      toggleDetail(tr, sp.length ? sp.map((x,i)=>`${String(i+1).padStart(2)}. ${esc(x.artist)} - ${esc(x.track)} <span class="muted">(${esc(x.album)} / ${esc(x.label)||'<span class=\'tag warn\'>no label</span>'})</span>`).join('\n') : 'No spins (rebroadcast or empty).');
+    }});
+  },
+  spins() {
+    const el = $('#t-spins');
+    el.innerHTML = `<p class="muted">Search every track played on air. Try a song title, album or label.</p>`;
+    makeTable(el, SPINS, [
+      {k:'date', t:'Date'}, {k:'artist', t:'Artist'}, {k:'track', t:'Track'}, {k:'album', t:'Album'}, {k:'label', t:'Label'},
+      {k:'pid', t:'', f:s=>`<a href="${ytmSearch(s.artist+' '+s.track)}" target="_blank">play</a>`},
+    ], { sort:'date', limit:300, placeholder:'Search spins...' });
+  },
+  reviews() {
+    const el = $('#t-reviews');
+    el.innerHTML = `<p class="muted">Your KZSU library reviews. Click to read the full text.</p>`;
+    makeTable(el, DATA.reviews, [
+      {k:'review_date', t:'Date'}, {k:'artist', t:'Artist', f:r=>esc(flip(r.artist))}, {k:'album', t:'Album'}, {k:'label', t:'Label'},
+      {k:'fcc_note', t:'FCCs', f:r=>{ const v=(r.fcc_note||'').slice(0,30); return /none|clean|nada|free/i.test(v)||!v ? `<span class="tag">${esc(v||'n/a')}</span>` : `<span class="tag warn">${esc(v)}</span>`; }},
+      {k:'riyl', t:'RIYL', f:r=>esc((r.riyl||'').slice(0,90))},
+      {k:'zookeeper_url', t:'', f:r=>`<a href="${r.zookeeper_url}" target="_blank" onclick="event.stopPropagation()">Zookeeper</a>`},
+    ], { sort:'review_date', limit:100, placeholder:'Search reviews (text, RIYL, label)...', onClick:(r,tr)=>toggleDetail(tr, esc(r.review_text)) });
+  },
+  ytm() {
+    const el = $('#t-ytm');
+    el.innerHTML = `<div class="card"><h3>Top 500 tracks, all time</h3><div id="ytt"></div></div><div class="card"><h3>Recent searches</h3><div id="yts"></div></div>`;
+    makeTable($('#ytt'), DATA.ytm_top_tracks, [
+      {k:'artist', t:'Artist'}, {k:'title', t:'Track', f:t=>`<a href="https://music.youtube.com/watch?v=${t.video_id}" target="_blank">${esc(t.title)}</a>`},
+      {k:'plays', t:'Plays', num:true}, {k:'last', t:'Last played', f:t=>esc((t.last||'').slice(0,10))},
+    ], { sort:'plays', limit:100, placeholder:'Filter tracks...' });
+    makeTable($('#yts'), DATA.yt_searches, [
+      {k:'query', t:'Search', f:s=>`<a href="${ytmSearch(s.query)}" target="_blank">${esc(s.query)}</a>`},
+      {k:'n', t:'Times', num:true}, {k:'last', t:'Last', f:s=>esc((s.last||'').slice(0,10))},
+    ], { sort:'last', limit:100, placeholder:'Filter searches...' });
+  },
+  opps() {
+    const el = $('#t-opps');
+    const yearAgo = new Date(Date.now()-365*864e5).toISOString().slice(0,10);
+    el.innerHTML = `<div class="grid2"><div class="card"><h3>Heard a lot, aired twice or less</h3><p class="muted">YouTube Music plays of 40+ and at most two shows.</p><div id="o1"></div></div>
+      <div class="card"><h3>Overdue favorites</h3><p class="muted">Aired on 12+ shows, not aired in the past year.</p><div id="o2"></div></div></div>`;
+    const cols = [{k:'artist', t:'Artist', f:a=>`<a href="${ytmSearch(flip(a.artist))}" target="_blank">${esc(flip(a.artist))}</a>`}, {k:'shows', t:'Shows', num:true}, {k:'last_spin', t:'Last aired'}, {k:'ytm_plays', t:'YTM', num:true}];
+    makeTable($('#o1'), DATA.artists.filter(a=>a.ytm_plays>=40 && a.shows<=2), cols, { sort:'ytm_plays', limit:100 });
+    makeTable($('#o2'), DATA.artists.filter(a=>a.shows>=12 && a.last_spin && a.last_spin<yearAgo), cols, { sort:'shows', limit:100 });
+  },
+};
+show('overview');
+</script>
+</body>
+</html>

@@ -1,0 +1,25 @@
+{
+ "scraped": "2026-09-29",
+ "note": "DJ Stace's YouTube Music playlists used as taste evidence. Excluded: 'God is not Great' (audiobook), New Episodes and Episodes for Later (podcasts), plus the three playlists the assistant builds (Air Order, Working, Stace's Daily Playlist) so the profile doesn't learn from its own picks. weight = how much one playlist counts in build_taste_profile.py.",
+ "playlists": {
+  "a": {"title": "Night mix", "id": "PLMduzOohHQLp_oGA6vGyNEwxFGLmolLXF", "tracks": 273, "weight": 1.0, "kind": "mood"},
+  "b": {"title": "Soundbed", "id": "PLMduzOohHQLp5hvMvemQXZN9KSMxO9rBv", "tracks": 51, "weight": 0.3, "kind": "utility"},
+  "c": {"title": "Desert Sessions", "id": "PLMduzOohHQLoOjXdWj0oajC43_OgDrGhK", "tracks": 56, "weight": 1.0, "kind": "theme"},
+  "d": {"title": "DJ Stace - 09/10/2026", "id": "PLUYRLS4I-llU", "tracks": 19, "weight": 3.0, "kind": "show"},
+  "e": {"title": "Halloweenie music", "id": "PLMduzOohHQLpqWjsHt4NoECV6oyJ6kmVx", "tracks": 160, "weight": 0.3, "kind": "seasonal"},
+  "f": {"title": "Your Top 25 Tracks of 2026", "id": "PLZ-sogCuvJR8", "tracks": 26, "weight": 3.0, "kind": "recap"},
+  "g": {"title": "Love Songs - DJ Stace Library Show", "id": "PLMduzOohHQLqg2SX6Bc2weOxwEry1MI2B", "tracks": 44, "weight": 1.5, "kind": "show"},
+  "h": {"title": "All-Time Favorites", "id": "PLMduzOohHQLr_HRmOlM3KH-ZyCc3dcnaj", "tracks": 3032, "weight": 1.0, "kind": "favorites"},
+  "i": {"title": "Songs 2:00 and less", "id": "PLMduzOohHQLqH0n8cJxVcqjIo9dPMaPmF", "tracks": 15, "weight": 1.0, "kind": "utility"},
+  "j": {"title": "Covers", "id": "PLMduzOohHQLodi1DCB1DBh7maGUUoc47Z", "tracks": 68, "weight": 1.0, "kind": "theme"},
+  "k": {"title": "FCC Edited", "id": "PLMduzOohHQLpMGE2n1qJIGvwRJp4-l0dn", "tracks": 21, "weight": 1.5, "kind": "show"},
+  "l": {"title": "June-August Recap", "id": "LRSRIXQ5670Cwzo403jSeQ5u6pdb8ZR1AqYkQ", "tracks": 50, "weight": 2.0, "kind": "recap"},
+  "m": {"title": "Karaoke", "id": "PLMduzOohHQLqevwBrJiwxpXKwrnc19eEx", "tracks": 15, "weight": 0.3, "kind": "utility"},
+  "n": {"title": "Crawfish Boil", "id": "PLMduzOohHQLp3_mfth1JarNlaRPZFwKLz", "tracks": 2109, "weight": 0.5, "kind": "favorites", "note": "Mostly overlaps All-Time Favorites, so it counts half."},
+  "o": {"title": "To Review", "id": "PLMduzOohHQLoYAPMl9uNRayfpe9uQ3NiA", "tracks": 216, "weight": 2.0, "kind": "review"},
+  "p": {"title": "Liked Music", "id": "LM", "tracks": 1338, "weight": 2.0, "kind": "likes"},
+  "q": {"title": "DJ Stace - Next Show", "id": "PLMduzOohHQLrQzt6w4ep6l2zAwcIzoZVF", "tracks": 27, "weight": 3.0, "kind": "show"},
+  "r": {"title": "FCC Edit Needed", "id": "PLMduzOohHQLoN-Bq1XuSpyqe1i5JffIad", "tracks": 15, "weight": 1.5, "kind": "show"}
+ },
+ "excluded": ["God is not Great", "New Episodes", "Episodes for Later", "DJ Stace library show Air Order", "DJ Stace library show working", "Stace's Daily Playlist"]
+}

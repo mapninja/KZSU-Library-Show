@@ -1,0 +1,377 @@
+{
+ "playlist_name": "DJ Stace library show working",
+ "order": "forward",
+ "tracks": [
+  {
+   "artist": "Queens of the Stone Age",
+   "track": "Where the Goth Girls At?",
+   "album": "Perfecth (advance single)",
+   "priority": "R",
+   "videoId": ""
+  },
+  {
+   "artist": "Protomartyr",
+   "track": "Exalted Eagles",
+   "album": "Hotel Usona",
+   "priority": "R",
+   "videoId": ""
+  },
+  {
+   "artist": "Gilla Band",
+   "track": "Alogia",
+   "album": "Pugnello",
+   "priority": "R",
+   "videoId": ""
+  },
+  {
+   "artist": "Gurriers",
+   "track": "Nobody's Coming to Save You",
+   "album": "Nobody's Coming to Save You",
+   "priority": "O",
+   "videoId": ""
+  },
+  {
+   "artist": "Silver Jews",
+   "track": "Pet Politics",
+   "album": "The Natural Bridge",
+   "priority": "R",
+   "videoId": ""
+  },
+  {
+   "artist": "Fuzz",
+   "track": "Sleigh Ride",
+   "album": "Fuzz",
+   "priority": "R",
+   "videoId": ""
+  },
+  {
+   "artist": "Sebadoh",
+   "track": "Beauty of the Ride (Alternate Version)",
+   "album": "Harmacy (30th Anniversary Expanded)",
+   "priority": "O",
+   "videoId": ""
+  },
+  {
+   "artist": "Krill",
+   "track": "Dominate",
+   "album": "Secret Language",
+   "priority": "O",
+   "videoId": ""
+  },
+  {
+   "artist": "Stef Chura",
+   "track": "Danny",
+   "album": "Dancing Alone on the Concrete",
+   "priority": "R",
+   "videoId": ""
+  },
+  {
+   "artist": "Greg Freeman",
+   "track": "Indu",
+   "album": "All Set the Bone",
+   "priority": "R",
+   "videoId": ""
+  },
+  {
+   "artist": "Pink Floyd",
+   "track": "Flaming",
+   "album": "The Piper at the Gates of Dawn",
+   "priority": "O",
+   "videoId": ""
+  },
+  {
+   "artist": "The Fall",
+   "track": "Mr. Pharmacist",
+   "album": "Bend Sinister",
+   "priority": "R",
+   "videoId": ""
+  },
+  {
+   "artist": "Radiohead",
+   "track": "Reckoner",
+   "album": "In Rainbows",
+   "priority": "R",
+   "videoId": ""
+  },
+  {
+   "artist": "Jimi Hendrix Experience",
+   "track": "Killing Floor",
+   "album": "BBC Sessions",
+   "priority": "O",
+   "videoId": ""
+  },
+  {
+   "artist": "Swervedriver",
+   "track": "Rave Down",
+   "album": "Raise (35th Anniversary)",
+   "priority": "O",
+   "videoId": ""
+  },
+  {
+   "artist": "Killing Joke",
+   "track": "Wardance",
+   "album": "Killing Joke",
+   "priority": "O",
+   "videoId": ""
+  },
+  {
+   "artist": "Fruit Bats",
+   "track": "When U Love Somebody",
+   "album": "Absolute Loser",
+   "priority": "R",
+   "videoId": ""
+  },
+  {
+   "artist": "The Reds, Pinks & Purples",
+   "track": "(pick from True Love Daydream)",
+   "album": "True Love Daydream",
+   "priority": "O",
+   "videoId": ""
+  },
+  {
+   "artist": "Renny Conti",
+   "track": "San Francisco 2005",
+   "album": "Split Second",
+   "priority": "O",
+   "videoId": ""
+  },
+  {
+   "artist": "American Music Club",
+   "track": "Rise",
+   "album": "Everclear",
+   "priority": "O",
+   "videoId": ""
+  },
+  {
+   "artist": "Fleetwood Mac",
+   "track": "Tusk",
+   "album": "Tusk",
+   "priority": "O",
+   "videoId": ""
+  },
+  {
+   "artist": "Grateful Dead",
+   "track": "The Golden Road (To Unlimited Devotion)",
+   "album": "The Grateful Dead",
+   "priority": "O",
+   "videoId": ""
+  },
+  {
+   "artist": "Sly & the Family Stone",
+   "track": "Dance to the Music",
+   "album": "Dance to the Music",
+   "priority": "O",
+   "videoId": ""
+  },
+  {
+   "artist": "Deerhoof",
+   "track": "Sun Like It Hot",
+   "album": "Divine Schism",
+   "priority": "X",
+   "videoId": ""
+  },
+  {
+   "artist": "Julia Jacklin",
+   "track": "If I Had the Hand of God",
+   "album": "The Gem",
+   "priority": "R",
+   "videoId": ""
+  },
+  {
+   "artist": "Blondshell",
+   "track": "Violins",
+   "album": "Violins",
+   "priority": "R",
+   "videoId": ""
+  },
+  {
+   "artist": "Sharp Pins",
+   "track": "How Can I Explain What She Does to Me?",
+   "album": "Electric My Icebox (EP)",
+   "priority": "R",
+   "videoId": ""
+  },
+  {
+   "artist": "Lex Walton",
+   "track": "Adrian Borland Will Have His Revenge On London",
+   "album": "Ultimate Love Forever",
+   "priority": "O",
+   "videoId": ""
+  },
+  {
+   "artist": "Wishy",
+   "track": "Mona Lisa",
+   "album": "Nature's Pill",
+   "priority": "O",
+   "videoId": ""
+  },
+  {
+   "artist": "Teenage Fanclub",
+   "track": "Day in the Sun",
+   "album": "Do Not Dare to Dream",
+   "priority": "O",
+   "videoId": ""
+  },
+  {
+   "artist": "Johnny Marr",
+   "track": "Spin",
+   "album": "The Age of Everything",
+   "priority": "O",
+   "videoId": ""
+  },
+  {
+   "artist": "The Smiths",
+   "track": "Last Night I Dreamt That Somebody Loved Me",
+   "album": "Strangeways, Here We Come",
+   "priority": "O",
+   "videoId": ""
+  },
+  {
+   "artist": "Stevie Wonder",
+   "track": "I Wish",
+   "album": "Songs in the Key of Life",
+   "priority": "R",
+   "videoId": ""
+  },
+  {
+   "artist": "New Order",
+   "track": "Bizarre Love Triangle",
+   "album": "Brotherhood",
+   "priority": "O",
+   "videoId": ""
+  },
+  {
+   "artist": "Iggy Pop",
+   "track": "Real Wild Child (Wild One)",
+   "album": "Blah-Blah-Blah",
+   "priority": "O",
+   "videoId": ""
+  },
+  {
+   "artist": "Cowboy Junkies",
+   "track": "State Trooper",
+   "album": "Whites Off Earth Now!!",
+   "priority": "O",
+   "videoId": ""
+  },
+  {
+   "artist": "Tom Waits",
+   "track": "The Piano Has Been Drinking (Not Me)",
+   "album": "Small Change",
+   "priority": "O",
+   "videoId": ""
+  },
+  {
+   "artist": "Beck",
+   "track": "Nausea",
+   "album": "The Information",
+   "priority": "O",
+   "videoId": ""
+  },
+  {
+   "artist": "Pixies",
+   "track": "Caribou",
+   "album": "Come On Pilgrim",
+   "priority": "O",
+   "videoId": ""
+  },
+  {
+   "artist": "Deathchant",
+   "track": "Enemy",
+   "album": "KOVA",
+   "priority": "R",
+   "videoId": ""
+  },
+  {
+   "artist": "SLIFT",
+   "track": "The Day of Execution",
+   "album": "Fantasia",
+   "priority": "O",
+   "videoId": ""
+  },
+  {
+   "artist": "Mandrake Handshake",
+   "track": "The Tether / Modulo 5",
+   "album": "Laputa",
+   "priority": "O",
+   "videoId": ""
+  },
+  {
+   "artist": "Hermanos Gutiérrez",
+   "track": "Los Ojos Del Cóndor",
+   "album": "Los Ojos Del Cóndor",
+   "priority": "O",
+   "videoId": ""
+  },
+  {
+   "artist": "Death Valley Girls",
+   "track": "Basic Witch",
+   "album": "Welcome to Earth",
+   "priority": "O",
+   "videoId": ""
+  },
+  {
+   "artist": "Fontaines D.C.",
+   "track": "Marianne",
+   "album": "Dopamine Chamber",
+   "priority": "O",
+   "videoId": ""
+  },
+  {
+   "artist": "Morphine",
+   "track": "Cocoon",
+   "album": "Cocoon",
+   "priority": "O",
+   "videoId": ""
+  },
+  {
+   "artist": "Swans",
+   "track": "The End of Forgetting (Live)",
+   "album": "Newly Sentient Being",
+   "priority": "X",
+   "videoId": ""
+  },
+  {
+   "artist": "Richard Hell & the Voidoids",
+   "track": "Blank Generation",
+   "album": "Blank Generation",
+   "priority": "O",
+   "videoId": ""
+  },
+  {
+   "artist": "Big Star",
+   "track": "September Gurls",
+   "album": "Radio City",
+   "priority": "O",
+   "videoId": ""
+  },
+  {
+   "artist": "Billy Bragg & Wilco",
+   "track": "California Stars",
+   "album": "Mermaid Avenue",
+   "priority": "O",
+   "videoId": ""
+  },
+  {
+   "artist": "Israel Nash",
+   "track": "You Ain't Going Nowhere",
+   "album": "Sweetheart of the Rodeo",
+   "priority": "O",
+   "videoId": ""
+  },
+  {
+   "artist": "Broadcast",
+   "track": "Come On Let's Go",
+   "album": "The Noise Made by People",
+   "priority": "O",
+   "videoId": ""
+  },
+  {
+   "artist": "Dirty Three",
+   "track": "Sue's Last Ride",
+   "album": "Ocean Songs",
+   "priority": "X",
+   "videoId": ""
+  }
+ ]
+}

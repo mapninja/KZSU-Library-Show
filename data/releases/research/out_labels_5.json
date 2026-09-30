@@ -1,0 +1,104 @@
+[
+  {
+    "artist": "Radie Peat",
+    "title": "No Human Tongue Can Tell",
+    "type": "album",
+    "label": "Rough Trade Records",
+    "release_date": "2026-11-13",
+    "status": "announced",
+    "latest_single": "The Moon and Stars",
+    "single_date": "2026-09",
+    "preview_url": "https://radiepeat.bandcamp.com/album/no-human-tongue-can-tell",
+    "source_url": "https://stereogum.com/2511517/lankums-radie-peat-announces-debut-solo-album-no-human-tongue-can-tell-hear-the-moon-and-stars/music",
+    "source_name": "Stereogum",
+    "pull_quote": "",
+    "notes": "Debut solo album by Lankum/ØXN vocalist. 9 trad-folk tracks (Hares on the Mountain, Willow Garden, Bonnie Boy...). Peat plays all the intersecting parts herself (Tubular Bells inspiration). Single rewrites lyrics with coded references to unwanted pregnancy/abortion. Folk, not rock; dark drone-folk fits goth/Americana fringe. Also covered by NME, Uncut, Clash, KLOF (Sept. 2026).",
+    "found_via": "label:Rough Trade Records"
+  },
+  {
+    "artist": "Caroline Rose",
+    "title": "Gentling the Horse at the Walt Whitman Mall",
+    "type": "album",
+    "label": "SUCK",
+    "release_date": "2026-10-23",
+    "status": "announced",
+    "latest_single": "Hello Again, Jim / Calm",
+    "single_date": "",
+    "preview_url": "https://carolinerosemusic.bandcamp.com/album/gentling-the-horse-at-the-walt-whitman-mall",
+    "source_url": "https://www.rollingstone.com/music/music-news/caroline-rose-new-songs-hello-again-jim-calm-1235626907/",
+    "source_name": "Rolling Stone",
+    "pull_quote": "",
+    "notes": "Not on New West: debut release of Rose's own imprint SUCK (formerly New West artist). Produced by John Congleton. Earlier singles 'Chow Mein' (Aug. 11 announcement, Stereogum/Consequence) and 'Yip Yip Now'. 'Hello Again, Jim' is a fuzz-riff send-up of toxic music-industry dudes. Date of the Hello Again, Jim / Calm pair not confirmed.",
+    "found_via": "artist:Caroline Rose"
+  },
+  {
+    "artist": "Royal Blood",
+    "title": "Dead Company",
+    "type": "album",
+    "label": "Warner Records",
+    "release_date": "2026-11-13",
+    "status": "announced",
+    "latest_single": "Swallow the Bomb",
+    "single_date": "",
+    "preview_url": "",
+    "source_url": "",
+    "source_name": "seed_notes.md",
+    "pull_quote": "",
+    "notes": "FROM SEED NOTES ONLY, NOT RE-VERIFIED: search budget ran out before it could be checked.",
+    "found_via": "label:Warner Records"
+  },
+  {
+    "artist": "TV Priest",
+    "title": "Cartoons",
+    "type": "album",
+    "label": "AMK / Kartel",
+    "release_date": "2026-11-06",
+    "status": "announced",
+    "latest_single": "Just So You Know",
+    "single_date": "",
+    "preview_url": "",
+    "source_url": "",
+    "source_name": "seed_notes.md",
+    "pull_quote": "",
+    "notes": "FROM SEED NOTES ONLY, NOT RE-VERIFIED: search budget ran out before it could be checked.",
+    "found_via": "label:Kartel"
+  },
+  {
+    "artist": "Sebadoh",
+    "title": "Harmacy (30th-anniversary expanded edition)",
+    "type": "reissue",
+    "label": "Sub Pop",
+    "release_date": "2026-11-20",
+    "status": "announced",
+    "latest_single": "",
+    "single_date": "",
+    "preview_url": "",
+    "source_url": "",
+    "source_name": "seed_notes.md",
+    "pull_quote": "",
+    "notes": "Sebadoh is a Dangerbird top artist, but this reissue is on Sub Pop. FROM SEED NOTES ONLY, NOT RE-VERIFIED: search budget ran out before it could be checked.",
+    "found_via": "artist:Sebadoh"
+  },
+  {
+    "_checked": [
+      "New West Records", "Touch and Go Records", "Rough Trade Records", "Castle Face Records",
+      "Caroline Rose", "The Glands", "The Nude Party", "Seratones", "Ron Gallo", "All Them Witches", "Radie Peat"
+    ],
+    "_nothing_found": [
+      "New West Records (searches returned only earlier-2026 releases: Ratboys Feb, 49 Winchester Feb, Emily Nenni May, Buddy Miller Sept 11)",
+      "Touch and Go Records (results were about Collective Soul's album titled 'Touch and Go', not the label)",
+      "Castle Face Records (results were about other bands named Castle)",
+      "The Nude Party (latest album Look Who's Back, Feb 2026)",
+      "Seratones", "Ron Gallo", "The Glands",
+      "All Them Witches (House of Mirrors, May 29 2026, now on BMG)"
+    ],
+    "_not_searched_budget_exhausted": [
+      "Loma Vista Recordings", "Dine Alone Records", "Yep Roc Records", "Ipecac Records", "Young God Records",
+      "Clouds Hill Ltd.", "Dangerbird Records", "Tardigrade Records", "Warner Records", "So Young Records!",
+      "Sire Records", "Kartel", "Big Crown", "Ghostly International",
+      "Touch and Go top artists (Jesus Lizard, Scratch Acid, Slint, Delta 72, Lee Harvey Oswald Band)",
+      "Rough Trade top artists (Parquet Courts, Goat Girl, Warpaint, Bodega, Camper Van Beethoven, Black Midi)",
+      "Castle Face top artists (Oh Sees, Mountains & Rainbows, Once & Future Band, Zig Zags, Prettiest Eyes)"
+    ]
+  }
+]

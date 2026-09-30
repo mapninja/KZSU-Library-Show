@@ -1,0 +1,139 @@
+{
+ "note": "Taste feedback from DJ Stace's playlist edits. 'removed' = she deleted it: not currently interested; don't re-suggest for 60 days (cooloff_until); downweight an artist only after 3+ removals. 'added_by_stace' = she added it herself: it fits, keep it, never remove it in automated rewrites, and treat artist/label/RIYL as positive signals. 'kept' = survived 2+ daily checks. Written by the kzsu-daily-playlist and kzsu-thursday-working-rewrite tasks.",
+ "playlist": {
+  "name": "Stace's Daily Playlist",
+  "id": "PLCLF-Tik2UHk",
+  "url": "https://music.youtube.com/playlist?list=PLCLF-Tik2UHk",
+  "created": "2026-09-29",
+  "privacy": "Public"
+ },
+ "removed": [
+  {
+   "date": "2026-09-27",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Protomartyr",
+   "title": "Exalted Eagles",
+   "videoId": "1E35nIFsABE",
+   "cooloff_until": "2026-11-26"
+  },
+  {
+   "date": "2026-09-27",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Deathchant",
+   "title": "Enemy",
+   "videoId": "8H5dGiyTzqY",
+   "cooloff_until": "2026-11-26"
+  },
+  {
+   "date": "2026-09-27",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Silver Jews",
+   "title": "Pet Politics",
+   "videoId": "IDcE8APDqII",
+   "cooloff_until": "2026-11-26"
+  },
+  {
+   "date": "2026-09-27",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Stef Chura",
+   "title": "Danny",
+   "videoId": "zLVP19aQglQ",
+   "cooloff_until": "2026-11-26"
+  },
+  {
+   "date": "2026-09-27",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Killing Joke",
+   "title": "Wardance",
+   "videoId": "1Dxjh1Cq-cQ",
+   "cooloff_until": "2026-11-26"
+  },
+  {
+   "date": "2026-09-27",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Radiohead",
+   "title": "Reckoner",
+   "videoId": "pYHEpDnvVPk",
+   "cooloff_until": "2026-11-26"
+  },
+  {
+   "date": "2026-09-27",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Fleetwood Mac",
+   "title": "Tusk (Live at Warner Brothers Studios)",
+   "videoId": "7SHusnJ2v1U",
+   "cooloff_until": "2026-11-26"
+  },
+  {
+   "date": "2026-09-27",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Grateful Dead",
+   "title": "The Golden Road",
+   "videoId": "7jIVt-0L_3Y",
+   "cooloff_until": "2026-11-26"
+  },
+  {
+   "date": "2026-09-27",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Blondshell",
+   "title": "Violins",
+   "videoId": "GXbKiwjryfM",
+   "cooloff_until": "2026-11-26"
+  },
+  {
+   "date": "2026-09-27",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Johnny Marr",
+   "title": "Spin",
+   "videoId": "vUdimGNRvKk",
+   "cooloff_until": "2026-11-26"
+  },
+  {
+   "date": "2026-09-27",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Blancmange",
+   "title": "Living On the Ceiling (Extended Version)",
+   "videoId": "SgkanfoJUy8",
+   "cooloff_until": "2026-11-26"
+  },
+  {
+   "date": "2026-09-27",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Iggy Pop",
+   "title": "Real Wild Child (Wild One)",
+   "videoId": "d1IQLLkXBck",
+   "cooloff_until": "2026-11-26"
+  }
+ ],
+ "added_by_stace": [
+  {
+   "date": "2026-09-27",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Foxygen",
+   "title": "San Francisco",
+   "album": "We Are the 21st Century Ambassadors of Peace & Magic",
+   "videoId": "mdB1QlEPodk",
+   "position": "Set 4 (Bay Area), after Fruit Bats",
+   "set": "Hour 2, Set 4: Bay Area weekend and Johnny Mathis at 91",
+   "label": "Jagjaguwar",
+   "tag": "1026706",
+   "fcc_status": "CLEAN",
+   "confirmed_in_air_order": "2026-09-29"
+  }
+ ],
+ "kept": [],
+ "artist_removals": {
+  "Protomartyr": 1,
+  "Deathchant": 1,
+  "Silver Jews": 1,
+  "Stef Chura": 1,
+  "Killing Joke": 1,
+  "Radiohead": 1,
+  "Fleetwood Mac": 1,
+  "Grateful Dead": 1,
+  "Blondshell": 1,
+  "Johnny Marr": 1,
+  "Blancmange": 1,
+  "Iggy Pop": 1
+ }
+}
