@@ -10,7 +10,7 @@ INPUT (you or the assistant edit this):
 
 OUTPUTS (regenerated every run, safe to overwrite):
     outputs/recon/<SHOW_DATE>/track_suggestions.md   preview links, metadata, FCC flags
-    outputs/recon/<SHOW_DATE>/zookeeper_upload.csv    KZSU Zookeeper import file
+    outputs/recon/<SHOW_DATE>/zookeeper_upload.csv    KZSU Zookeeper import file (REVERSED air order)
     outputs/recon/<SHOW_DATE>/ytm_playlist.json        track list for the YTM playlist
     (a "working_" prefix is added when the input is working_playlist.json)
 
@@ -106,16 +106,23 @@ def main(show_date: str, input_name: str = "candidates.json") -> None:
     lines.insert(5, "")
     (out_dir / f"{prefix or 'track_'}{'playlist' if prefix else 'suggestions'}.md").write_text("\n".join(lines), encoding="utf-8")
 
-    # ---- 2. Zookeeper CSV (forward order, SKIP tracks removed) ------------
+    # ---- 2. Zookeeper CSV (REVERSED order, SKIP/CUT tracks removed) -------
+    # Our playback setup works bottom-up, like the YTM Working playlist.
+    # So the CSV is written in REVERSE air order:
+    #   first row = LAST track on air, last row = FIRST track on air.
+    rows = []  # collect rows in forward (air) order first
+    for s in data["sets"]:
+        for t in s["tracks"]:
+            if t["priority"] in ("SKIP", "CUT"):
+                continue  # skipped or cut tracks never go in the upload
+            album = t["album"].replace(" (advance single)", "")
+            label = "" if t["label"] == "unverified" else t["label"]
+            # 6 positional columns: artist, track, album, tag, label, timestamp
+            rows.append([t["artist"], t["track"], album, t.get("tag", ""), label, ""])
+    rows.reverse()  # flip to bottom-up order for playback
     with (out_dir / f"{prefix}zookeeper_upload.csv").open("w", newline="", encoding="utf-8") as f:
-        w = csv.writer(f, quoting=csv.QUOTE_ALL)
-        for s in data["sets"]:
-            for t in s["tracks"]:
-                if t["priority"] in ("SKIP", "CUT"):
-                    continue
-                album = t["album"].replace(" (advance single)", "")
-                label = "" if t["label"] == "unverified" else t["label"]
-                w.writerow([t["artist"], t["track"], album, t.get("tag", ""), label, ""])
+        w = csv.writer(f, quoting=csv.QUOTE_ALL)  # quote every field, as Zookeeper expects
+        w.writerows(rows)
 
     # ---- 3. YTM working playlist plan -------------------------------------
     ytm = [{"artist": t["artist"], "track": t["track"], "album": t["album"], "priority": t["priority"],
