@@ -1,6 +1,6 @@
 ---
 name: kzsu-show-build
-description: Build the final show package for DJ Stace's "The Library" on KZSU 90.1 FM (Thursdays 6-8 p.m. PT) from the week's finished recon and plan. Syncs the plan to her YouTube Music "Air Order" edits, rewrites the reversed "Working" playlist in YouTube Music, fills labels and library tags from the KZSU Zookeeper API, FCC-screens new tracks, and writes the Zookeeper upload CSV, working_playlist.md and show_script.md, then puts them in her KZSU Google Drive folder. Use this whenever Stace asks to build, finalize, sync or rebuild the show, the Working playlist, the Zookeeper upload or the show script, or on the Thursday morning run, even if she doesn't name the skill. Do not use it for weekly recon, new-release research or picking candidates; that is a separate recon and planning skill.
+description: Build the final show package for DJ Stace's "The Library" on KZSU 90.1 FM (Thursdays 6-8 p.m. PT) from the week's finished recon and plan. Syncs the plan to her YouTube Music "Air Order" edits, rewrites the reversed "Working" playlist in YouTube Music, fills labels and library tags from the KZSU Zookeeper API, FCC-screens new tracks, and writes the reversed Zookeeper upload CSV, working_playlist.md and show_script.md, then puts them in her KZSU Google Drive folder. Use this whenever Stace asks to build, finalize, sync or rebuild the show, the Working playlist, the Zookeeper upload or the show script, or on the Thursday morning run, even if she doesn't name the skill. Do not use it for weekly recon, new-release research or picking candidates; that is a separate recon and planning skill.
 ---
 
 # KZSU show build
@@ -15,7 +15,7 @@ You turn a finished weekly plan into the files DJ Stace takes into the studio. R
 - The YouTube Music "Air Order" playlist, which she edits by hand. **Her edits are the source of truth.**
 
 **Deliverables**, all in `outputs/recon/<show date>/` and then copied to Google Drive:
-1. `working_zookeeper_upload.csv`: the Zookeeper import file.
+1. `working_zookeeper_upload.csv`: the Zookeeper import file, in **reversed** order.
 2. `working_playlist.md`: the track table with preview links, labels and FCC notes.
 3. `show_script.md`: the on-air script with sets, talk breaks and the checklist.
 4. The YouTube Music "Working" playlist, rewritten to match Air Order in reverse.
@@ -32,6 +32,8 @@ Both live in Stace's signed-in Chrome. Both are Public, with Collaborate on.
 | DJ Stace library show working | `PLLXFGCRcu_qc` | **Reversed**, first on-air track at the bottom | Add, remove, reorder |
 
 Working is reversed because Stace plays it bottom-up with autoplay off, so each track stops when it ends.
+
+**Both playout lists run in reverse:** the YouTube Music Working playlist and the Zookeeper upload CSV. In each, the first on-air track is the last item and the last on-air track is the first item. Her playback setup depends on this, so a forward list breaks the show. Air Order, the show script and working_playlist.md stay forward, because those are for reading and editing.
 
 **Use music.youtube.com only.** Don't use www.youtube.com, not even for its "Move to top" menu. Stace has been clear about this. If a step seems to need youtube.com, stop and ask her.
 
@@ -94,6 +96,7 @@ Don't make scripted web requests from the shell with curl or Python. Workspace p
   - If the repo doesn't have the script, copy it from this skill's `scripts/` folder.
   - It writes `working_playlist.md`, `working_zookeeper_upload.csv` and `working_ytm_playlist.json`, and it leaves SKIP and CUT tracks out.
 - Check the CSV:
+  - **Row order is reversed.** The first row is the last Air Order track, and the last row is Air Order track 1. The script does this with `rows.reverse()`. If a copy of the script writes forward order, reverse the rows before delivering.
   - It has no header row and 6 positional columns: artist, track, album, tag, label, timestamp. A 5-column file shifts durations into the label field.
   - No row has an empty label.
   - Tracks with `ytm_missing` (Bandcamp-only) stay in the CSV.
@@ -142,7 +145,7 @@ Keep it short: bullets, AP style, no em dashes, no hyperbole.
 - Her Air Order changes: added (kept as fits), removed (logged as not currently interested) and moved.
 - New FCC flags, with the word and count.
 - New labels and tags, with sources.
-- Final counts: Air Order, Working and CSV rows.
+- Final counts: Air Order, Working and CSV rows. Confirm that Working and the CSV are both reversed, and name the first and last CSV rows.
 - Links to both playlists.
 - Drive links, or local paths, for the three files.
 - Anything left for her, such as tracks to drag or songs to listen to first.
@@ -152,3 +155,4 @@ Keep it short: bullets, AP style, no em dashes, no hyperbole.
 - Delete only files you created. Move anything else to `_to_delete/`, both locally and in Drive (`KZSU/_to_delete`).
 - Skills for the show go in Drive under `KZSU/Library Show skills/<skill-name>/`. Each folder holds a raw `SKILL.md` whose YAML frontmatter has the name and description, plus a `<skill-name>.skill` zip that includes that `SKILL.md`.
 - Never reproduce lyrics.
+- Commit and push repo changes to GitHub when you finish, so Stace's other machines get them. Never commit `.env`, `browser.json` or other secrets. If the push fails, tell her and give her the one command to run.

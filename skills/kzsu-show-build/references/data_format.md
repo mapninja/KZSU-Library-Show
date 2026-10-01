@@ -48,7 +48,9 @@ Before you append, look for the same videoId. Earlier daily or Thursday runs may
 
 ## Zookeeper CSV
 
-Positional, with no header row and every field quoted:
+Rows are in **reversed** order: the first row is the last on-air track, and the last row is on-air track 1. This matches the reversed Working playlist, because Stace's playback setup runs bottom-up.
+
+Columns are positional, with no header row and every field quoted:
 
 ```
 "artist","track","album","tag","label",""

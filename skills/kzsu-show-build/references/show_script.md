@@ -59,7 +59,7 @@ Draft <n>, <Mon. D>. Synced to your Air Order edits: <N> tracks, about <h> hours
 
 ## Pre-show checklist
 - [ ] Listen first: <UNVERIFIED tracks>.
-- [ ] Upload `working_zookeeper_upload.csv` (<rows> rows), then delete unplayed rows after the show.
+- [ ] Upload `working_zookeeper_upload.csv` (<rows> rows, reversed: last track first), then delete unplayed rows after the show.
 - [ ] <other open items>
 ```
 
