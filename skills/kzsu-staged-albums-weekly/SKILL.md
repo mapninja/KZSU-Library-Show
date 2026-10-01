@@ -63,7 +63,7 @@ python3 scripts/staged_crossref.py --top 60
   - Ticked boxes from earlier lists stay ticked.
   - Finished templates keep their `| template: <link>` field.
   - Don't reformat these lines. `scripts/review_requests.py` parses them for the kzsu-review-template skill.
-- Don't pass `--library` and don't make scripted web or API requests from the shell. Some workspaces block them.
+- Don't pass `--library`. If this workspace blocks scripted web requests, don't try to work around the block. Use the browser steps instead.
 - If `data/library_show.db` is more than 14 days old, tell Stace to run `python scripts/build_music_db.py --refresh`, then `python scripts/build_taste_profile.py`, on her Mac.
 
 ### 4. FCC screen
