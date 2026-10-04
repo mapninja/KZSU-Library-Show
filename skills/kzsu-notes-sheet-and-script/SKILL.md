@@ -35,3 +35,7 @@ Read `references/house_rules.md` and `config/playlists.json`. Use `anthropic-ski
 ## Zookeeper metadata
 
 Read `references/zookeeper_enrichment.md`. Label, album and a Tag column in the sheet come from Zookeeper fields in the plan. Re-run the enrichment for tracks Stace added or that replaced a cull. Show the label as Zookeeper spells it.
+
+## Drive placement
+
+Follow the Drive layout in `references/house_rules.md`: drafts and next-week materials go in `/KZSU/Show Prep/`. Only final artifacts for the coming show go at the `/KZSU/` top level, and the previous week's finals move to `/KZSU/Archive/YYYY/MM-DD/` first.

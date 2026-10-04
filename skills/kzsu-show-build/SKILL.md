@@ -133,7 +133,7 @@ Stace's rule: **change only the deltas, then move tracks into position.** Don't 
 ### 7. Deliver to Google Drive
 Put the three files in Stace's **KZSU** folder in Google Drive. Folder ID is `1KhuroWaBTvKo5i5voVk2iB_GwRgpfKfA`, in My Drive. Don't put them in the Drive root.
 - Use the Google Drive connector (create or update file). Find it with ToolSearch, for example "google drive create file."
-- Name them `library_show_playlist_<show date>.csv` (the Zookeeper upload), `<show date> working_playlist.md` and `<show date> show_script.md`. Current files stay at the KZSU top level. Move the prior week's files to KZSU/Archive/YYYY/MM-DD/.
+- Name them `library_show_playlist_<show date>.csv` (the Zookeeper upload), `<show date> working_playlist.md` and `<show date> show_script.md`. Drafts go in KZSU/Show Prep/. Finals (after the Wednesday final script) go at the KZSU top level, and the prior week's finals move to KZSU/Archive/YYYY/MM-DD/ first.
 - If files with those names are already in the folder, update them instead of creating duplicates.
 - Upload them as raw files, with conversion to Google types turned off, so the CSV stays a CSV and the .md files stay Markdown.
 - If no Drive connector is available, keep the files in `outputs/recon/<show date>/`. Tell Stace which connector to add, and share the local paths.
@@ -159,3 +159,7 @@ Keep it short: bullets, AP style, no em dashes, no hyperbole.
 ## Zookeeper metadata
 
 Read `references/zookeeper_enrichment.md`. Step 4 applies to EVERY track, not only ones she added. Re-run the enrichment for the whole plan, fill `tag`, `label`, `label_source`, and write Zookeeper label names into the CSV, working_playlist.md and script. List any track still missing a label under "Fill in at the studio."
+
+## Drive placement
+
+Follow the Drive layout in `references/house_rules.md`: drafts and next-week materials go in `/KZSU/Show Prep/`. Only final artifacts for the coming show go at the `/KZSU/` top level, and the previous week's finals move to `/KZSU/Archive/YYYY/MM-DD/` first.

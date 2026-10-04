@@ -110,9 +110,9 @@
      "artist": "The New Pornographers",
      "track": "Votive",
      "album": "",
-     "label": "",
-     "label_source": "unverified",
-     "tag": "",
+     "label": "Merge Records",
+     "label_source": "zookeeper album",
+     "tag": "1155787",
      "released": "2026",
      "why": "Weekly Playlist pick.",
      "fcc_status": "CLEAN",
@@ -165,7 +165,7 @@
      "album": "Badmotorfinger",
      "label": "A&M Records",
      "label_source": "DB spins",
-     "tag": "",
+     "tag": "9065",
      "released": "1991-10-08",
      "why": "Badmotorfinger came out Oct. 8, 1991 (35 years).",
      "fcc_status": "CLEAN",
@@ -179,9 +179,9 @@
      "artist": "Radiohead",
      "track": "The National Anthem",
      "album": "Kid A",
-     "label": "Xl Recordings",
-     "label_source": "DB spins; verify US label",
-     "tag": "",
+     "label": "Capitol Records Inc.",
+     "label_source": "zookeeper album",
+     "tag": "569178",
      "released": "2000",
      "why": "Kid A debuted at No. 1 on the Billboard 200 the week of Oct. 8, 2000.",
      "fcc_status": "CLEAN",
@@ -205,7 +205,12 @@
      "priority": "R",
      "source": "weekly playlist/recon",
      "videoId": "CHatn3_UxEU",
-     "duration": "4:20"
+     "duration": "4:20",
+     "zk_alt": {
+      "tag": "1086139",
+      "album": "Popular Favorites: Sand In The Vaseline",
+      "label": "Warner Brothers (Modern)"
+     }
     },
     {
      "artist": "Galaxie 500",
@@ -221,15 +226,20 @@
      "priority": "R",
      "source": "weekly playlist/recon",
      "videoId": "FUFWkuMY6xM",
-     "duration": "3:57"
+     "duration": "3:57",
+     "zk_alt": {
+      "tag": "342425",
+      "album": "Selected Galaxie 500",
+      "label": "Rykodisc"
+     }
     },
     {
      "artist": "R.E.M.",
      "track": "Man on the Moon",
      "album": "Automatic for the People",
-     "label": "Warner Brothers (Modern)",
-     "label_source": "DB spins; verify",
-     "tag": "",
+     "label": "Warner Bros. Records",
+     "label_source": "zookeeper album",
+     "tag": "1153549",
      "released": "1992",
      "why": "Weekly Playlist pick.",
      "fcc_status": "CLEAN",
@@ -258,7 +268,12 @@
      "priority": "R",
      "source": "triple shot",
      "videoId": "TR8_FmGDXQU",
-     "duration": "5:14"
+     "duration": "5:14",
+     "zk_alt": {
+      "tag": "719074",
+      "album": "Four Thousand Seven Hundred An",
+      "label": "Jetset Records"
+     }
     },
     {
      "artist": "Teenage Fanclub",
@@ -274,7 +289,12 @@
      "priority": "R",
      "source": "triple shot",
      "videoId": "D757lJMBDk0",
-     "duration": "3:43"
+     "duration": "3:43",
+     "zk_alt": {
+      "tag": "719074",
+      "album": "Four Thousand Seven Hundred An",
+      "label": "Jetset Records"
+     }
     },
     {
      "artist": "Teenage Fanclub",
@@ -311,15 +331,20 @@
      "priority": "R",
      "source": "weekly playlist/recon",
      "videoId": "q15sZK-8sPw",
-     "duration": "4:13"
+     "duration": "4:13",
+     "zk_alt": {
+      "tag": "799948",
+      "album": "Z",
+      "label": "Ato Records"
+     }
     },
     {
      "artist": "Dinosaur Jr.",
      "track": "Feel the Pain",
      "album": "",
-     "label": "Sire Records",
-     "label_source": "DB spins; verify",
-     "tag": "",
+     "label": "Sire Records (Modern)",
+     "label_source": "zookeeper album",
+     "tag": "187859",
      "released": "1994",
      "why": "Dinosaur Jr. with Stef Chura: Oct. 18 and Oct. 19 at the Guild Theater, Menlo Park (verify venues).",
      "fcc_status": "CLEAN",
@@ -343,15 +368,20 @@
      "priority": "O",
      "source": "weekly playlist/recon",
      "videoId": "1ZX98VQcVl0",
-     "duration": "3:32"
+     "duration": "3:32",
+     "zk_alt": {
+      "tag": "484107",
+      "album": "What Is not to Love",
+      "label": "Slash Records"
+     }
     },
     {
      "artist": "Geese",
      "track": "Cobra",
      "album": "Getting Killed",
      "label": "Partisan Records",
-     "label_source": "DB spins",
-     "tag": "",
+     "label_source": "zookeeper album",
+     "tag": "1155529",
      "released": "2025",
      "why": "Geese at the Fox, Oakland, Oct. 19 and 20 (sold out).",
      "fcc_status": "CLEAN",
@@ -460,7 +490,12 @@
      "priority": "O",
      "source": "weekly playlist/recon",
      "videoId": "x23eS6_LCIE",
-     "duration": "4:35"
+     "duration": "4:35",
+     "zk_alt": {
+      "tag": "275330",
+      "album": "200 More Miles",
+      "label": "Rca Victor/Bmg"
+     }
     },
     {
      "artist": "Aldous Harding",
@@ -514,9 +549,9 @@
      "artist": "Courtney Barnett",
      "track": "Avant Gardener",
      "album": "The Double EP: A Sea of Split Peas",
-     "label": "Mom + Pop",
-     "label_source": "DB spins; verify",
-     "tag": "",
+     "label": "Marathon Artists",
+     "label_source": "zookeeper album",
+     "tag": "1045426",
      "released": "2013",
      "why": "Core artist.",
      "fcc_status": "CLEAN",
@@ -540,7 +575,12 @@
      "priority": "O",
      "source": "weekly playlist/recon",
      "videoId": "jTI5dX83NZc",
-     "duration": "5:19"
+     "duration": "5:19",
+     "zk_alt": {
+      "tag": "376770",
+      "album": "Autumn Sweater (single)",
+      "label": "Matador Records"
+     }
     },
     {
      "artist": "Perfume Genius",
@@ -556,7 +596,12 @@
      "priority": "O",
      "source": "weekly playlist/recon",
      "videoId": "oRc4eohqlaM",
-     "duration": "3:51"
+     "duration": "3:51",
+     "zk_alt": {
+      "tag": "1063022",
+      "album": "Too Bright",
+      "label": "Matador Records"
+     }
     }
    ]
   },
@@ -567,9 +612,9 @@
      "artist": "Goat",
      "track": "I Sing in Silence",
      "album": "",
-     "label": "",
-     "label_source": "unverified",
-     "tag": "",
+     "label": "Sub Pop Records",
+     "label_source": "zookeeper album",
+     "tag": "1102420",
      "released": "",
      "why": "Weekly Playlist pick.",
      "fcc_status": "CLEAN",
@@ -646,15 +691,20 @@
      "priority": "O",
      "source": "weekly playlist/recon",
      "videoId": "IRGdfyrVjlw",
-     "duration": "2:49"
+     "duration": "2:49",
+     "zk_alt": {
+      "tag": "26514",
+      "album": "Live",
+      "label": "Rykodisc"
+     }
     },
     {
      "artist": "Broadcast",
      "track": "Come On Let's Go",
      "album": "The Noise Made by People",
      "label": "Warp Records",
-     "label_source": "prior plan",
-     "tag": "",
+     "label_source": "zookeeper album",
+     "tag": "550684",
      "released": "2000",
      "why": "Carried over.",
      "fcc_status": "CLEAN",
@@ -678,14 +728,19 @@
      "priority": "O",
      "source": "weekly playlist/recon",
      "videoId": "k1sQYTXHI4M",
-     "duration": "7:23"
+     "duration": "7:23",
+     "zk_alt": {
+      "tag": "338026",
+      "album": "Hose Stories",
+      "label": "Touch and Go"
+     }
     },
     {
      "artist": "Uncle Tupelo",
      "track": "No Depression",
      "album": "No Depression",
-     "label": "",
-     "label_source": "unverified",
+     "label": "Columbia Legacy",
+     "label_source": "zookeeper (alt album)",
      "tag": "",
      "released": "1990",
      "why": "Weekly Playlist pick.",
@@ -694,7 +749,12 @@
      "priority": "O",
      "source": "weekly playlist/recon",
      "videoId": "bu6nzpkoFyo",
-     "duration": ""
+     "duration": "",
+     "zk_alt": {
+      "tag": "666121",
+      "album": "89/93: An Anthology",
+      "label": "Columbia Legacy"
+     }
     }
    ]
   }

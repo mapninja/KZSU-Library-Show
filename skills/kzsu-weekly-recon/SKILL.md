@@ -83,3 +83,7 @@ On show day, kzsu-show-build reads this plan, syncs it to Air Order, and builds 
 ## Zookeeper metadata
 
 Read `references/zookeeper_enrichment.md`. Enrich every candidate in the plan (tag, label, album, `zk`) before writing `working_playlist.json`. Labels from Zookeeper, not the web.
+
+## Drive placement
+
+Follow the Drive layout in `references/house_rules.md`: drafts and next-week materials go in `/KZSU/Show Prep/`. Only final artifacts for the coming show go at the `/KZSU/` top level, and the previous week's finals move to `/KZSU/Archive/YYYY/MM-DD/` first.

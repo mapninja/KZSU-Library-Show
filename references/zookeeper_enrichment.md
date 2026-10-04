@@ -59,3 +59,11 @@ Each track in `working_playlist.json` gets `tag`, `label`, `label_source`, and `
 - Archive: compare Zookeeper's aired tracks to the plan; use Zookeeper's label and tag as the record.
 - Intake and review templates: use the library record for label, tag and "already in library" checks.
 - Health check: report any plan with tracks still missing a label.
+
+## Matching rules (learned Oct. 4)
+
+- The library often holds compilations, live albums and singles that also contain the track (for example a Talking Heads best-of for "Once in a Lifetime"). Prefer the album whose title matches the plan's album (case and punctuation ignored). If the plan has no album, prefer the earliest studio album.
+- Apply `tag` and the Zookeeper `label` only on an album match. On a non-match, keep the plan's label, mark it "(verify)", and store the hit under `zk_alt` (tag, album, label) for Stace to choose.
+- Zookeeper sometimes returns an HTML page (rate limit or challenge). Wait 1.5 seconds and retry up to 3 times. Never treat HTML as "not in library."
+- A blank Zookeeper label stays blank; fall back to the label table or past spins.
+- Library labels can differ from the band's usual label (reissues, UK vs US). Use the library spelling anyway.

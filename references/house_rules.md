@@ -32,7 +32,11 @@
 
 ## Files
 - Only delete files Claude created. Move others to `_to_delete/`.
-- Drive: current files at /KZSU/ top level. Prior weeks to /KZSU/Archive/YYYY/MM-DD/.
+- Drive layout:
+  - `/KZSU/` top level: this week's FINAL show artifacts only (Final Show Script, final Notes Sheet, Zookeeper CSV, working_playlist.md).
+  - `/KZSU/Archive/YYYY/MM-DD/`: the previous week's finals. Move them here when the new week's finals are published (Wednesday night build).
+  - `/KZSU/Show Prep/`: next week's staged materials (drafts, Working Show Script, Notes Sheet draft, recon, review suggestions, specialty plans). Promote to top level when final.
+  - Never write to the Drive root. Never delete; move to `/KZSU/_to_delete/`.
 - Reviews live in the KZSU-Album-Reviews repo.
 - Commit and push after each run using the token in `.env`. Never print secrets.
 

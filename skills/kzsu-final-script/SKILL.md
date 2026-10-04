@@ -26,3 +26,7 @@ Specialty weeks: same process. If the plan has a `"theme"`, keep theme talking p
 ## Zookeeper metadata
 
 Read `references/zookeeper_enrichment.md`. Replacement tracks and Stace's adds get the enrichment before the Final Script and CSV are written. Use Zookeeper labels and tags only.
+
+## Drive placement
+
+Follow the Drive layout in `references/house_rules.md`: drafts and next-week materials go in `/KZSU/Show Prep/`. Only final artifacts for the coming show go at the `/KZSU/` top level, and the previous week's finals move to `/KZSU/Archive/YYYY/MM-DD/` first.

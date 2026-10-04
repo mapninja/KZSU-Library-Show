@@ -37,3 +37,7 @@ Read `references/house_rules.md` and `config/playlists.json`. Pre-flight: YTM si
 ## Zookeeper metadata
 
 Read `references/zookeeper_enrichment.md`. Record Zookeeper's label and tag for each aired spin in the archive JSON and use them in the description and notes. Zookeeper is the record of truth.
+
+## Drive placement
+
+Follow the Drive layout in `references/house_rules.md`: drafts and next-week materials go in `/KZSU/Show Prep/`. Only final artifacts for the coming show go at the `/KZSU/` top level, and the previous week's finals move to `/KZSU/Archive/YYYY/MM-DD/` first.

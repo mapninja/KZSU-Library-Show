@@ -46,3 +46,7 @@ A specialty show is a regular Thursday show with a theme. It needs every artifac
 ## Zookeeper metadata
 
 Read `references/zookeeper_enrichment.md`. Enrich every specialty track (tag, label, album) so the Zookeeper CSV is complete for themed shows too.
+
+## Drive placement
+
+Follow the Drive layout in `references/house_rules.md`: drafts and next-week materials go in `/KZSU/Show Prep/`. Only final artifacts for the coming show go at the `/KZSU/` top level, and the previous week's finals move to `/KZSU/Archive/YYYY/MM-DD/` first.

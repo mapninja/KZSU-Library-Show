@@ -64,3 +64,7 @@ Reading and adds work in a hidden tab. If clicks stop responding, finish researc
 ## Zookeeper metadata
 
 Read `references/zookeeper_enrichment.md`. For each pick, look up tag and label in Zookeeper and put the Zookeeper label in the notes file. Mark web-only labels "(verify)".
+
+## Drive placement
+
+Follow the Drive layout in `references/house_rules.md`: drafts and next-week materials go in `/KZSU/Show Prep/`. Only final artifacts for the coming show go at the `/KZSU/` top level, and the previous week's finals move to `/KZSU/Archive/YYYY/MM-DD/` first.
