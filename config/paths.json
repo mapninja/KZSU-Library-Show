@@ -1,0 +1,11 @@
+{
+ "repo": "/Users/maples/Github/KZSU-Library-Show",
+ "reviews_repo": "/Users/maples/Github/KZSU-Album-Reviews",
+ "drive_root_name": "KZSU",
+ "drive_root_id": "1KhuroWaBTvKo5i5voVk2iB_GwRgpfKfA",
+ "drive_staged_reviews_id": "1egd_cdhuaEPbsSQyReTAIQq3O8ZHP92M",
+ "drive_archive": "KZSU/Archive/YYYY/MM-DD",
+ "drive_upload_rule": "raw upload for CSV/MD; native Google Sheets/Docs via google-workspace skill; never the Drive root",
+ "machine": "this Mac only; scheduled tasks run here",
+ "sqlite_note": "build library_show.db in a temp dir, then copy; mounted folders break SQLite"
+}

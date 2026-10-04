@@ -15,7 +15,7 @@ You turn a finished weekly plan into the files DJ Stace takes into the studio. R
 - The YouTube Music "Air Order" playlist, which she edits by hand. **Her edits are the source of truth.**
 
 **Deliverables**, all in `outputs/recon/<show date>/` and then copied to Google Drive:
-1. `working_zookeeper_upload.csv`: the Zookeeper import file, in **reversed** order.
+1. `library_show_playlist_<show date>.csv`: the Zookeeper import file, in **reversed** order.
 2. `working_playlist.md`: the track table with preview links, labels and FCC notes.
 3. `show_script.md`: the on-air script with sets, talk breaks and the checklist.
 4. The YouTube Music "Working" playlist, rewritten to match Air Order in reverse.
@@ -35,13 +35,13 @@ Working is reversed because Stace plays it bottom-up with autoplay off, so each 
 
 **Both playout lists run in reverse:** the YouTube Music Working playlist and the Zookeeper upload CSV. In each, the first on-air track is the last item and the last on-air track is the first item. Her playback setup depends on this, so a forward list breaks the show. Air Order, the show script and working_playlist.md stay forward, because those are for reading and editing.
 
-**Use music.youtube.com only.** Don't use www.youtube.com, not even for its "Move to top" menu. Stace has been clear about this. If a step seems to need youtube.com, stop and ask her.
+**Use music.youtube.com only.** Don't use www.youtube.com. Stace has been clear about this. If a step seems to need youtube.com, stop and ask her.
 
 ## Workflow
 
 ### 1. Load the plan
 - Read `working_playlist.json` and `feedback.json`.
-- Load the Chrome tools with a single ToolSearch call: tabs_context, tabs_create, navigate, javascript_tool, computer, find.
+- Use the built-in browser (`mcp__Claude_Browser__*`, one ToolSearch call) signed in to YTM, or Claude in Chrome. Pre-flight: if YTM shows signed out, stop and write `outputs/health/<date>.md`. Read `references/house_rules.md` and `config/playlists.json` first. Prefer ytmusicapi for writes only if the shell can reach YTM.
 
 ### 2. Read Air Order
 - Open `https://music.youtube.com/playlist?list=PLSosF7JAIkaM`.
@@ -94,7 +94,7 @@ Don't make scripted web requests from the shell with curl or Python. Workspace p
 - Run `python3 scripts/build_weekly_recon.py <show date> working_playlist.json`.
   - Run it from the repo root.
   - If the repo doesn't have the script, copy it from this skill's `scripts/` folder.
-  - It writes `working_playlist.md`, `working_zookeeper_upload.csv` and `working_ytm_playlist.json`, and it leaves SKIP and CUT tracks out.
+  - It writes `working_playlist.md`, `library_show_playlist_<show date>.csv` and `working_ytm_playlist.json`, and it leaves SKIP and CUT tracks out.
 - Check the CSV:
   - **Row order is reversed.** The first row is the last Air Order track, and the last row is Air Order track 1. The script does this with `rows.reverse()`. If a copy of the script writes forward order, reverse the rows before delivering.
   - It has no header row and 6 positional columns: artist, track, album, tag, label, timestamp. A 5-column file shifts durations into the label field.
@@ -116,10 +116,9 @@ Stace's rule: **change only the deltas, then move tracks into position.** Don't 
    - Wait about 3.5 seconds between adds.
    - New saves land at the **top** of Working, which is the end of the show.
    - Add missing tracks in forward Air Order sequence, so later tracks land on top.
-4. **Move** tracks into position. In September 2026, YouTube Music web showed no Move option and no drag handles for this collaborative playlist. So:
-   - Check first whether YTM now offers a move option or drag handles. If it does, use it.
-   - If it doesn't, list the out-of-place tracks for Stace. Offer two fixes: she drags them in the YTM app, or you remove and re-add only the tracks above each misplaced one. Wait for her answer. Don't switch to youtube.com.
-   - Plan the adds in step 3 so that most tracks land in the right place and moves stay rare.
+4. **Flip order with Sort.** Do not move rows one by one. Set the playlist's Sort menu to "Newest first" (new saves then land at the top, so adding in forward Air Order sequence gives a reversed list). If the list is in Air Order, switch Sort from "Manual ordering" to "Newest first". Recheck after every sync, since Sort can revert to manual.
+   - Plan the adds in step 3 so tracks land in the right place and fixes stay rare.
+   - If any tracks are still out of place, list them for Stace. Don't switch to youtube.com.
 5. **Verify.** Reload Working. The videoId list must equal Air Order reversed, with the same count. UI removals sometimes fail without an error, so repeat the fix until it matches.
 
 **Browser safety:**
@@ -134,11 +133,11 @@ Stace's rule: **change only the deltas, then move tracks into position.** Don't 
 ### 7. Deliver to Google Drive
 Put the three files in Stace's **KZSU** folder in Google Drive. Folder ID is `1KhuroWaBTvKo5i5voVk2iB_GwRgpfKfA`, in My Drive. Don't put them in the Drive root.
 - Use the Google Drive connector (create or update file). Find it with ToolSearch, for example "google drive create file."
-- Name them `<show date> working_zookeeper_upload.csv`, `<show date> working_playlist.md` and `<show date> show_script.md`.
+- Name them `library_show_playlist_<show date>.csv` (the Zookeeper upload), `<show date> working_playlist.md` and `<show date> show_script.md`. Current files stay at the KZSU top level. Move the prior week's files to KZSU/Archive/YYYY/MM-DD/.
 - If files with those names are already in the folder, update them instead of creating duplicates.
 - Upload them as raw files, with conversion to Google types turned off, so the CSV stays a CSV and the .md files stay Markdown.
 - If no Drive connector is available, keep the files in `outputs/recon/<show date>/`. Tell Stace which connector to add, and share the local paths.
-- Everything related to KZSU or the show goes in the KZSU folder, never the Drive root. That includes interview scripts, review drafts and skill packages. If you notice KZSU files in the root, move them into the KZSU folder and tell her.
+- Everything related to KZSU goes in the KZSU folder, never the Drive root. That includes interview scripts, review drafts and skill packages. If you notice KZSU files in the root, move them into the KZSU folder and tell her.
 
 ### 8. Summary
 Keep it short: bullets, AP style, no em dashes, no hyperbole.
@@ -153,6 +152,6 @@ Keep it short: bullets, AP style, no em dashes, no hyperbole.
 ## Standing rules
 - Follow AP style. Don't use em dashes. Keep adjectives and hyperbole out of the script and the summaries.
 - Delete only files you created. Move anything else to `_to_delete/`, both locally and in Drive (`KZSU/_to_delete`).
-- Skills for the show go in Drive under `KZSU/Library Show skills/<skill-name>/`. Each folder holds a raw `SKILL.md` whose YAML frontmatter has the name and description, plus a `<skill-name>.skill` zip that includes that `SKILL.md`.
+- Skills for the show go in Drive under `KZSU/Library Show skills/<skill-name>/` (copy kept for backup only; the repo `skills/` folder is the source). Each folder holds a raw `SKILL.md` whose YAML frontmatter has the name and description, plus a `<skill-name>.skill` zip that includes that `SKILL.md`.
 - Never reproduce lyrics.
-- Commit and push repo changes to GitHub when you finish, so Stace's other machines get them. Never commit `.env`, `browser.json` or other secrets. If the push fails, tell her and give her the one command to run.
+- Commit and push repo changes to GitHub when you finish, using the token in `.env`. Never commit `.env`, `browser.json` or other secrets. If the push fails, tell her and give her the one command to run.

@@ -28,6 +28,14 @@ You prepare the paperwork for DJ Stace's KZSU library reviews so she can listen 
 
 Don't make templates for albums she didn't ask for.
 
+## Rebuild update (Oct. 2026)
+
+- **Trigger source is now the Google Sheet** "Stace's KZSU Filtered Review Shelf" in Drive /KZSU/. Rows where the Request checkbox is ticked and "Boilerplate done" is empty are pending. The staged_priority checklist still works as a fallback.
+- **Save templates to the `KZSU-Album-Reviews` repo** (`/Users/maples/Github/KZSU-Album-Reviews`), plus a copy in Drive. Reviews, boilerplate and finals all live in that repo. Commit and push it too.
+- **After each template:** add the album's lead tracks to the "To Review" YTM playlist (ID in `config/playlists.json`) by delta, fill "Boilerplate done" and "Added to To Review" in the sheet. The old "To Review" list is stale; do not clear it without Stace's OK. Just add.
+- **Schedule:** Tuesday and Friday 9 a.m., after the release sweeps.
+- Read `references/house_rules.md` first.
+
 ## Requirements
 
 - **Repo.** The GitHub repo `KZSU-Library-Show` as the workspace. Paths below are relative to its root.

@@ -1,0 +1,76 @@
+{
+ "_note": "Single registry of every playlist. id=null means the playlist must be created on first run, then the id saved here. Order: 'forward' or 'reversed'. mode: how automation may touch it.",
+ "playlists": {
+  "air_order": {
+   "title": "DJ Stace library show Air Order",
+   "id": "PLSosF7JAIkaM",
+   "order": "forward",
+   "mode": "build draft; Stace edits by hand; her edits win",
+   "target_minutes_per_show_hour": 75
+  },
+  "working": {
+   "title": "DJ Stace library show working",
+   "id": "PLLXFGCRcu_qc",
+   "order": "reversed",
+   "mode": "mirror Air Order reversed; deltas only; flip with Sort > Newest first"
+  },
+  "weekly": {
+   "title": "Stace's Weekly Playlist",
+   "id": "PLCLF-Tik2UHk",
+   "order": "forward",
+   "mode": "ADD only; never clear; Stace deletes stale tracks; log her deletes (60-day cool-off)"
+  },
+  "fcc_edit_needed": {
+   "title": "FCC Edit Needed",
+   "id": "PLMduzOohHQLoN-Bq1XuSpyqe1i5JffIad",
+   "order": "forward",
+   "mode": "add strong tracks with FCC hits; label not airable 6am-10pm"
+  },
+  "next_show": {
+   "title": "DJ Stace - Next Show",
+   "id": "PLMduzOohHQLrQzt6w4ep6l2zAwcIzoZVF",
+   "order": "forward",
+   "mode": "READ ONLY; snapshot and diff for new interests"
+  },
+  "to_review": {
+   "title": "To Review",
+   "id": "PLMduzOohHQLoYAPMl9uNRayfpe9uQ3NiA",
+   "order": "forward",
+   "mode": "repopulate: albums with boilerplate requested (one-time reset of stale list needs Stace OK)"
+  },
+  "kzsu_current_adds": {
+   "title": "KZSU Current Adds",
+   "id": null,
+   "order": "forward",
+   "mode": "refresh weekly from Zookeeper Current Adds, filtered by taste profile"
+  },
+  "college_top50": {
+   "title": "College Radio Top 50",
+   "id": null,
+   "order": "forward",
+   "mode": "refresh weekly from indie/rock/alt charts"
+  },
+  "archive_pattern": {
+   "title": "The Library Show with DJ Stace ({Month} {d}, {yyyy} Show)",
+   "id": null,
+   "order": "forward",
+   "mode": "one new playlist per aired show, from Zookeeper log"
+  },
+  "specialty_pattern": {
+   "title": "Library Specialty: {name} {yyyy}",
+   "id": null,
+   "order": "forward",
+   "mode": "2.5 hr suggestion playlist per seasonal or topical show"
+  }
+ },
+ "read_only_taste_sources": "see data/ytm/playlists.json",
+ "excluded_from_taste": [
+  "air_order",
+  "working",
+  "weekly",
+  "college_top50",
+  "kzsu_current_adds",
+  "archive_pattern",
+  "specialty_pattern"
+ ]
+}
