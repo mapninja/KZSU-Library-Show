@@ -30,7 +30,7 @@ Don't make templates for albums she didn't ask for.
 
 ## Rebuild update (Oct. 2026)
 
-- **Trigger source is now the CSV** "Stace's KZSU Filtered Review Shelf.csv" in Drive /KZSU/ (local path in `config/paths.json`). Rows where "Request (x)" has an x and "Boilerplate done" is empty are pending. The staged_priority checklist still works as a fallback.
+- **Trigger source is the Google Sheet** "Stace's KZSU Filtered Review Shelf" (ID in `data/drive_registry.json`), read with `read_file_content`. Rows where "Request (x)" is ticked and "Boilerplate done" is empty are pending. The staged_priority checklist still works as a fallback.
 - **Save templates to the `KZSU-Album-Reviews` repo** (`/Users/maples/Github/KZSU-Album-Reviews`), plus a copy in Drive. Reviews, boilerplate and finals all live in that repo. Commit and push it too.
 - **After each template:** add the album's lead tracks to the "To Review" YTM playlist (ID in `config/playlists.json`) by delta, fill "Boilerplate done" and "Added to To Review" in the sheet. The old "To Review" list is stale; do not clear it without Stace's OK. Just add.
 - **Schedule:** Tuesday and Friday 9 a.m., after the release sweeps.

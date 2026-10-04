@@ -72,3 +72,7 @@ Follow the Drive layout in `references/house_rules.md`: drafts and next-week mat
 ## Review Shelf
 
 After each Tuesday and Friday sweep, run the Filtered Review Shelf refresh in `skills/kzsu-intake/SKILL.md` (new releases only).
+
+## Deploying Sheets and Docs
+
+Edit the CSV or Markdown working copy in `/KZSU/Working/`, then deploy with `skills/kzsu-drive-deploy/SKILL.md` (harvest Stace's edits first, create new, verify, retire old, update the registry).

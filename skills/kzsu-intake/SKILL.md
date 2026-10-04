@@ -29,7 +29,7 @@ Read `references/zookeeper_enrichment.md`. Anything YTM and Zookeeper cannot sup
 
 ## Filtered Review Shelf refresh (standalone procedure)
 
-File: "Stace's KZSU Filtered Review Shelf.csv" at the Drive /KZSU/ top level (local path in `config/paths.json` > `review_shelf_csv`). It is a CSV, edited in place with the file tools. Her ticks are an `x` in the "Request (x)" column. Triggers:
+Working copy: `Working/review_shelf.csv` (local path `config/paths.json` > `review_shelf_csv`). Stace sees the Google Sheet "Stace's KZSU Filtered Review Shelf" at the /KZSU/ top level. Follow `skills/kzsu-drive-deploy/SKILL.md`: harvest her ticks (Request column) from the Sheet into the CSV, add rows, then redeploy the Sheet and retire the old one. Triggers:
 
 1. **Tuesday and Friday release sweeps.** After the sweep, add new releases that fit her taste (singles and albums): artist, title, type, label (Zookeeper spelling), release date, source, fit score, lead track, FCC status.
 2. **New email from Mark Mollineaux** (sender `bufordsharkley@gmail.com`, also `mgm@kzsu.stanford.edu` or `md@kzsu.stanford.edu`) or the Music Dept ("New Music Filtering", "KZSU Music: Adds"). The daily task `kzsu-daily-mark-email-check` looks for mail newer than the last date in `data/staged/email_index.json`. If there is none, it does nothing. If there is, it runs `kzsu-staged-albums-weekly` to append to `data/staged/`, then refreshes the shelf.

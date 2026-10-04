@@ -56,11 +56,11 @@
 
 - Title: `The Library Show on KZSU 90.1 Stanford, CA with DJ Stace (Month d, yyyy Show)`. Always include KZSU. Always add a description (template in `skills/kzsu-archive-playlist/SKILL.md`).
 
-## Drive local folder (edit in place)
-- Drive for desktop syncs `KZSU` to `drive_local` in `config/paths.json`. Use the Read/Write/Edit file tools on that path (the shell cannot see it). Anything written there syncs to Drive and keeps its link.
-- Formats I can edit in place: CSV, Markdown, plain text, JSON. Google Docs and Sheets show up locally only as `.gdoc`/`.gsheet` pointer files and cannot be edited this way.
-- So shared working files that Stace and I both edit are CSV or Markdown. The Filtered Review Shelf is a CSV: ticks are an `x` in the first column ("Request (x)"). Open it in Sheets from Drive if she wants a grid; saving as CSV keeps it editable by me.
-- Read-back of Google-format files still works through the Drive connector (`read_file_content`).
+## Drive: working copies and deployed artifacts
+- Claude edits only CSV and Markdown working copies in `/KZSU/Working/` (local path `working_dir` in `config/paths.json`, written with the file tools; Drive for desktop syncs).
+- Stace sees Google Sheets and Docs, deployed from the working copies by `skills/kzsu-drive-deploy/SKILL.md`: harvest her edits, create the new file, verify, move the old one to `/KZSU/_to_delete/`, update `data/drive_registry.json`. Links change on redeploy.
+- The Zookeeper CSV stays a raw CSV.
+- Ticks in Sheets: any mark (x, TRUE) counts.
 
 ## Promo images
 - Images live in Drive `KZSU/Promo and Merch` (index: `config/promo_images.json`).

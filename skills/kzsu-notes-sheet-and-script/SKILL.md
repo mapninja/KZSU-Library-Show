@@ -39,3 +39,7 @@ Read `references/zookeeper_enrichment.md`. Anything YTM and Zookeeper cannot sup
 ## Drive placement
 
 Follow the Drive layout in `references/house_rules.md`: drafts and next-week materials go in `/KZSU/Show Prep/`. Only final artifacts for the coming show go at the `/KZSU/` top level, and the previous week's finals move to `/KZSU/Archive/YYYY/MM-DD/` first.
+
+## Deploying Sheets and Docs
+
+Edit the CSV or Markdown working copy in `/KZSU/Working/`, then deploy with `skills/kzsu-drive-deploy/SKILL.md` (harvest Stace's edits first, create new, verify, retire old, update the registry).
