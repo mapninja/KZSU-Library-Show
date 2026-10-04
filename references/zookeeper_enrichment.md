@@ -63,7 +63,9 @@ Each track in `working_playlist.json` gets `tag`, `label`, `label_source`, and `
 ## Matching rules (learned Oct. 4)
 
 - The library often holds compilations, live albums and singles that also contain the track (for example a Talking Heads best-of for "Once in a Lifetime"). Prefer the album whose title matches the plan's album (case and punctuation ignored). If the plan has no album, prefer the earliest studio album.
-- Apply `tag` and the Zookeeper `label` only on an album match. On a non-match, keep the plan's label, mark it "(verify)", and store the hit under `zk_alt` (tag, album, label) for Stace to choose.
+- First check the plan's album is right. A library hit on a different studio album or single is often the true source (Oct. 4: "Wordless Chorus" is on Z, "Yoo Hoo" on What Is Not to Love, "Queen" on Too Bright, "Sue's Last Ride" on Horse Stories). Confirm on Discogs or Wikipedia, then fix the plan's album and use that tag and label.
+- **Compilation, live or anthology only:** do not use the compilation as the source. Find the original release (album, year, label) on Discogs or Wikipedia. Prefer the US original label for a KZSU listing. Then look that label up in the Zookeeper label table (`/api/v1/label?filter[name]=...`, exact match; try variants like "X" and "X Records") and use Zookeeper's spelling. Leave `tag` blank (the library does not hold the original), keep the compilation under `zk_alt` so Stace can pull that CD, and set `label_source: "original release, label spelled per Zookeeper"`.
+- If the original label is not in the Zookeeper label table, use the Discogs spelling and add "(not in ZK)" in notes.
 - Zookeeper sometimes returns an HTML page (rate limit or challenge). Wait 1.5 seconds and retry up to 3 times. Never treat HTML as "not in library."
 - A blank Zookeeper label stays blank; fall back to the label table or past spins.
 - Library labels can differ from the band's usual label (reissues, UK vs US). Use the library spelling anyway.
