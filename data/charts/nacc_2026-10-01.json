@@ -1,0 +1,408 @@
+{
+ "source": "https://naccchart.com/web/index.php?r=chart%2Fsummary",
+ "chart_week": "2026-10-01",
+ "playlist": "PLAuYzGJw8qFE",
+ "rows": [
+  {
+   "rank": "1",
+   "artist": "PHOEBE BRIDGERS",
+   "recording": "Lost Weekend",
+   "label": "Dead Oceans",
+   "lead_track": "Lost Weekend",
+   "videoId": "Zbodgc5aAU8"
+  },
+  {
+   "rank": "2",
+   "artist": "BEABADOOBEE",
+   "recording": "Pylon",
+   "label": "Dirty Hit/Interscope",
+   "lead_track": "Pylon",
+   "videoId": "oswCG_N8rGA"
+  },
+  {
+   "rank": "3",
+   "artist": "DINOSAUR JR",
+   "recording": "There Near",
+   "label": "Jagjaguwar",
+   "lead_track": "Several Got Away",
+   "videoId": "KMPf5HB4rvM"
+  },
+  {
+   "rank": "4",
+   "artist": "THE LINDA LINDAS",
+   "recording": "Gotta Get Out",
+   "label": "Reprise/Warner",
+   "lead_track": "Gotta Get Out",
+   "videoId": "Qe7aq1VcuxE"
+  },
+  {
+   "rank": "5",
+   "artist": "THE WOMACK SISTERS",
+   "recording": "The Womack Sisters",
+   "label": "Daptone",
+   "lead_track": "Monster",
+   "videoId": "ZEZy61svN_U"
+  },
+  {
+   "rank": "6",
+   "artist": "INTERPOL",
+   "recording": "This Mirror Weighs A Ton",
+   "label": "Partisan",
+   "lead_track": "This Mirror Weighs a Ton",
+   "videoId": "3PLNnRBXq4c"
+  },
+  {
+   "rank": "7",
+   "artist": "SYLVAN ESSO",
+   "recording": "Ow Infinity",
+   "label": "Psychic Hotline",
+   "lead_track": "On & On (verify album)",
+   "videoId": "M3K36tyC0sQ"
+  },
+  {
+   "rank": "8",
+   "artist": "BECK",
+   "recording": "Ride Lonesome",
+   "label": "Capitol",
+   "lead_track": "Ride Lonesome",
+   "videoId": "ih0dO61AFHY"
+  },
+  {
+   "rank": "9",
+   "artist": "LEON BRIDGES",
+   "recording": "Happiness Anytime",
+   "label": "Columbia/Sony",
+   "lead_track": "Happiness Anytime",
+   "videoId": "esbYK8Vi4ds"
+  },
+  {
+   "rank": "10",
+   "artist": "SLOW PULP",
+   "recording": "Melodie",
+   "label": "Anti-",
+   "lead_track": "Melodie",
+   "videoId": "GL91o-D_aVY"
+  },
+  {
+   "rank": "11",
+   "artist": "WESTSIDE COWBOY",
+   "recording": "It Goes On",
+   "label": "Slow Play/Island",
+   "lead_track": "Kick Stones (The Boys)",
+   "videoId": "W51Ik_1noH8"
+  },
+  {
+   "rank": "12",
+   "artist": "THIS IS LORELEI",
+   "recording": "The Singer In My Band",
+   "label": "Matador",
+   "lead_track": "The Singer in My Band",
+   "videoId": "JwvKEkyavio"
+  },
+  {
+   "rank": "13",
+   "artist": "ALABAMA SHAKES",
+   "recording": "I Must Be Dreaming",
+   "label": "Island/UMG",
+   "lead_track": "Tea Time",
+   "videoId": "OSWwLfJ-DdQ"
+  },
+  {
+   "rank": "14",
+   "artist": "IBIBIO SOUND MACHINE",
+   "recording": "Chopping Mountain",
+   "label": "Merge",
+   "lead_track": "Chopping Mountain",
+   "videoId": "N8CIbc1WbcI"
+  },
+  {
+   "rank": "15",
+   "artist": "SHARP PINS",
+   "recording": "Mod Mayday 23",
+   "label": "Perennial/K",
+   "lead_track": "Tonight's The Night",
+   "videoId": "OL72nmFlhls"
+  },
+  {
+   "rank": "16",
+   "artist": "ALMOST MONDAY",
+   "recording": "THANK GOD IT'S ALMOST MONDAY",
+   "label": "Hollywood",
+   "lead_track": "thank god it's almost monday",
+   "videoId": "aLX8Q2gOWlU"
+  },
+  {
+   "rank": "17",
+   "artist": "FONTAINES DC",
+   "recording": "Marianne [Single]",
+   "label": "XL",
+   "lead_track": "Marianne",
+   "videoId": "ikKBcZg9jUc"
+  },
+  {
+   "rank": "18",
+   "artist": "SWEEPING PROMISES",
+   "recording": "You Say I Romanticize",
+   "label": "Sub Pop",
+   "lead_track": "Shooting Shadows",
+   "videoId": "MiEs7LiuVT4"
+  },
+  {
+   "rank": "19",
+   "artist": "FREAK SLUG",
+   "recording": "Amulet",
+   "label": "Future Classic",
+   "lead_track": "Penny Drop",
+   "videoId": "5l2yqHWHhJc"
+  },
+  {
+   "rank": "20",
+   "artist": "JACK WHITE",
+   "recording": "Frozen Charlotte",
+   "label": "Third Man",
+   "lead_track": "There's Nobody There",
+   "videoId": "frllg0c6rEk"
+  },
+  {
+   "rank": "21",
+   "artist": "SQUIRREL FLOWER",
+   "recording": "Say A Prayer To The Gods Of Getting Going",
+   "label": "Polyvinyl",
+   "lead_track": "Say a Prayer to the Gods of Getting Going",
+   "videoId": "farGtS28C6s"
+  },
+  {
+   "rank": "22",
+   "artist": "BONOBO",
+   "recording": "Distance In Static",
+   "label": "Ninja Tune",
+   "lead_track": "Cycles",
+   "videoId": "DlGKi709uQ0"
+  },
+  {
+   "rank": "23",
+   "artist": "1-800-MIKEY",
+   "recording": "In Yun",
+   "label": "Goner",
+   "lead_track": "IN YUN",
+   "videoId": "nbVJ91oRnhk"
+  },
+  {
+   "rank": "24",
+   "artist": "EZRA COLLECTIVE",
+   "recording": "Here Because Of Hope",
+   "label": "Partisan",
+   "lead_track": "Jubilee Feeling",
+   "videoId": "v02t5ZYnurM"
+  },
+  {
+   "rank": "25",
+   "artist": "ANGELA AUTUMN",
+   "recording": "Believer",
+   "label": "Gar Hole",
+   "lead_track": "Believer",
+   "videoId": "wHPJsVvQhVc"
+  },
+  {
+   "rank": "26",
+   "artist": "SERA CAHOONE",
+   "recording": "I've Missed You All These Years",
+   "label": "Sub Pop",
+   "lead_track": "Not How I Hoped",
+   "videoId": "EtiKSDRN-tk"
+  },
+  {
+   "rank": "27",
+   "artist": "DEATH CAB FOR CUTIE",
+   "recording": "I Built You A Tower",
+   "label": "Anti-",
+   "lead_track": "I Built You A Tower (a)",
+   "videoId": "iCTA9UDgylc"
+  },
+  {
+   "rank": "28",
+   "artist": "BAYONNE",
+   "recording": "Filters",
+   "label": "Nettwerk",
+   "lead_track": "Remedies",
+   "videoId": "oSjMs8IILCk"
+  },
+  {
+   "rank": "29",
+   "artist": "SWAPMEET",
+   "recording": "Mount Zero",
+   "label": "Winspear",
+   "lead_track": "Mount Zero",
+   "videoId": "BbM6B0iYe7E"
+  },
+  {
+   "rank": "30",
+   "artist": "BILLY STRINGS",
+   "recording": "So Much For Goodbyes",
+   "label": "Reprise",
+   "lead_track": "I Wish I Wanted To",
+   "videoId": "o4981ENQ4y0"
+  },
+  {
+   "rank": "31",
+   "artist": "CHAT PILE",
+   "recording": "Who Loves The Sun",
+   "label": "Flenser",
+   "lead_track": "Creature",
+   "videoId": "WfnXezRnUYQ"
+  },
+  {
+   "rank": "32",
+   "artist": "HOVVDY",
+   "recording": "Big World",
+   "label": "Arts & Crafts",
+   "lead_track": "Life So Wide",
+   "videoId": "DwNY8K04K6A"
+  },
+  {
+   "rank": "33",
+   "artist": "FEEBLE LITTLE HORSE",
+   "recording": "Bitknot",
+   "label": "Saddle Creek",
+   "lead_track": "Cradle",
+   "videoId": "72xxuuUxLLE"
+  },
+  {
+   "rank": "34",
+   "artist": "TRUE MOUNTAIN LAUREL",
+   "recording": "Angel So Bad",
+   "label": "Birthday Cake",
+   "lead_track": "Angel So Bad",
+   "videoId": "8p2OFnx9apU"
+  },
+  {
+   "rank": "35",
+   "artist": "BABEHOVEN",
+   "recording": "I See Them, I See Me",
+   "label": "Double Double Whammy",
+   "lead_track": "Monster",
+   "videoId": "5cBspC3VQ-8"
+  },
+  {
+   "rank": "36",
+   "artist": "L'RAIN",
+   "recording": "Fata Morgana",
+   "label": "Mexican Summer",
+   "lead_track": "with time",
+   "videoId": "WJMJdU6ic50"
+  },
+  {
+   "rank": "37",
+   "artist": "CHELSEA WOLFE",
+   "recording": "The Dark",
+   "label": "Loma Vista/Concord",
+   "lead_track": "The Dark",
+   "videoId": "GM3Aw57SGgA"
+  },
+  {
+   "rank": "38",
+   "artist": "PRETTY SICK",
+   "recording": "Anarchy",
+   "label": "Dirty Hit",
+   "lead_track": "Anarchy",
+   "videoId": "sa2xRtw1Vr0"
+  },
+  {
+   "rank": "39",
+   "artist": "THE TUBS",
+   "recording": "Hard Life",
+   "label": "Merge",
+   "lead_track": "Hard Life",
+   "videoId": "M9mxx817Hn8"
+  },
+  {
+   "rank": "40",
+   "artist": "DOTTIE ANDERSSON",
+   "recording": "Andersson Funeral Home",
+   "label": "Royal Mountain",
+   "lead_track": "Who wants to love me",
+   "videoId": "47LTmjMbwek"
+  },
+  {
+   "rank": "41",
+   "artist": "YARD ACT",
+   "recording": "You're Gonna Need A Little Music",
+   "label": "Republic",
+   "lead_track": "You're Gonna Need A Little Music",
+   "videoId": "aGTuvSf85-s"
+  },
+  {
+   "rank": "42",
+   "artist": "DIARY",
+   "recording": "Spiral Bound",
+   "label": "Kanine",
+   "lead_track": "Drive It",
+   "videoId": "SRfm_OfZ1o4"
+  },
+  {
+   "rank": "43",
+   "artist": "ALLAH-LAS",
+   "recording": "Sirenas",
+   "label": "Mexican Summer",
+   "lead_track": "Sirenas",
+   "videoId": "OPLiWvhlMYM"
+  },
+  {
+   "rank": "44",
+   "artist": "ELEPHANT STONE",
+   "recording": "ASHA",
+   "label": "Elephants On Parade",
+   "lead_track": "Broken Arrow",
+   "videoId": "S-iCb5eeZIo"
+  },
+  {
+   "rank": "45",
+   "artist": "ERYKAH BADU AND THE ALCHEMIST",
+   "recording": "Before The World Blows",
+   "label": "Young/Beggars",
+   "lead_track": "Echos",
+   "videoId": "HD3qZUiedPI"
+  },
+  {
+   "rank": "46",
+   "artist": "CHANEL BEADS",
+   "recording": "Your Day Will Come",
+   "label": "Jagjaguwar",
+   "lead_track": "Your Day Will Come",
+   "videoId": "Tf29-RNEsWE"
+  },
+  {
+   "rank": "47",
+   "artist": "COR DE LUX",
+   "recording": "Year Of The Horse",
+   "label": "Ipecac",
+   "lead_track": "The Cringe",
+   "videoId": "CnznS_RRJHA"
+  },
+  {
+   "rank": "48",
+   "artist": "SOFT LOFT",
+   "recording": "Throw The Dice",
+   "label": "PIAS Australia",
+   "lead_track": "Wednesdays",
+   "videoId": "RbePrI2av48"
+  },
+  {
+   "rank": "49",
+   "artist": "LOVE SPELLS",
+   "recording": "Love Is The Law",
+   "label": "RCA",
+   "lead_track": "LOVE IS THE LAW",
+   "videoId": "ex0zk5HRKu0"
+  },
+  {
+   "rank": "50",
+   "artist": "STARCLEANER REUNION",
+   "recording": "Umbrella",
+   "label": "Take Care",
+   "lead_track": "Never Odd or Even",
+   "videoId": "YQ4DkHPhBec"
+  }
+ ],
+ "fcc": "not screened (reference playlist)"
+}

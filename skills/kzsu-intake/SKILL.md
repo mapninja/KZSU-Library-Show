@@ -43,3 +43,11 @@ Rules:
 - If the local Drive path is not available, write `Review Shelf additions YYYY-MM-DD.csv` in `outputs/` and tell Stace. Never recreate the shelf from scratch.
 - Log each refresh in `data/staged/shelf_log.json` (date, trigger, rows added).
 - Summary line: rows added, source, any ticked requests waiting for review templates.
+
+## Learned on the Oct. 4 simulation
+
+- **Email sources.** Mark's "New Music Filtering" and chartman "KZSU Music: Adds" emails go to Outlook; none since June 20 and Sept. 3. The Music Dept promo list (`md@kzsu.stanford.edu`, subjects like "[ADDS 10/6]: ARTIST Title [Label] :: RIYL ...") arrives in the KZSU Gmail account (mapninja@kzsu.stanford.edu). Search both. Promo subjects carry artist, title, label and RIYL, so parse the subject line; open the body only for top-fit items. Store them in `filtering_albums.json` with `source: md_list_promo`.
+- **Current Adds.** The Zookeeper web UI sits behind a Cloudflare Turnstile check, and the API's `filter[location]` needs an API key. Do not solve the check and do not put the API key in a request. Until Stace opens zookeeper.stanford.edu in the browser pane herself (passing the check), or a KZSU Music: Adds email arrives, skip Current Adds and say so.
+- **College Top 50.** Source: NACC 200 summary (https://naccchart.com/web/index.php?r=chart%2Fsummary), read in the browser. Lead track per album from a YTM song search; reject intros under 1:40 and hits whose album does not match; then browse the album. Playlist "College Radio Top 50 (NACC)" (id in config/playlists.json). Save `data/charts/nacc_<week>.json`.
+- **YTM writes** work through the signed-in page's own API (see `skills/kzsu-show-build/references/browser_js.md`, "YTM internal API"): `playlist/create`, `browse/edit_playlist` ADD and MOVE, then verify with `browse`.
+- **Library check** for shelf rows: `/api/v1/album?filter[artist]=` (public), title match.

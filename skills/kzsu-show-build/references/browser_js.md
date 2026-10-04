@@ -123,3 +123,26 @@ JSON.stringify({ title: document.title, chars: txt.length, res });
 - Return counts and section names only, never the text.
 - A prefix match can produce false hits, for example "cockpit" or "pissarro." Check any hit on the word itself before you flag it.
 - If `chars` is 0, the page has no lyrics. Try AZLyrics or Bandcamp, or mark the track UNVERIFIED.
+
+## YTM internal API (from a music.youtube.com tab, signed in)
+
+Faster and more reliable than clicking. Reads need no auth header; writes need SAPISIDHASH built from the page's own cookie (no secrets typed anywhere).
+
+```js
+const cfg = window.ytcfg.data_;
+// read helper: search, browse
+const api = async (ep, body) => (await fetch('/youtubei/v1/' + ep + '?prettyPrint=false', {method:'POST', headers:{'content-type':'application/json'}, body: JSON.stringify({context: cfg.INNERTUBE_CONTEXT, ...body})})).json();
+// write helper: SHA-1 of "timestamp SAPISID origin" from the page cookie
+const sap = document.cookie.split('; ').find(c => c.startsWith('SAPISID=') || c.startsWith('__Secure-3PAPISID=')).split('=')[1];
+const auth = async () => { const ts = Math.floor(Date.now()/1000); const b = await crypto.subtle.digest('SHA-1', new TextEncoder().encode(ts + ' ' + sap + ' https://music.youtube.com')); return 'SAPISIDHASH ' + ts + '_' + [...new Uint8Array(b)].map(x => x.toString(16).padStart(2,'0')).join(''); };
+const post = async (ep, body) => (await fetch('/youtubei/v1/' + ep + '?prettyPrint=false', {method:'POST', credentials:'include', headers:{'content-type':'application/json', Authorization: await auth(), 'X-Origin':'https://music.youtube.com', 'X-Goog-AuthUser':'0'}, body: JSON.stringify({context: cfg.INNERTUBE_CONTEXT, ...body})})).json();
+// songs-only search: params 'EgWKAQIIAWoKEAMQBBAJEAoQBQ%3D%3D'; albums: 'EgWKAQIYAWoKEAMQBBAJEAoQBQ%3D%3D'
+// list a playlist: api('browse', {browseId: 'VL' + playlistId}) then follow continuationCommand tokens
+// add:    post('browse/edit_playlist', {playlistId, actions:[{action:'ACTION_ADD_VIDEO', addedVideoId, dedupeOption:'DEDUPE_OPTION_SKIP'}]})
+// move:   {action:'ACTION_MOVE_VIDEO_BEFORE', setVideoId, movedSetVideoIdSuccessor}  (setVideoIds come from browse)
+// remove: {action:'ACTION_REMOVE_VIDEO', setVideoId, removedVideoId}
+// create: post('playlist/create', {title, description, privacyStatus:'PUBLIC', videoIds:[...]})
+```
+
+- Browse returns the playlist in its displayed sort. Working (newest-first) moves work in display order (tested Oct. 4).
+- Re-read with browse after every write; the first read after a move can lag a few seconds.

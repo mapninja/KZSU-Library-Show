@@ -179,5 +179,13 @@
   "uri": "mail:///messages/AAMkADM5NmY3NjdhLTA5NGUtNDI3Ny05NWZhLTM1MjZmNGEwYTgyYgBGAAAAAACb7FnNMoosTa0CZeouidjJBwB7GGtAB8DVSK0eNVqJJmzrAAAO6O6CAACTAKQ1eZmsQI5qFl55rjpJAAjEtcNhAAA%3D",
   "items_extracted": 2,
   "kind": "afile_adds"
+ },
+ {
+  "date": "2026-10-04",
+  "subject": "md@kzsu promo scan 2026-09-03..2026-10-01 (KZSU Gmail, 18 threads)",
+  "sender": "md@kzsu.stanford.edu",
+  "uri": "gmail:to:md@kzsu.stanford.edu after:2026/09/03",
+  "items_extracted": 11,
+  "kind": "md_list_promo"
  }
 ]

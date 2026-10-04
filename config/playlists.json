@@ -46,9 +46,10 @@
   },
   "college_top50": {
    "title": "College Radio Top 50",
-   "id": null,
+   "id": "PLAuYzGJw8qFE",
    "order": "forward",
-   "mode": "refresh weekly from indie/rock/alt charts"
+   "mode": "refresh weekly from indie/rock/alt charts",
+   "last_refresh": "2026-10-04 (NACC 200, week of Oct. 1)"
   },
   "archive_pattern": {
    "title": "The Library Show on KZSU 90.1 Stanford, CA with DJ Stace ({Month} {d}, {yyyy} Show)",
