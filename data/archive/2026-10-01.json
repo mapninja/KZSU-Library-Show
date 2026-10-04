@@ -1,0 +1,175 @@
+{
+ "show_date": "2026-10-01",
+ "zookeeper_playlist_id": 58260,
+ "spins": [
+  {
+   "artist": "Queens of the Stone Age",
+   "track": "Where the Goth Girls At?",
+   "album": "Perfecth",
+   "label": "Matador Records"
+  },
+  {
+   "artist": "Gilla Band",
+   "track": "Alogia",
+   "album": "Pugnello",
+   "label": "Rough Trade"
+  },
+  {
+   "artist": "Gurriers",
+   "track": "Nobody's Coming to Save You",
+   "album": "Nobody's Coming to Save You",
+   "label": "Pias Recordings"
+  },
+  {
+   "artist": "SOFT PLAY",
+   "track": "Everything and Nothing",
+   "album": "HEAVIER JELLY",
+   "label": "Bmg"
+  },
+  {
+   "artist": "Yard Act",
+   "track": "Over The Barrel",
+   "album": "You're Gonna Need A Little Music",
+   "label": "Republic Records"
+  },
+  {
+   "artist": "Fuzz",
+   "track": "Sleigh Ride",
+   "album": "Fuzz",
+   "label": "In the Red Records"
+  },
+  {
+   "artist": "Segall, Ty",
+   "track": "Play Cowboys",
+   "album": "Chrome",
+   "label": "Drag City"
+  },
+  {
+   "artist": "Krill",
+   "track": "Dominate",
+   "album": "Secret Language",
+   "label": "Exploding In Sound"
+  },
+  {
+   "artist": "Westside Cowboy",
+   "track": "You Could Have Died There On The Dancefloor",
+   "album": "It Goes On",
+   "label": "Island Records"
+  },
+  {
+   "artist": "The Fall",
+   "track": "Mr. Pharmacist",
+   "album": "Bend Sinister",
+   "label": "Beggars Banquet"
+  },
+  {
+   "artist": "Greg Freeman",
+   "track": "Indu",
+   "album": "All Set the Bone",
+   "label": "Transgressive"
+  },
+  {
+   "artist": "Joy Division",
+   "track": "She's Lost Control (2019 Digital Master)",
+   "album": "Unknown Pleasures (Collector's Edition)",
+   "label": "Rhino Records"
+  },
+  {
+   "artist": "Swervedriver",
+   "track": "Rave Down",
+   "album": "Raise",
+   "label": "Creation Records"
+  },
+  {
+   "artist": "Depeche Mode",
+   "track": "Stripped",
+   "album": "Black Celebration",
+   "label": "Sire Records (Modern)"
+  },
+  {
+   "artist": "Fruit Bats",
+   "track": "When U Love Somebody",
+   "album": "Mouthfuls",
+   "label": "Sub Pop Records"
+  },
+  {
+   "artist": "Foxygen",
+   "track": "San Francisco",
+   "album": "We Are The 21st Century Ambassadors Of Peace & Magic",
+   "label": "Jagjaguwar"
+  },
+  {
+   "artist": "Renny Conti",
+   "track": "San Francisco 2005",
+   "album": "Split Second",
+   "label": "Mom + Pop"
+  },
+  {
+   "artist": "Waits, Tom",
+   "track": "The Piano Has Been Drinking (Not Me)",
+   "album": "Small Change",
+   "label": "Asylum Records"
+  },
+  {
+   "artist": "American Music Club",
+   "track": "Johnny Mathis' Feet",
+   "album": "Mercury",
+   "label": "Reprise Records (Modern)"
+  },
+  {
+   "artist": "This Is Lorelei",
+   "track": "Hey Sarah Is It Gonna Rain Forever",
+   "album": "The Singer in My Band",
+   "label": "Matador Records"
+  },
+  {
+   "artist": "Julia Jacklin",
+   "track": "If I Had the Hand of God",
+   "album": "The Gem",
+   "label": "4AD"
+  },
+  {
+   "artist": "Palace",
+   "track": "Made My Bed",
+   "album": "Ox",
+   "label": "Awal"
+  },
+  {
+   "artist": "Hermanos Guti\u00e9rrez",
+   "track": "Los Ojos Del C\u00f3ndor",
+   "album": "Los Ojos Del C\u00f3ndor",
+   "label": "Easy Eye Sound"
+  },
+  {
+   "artist": "Little Barrie",
+   "track": "Luggin' Hurt",
+   "album": "Gravity Freeze",
+   "label": "Easy Eye Sound"
+  },
+  {
+   "artist": "Lex Walton",
+   "track": "Adrian Borland Will Have His Revenge On London",
+   "album": "Ultimate Love Forever",
+   "label": "Sub Pop Records"
+  },
+  {
+   "artist": "Fontaines D.C.",
+   "track": "Marianne",
+   "album": "Dopamine Chamber",
+   "label": "Xl Recordings"
+  },
+  {
+   "artist": "Hell, Richard & The Voidoids",
+   "track": "Blank Generation",
+   "album": "Blank Generation",
+   "label": "Sire Records"
+  }
+ ],
+ "ytm_playlist": {
+  "title": "The Library Show with DJ Stace (October 1, 2026 Show)",
+  "id": "PLTqLTSGi_8aY",
+  "tracks": 27,
+  "missing": []
+ },
+ "note": "Pulled via browser fetch from Zookeeper; sandbox network blocked."
+}

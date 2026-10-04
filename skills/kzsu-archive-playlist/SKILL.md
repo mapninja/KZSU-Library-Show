@@ -16,3 +16,10 @@ Read `references/house_rules.md` and `config/playlists.json`. Pre-flight: YTM si
 5. **Report** tracks not found on YTM, and any on-air changes.
 6. **Save** `data/archive/<date>.json` (aired list, YTM ids, misses). Add the playlist ID to `config/playlists.json` under `archive` list. Commit and push.
 7. **Learn:** write which planned tracks were not aired into `data/daily/feedback.json` ("not_aired") as a weak signal only.
+
+## Notes from the first run (Oct. 2026)
+
+- Zookeeper v2: `GET /api/v2/playlist?filter[date]=YYYY-MM-DD` returns every show that day. Pick the one with `airname` "DJ Stace" and name "The Library" (1800-2000), then `GET /api/v2/playlist/<id>/events`. Keep events with `type: spin`; fields are artist, track, album, label.
+- Run `fetch()` from a zookeeper.stanford.edu tab in the browser. The sandbox shell is blocked.
+- Create the playlist with ONE click on Create. A double click made two playlists once.
+- Search by cleaned artist and title ("Segall, Ty" becomes "Ty Segall"; drop remaster tags).

@@ -73,6 +73,9 @@
    "title": "ZZ DUPLICATE Halloween (merge then delete)",
    "id": "PLOz3GHSbvBi8",
    "mode": "duplicate created by a double click; all tracks merged into the main playlist; Stace deletes it"
+  },
+  "archives": {
+   "2026-10-01": "PLTqLTSGi_8aY"
   }
  },
  "read_only_taste_sources": "see data/ytm/playlists.json",
