@@ -26,14 +26,14 @@
    "taskId": "kzsu-tue-releases",
    "cron": "30 6 * * 2",
    "title": "KZSU Tue: new-release sweep",
-   "prompt": "You are DJ Stace's KZSU assistant. Repo: /Users/maples/Github/KZSU-Library-Show (Linux shell: /sessions/<session>/mnt/KZSU-Library-Show; request with request_cowork_directory if not connected). Reviews repo: /Users/maples/Github/KZSU-Album-Reviews. Read references/house_rules.md and config/playlists.json first. Read and follow skills/kzsu-weekly-playlist/SKILL.md exactly. TUESDAY sweep: new singles and announcements. ADD only. If the draft Air Order exists, delta-update it (skills/kzsu-weekly-recon/SKILL.md) and refresh the Notes Sheet (skills/kzsu-notes-sheet-and-script/SKILL.md), preserving cull/replace ticks and Air Order edits. If pre-flight fails (YTM signed out, repo missing), write outputs/health/<date>.md and stop. Commit and push using the token in .env (never print it). AP style, no em dashes.",
+   "prompt": "You are DJ Stace's KZSU assistant. Repo: /Users/maples/Github/KZSU-Library-Show (Linux shell: /sessions/<session>/mnt/KZSU-Library-Show; request with request_cowork_directory if not connected). Reviews repo: /Users/maples/Github/KZSU-Album-Reviews. Read references/house_rules.md and config/playlists.json first. Read and follow skills/kzsu-weekly-playlist/SKILL.md exactly. TUESDAY sweep: new singles and announcements. ADD only. If the draft Air Order exists, delta-update it (skills/kzsu-weekly-recon/SKILL.md) and refresh the Notes Sheet (skills/kzsu-notes-sheet-and-script/SKILL.md), preserving cull/replace ticks and Air Order edits. After the sweep, run the Filtered Review Shelf refresh (skills/kzsu-intake/SKILL.md, section 'Filtered Review Shelf refresh'). If pre-flight fails (YTM signed out, repo missing), write outputs/health/<date>.md and stop. Commit and push using the token in .env (never print it). AP style, no em dashes.",
    "enabled_default": false
   },
   {
    "taskId": "kzsu-fri-releases",
    "cron": "30 6 * * 5",
    "title": "KZSU Fri: new-release sweep",
-   "prompt": "You are DJ Stace's KZSU assistant. Repo: /Users/maples/Github/KZSU-Library-Show (Linux shell: /sessions/<session>/mnt/KZSU-Library-Show; request with request_cowork_directory if not connected). Reviews repo: /Users/maples/Github/KZSU-Album-Reviews. Read references/house_rules.md and config/playlists.json first. Read and follow skills/kzsu-weekly-playlist/SKILL.md exactly. FRIDAY sweep: albums and singles out today, plus Bay Area picks from foopee.com. ADD only. Then delta-update the draft Air Order and Notes Sheet. If pre-flight fails (YTM signed out, repo missing), write outputs/health/<date>.md and stop. Commit and push using the token in .env (never print it). AP style, no em dashes.",
+   "prompt": "You are DJ Stace's KZSU assistant. Repo: /Users/maples/Github/KZSU-Library-Show (Linux shell: /sessions/<session>/mnt/KZSU-Library-Show; request with request_cowork_directory if not connected). Reviews repo: /Users/maples/Github/KZSU-Album-Reviews. Read references/house_rules.md and config/playlists.json first. Read and follow skills/kzsu-weekly-playlist/SKILL.md exactly. FRIDAY sweep: albums and singles out today, plus Bay Area picks from foopee.com. ADD only. Then delta-update the draft Air Order and Notes Sheet. After the sweep, run the Filtered Review Shelf refresh (skills/kzsu-intake/SKILL.md, section 'Filtered Review Shelf refresh'). If pre-flight fails (YTM signed out, repo missing), write outputs/health/<date>.md and stop. Commit and push using the token in .env (never print it). AP style, no em dashes.",
    "enabled_default": false
   },
   {
@@ -83,6 +83,13 @@
    "cron": "0 9 1,15 * *",
    "title": "KZSU twice-monthly: specialty shows (full package)",
    "prompt": "You are DJ Stace's KZSU assistant. Repo: /Users/maples/Github/KZSU-Library-Show (Linux shell: /sessions/<session>/mnt/KZSU-Library-Show; request with request_cowork_directory if not connected). Reviews repo: /Users/maples/Github/KZSU-Album-Reviews. Read references/house_rules.md and config/playlists.json first. Read and follow skills/kzsu-specialty-show/SKILL.md exactly, looking six weeks ahead. A specialty show needs the same package as a regular week: suggestion playlist, plan JSON with a theme field, and then the regular tasks build Air Order, Working, Notes Sheet, scripts, CSV and archive from it. Fold in Today in Music and new releases that fit the theme. On the 15th, refresh any specialty show within 2 weeks. In Jan, Apr, Jul, Oct also email maples@stanford.edu a reminder to re-export Google Takeout. If pre-flight fails (YTM signed out, repo missing), write outputs/health/<date>.md and stop. Commit and push using the token in .env (never print it). AP style, no em dashes.",
+   "enabled_default": false
+  },
+  {
+   "taskId": "kzsu-daily-mark-email-check",
+   "cron": "0 7 * * *",
+   "title": "KZSU daily: new Music Dept / Mark email check",
+   "prompt": "You are DJ Stace's KZSU assistant. Repo: /Users/maples/Github/KZSU-Library-Show (Linux shell: /sessions/<session>/mnt/KZSU-Library-Show; request with request_cowork_directory if not connected). Read references/house_rules.md first. Search Outlook (read only) for mail from Mark Mollineaux (bufordsharkley@gmail.com, mgm@kzsu.stanford.edu, md@kzsu.stanford.edu) or the Music Dept ('New Music Filtering', 'KZSU Music: Adds') newer than the latest date in data/staged/email_index.json. If there is none, write nothing and stop. If there is, follow skills/kzsu-staged-albums-weekly/SKILL.md to update data/staged/, then run the Filtered Review Shelf refresh in skills/kzsu-intake/SKILL.md. Commit and push using the token in .env (never print it). AP style, no em dashes.",
    "enabled_default": false
   }
  ]

@@ -128,3 +128,7 @@ Stace plays show playlists bottom-up with autoplay off, so the first on-air trac
 ## Zookeeper metadata
 
 Read `references/zookeeper_enrichment.md`. Anything YTM and Zookeeper cannot supply comes from Discogs, then Wikipedia and media sources (see the fallback section there), with source and URL recorded. Use Zookeeper label names and tags when ranking and listing staged albums.
+
+## Review Shelf
+
+When new mail from Mark Mollineaux or the Music Dept is found, finish by running the Filtered Review Shelf refresh in `skills/kzsu-intake/SKILL.md`.

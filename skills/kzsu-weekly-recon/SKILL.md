@@ -87,3 +87,7 @@ Read `references/zookeeper_enrichment.md`. Anything YTM and Zookeeper cannot sup
 ## Drive placement
 
 Follow the Drive layout in `references/house_rules.md`: drafts and next-week materials go in `/KZSU/Show Prep/`. Only final artifacts for the coming show go at the `/KZSU/` top level, and the previous week's finals move to `/KZSU/Archive/YYYY/MM-DD/` first.
+
+## Review Shelf
+
+New release finds also go to the Filtered Review Shelf (see `skills/kzsu-intake/SKILL.md`, refresh procedure).
