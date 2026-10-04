@@ -67,3 +67,20 @@ Each track in `working_playlist.json` gets `tag`, `label`, `label_source`, and `
 - Zookeeper sometimes returns an HTML page (rate limit or challenge). Wait 1.5 seconds and retry up to 3 times. Never treat HTML as "not in library."
 - A blank Zookeeper label stays blank; fall back to the label table or past spins.
 - Library labels can differ from the band's usual label (reissues, UK vs US). Use the library spelling anyway.
+
+## Fallback sources for missing metadata (any field)
+
+Order of authority for every field (label, tag, album, release date, duration, credits, genre, upcoming album):
+
+1. YouTube Music: videoId, duration, album as listed, artist.
+2. Zookeeper: library tag, library album title, label name, category.
+3. Discogs (discogs.com release and master pages): label, catalog number, original release date, country, format, credits, genre/style. Prefer the master release's earliest pressing for original dates, and the US release for the label when Zookeeper has none.
+4. Wikipedia (album and song articles): original release date, label, track listing, chart facts, "on this date" history.
+5. Media: Stereogum, Pitchfork, Bandcamp, label sites and press releases, for new releases and announcements (release date, label, upcoming album).
+
+Rules:
+- Use the browser (Discogs, Wikipedia, media pages) or WebSearch. No scripted web requests from the shell.
+- Set `label_source` and a `date_source` to the source used (`discogs`, `wikipedia`, `media`) and keep the URL in `source_url`.
+- Two sources must agree for a release date on air. If only one source, add "(verify)".
+- Fill every field you can before shipping. Remaining gaps go to "Fill in at the studio" in the script.
+- Never overwrite a Zookeeper value with a lower-ranked one. Show a conflict in notes.

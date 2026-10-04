@@ -16,6 +16,7 @@
 
 ## Zookeeper metadata (all workflows)
 - Every track gets its library tag, album title and label name checked against the Zookeeper API. Zookeeper label names win over web labels. Method, cache and field names: `references/zookeeper_enrichment.md`.
+- Missing metadata (label, dates, credits, genre): YTM, then Zookeeper, then Discogs, then Wikipedia and media sources. Order and rules in the same file.
 - Tag only if the album really contains the track. Missing label = `unverified` and listed in the script.
 
 ## Playlists
