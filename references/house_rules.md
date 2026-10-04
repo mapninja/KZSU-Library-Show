@@ -26,3 +26,11 @@
 
 ## Style
 - AP style, no em dashes, no hyperbole. Bullets. Busy, tech-savvy reader.
+
+## Playlist ordering tips (from Stace and first runs)
+
+- On any playlist page, the Edit (pencil) button lets you enable manual sort and drag tracks. Use it to fix individual positions by hand when needed.
+- Air Order: adds land at the bottom, so add in forward air order.
+- Working: with the default sort, new saves land on top, so adding in forward Air Order sequence yields the reversed list. Verify: first row = last on-air track, last row = first on-air track.
+- Fastest way to fill Working: on the Air Order page, use each row's Action menu > Save to playlist > Working, in forward order.
+- Removals can fail silently. Reload and re-run until the count matches.

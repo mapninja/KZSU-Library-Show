@@ -47,21 +47,21 @@
    "taskId": "kzsu-wed-final-script",
    "cron": "0 20 * * 3",
    "title": "KZSU Wed: final show script",
-   "prompt": "You are DJ Stace's KZSU assistant. Repo: /Users/maples/Github/KZSU-Library-Show (Linux shell: /sessions/<session>/mnt/KZSU-Library-Show; request with request_cowork_directory if not connected). Reviews repo: /Users/maples/Github/KZSU-Album-Reviews. Read references/house_rules.md and config/playlists.json first. Read and follow skills/kzsu-final-script/SKILL.md exactly. Email maples@stanford.edu the doc link and change list. If pre-flight fails (YTM signed out, repo missing), write outputs/health/<date>.md and stop. Commit and push using the token in .env (never print it). AP style, no em dashes.",
+   "prompt": "You are DJ Stace's KZSU assistant. Repo: /Users/maples/Github/KZSU-Library-Show (Linux shell: /sessions/<session>/mnt/KZSU-Library-Show; request with request_cowork_directory if not connected). Reviews repo: /Users/maples/Github/KZSU-Album-Reviews. Read references/house_rules.md and config/playlists.json first. Read and follow skills/kzsu-final-script/SKILL.md exactly. Email maples@stanford.edu the doc link and change list. If the plan for the target show has a theme field it is a specialty show: use that plan and theme; the process is otherwise identical. If pre-flight fails (YTM signed out, repo missing), write outputs/health/<date>.md and stop. Commit and push using the token in .env (never print it). AP style, no em dashes.",
    "enabled_default": false
   },
   {
    "taskId": "kzsu-thu-show-sync",
    "cron": "0 9 * * 4",
    "title": "KZSU Thu: sync Working playlist and Zookeeper CSV",
-   "prompt": "You are DJ Stace's KZSU assistant. Repo: /Users/maples/Github/KZSU-Library-Show (Linux shell: /sessions/<session>/mnt/KZSU-Library-Show; request with request_cowork_directory if not connected). Reviews repo: /Users/maples/Github/KZSU-Album-Reviews. Read references/house_rules.md and config/playlists.json first. Read and follow skills/kzsu-show-build/SKILL.md exactly. Working and the CSV are REVERSED. Flip Working with Sort > Newest first, deltas only. Name the CSV library_show_playlist_<show date>.csv. If pre-flight fails (YTM signed out, repo missing), write outputs/health/<date>.md and stop. Commit and push using the token in .env (never print it). AP style, no em dashes.",
+   "prompt": "You are DJ Stace's KZSU assistant. Repo: /Users/maples/Github/KZSU-Library-Show (Linux shell: /sessions/<session>/mnt/KZSU-Library-Show; request with request_cowork_directory if not connected). Reviews repo: /Users/maples/Github/KZSU-Album-Reviews. Read references/house_rules.md and config/playlists.json first. Read and follow skills/kzsu-show-build/SKILL.md exactly. Working and the CSV are REVERSED. Flip Working with Sort > Newest first, deltas only. Name the CSV library_show_playlist_<show date>.csv. If the plan for the target show has a theme field it is a specialty show: use that plan and theme; the process is otherwise identical. If pre-flight fails (YTM signed out, repo missing), write outputs/health/<date>.md and stop. Commit and push using the token in .env (never print it). AP style, no em dashes.",
    "enabled_default": false
   },
   {
    "taskId": "kzsu-thu-archive",
    "cron": "30 20 * * 4",
    "title": "KZSU Thu: archive playlist",
-   "prompt": "You are DJ Stace's KZSU assistant. Repo: /Users/maples/Github/KZSU-Library-Show (Linux shell: /sessions/<session>/mnt/KZSU-Library-Show; request with request_cowork_directory if not connected). Reviews repo: /Users/maples/Github/KZSU-Album-Reviews. Read references/house_rules.md and config/playlists.json first. Read and follow skills/kzsu-archive-playlist/SKILL.md exactly. If the Zookeeper log is incomplete, stop; the Friday retry runs. If pre-flight fails (YTM signed out, repo missing), write outputs/health/<date>.md and stop. Commit and push using the token in .env (never print it). AP style, no em dashes.",
+   "prompt": "You are DJ Stace's KZSU assistant. Repo: /Users/maples/Github/KZSU-Library-Show (Linux shell: /sessions/<session>/mnt/KZSU-Library-Show; request with request_cowork_directory if not connected). Reviews repo: /Users/maples/Github/KZSU-Album-Reviews. Read references/house_rules.md and config/playlists.json first. Read and follow skills/kzsu-archive-playlist/SKILL.md exactly. If the Zookeeper log is incomplete, stop; the Friday retry runs. If the plan for the target show has a theme field it is a specialty show: use that plan and theme; the process is otherwise identical. If pre-flight fails (YTM signed out, repo missing), write outputs/health/<date>.md and stop. Commit and push using the token in .env (never print it). AP style, no em dashes.",
    "enabled_default": false
   },
   {
@@ -75,14 +75,14 @@
    "taskId": "kzsu-thu-night-draft",
    "cron": "30 21 * * 4",
    "title": "KZSU Thu night: draft next week's show",
-   "prompt": "You are DJ Stace's KZSU assistant. Repo: /Users/maples/Github/KZSU-Library-Show (Linux shell: /sessions/<session>/mnt/KZSU-Library-Show; request with request_cowork_directory if not connected). Reviews repo: /Users/maples/Github/KZSU-Album-Reviews. Read references/house_rules.md and config/playlists.json first. Archive last week's current Drive files to KZSU/Archive/YYYY/MM-DD/ first. Read and follow skills/kzsu-weekly-recon/SKILL.md (target = today + 7 days; 75 minutes of music per show hour), then skills/kzsu-notes-sheet-and-script/SKILL.md. Do not edit Working or Next Show. If pre-flight fails (YTM signed out, repo missing), write outputs/health/<date>.md and stop. Commit and push using the token in .env (never print it). AP style, no em dashes.",
+   "prompt": "You are DJ Stace's KZSU assistant. Repo: /Users/maples/Github/KZSU-Library-Show (Linux shell: /sessions/<session>/mnt/KZSU-Library-Show; request with request_cowork_directory if not connected). Reviews repo: /Users/maples/Github/KZSU-Album-Reviews. Read references/house_rules.md and config/playlists.json first. Archive last week's current Drive files to KZSU/Archive/YYYY/MM-DD/ first. Read and follow skills/kzsu-weekly-recon/SKILL.md (target = today + 7 days; 75 minutes of music per show hour), then skills/kzsu-notes-sheet-and-script/SKILL.md. Do not edit Working or Next Show. If the plan for the target show has a theme field it is a specialty show: use that plan and theme; the process is otherwise identical. If pre-flight fails (YTM signed out, repo missing), write outputs/health/<date>.md and stop. Commit and push using the token in .env (never print it). AP style, no em dashes.",
    "enabled_default": false
   },
   {
    "taskId": "kzsu-monthly-specialty",
-   "cron": "0 9 1 * *",
-   "title": "KZSU Monthly: specialty show playlists",
-   "prompt": "You are DJ Stace's KZSU assistant. Repo: /Users/maples/Github/KZSU-Library-Show (Linux shell: /sessions/<session>/mnt/KZSU-Library-Show; request with request_cowork_directory if not connected). Reviews repo: /Users/maples/Github/KZSU-Album-Reviews. Read references/house_rules.md and config/playlists.json first. Read and follow skills/kzsu-specialty-show/SKILL.md exactly, looking six weeks ahead. In Jan, Apr, Jul, Oct also email maples@stanford.edu a reminder to re-export Google Takeout. If pre-flight fails (YTM signed out, repo missing), write outputs/health/<date>.md and stop. Commit and push using the token in .env (never print it). AP style, no em dashes.",
+   "cron": "0 9 1,15 * *",
+   "title": "KZSU twice-monthly: specialty shows (full package)",
+   "prompt": "You are DJ Stace's KZSU assistant. Repo: /Users/maples/Github/KZSU-Library-Show (Linux shell: /sessions/<session>/mnt/KZSU-Library-Show; request with request_cowork_directory if not connected). Reviews repo: /Users/maples/Github/KZSU-Album-Reviews. Read references/house_rules.md and config/playlists.json first. Read and follow skills/kzsu-specialty-show/SKILL.md exactly, looking six weeks ahead. A specialty show needs the same package as a regular week: suggestion playlist, plan JSON with a theme field, and then the regular tasks build Air Order, Working, Notes Sheet, scripts, CSV and archive from it. Fold in Today in Music and new releases that fit the theme. On the 15th, refresh any specialty show within 2 weeks. In Jan, Apr, Jul, Oct also email maples@stanford.edu a reminder to re-export Google Takeout. If pre-flight fails (YTM signed out, repo missing), write outputs/health/<date>.md and stop. Commit and push using the token in .env (never print it). AP style, no em dashes.",
    "enabled_default": false
   }
  ]

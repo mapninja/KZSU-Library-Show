@@ -130,3 +130,11 @@ Not done yet:
 - Halloween (Oct. 29) playlist.
 - Creating the 3 new playlists (Current Adds, Top 50, archive) and resetting To Review.
 - Stale `.git/*.lock` files need delete permission.
+
+## 9. Oct. 4 progress
+
+- Halloween 2026 playlist built (45 tracks, PLPKWMgnm3SDs). Plan JSON with a theme field still to be written so the regular pipeline can run it.
+- Oct. 1 archive playlist built (PLTqLTSGi_8aY).
+- Oct. 8 draft: Air Order (37 tracks, 2:25) and Working (reversed) replaced. Files in `outputs/recon/2026-10-08/`.
+- Rule added: specialty shows get the full weekly pipeline, with Today in Music and new releases folded in when they fit.
+- Rule added: playlist Edit (pencil) enables manual sort and drag.

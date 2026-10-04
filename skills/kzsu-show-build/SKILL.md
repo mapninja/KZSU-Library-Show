@@ -116,7 +116,7 @@ Stace's rule: **change only the deltas, then move tracks into position.** Don't 
    - Wait about 3.5 seconds between adds.
    - New saves land at the **top** of Working, which is the end of the show.
    - Add missing tracks in forward Air Order sequence, so later tracks land on top.
-4. **Flip order with Sort.** Do not move rows one by one. Set the playlist's Sort menu to "Newest first" (new saves then land at the top, so adding in forward Air Order sequence gives a reversed list). If the list is in Air Order, switch Sort from "Manual ordering" to "Newest first". Recheck after every sync, since Sort can revert to manual.
+4. **Order.** Stace's tip: the playlist page's Edit (pencil) button enables manual sort and drag-and-drop, so individual tracks can be placed by hand. Otherwise flip order with Sort. Do not move rows one by one. Set the playlist's Sort menu to "Newest first" (new saves then land at the top, so adding in forward Air Order sequence gives a reversed list). If the list is in Air Order, switch Sort from "Manual ordering" to "Newest first". Recheck after every sync, since Sort can revert to manual.
    - Plan the adds in step 3 so tracks land in the right place and fixes stay rare.
    - If any tracks are still out of place, list them for Stace. Don't switch to youtube.com.
 5. **Verify.** Reload Working. The videoId list must equal Air Order reversed, with the same count. UI removals sometimes fail without an error, so repeat the fix until it matches.

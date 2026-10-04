@@ -20,3 +20,5 @@ Read `references/house_rules.md` and `config/playlists.json`. Use `anthropic-ski
 9. Archive the previous final script to /KZSU/Archive/. Commit and push.
 
 If Wednesday inputs look untouched, still build, and say "no cull or replace ticks found" in the email.
+
+Specialty weeks: same process. If the plan has a `"theme"`, keep theme talking points and Today in Music/new-release tie-ins in the final script.

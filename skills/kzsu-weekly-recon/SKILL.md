@@ -8,6 +8,10 @@ description: >-
 
 You turn her taste, her staged albums and the week's music news into a plan for the next show. The output is `data/recon/<target show date>/working_playlist.json` in the repo `/Users/maples/Github/KZSU-Library-Show`. The kzsu-show-build skill reads it on show day. If this plan is missing on Thursday morning, the show build stops.
 
+## Specialty weeks
+
+If `data/recon/<target>/working_playlist.json` already exists with a `"theme"` field (built by `kzsu-specialty-show`), this is a specialty show. Keep the theme, update the plan in place, and fold in Today in Music, new releases and Bay Area items that fit the theme. Everything else in this skill (Air Order, Notes Sheet, scripts, CSV) applies unchanged.
+
 ## Dates
 - Target show date = the next Thursday strictly after today. Run Thursday at 9:30 p.m. (after the show and the archive playlist) and it is today + 7. If today is Thursday before 6 p.m. and no plan exists for today, build for today and say so in the summary.
 - Check `data/recon/` first. If a plan for the target date exists, update it instead of overwriting. Keep her edits (`added_by`, `CUT`).
