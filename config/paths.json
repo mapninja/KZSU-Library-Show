@@ -7,5 +7,12 @@
  "drive_archive": "KZSU/Archive/YYYY/MM-DD",
  "drive_upload_rule": "raw upload for CSV/MD; native Google Sheets/Docs via google-workspace skill; never the Drive root",
  "machine": "this Mac only; scheduled tasks run here",
- "sqlite_note": "build library_show.db in a temp dir, then copy; mounted folders break SQLite"
+ "sqlite_note": "build library_show.db in a temp dir, then copy; mounted folders break SQLite",
+ "drive_archive_folder_id": "1Wrb9Ah5q_RM7lCIPYbOhcv59LK7pSeZu",
+ "drive_files": {
+  "notes_sheet_2026-10-08": "1oQ6riHDzAg3qlaSecc6PSaEu8ESQ7RAb_138fF5MpVQ",
+  "working_script_2026-10-08": "1ukySYvvTnd7SE_Zqs8r2bw580rofGKH_t2s6IIdvLSY",
+  "review_shelf": "1_JNWDpkk3QIIUERXNMeptA6szTzrxvulXhr2v69ihM8",
+  "zookeeper_csv_2026-10-08": "1qdrsapOIewzKBuBnIjS_BHGNQ9rGVrfs"
+ }
 }

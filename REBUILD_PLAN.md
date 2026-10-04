@@ -138,3 +138,10 @@ Not done yet:
 - Oct. 8 draft: Air Order (37 tracks, 2:25) and Working (reversed) replaced. Files in `outputs/recon/2026-10-08/`.
 - Rule added: specialty shows get the full weekly pipeline, with Today in Music and new releases folded in when they fit.
 - Rule added: playlist Edit (pencil) enables manual sort and drag.
+
+## 10. Drive status (Oct. 4)
+
+- Uploaded to Drive /KZSU/: Oct. 8 Notes Sheet, Working Show Script, Zookeeper CSV, Filtered Review Shelf (top 40), Archive folder. IDs in `config/paths.json`.
+- Sheets use FALSE text in checkbox columns until the Google Sheets connector is on.
+- Skill zips are not in Drive (binary upload too heavy via connector). Repo `skills/*.skill` is the source.
+- Still open: Oct. 1 archive description reload check, Oct. 8 label fill, Oct. 29 videoIds, Final Script (Wed).
