@@ -1,7 +1,7 @@
 {
  "show_date": "2026-10-08",
  "name": "DJ Stace library show working",
- "note": "Oct. 8 draft built Oct. 4, 2026. Forward air order. Air Order (forward) and Working (reversed) rebuilt from this: 37 tracks, 2:25.",
+ "note": "Oct. 8 draft built Oct. 4, 2026. Forward air order. Air Order (forward) and Working (reversed) rebuilt from this: 37 tracks, 2:25. Triple Shot added Oct. 4: Teenage Fanclub. Air Order and Working updated (39 tracks).",
  "ytm_air_order": {
   "id": "PLSosF7JAIkaM",
   "tracks": 37,
@@ -84,22 +84,6 @@
      "source": "weekly playlist/recon",
      "videoId": "3PLNnRBXq4c",
      "duration": ""
-    },
-    {
-     "artist": "Teenage Fanclub",
-     "track": "Day in the Sun",
-     "album": "Do Not Dare to Dream",
-     "label": "Merge Records",
-     "label_source": "DB upcoming_releases",
-     "tag": "",
-     "released": "2026-10-09 (album)",
-     "why": "Album out Friday, Oct. 9 on Merge. Verify track is on this album.",
-     "fcc_status": "CLEAN",
-     "fcc_note": "CLEAN (LRCLIB)",
-     "priority": "R",
-     "source": "weekly playlist/recon",
-     "videoId": "1c9YDg__yLc",
-     "duration": "3:11"
     }
    ]
   },
@@ -254,6 +238,59 @@
      "source": "weekly playlist/recon",
      "videoId": "CO5GaVJiRwo",
      "duration": "5:15"
+    }
+   ]
+  },
+  {
+   "set": "Hour 2, Thursday Triple Shot: Teenage Fanclub",
+   "tracks": [
+    {
+     "artist": "Teenage Fanclub",
+     "track": "Everything Flows",
+     "album": "A Catholic Education",
+     "label": "Creation Records",
+     "label_source": "knowledge; verify",
+     "tag": "",
+     "released": "1990",
+     "why": "Triple Shot 1 of 3. Early Glasgow jangle, 36 years old.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (LRCLIB)",
+     "priority": "R",
+     "source": "triple shot",
+     "videoId": "TR8_FmGDXQU",
+     "duration": "5:14"
+    },
+    {
+     "artist": "Teenage Fanclub",
+     "track": "Ain't That Enough",
+     "album": "Songs From Northern Britain",
+     "label": "Creation Records",
+     "label_source": "knowledge; verify",
+     "tag": "",
+     "released": "1997",
+     "why": "Triple Shot 2 of 3. Peak-era pop.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (LRCLIB)",
+     "priority": "R",
+     "source": "triple shot",
+     "videoId": "D757lJMBDk0",
+     "duration": "3:43"
+    },
+    {
+     "artist": "Teenage Fanclub",
+     "track": "Day in the Sun",
+     "album": "Do Not Dare to Dream",
+     "label": "Merge Records",
+     "label_source": "DB upcoming_releases",
+     "tag": "",
+     "released": "2026-10-09 (album)",
+     "why": "New single. Album Do Not Dare to Dream out Fri. Oct. 9 on Merge (verify track is on album). Closes the Triple Shot.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (LRCLIB)",
+     "priority": "R",
+     "source": "weekly playlist/recon",
+     "videoId": "1c9YDg__yLc",
+     "duration": "3:11"
     }
    ]
   },
@@ -661,5 +698,59 @@
     }
    ]
   }
- ]
+ ],
+ "triple_shot": {
+  "artist": "Teenage Fanclub",
+  "angle": "New single Day in the Sun (album out Oct. 9) with two catalog picks from 1990 and 1997.",
+  "tracks": [
+   {
+    "artist": "Teenage Fanclub",
+    "track": "Everything Flows",
+    "album": "A Catholic Education",
+    "label": "Creation Records",
+    "label_source": "knowledge; verify",
+    "tag": "",
+    "released": "1990",
+    "why": "Triple Shot 1 of 3. Early Glasgow jangle, 36 years old.",
+    "fcc_status": "CLEAN",
+    "fcc_note": "CLEAN (LRCLIB)",
+    "priority": "R",
+    "source": "triple shot",
+    "videoId": "TR8_FmGDXQU",
+    "duration": "5:14"
+   },
+   {
+    "artist": "Teenage Fanclub",
+    "track": "Ain't That Enough",
+    "album": "Songs From Northern Britain",
+    "label": "Creation Records",
+    "label_source": "knowledge; verify",
+    "tag": "",
+    "released": "1997",
+    "why": "Triple Shot 2 of 3. Peak-era pop.",
+    "fcc_status": "CLEAN",
+    "fcc_note": "CLEAN (LRCLIB)",
+    "priority": "R",
+    "source": "triple shot",
+    "videoId": "D757lJMBDk0",
+    "duration": "3:43"
+   },
+   {
+    "artist": "Teenage Fanclub",
+    "track": "Day in the Sun",
+    "album": "Do Not Dare to Dream",
+    "label": "Merge Records",
+    "label_source": "DB upcoming_releases",
+    "tag": "",
+    "released": "2026-10-09 (album)",
+    "why": "New single. Album Do Not Dare to Dream out Fri. Oct. 9 on Merge (verify track is on album). Closes the Triple Shot.",
+    "fcc_status": "CLEAN",
+    "fcc_note": "CLEAN (LRCLIB)",
+    "priority": "R",
+    "source": "weekly playlist/recon",
+    "videoId": "1c9YDg__yLc",
+    "duration": "3:11"
+   }
+  ]
+ }
 }

@@ -31,7 +31,6 @@ The Library with DJ Stace, KZSU 90.1 FM, 6-8 p.m. PT. Draft built Oct. 4. Final 
 1. **Twisted Teens, "When We First Met"** (1:53) Sub Pop Records. Core artist. Opener type: new single with a hook. Album out Nov. 6. FCC: CLEAN.
 2. **Guided By Voices, "Lost in the Sun"** (2:17) label tbd. Core artist, 92 shows. FCC: CLEAN.
 3. **Interpol, "This Mirror Weighs a Ton"** (n/a) Matador Records. New single. FCC: CLEAN (LRCLIB).
-4. **Teenage Fanclub, "Day in the Sun"** (3:11) Merge Records. Album out Friday, Oct. 9 on Merge. Verify track is on this album. FCC: CLEAN (LRCLIB).
 
 ### Hour 1, Set 2: New and coming up
 
@@ -47,6 +46,14 @@ The Library with DJ Stace, KZSU 90.1 FM, 6-8 p.m. PT. Draft built Oct. 4. Final 
 11. **Talking Heads, "Once in a Lifetime"** (4:20) Sire Records. Remain in Light was released Oct. 8, 1980 (46 years). FCC: CLEAN (LRCLIB).
 12. **Galaxie 500, "Tugboat"** (3:57) Rykodisc. Weekly Playlist pick. FCC: CLEAN (LRCLIB).
 13. **R.E.M., "Man on the Moon"** (5:15) Warner Brothers (Modern). Weekly Playlist pick. FCC: CLEAN (LRCLIB).
+
+### Hour 2, Thursday Triple Shot: Teenage Fanclub
+
+Intro: One band, three songs. Teenage Fanclub, Glasgow, new album Do Not Dare to Dream out Friday on Merge.
+
+- **Teenage Fanclub, "Everything Flows"** (5:14) A Catholic Education, 1990. Early jangle. FCC: CLEAN (LRCLIB).
+- **Teenage Fanclub, "Ain't That Enough"** (3:43) Songs From Northern Britain, 1997. FCC: CLEAN (LRCLIB).
+- **Teenage Fanclub, "Day in the Sun"** (3:11) Merge Records. New single. Verify track is on the album. FCC: CLEAN (LRCLIB).
 
 ### Hour 2, Set 4: Bay Area this week and next
 
