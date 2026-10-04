@@ -124,3 +124,7 @@ AP style, no em dashes, no hyperbole. Use bullet lists and write for a busy, tec
 ## YouTube Music playlists (if ever asked)
 
 Stace plays show playlists bottom-up with autoplay off, so the first on-air track goes at the bottom. The working playlist "DJ Stace library show working" is sorted by date added, newest first.
+
+## Zookeeper metadata
+
+Read `references/zookeeper_enrichment.md`. Use Zookeeper label names and tags when ranking and listing staged albums.

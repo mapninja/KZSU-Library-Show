@@ -80,3 +80,6 @@ Short bullets, AP style, no em dashes, no hyperbole.
 ## Handoff
 On show day, kzsu-show-build reads this plan, syncs it to Air Order, and builds the files. Scheduled task: `kzsu-thursday-recon`, Thursday 9:30 p.m. PT. Next: invoke `kzsu-notes-sheet-and-script` to build the Notes Sheet and Working Show Script.
 
+## Zookeeper metadata
+
+Read `references/zookeeper_enrichment.md`. Enrich every candidate in the plan (tag, label, album, `zk`) before writing `working_playlist.json`. Labels from Zookeeper, not the web.

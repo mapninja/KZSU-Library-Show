@@ -22,3 +22,7 @@ Read `references/house_rules.md` and `config/playlists.json` first. Pre-flight: 
 7. **Summary.** New staged albums, adds and chart changes, ticked requests waiting.
 
 Tick handling is done by `kzsu-review-template` (Tue and Fri).
+
+## Zookeeper metadata
+
+Read `references/zookeeper_enrichment.md`. Check each staged and Current Adds album against the library record. Store tag, label and in-library status on the shelf rows. Use Zookeeper label names.

@@ -156,3 +156,7 @@ Keep it short: bullets, AP style, no em dashes, no hyperbole.
 ## Style
 
 AP style in your summaries. Inside the template, follow her format, including her `Label:` and `Release Date:` conventions. No em dashes anywhere, no hyperbole. Code you write or edit must carry beginner-friendly inline comments.
+
+## Zookeeper metadata
+
+Read `references/zookeeper_enrichment.md`. Pre-fill label and library tag from the Zookeeper album record. Use the Zookeeper label spelling, and note if the album is not in the library.

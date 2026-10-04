@@ -14,6 +14,10 @@
 - Place it as its own set at the start of Hour 2. Counts toward the 75 minutes per hour.
 - Plan JSON field: `"triple_shot": {"artist": "", "angle": "", "tracks": [3 track objects]}` plus a set named "Thursday Triple Shot: <artist>". Script gets a short intro line and a one-line setup per track.
 
+## Zookeeper metadata (all workflows)
+- Every track gets its library tag, album title and label name checked against the Zookeeper API. Zookeeper label names win over web labels. Method, cache and field names: `references/zookeeper_enrichment.md`.
+- Tag only if the album really contains the track. Missing label = `unverified` and listed in the script.
+
 ## Playlists
 - music.youtube.com only. Never youtube.com.
 - Prefer ytmusicapi for playlist work when the shell can reach YTM. Sandbox currently gets 403, so the signed-in browser is the working route. Verify every edit by reload.

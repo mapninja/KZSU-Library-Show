@@ -22,3 +22,7 @@ Read `references/house_rules.md` and `config/playlists.json`. Use `anthropic-ski
 If Wednesday inputs look untouched, still build, and say "no cull or replace ticks found" in the email.
 
 Specialty weeks: same process. If the plan has a `"theme"`, keep theme talking points and Today in Music/new-release tie-ins in the final script.
+
+## Zookeeper metadata
+
+Read `references/zookeeper_enrichment.md`. Replacement tracks and Stace's adds get the enrichment before the Final Script and CSV are written. Use Zookeeper labels and tags only.

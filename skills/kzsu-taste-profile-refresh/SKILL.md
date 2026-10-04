@@ -217,3 +217,7 @@ AP style, no em dashes, no hyperbole. Use bullet lists and write for a busy, tec
 | `config/taste_profile.json`, `config/history/` | The profile and its dated archive |
 | `outputs/taste_profile/changes_<date>.md` | This run's report |
 | `TASTE_PROFILE.md` | Human-readable profile |
+
+## Zookeeper metadata
+
+Read `references/zookeeper_enrichment.md`. Label affinity uses Zookeeper label names (normalized), so "Matador" and "Matador Records" count as one.

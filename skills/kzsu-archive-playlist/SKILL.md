@@ -33,3 +33,7 @@ Read `references/house_rules.md` and `config/playlists.json`. Pre-flight: YTM si
 
 - Build the artist lists from the aired tracks (not the plan). Name a theme or Today in Music tie-in only if it matches what aired. For specialty shows, name the theme, for example "Halloween".
 - Update `data/archive/<date>.json` with the final title and description.
+
+## Zookeeper metadata
+
+Read `references/zookeeper_enrichment.md`. Record Zookeeper's label and tag for each aired spin in the archive JSON and use them in the description and notes. Zookeeper is the record of truth.

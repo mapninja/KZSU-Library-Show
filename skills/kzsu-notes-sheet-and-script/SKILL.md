@@ -31,3 +31,7 @@ Read `references/house_rules.md` and `config/playlists.json`. Use `anthropic-ski
 2. Create or update the sheet. Create or update the doc.
 3. Run at: Thursday 9:30 p.m. (after the draft), and again after Tuesday and Friday sweeps if the plan changed.
 4. Commit and push `data/recon/`. Summary: row count, FCC flags, links.
+
+## Zookeeper metadata
+
+Read `references/zookeeper_enrichment.md`. Label, album and a Tag column in the sheet come from Zookeeper fields in the plan. Re-run the enrichment for tracks Stace added or that replaced a cull. Show the label as Zookeeper spells it.

@@ -12,3 +12,7 @@ description: >-
 4. Read `outputs/health/*.md` from the last 7 days and quote the reasons for any stops.
 5. Email maples@stanford.edu a 5-line status: OK or what needs her. AP style.
 6. Quarterly (Jan, Apr, Jul, Oct 1): remind her to re-export Google Takeout.
+
+## Zookeeper metadata
+
+Read `references/zookeeper_enrichment.md`. Report plans that still have tracks with no tag or label, and cache misses in `data/zk_cache.json`.

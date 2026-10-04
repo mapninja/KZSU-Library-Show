@@ -42,3 +42,7 @@ A specialty show is a regular Thursday show with a theme. It needs every artifac
 
 - The monthly task builds the suggestion playlist and the plan six weeks out, and again refreshes it two weeks before the show so new releases and Today in Music are current.
 - The Thursday-night draft, Wednesday final script, Thursday sync and Thursday archive tasks check `data/recon/<show date>/working_playlist.json` for a `"theme"` field and use it if present.
+
+## Zookeeper metadata
+
+Read `references/zookeeper_enrichment.md`. Enrich every specialty track (tag, label, album) so the Zookeeper CSV is complete for themed shows too.

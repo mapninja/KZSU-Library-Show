@@ -155,3 +155,7 @@ Keep it short: bullets, AP style, no em dashes, no hyperbole.
 - Skills for the show go in Drive under `KZSU/Library Show skills/<skill-name>/` (copy kept for backup only; the repo `skills/` folder is the source). Each folder holds a raw `SKILL.md` whose YAML frontmatter has the name and description, plus a `<skill-name>.skill` zip that includes that `SKILL.md`.
 - Never reproduce lyrics.
 - Commit and push repo changes to GitHub when you finish, using the token in `.env`. Never commit `.env`, `browser.json` or other secrets. If the push fails, tell her and give her the one command to run.
+
+## Zookeeper metadata
+
+Read `references/zookeeper_enrichment.md`. Step 4 applies to EVERY track, not only ones she added. Re-run the enrichment for the whole plan, fill `tag`, `label`, `label_source`, and write Zookeeper label names into the CSV, working_playlist.md and script. List any track still missing a label under "Fill in at the studio."

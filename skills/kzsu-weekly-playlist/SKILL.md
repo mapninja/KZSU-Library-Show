@@ -60,3 +60,7 @@ Target show date: the next Thursday that has not aired. If today is Thursday aft
 ## If the browser tab is hidden
 
 Reading and adds work in a hidden tab. If clicks stop responding, finish research and files, then ask Stace to bring the browser pane forward (Cmd+Shift+B).
+
+## Zookeeper metadata
+
+Read `references/zookeeper_enrichment.md`. For each pick, look up tag and label in Zookeeper and put the Zookeeper label in the notes file. Mark web-only labels "(verify)".
