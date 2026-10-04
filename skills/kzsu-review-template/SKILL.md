@@ -122,6 +122,7 @@ Read the result top to bottom:
 - FCC track numbers match the track lines.
 - No lyric text anywhere.
 - No em dashes. Replace any that crept in from source text.
+- The template ends with a plain `Sources:` list (outlets, label and Bandcamp pages, lyric pages checked). Stace keeps it in the posted review, so never label it as something to delete.
 
 ### 5. Deliver
 

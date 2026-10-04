@@ -145,8 +145,8 @@ def render(info: dict) -> str:
             bits.append(fcc_text(t))
         out.append(f"{num}. {t['title']} {two_digit_runtime(t.get('runtime'))} - {' '.join(bits)} [notes]")
 
-    # Everything below the line is for Stace, not for Zookeeper.
-    out += ["", "---", "Research sources (delete before posting):"]
+    # Sources stay in the posted review (Stace keeps them), so no "delete" note.
+    out += ["", "Sources:"]
     out += [f"- {s}" for s in info.get("sources", []) if s]
     for q in quotes:
         if q.get("url"):
@@ -159,7 +159,6 @@ def render(info: dict) -> str:
             out.append(f"- {k}: {v}")
     if info.get("zookeeper_tag"):
         out.append(f"- Zookeeper tag: {info['zookeeper_tag']}")
-    out.append("- Pace comes from BPM data (Deezer, songbpm or tunebat). BPM can read double or half, so trust your ears.")
     return "\n".join(out) + "\n"
 
 
