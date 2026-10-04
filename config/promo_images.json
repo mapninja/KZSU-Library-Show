@@ -1,0 +1,44 @@
+{
+ "drive_folder": "KZSU/Promo and Merch",
+ "drive_folder_id": "1sgnKcsUf_qiHBUFVJRNHQpYzZ3IJiOrq",
+ "note": "Images for YTM playlist thumbnails and other promo. Uses are suggestions based on file names; Stace confirms. YTM has an 'Edit thumbnail' button on each owned playlist page (image upload via a file input).",
+ "files": {
+  "fire eater promo": {
+   "id": "1RidNvD9ywl2pG-ZYj71lGNfN2YkJsZi3",
+   "suggested_use": ""
+  },
+  "The Zoo #1": {
+   "id": "1lr2-VagdqwM12OOCyAttqCFtnzi0xieG",
+   "suggested_use": ""
+  },
+  "The Zoo #2": {
+   "id": "13PtDmzUSjCGPtVM1j3yCBwVBlJONAbWg",
+   "suggested_use": ""
+  },
+  "Maverick Campus Promo": {
+   "id": "15ip6b_rxqlTAKttRv5f7Tj2yEwlfva0I",
+   "suggested_use": ""
+  },
+  "Devil Promo": {
+   "id": "1IBK3NOYyhgr9HPjwiTZzgG74xdLN0RyG",
+   "suggested_use": "Halloween specialty playlist"
+  },
+  "Cassettes Promo": {
+   "id": "1YBCUFDcSzIFGdfE4D2qBU2SwUyebJRpl",
+   "suggested_use": ""
+  },
+  "bike promo": {
+   "id": "10D7phAfa8EJ9_Jtxb3WL79eIcz7_Sv48",
+   "suggested_use": ""
+  },
+  "zebra_white.png": {
+   "id": "1L-0Qk64zWyCeid5YfqQkB-w5urQqbjER",
+   "suggested_use": "logo"
+  },
+  "kzsuheartlogo.png": {
+   "id": "1Kxv_xXoya7wMjBga9kMvOGJdqXu0I7Ts",
+   "suggested_use": "logo"
+  }
+ },
+ "playlist_assignments": {}
+}

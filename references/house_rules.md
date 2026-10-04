@@ -55,3 +55,7 @@
 ## Archive playlist naming
 
 - Title: `The Library Show on KZSU 90.1 Stanford, CA with DJ Stace (Month d, yyyy Show)`. Always include KZSU. Always add a description (template in `skills/kzsu-archive-playlist/SKILL.md`).
+
+## Promo images
+- Images live in Drive `KZSU/Promo and Merch` (index: `config/promo_images.json`). Use them for YTM playlist thumbnails (playlist page > Edit thumbnail) and promo. Assignments per playlist go in `playlist_assignments`.
+- Upload needs the image bytes inside the music.youtube.com page, which the sandbox cannot supply directly. Until a route exists, ask Stace to set thumbnails by hand or confirm a method.
