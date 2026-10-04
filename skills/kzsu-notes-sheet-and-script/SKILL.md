@@ -22,6 +22,7 @@ Read `references/house_rules.md` and `config/playlists.json`. Use `anthropic-ski
 - Native Google Doc in /KZSU/. Readable on a laptop: big headings per set, one block per track.
 - Each track block: artist, track, album, label, release date, playtime, FCC flag, notes, talk points, inline.
 - FCC items are called out at the top of the doc and on the track, with the exact word and count.
+- Mark the **Thursday Triple Shot** set (one artist, three songs) with a bold header and a one-line intro in the script, plus one setup line per track. Never cull the set partially without asking: if one track is culled, flag that the segment drops to two.
 - Include a **Bay Area shows air break** after hour 1 or between sets: 3 to 5 upcoming shows from http://www.foopee.com/punk/the-list/ that match her taste, prioritizing KZSU giveaway venues. Venue, date, one line each.
 - Include time checks, station ID reminder at the top of each hour, and total runtime vs 2:00.
 

@@ -48,6 +48,7 @@ Cover releases from 2 weeks before today through the target show date.
 ### 3. Rank and group
 - Priority: R required, O optional, X opportunistic. Staged albums and singles she already airs rank higher.
 - Plan 75 minutes of music per show hour, about 2:30 total, so she culls about 30 minutes. Hour 1 Sets 1-3, Hour 2 Sets 4-7, then "Closers and bench." Source first from Stace's Weekly Playlist, then fill gaps. Name sets by theme. Group Bay Area acts together.
+- **Thursday Triple Shot (every week):** pick one artist and three tracks per `references/house_rules.md`. Prefer a core artist with a new release in the window. The artist may span bands or collabs. Skip artists in `data/triple_shot_history.json` (last 8). Make it the first set of Hour 2, named "Thursday Triple Shot: <artist>", and add `triple_shot` to the plan. Append the pick to the history file. FCC-screen all three.
 - Write `data/recon/<target>/candidates.json` first (forward air order, same format), then the plan.
 
 ### 4. FCC screen

@@ -6,6 +6,14 @@
 - Working playlist and Zookeeper CSV run REVERSED (last on-air track first). Confirmed by Stace.
 - Zookeeper CSV: `library_show_playlist_YYYY-MM-DD.csv`, UTF-8, 6 columns: artist, track, album, tag, label, timestamp. All fields quoted, comma delimited. Blank row = mic break. Tag only if that album really has the track.
 
+## Thursday Triple Shot (weekly segment)
+- One artist, three songs, played back to back as a named segment. Plan it every week, specialty weeks included.
+- Flexible: the artist can span bands, side projects, solo work or collabs (for example Jack White across The White Stripes, The Raconteurs and solo).
+- Best case: at least one track is a new release (this month's single or album). Otherwise anchor to an anniversary or a Bay Area date.
+- Pick three tracks that show range. All three FCC-clean or flagged. No repeats of last 8 Triple Shot artists (see `data/triple_shot_history.json`).
+- Place it as its own set at the start of Hour 2. Counts toward the 75 minutes per hour.
+- Plan JSON field: `"triple_shot": {"artist": "", "angle": "", "tracks": [3 track objects]}` plus a set named "Thursday Triple Shot: <artist>". Script gets a short intro line and a one-line setup per track.
+
 ## Playlists
 - music.youtube.com only. Never youtube.com.
 - Prefer ytmusicapi for playlist work when the shell can reach YTM. Sandbox currently gets 403, so the signed-in browser is the working route. Verify every edit by reload.

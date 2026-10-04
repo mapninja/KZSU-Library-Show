@@ -28,7 +28,8 @@ A specialty show is a regular Thursday show with a theme. It needs every artifac
 3. **Air Order and Working** playlists built from the plan the same way (Air Order forward, Working reversed).
 4. **Notes Sheet and Working Show Script** (`kzsu-notes-sheet-and-script`), with theme talking points.
 5. **Final Show Script** (Wednesday), **Zookeeper CSV** (reversed, Thursday morning) and **archive playlist** (Thursday night). The regular tasks already run these; they just use the specialty plan for that week.
-6. **Bay Area shows break** and FCC callouts as usual.
+6. **Thursday Triple Shot** still runs: one artist, three songs, on theme if possible.
+7. **Bay Area shows break** and FCC callouts as usual.
 
 ### Fold in the calendar, when it fits the theme
 
