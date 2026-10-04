@@ -166,10 +166,11 @@
   }
  ],
  "ytm_playlist": {
-  "title": "The Library Show with DJ Stace (October 1, 2026 Show)",
+  "title": "The Library Show on KZSU 90.1 Stanford, CA with DJ Stace (October 1, 2026 Show)",
   "id": "PLTqLTSGi_8aY",
   "tracks": 27,
-  "missing": []
+  "missing": [],
+  "description_set": "2026-10-04"
  },
  "note": "Pulled via browser fetch from Zookeeper; sandbox network blocked."
 }

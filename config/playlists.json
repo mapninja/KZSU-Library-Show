@@ -51,10 +51,10 @@
    "mode": "refresh weekly from indie/rock/alt charts"
   },
   "archive_pattern": {
-   "title": "The Library Show with DJ Stace ({Month} {d}, {yyyy} Show)",
+   "title": "The Library Show on KZSU 90.1 Stanford, CA with DJ Stace ({Month} {d}, {yyyy} Show)",
    "id": null,
    "order": "forward",
-   "mode": "one new playlist per aired show, from Zookeeper log"
+   "mode": "one new playlist per aired show, from Zookeeper log; always set a description (see kzsu-archive-playlist)"
   },
   "specialty_pattern": {
    "title": "Library Specialty: {name} {yyyy}",

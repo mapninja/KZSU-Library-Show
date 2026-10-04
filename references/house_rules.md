@@ -34,3 +34,7 @@
 - Working: with the default sort, new saves land on top, so adding in forward Air Order sequence yields the reversed list. Verify: first row = last on-air track, last row = first on-air track.
 - Fastest way to fill Working: on the Air Order page, use each row's Action menu > Save to playlist > Working, in forward order.
 - Removals can fail silently. Reload and re-run until the count matches.
+
+## Archive playlist naming
+
+- Title: `The Library Show on KZSU 90.1 Stanford, CA with DJ Stace (Month d, yyyy Show)`. Always include KZSU. Always add a description (template in `skills/kzsu-archive-playlist/SKILL.md`).
