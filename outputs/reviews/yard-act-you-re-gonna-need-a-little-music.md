@@ -15,7 +15,7 @@ Release Notes:
 Leeds band's third album.
 Produced by Justin Meldal-Johnsen (Beck, St. Vincent, Nine Inch Nails); finished at his Los Angeles studio.
 Critics call it their most melodic and groove-driven set, with less of the earlier sneer.
-Single Redeemer. NACC #41 the week of Oct. 1. Seven of 11 tracks carry FCC words.
+Single Redeemer. NACC #41 the week of Oct. 1. Six of 11 tracks carry FCC words.
 released July 17, 2026
 
 FCCs: 1,3,6,7,8,9

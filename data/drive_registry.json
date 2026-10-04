@@ -40,7 +40,23 @@
    "retired": [
     "1_JNWDpkk3QIIUERXNMeptA6szTzrxvulXhr2v69ihM8",
     "1dzVYPNUWrSQ9SBTPEs676fOu9xwuRt-GJzTOqsnrV6M"
-   ]
+   ],
+   "note": "Working CSV updated 2026-10-04 with ticks, template links and 2 Twisted Teens rows; Sheet redeploy batched with the Tuesday sweep."
+  },
+  "review_templates_2026-10-04": {
+   "folder": "Staged Reviews/Review Templates",
+   "docs": {
+    "Twisted Teens - Blame the Clown": "1X2qesWM8xLY6uKppIrOJlhD-alJlwZe9ez5G5jyMRcs",
+    "Twisted Teens - Florida Water Blues": "1Reb0GuQBlgVgIe6rXSLls22nFO4kmdp5bWzm2djV1hE",
+    "This Is Lorelei - The Singer in My Band": "1aHavvrqi26mQA3lKnA0a1NE5qHCPBxHLUVnCFQCXtBE",
+    "Yard Act - You're Gonna Need A Little Music": "1e4QGH7-UAEuNMQXoZAGkznlBgNlCcP02NZu2JrdXkK0",
+    "Sylvan Esso - Ow Infinity": "1ewFlonfE6806RbfZwg-pWpZ3cwK48gq1P9BEXop6mWM",
+    "Guided By Voices - Crawlspace of the Pantheon": "13pR_w9Pp5Ia5_oUtbYxgdF0mSn3Guhm60dPb_KJUsUM",
+    "Little Barrie - Gravity Freeze": "1w2SVe3QAMWw0Po3prJBnsHr7byUfvJPamIBScZzDGWg",
+    "Dread Spectre Council - Thetans": "1EeT0qeEAk-4LKpnrcSNFsnCub7SYJuR0NEXBhWc69m0",
+    "Sluice - Companion": "199V4OpbqtbifPRGPQcvov2aK7LzPxHQ_Y0SlRkXOowA"
+   },
+   "working": "KZSU-Album-Reviews repo"
   }
  },
  "folders": {

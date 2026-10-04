@@ -38,7 +38,7 @@
   - `/KZSU/Archive/YYYY/MM-DD/`: the previous week's finals. Move them here when the new week's finals are published (Wednesday night build).
   - `/KZSU/Show Prep/`: next week's staged materials (drafts, Working Show Script, Notes Sheet draft, recon, review suggestions, specialty plans). Promote to top level when final.
   - Never write to the Drive root. Never delete; move to `/KZSU/_to_delete/`.
-- Reviews live in the KZSU-Album-Reviews repo.
+- Reviews live in the KZSU-Album-Reviews repo. KZSU-Album-Reviews pushes go to branch `master` (not main). Add only your own files there; Stace keeps uncommitted work in that repo.
 - Commit and push after each run using the token in `.env`. Never print secrets.
 
 ## Style
@@ -65,3 +65,6 @@
 ## Promo images
 - Images live in Drive `KZSU/Promo and Merch` (index: `config/promo_images.json`).
 - Stace sets playlist thumbnails by hand each week (playlist page > Edit thumbnail). Skills do not upload thumbnails. In the weekly summary, remind her which new playlists need one.
+
+## YTM write limits
+- After about 30 API playlist writes in one session (Oct. 4), YTM returned 403 PERMISSION_DENIED for all edits. Batch adds in one edit_playlist call per playlist, pause between playlists, and queue failures in `data/daily/pending_ytm_writes.json` for the next run.
