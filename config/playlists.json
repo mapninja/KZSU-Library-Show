@@ -61,6 +61,18 @@
    "id": null,
    "order": "forward",
    "mode": "2.5 hr suggestion playlist per seasonal or topical show"
+  },
+  "specialty_halloween_2026": {
+   "title": "Library Specialty: Halloween 2026",
+   "id": "PLPKWMgnm3SDs",
+   "order": "forward",
+   "mode": "suggestion playlist for Oct. 29, 2026 show; Stace culls",
+   "tracks": 45
+  },
+  "_duplicate_to_delete": {
+   "title": "ZZ DUPLICATE Halloween (merge then delete)",
+   "id": "PLOz3GHSbvBi8",
+   "mode": "duplicate created by a double click; all tracks merged into the main playlist; Stace deletes it"
   }
  },
  "read_only_taste_sources": "see data/ytm/playlists.json",
