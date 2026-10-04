@@ -1,0 +1,116 @@
+{
+ "artist": "Guided By Voices",
+ "album": "Crawlspace of the Pantheon",
+ "label": "GBV Inc.",
+ "release_date": "2026-05-29",
+ "release_notes": [
+  "Lineup: Robert Pollard (vocals), Doug Gillard (lead guitar), Bobby Bare Jr. (rhythm guitar), Mark Shue (bass), Kevin March (drums).",
+  "12 songs in about 37 minutes; reviewers note a turn back to loud guitar rock after recent prog-leaning records.",
+  "Opener Lost in the Sun. You have aired GBV on 92 shows.",
+  "Label not in the Zookeeper label table."
+ ],
+ "pull_quotes": [],
+ "draft_comment": "Big, loud, guitar-first GBV. 12 songs, 37 minutes, no wasted motion.",
+ "riyl_suggestions": [
+  "Superchunk",
+  "Bob Mould",
+  "Big Star",
+  "The Who"
+ ],
+ "tracks": [
+  {
+   "num": 1,
+   "title": "Lost In The Sun",
+   "runtime": "2:17",
+   "fcc": "CLEAN",
+   "notes": "Opener; in the Oct. 8 plan"
+  },
+  {
+   "num": 2,
+   "title": "Out With A Theory",
+   "runtime": "3:11",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 3,
+   "title": "One Last Blow",
+   "runtime": "3:09",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 4,
+   "title": "We Outlast Them All",
+   "runtime": "4:23",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 5,
+   "title": "A Grand Ceremonial Jester",
+   "runtime": "1:19",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 6,
+   "title": "Dagon's Plunger",
+   "runtime": "4:40",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 7,
+   "title": "Advance Without Dropping",
+   "runtime": "2:49",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 8,
+   "title": "No Shoe Fits (Floating Babies)",
+   "runtime": "2:10",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 9,
+   "title": "Arthur Square",
+   "runtime": "3:44",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 10,
+   "title": "Landscaping",
+   "runtime": "3:38",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 11,
+   "title": "(How Would You Like A) Chariot Ride",
+   "runtime": "3:02",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 12,
+   "title": "When You're My Clown (Nothing Happens)",
+   "runtime": "3:27",
+   "fcc": "CLEAN",
+   "notes": ""
+  }
+ ],
+ "sources": [
+  "https://en.wikipedia.org/wiki/Crawlspace_of_the_Pantheon",
+  "https://guidedbyvoices.bandcamp.com/album/crawlspace-of-the-pantheon",
+  "https://thefirenote.com/reviews/guided-by-voices-crawlspace-of-the-pantheon-album-review/",
+  "https://tinnitist.com/2026/05/28/albums-of-the-week-guided-by-voices-crawlspace-of-the-pantheon/"
+ ],
+ "links": {
+  "ytm": "https://music.youtube.com/search?q=Guided+By+Voices+Crawlspace+of+the+Pantheon"
+ },
+ "zookeeper_tag": ""
+}

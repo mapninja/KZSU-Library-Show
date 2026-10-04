@@ -1,0 +1,108 @@
+{
+ "artist": "Yard Act",
+ "album": "You're Gonna Need A Little Music",
+ "label": "Republic Records",
+ "release_date": "2026-07-17",
+ "release_notes": [
+  "Leeds band's third album.",
+  "Produced by Justin Meldal-Johnsen (Beck, St. Vincent, Nine Inch Nails); finished at his Los Angeles studio.",
+  "Critics call it their most melodic and groove-driven set, with less of the earlier sneer.",
+  "Single Redeemer. NACC #41 the week of Oct. 1. Seven of 11 tracks carry FCC words."
+ ],
+ "pull_quotes": [],
+ "draft_comment": "Groovier, more melodic Yard Act. Less sneer, more bounce. Watch the FCCs.",
+ "riyl_suggestions": [
+  "Fontaines D.C.",
+  "LCD Soundsystem",
+  "The Streets",
+  "Parquet Courts"
+ ],
+ "tracks": [
+  {
+   "num": 1,
+   "title": "Empty Pledges",
+   "runtime": "4:25",
+   "fcc": "FCC fuck x1, shit x1",
+   "notes": ""
+  },
+  {
+   "num": 2,
+   "title": "New Beginnings",
+   "runtime": "3:28",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 3,
+   "title": "Tall Tales",
+   "runtime": "3:52",
+   "fcc": "FCC fuck x1",
+   "notes": ""
+  },
+  {
+   "num": 4,
+   "title": "Fiction",
+   "runtime": "2:41",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 5,
+   "title": "You're Gonna Need A Little Music",
+   "runtime": "4:41",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 6,
+   "title": "Cherophobe Rock",
+   "runtime": "2:53",
+   "fcc": "FCC shit x1",
+   "notes": ""
+  },
+  {
+   "num": 7,
+   "title": "Thrill Of The Chase",
+   "runtime": "2:31",
+   "fcc": "FCC fuck x1",
+   "notes": ""
+  },
+  {
+   "num": 8,
+   "title": "Janey Said",
+   "runtime": "4:51",
+   "fcc": "FCC fuck x1, shit x1",
+   "notes": ""
+  },
+  {
+   "num": 9,
+   "title": "Redeemer",
+   "runtime": "3:59",
+   "fcc": "FCC fuck x1, shit x2",
+   "notes": "Single"
+  },
+  {
+   "num": 10,
+   "title": "Talky Talky People",
+   "runtime": "3:56",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 11,
+   "title": "Over The Barrel",
+   "runtime": "4:33",
+   "fcc": "CLEAN",
+   "notes": ""
+  }
+ ],
+ "sources": [
+  "https://www.nme.com/reviews/album/yard-act-youre-gonna-need-a-little-music-review-3956637",
+  "https://www.rollingstone.com/music/music-album-reviews/yard-act-youre-gonna-need-a-little-music-album-review-1235595166/",
+  "https://www.musicomh.com/reviews/albums/yard-act-youre-gonna-need-a-little-music"
+ ],
+ "links": {
+  "ytm": "https://music.youtube.com/search?q=Yard+Act+You're+Gonna+Need+A+Little+Music"
+ },
+ "zookeeper_tag": ""
+}

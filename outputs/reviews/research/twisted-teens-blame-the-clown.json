@@ -1,0 +1,122 @@
+{
+ "artist": "Twisted Teens",
+ "album": "Blame the Clown",
+ "label": "Chain Smoking Records",
+ "release_date": "2026-02-13",
+ "release_notes": [
+  "New Orleans garage-punk band; pedal steel is part of the lineup sound.",
+  "Bandcamp lists a first release on Chain Smoking in September 2025; wide release Feb. 13, 2026 (verify).",
+  "12 tracks, about 31 minutes.",
+  "Follow-up Florida Water Blues came out July 10, 2026; next album The Holy Cross Tigers is due Nov. 6, 2026 on Sub Pop.",
+  "Label not in the Zookeeper label table."
+ ],
+ "pull_quotes": [
+  {
+   "text": "punk unbounded",
+   "source": "Paste",
+   "url": "https://www.pastemagazine.com/music/twisted-teens/twisted-teens-blame-the-clown-album-review"
+  }
+ ],
+ "draft_comment": "Ragged, steel-guitar-laced New Orleans garage punk. Stooges riffs with a honky-tonk streak.",
+ "riyl_suggestions": [
+  "The Stooges",
+  "Black Lips",
+  "Ty Segall",
+  "Shannon and the Clams"
+ ],
+ "tracks": [
+  {
+   "num": 1,
+   "title": "Is It Real?",
+   "runtime": "3:02",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 2,
+   "title": "Wild Connection",
+   "runtime": "2:49",
+   "fcc": "FCC shit x1",
+   "notes": ""
+  },
+  {
+   "num": 3,
+   "title": "I Operate",
+   "runtime": "1:54",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 4,
+   "title": "Little Seed",
+   "runtime": "2:50",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 5,
+   "title": "100 Bill Is Gone!",
+   "runtime": "2:58",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 6,
+   "title": "Peekaboo Hand",
+   "runtime": "3:23",
+   "fcc": "UNVERIFIED (no lyrics posted)",
+   "notes": ""
+  },
+  {
+   "num": 7,
+   "title": "Not Real",
+   "runtime": "2:54",
+   "fcc": "FCC fuck x1",
+   "notes": ""
+  },
+  {
+   "num": 8,
+   "title": "Who Could It Be?",
+   "runtime": "2:41",
+   "fcc": "FCC piss x1",
+   "notes": ""
+  },
+  {
+   "num": 9,
+   "title": "Circus Clown",
+   "runtime": "2:06",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 10,
+   "title": "Hurricane",
+   "runtime": "2:00",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 11,
+   "title": "White Hot Coal",
+   "runtime": "2:54",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 12,
+   "title": "Corpse Pose",
+   "runtime": "1:02",
+   "fcc": "CLEAN",
+   "notes": ""
+  }
+ ],
+ "sources": [
+  "https://twistedteens.bandcamp.com/album/blame-the-clown",
+  "https://thefirenote.com/reviews/twisted-teens-blame-the-clown-album-review/",
+  "https://www.allmusic.com/album/blame-the-clown-mw0004756867"
+ ],
+ "links": {
+  "ytm": "https://music.youtube.com/search?q=Twisted+Teens+Blame+the+Clown"
+ },
+ "zookeeper_tag": ""
+}

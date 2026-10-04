@@ -1,0 +1,94 @@
+{
+ "artist": "Little Barrie",
+ "album": "Gravity Freeze",
+ "label": "Easy Eye Sound",
+ "release_date": "2026-05-22",
+ "release_notes": [
+  "Sixth album from the London trio led by guitarist Barrie Cadogan; new drummer Coote joins.",
+  "Recorded at Rat Salad Studios in Hornsey, North London, with Rupert Lyddon engineering and co-producing.",
+  "Reviewers hear a more restrained record after two albums with drummer Malcolm Catto: low-slung grooves and bursts of guitar.",
+  "Singles More Bad Miles of Road and Luggin' Hurt. Several tracks have no lyrics posted; listen first."
+ ],
+ "pull_quotes": [],
+ "draft_comment": "Low-slung, swaggering garage soul and psych grooves. Dialed back, still mean.",
+ "riyl_suggestions": [
+  "The Black Keys",
+  "Allah-Las",
+  "Oh Sees",
+  "The Mystery Lights"
+ ],
+ "tracks": [
+  {
+   "num": 1,
+   "title": "More Bad Miles Of Road",
+   "runtime": "3:49",
+   "fcc": "CLEAN",
+   "notes": "Single"
+  },
+  {
+   "num": 2,
+   "title": "It Isn't Soul",
+   "runtime": "2:49",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 3,
+   "title": "December",
+   "runtime": "5:08",
+   "fcc": "UNVERIFIED (no lyrics posted)",
+   "notes": ""
+  },
+  {
+   "num": 4,
+   "title": "Luggin' Hurt",
+   "runtime": "7:08",
+   "fcc": "UNVERIFIED (no lyrics posted)",
+   "notes": "Single"
+  },
+  {
+   "num": 5,
+   "title": "Talk It Up Like It's Wanted",
+   "runtime": "3:02",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 6,
+   "title": "Anything You Are",
+   "runtime": "3:20",
+   "fcc": "UNVERIFIED (no lyrics posted)",
+   "notes": ""
+  },
+  {
+   "num": 7,
+   "title": "Coralisa",
+   "runtime": "4:49",
+   "fcc": "UNVERIFIED (no lyrics posted)",
+   "notes": ""
+  },
+  {
+   "num": 8,
+   "title": "Wire",
+   "runtime": "3:37",
+   "fcc": "UNVERIFIED (no lyrics posted)",
+   "notes": ""
+  },
+  {
+   "num": 9,
+   "title": "Gravity Freeze",
+   "runtime": "3:07",
+   "fcc": "UNVERIFIED (no lyrics posted)",
+   "notes": ""
+  }
+ ],
+ "sources": [
+  "https://littlebarrie.bandcamp.com/album/gravity-freeze",
+  "https://www.clashmusic.com/reviews/little-barrie-gravity-freeze/",
+  "https://13thfloor.co.nz/little-barrie-gravity-freeze-easy-eye-13th-floor-album-review/"
+ ],
+ "links": {
+  "ytm": "https://music.youtube.com/search?q=Little+Barrie+Gravity+Freeze"
+ },
+ "zookeeper_tag": ""
+}

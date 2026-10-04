@@ -1,0 +1,109 @@
+{
+ "artist": "This Is Lorelei",
+ "album": "The Singer in My Band",
+ "label": "Matador Records",
+ "release_date": "2026-09-11",
+ "release_notes": [
+  "Third album from Nate Amos as This Is Lorelei, and his first for Matador.",
+  "Self-produced and recorded at his home studio in Brooklyn.",
+  "Amos calls it his road album; he wrote the songs daydreaming in the car with no instruments.",
+  "Lead single Billy Came Back (June 23, 2026). NACC #12 the week of Oct. 1."
+ ],
+ "pull_quotes": [],
+ "draft_comment": "Twangy, tightly built road-trip indie. Lorelei goes alt-country.",
+ "riyl_suggestions": [
+  "MJ Lenderman",
+  "Wednesday",
+  "Alex G",
+  "Big Thief"
+ ],
+ "tracks": [
+  {
+   "num": 1,
+   "title": "I Will Eat My Heart in the Morning Light",
+   "runtime": "3:18",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 2,
+   "title": "Oh No Now My",
+   "runtime": "3:09",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 3,
+   "title": "Billy Came Back",
+   "runtime": "3:10",
+   "fcc": "CLEAN",
+   "notes": "Lead single"
+  },
+  {
+   "num": 4,
+   "title": "Watching Heaven Fall",
+   "runtime": "3:13",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 5,
+   "title": "Sailing (Your Baby's Down)",
+   "runtime": "3:33",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 6,
+   "title": "The Singer in My Band",
+   "runtime": "2:26",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 7,
+   "title": "Nitro",
+   "runtime": "1:27",
+   "fcc": "INSTRUMENTAL",
+   "notes": "Instrumental"
+  },
+  {
+   "num": 8,
+   "title": "Hey Sarah Is It Gonna Rain Forever",
+   "runtime": "3:28",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 9,
+   "title": "The Kid With the Crown",
+   "runtime": "4:15",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 10,
+   "title": "And I Haven't Seen My Love in Quite a While",
+   "runtime": "3:29",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 11,
+   "title": "Don't You Cry in Lonesomeness",
+   "runtime": "3:19",
+   "fcc": "CLEAN",
+   "notes": ""
+  }
+ ],
+ "sources": [
+  "https://en.wikipedia.org/wiki/The_Singer_in_My_Band",
+  "https://matadorrecords.com/products/ole2217-the-singer-in-my-band",
+  "https://www.pastemagazine.com/music/this-is-lorelei/this-is-lorelei-the-singer-in-my-band-review",
+  "https://www.nme.com/reviews/album/this-is-lorelei-the-singer-in-my-band-review-3967539"
+ ],
+ "links": {
+  "ytm": "https://music.youtube.com/search?q=This+Is+Lorelei+The+Singer+in+My+Band"
+ },
+ "zookeeper_tag": ""
+}

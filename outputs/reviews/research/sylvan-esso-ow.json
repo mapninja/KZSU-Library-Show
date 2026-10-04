@@ -1,0 +1,116 @@
+{
+ "artist": "Sylvan Esso",
+ "album": "Ow ∞",
+ "label": "Psychic Hotline",
+ "release_date": "2026-09-11",
+ "release_notes": [
+  "Fifth album from Amelia Meath and Nick Sanborn; first in four years and first on their own label.",
+  "Built over four years at their Betty's studio in Chapel Hill, N.C., with more collaborators than before.",
+  "Adds distorted guitars, breakbeats, trip-hop and found sound to their electronic pop.",
+  "Single Hot Slob. NACC #7 the week of Oct. 1. Four tracks carry FCC words, including On & On (shit x4).",
+  "Label not in the Zookeeper label table."
+ ],
+ "pull_quotes": [],
+ "draft_comment": "Electronic pop that wanders into distorted guitars, breakbeats and trip-hop.",
+ "riyl_suggestions": [
+  "Flock of Dimes",
+  "Little Dragon",
+  "Purity Ring",
+  "Lucius"
+ ],
+ "tracks": [
+  {
+   "num": 1,
+   "title": "Entertainment & Coca-Cola",
+   "runtime": "2:03",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 2,
+   "title": "Flood Season",
+   "runtime": "2:24",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 3,
+   "title": "Hot Slob",
+   "runtime": "2:45",
+   "fcc": "FCC fuck x3, bitch x1",
+   "notes": "Single"
+  },
+  {
+   "num": 4,
+   "title": "Concrete Glen",
+   "runtime": "3:30",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 5,
+   "title": "Back Again",
+   "runtime": "4:32",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 6,
+   "title": "Ribbon",
+   "runtime": "1:53",
+   "fcc": "FCC fuck x1",
+   "notes": ""
+  },
+  {
+   "num": 7,
+   "title": "Sledge",
+   "runtime": "2:48",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 8,
+   "title": "Right to Left",
+   "runtime": "3:32",
+   "fcc": "FCC fuck x1",
+   "notes": ""
+  },
+  {
+   "num": 9,
+   "title": "Good at Pain",
+   "runtime": "2:48",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 10,
+   "title": "Jessica",
+   "runtime": "3:31",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 11,
+   "title": "On & On",
+   "runtime": "4:43",
+   "fcc": "FCC shit x4",
+   "notes": ""
+  },
+  {
+   "num": 12,
+   "title": "Plastic Sword",
+   "runtime": "3:01",
+   "fcc": "CLEAN",
+   "notes": ""
+  }
+ ],
+ "sources": [
+  "https://www.treblezine.com/sylvan-esso-ow-infinity-review/",
+  "https://readdork.com/news/sylvan-esso-ow-infinity-album-london-in-stores-c34a284d57",
+  "https://sylvanesso.bandcamp.com/album/ow"
+ ],
+ "links": {
+  "ytm": "https://music.youtube.com/search?q=Sylvan+Esso+Ow+∞"
+ },
+ "zookeeper_tag": ""
+}

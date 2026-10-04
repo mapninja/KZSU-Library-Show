@@ -1,0 +1,108 @@
+{
+ "artist": "Sluice",
+ "album": "Companion",
+ "label": "Mtn Laurel Recording Co.",
+ "release_date": "2026-03-27",
+ "release_notes": [
+  "Third album from the North Carolina folk-rock band.",
+  "10 tracks, about 44 minutes, including two long pieces: Gator (8:46) and Unknowing (9:01).",
+  "Pitchfork 7.4, Paste 83.",
+  "Five tracks carry FCC words; Overhead has no lyrics posted.",
+  "Label not in the Zookeeper label table."
+ ],
+ "pull_quotes": [
+  {
+   "text": "exists in a cloud of dreamy contemplation",
+   "source": "Pitchfork",
+   "url": "https://www.albumoftheyear.org/album/1650402-sluice-companion.php"
+  }
+ ],
+ "draft_comment": "Hushed, rambling North Carolina folk rock with two long slow-burners.",
+ "riyl_suggestions": [
+  "Fust",
+  "Bill Callahan",
+  "Friendship",
+  "Hovvdy"
+ ],
+ "tracks": [
+  {
+   "num": 1,
+   "title": "Beadie",
+   "runtime": "4:01",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 2,
+   "title": "Ratchet Strap",
+   "runtime": "3:30",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 3,
+   "title": "WTF",
+   "runtime": "3:33",
+   "fcc": "FCC fuck x2",
+   "notes": ""
+  },
+  {
+   "num": 4,
+   "title": "Gator",
+   "runtime": "8:46",
+   "fcc": "FCC shit x1, piss x1",
+   "notes": ""
+  },
+  {
+   "num": 5,
+   "title": "The Ephemeral Stream",
+   "runtime": "1:46",
+   "fcc": "UNVERIFIED (no lyrics posted)",
+   "notes": ""
+  },
+  {
+   "num": 6,
+   "title": "Torpor",
+   "runtime": "2:49",
+   "fcc": "FCC fuck x1",
+   "notes": ""
+  },
+  {
+   "num": 7,
+   "title": "Unknowing",
+   "runtime": "9:01",
+   "fcc": "UNVERIFIED (no lyrics posted)",
+   "notes": ""
+  },
+  {
+   "num": 8,
+   "title": "Overhead",
+   "runtime": "3:57",
+   "fcc": "UNVERIFIED (no lyrics posted)",
+   "notes": ""
+  },
+  {
+   "num": 9,
+   "title": "Zillow",
+   "runtime": "3:13",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 10,
+   "title": "Vegas",
+   "runtime": "3:18",
+   "fcc": "FCC shit x3",
+   "notes": ""
+  }
+ ],
+ "sources": [
+  "https://sluice.bandcamp.com/album/companion",
+  "https://www.pastemagazine.com/music/sluice/sluice-companion-album-review",
+  "https://www.albumoftheyear.org/album/1650402-sluice-companion.php"
+ ],
+ "links": {
+  "ytm": "https://music.youtube.com/search?q=Sluice+Companion"
+ },
+ "zookeeper_tag": ""
+}

@@ -1,0 +1,125 @@
+{
+ "artist": "Twisted Teens",
+ "album": "Florida Water Blues",
+ "label": "Going Underground",
+ "release_date": "2026-07-10",
+ "release_notes": [
+  "New Orleans band's second album of 2026, six months after Blame the Clown.",
+  "13 tracks, about 41 minutes.",
+  "Reviews note a slower, more song-focused record: backroads, marshes and coastal motels in place of city nerves.",
+  "Next album The Holy Cross Tigers is due Nov. 6, 2026 on Sub Pop (single When We First Met is in the Oct. 8 plan).",
+  "Label verify; also listed by Chain Smoking and Sub Pop."
+ ],
+ "pull_quotes": [],
+ "draft_comment": "Slower, swampier Twisted Teens. Same scuzz, sharper songs.",
+ "riyl_suggestions": [
+  "Black Lips",
+  "Kurt Vile",
+  "The Gun Club",
+  "Ty Segall"
+ ],
+ "tracks": [
+  {
+   "num": 1,
+   "title": "Why Did You Miss It?",
+   "runtime": "3:36",
+   "fcc": "FCC fuck x1",
+   "notes": ""
+  },
+  {
+   "num": 2,
+   "title": "Hand Me A Cigarette",
+   "runtime": "3:26",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 3,
+   "title": "Swamp",
+   "runtime": "2:55",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 4,
+   "title": "Guided Thunder",
+   "runtime": "3:13",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 5,
+   "title": "Florida Water Blues",
+   "runtime": "3:45",
+   "fcc": "FCC shit x1",
+   "notes": ""
+  },
+  {
+   "num": 6,
+   "title": "Top Of The World Hwy No. 2",
+   "runtime": "2:12",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 7,
+   "title": "Concealed Weepin'",
+   "runtime": "2:27",
+   "fcc": "FCC fuck x1",
+   "notes": ""
+  },
+  {
+   "num": 8,
+   "title": "Riding",
+   "runtime": "3:54",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 9,
+   "title": "Business",
+   "runtime": "2:23",
+   "fcc": "FCC fuck x2",
+   "notes": ""
+  },
+  {
+   "num": 10,
+   "title": "Javelina",
+   "runtime": "2:50",
+   "fcc": "FCC fuck x1, shit x1",
+   "notes": ""
+  },
+  {
+   "num": 11,
+   "title": "Weather The Season",
+   "runtime": "3:45",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 12,
+   "title": "Dancer",
+   "runtime": "3:00",
+   "fcc": "FCC fuck x1",
+   "notes": ""
+  },
+  {
+   "num": 13,
+   "title": "Sun Go Down",
+   "runtime": "5:10",
+   "fcc": "CLEAN",
+   "notes": ""
+  }
+ ],
+ "sources": [
+  "https://twistedteens.bandcamp.com/album/florida-water-blues",
+  "https://thefirenote.com/reviews/twisted-teens-florida-water-blues-album-review/",
+  "https://www.pastemagazine.com/music/twisted-teens/twisted-teens-florida-water-blues-album-review",
+  "https://bigtakeover.com/recordings/twisted-teens-florida-water-blues-chain-smoking-records",
+  "https://music.subpop.com/twistedteens_floridawaterblues"
+ ],
+ "links": {
+  "ytm": "https://music.youtube.com/search?q=Twisted+Teens+Florida+Water+Blues"
+ },
+ "zookeeper_tag": ""
+}
