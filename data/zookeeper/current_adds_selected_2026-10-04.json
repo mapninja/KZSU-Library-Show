@@ -1,0 +1,104 @@
+{
+ "source": "data/zookeeper/current_adds_2026-10-04.json",
+ "playlist": "PLSOHIL9I5GUo",
+ "kept": [
+  {
+   "tag": "1156362",
+   "artist": "Phoebe Bridgers",
+   "album": "Lost Weekend",
+   "label": "Dead Oceans",
+   "lead": "Lost Weekend",
+   "videoId": "Zbodgc5aAU8",
+   "fcc": "CLEAN (LRCLIB)",
+   "why": "label in profile; NACC #1"
+  },
+  {
+   "tag": "1156294",
+   "artist": "Death Cab For Cutie",
+   "album": "I Built You A Tower",
+   "label": "Anti-",
+   "lead": "I Built You A Tower (a)",
+   "videoId": "iCTA9UDgylc",
+   "fcc": "CLEAN (LRCLIB)",
+   "why": "artist and label in profile"
+  },
+  {
+   "tag": "1156328",
+   "artist": "Fruit Bats",
+   "album": "The Landfill",
+   "label": "Merge Records",
+   "lead": "All Wounds",
+   "videoId": "cnaX5lx6T_M",
+   "fcc": "CLEAN (LRCLIB)",
+   "why": "artist and label in profile. Opener The Saddest Part of the Song has fuck x1; That Goddamn Sun has a caution word in the title"
+  },
+  {
+   "tag": "1156351",
+   "artist": "The Mountain Goats",
+   "album": "Days",
+   "label": "Self Release",
+   "lead": "Song for Layne Staley",
+   "videoId": "kU73u5tFsy8",
+   "fcc": "CLEAN (LRCLIB)",
+   "why": "artist in profile"
+  },
+  {
+   "tag": "1156373",
+   "artist": "Dent May",
+   "album": "The Big One",
+   "label": "Carpark Records",
+   "lead": "Here We Go Again",
+   "videoId": "dv7WWV4XvhI",
+   "fcc": "UNVERIFIED",
+   "why": "label in profile"
+  },
+  {
+   "tag": "1156249",
+   "artist": "Heavenly",
+   "album": "Highway To Heavenly",
+   "label": "Skep Wax Records",
+   "lead": "Scene Stealing",
+   "videoId": "2IO2iQ4BHUQ",
+   "fcc": "CLEAN (LRCLIB)",
+   "why": "indiepop, RIYL Teenage Fanclub lane"
+  },
+  {
+   "tag": "1156340",
+   "artist": "Shearwater",
+   "album": "The New World",
+   "label": "Self Release",
+   "lead": "Even Song",
+   "videoId": "5jGN7aiyawg",
+   "fcc": "UNVERIFIED",
+   "why": "indie lane"
+  },
+  {
+   "tag": "1156306",
+   "artist": "Cindy",
+   "album": "Another Country",
+   "label": "Tough Love Records",
+   "lead": "Another Country",
+   "videoId": "iJt1_hxuk0s",
+   "fcc": "UNVERIFIED",
+   "why": "dream-pop lane"
+  },
+  {
+   "tag": "1156339",
+   "artist": "Alex Cameron",
+   "album": "Late To Set",
+   "label": "Self Release",
+   "lead": "Statue Down",
+   "videoId": "356Rw-nNx08",
+   "fcc": "CLEAN (LRCLIB)",
+   "why": "songwriter lane. Opener No Soldier has shit x1"
+  }
+ ],
+ "dropped": [
+  "Harrell Davenport (blues)",
+  "Matt Jencik & Midwife",
+  "Tom Misch",
+  "Curtis Salgado (blues, live)",
+  "Dagmar Zuniga (experimental)",
+  "Zzzahara"
+ ]
+}

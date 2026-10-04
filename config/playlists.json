@@ -39,10 +39,11 @@
    "mode": "repopulate: albums with boilerplate requested (one-time reset of stale list needs Stace OK)"
   },
   "kzsu_current_adds": {
-   "title": "KZSU Current Adds",
-   "id": null,
+   "title": "KZSU Current Adds (filtered for DJ Stace)",
+   "id": "PLSOHIL9I5GUo",
    "order": "forward",
-   "mode": "refresh weekly from Zookeeper Current Adds, filtered by taste profile"
+   "mode": "refresh weekly from Zookeeper Current Adds, filtered by taste profile",
+   "last_refresh": "2026-10-04 from data/zookeeper/current_adds_2026-10-04.json"
   },
   "college_top50": {
    "title": "College Radio Top 50",
