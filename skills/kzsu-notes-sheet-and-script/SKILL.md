@@ -34,7 +34,7 @@ Read `references/house_rules.md` and `config/playlists.json`. Use `anthropic-ski
 
 ## Zookeeper metadata
 
-Read `references/zookeeper_enrichment.md`. Label, album and a Tag column in the sheet come from Zookeeper fields in the plan. Re-run the enrichment for tracks Stace added or that replaced a cull. Show the label as Zookeeper spells it.
+Read `references/zookeeper_enrichment.md`. Anything YTM and Zookeeper cannot supply comes from Discogs, then Wikipedia and media sources (see the fallback section there), with source and URL recorded. Label, album and a Tag column in the sheet come from Zookeeper fields in the plan. Re-run the enrichment for tracks Stace added or that replaced a cull. Show the label as Zookeeper spells it.
 
 ## Drive placement
 

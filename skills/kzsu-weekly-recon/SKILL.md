@@ -82,7 +82,7 @@ On show day, kzsu-show-build reads this plan, syncs it to Air Order, and builds 
 
 ## Zookeeper metadata
 
-Read `references/zookeeper_enrichment.md`. Enrich every candidate in the plan (tag, label, album, `zk`) before writing `working_playlist.json`. Labels from Zookeeper, not the web.
+Read `references/zookeeper_enrichment.md`. Anything YTM and Zookeeper cannot supply comes from Discogs, then Wikipedia and media sources (see the fallback section there), with source and URL recorded. Enrich every candidate in the plan (tag, label, album, `zk`) before writing `working_playlist.json`. Labels from Zookeeper, not the web.
 
 ## Drive placement
 

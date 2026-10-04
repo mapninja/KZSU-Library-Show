@@ -15,4 +15,4 @@ description: >-
 
 ## Zookeeper metadata
 
-Read `references/zookeeper_enrichment.md`. Report plans that still have tracks with no tag or label, and cache misses in `data/zk_cache.json`.
+Read `references/zookeeper_enrichment.md`. Anything YTM and Zookeeper cannot supply comes from Discogs, then Wikipedia and media sources (see the fallback section there), with source and URL recorded. Report plans that still have tracks with no tag or label, and cache misses in `data/zk_cache.json`.

@@ -63,7 +63,7 @@ Reading and adds work in a hidden tab. If clicks stop responding, finish researc
 
 ## Zookeeper metadata
 
-Read `references/zookeeper_enrichment.md`. For each pick, look up tag and label in Zookeeper and put the Zookeeper label in the notes file. Mark web-only labels "(verify)".
+Read `references/zookeeper_enrichment.md`. Anything YTM and Zookeeper cannot supply comes from Discogs, then Wikipedia and media sources (see the fallback section there), with source and URL recorded. For each pick, look up tag and label in Zookeeper and put the Zookeeper label in the notes file. Mark web-only labels "(verify)".
 
 ## Drive placement
 

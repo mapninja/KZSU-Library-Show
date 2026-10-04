@@ -36,7 +36,7 @@ Read `references/house_rules.md` and `config/playlists.json`. Pre-flight: YTM si
 
 ## Zookeeper metadata
 
-Read `references/zookeeper_enrichment.md`. Record Zookeeper's label and tag for each aired spin in the archive JSON and use them in the description and notes. Zookeeper is the record of truth.
+Read `references/zookeeper_enrichment.md`. Anything YTM and Zookeeper cannot supply comes from Discogs, then Wikipedia and media sources (see the fallback section there), with source and URL recorded. Record Zookeeper's label and tag for each aired spin in the archive JSON and use them in the description and notes. Zookeeper is the record of truth.
 
 ## Drive placement
 

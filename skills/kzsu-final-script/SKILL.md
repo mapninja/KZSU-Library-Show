@@ -25,7 +25,7 @@ Specialty weeks: same process. If the plan has a `"theme"`, keep theme talking p
 
 ## Zookeeper metadata
 
-Read `references/zookeeper_enrichment.md`. Replacement tracks and Stace's adds get the enrichment before the Final Script and CSV are written. Use Zookeeper labels and tags only.
+Read `references/zookeeper_enrichment.md`. Anything YTM and Zookeeper cannot supply comes from Discogs, then Wikipedia and media sources (see the fallback section there), with source and URL recorded. Replacement tracks and Stace's adds get the enrichment before the Final Script and CSV are written. Use Zookeeper labels and tags only.
 
 ## Drive placement
 

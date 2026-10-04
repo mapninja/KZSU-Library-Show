@@ -158,7 +158,7 @@ Keep it short: bullets, AP style, no em dashes, no hyperbole.
 
 ## Zookeeper metadata
 
-Read `references/zookeeper_enrichment.md`. Step 4 applies to EVERY track, not only ones she added. Re-run the enrichment for the whole plan, fill `tag`, `label`, `label_source`, and write Zookeeper label names into the CSV, working_playlist.md and script. List any track still missing a label under "Fill in at the studio."
+Read `references/zookeeper_enrichment.md`. Anything YTM and Zookeeper cannot supply comes from Discogs, then Wikipedia and media sources (see the fallback section there), with source and URL recorded. Step 4 applies to EVERY track, not only ones she added. Re-run the enrichment for the whole plan, fill `tag`, `label`, `label_source`, and write Zookeeper label names into the CSV, working_playlist.md and script. List any track still missing a label under "Fill in at the studio."
 
 ## Drive placement
 

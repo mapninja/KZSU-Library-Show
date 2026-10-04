@@ -127,4 +127,4 @@ Stace plays show playlists bottom-up with autoplay off, so the first on-air trac
 
 ## Zookeeper metadata
 
-Read `references/zookeeper_enrichment.md`. Use Zookeeper label names and tags when ranking and listing staged albums.
+Read `references/zookeeper_enrichment.md`. Anything YTM and Zookeeper cannot supply comes from Discogs, then Wikipedia and media sources (see the fallback section there), with source and URL recorded. Use Zookeeper label names and tags when ranking and listing staged albums.

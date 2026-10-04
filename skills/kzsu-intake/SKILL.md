@@ -25,4 +25,4 @@ Tick handling is done by `kzsu-review-template` (Tue and Fri).
 
 ## Zookeeper metadata
 
-Read `references/zookeeper_enrichment.md`. Check each staged and Current Adds album against the library record. Store tag, label and in-library status on the shelf rows. Use Zookeeper label names.
+Read `references/zookeeper_enrichment.md`. Anything YTM and Zookeeper cannot supply comes from Discogs, then Wikipedia and media sources (see the fallback section there), with source and URL recorded. Check each staged and Current Adds album against the library record. Store tag, label and in-library status on the shelf rows. Use Zookeeper label names.
