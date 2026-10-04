@@ -56,6 +56,12 @@
 
 - Title: `The Library Show on KZSU 90.1 Stanford, CA with DJ Stace (Month d, yyyy Show)`. Always include KZSU. Always add a description (template in `skills/kzsu-archive-playlist/SKILL.md`).
 
+## Drive local folder (edit in place)
+- Drive for desktop syncs `KZSU` to `drive_local` in `config/paths.json`. Use the Read/Write/Edit file tools on that path (the shell cannot see it). Anything written there syncs to Drive and keeps its link.
+- Formats I can edit in place: CSV, Markdown, plain text, JSON. Google Docs and Sheets show up locally only as `.gdoc`/`.gsheet` pointer files and cannot be edited this way.
+- So shared working files that Stace and I both edit are CSV or Markdown. The Filtered Review Shelf is a CSV: ticks are an `x` in the first column ("Request (x)"). Open it in Sheets from Drive if she wants a grid; saving as CSV keeps it editable by me.
+- Read-back of Google-format files still works through the Drive connector (`read_file_content`).
+
 ## Promo images
 - Images live in Drive `KZSU/Promo and Merch` (index: `config/promo_images.json`).
 - Stace sets playlist thumbnails by hand each week (playlist page > Edit thumbnail). Skills do not upload thumbnails. In the weekly summary, remind her which new playlists need one.

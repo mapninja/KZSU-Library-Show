@@ -12,7 +12,9 @@
  "drive_files": {
   "notes_sheet_2026-10-08": "1oQ6riHDzAg3qlaSecc6PSaEu8ESQ7RAb_138fF5MpVQ",
   "working_script_2026-10-08": "1ukySYvvTnd7SE_Zqs8r2bw580rofGKH_t2s6IIdvLSY",
-  "review_shelf": "1_JNWDpkk3QIIUERXNMeptA6szTzrxvulXhr2v69ihM8",
-  "zookeeper_csv_2026-10-08": "1qdrsapOIewzKBuBnIjS_BHGNQ9rGVrfs"
- }
+  "zookeeper_csv_2026-10-08": "1qdrsapOIewzKBuBnIjS_BHGNQ9rGVrfs",
+  "review_shelf_sheet_retired": "1_JNWDpkk3QIIUERXNMeptA6szTzrxvulXhr2v69ihM8"
+ },
+ "drive_local": "/Users/maples/Library/CloudStorage/GoogleDrive-maples@stanford.edu/My Drive/KZSU",
+ "review_shelf_csv": "/Users/maples/Library/CloudStorage/GoogleDrive-maples@stanford.edu/My Drive/KZSU/Stace's KZSU Filtered Review Shelf.csv"
 }
