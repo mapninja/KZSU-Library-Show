@@ -2,45 +2,49 @@
  "note": "Artifact key -> Drive file. Updated by kzsu-drive-deploy.",
  "artifacts": {
   "working_show_script_2026-10-08": {
-   "id": "1N227XKEJHf9PLXUUxv7W1k_36PG4TE0dvVg1g9Zb6rs",
+   "id": "1z13BmF-56bP98Iyv7cqD0BJ_megFbuxENKg6kzYeoC8",
    "type": "doc",
    "folder": "Show Prep",
-   "deployed": "2026-10-04T21:21Z",
-   "working": "repo outputs/recon/2026-10-08/show_script.md (copy to Working/ on next run)",
+   "deployed": "2026-10-05T04:12Z",
+   "working": "Working/working_show_script_2026-10-08.md (repo outputs/recon/2026-10-08/show_script.md)",
    "retired": [
-    "1ukySYvvTnd7SE_Zqs8r2bw580rofGKH_t2s6IIdvLSY"
+    "1ukySYvvTnd7SE_Zqs8r2bw580rofGKH_t2s6IIdvLSY",
+    "1N227XKEJHf9PLXUUxv7W1k_36PG4TE0dvVg1g9Zb6rs"
    ]
   },
   "notes_sheet_2026-10-08": {
-   "id": "1dgj77H0z-L4CJ09MdIjL8IN63adoYzj1lVJb0MWOxTE",
+   "id": "12Ts38awTlZl9E4TuQEFZfPu_lh-HBZ8N6Wz339gi1FY",
    "type": "sheet",
    "folder": "Show Prep",
-   "deployed": "2026-10-04T21:20Z",
+   "deployed": "2026-10-05T04:05Z",
    "working": "Working/notes_sheet_2026-10-08.csv",
    "retired": [
-    "1oQ6riHDzAg3qlaSecc6PSaEu8ESQ7RAb_138fF5MpVQ"
+    "1oQ6riHDzAg3qlaSecc6PSaEu8ESQ7RAb_138fF5MpVQ",
+    "1dgj77H0z-L4CJ09MdIjL8IN63adoYzj1lVJb0MWOxTE"
    ]
   },
   "zookeeper_csv_2026-10-08": {
-   "id": "1KP0t2naEl2g6yRD9DYVvJsMCxS44a_kA",
+   "id": "18DKr7pbnRW9wXUdvpUUeJ5LOmfJ-zAwy",
    "type": "csv-raw",
    "folder": "Show Prep",
-   "deployed": "2026-10-04T21:22Z",
+   "deployed": "2026-10-05T04:13Z",
    "working": "Working/library_show_playlist_2026-10-08.csv",
    "retired": [
-    "1qdrsapOIewzKBuBnIjS_BHGNQ9rGVrfs"
+    "1qdrsapOIewzKBuBnIjS_BHGNQ9rGVrfs",
+    "1KP0t2naEl2g6yRD9DYVvJsMCxS44a_kA"
    ]
   },
   "review_shelf": {
-   "id": "1fPvv_v64PVn3_SswismkW1qPQlSJQJvkq5S3ffpteWU",
+   "id": "1PRb9eZB9lsh3GIbV6yB6bW_A1xuqPE9de7FO4OMWqgY",
    "type": "sheet",
    "folder": "KZSU top",
-   "deployed": "2026-10-05T01:37Z",
+   "deployed": "2026-10-05T04:16Z",
    "working": "Working/review_shelf.csv (mirror: repo data/staged/review_shelf.csv)",
    "retired": [
     "1_JNWDpkk3QIIUERXNMeptA6szTzrxvulXhr2v69ihM8",
     "1dzVYPNUWrSQ9SBTPEs676fOu9xwuRt-GJzTOqsnrV6M",
-    "1rY7PatGmSGFQg5LdbdesnwTJKfjH6xaCH85lPvmYve4"
+    "1rY7PatGmSGFQg5LdbdesnwTJKfjH6xaCH85lPvmYve4",
+    "1fPvv_v64PVn3_SswismkW1qPQlSJQJvkq5S3ffpteWU"
    ],
    "note": "Columns fixed: Request, Artist, Album (link to YTM), Label (link to label page), Release date first."
   },

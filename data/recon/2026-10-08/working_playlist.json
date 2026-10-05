@@ -1,7 +1,7 @@
 {
  "show_date": "2026-10-08",
  "name": "DJ Stace library show working",
- "note": "Oct. 8 draft built Oct. 4, 2026. Forward air order. Air Order (forward) and Working (reversed) rebuilt from this: 37 tracks, 2:25. Triple Shot added Oct. 4: Teenage Fanclub. Air Order and Working updated (39 tracks).",
+ "note": "Oct. 8 draft built Oct. 4, 2026. Forward air order. Air Order (forward) and Working (reversed) rebuilt from this: 37 tracks, 2:25. Triple Shot added Oct. 4: Teenage Fanclub. Air Order and Working updated (39 tracks). Oct. 4 Tuesday sweep sim: Stace's Air Order edits applied (6 cuts, 4 adds). 37 tracks, 2:19.",
  "ytm_air_order": {
   "id": "PLSosF7JAIkaM",
   "tracks": 37,
@@ -73,18 +73,18 @@
     {
      "artist": "Interpol",
      "track": "This Mirror Weighs a Ton",
-     "album": "",
+     "album": "This Mirror Weighs a Ton/See Out Loud",
      "label": "Matador Records",
      "label_source": "DB spins (Interpol on Matador)",
      "tag": "",
      "released": "2026",
-     "why": "New single.",
+     "why": "New single (double A-side with See Out Loud).",
      "fcc_status": "CLEAN",
      "fcc_note": "CLEAN (LRCLIB)",
      "priority": "R",
      "source": "weekly playlist/recon",
      "videoId": "3PLNnRBXq4c",
-     "duration": ""
+     "duration": "5:13"
     }
    ]
   },
@@ -106,22 +106,6 @@
      "source": "weekly playlist/recon",
      "videoId": "KhXL7QK5kf4",
      "duration": "3:27"
-    },
-    {
-     "artist": "The New Pornographers",
-     "track": "Votive",
-     "album": "",
-     "label": "Merge Records",
-     "label_source": "zookeeper album",
-     "tag": "1155787",
-     "released": "2026",
-     "why": "Weekly Playlist pick.",
-     "fcc_status": "CLEAN",
-     "fcc_note": "CLEAN (Genius)",
-     "priority": "R",
-     "source": "weekly playlist/recon",
-     "videoId": "Yyyc_ax5G5o",
-     "duration": "3:46"
     },
     {
      "artist": "Ty Segall",
@@ -162,19 +146,22 @@
    "tracks": [
     {
      "artist": "Soundgarden",
-     "track": "Rusty Cage",
+     "track": "Slaves & Bulldozers",
      "album": "Badmotorfinger",
      "label": "A&M Records",
-     "label_source": "DB spins",
+     "label_source": "zookeeper label table (library album label blank)",
      "tag": "9065",
      "released": "1991-10-08",
-     "why": "Badmotorfinger came out Oct. 8, 1991 (35 years).",
+     "why": "Stace's pick, replaces Rusty Cage. Badmotorfinger came out Oct. 8, 1991, on A&M (35 years).",
      "fcc_status": "CLEAN",
      "fcc_note": "CLEAN (LRCLIB)",
      "priority": "R",
-     "source": "weekly playlist/recon",
-     "videoId": "5rVNdGnVMb4",
-     "duration": "4:27"
+     "source": "Stace",
+     "added_by": "DJ Stace",
+     "videoId": "wgqLAlFKtXA",
+     "duration": "6:56",
+     "source_url": "https://en.wikipedia.org/wiki/Badmotorfinger",
+     "date_source": "wikipedia; songfacts"
     },
     {
      "artist": "Radiohead",
@@ -305,7 +292,7 @@
      "label_source": "DB upcoming_releases",
      "tag": "",
      "released": "2026-10-09 (album)",
-     "why": "New single. Album Do Not Dare to Dream out Fri. Oct. 9 on Merge (verify track is on album). Closes the Triple Shot.",
+     "why": "New single. Album Do Not Dare to Dream out Fri. Oct. 9 on Merge (track confirmed on the album). Closes the Triple Shot.",
      "fcc_status": "CLEAN",
      "fcc_note": "CLEAN (LRCLIB)",
      "priority": "R",
@@ -468,27 +455,6 @@
      "duration": "2:22"
     },
     {
-     "artist": "Cowboy Junkies",
-     "track": "State Trooper",
-     "album": "The Trinity Session",
-     "label": "Rca Victor/Bmg",
-     "label_source": "original US release (Latent Canada, RCA US), label per Zookeeper; verify",
-     "tag": "",
-     "released": "1988",
-     "why": "Carried over from the Oct. 1 draft.",
-     "fcc_status": "CLEAN",
-     "fcc_note": "CLEAN (LRCLIB)",
-     "priority": "O",
-     "source": "weekly playlist/recon",
-     "videoId": "x23eS6_LCIE",
-     "duration": "4:35",
-     "zk_alt": {
-      "tag": "275330",
-      "album": "200 More Miles",
-      "label": "Rca Victor/Bmg"
-     }
-    },
-    {
      "artist": "Aldous Harding",
      "track": "The Barrel",
      "album": "Designer",
@@ -523,36 +489,41 @@
     },
     {
      "artist": "This Is Lorelei",
-     "track": "Billy Came Back",
+     "track": "Oh No Now My",
      "album": "The Singer in My Band",
      "label": "Matador Records",
-     "label_source": "web: Paste, Matador",
+     "label_source": "media (album not in library); Zookeeper label spelling",
      "tag": "",
-     "released": "2026-09-11 (album); single 2026-06-23",
-     "why": "Core artist. New album The Singer in My Band out Sept. 11 (Matador). Aired Oct. 1; different track.",
+     "released": "2026-08-05 (single); album 2026-09-11",
+     "why": "Stace's pick, replaces Billy Came Back. Second single from The Singer in My Band, Nate Amos's third This Is Lorelei album (Matador, Sept. 11).",
      "fcc_status": "CLEAN",
      "fcc_note": "CLEAN (LRCLIB)",
-     "priority": "O",
-     "source": "weekly playlist/recon",
-     "videoId": "rpHYQQQKmos",
-     "duration": "3:10",
-     "source_url": "https://en.wikipedia.org/wiki/The_Singer_in_My_Band"
+     "priority": "R",
+     "source": "Stace",
+     "added_by": "DJ Stace",
+     "videoId": "tsmxdk686wg",
+     "duration": "3:08",
+     "source_url": "https://stereogum.com/2507357/this-is-lorelei-oh-no-now-my/music",
+     "date_source": "media; wikipedia"
     },
     {
      "artist": "Courtney Barnett",
-     "track": "Avant Gardener",
-     "album": "The Double EP: A Sea of Split Peas",
-     "label": "Marathon Artists",
-     "label_source": "zookeeper album",
-     "tag": "1045426",
-     "released": "2013",
-     "why": "Core artist.",
+     "track": "One Thing At A Time",
+     "album": "Creature of Habit",
+     "label": "Mom + Pop",
+     "label_source": "zookeeper label table (album not in library)",
+     "tag": "",
+     "released": "2026-03-27 (album)",
+     "why": "Stace's pick, replaces Avant Gardener. From her fourth album, Creature of Habit (Mom + Pop, March 27). Flea on bass; produced by Stella Mozgawa and John Congleton.",
      "fcc_status": "CLEAN",
-     "fcc_note": "CLEAN (LRCLIB)",
-     "priority": "O",
-     "source": "weekly playlist/recon",
-     "videoId": "ot0DO179yV8",
-     "duration": "5:13"
+     "fcc_note": "CLEAN (LRCLIB, check by ear: LRCLIB album name odd)",
+     "priority": "R",
+     "source": "Stace",
+     "added_by": "DJ Stace",
+     "videoId": "KRc6QLhw834",
+     "duration": "4:42",
+     "source_url": "https://en.wikipedia.org/wiki/Creature_of_Habit_(album)",
+     "date_source": "wikipedia; stereogum"
     },
     {
      "artist": "Yo La Tengo",
@@ -641,6 +612,25 @@
      "duration": "5:12"
     },
     {
+     "artist": "Stereolab",
+     "track": "Flashes In The Afternoon",
+     "album": "Cloud Land / Flashes In The Afternoon",
+     "label": "Duophonic Ultra High Fs",
+     "label_source": "zookeeper label table (single not in library)",
+     "tag": "",
+     "released": "2026-02-13 (7-inch and digital)",
+     "why": "Stace's pick. Instrumental B-side of a once tour-only 7-inch, out Feb. 13 on the band's Duophonic label.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (instrumental)",
+     "priority": "R",
+     "source": "Stace",
+     "added_by": "DJ Stace",
+     "videoId": "uJY5H3Hala8",
+     "duration": "6:15",
+     "source_url": "https://stereolab.bandcamp.com/album/cloud-land-flashes-in-the-afternoon",
+     "date_source": "bandcamp; stereogum"
+    },
+    {
      "artist": "Morphine",
      "track": "Cocoon",
      "album": "Cure for Pain",
@@ -699,22 +689,6 @@
      "duration": "3:18"
     },
     {
-     "artist": "Dirty Three",
-     "track": "Sue's Last Ride",
-     "album": "Horse Stories",
-     "label": "Touch and Go",
-     "label_source": "zookeeper album (plan album corrected; library spells it Hose Stories)",
-     "tag": "338026",
-     "released": "1996",
-     "why": "Carried over. Instrumental. 7:23, cull candidate.",
-     "fcc_status": "CLEAN",
-     "fcc_note": "CLEAN (instrumental)",
-     "priority": "O",
-     "source": "weekly playlist/recon",
-     "videoId": "k1sQYTXHI4M",
-     "duration": "7:23"
-    },
-    {
      "artist": "Uncle Tupelo",
      "track": "No Depression",
      "album": "No Depression",
@@ -728,7 +702,7 @@
      "priority": "O",
      "source": "weekly playlist/recon",
      "videoId": "bu6nzpkoFyo",
-     "duration": "",
+     "duration": "2:21",
      "zk_alt": {
       "tag": "666121",
       "album": "89/93: An Anthology",
@@ -782,7 +756,7 @@
     "label_source": "DB upcoming_releases",
     "tag": "",
     "released": "2026-10-09 (album)",
-    "why": "New single. Album Do Not Dare to Dream out Fri. Oct. 9 on Merge (verify track is on album). Closes the Triple Shot.",
+    "why": "New single. Album Do Not Dare to Dream out Fri. Oct. 9 on Merge (track confirmed on the album). Closes the Triple Shot.",
     "fcc_status": "CLEAN",
     "fcc_note": "CLEAN (LRCLIB)",
     "priority": "R",
@@ -791,5 +765,37 @@
     "duration": "3:11"
    }
   ]
- }
+ },
+ "cut": [
+  {
+   "artist": "The New Pornographers",
+   "track": "Votive",
+   "videoId": "Yyyc_ax5G5o"
+  },
+  {
+   "artist": "Soundgarden",
+   "track": "Rusty Cage",
+   "videoId": "5rVNdGnVMb4"
+  },
+  {
+   "artist": "Cowboy Junkies",
+   "track": "State Trooper",
+   "videoId": "x23eS6_LCIE"
+  },
+  {
+   "artist": "This Is Lorelei",
+   "track": "Billy Came Back",
+   "videoId": "rpHYQQQKmos"
+  },
+  {
+   "artist": "Courtney Barnett",
+   "track": "Avant Gardener",
+   "videoId": "ot0DO179yV8"
+  },
+  {
+   "artist": "Dirty Three",
+   "track": "Sue's Last Ride",
+   "videoId": "k1sQYTXHI4M"
+  }
+ ]
 }

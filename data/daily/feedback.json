@@ -135,6 +135,60 @@
    "bucket": "show",
    "signal": "Oct. 1 candidate list, new single",
    "cooloff_until": "2026-11-29"
+  },
+  {
+   "date": "2026-10-04",
+   "artist": "The New Pornographers",
+   "title": "Votive",
+   "videoId": "Yyyc_ax5G5o",
+   "bucket": "oct8 plan",
+   "signal": "removed from Air Order",
+   "cooloff_until": "2026-12-03"
+  },
+  {
+   "date": "2026-10-04",
+   "artist": "Soundgarden",
+   "title": "Rusty Cage",
+   "videoId": "5rVNdGnVMb4",
+   "bucket": "oct8 plan",
+   "signal": "removed from Air Order",
+   "cooloff_until": "2026-12-03"
+  },
+  {
+   "date": "2026-10-04",
+   "artist": "Cowboy Junkies",
+   "title": "State Trooper",
+   "videoId": "x23eS6_LCIE",
+   "bucket": "oct8 plan",
+   "signal": "removed from Air Order",
+   "cooloff_until": "2026-12-03"
+  },
+  {
+   "date": "2026-10-04",
+   "artist": "This Is Lorelei",
+   "title": "Billy Came Back",
+   "videoId": "rpHYQQQKmos",
+   "bucket": "oct8 plan",
+   "signal": "removed from Air Order",
+   "cooloff_until": "2026-12-03"
+  },
+  {
+   "date": "2026-10-04",
+   "artist": "Courtney Barnett",
+   "title": "Avant Gardener",
+   "videoId": "ot0DO179yV8",
+   "bucket": "oct8 plan",
+   "signal": "removed from Air Order",
+   "cooloff_until": "2026-12-03"
+  },
+  {
+   "date": "2026-10-04",
+   "artist": "Dirty Three",
+   "title": "Sue's Last Ride",
+   "videoId": "k1sQYTXHI4M",
+   "bucket": "oct8 plan",
+   "signal": "removed from Air Order",
+   "cooloff_until": "2026-12-03"
   }
  ],
  "added_by_stace": [
@@ -151,6 +205,38 @@
    "tag": "1026706",
    "fcc_status": "CLEAN",
    "confirmed_in_air_order": "2026-09-29"
+  },
+  {
+   "date": "2026-10-04",
+   "artist": "Soundgarden",
+   "title": "Slaves & Bulldozers",
+   "videoId": "wgqLAlFKtXA",
+   "position": 7,
+   "set": "Hour 1, Set 2: New and coming up"
+  },
+  {
+   "date": "2026-10-04",
+   "artist": "This Is Lorelei",
+   "title": "Oh No Now My",
+   "videoId": "tsmxdk686wg",
+   "position": 26,
+   "set": "Hour 2, Set 5: Songwriters"
+  },
+  {
+   "date": "2026-10-04",
+   "artist": "Courtney Barnett",
+   "title": "One Thing At A Time",
+   "videoId": "KRc6QLhw834",
+   "position": 27,
+   "set": "Hour 2, Set 5: Songwriters"
+  },
+  {
+   "date": "2026-10-04",
+   "artist": "Stereolab",
+   "title": "Flashes In The Afternoon",
+   "videoId": "uJY5H3Hala8",
+   "position": 33,
+   "set": "Hour 2, Set 6: Heavy, psych and close"
   }
  ],
  "kept": [],
@@ -169,6 +255,12 @@
   "Iggy Pop": 1,
   "The War On Drugs": 1,
   "Iceage": 1,
-  "Wishy": 1
+  "Wishy": 1,
+  "The New Pornographers": 1,
+  "Soundgarden": 1,
+  "Cowboy Junkies": 1,
+  "This Is Lorelei": 1,
+  "Courtney Barnett": 1,
+  "Dirty Three": 1
  }
 }
