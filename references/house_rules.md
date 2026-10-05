@@ -68,3 +68,15 @@
 
 ## YTM write limits
 - After about 30 API playlist writes in one session (Oct. 4), YTM returned 403 PERMISSION_DENIED for all edits. Batch adds in one edit_playlist call per playlist, pause between playlists, and queue failures in `data/daily/pending_ytm_writes.json` for the next run.
+- Reads (`/youtubei/v1/browse`, `search`, `next`, `player`) kept working after the block.
+- Working write route (tested Oct. 4, 17 adds, no failures): open the album page `music.youtube.com/playlist?list=OLAK5uy_...`, find the row by normalized title, click its "Action menu", click the `tp-yt-paper-item` inside "Save to playlist" (never the anchor), click the target option button, then "Skip duplicates" if shown. For singles with no album page, use the search page: the row whose link has `v=<videoId>`, or the top-result card (`ytmusic-card-shelf-renderer`) header menu. Verify by reading the playlist back.
+- To find a track's album and year: `next` endpoint with the videoId; the matching `playlistPanelVideoRenderer.longBylineText` gives "Artist • Album[MPREb_id] • Year".
+
+## Run notes (Oct. 4 simulation)
+- Rebuild show files from the plan with `python3 scripts/render_show_files.py <show date> [--ticks harvested.csv]`. It writes the Notes Sheet CSV, the reversed Zookeeper CSV (no header, 6 quoted columns, "(verify)" stripped from labels), working_playlist.md and the set lists in show_script.md (talk-break text above "## Sets" is kept). Copy results to `KZSU/Working/` before deploying.
+- Snapshot every playlist you diff in `data/daily/snapshots/<playlistId>.json` after each run (Weekly, Next Show, Air Order, FCC Edit Needed). Diff against the last snapshot to find Stace's adds and deletions; log them in `data/daily/feedback.json`.
+- Stace's adds to FCC Edit Needed mean "fits, needs an edit." Keep them out of plans and the Zookeeper CSV until she supplies an edited file.
+- Air Order edits: her cuts go to `plan['cut']`; her adds get `added_by: "DJ Stace"` and full metadata. Place an add in the set that fits its angle (anniversary tracks go to the anniversary set).
+- Review Shelf deploy: the working copy keeps "Album link" and "Label link" columns; the uploaded CSV drops them and writes Album and Label as `=HYPERLINK()` formulas.
+- Git in the sandbox: commit with `git -c user.name="DJ Stace (Claude)" -c user.email="maples@stanford.edu" commit ...`; the token is `github_token` in `.env`. Push with `HEAD:main` (reviews repo: `HEAD:master`) and confirm with `git ls-remote`.
+- FCC audio edits: `scripts/fcc_audio_edit.py` exists but is parked (Whisper model download blocked in the sandbox). Do not run it on a schedule.
