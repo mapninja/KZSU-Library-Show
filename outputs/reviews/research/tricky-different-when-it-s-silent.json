@@ -1,0 +1,136 @@
+{
+ "artist": "Tricky",
+ "album": "Different When It's Silent",
+ "label": "False Idols",
+ "release_date": "2026-07-17",
+ "release_notes": [
+  "Bristol producer Adrian Thaws' 15th studio album and first full-length under his own name in six years, on his own False Idols label.",
+  "Bristol singer Mitch Sanders, 22, sings top lines on 12 of 14 tracks in a high falsetto; guests also include Marta Złakowska, Radana and Run Red Rambo.",
+  "Reviewers note distorted guitars, hypnotic basslines and electronic textures, with Tricky's low growl underneath.",
+  "Label not in the Zookeeper label table."
+ ],
+ "pull_quotes": [
+  {
+   "text": "working with some of the best instrumentals of his career",
+   "source": "The Line of Best Fit",
+   "url": "https://www.thelineofbestfit.com/albums/tricky-different-when-its-silent-avoids-nostalgia-act"
+  }
+ ],
+ "draft_comment": "Tricky's best in years. Dark, guitar-heavy Bristol trip-hop, with Mitch Sanders' ghostly falsetto doing a lot of the heavy lifting.",
+ "riyl_suggestions": [
+  "Massive Attack",
+  "Portishead",
+  "Martina Topley-Bird",
+  "Bauhaus"
+ ],
+ "tracks": [
+  {
+   "num": 1,
+   "title": "I Still See Me There",
+   "runtime": "3:39",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 2,
+   "title": "I'm Yours",
+   "runtime": "2:36",
+   "fcc": "CLEAN",
+   "notes": "Feat. Mitch Sanders; reviewers single it out for walls of electric sound."
+  },
+  {
+   "num": 3,
+   "title": "Be Still In The Pain",
+   "runtime": "3:22",
+   "fcc": "CLEAN",
+   "notes": "Feat. Mitch Sanders and Run Red Rambo."
+  },
+  {
+   "num": 4,
+   "title": "I Tried",
+   "runtime": "2:16",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 5,
+   "title": "So Cold",
+   "runtime": "2:39",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 6,
+   "title": "Paris Maybe",
+   "runtime": "2:53",
+   "fcc": "FCC fuck x1, shit x1",
+   "notes": ""
+  },
+  {
+   "num": 7,
+   "title": "Cannon Fodder",
+   "runtime": "2:48",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 8,
+   "title": "Because I Don't Know",
+   "runtime": "4:34",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 9,
+   "title": "Marinade",
+   "runtime": "3:20",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 10,
+   "title": "Radana",
+   "runtime": "3:10",
+   "fcc": "FCC fuck x3, piss x1, bitch x2",
+   "notes": "Feat. Radana."
+  },
+  {
+   "num": 11,
+   "title": "Piano",
+   "runtime": "2:43",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 12,
+   "title": "Frontier Town",
+   "runtime": "1:40",
+   "fcc": "CLEAN",
+   "notes": "No guest vocalist; short."
+  },
+  {
+   "num": 13,
+   "title": "Hengrove Blues",
+   "runtime": "2:57",
+   "fcc": "CLEAN",
+   "notes": "Hengrove is a Bristol neighborhood."
+  },
+  {
+   "num": 14,
+   "title": "Out of Place",
+   "runtime": "2:38",
+   "fcc": "CLEAN",
+   "notes": "Lead single (April 2026, announced the album); feat. Marta Złakowska. Closer."
+  }
+ ],
+ "sources": [
+  "https://tricky.bandcamp.com/album/different-when-its-silent-2",
+  "https://consequence.net/2026/04/tricky-new-album-different-when-its-silent-out-of-place/",
+  "https://www.thelineofbestfit.com/albums/tricky-different-when-its-silent-avoids-nostalgia-act",
+  "https://recordcollectormag.com/reviews/tricky-different-when-its-silent-album-review",
+  "https://www.treblezine.com/tricky-different-when-its-silent-review/"
+ ],
+ "links": {
+  "ytm": "https://music.youtube.com/search?q=Tricky+Different+When+It's+Silent"
+ }
+}

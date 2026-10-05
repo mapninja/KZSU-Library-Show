@@ -8,11 +8,12 @@ Reviewer: DJ Stace
 
 General Comments / Reviews:
 
-[Your take here.] - DJ Stace
+Fuzzy, crashing indie rock from one guy in Norway. If you miss the Built To Spill and Swervedriver lane, pull up a chair. - DJ Stace  [DRAFT, edit or replace]
 
 Release Notes:
 
-Released by Handmade Records / Indigo, Oslo, Norway, on LP, CD and digital.
+Solo project of Kenneth Amundsen from Nittedal, Norway; billed as indie rock from Oslo.
+Released March 2026 by Handmade Records / Indigo (Oslo) on LP, CD, cassette and digital.
 10 tracks, about 34 minutes.
 No lyrics posted on LRCLIB or Genius for any track; listen first.
 You have aired Hex's Up; it is in the Oct. 8 plan.
@@ -26,7 +27,7 @@ Play: All, Favs Rated with up to *****
 
 Tracklist:
 1. Hex's Up 03:50 - Pace: ____. In the Oct. 8 plan. FCC unverified: no lyrics posted. [notes]
-2. Hooves & Cloves 03:24 - Pace: ____. FCC unverified: no lyrics posted. [notes]
+2. Hooves & Cloves 03:24 - Pace: ____. Single; Glide Magazine premiere describes explosive, distorted guitars and crashing drums. FCC unverified: no lyrics posted. [notes]
 3. Where Would the Light Go 03:11 - Pace: ____. FCC unverified: no lyrics posted. [notes]
 4. Sungate 03:52 - Pace: ____. FCC unverified: no lyrics posted. [notes]
 5. Spiderette 04:21 - Pace: ____. Bandcamp focus track. FCC unverified: no lyrics posted. [notes]
@@ -36,10 +37,8 @@ Tracklist:
 9. Raven 04:54 - Pace: ____. FCC unverified: no lyrics posted. [notes]
 10. Summon the Sparks 03:38 - Pace: ____. FCC unverified: no lyrics posted. [notes]
 
----
-Research sources (delete before posting):
+Sources:
 - https://handmaderecs.bandcamp.com/
 - https://www.dreadspectrecouncil.com/
-- https://open.spotify.com/album/5FYp0h2M0w9oJtaQ6EXsCf
+- https://glidemagazine.com/316196/listen-dread-spectre-council-powers-through-different-moods-on-explosive-hooves-cloves/
 - ytm: https://music.youtube.com/search?q=Dread+Spectre+Council+Thetans
-- Pace comes from BPM data (Deezer, songbpm or tunebat). BPM can read double or half, so trust your ears.

@@ -1,0 +1,101 @@
+{
+ "artist": "Palace",
+ "album": "Ox",
+ "label": "Palace Presents/Awal",
+ "release_date": "2026-09-18",
+ "release_notes": [
+  "Fifth album from the London band; first release on their own label, Palace Presents (distributed by AWAL).",
+  "Written as the band members became fathers; songs about watching a child hear music for the first time.",
+  "Reviewers hear a floatier, dreamier record than 2024's Ultrasound.",
+  "Ten tracks, about 44 minutes. YTM marks four tracks explicit."
+ ],
+ "pull_quotes": [],
+ "draft_comment": "Dreamy, floaty Palace, all of them new dads and singing about it. Big basslines, guitars that drift instead of hit.",
+ "riyl_suggestions": [
+  "Bombay Bicycle Club",
+  "Foals",
+  "Wild Beasts",
+  "Daughter"
+ ],
+ "tracks": [
+  {
+   "num": 1,
+   "title": "Dream On",
+   "runtime": "4:23",
+   "fcc": "CLEAN",
+   "notes": "Lead single; announced the album. About becoming a parent. Cavernous bassline under Rupert Turner's guitar (Silent Radio). YTM marks it explicit; listen first."
+  },
+  {
+   "num": 2,
+   "title": "Kid",
+   "runtime": "4:22",
+   "fcc": "CLEAN",
+   "notes": "Second single; fatherhood through absence."
+  },
+  {
+   "num": 3,
+   "title": "Ohio",
+   "runtime": "3:42",
+   "fcc": "FCC piss x1",
+   "notes": ""
+  },
+  {
+   "num": 4,
+   "title": "Denny's",
+   "runtime": "4:50",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 5,
+   "title": "Lucky Boy",
+   "runtime": "3:20",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 6,
+   "title": "I've Been Laughing",
+   "runtime": "3:52",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 7,
+   "title": "Kicking Up Shadows",
+   "runtime": "3:56",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 8,
+   "title": "Brown Bread",
+   "runtime": "6:26",
+   "fcc": "FCC fuck x3, shit x3",
+   "notes": ""
+  },
+  {
+   "num": 9,
+   "title": "Made My Bed",
+   "runtime": "4:01",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 10,
+   "title": "Ox",
+   "runtime": "5:21",
+   "fcc": "FCC fuck x2",
+   "notes": ""
+  }
+ ],
+ "sources": [
+  "https://diymag.com/news/palace-return-with-new-single-dream-on-and-announce-5th-album-ox",
+  "https://www.broadwayworld.com/san-francisco/article/Palace-to-Release-Fifth-Studio-Album-Ox-20260721",
+  "https://www.silentradio.co.uk/09/22/album-review-palace-ox/",
+  "https://www.gigshack.co.uk/albums/2074"
+ ],
+ "links": {
+  "ytm": "https://music.youtube.com/search?q=Palace+Ox"
+ }
+}

@@ -107,3 +107,13 @@ Example drafted line:
 - Use 3 to 5 names.
 - Pull from the staged email's RIYL list first, then from critics' comparisons.
 - Prefer artists in her taste profile (`config/taste_profile.json`) when they fit honestly.
+
+## Voice notes (Oct. 2026, from her reviews in KZSU-Album-Reviews)
+
+- Read 3 or 4 of her reviews in the KZSU-Album-Reviews repo before drafting (for example GBV-Warp&Woof.md, Fontaines DC Dogrel.md, Bodega - Shiny New Model.md, KingTuff The Other.md).
+- Wry, punchy openers: "There's something wrong with Robert Pollard. This is his 4 millionth release. This year." Callbacks to her own past lines are welcome.
+- Plain enthusiasm is fine ("Killer song. Play this.", "catchy as hell"), as are pop-culture comparisons and one specific image ("Put the top down and crank it down the 1.").
+- Stack genre adjectives, name the band it sounds like, mention practical radio notes ("Too bad it's FCC").
+- Drafts stay short (one to three sentences) and never describe songs as if heard.
+- Track notes may include objective facts found in press: single and video dates, guests, covers, what a song is about, and short attributed reviewer descriptions in parentheses, e.g. "(Paste)".
+- End with a plain `Sources:` list; she keeps it.

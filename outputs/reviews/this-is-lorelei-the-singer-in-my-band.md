@@ -8,7 +8,7 @@ Reviewer: DJ Stace
 
 General Comments / Reviews:
 
-Twangy, tightly built road-trip indie. Lorelei goes alt-country. - DJ Stace  [DRAFT, edit or replace]
+Nate Amos gets in the car and comes back with a twangy alt-country road record. Tight, warm and catchy as hell. - DJ Stace  [DRAFT, edit or replace]
 
 Release Notes:
 
@@ -26,9 +26,9 @@ Play: All, Favs Rated with up to *****
 
 Tracklist:
 1. I Will Eat My Heart in the Morning Light 03:18 - Pace: ____. [notes]
-2. Oh No Now My 03:09 - Pace: ____. [notes]
-3. Billy Came Back 03:10 - Pace: ____. Lead single. [notes]
-4. Watching Heaven Fall 03:13 - Pace: ____. [notes]
+2. Oh No Now My 03:09 - Pace: ____. Second single; claymation-style video by Julia Fernandez. Stacked harmonies over low-tuned guitars. [notes]
+3. Billy Came Back 03:10 - Pace: ____. Lead single (June 23, 2026); song about a karaoke legend. [notes]
+4. Watching Heaven Fall 03:13 - Pace: ____. Focus track released on album day. [notes]
 5. Sailing (Your Baby's Down) 03:33 - Pace: ____. [notes]
 6. The Singer in My Band 02:26 - Pace: ____. [notes]
 7. Nitro 01:27 - Pace: ____. Instrumental. [notes]
@@ -37,11 +37,9 @@ Tracklist:
 10. And I Haven't Seen My Love in Quite a While 03:29 - Pace: ____. [notes]
 11. Don't You Cry in Lonesomeness 03:19 - Pace: ____. [notes]
 
----
-Research sources (delete before posting):
+Sources:
 - https://en.wikipedia.org/wiki/The_Singer_in_My_Band
 - https://matadorrecords.com/products/ole2217-the-singer-in-my-band
 - https://www.pastemagazine.com/music/this-is-lorelei/this-is-lorelei-the-singer-in-my-band-review
 - https://www.nme.com/reviews/album/this-is-lorelei-the-singer-in-my-band-review-3967539
 - ytm: https://music.youtube.com/search?q=This+Is+Lorelei+The+Singer+in+My+Band
-- Pace comes from BPM data (Deezer, songbpm or tunebat). BPM can read double or half, so trust your ears.

@@ -44,18 +44,28 @@
    "note": "Working CSV updated 2026-10-04 with ticks, template links and 2 Twisted Teens rows; Sheet redeploy batched with the Tuesday sweep."
   },
   "review_templates_2026-10-04": {
-   "folder": "Staged Reviews/Review Templates",
+   "folder": "Staged Reviews/Review Templates (1tHnkXsNSidy9BDtjnYBXwxibyqWl6een)",
+   "deployed": "2026-10-05T00:10Z",
    "docs": {
-    "Twisted Teens - Blame the Clown": "1X2qesWM8xLY6uKppIrOJlhD-alJlwZe9ez5G5jyMRcs",
-    "Twisted Teens - Florida Water Blues": "1Reb0GuQBlgVgIe6rXSLls22nFO4kmdp5bWzm2djV1hE",
-    "This Is Lorelei - The Singer in My Band": "1aHavvrqi26mQA3lKnA0a1NE5qHCPBxHLUVnCFQCXtBE",
-    "Yard Act - You're Gonna Need A Little Music": "1e4QGH7-UAEuNMQXoZAGkznlBgNlCcP02NZu2JrdXkK0",
-    "Sylvan Esso - Ow Infinity": "1ewFlonfE6806RbfZwg-pWpZ3cwK48gq1P9BEXop6mWM",
-    "Guided By Voices - Crawlspace of the Pantheon": "13pR_w9Pp5Ia5_oUtbYxgdF0mSn3Guhm60dPb_KJUsUM",
-    "Little Barrie - Gravity Freeze": "1w2SVe3QAMWw0Po3prJBnsHr7byUfvJPamIBScZzDGWg",
-    "Dread Spectre Council - Thetans": "1EeT0qeEAk-4LKpnrcSNFsnCub7SYJuR0NEXBhWc69m0",
-    "Sluice - Companion": "199V4OpbqtbifPRGPQcvov2aK7LzPxHQ_Y0SlRkXOowA"
+    "Twisted Teens - Blame the Clown": "1HQ3lAxkV-HR7WHCKAJVQumT1Pgjep66JuLs3liz0ZPM",
+    "Twisted Teens - Florida Water Blues": "1nut8CJNkWuG-RGJkVTGpSfeEg3vyVqpqXkntycU2KIQ",
+    "This Is Lorelei - The Singer in My Band": "1o1auc4gQyPiRJOufY69jrMcPr4VuU-rN1In2l7K8S5U",
+    "Yard Act - You're Gonna Need A Little Music": "1_xOUtQZyWpPUjGIifaGc9nXae06BaDXNxC71615KkNU",
+    "Sylvan Esso - Ow Infinity": "1zZy9Tg-28T-4jgELv9PUrlsn-A_lXgDZmvyH2jBdcHs",
+    "Guided By Voices - Crawlspace of the Pantheon": "1MRb_scujdmAxXpEKXQLXEc7s-tZdsxcY2fwd7CtwNUM",
+    "Little Barrie - Gravity Freeze": "1myGAWbTOJJC1gYyRlqEcJ0OBcvDi0BWozjcojkvilE4",
+    "Dread Spectre Council - Thetans": "1QI92WK7LL15J7xBmXRKunRo8Z7cXa5A3EFvMMGp_dlo",
+    "Sluice - Companion": "15UOGddOzcdXMiRaMbeYkPk4KdrC8Cza47o5XogoKEHk",
+    "Tricky - Different When It's Silent": "1PlCAGtgt796YoaYdZX7ySGyVDpfh3onRy8JZBctMP4M",
+    "Ty Segall - Chrome": "1JMnEW-DGAMR6OVfNyQAopLlfi75FOTfMnkBZSOEHiVA",
+    "Sharp Pins - Mod Mayday 23": "1HaOuZM5BRhwmXqh_vo7ACIXx0FBb2K4gk7OK9DGKUcQ",
+    "Palace - Ox": "1a9Wq3fnul1ITzeQk3JWf2vKiMFgUG8yo5JKke4KcNgc",
+    "Lex Walton - Ultimate Love Forever": "1ApggA6DvzNnf6sdS-JpH3Dy_XY-sjk7QQs7HLkB2Y4M"
    },
+   "stace_edits_carried": [
+    "Blame the Clown: removed unverified note on Peekaboo Hand",
+    "Thetans: Sources heading, dropped Spotify link"
+   ],
    "working": "KZSU-Album-Reviews repo"
   }
  },

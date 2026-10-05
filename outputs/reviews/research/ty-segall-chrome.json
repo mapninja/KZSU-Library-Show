@@ -1,0 +1,95 @@
+{
+ "artist": "Ty Segall",
+ "album": "Chrome",
+ "label": "Drag City",
+ "release_date": "2026-08-28",
+ "release_notes": [
+  "Ty Segall's 18th solo studio album, billed as one of his heaviest.",
+  "Recorded mostly live with Ben Boye, Evan Burrows, Mikal Cronin and Emmett Kelly, plus Bitchin Bajas' Cooper Crain.",
+  "Same-day companion Love Fuzzz EP (Twins cover plus My Pet Guru).",
+  "Louder Than War Album of the Week. Nine tracks, about 33 minutes."
+ ],
+ "pull_quotes": [],
+ "draft_comment": "Ty goes heavy. Mostly cut live with the band, fuzz pinned in the red, with a couple of crooner turns. Big, dumb, glorious riffs.",
+ "riyl_suggestions": [
+  "Thee Oh Sees",
+  "King Gizzard & The Lizard Wizard",
+  "Black Sabbath",
+  "Fuzz"
+ ],
+ "tracks": [
+  {
+   "num": 1,
+   "title": "Hospital",
+   "runtime": "4:43",
+   "fcc": "CLEAN",
+   "notes": "Opener; quiet/loud dirge into a twin-guitar solo (reviews)."
+  },
+  {
+   "num": 2,
+   "title": "Running to Nowhere",
+   "runtime": "2:30",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 3,
+   "title": "Black Paint",
+   "runtime": "2:00",
+   "fcc": "CLEAN",
+   "notes": "Lead single (June 2026); in the Oct. 8 plan."
+  },
+  {
+   "num": 4,
+   "title": "Glass",
+   "runtime": "4:27",
+   "fcc": "CLEAN",
+   "notes": "Proggy and metallic; Mikal Cronin's bass in heavy modulated fuzz; guitar duel mid-song."
+  },
+  {
+   "num": 5,
+   "title": "Play Cowboys",
+   "runtime": "4:59",
+   "fcc": "CLEAN",
+   "notes": "Psych ballad with keyboards; Ty croons."
+  },
+  {
+   "num": 6,
+   "title": "Everything You've Been",
+   "runtime": "2:06",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 7,
+   "title": "Let Go",
+   "runtime": "3:33",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 8,
+   "title": "Separation",
+   "runtime": "2:52",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 9,
+   "title": "Chrome",
+   "runtime": "5:08",
+   "fcc": "CLEAN",
+   "notes": "Title track closer, the longest at 5:08."
+  }
+ ],
+ "sources": [
+  "https://www.dragcity.com/products/chrome",
+  "https://tysegall.bandcamp.com/album/chrome",
+  "https://www.brooklynvegan.com/ty-segall-announces-new-album-chrome-shares-black-paint/",
+  "https://louderthanwar.com/album-of-the-week-ty-segall-chrome-review/",
+  "https://newnoisemagazine.com/reviews/album-review-ty-segall-chrome/"
+ ],
+ "links": {
+  "ytm": "https://music.youtube.com/search?q=Ty+Segall+Chrome"
+ }
+}

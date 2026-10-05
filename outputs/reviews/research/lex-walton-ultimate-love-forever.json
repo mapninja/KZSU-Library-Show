@@ -1,0 +1,86 @@
+{
+ "artist": "Lex Walton",
+ "album": "Ultimate Love Forever",
+ "label": "Sub Pop Records",
+ "release_date": "2026-08-26",
+ "release_notes": [
+  "Seven-song Sub Pop debut, about 20 minutes; first released on Youth Against Satan before Sub Pop signed her in August 2026.",
+  "Written by Walton; produced by Walton and Dan Boeckner (Wolf Parade, Handsome Furs); recorded, mixed and mastered by Ben Greenberg (Uniform, The Men).",
+  "CD/LP out Nov. 20, 2026 in North America.",
+  "Track 4's title contains a slur; check station policy before back-announcing."
+ ],
+ "pull_quotes": [
+  {
+   "text": "wiggly, anxious power pop",
+   "source": "Paste",
+   "url": "https://www.subpop.com/releases/lex_walton/ultimate_love_forever"
+  }
+ ],
+ "draft_comment": "Twenty minutes of scuzzy, anxious power pop that bites the music-industry hand that feeds it. Sharp, funny and over before you know it.",
+ "riyl_suggestions": [
+  "Wolf Parade",
+  "The Men",
+  "Speedy Ortiz",
+  "Parquet Courts"
+ ],
+ "tracks": [
+  {
+   "num": 1,
+   "title": "For Thee I Sing",
+   "runtime": "2:01",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 2,
+   "title": "Hipster Runoff",
+   "runtime": "2:17",
+   "fcc": "FCC shit x1",
+   "notes": "Single; video directed by and starring Walton. About the blog-era buzz band life cycle."
+  },
+  {
+   "num": 3,
+   "title": "Yr Op-Ed Won't Get You Into Heaven Anymore",
+   "runtime": "2:52",
+   "fcc": "FCC fuck x1",
+   "notes": ""
+  },
+  {
+   "num": 4,
+   "title": "USA = FAG NATION",
+   "runtime": "3:23",
+   "fcc": "CLEAN",
+   "notes": "Title contains a slur. YTM marks it explicit; listen first."
+  },
+  {
+   "num": 5,
+   "title": "I Wish I Was An M80",
+   "runtime": "3:15",
+   "fcc": "CLEAN",
+   "notes": "YTM marks it explicit; listen first."
+  },
+  {
+   "num": 6,
+   "title": "Adrian Borland Will Have His Revenge On London",
+   "runtime": "3:08",
+   "fcc": "CLEAN",
+   "notes": "Single with video (Sept. 21, 2026); about The Sound's Adrian Borland."
+  },
+  {
+   "num": 7,
+   "title": "Ultimate Love 4Ever",
+   "runtime": "3:06",
+   "fcc": "CLEAN",
+   "notes": ""
+  }
+ ],
+ "sources": [
+  "https://www.subpop.com/releases/lex_walton/ultimate_love_forever",
+  "https://www.subpop.com/news/2026/08/26/sub_pop_signs_lex_walton_to_release_her_music_worldwide_in_2026_and_beyond",
+  "https://thefirenote.com/reviews/lex-walton-ultimate-love-forever-album-review/",
+  "https://youthagainstsatan.bandcamp.com/album/ultimate-love-forever"
+ ],
+ "links": {
+  "ytm": "https://music.youtube.com/search?q=Lex+Walton+Ultimate+Love+Forever"
+ }
+}

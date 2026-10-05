@@ -4,7 +4,7 @@
  "label": "Chain Smoking Records",
  "release_date": "2026-02-13",
  "release_notes": [
-  "New Orleans garage-punk band; pedal steel is part of the lineup sound.",
+  "New Orleans garage-punk band; pedal steel runs through the songs (Fire Note: woven in, not layered on top).",
   "Bandcamp lists a first release on Chain Smoking in September 2025; wide release Feb. 13, 2026 (verify).",
   "12 tracks, about 31 minutes.",
   "Follow-up Florida Water Blues came out July 10, 2026; next album The Holy Cross Tigers is due Nov. 6, 2026 on Sub Pop.",
@@ -17,7 +17,7 @@
    "url": "https://www.pastemagazine.com/music/twisted-teens/twisted-teens-blame-the-clown-album-review"
   }
  ],
- "draft_comment": "Ragged, steel-guitar-laced New Orleans garage punk. Stooges riffs with a honky-tonk streak.",
+ "draft_comment": "Raw Power-era Stooges sitting in with a pedal steel player at a New Orleans dive. Scrappy, loud and a blast.",
  "riyl_suggestions": [
   "The Stooges",
   "Black Lips",
@@ -64,8 +64,9 @@
    "num": 6,
    "title": "Peekaboo Hand",
    "runtime": "3:23",
-   "fcc": "UNVERIFIED (no lyrics posted)",
-   "notes": ""
+   "fcc": "UNVERIFIED",
+   "notes": "",
+   "stace_edit": "Stace removed the unverified note in the Oct. 4 Doc"
   },
   {
    "num": 7,
@@ -107,7 +108,7 @@
    "title": "Corpse Pose",
    "runtime": "1:02",
    "fcc": "CLEAN",
-   "notes": ""
+   "notes": "Short closer, about a minute."
   }
  ],
  "sources": [
