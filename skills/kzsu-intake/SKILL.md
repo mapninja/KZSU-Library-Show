@@ -35,6 +35,13 @@ Working copy: `Working/review_shelf.csv` (local path `config/paths.json` > `revi
 2. **New email from Mark Mollineaux** (sender `bufordsharkley@gmail.com`, also `mgm@kzsu.stanford.edu` or `md@kzsu.stanford.edu`) or the Music Dept ("New Music Filtering", "KZSU Music: Adds"). The daily task `kzsu-daily-mark-email-check` looks for mail newer than the last date in `data/staged/email_index.json`. If there is none, it does nothing. If there is, it runs `kzsu-staged-albums-weekly` to append to `data/staged/`, then refreshes the shelf.
 3. **Monday intake** (already part of that run).
 
+### Review Shelf columns (always, in this order)
+
+`Request (x)`, `Artist`, `Album`, `Label`, `Release date`, then Type, Fit, Status, Lead track, FCC status, Notes, Boilerplate done, Added to To Review, Email date, Plays artist, Single aired, Added.
+- Every row must have Artist, Album, Label and Release date. Fill missing release dates with the fallback chain in `references/zookeeper_enrichment.md` (Bandcamp, label, Wikipedia, Discogs, press); mark single-source dates "(verify)".
+- In the deployed Sheet, Album links to the YouTube Music album (`music.youtube.com/playlist?list=OLAK5uy_...`; a watch link for a single, or a YTM search link if none) and Label links to the label's site (Bandcamp label search if unknown, artist Bandcamp search for self-released). Write them as `=HYPERLINK("url","text")` in the uploaded CSV; Sheets evaluates them on import.
+- The working CSV keeps plain Album and Label text plus two extra columns, `Album link` and `Label link`. Build it in the repo (`data/staged/review_shelf.csv`, editable from the shell), then copy it to `Working/review_shelf.csv` and deploy.
+
 Rules:
 - Add rows only for items not already on the shelf (match artist and title, ignore case). Update the status of existing rows when new data arrives. Never remove a row and never clear her ticks, notes, "Boilerplate done" or "Added to To Review" cells.
 - Keep the Request checkbox column first. Sort by fit score within source, newest additions at the top of their group.

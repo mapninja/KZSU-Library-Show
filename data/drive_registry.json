@@ -32,16 +32,17 @@
    ]
   },
   "review_shelf": {
-   "id": "1rY7PatGmSGFQg5LdbdesnwTJKfjH6xaCH85lPvmYve4",
+   "id": "1fPvv_v64PVn3_SswismkW1qPQlSJQJvkq5S3ffpteWU",
    "type": "sheet",
    "folder": "KZSU top",
-   "deployed": "2026-10-04T23:18Z",
-   "working": "Working/review_shelf.csv",
+   "deployed": "2026-10-05T01:37Z",
+   "working": "Working/review_shelf.csv (mirror: repo data/staged/review_shelf.csv)",
    "retired": [
     "1_JNWDpkk3QIIUERXNMeptA6szTzrxvulXhr2v69ihM8",
-    "1dzVYPNUWrSQ9SBTPEs676fOu9xwuRt-GJzTOqsnrV6M"
+    "1dzVYPNUWrSQ9SBTPEs676fOu9xwuRt-GJzTOqsnrV6M",
+    "1rY7PatGmSGFQg5LdbdesnwTJKfjH6xaCH85lPvmYve4"
    ],
-   "note": "Working CSV updated 2026-10-04 17:30 with ticks, template links, To Review dates and 7 new rows; Sheet redeploy batched with the Tuesday sweep."
+   "note": "Columns fixed: Request, Artist, Album (link to YTM), Label (link to label page), Release date first."
   },
   "review_templates_2026-10-04": {
    "folder": "Staged Reviews/Review Templates (1tHnkXsNSidy9BDtjnYBXwxibyqWl6een)",
