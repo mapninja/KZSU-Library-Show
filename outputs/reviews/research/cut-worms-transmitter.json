@@ -1,0 +1,108 @@
+{
+ "artist": "Cut Worms",
+ "album": "Transmitter",
+ "label": "Jagjaguwar",
+ "release_date": "2026-03-13",
+ "release_notes": [
+  "Fourth album from Max Clarke as Cut Worms; produced by Jeff Tweedy at Wilco's Loft studio in Chicago.",
+  "10 songs, about 36 minutes.",
+  "Reviewers hear a darker, richer record than earlier Cut Worms, still built on 1960s and 1970s pop.",
+  "The library has his 2023 self-titled album (tag 1149678) but not this one."
+ ],
+ "pull_quotes": [
+  {
+   "text": "a quietly excellent album",
+   "source": "AllMusic",
+   "url": "https://www.allmusic.com/album/transmitter-mw0004752788"
+  }
+ ],
+ "draft_comment": "Max Clarke hands the keys to Jeff Tweedy and the jangle gets darker and richer. Big Star melodies, Replacements heartache, zero filler.",
+ "riyl_suggestions": [
+  "Big Star",
+  "Wilco",
+  "The Everly Brothers",
+  "Elliott Smith"
+ ],
+ "tracks": [
+  {
+   "num": 1,
+   "title": "Worlds Unknown",
+   "runtime": "3:25",
+   "fcc": "CLEAN",
+   "notes": "Opener."
+  },
+  {
+   "num": 2,
+   "title": "Evil Twin",
+   "runtime": "5:01",
+   "fcc": "CLEAN",
+   "notes": "Early single; talky, jangling guitars (label notes compare The Replacements and The Go-Betweens)."
+  },
+  {
+   "num": 3,
+   "title": "Long Weekend",
+   "runtime": "2:54",
+   "fcc": "CLEAN",
+   "notes": "Single, released with the album; 70s-style power pop (label notes compare Big Star and Dwight Twilley)."
+  },
+  {
+   "num": 4,
+   "title": "Barfly",
+   "runtime": "3:26",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 5,
+   "title": "Windows on the World",
+   "runtime": "3:07",
+   "fcc": "CLEAN",
+   "notes": "Early single; label notes compare Elliott Smith and Miracle Legion."
+  },
+  {
+   "num": 6,
+   "title": "Walk in an Absent Mind",
+   "runtime": "3:20",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 7,
+   "title": "Don't Look Down",
+   "runtime": "5:23",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 8,
+   "title": "Shut In",
+   "runtime": "3:23",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 9,
+   "title": "Out of Touch",
+   "runtime": "2:46",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 10,
+   "title": "Dream",
+   "runtime": "3:48",
+   "fcc": "CLEAN",
+   "notes": "Closer."
+  }
+ ],
+ "sources": [
+  "https://cutworms.bandcamp.com/album/transmitter",
+  "https://www.thelineofbestfit.com/news/cut-worms-announces-jeff-tweedy-produced-fourth-album-transmitter",
+  "https://www.allmusic.com/album/transmitter-mw0004752788",
+  "https://faroutmagazine.co.uk/cut-worms-transmitter-album-review/",
+  "https://daily.bandcamp.com/album-of-the-day/cut-worms-transmitter-review",
+  "https://tinnitist.com/2026/03/12/albums-of-the-week-cut-worms-transmitter/"
+ ],
+ "links": {},
+ "zookeeper_tag": ""
+}
