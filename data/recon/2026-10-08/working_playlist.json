@@ -1,7 +1,7 @@
 {
  "show_date": "2026-10-08",
  "name": "DJ Stace library show working",
- "note": "Oct. 8 draft built Oct. 4, 2026. Forward air order. Air Order (forward) and Working (reversed) rebuilt from this: 37 tracks, 2:25. Triple Shot added Oct. 4: Teenage Fanclub. Air Order and Working updated (39 tracks). Oct. 4 Tuesday sweep sim: Stace's Air Order edits applied (6 cuts, 4 adds). 37 tracks, 2:19.",
+ "note": "Oct. 8 draft built Oct. 4, 2026. Forward air order. Air Order (forward) and Working (reversed) rebuilt from this: 37 tracks, 2:25. Triple Shot added Oct. 4: Teenage Fanclub. Air Order and Working updated (39 tracks). Oct. 4 Tuesday sweep sim: Stace's Air Order edits applied (6 cuts, 4 adds). 37 tracks, 2:19. Oct. 6 Tuesday sweep: applied Stace's Air Order edits (2 swaps, 5 adds). Sex Pistols \"Anarchy in the U.K.\" has FCC piss x1 and is held out of the CSV until edited or swapped.",
  "ytm_air_order": {
   "id": "PLSosF7JAIkaM",
   "tracks": 37,
@@ -93,35 +93,22 @@
    "tracks": [
     {
      "artist": "Caroline Rose",
-     "track": "Hello Again, Jim",
-     "album": "Gentling the Horse at the Walt Whitman Mall",
+     "track": "Chow Mein",
+     "album": "Gentling the Horse at the Walt Whitman Mall (advance single)",
      "label": "SUCK Records",
-     "label_source": "DB upcoming_releases",
+     "label_source": "web: SUCK Records is not in ZK label table (not in ZK)",
      "tag": "",
-     "released": "2026-10-23 (album)",
-     "why": "Core artist. Album out Oct. 23.",
+     "released": "2026 single; album 2026-10-23",
+     "type": "single",
+     "upcoming": "Album Oct. 23",
+     "priority": "O",
+     "why": "Added by DJ Stace (replaced Hello Again, Jim). Album out Oct. 23 on her own SUCK imprint. YTM lists the single under \"Calm\" (verify album).",
      "fcc_status": "CLEAN",
-     "fcc_note": "CLEAN (Genius)",
-     "priority": "R",
-     "source": "weekly playlist/recon",
-     "videoId": "KhXL7QK5kf4",
-     "duration": "3:27"
-    },
-    {
-     "artist": "Ty Segall",
-     "track": "Black Paint",
-     "album": "",
-     "label": "Drag City",
-     "label_source": "DB spins",
-     "tag": "",
-     "released": "",
-     "why": "Core artist.",
-     "fcc_status": "CLEAN",
-     "fcc_note": "CLEAN (LRCLIB)",
-     "priority": "R",
-     "source": "weekly playlist/recon",
-     "videoId": "DG4Z4W1vG38",
-     "duration": "2:00"
+     "fcc_note": "CLEAN (Genius, Oct. 6)",
+     "source": "added_by_stace",
+     "added_by": "DJ Stace",
+     "videoId": "xoB-7eET8sw",
+     "duration": "2:25"
     },
     {
      "artist": "Dread Spectre Council",
@@ -236,6 +223,25 @@
      "source": "weekly playlist/recon",
      "videoId": "CO5GaVJiRwo",
      "duration": "5:15"
+    },
+    {
+     "artist": "Ty Segall",
+     "track": "Play Cowboys",
+     "album": "Chrome",
+     "label": "Drag City",
+     "label_source": "ZK label table (Drag City #989)",
+     "tag": "",
+     "released": "2026-08-28",
+     "type": "album track",
+     "upcoming": "",
+     "priority": "O",
+     "why": "Added by DJ Stace (replaced Black Paint). Chrome is on the To Review list.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, Oct. 6)",
+     "source": "added_by_stace",
+     "added_by": "DJ Stace",
+     "videoId": "pirkuE2Edgc",
+     "duration": "4:59"
     }
    ]
   },
@@ -352,6 +358,25 @@
      "source": "weekly playlist/recon",
      "videoId": "1ZX98VQcVl0",
      "duration": "3:32"
+    },
+    {
+     "artist": "Imperial Teen",
+     "track": "Overdrive",
+     "album": "All Over You",
+     "label": "Merge Records",
+     "label_source": "ZK label table (Merge Records #1993)",
+     "tag": "",
+     "released": "2026-08-04 (single); album 2026-10-09",
+     "type": "single",
+     "upcoming": "Album Oct. 9",
+     "priority": "O",
+     "why": "Added by DJ Stace. Album out Oct. 9 on Merge. Band plays Bottom of the Hill, S.F., Oct. 15.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Oct. 4 shelf check; Genius has no match)",
+     "source": "added_by_stace",
+     "added_by": "DJ Stace",
+     "videoId": "kIRXNnh6NdU",
+     "duration": "3:07"
     },
     {
      "artist": "Geese",
@@ -708,6 +733,82 @@
       "album": "89/93: An Anthology",
       "label": "Columbia Legacy"
      }
+    },
+    {
+     "artist": "Westside Cowboy",
+     "track": "Kick Stones (The Boys)",
+     "album": "It Goes On",
+     "label": "Island Records",
+     "label_source": "ZK label table (Island Records #10827)",
+     "tag": "",
+     "released": "2026-08-21",
+     "type": "album track",
+     "upcoming": "",
+     "priority": "O",
+     "why": "Added by DJ Stace. NACC #11 debut from Manchester.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, Oct. 6)",
+     "source": "added_by_stace",
+     "added_by": "DJ Stace",
+     "videoId": "W51Ik_1noH8",
+     "duration": "3:57"
+    },
+    {
+     "artist": "Sex Pistols",
+     "track": "Anarchy in the U.K.",
+     "album": "Never Mind the Bollocks, Here's the Sex Pistols",
+     "label": "Warner Bros. Records",
+     "label_source": "ZK album 903574",
+     "tag": "903574",
+     "released": "1977 (album); single 1976",
+     "type": "album track",
+     "upcoming": "",
+     "priority": "SKIP",
+     "why": "Added by DJ Stace.",
+     "fcc_status": "FCC",
+     "fcc_note": "piss (\"pissed\") x1 (Outro). Needs a radio edit or a swap.",
+     "source": "added_by_stace",
+     "added_by": "DJ Stace",
+     "videoId": "K07Yq4zGTcI",
+     "duration": "3:32"
+    },
+    {
+     "artist": "The Clash",
+     "track": "Know Your Rights",
+     "album": "Combat Rock",
+     "label": "Epic Records",
+     "label_source": "ZK album 935894",
+     "tag": "935894",
+     "released": "1982",
+     "type": "album track",
+     "upcoming": "",
+     "priority": "O",
+     "why": "Added by DJ Stace.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, Oct. 6)",
+     "source": "added_by_stace",
+     "added_by": "DJ Stace",
+     "videoId": "M1Zz7QWbS-w",
+     "duration": "3:41"
+    },
+    {
+     "artist": "Yard Act",
+     "track": "You're Gonna Need a Little Music",
+     "album": "You're Gonna Need a Little Music",
+     "label": "Republic Records",
+     "label_source": "ZK label table (Republic Records #8396)",
+     "tag": "",
+     "released": "2026-07-17",
+     "type": "album track",
+     "upcoming": "",
+     "priority": "O",
+     "why": "Added by DJ Stace. NACC #41.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, Oct. 6; album has FCC hits on other tracks)",
+     "source": "added_by_stace",
+     "added_by": "DJ Stace",
+     "videoId": "aGTuvSf85-s",
+     "duration": "4:41"
     }
    ]
   }
@@ -796,6 +897,18 @@
    "artist": "Dirty Three",
    "track": "Sue's Last Ride",
    "videoId": "k1sQYTXHI4M"
+  },
+  {
+   "artist": "Caroline Rose",
+   "track": "Hello Again, Jim",
+   "videoId": "KhXL7QK5kf4",
+   "note": "Swapped out of Air Order by DJ Stace (seen Oct. 6)"
+  },
+  {
+   "artist": "Ty Segall",
+   "track": "Black Paint",
+   "videoId": "DG4Z4W1vG38",
+   "note": "Swapped out of Air Order by DJ Stace (seen Oct. 6)"
   }
  ]
 }

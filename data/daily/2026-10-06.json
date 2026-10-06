@@ -1,0 +1,128 @@
+{
+ "date": "2026-10-06",
+ "playlist": "Stace's Weekly Playlist",
+ "note": "Tuesday sweep: 11 new singles added. Weekly now 102 tracks.",
+ "tracks": [
+  {
+   "artist": "Fontaines D.C.",
+   "title": "Tongue",
+   "videoId": "hfus2KUnWlQ",
+   "album": "Dopamine Chamber",
+   "label": "Xl Recordings",
+   "released": "2026-10-16 (album)",
+   "fcc_status": "FCC",
+   "fcc_note": "shit x10 (Refrain)",
+   "bucket": "new single"
+  },
+  {
+   "artist": "L7",
+   "title": "Loma Linda",
+   "videoId": "_A-qWmdo1n4",
+   "album": "single",
+   "label": "self-released (verify)",
+   "released": "2026-10-05",
+   "fcc_status": "UNVERIFIED",
+   "fcc_note": "no lyrics posted",
+   "bucket": "new single"
+  },
+  {
+   "artist": "DIIV",
+   "title": "Trillions",
+   "videoId": "44mcd6hjOl0",
+   "album": "ZIRP!",
+   "label": "Fantasy Records",
+   "released": "2026-10-30 (album)",
+   "fcc_status": "FCC",
+   "fcc_note": "fucking x1 (no section)",
+   "bucket": "new single"
+  },
+  {
+   "artist": "Clinic",
+   "title": "You and I",
+   "videoId": "czwz__JdcxQ",
+   "album": "Wild in the Streets",
+   "label": "Domino Recording Company",
+   "released": "2026-10-30 (album)",
+   "fcc_status": "UNVERIFIED",
+   "fcc_note": "no lyrics found",
+   "bucket": "new single"
+  },
+  {
+   "artist": "Cursive",
+   "title": "Wounded Animal",
+   "videoId": "Qd1-D5CZI3k",
+   "album": "Who's Watching (OST)",
+   "label": "15 Passenger Records",
+   "released": "2026-10-30 (album)",
+   "fcc_status": "UNVERIFIED",
+   "fcc_note": "no lyrics found",
+   "bucket": "new single"
+  },
+  {
+   "artist": "Dazy",
+   "title": "Ugly",
+   "videoId": "uH5CSB1vpb4",
+   "album": "MAXIMUMBLASTSUPERLOUD Vol. 2",
+   "label": "Lame-O Records",
+   "released": "2026-10-23 (album)",
+   "fcc_status": "UNVERIFIED",
+   "fcc_note": "no lyrics found",
+   "bucket": "new single"
+  },
+  {
+   "artist": "Brigitte Calls Me Baby",
+   "title": "Altitude",
+   "videoId": "akcyM1qcfuM",
+   "album": "Altitude (single)",
+   "label": "Ato Records",
+   "released": "2026-10-02",
+   "fcc_status": "CLEAN",
+   "fcc_note": "",
+   "bucket": "new single"
+  },
+  {
+   "artist": "Spanish Love Songs",
+   "title": "Doom Tripping",
+   "videoId": "TmB8o0oPu3M",
+   "album": "Future Nausea",
+   "label": "Pure Noise Records",
+   "released": "2026-11-06 (album)",
+   "fcc_status": "FCC",
+   "fcc_note": "shit x1 (Verse 3)",
+   "bucket": "new single"
+  },
+  {
+   "artist": "Kings of Leon",
+   "title": "Cold Blue Dawn",
+   "videoId": "VQZxwhWDh8w",
+   "album": "O My Beloved",
+   "label": "Love Tap Records / Virgin Music",
+   "released": "2026-11-06 (album)",
+   "fcc_status": "UNVERIFIED",
+   "fcc_note": "no lyrics found",
+   "bucket": "new single"
+  },
+  {
+   "artist": "Teens in Trouble",
+   "title": "I Do",
+   "videoId": "HDFgZYq0-zo",
+   "album": "I Do (single)",
+   "label": "Lauren Records / Sneak Dog Records",
+   "released": "2026-10-05 (verify)",
+   "fcc_status": "CLEAN",
+   "fcc_note": "",
+   "bucket": "new single"
+  },
+  {
+   "artist": "Michael Kiwanuka",
+   "title": "Summer Clothes",
+   "videoId": "Q19tYEHCfP0",
+   "album": "Fudge",
+   "label": "Polydor",
+   "released": "2026-10-23 (album)",
+   "fcc_status": "CLEAN",
+   "fcc_note": "",
+   "bucket": "new single"
+  }
+ ]
+}

@@ -2,34 +2,37 @@
  "note": "Artifact key -> Drive file. Updated by kzsu-drive-deploy.",
  "artifacts": {
   "working_show_script_2026-10-08": {
-   "id": "1z13BmF-56bP98Iyv7cqD0BJ_megFbuxENKg6kzYeoC8",
+   "id": "131Soxv7Tq0EWOrdd-J2L2qwM_Ak4WA8y2Dy-nKcrVvk",
    "type": "doc",
    "folder": "Show Prep",
-   "deployed": "2026-10-05T04:12Z",
+   "deployed": "2026-10-06T13:52Z",
    "working": "Working/working_show_script_2026-10-08.md (repo outputs/recon/2026-10-08/show_script.md)",
    "retired": [
+    "1z13BmF-56bP98Iyv7cqD0BJ_megFbuxENKg6kzYeoC8",
     "1ukySYvvTnd7SE_Zqs8r2bw580rofGKH_t2s6IIdvLSY",
     "1N227XKEJHf9PLXUUxv7W1k_36PG4TE0dvVg1g9Zb6rs"
    ]
   },
   "notes_sheet_2026-10-08": {
-   "id": "12Ts38awTlZl9E4TuQEFZfPu_lh-HBZ8N6Wz339gi1FY",
+   "id": "1v9--CvT-p9c8HZvB9Gq-_pcangbeRTmNHjCV_x0z8yE",
    "type": "sheet",
    "folder": "Show Prep",
-   "deployed": "2026-10-05T04:05Z",
+   "deployed": "2026-10-06T13:51Z",
    "working": "Working/notes_sheet_2026-10-08.csv",
    "retired": [
+    "12Ts38awTlZl9E4TuQEFZfPu_lh-HBZ8N6Wz339gi1FY",
     "1oQ6riHDzAg3qlaSecc6PSaEu8ESQ7RAb_138fF5MpVQ",
     "1dgj77H0z-L4CJ09MdIjL8IN63adoYzj1lVJb0MWOxTE"
    ]
   },
   "zookeeper_csv_2026-10-08": {
-   "id": "18DKr7pbnRW9wXUdvpUUeJ5LOmfJ-zAwy",
+   "id": "1XWYE3N4m5FMUXoian3Ieh-89lTv4HmeM",
    "type": "csv-raw",
    "folder": "Show Prep",
-   "deployed": "2026-10-05T04:13Z",
+   "deployed": "2026-10-06T13:52Z",
    "working": "Working/library_show_playlist_2026-10-08.csv",
    "retired": [
+    "18DKr7pbnRW9wXUdvpUUeJ5LOmfJ-zAwy",
     "1qdrsapOIewzKBuBnIjS_BHGNQ9rGVrfs",
     "1KP0t2naEl2g6yRD9DYVvJsMCxS44a_kA"
    ]

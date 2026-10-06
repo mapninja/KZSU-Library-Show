@@ -189,6 +189,32 @@
    "bucket": "oct8 plan",
    "signal": "removed from Air Order",
    "cooloff_until": "2026-12-03"
+  },
+  {
+   "date": "2026-10-06",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "mercury",
+   "title": "Roar Of The Heliac Goat",
+   "videoId": "K6abLeVRgj0",
+   "cooloff_until": "2026-12-05"
+  },
+  {
+   "date": "2026-10-06",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Caroline Rose",
+   "title": "Hello Again, Jim",
+   "videoId": "KhXL7QK5kf4",
+   "note": "swapped for another track by the same artist",
+   "cooloff_until": "2026-12-05"
+  },
+  {
+   "date": "2026-10-06",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Ty Segall",
+   "title": "Black Paint",
+   "videoId": "DG4Z4W1vG38",
+   "note": "swapped for another track by the same artist",
+   "cooloff_until": "2026-12-05"
   }
  ],
  "added_by_stace": [
@@ -247,6 +273,97 @@
    "album": "Czarface Meets Frankie Pulitzer",
    "fcc": "shit x2 (Genius and LRCLIB agree)",
    "signal": "wants an edit; fits the show"
+  },
+  {
+   "date": "2026-10-06",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "Queens of the Stone Age",
+   "title": "Insignificant Other",
+   "videoId": "TVTmQTcV-iE"
+  },
+  {
+   "date": "2026-10-06",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "alt-J",
+   "title": "Left Hand Free",
+   "videoId": "vGIAO5Uz1Us"
+  },
+  {
+   "date": "2026-10-06",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "Soundgarden",
+   "title": "Into The Void (Sealth)",
+   "videoId": "gtG5d3Zd6I4"
+  },
+  {
+   "date": "2026-10-06",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "Nick Cave & The Bad Seeds",
+   "title": "Jubilee Street",
+   "videoId": "jCGyhMyH2GE"
+  },
+  {
+   "date": "2026-10-06",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Caroline Rose",
+   "title": "Chow Mein",
+   "videoId": "xoB-7eET8sw",
+   "album": "Gentling the Horse at the Walt Whitman Mall",
+   "label": "SUCK Records"
+  },
+  {
+   "date": "2026-10-06",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Ty Segall",
+   "title": "Play Cowboys",
+   "videoId": "pirkuE2Edgc",
+   "album": "Chrome",
+   "label": "Drag City"
+  },
+  {
+   "date": "2026-10-06",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Imperial Teen",
+   "title": "Overdrive",
+   "videoId": "kIRXNnh6NdU",
+   "album": "All Over You",
+   "label": "Merge Records"
+  },
+  {
+   "date": "2026-10-06",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Westside Cowboy",
+   "title": "Kick Stones (The Boys)",
+   "videoId": "W51Ik_1noH8",
+   "album": "It Goes On",
+   "label": "Island Records"
+  },
+  {
+   "date": "2026-10-06",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Sex Pistols",
+   "title": "Anarchy in the U.K.",
+   "videoId": "K07Yq4zGTcI",
+   "album": "Never Mind the Bollocks",
+   "label": "Warner Bros. Records"
+  },
+  {
+   "date": "2026-10-06",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "The Clash",
+   "title": "Know Your Rights",
+   "videoId": "M1Zz7QWbS-w",
+   "album": "Combat Rock",
+   "label": "Epic Records"
+  },
+  {
+   "date": "2026-10-06",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Yard Act",
+   "title": "You're Gonna Need A Little Music",
+   "videoId": "aGTuvSf85-s",
+   "album": "You're Gonna Need A Little Music",
+   "label": "Republic Records"
   }
  ],
  "kept": [],
@@ -271,6 +388,7 @@
   "Cowboy Junkies": 1,
   "This Is Lorelei": 1,
   "Courtney Barnett": 1,
-  "Dirty Three": 1
+  "Dirty Three": 1,
+  "mercury": 1
  }
 }
