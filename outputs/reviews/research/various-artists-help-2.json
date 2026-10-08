@@ -1,0 +1,247 @@
+{
+ "artist": "Various Artists",
+ "album": "HELP(2)",
+ "label": "War Child Records",
+ "release_date": "2026-03-06",
+ "release_notes": [
+  "Charity compilation for War Child, a follow-up to the 1995 HELP album. 23 tracks, about 86 minutes.",
+  "Recorded mostly in one week in November 2025 at Abbey Road Studios. James Ford is executive producer; Jonathan Glazer is creative director.",
+  "Contributors include Arctic Monkeys, Pulp, Wet Leg, Depeche Mode, Fontaines D.C., Big Thief, Olivia Rodrigo and Beck.",
+  "The gatefold vinyl comes with a bonus Oasis live 7\" (Acquiesce, Wembley)."
+ ],
+ "pull_quotes": [
+  {
+   "text": "generally more hushed and jazzier than its predecessor",
+   "source": "Bandcamp Daily",
+   "url": "https://daily.bandcamp.com/album-of-the-day/various-artists-help-2-review"
+  }
+ ],
+ "draft_comment": "Star-studded charity comp, mostly covers and new songs cut in about a week at Abbey Road with James Ford producing. Arctic Monkeys open it.",
+ "riyl_suggestions": [
+  "HELP (1995)",
+  "Arctic Monkeys",
+  "Wet Leg",
+  "Pulp",
+  "Fontaines D.C."
+ ],
+ "tracks": [
+  {
+   "num": 1,
+   "title": "Arctic Monkeys - Opening Night",
+   "runtime": "4:19",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 2,
+   "title": "Damon Albarn, Grian Chatten & Kae Tempest - Flags",
+   "runtime": "5:06",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 3,
+   "title": "Black Country, New Road - Strangers",
+   "runtime": "4:29",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 4,
+   "title": "The Last Dinner Party - Let's Do It Again!",
+   "runtime": "4:31",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 5,
+   "title": "Beth Gibbons - Sunday Morning",
+   "runtime": "4:49",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 6,
+   "title": "Arooj Aftab & Beck - Lilac Wine",
+   "runtime": "3:46",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 7,
+   "title": "King Krule - The 343 Loop",
+   "runtime": "2:06",
+   "bpm": null,
+   "pace": "",
+   "fcc": "UNVERIFIED",
+   "notes": "Under 2:30."
+  },
+  {
+   "num": 8,
+   "title": "Depeche Mode - Universal Soldier",
+   "runtime": "3:20",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 9,
+   "title": "Ezra Collective & Greentea Peng - Helicopters",
+   "runtime": "3:58",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 10,
+   "title": "Arlo Parks - Nothing I Could Hide",
+   "runtime": "2:57",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 11,
+   "title": "English Teacher & Graham Coxon - Parasite",
+   "runtime": "3:09",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 12,
+   "title": "beabadoobee - Say Yes",
+   "runtime": "2:36",
+   "bpm": null,
+   "pace": "",
+   "fcc": "FCC shit x1 (Verse 2), fuck x1 (Bridge)",
+   "notes": "Cover of Elliott Smith's \"Say Yes\""
+  },
+  {
+   "num": 13,
+   "title": "Big Thief - Relive, Redie",
+   "runtime": "3:23",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 14,
+   "title": "Fontaines D.C. - Black Boys on Mopeds",
+   "runtime": "3:34",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 15,
+   "title": "Cameron Winter - Warning",
+   "runtime": "4:32",
+   "bpm": null,
+   "pace": "",
+   "fcc": "FCC fuck x2",
+   "notes": ""
+  },
+  {
+   "num": 16,
+   "title": "Young Fathers - Don't Fight the Young",
+   "runtime": "2:27",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 17,
+   "title": "Pulp - Begging for Change",
+   "runtime": "4:20",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 18,
+   "title": "Sampha - Naboo",
+   "runtime": "3:14",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 19,
+   "title": "Wet Leg - Obvious",
+   "runtime": "3:31",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 20,
+   "title": "Foals - When the War is Finally Done",
+   "runtime": "3:57",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 21,
+   "title": "Bat For Lashes - Carried my girl",
+   "runtime": "3:55",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 22,
+   "title": "Anna Calvi, Ellie Rowsell, Nilüfer Yanya & Dove Ellis - Sunday Light",
+   "runtime": "4:02",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 23,
+   "title": "Olivia Rodrigo - The Book of Love",
+   "runtime": "4:08",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": ""
+  }
+ ],
+ "sources": [
+  "https://warchildrecords.bandcamp.com/album/help-2",
+  "https://daily.bandcamp.com/album-of-the-day/various-artists-help-2-review",
+  "https://en.wikipedia.org/wiki/Help(2)",
+  "https://www.radiox.co.uk/news/music/war-child-help-2-album-tracklist-artists-release-date/",
+  "https://variety.com/2026/music/reviews/olivia-rodrigo-cameron-winter-war-child-help2-album-review-1236681030/",
+  "Lyrics screened on Genius (counts only). Track 7 had no lyrics page."
+ ],
+ "links": {
+  "ytm": "https://music.youtube.com/browse/MPREb_QeefTasdpbO"
+ }
+}
