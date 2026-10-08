@@ -2,7 +2,7 @@
  "note": "Artifact key -> Drive file. Updated by kzsu-drive-deploy.",
  "artifacts": {
   "working_show_script_2026-10-08": {
-   "id": "131Soxv7Tq0EWOrdd-J2L2qwM_Ak4WA8y2Dy-nKcrVvk",
+   "id": null,
    "type": "doc",
    "folder": "Show Prep",
    "deployed": "2026-10-06T13:52Z",
@@ -10,8 +10,10 @@
    "retired": [
     "1z13BmF-56bP98Iyv7cqD0BJ_megFbuxENKg6kzYeoC8",
     "1ukySYvvTnd7SE_Zqs8r2bw580rofGKH_t2s6IIdvLSY",
-    "1N227XKEJHf9PLXUUxv7W1k_36PG4TE0dvVg1g9Zb6rs"
-   ]
+    "1N227XKEJHf9PLXUUxv7W1k_36PG4TE0dvVg1g9Zb6rs",
+    "131Soxv7Tq0EWOrdd-J2L2qwM_Ak4WA8y2Dy-nKcrVvk"
+   ],
+   "note": "Retired to _to_delete Oct. 7 when the final script was published."
   },
   "notes_sheet_2026-10-08": {
    "id": "1v9--CvT-p9c8HZvB9Gq-_pcangbeRTmNHjCV_x0z8yE",
@@ -76,6 +78,34 @@
     "Thetans: Sources heading, dropped Spotify link"
    ],
    "working": "KZSU-Album-Reviews repo"
+  },
+  "final_show_script_2026-10-08": {
+   "id": "1PxJCrGyNjE7f7rszKXHpL9P7PPxZ4cIHMx62h_tXMtc",
+   "type": "doc",
+   "folder": "KZSU top",
+   "deployed": "2026-10-08T04:11Z",
+   "working": "Working/final_show_script_2026-10-08.md (repo outputs/recon/2026-10-08/final_show_script_2026-10-08.md)",
+   "retired": []
+  },
+  "final_notes_sheet_2026-10-08": {
+   "id": "1kyHIplkBUTlVdclvKzA7S_JWa1X0rpPBwf16vxJTQok",
+   "type": "sheet",
+   "folder": "KZSU top",
+   "deployed": "2026-10-08T04:12Z",
+   "working": "Working/notes_sheet_2026-10-08.csv",
+   "retired": [
+    "1v9--CvT-p9c8HZvB9Gq-_pcangbeRTmNHjCV_x0z8yE"
+   ]
+  },
+  "zookeeper_csv_2026-10-08_final": {
+   "id": "1ksLeqJt2CUae1Lh6U6CZJqbuA3oafz3t",
+   "type": "csv-raw",
+   "folder": "KZSU top",
+   "deployed": "2026-10-08T04:12Z",
+   "working": "Working/library_show_playlist_2026-10-08.csv",
+   "retired": [
+    "1XWYE3N4m5FMUXoian3Ieh-89lTv4HmeM"
+   ]
   }
  },
  "folders": {

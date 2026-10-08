@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "type": "album",
+      "attributes": {
+        "artist": "Twisted Teens",
+        "album": "Florida Water Blues",
+        "category": "General",
+        "medium": "CD",
+        "size": "Full",
+        "location": "Pending Appr",
+        "bin": null,
+        "coll": false,
+        "tracks": [
+          {
+            "seq": 1,
+            "track": "Why Did You Miss It?",
+            "duration": "00:03:36",
+            "url": "https://twistedteens.bandcamp.com/track/why-did-you-miss-it"
+          },
+          {
+            "seq": 2,
+            "track": "Hand Me A Cigarette",
+            "duration": "00:03:26",
+            "url": "https://twistedteens.bandcamp.com/track/hand-me-a-cigarette"
+          },
+          {
+            "seq": 3,
+            "track": "Swamp",
+            "duration": "00:02:55",
+            "url": "https://twistedteens.bandcamp.com/track/swamp"
+          },
+          {
+            "seq": 4,
+            "track": "Guided Thunder",
+            "duration": "00:03:13",
+            "url": "https://twistedteens.bandcamp.com/track/florida-water-blues-2"
+          },
+          {
+            "seq": 5,
+            "track": "Florida Water Blues",
+            "duration": "00:03:45",
+            "url": "https://twistedteens.bandcamp.com/track/guided-thunder"
+          },
+          {
+            "seq": 6,
+            "track": "Top Of The World Hwy No.2",
+            "duration": "00:02:12",
+            "url": "https://twistedteens.bandcamp.com/track/top-of-the-world-hwy-no-2"
+          },
+          {
+            "seq": 7,
+            "track": "Concealed Weepin'",
+            "duration": "00:02:27",
+            "url": "https://twistedteens.bandcamp.com/track/concealed-weeping"
+          },
+          {
+            "seq": 8,
+            "track": "Riding",
+            "duration": "00:03:54",
+            "url": "https://twistedteens.bandcamp.com/track/riding"
+          },
+          {
+            "seq": 9,
+            "track": "Business",
+            "duration": "00:02:23",
+            "url": "https://twistedteens.bandcamp.com/track/business"
+          },
+          {
+            "seq": 10,
+            "track": "Javelina",
+            "duration": "00:02:50",
+            "url": "https://twistedteens.bandcamp.com/track/javelina"
+          },
+          {
+            "seq": 11,
+            "track": "Weather The Season",
+            "duration": "00:03:45",
+            "url": "https://twistedteens.bandcamp.com/track/weather-the-season"
+          },
+          {
+            "seq": 12,
+            "track": "Dancer",
+            "duration": "00:03:00",
+            "url": "https://twistedteens.bandcamp.com/track/dancer"
+          },
+          {
+            "seq": 13,
+            "track": "Sun Go Down",
+            "duration": "00:05:10",
+            "url": "https://twistedteens.bandcamp.com/track/sun-go-down"
+          }
+        ]
+      },
+      "relationships": {
+        "label": {
+          "data": {
+            "type": "label",
+            "id": "local-twisted-teens-florida-water-blues"
+          }
+        }
+      }
+    }
+  ],
+  "included": [
+    {
+      "type": "label",
+      "id": "local-twisted-teens-florida-water-blues",
+      "attributes": {
+        "name": "Going Underground"
+      }
+    }
+  ]
+}

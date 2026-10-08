@@ -1,0 +1,988 @@
+[
+  {
+    "key": "twisted-teens-blame-the-clown",
+    "post_to": "/api/v1/album",
+    "source_doc": "1HQ3lAxkV-HR7WHCKAJVQumT1Pgjep66JuLs3liz0ZPM",
+    "payload": {
+      "data": [
+        {
+          "type": "album",
+          "attributes": {
+            "artist": "Twisted Teens",
+            "album": "Blame the Clown",
+            "category": "General",
+            "medium": "CD",
+            "size": "Full",
+            "location": "Pending Appr",
+            "bin": null,
+            "coll": false,
+            "tracks": [
+              {
+                "seq": 1,
+                "track": "Is It Real?",
+                "duration": "00:03:02",
+                "url": "https://twistedteens.bandcamp.com/track/is-it-real"
+              },
+              {
+                "seq": 2,
+                "track": "Wild Connection",
+                "duration": "00:02:49",
+                "url": "https://twistedteens.bandcamp.com/track/wild-connection"
+              },
+              {
+                "seq": 3,
+                "track": "I Operate",
+                "duration": "00:01:54",
+                "url": "https://twistedteens.bandcamp.com/track/i-operate"
+              },
+              {
+                "seq": 4,
+                "track": "Little Seed",
+                "duration": "00:02:50",
+                "url": "https://twistedteens.bandcamp.com/track/little-seed"
+              },
+              {
+                "seq": 5,
+                "track": "100 Bill Is Gone!",
+                "duration": "00:02:58",
+                "url": "https://twistedteens.bandcamp.com/track/100-bill-is-gone"
+              },
+              {
+                "seq": 6,
+                "track": "Peekaboo Hand",
+                "duration": "00:03:23",
+                "url": "https://twistedteens.bandcamp.com/track/peekaboo-hand"
+              },
+              {
+                "seq": 7,
+                "track": "Not Real",
+                "duration": "00:02:54",
+                "url": "https://twistedteens.bandcamp.com/track/not-real"
+              },
+              {
+                "seq": 8,
+                "track": "Who Could It Be?",
+                "duration": "00:02:41",
+                "url": "https://twistedteens.bandcamp.com/track/who-could-it-be"
+              },
+              {
+                "seq": 9,
+                "track": "Circus Clown",
+                "duration": "00:02:06",
+                "url": "https://twistedteens.bandcamp.com/track/circus-clown"
+              },
+              {
+                "seq": 10,
+                "track": "Hurricane",
+                "duration": "00:02:00",
+                "url": "https://twistedteens.bandcamp.com/track/hurricane"
+              },
+              {
+                "seq": 11,
+                "track": "White Hot Coal",
+                "duration": "00:02:54",
+                "url": "https://twistedteens.bandcamp.com/track/white-hot-coal"
+              },
+              {
+                "seq": 12,
+                "track": "Corpse Pose",
+                "duration": "00:01:02",
+                "url": ""
+              }
+            ]
+          },
+          "relationships": {
+            "label": {
+              "data": {
+                "type": "label",
+                "id": "local-twisted-teens-blame-the-clown"
+              }
+            }
+          }
+        }
+      ],
+      "included": [
+        {
+          "type": "label",
+          "id": "local-twisted-teens-blame-the-clown",
+          "attributes": {
+            "name": "Chain Smoking Records"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "key": "twisted-teens-florida-water-blues",
+    "post_to": "/api/v1/album",
+    "source_doc": "1nut8CJNkWuG-RGJkVTGpSfeEg3vyVqpqXkntycU2KIQ",
+    "payload": {
+      "data": [
+        {
+          "type": "album",
+          "attributes": {
+            "artist": "Twisted Teens",
+            "album": "Florida Water Blues",
+            "category": "General",
+            "medium": "CD",
+            "size": "Full",
+            "location": "Pending Appr",
+            "bin": null,
+            "coll": false,
+            "tracks": [
+              {
+                "seq": 1,
+                "track": "Why Did You Miss It?",
+                "duration": "00:03:36",
+                "url": "https://twistedteens.bandcamp.com/track/why-did-you-miss-it"
+              },
+              {
+                "seq": 2,
+                "track": "Hand Me A Cigarette",
+                "duration": "00:03:26",
+                "url": "https://twistedteens.bandcamp.com/track/hand-me-a-cigarette"
+              },
+              {
+                "seq": 3,
+                "track": "Swamp",
+                "duration": "00:02:55",
+                "url": "https://twistedteens.bandcamp.com/track/swamp"
+              },
+              {
+                "seq": 4,
+                "track": "Guided Thunder",
+                "duration": "00:03:13",
+                "url": "https://twistedteens.bandcamp.com/track/florida-water-blues-2"
+              },
+              {
+                "seq": 5,
+                "track": "Florida Water Blues",
+                "duration": "00:03:45",
+                "url": "https://twistedteens.bandcamp.com/track/guided-thunder"
+              },
+              {
+                "seq": 6,
+                "track": "Top Of The World Hwy No.2",
+                "duration": "00:02:12",
+                "url": "https://twistedteens.bandcamp.com/track/top-of-the-world-hwy-no-2"
+              },
+              {
+                "seq": 7,
+                "track": "Concealed Weepin'",
+                "duration": "00:02:27",
+                "url": "https://twistedteens.bandcamp.com/track/concealed-weeping"
+              },
+              {
+                "seq": 8,
+                "track": "Riding",
+                "duration": "00:03:54",
+                "url": "https://twistedteens.bandcamp.com/track/riding"
+              },
+              {
+                "seq": 9,
+                "track": "Business",
+                "duration": "00:02:23",
+                "url": "https://twistedteens.bandcamp.com/track/business"
+              },
+              {
+                "seq": 10,
+                "track": "Javelina",
+                "duration": "00:02:50",
+                "url": "https://twistedteens.bandcamp.com/track/javelina"
+              },
+              {
+                "seq": 11,
+                "track": "Weather The Season",
+                "duration": "00:03:45",
+                "url": "https://twistedteens.bandcamp.com/track/weather-the-season"
+              },
+              {
+                "seq": 12,
+                "track": "Dancer",
+                "duration": "00:03:00",
+                "url": "https://twistedteens.bandcamp.com/track/dancer"
+              },
+              {
+                "seq": 13,
+                "track": "Sun Go Down",
+                "duration": "00:05:10",
+                "url": "https://twistedteens.bandcamp.com/track/sun-go-down"
+              }
+            ]
+          },
+          "relationships": {
+            "label": {
+              "data": {
+                "type": "label",
+                "id": "local-twisted-teens-florida-water-blues"
+              }
+            }
+          }
+        }
+      ],
+      "included": [
+        {
+          "type": "label",
+          "id": "local-twisted-teens-florida-water-blues",
+          "attributes": {
+            "name": "Going Underground"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "key": "this-is-lorelei-the-singer-in-my-band",
+    "post_to": "/api/v1/album",
+    "source_doc": "1o1auc4gQyPiRJOufY69jrMcPr4VuU-rN1In2l7K8S5U",
+    "payload": {
+      "data": [
+        {
+          "type": "album",
+          "attributes": {
+            "artist": "This Is Lorelei",
+            "album": "The Singer in My Band",
+            "category": "General",
+            "medium": "CD",
+            "size": "Full",
+            "location": "Pending Appr",
+            "bin": null,
+            "coll": false,
+            "tracks": [
+              {
+                "seq": 1,
+                "track": "I Will Eat My Heart in the Morning Light",
+                "duration": "00:03:18",
+                "url": ""
+              },
+              {
+                "seq": 2,
+                "track": "Oh No Now My",
+                "duration": "00:03:09",
+                "url": "https://thisislorelei.bandcamp.com/track/oh-no-now-my"
+              },
+              {
+                "seq": 3,
+                "track": "Billy Came Back",
+                "duration": "00:03:10",
+                "url": "https://thisislorelei.bandcamp.com/track/billy-came-back"
+              },
+              {
+                "seq": 4,
+                "track": "Watching Heaven Fall",
+                "duration": "00:03:13",
+                "url": ""
+              },
+              {
+                "seq": 5,
+                "track": "Sailing (Your Baby's Down)",
+                "duration": "00:03:33",
+                "url": ""
+              },
+              {
+                "seq": 6,
+                "track": "The Singer in My Band",
+                "duration": "00:02:26",
+                "url": ""
+              },
+              {
+                "seq": 7,
+                "track": "Nitro",
+                "duration": "00:01:27",
+                "url": ""
+              },
+              {
+                "seq": 8,
+                "track": "Hey Sarah Is It Gonna Rain Forever",
+                "duration": "00:03:28",
+                "url": ""
+              },
+              {
+                "seq": 9,
+                "track": "The Kid With the Crown",
+                "duration": "00:04:15",
+                "url": "https://thisislorelei.bandcamp.com/track/the-kid-with-the-crown"
+              },
+              {
+                "seq": 10,
+                "track": "And I Haven't Seen My Love in Quite a While",
+                "duration": "00:03:29",
+                "url": ""
+              },
+              {
+                "seq": 11,
+                "track": "Don't You Cry in Lonesomeness",
+                "duration": "00:03:19",
+                "url": ""
+              }
+            ]
+          },
+          "relationships": {
+            "label": {
+              "data": {
+                "type": "label",
+                "id": "1952"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "key": "little-barrie-gravity-freeze",
+    "post_to": "/api/v1/album",
+    "source_doc": "1myGAWbTOJJC1gYyRlqEcJ0OBcvDi0BWozjcojkvilE4",
+    "payload": {
+      "data": [
+        {
+          "type": "album",
+          "attributes": {
+            "artist": "Little Barrie",
+            "album": "Gravity Freeze",
+            "category": "General",
+            "medium": "CD",
+            "size": "Full",
+            "location": "Pending Appr",
+            "bin": null,
+            "coll": false,
+            "tracks": [
+              {
+                "seq": 1,
+                "track": "More Bad Miles Of Road",
+                "duration": "00:03:49",
+                "url": "https://littlebarrie.bandcamp.com/track/more-bad-miles-of-road"
+              },
+              {
+                "seq": 2,
+                "track": "It Isn't Soul",
+                "duration": "00:02:49",
+                "url": "https://littlebarrie.bandcamp.com/track/it-isnt-soul"
+              },
+              {
+                "seq": 3,
+                "track": "December",
+                "duration": "00:05:08",
+                "url": "https://littlebarrie.bandcamp.com/track/december"
+              },
+              {
+                "seq": 4,
+                "track": "Luggin' Hurt",
+                "duration": "00:07:08",
+                "url": "https://littlebarrie.bandcamp.com/track/luggin-hurt"
+              },
+              {
+                "seq": 5,
+                "track": "Talk It Up Like It's Wanted",
+                "duration": "00:03:02",
+                "url": "https://littlebarrie.bandcamp.com/track/talk-it-up-like-its-wanted"
+              },
+              {
+                "seq": 6,
+                "track": "Anything You Are",
+                "duration": "00:03:20",
+                "url": "https://littlebarrie.bandcamp.com/track/anything-you-are"
+              },
+              {
+                "seq": 7,
+                "track": "Coralisa",
+                "duration": "00:04:49",
+                "url": "https://littlebarrie.bandcamp.com/track/coralisa"
+              },
+              {
+                "seq": 8,
+                "track": "Wire",
+                "duration": "00:03:37",
+                "url": "https://littlebarrie.bandcamp.com/track/wire"
+              },
+              {
+                "seq": 9,
+                "track": "Gravity Freeze",
+                "duration": "00:03:07",
+                "url": "https://littlebarrie.bandcamp.com/track/gravity-freeze"
+              }
+            ]
+          },
+          "relationships": {
+            "label": {
+              "data": {
+                "type": "label",
+                "id": "21304"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "key": "palace-ox",
+    "post_to": "/api/v1/album",
+    "source_doc": "1a9Wq3fnul1ITzeQk3JWf2vKiMFgUG8yo5JKke4KcNgc",
+    "payload": {
+      "data": [
+        {
+          "type": "album",
+          "attributes": {
+            "artist": "Palace",
+            "album": "Ox",
+            "category": "General",
+            "medium": "CD",
+            "size": "Full",
+            "location": "Pending Appr",
+            "bin": null,
+            "coll": false,
+            "tracks": [
+              {
+                "seq": 1,
+                "track": "Dream On",
+                "duration": "00:04:23",
+                "url": "https://palace.bandcamp.com/track/dream-on"
+              },
+              {
+                "seq": 2,
+                "track": "Kid",
+                "duration": "00:04:22",
+                "url": "https://palace.bandcamp.com/track/kid"
+              },
+              {
+                "seq": 3,
+                "track": "Ohio",
+                "duration": "00:03:42",
+                "url": "https://palace.bandcamp.com/track/ohio"
+              },
+              {
+                "seq": 4,
+                "track": "Denny's",
+                "duration": "00:04:50",
+                "url": "https://palace.bandcamp.com/track/dennys"
+              },
+              {
+                "seq": 5,
+                "track": "Lucky Boy",
+                "duration": "00:03:20",
+                "url": "https://palace.bandcamp.com/track/lucky-boy"
+              },
+              {
+                "seq": 6,
+                "track": "I've Been Laughing",
+                "duration": "00:03:52",
+                "url": "https://palace.bandcamp.com/track/ive-been-laughing"
+              },
+              {
+                "seq": 7,
+                "track": "Kicking Up Shadows",
+                "duration": "00:03:56",
+                "url": "https://palace.bandcamp.com/track/kicking-up-shadows"
+              },
+              {
+                "seq": 8,
+                "track": "Brown Bread",
+                "duration": "00:06:26",
+                "url": "https://palace.bandcamp.com/track/brown-bread"
+              },
+              {
+                "seq": 9,
+                "track": "Made My Bed",
+                "duration": "00:04:01",
+                "url": "https://palace.bandcamp.com/track/made-my-bed"
+              },
+              {
+                "seq": 10,
+                "track": "Ox",
+                "duration": "00:05:21",
+                "url": "https://palace.bandcamp.com/track/ox"
+              }
+            ]
+          },
+          "relationships": {
+            "label": {
+              "data": {
+                "type": "label",
+                "id": "21943"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "key": "dread-spectre-council-thetans",
+    "post_to": "/api/v1/album",
+    "source_doc": "1QI92WK7LL15J7xBmXRKunRo8Z7cXa5A3EFvMMGp_dlo",
+    "payload": {
+      "data": [
+        {
+          "type": "album",
+          "attributes": {
+            "artist": "Dread Spectre Council",
+            "album": "Thetans",
+            "category": "General",
+            "medium": "CD",
+            "size": "Full",
+            "location": "Pending Appr",
+            "bin": null,
+            "coll": false,
+            "tracks": [
+              {
+                "seq": 1,
+                "track": "Hex's Up",
+                "duration": "00:03:50",
+                "url": "https://handmaderecs.bandcamp.com/track/hexs-up-2"
+              },
+              {
+                "seq": 2,
+                "track": "Hooves & Cloves",
+                "duration": "00:03:24",
+                "url": "https://handmaderecs.bandcamp.com/track/hooves-cloves-2"
+              },
+              {
+                "seq": 3,
+                "track": "Where Would the Light Go",
+                "duration": "00:03:11",
+                "url": "https://handmaderecs.bandcamp.com/track/where-would-the-light-go-2"
+              },
+              {
+                "seq": 4,
+                "track": "Sungate",
+                "duration": "00:03:52",
+                "url": "https://handmaderecs.bandcamp.com/track/sungate-2"
+              },
+              {
+                "seq": 5,
+                "track": "Spiderette",
+                "duration": "00:04:21",
+                "url": "https://handmaderecs.bandcamp.com/track/spiderette-2"
+              },
+              {
+                "seq": 6,
+                "track": "Evil Incarnate",
+                "duration": "00:02:37",
+                "url": "https://handmaderecs.bandcamp.com/track/evil-incarnate-2"
+              },
+              {
+                "seq": 7,
+                "track": "Wildling",
+                "duration": "00:02:59",
+                "url": "https://handmaderecs.bandcamp.com/track/wildling-2"
+              },
+              {
+                "seq": 8,
+                "track": "Treasure Trove",
+                "duration": "00:03:10",
+                "url": "https://handmaderecs.bandcamp.com/track/treasure-trove-2"
+              },
+              {
+                "seq": 9,
+                "track": "Raven",
+                "duration": "00:04:54",
+                "url": "https://handmaderecs.bandcamp.com/track/raven"
+              },
+              {
+                "seq": 10,
+                "track": "Summon the Sparks",
+                "duration": "00:03:38",
+                "url": "https://handmaderecs.bandcamp.com/track/summon-the-sparks"
+              }
+            ]
+          },
+          "relationships": {
+            "label": {
+              "data": {
+                "type": "label",
+                "id": "17538"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "key": "sluice-companion",
+    "post_to": "/api/v1/album",
+    "source_doc": "15UOGddOzcdXMiRaMbeYkPk4KdrC8Cza47o5XogoKEHk",
+    "payload": {
+      "data": [
+        {
+          "type": "album",
+          "attributes": {
+            "artist": "Sluice",
+            "album": "Companion",
+            "category": "General",
+            "medium": "CD",
+            "size": "Full",
+            "location": "Pending Appr",
+            "bin": null,
+            "coll": false,
+            "tracks": [
+              {
+                "seq": 1,
+                "track": "Beadie",
+                "duration": "00:04:01",
+                "url": "https://sluice.bandcamp.com/track/beadie"
+              },
+              {
+                "seq": 2,
+                "track": "Ratchet Strap",
+                "duration": "00:03:30",
+                "url": "https://sluice.bandcamp.com/track/ratchet-strap"
+              },
+              {
+                "seq": 3,
+                "track": "WTF",
+                "duration": "00:03:33",
+                "url": "https://sluice.bandcamp.com/track/wtf"
+              },
+              {
+                "seq": 4,
+                "track": "Gator",
+                "duration": "00:08:46",
+                "url": "https://sluice.bandcamp.com/track/gator"
+              },
+              {
+                "seq": 5,
+                "track": "The Ephemeral Stream",
+                "duration": "00:01:46",
+                "url": "https://sluice.bandcamp.com/track/the-ephemeral-stream"
+              },
+              {
+                "seq": 6,
+                "track": "Torpor",
+                "duration": "00:02:49",
+                "url": "https://sluice.bandcamp.com/track/torpor"
+              },
+              {
+                "seq": 7,
+                "track": "Unknowing",
+                "duration": "00:09:01",
+                "url": "https://sluice.bandcamp.com/track/unknowing"
+              },
+              {
+                "seq": 8,
+                "track": "Overhead",
+                "duration": "00:03:57",
+                "url": "https://sluice.bandcamp.com/track/overhead"
+              },
+              {
+                "seq": 9,
+                "track": "Zillow",
+                "duration": "00:03:13",
+                "url": "https://sluice.bandcamp.com/track/zillow"
+              },
+              {
+                "seq": 10,
+                "track": "Vegas",
+                "duration": "00:03:18",
+                "url": "https://sluice.bandcamp.com/track/vegas"
+              }
+            ]
+          },
+          "relationships": {
+            "label": {
+              "data": {
+                "type": "label",
+                "id": "local-sluice-companion"
+              }
+            }
+          }
+        }
+      ],
+      "included": [
+        {
+          "type": "label",
+          "id": "local-sluice-companion",
+          "attributes": {
+            "name": "Mtn Laurel Recording Co."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "key": "tricky-different-when-its-silent",
+    "post_to": "/api/v1/album",
+    "source_doc": "1PlCAGtgt796YoaYdZX7ySGyVDpfh3onRy8JZBctMP4M",
+    "payload": {
+      "data": [
+        {
+          "type": "album",
+          "attributes": {
+            "artist": "Tricky",
+            "album": "Different When It's Silent",
+            "category": "General",
+            "medium": "CD",
+            "size": "Full",
+            "location": "Pending Appr",
+            "bin": null,
+            "coll": false,
+            "tracks": [
+              {
+                "seq": 1,
+                "track": "I Still See Me There",
+                "duration": "00:03:39",
+                "url": "https://tricky.bandcamp.com/track/i-still-see-me-there-feat-mitch-sanders"
+              },
+              {
+                "seq": 2,
+                "track": "I'm Yours",
+                "duration": "00:02:36",
+                "url": "https://tricky.bandcamp.com/track/im-yours-feat-mitch-sanders"
+              },
+              {
+                "seq": 3,
+                "track": "Be Still In The Pain",
+                "duration": "00:03:22",
+                "url": "https://tricky.bandcamp.com/track/be-still-in-the-pain-feat-mitch-sanders-run-red-rambo"
+              },
+              {
+                "seq": 4,
+                "track": "I Tried",
+                "duration": "00:02:16",
+                "url": "https://tricky.bandcamp.com/track/i-tried-feat-mitch-sanders"
+              },
+              {
+                "seq": 5,
+                "track": "So Cold",
+                "duration": "00:02:39",
+                "url": "https://tricky.bandcamp.com/track/so-cold-feat-mitch-sanders"
+              },
+              {
+                "seq": 6,
+                "track": "Paris Maybe",
+                "duration": "00:02:53",
+                "url": "https://tricky.bandcamp.com/track/paris-maybe-feat-mitch-sanders"
+              },
+              {
+                "seq": 7,
+                "track": "Cannon Fodder",
+                "duration": "00:02:48",
+                "url": "https://tricky.bandcamp.com/track/cannon-fodder-feat-mitch-sanders"
+              },
+              {
+                "seq": 8,
+                "track": "Because I Don't Know",
+                "duration": "00:04:34",
+                "url": "https://tricky.bandcamp.com/track/because-i-don-t-know-feat-mitch-sanders"
+              },
+              {
+                "seq": 9,
+                "track": "Marinade",
+                "duration": "00:03:20",
+                "url": "https://tricky.bandcamp.com/track/marinade-feat-mitch-sanders"
+              },
+              {
+                "seq": 10,
+                "track": "Radana",
+                "duration": "00:03:10",
+                "url": "https://tricky.bandcamp.com/track/radana-feat-mitch-sanders-radana"
+              },
+              {
+                "seq": 11,
+                "track": "Piano",
+                "duration": "00:02:43",
+                "url": "https://tricky.bandcamp.com/track/piano-feat-mitch-sanders"
+              },
+              {
+                "seq": 12,
+                "track": "Frontier Town",
+                "duration": "00:01:40",
+                "url": "https://tricky.bandcamp.com/track/frontier-town-2"
+              },
+              {
+                "seq": 13,
+                "track": "Hengrove Blues",
+                "duration": "00:02:57",
+                "url": "https://tricky.bandcamp.com/track/hengrove-blues-feat-mitch-sanders"
+              },
+              {
+                "seq": 14,
+                "track": "Out of Place",
+                "duration": "00:02:38",
+                "url": "https://tricky.bandcamp.com/track/out-of-place-feat-marta"
+              }
+            ]
+          },
+          "relationships": {
+            "label": {
+              "data": {
+                "type": "label",
+                "id": "local-tricky-different-when-its-silent"
+              }
+            }
+          }
+        }
+      ],
+      "included": [
+        {
+          "type": "label",
+          "id": "local-tricky-different-when-its-silent",
+          "attributes": {
+            "name": "False Idols"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "key": "ty-segall-chrome",
+    "post_to": "/api/v1/album",
+    "source_doc": "1JMnEW-DGAMR6OVfNyQAopLlfi75FOTfMnkBZSOEHiVA",
+    "payload": {
+      "data": [
+        {
+          "type": "album",
+          "attributes": {
+            "artist": "Segall, Ty",
+            "album": "Chrome",
+            "category": "General",
+            "medium": "CD",
+            "size": "Full",
+            "location": "Pending Appr",
+            "bin": null,
+            "coll": false,
+            "tracks": [
+              {
+                "seq": 1,
+                "track": "Hospital",
+                "duration": "00:04:43",
+                "url": ""
+              },
+              {
+                "seq": 2,
+                "track": "Running to Nowhere",
+                "duration": "00:02:30",
+                "url": "https://tysegall.bandcamp.com/track/running-to-nowhere"
+              },
+              {
+                "seq": 3,
+                "track": "Black Paint",
+                "duration": "00:02:00",
+                "url": "https://tysegall.bandcamp.com/track/black-paint"
+              },
+              {
+                "seq": 4,
+                "track": "Glass",
+                "duration": "00:04:27",
+                "url": ""
+              },
+              {
+                "seq": 5,
+                "track": "Play Cowboys",
+                "duration": "00:04:59",
+                "url": ""
+              },
+              {
+                "seq": 6,
+                "track": "Everything You've Been",
+                "duration": "00:02:06",
+                "url": ""
+              },
+              {
+                "seq": 7,
+                "track": "Let Go",
+                "duration": "00:03:33",
+                "url": ""
+              },
+              {
+                "seq": 8,
+                "track": "Separation",
+                "duration": "00:02:52",
+                "url": ""
+              },
+              {
+                "seq": 9,
+                "track": "Chrome",
+                "duration": "00:05:08",
+                "url": ""
+              }
+            ]
+          },
+          "relationships": {
+            "label": {
+              "data": {
+                "type": "label",
+                "id": "989"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "key": "lex-walton-ultimate-love-forever",
+    "post_to": "/api/v1/album",
+    "source_doc": "1ApggA6DvzNnf6sdS-JpH3Dy_XY-sjk7QQs7HLkB2Y4M",
+    "payload": {
+      "data": [
+        {
+          "type": "album",
+          "attributes": {
+            "artist": "Walton, Lex",
+            "album": "Ultimate Love Forever",
+            "category": "General",
+            "medium": "CD",
+            "size": "Full",
+            "location": "Pending Appr",
+            "bin": null,
+            "coll": false,
+            "tracks": [
+              {
+                "seq": 1,
+                "track": "For Thee I Sing",
+                "duration": "00:02:01",
+                "url": "https://youthagainstsatan.bandcamp.com/track/for-thee-i-sing"
+              },
+              {
+                "seq": 2,
+                "track": "Hipster Runoff",
+                "duration": "00:02:17",
+                "url": "https://youthagainstsatan.bandcamp.com/track/hipster-runoff"
+              },
+              {
+                "seq": 3,
+                "track": "Yr Op-Ed Won't Get You Into Heaven Anymore",
+                "duration": "00:02:52",
+                "url": "https://youthagainstsatan.bandcamp.com/track/yr-op-ed-won-t-get-you-into-heaven-anymore"
+              },
+              {
+                "seq": 4,
+                "track": "USA = FAG NATION",
+                "duration": "00:03:23",
+                "url": "https://youthagainstsatan.bandcamp.com/track/usa-fag-nation"
+              },
+              {
+                "seq": 5,
+                "track": "I Wish I Was An M80",
+                "duration": "00:03:15",
+                "url": "https://youthagainstsatan.bandcamp.com/track/i-wish-i-was-an-m80-2"
+              },
+              {
+                "seq": 6,
+                "track": "Adrian Borland Will Have His Revenge On London",
+                "duration": "00:03:08",
+                "url": "https://youthagainstsatan.bandcamp.com/track/adrian-borland-will-have-his-revenge-on-london"
+              },
+              {
+                "seq": 7,
+                "track": "Ultimate Love 4Ever",
+                "duration": "00:03:06",
+                "url": "https://youthagainstsatan.bandcamp.com/track/ultimate-love-4ever"
+              }
+            ]
+          },
+          "relationships": {
+            "label": {
+              "data": {
+                "type": "label",
+                "id": "3124"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+]

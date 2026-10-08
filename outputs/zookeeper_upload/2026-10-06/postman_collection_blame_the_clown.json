@@ -1,0 +1,52 @@
+{
+  "info": {
+    "name": "Zookeeper album POST test",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "POST album: Twisted Teens - Blame the Clown",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "X-APIKEY",
+            "value": "{{zk_apikey}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/vnd.api+json"
+          },
+          {
+            "key": "Accept",
+            "value": "application/vnd.api+json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"data\": [\n    {\n      \"type\": \"album\",\n      \"attributes\": {\n        \"artist\": \"Twisted Teens\",\n        \"album\": \"Blame the Clown\",\n        \"category\": \"General\",\n        \"medium\": \"CD\",\n        \"size\": \"Full\",\n        \"location\": \"Pending Appr\",\n        \"bin\": null,\n        \"coll\": false,\n        \"tracks\": [\n          {\n            \"seq\": 1,\n            \"track\": \"Is It Real?\",\n            \"duration\": \"00:03:02\",\n            \"url\": \"https://twistedteens.bandcamp.com/track/is-it-real\"\n          },\n          {\n            \"seq\": 2,\n            \"track\": \"Wild Connection\",\n            \"duration\": \"00:02:49\",\n            \"url\": \"https://twistedteens.bandcamp.com/track/wild-connection\"\n          },\n          {\n            \"seq\": 3,\n            \"track\": \"I Operate\",\n            \"duration\": \"00:01:54\",\n            \"url\": \"https://twistedteens.bandcamp.com/track/i-operate\"\n          },\n          {\n            \"seq\": 4,\n            \"track\": \"Little Seed\",\n            \"duration\": \"00:02:50\",\n            \"url\": \"https://twistedteens.bandcamp.com/track/little-seed\"\n          },\n          {\n            \"seq\": 5,\n            \"track\": \"100 Bill Is Gone!\",\n            \"duration\": \"00:02:58\",\n            \"url\": \"https://twistedteens.bandcamp.com/track/100-bill-is-gone\"\n          },\n          {\n            \"seq\": 6,\n            \"track\": \"Peekaboo Hand\",\n            \"duration\": \"00:03:23\",\n            \"url\": \"https://twistedteens.bandcamp.com/track/peekaboo-hand\"\n          },\n          {\n            \"seq\": 7,\n            \"track\": \"Not Real\",\n            \"duration\": \"00:02:54\",\n            \"url\": \"https://twistedteens.bandcamp.com/track/not-real\"\n          },\n          {\n            \"seq\": 8,\n            \"track\": \"Who Could It Be?\",\n            \"duration\": \"00:02:41\",\n            \"url\": \"https://twistedteens.bandcamp.com/track/who-could-it-be\"\n          },\n          {\n            \"seq\": 9,\n            \"track\": \"Circus Clown\",\n            \"duration\": \"00:02:06\",\n            \"url\": \"https://twistedteens.bandcamp.com/track/circus-clown\"\n          },\n          {\n            \"seq\": 10,\n            \"track\": \"Hurricane\",\n            \"duration\": \"00:02:00\",\n            \"url\": \"https://twistedteens.bandcamp.com/track/hurricane\"\n          },\n          {\n            \"seq\": 11,\n            \"track\": \"White Hot Coal\",\n            \"duration\": \"00:02:54\",\n            \"url\": \"https://twistedteens.bandcamp.com/track/white-hot-coal\"\n          },\n          {\n            \"seq\": 12,\n            \"track\": \"Corpse Pose\",\n            \"duration\": \"00:01:02\",\n            \"url\": \"\"\n          }\n        ]\n      },\n      \"relationships\": {\n        \"label\": {\n          \"data\": {\n            \"type\": \"label\",\n            \"id\": \"local-twisted-teens-blame-the-clown\"\n          }\n        }\n      }\n    }\n  ],\n  \"included\": [\n    {\n      \"type\": \"label\",\n      \"id\": \"local-twisted-teens-blame-the-clown\",\n      \"attributes\": {\n        \"name\": \"Chain Smoking Records\"\n      }\n    }\n  ]\n}"
+        },
+        "url": {
+          "raw": "https://zookeeper.stanford.edu/api/v1/album",
+          "protocol": "https",
+          "host": [
+            "zookeeper",
+            "stanford",
+            "edu"
+          ],
+          "path": [
+            "api",
+            "v1",
+            "album"
+          ]
+        }
+      }
+    }
+  ],
+  "variable": [
+    {
+      "key": "zk_apikey",
+      "value": ""
+    }
+  ]
+}

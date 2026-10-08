@@ -3,7 +3,7 @@
 Air Order (forward): https://music.youtube.com/playlist?list=PLSosF7JAIkaM
 Working (reversed): https://music.youtube.com/playlist?list=PLLXFGCRcu_qc
 
-41 tracks, 2:44. FCC screen: LRCLIB and Genius, counts only.
+42 tracks, 2:49. FCC screen: LRCLIB and Genius, counts only.
 
 | # | Set | Artist | Track | Album | Label | Tag | Time | FCC | Why |
 |---|---|---|---|---|---|---|---|---|---|
@@ -22,7 +22,7 @@ Working (reversed): https://music.youtube.com/playlist?list=PLLXFGCRcu_qc
 | 13 | Hour 2, Thursday Triple Shot: Teenage Fanclub | Teenage Fanclub | [Ain't That Enough](https://music.youtube.com/watch?v=D757lJMBDk0) | Songs From Northern Britain | Columbia Records |  | 3:43 | CLEAN (LRCLIB) | Triple Shot 2 of 3. Peak-era pop. |
 | 14 | Hour 2, Thursday Triple Shot: Teenage Fanclub | Teenage Fanclub | [Day in the Sun](https://music.youtube.com/watch?v=1c9YDg__yLc) | Do Not Dare to Dream | Merge Records |  | 3:11 | CLEAN (LRCLIB) | New single. Album Do Not Dare to Dream out Fri. Oct. 9 on Merge (track confirmed on the album). Closes the Triple Shot. |
 | 15 | Hour 2, Set 4: Bay Area this week and next | My Morning Jacket | [Wordless Chorus](https://music.youtube.com/watch?v=q15sZK-8sPw) | Z | Ato Records | 799948 | 4:13 | CLEAN (LRCLIB) | MMJ at the Fillmore, S.F., Oct. 6, 7, 9, 10 and 11. |
-| 16 | Hour 2, Set 4: Bay Area this week and next | Dinosaur Jr. | [Feel the Pain](https://music.youtube.com/watch?v=ItkZHJwmeN4) |  | Sire Records (Modern) | 187859 | 4:19 | CLEAN (LRCLIB) | Dinosaur Jr. with Stef Chura: Oct. 18 and Oct. 19 at the Guild Theater, Menlo Park (verify venues). |
+| 16 | Hour 2, Set 4: Bay Area this week and next | Dinosaur Jr. | [Feel the Pain](https://music.youtube.com/watch?v=ItkZHJwmeN4) | Without a Sound | Sire Records (Modern) | 187859 | 4:19 | CLEAN (LRCLIB) | Dinosaur Jr. with Stef Chura: Oct. 18 and Oct. 19 at the Guild Theater, Menlo Park (verify venues). |
 | 17 | Hour 2, Set 4: Bay Area this week and next | Imperial Teen | [Yoo Hoo](https://music.youtube.com/watch?v=1ZX98VQcVl0) | What Is Not to Love | Slash Records | 484107 | 3:32 | CLEAN (LRCLIB) | New album All Over You out Oct. 9 on Merge. Playing Bottom of the Hill, S.F., Thu. Oct. 15. |
 | 18 | Hour 2, Set 4: Bay Area this week and next | Imperial Teen | [Overdrive](https://music.youtube.com/watch?v=kIRXNnh6NdU) | All Over You | Merge Records |  | 3:07 | CLEAN (Oct. 4 shelf check; Genius has no match) | Added by DJ Stace. Album out Oct. 9 on Merge. Band plays Bottom of the Hill, S.F., Oct. 15. |
 | 19 | Hour 2, Set 4: Bay Area this week and next | Geese | [Cobra](https://music.youtube.com/watch?v=iGafqQemNUw) | Getting Killed | Partisan Records | 1155529 | 3:06 | CLEAN (LRCLIB) | Geese at the Fox, Oakland, Oct. 19 and 20 (sold out). |
@@ -48,6 +48,7 @@ Working (reversed): https://music.youtube.com/playlist?list=PLLXFGCRcu_qc
 | 39 | Closers and bench | Westside Cowboy | [Kick Stones (The Boys)](https://music.youtube.com/watch?v=W51Ik_1noH8) | It Goes On | Island Records |  | 3:57 | CLEAN (Genius, Oct. 6) | Added by DJ Stace. NACC #11 debut from Manchester. |
 | 40 | Closers and bench | The Clash | [Know Your Rights](https://music.youtube.com/watch?v=M1Zz7QWbS-w) | Combat Rock | Epic Records | 935894 | 3:41 | CLEAN (Genius, Oct. 6) | Added by DJ Stace. |
 | 41 | Closers and bench | Yard Act | [You're Gonna Need a Little Music](https://music.youtube.com/watch?v=aGTuvSf85-s) | You're Gonna Need a Little Music | Republic Records |  | 4:41 | CLEAN (Genius, Oct. 6; album has FCC hits on other tracks) | Added by DJ Stace. NACC #41. |
+| 42 | Closers and bench | Swans | [Can't Find My Way Home](https://music.youtube.com/watch?v=cZnaU3_Sr7U) | The Burning World | Uni Distribution Corp. | 738020 | 4:49 | CLEAN (LRCLIB, The Burning World match, Oct. 7) | Added by DJ Stace (Air Order, seen Oct. 7). Single from The Burning World (1989), the album Swans made for UNI/MCA. |
 
 ## Left out for FCC
 

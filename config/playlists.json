@@ -71,6 +71,30 @@
    "mode": "suggestion playlist for Oct. 29, 2026 show; Stace culls",
    "tracks": 45
   },
+  "morning_zsu_air_order_2026-10-07": {
+   "title": "DJ Stace - KZSU Morning ZSU Show Air Order",
+   "id": "PLZV1b74jeRUQ",
+   "order": "forward",
+   "mode": "one-off Morning ZSU show, Oct. 7, 2026, 7-9 a.m.; 43 tracks; KZSU account (Stacey Maples); plan in data/morning/2026-10-07/plan.json",
+   "tracks": 43
+  },
+  "morning_zsu_working_2026-10-07": {
+   "title": "DJ Stace - KZSU Morning ZSU Show Working",
+   "id": "PLfNtAq8pn2cM",
+   "order": "reversed",
+   "mode": "mirror of the Morning ZSU Air Order, reversed (play bottom-up); KZSU account",
+   "tracks": 43
+  },
+  "morning_zsu_archive_2026-10-07": {
+   "title": "Morning ZSU on KZSU 90.1 Stanford, CA with DJ Stace (October 7, 2026 Show)",
+   "id": "PLSM27v5w-ZEM",
+   "order": "forward",
+   "mode": "archive from Zookeeper show 58312; 29 spins; KZSU account",
+   "tracks": 29
+  },
+  "_wrong_account_to_delete": {
+   "note": "Created Oct. 7 while Chrome was signed in to the stanford.edu account. Stace can delete: PLWCBTcviELTQ (Air Order), PLYPnsX9gp6mU (Working)."
+  },
   "_duplicate_to_delete": {
    "title": "ZZ DUPLICATE Halloween (merge then delete)",
    "id": "PLOz3GHSbvBi8",

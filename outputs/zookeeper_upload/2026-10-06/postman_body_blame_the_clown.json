@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "type": "album",
+      "attributes": {
+        "artist": "Twisted Teens",
+        "album": "Blame the Clown",
+        "category": "General",
+        "medium": "CD",
+        "size": "Full",
+        "location": "Pending Appr",
+        "bin": null,
+        "coll": false,
+        "tracks": [
+          {
+            "seq": 1,
+            "track": "Is It Real?",
+            "duration": "00:03:02",
+            "url": "https://twistedteens.bandcamp.com/track/is-it-real"
+          },
+          {
+            "seq": 2,
+            "track": "Wild Connection",
+            "duration": "00:02:49",
+            "url": "https://twistedteens.bandcamp.com/track/wild-connection"
+          },
+          {
+            "seq": 3,
+            "track": "I Operate",
+            "duration": "00:01:54",
+            "url": "https://twistedteens.bandcamp.com/track/i-operate"
+          },
+          {
+            "seq": 4,
+            "track": "Little Seed",
+            "duration": "00:02:50",
+            "url": "https://twistedteens.bandcamp.com/track/little-seed"
+          },
+          {
+            "seq": 5,
+            "track": "100 Bill Is Gone!",
+            "duration": "00:02:58",
+            "url": "https://twistedteens.bandcamp.com/track/100-bill-is-gone"
+          },
+          {
+            "seq": 6,
+            "track": "Peekaboo Hand",
+            "duration": "00:03:23",
+            "url": "https://twistedteens.bandcamp.com/track/peekaboo-hand"
+          },
+          {
+            "seq": 7,
+            "track": "Not Real",
+            "duration": "00:02:54",
+            "url": "https://twistedteens.bandcamp.com/track/not-real"
+          },
+          {
+            "seq": 8,
+            "track": "Who Could It Be?",
+            "duration": "00:02:41",
+            "url": "https://twistedteens.bandcamp.com/track/who-could-it-be"
+          },
+          {
+            "seq": 9,
+            "track": "Circus Clown",
+            "duration": "00:02:06",
+            "url": "https://twistedteens.bandcamp.com/track/circus-clown"
+          },
+          {
+            "seq": 10,
+            "track": "Hurricane",
+            "duration": "00:02:00",
+            "url": "https://twistedteens.bandcamp.com/track/hurricane"
+          },
+          {
+            "seq": 11,
+            "track": "White Hot Coal",
+            "duration": "00:02:54",
+            "url": "https://twistedteens.bandcamp.com/track/white-hot-coal"
+          },
+          {
+            "seq": 12,
+            "track": "Corpse Pose",
+            "duration": "00:01:02",
+            "url": ""
+          }
+        ]
+      },
+      "relationships": {
+        "label": {
+          "data": {
+            "type": "label",
+            "id": "local-twisted-teens-blame-the-clown"
+          }
+        }
+      }
+    }
+  ],
+  "included": [
+    {
+      "type": "label",
+      "id": "local-twisted-teens-blame-the-clown",
+      "attributes": {
+        "name": "Chain Smoking Records"
+      }
+    }
+  ]
+}

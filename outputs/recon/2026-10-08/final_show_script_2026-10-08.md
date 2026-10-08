@@ -1,6 +1,18 @@
-# Working Show Script: Thursday, Oct. 8, 2026
+# Final Show Script: Thursday, Oct. 8, 2026
 
-The Library with DJ Stace, KZSU 90.1 FM, 6-8 p.m. PT. Draft built Oct. 4; updated with Stace's Air Order edits in the Tuesday sweeps (Oct. 4 and Oct. 6). Final version Wednesday night.
+The Library with DJ Stace, KZSU 90.1 FM, 6-8 p.m. PT. Final build Wednesday night, Oct. 7. Review and request changes Thursday before the show.
+
+## Changes since the Working script
+
+- **Culled:** none. No ticks in the Cull column of the Notes Sheet.
+- **Replace requests:** none. No ticks in the Replace column.
+- **Added (Air Order):** Swans, "Can't Find My Way Home" (4:49), end of Closers and bench (track 42). Zookeeper: tag 738020, The Burning World (12-inch), label Uni Distribution Corp. FCC: CLEAN on LRCLIB.
+- **Moved:** none. Air Order order matches the plan.
+- **Held out of the Zookeeper CSV and Notes Sheet:** Sex Pistols, "Anarchy in the U.K." (FCC "piss" x1, Outro). It is still in the Air Order. Swap it, or supply a radio edit.
+- **Metadata fix:** Dinosaur Jr., "Feel the Pain" is on Without a Sound (Zookeeper tag 187859). Album filled in.
+- **Mic breaks:** none mention a cut track. No rewrites needed.
+- **Length:** 42 airable tracks, about 2:49 of music. The target is 2:30, so plan to cull about 20 minutes live.
+- **Check by ear before air:** Dread Spectre Council "Hex's Up" and Mandrake Handshake "The Tether" (no lyrics online), Courtney Barnett "One Thing At A Time" (odd LRCLIB album match), Imperial Teen "Overdrive" (no Genius match).
 
 ## Talk-break material
 

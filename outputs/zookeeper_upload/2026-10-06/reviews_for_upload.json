@@ -1,0 +1,232 @@
+[
+  {
+    "key": "twisted-teens-blame-the-clown",
+    "post_to": "/api/v1/review",
+    "payload": {
+      "data": {
+        "type": "review",
+        "attributes": {
+          "airname": "DJ Stace",
+          "published": true,
+          "date": "2026-10-04",
+          "review": "Album / Artist: Blame the Clown / Twisted Teens\r\n\r\nLabel: Chain Smoking Records\r\n\r\nRelease Date: February 13, 2026\r\nReview Date: 10/4/2026\r\nReviewer: DJ Stace\r\n\r\nGeneral Comments / Reviews:\r\n\r\nRaw Power-era Stooges sitting in with a pedal steel player at a New Orleans dive. Scrappy, loud and a blast. If the Grateful Dead had been a garage punk band - DJ Stace\r\n\r\n“punk unbounded” - Paste\r\n\r\nRelease Notes:\r\n\r\nNew Orleans garage-punk band; pedal steel runs through the songs.\r\nBandcamp lists a first release on Chain Smoking in September 2025; wide release Feb. 13, 2026.\r\n12 tracks, about 31 minutes.\r\nreleased February 13, 2026\r\n\r\nFCCs: 2,7,8, 11(maybe)\r\n\r\nRIYL: The Stooges, Black Lips, Ty Segall, Shannon and the Clams\r\n\r\nPlay: All but FCCs (All FCCs worth editing), Favs Rated with up to *****\r\n\r\nTracklist:\r\n1. **** Is It Real? 03:02 - Fast, driving guitar rocker. A banger right out of the gate.\r\n2. Wild Connection 02:49 - Medium Fast paced love song that would have been right at home on the True Romance soundtrack. Worth editing. FCC shit x1.\r\n3. **** I Operate 01:54 - Upbeat jangly, quirky, infectious, talking lyrics.\r\n4. **** Little Seed 02:50 - Cool lowfi radio-style intro. Medium fast crooner.\r\n5. *** 100 Bill Is Gone! 02:58 - Upbeat gravelly screamer about losing $100 in a purchase gone wrong in the French Quarter (probably, I’m not speaking from experience, or anything).\r\n6. ***** Peekaboo Hand 03:23 - Upbeat, toe tapper with brilliant lyrics and phrasing. Brilliant steel guitar. This is peak TT. Possibly my favorite new song. Smells like Grateful Dead if they’d been a garage punk band. You can’t play this one enough.\r\n7. Not Real 02:54 - Mid-uptempo power chord based talker. Definitive answer to the opening track. FCC “wake the fuck up” after the alarm noise at the outro x1.\r\n8. **** Who Could It Be? 02:41 - Upbeat rocker about the devil come a’knockin’? Worth an edit, if someone were so inclined.FCC pissing x1?\r\n9. **** Circus Clown 02:06 - Machine gun rapid fire screaming rocker with killer Theremin-style steel guitar. Play it!\r\n10. **** Hurricane 02:00 - Medium tempo noisy (in a good way), trashcan percussion, recorded inside a giant tin foil roasting pan. Actually, perfect for a song about a hurricane!\r\n11. ***** White Hot Coal 02:54 - Medium paced acoustic guitar blues crooning rocker! Outro with Fiddle, possibly Hurdy Gurdy!?, which would totally be on brand for these guys. Greatness. Possible FCC sounds like “shit”, lyrics sites say its “ship” but better safe than sorry.\r\n12. Corpse Pose 01:02 - Instrumental noise weirdness with backward masking overlays, etc.. Short closer, about a minute. Cool for soundbed, maybe."
+        },
+        "relationships": {
+          "album": {
+            "data": {
+              "type": "album",
+              "id": "TAG_PENDING_twisted-teens-blame-the-clown"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "key": "twisted-teens-florida-water-blues",
+    "post_to": "/api/v1/review",
+    "payload": {
+      "data": {
+        "type": "review",
+        "attributes": {
+          "airname": "DJ Stace",
+          "published": true,
+          "date": "2026-10-04",
+          "review": "Album / Artist: Florida Water Blues / Twisted Teens\r\n\r\nLabel: Chain SMoking / Going Underground\r\n\r\nRelease Date: July 10, 2026\r\n\r\nReview Date: 10/4/2026\r\n\r\nReviewer: DJ Stace\r\n\r\nGeneral Comments / Reviews:\r\n\r\nSame band six months later, slowed down and sunburned. Backroads swamp rock with unbelievably consistent songwriting and “finely” crafted recordings about backroads, marshes and coastal motels in place of city nerves. Mind the FCCs, and look for lofi, abrupt endings. - DJ Stace\r\n\r\nRelease Notes:\r\n\r\nNew Orleans band's second album of 2026, six months after Blame the Clown.\r\n\r\nNext album: The Holy Cross Tigers is due Nov. 6, 2026 on Sub Pop (single When We First Met out now).\r\n\r\nFCCs: 1,5,7,9,10,12\r\n\r\nRIYL: Black Lips, Kurt Vile, The Gun Club, Ty Segall\r\n\r\nPlay: All but FCCs, Favs Rated with up to *****\r\n\r\nTracklist:\r\n\r\n1. Why Did You Miss It? 03:36 - Fast Paced, starts with a frantic guitar intro, then the drum track leads into a fuzzed out lofi awesomeness. FCC fucked up x1.\r\n2. ***** Hand Me A Cigarette 03:26 - FIngerpicked Delta Blues jam intro, leads into a driving lofi junk blues stomper full of understated, dusty swagger. Play it!\r\n3. **** Swamp 02:55 - Noisy backwards masking intro leads into an upbeat swamp rock anthem to ,... LIVING IN THE SWAMP!\r\n4. *** Guided Thunder 03:13 - Fast, emphatic. Spoken-word breakdown that builds and cuts off on a drum hit to stomp all the way to the raucous toy piano ending.\r\n5. **** Florida Water Blues 03:45 - Pace: ____. Title track. Worth editing. FCC shit x1.\r\n6. ***** Top Of The World Hwy No.2 2:12 - Fast paced power chord jammer!\r\n7. Concealed Weepin' 02:27 - Fast paced buzzing rhythm section, with a plucky little guitar solo over the top. Frenetic and chaotic at points. Cool post-punk buzzer. FCC little fucker x1.\r\n8. ***** Riding 03:54 - Drum machine starts off with a great little breakdown. Heavy steel guitar, driving pace. Great tune. Transitions to this amazing distorted over-autotuned harmonic vocals at 3:00 that turns out to be the best part of the song, maybe.\r\n9. Business 02:23 - Jumpy female blues field recording vocals devolve into a janky plucker with talking vocals. FCC fuck x2.\r\n10. Javelina 02:50 - Slow twangy country rocker chock full of FCCs and great lap[ steel guitar. FCC fuck x1, shit x1.\r\n11. **** Weather The Season 03:45 - Crazy Horse style metallic guitar intros an early 60’s style crooner.\r\n12. Dancer 03:00 - Fast paced with crying steel guitar riffage. Ode to the Exotic Dancers of the FC. FCC fuck x1.\r\n13. **** Sun Go Down 05:10 - Straight guitar and lap steel strummer. Great closer, 12-string acoustic, the one real slow song."
+        },
+        "relationships": {
+          "album": {
+            "data": {
+              "type": "album",
+              "id": "TAG_PENDING_twisted-teens-florida-water-blues"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "key": "this-is-lorelei-the-singer-in-my-band",
+    "post_to": "/api/v1/review",
+    "payload": {
+      "data": {
+        "type": "review",
+        "attributes": {
+          "airname": "DJ Stace",
+          "published": true,
+          "date": "2026-10-04",
+          "review": "Album / Artist: The Singer in My Band / This Is Lorelei\r\n\r\nLabel: Matador Records\r\n\r\nRelease Date: September 11, 2026\r\n\r\nReview Date: 10/4/2026\r\n\r\nReviewer: DJ Stace\r\n\r\nGeneral Comments / Reviews:\r\n\r\nNate Amos gets in the car and comes back with a twangy alt-country road record. Tight, warm and catchy as hell. Look for cover versions of most of these, a la Box for Buddy, cause who could resist? - DJ Stace\r\n\r\nRelease Notes:\r\n\r\nThird album from Nate Amos as This Is Lorelei, and his first for Matador.\r\n\r\nSelf-produced and recorded at his home studio in Brooklyn.\r\n\r\nAmos calls it his road album; he wrote the songs daydreaming in the car with no instruments.\r\n\r\nLead single Billy Came Back (June 23, 2026). NACC #12 the week of Oct. 1.\r\n\r\nreleased September 11, 2026\r\n\r\nFCCs: None found\r\n\r\nRIYL: MJ Lenderman, Wednesday, Alex G, Big Thief\r\n\r\nPlay: All, Favs Rated with up to *****\r\n\r\nTracklist:\r\n\r\n1. *** I Will Eat My Heart in the Morning Light 03:18 - Upbeat guitar anthem. Great lyrics and vocals.\r\n2. ***** Oh No Now My 03:09 - Strong mid tempo thumper with great guitar hook throughout. Least alt-country track of the album. Stacked harmonies over low-tuned guitars. Play it!!\r\n3. **** Billy Came Back 03:10 - Upbeat, jangly strummer about Billy, a karaoke legend.\r\n4. *** Watching Heaven Fall 03:13 - Upbeat country popper.\r\n5. *** Sailing (Your Baby's Down) 03:33 - Medium tempo upbeat country harmony yacht rocker.\r\n6. *** The Singer in My Band 02:26 - Upbeat country rocker with banjos.\r\n7. Nitro 01:27 - Fast paced low tuned acoustic guitar instrumental.\r\n8. ***** Hey Sarah Is It Gonna Rain Forever 03:28 - Continuing the riff from the previous instrumental, becomes a cool baritone guitar stomper anthem to Sarah. Great vocal styling. Playing this one heavily on The Library Show.\r\n9. **** The Kid With the Crown 04:15 - Starts with a light acoustic guitar jam, abruptly hits with an alt-country rocker punch in the face, and stays upbeat and bright throughout.\r\n10. **** And I Haven't Seen My Love in Quite a While 03:29 - Fast-paced country two-step bouncer. Segue with Old 97’s.\r\n11. **** Don't You Cry in Lonesomeness 03:19 - Strumming electric guitar and vocals alone. Brief. Goes quiet at 3:05, and hangs dead air for about 15 seconds."
+        },
+        "relationships": {
+          "album": {
+            "data": {
+              "type": "album",
+              "id": "TAG_PENDING_this-is-lorelei-the-singer-in-my-band"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "key": "little-barrie-gravity-freeze",
+    "post_to": "/api/v1/review",
+    "payload": {
+      "data": {
+        "type": "review",
+        "attributes": {
+          "airname": "DJ Stace",
+          "published": true,
+          "date": "2026-10-04",
+          "review": "Album / Artist: Gravity Freeze / Little Barrie\r\n\r\nLabel: Easy Eye Sound\r\n\r\nRelease Date: May 22, 2026\r\n\r\nReview Date: 10/4/2026\r\n\r\nReviewer: DJ Stace\r\n\r\nGeneral Comments / Reviews:\r\n\r\nGreasy, low-slung Easy Eye Sound garage soul from a 70’s that never was. They turned the heat down a notch, but Cadogan's guitar still bites. Low-slung grooves and bursts of guitar. - DJ Stace\r\n\r\nRelease Notes:\r\n\r\nSixth album from the London trio led by guitarist Barrie Cadogan; new drummer Coote joins.\r\n\r\nRecorded at Rat Salad Studios in Hornsey, North London, with Rupert Lyddon engineering and co-producing.\r\n\r\nreleased May 22, 2026\r\n\r\nFCCs: None found\r\n\r\nRIYL: The Black Keys, Allah-Las, Oh Sees, The Mystery Lights, El Michels Affair, Skinshape\r\n\r\nPlay: All, Favs Rated with up to *****\r\n\r\nTracklist:\r\n\r\n1. ***** More Bad Miles Of Road 03:49 - Upper-mid pace, slinky and naughty wah-wah pedal heavy funk burlesque rock. Lead single; announced the album in February 2026. Heavy play on Library Show as a single.\r\n2. *** It Isn't Soul 02:49 - Slow slinky with fuzzy guitar backing and bright guitar along the top. Great mix of dirt and polish. At home in a Tarantino film in a few years.\r\n3. December 05:08 - Upbeat high-hat pace, echoing vocals. This one threw its go-go boots in the corner and is dancing barefoot.\r\n4. ***** Luggin' Hurt 07:08 - “Do do do, de bap bap badada do,...” Shuffling R&B rhythm and licorice taffy guitar stretching all over 7 minutes of ass-shaking funky wah-riff perfect. Play this song and people will ask “who is this?” If you’re going to spend 7 minutes of your show on a single, it better be good. This one is worth the minutes.\r\n5. Talk It Up Like It's Wanted 03:02 - Mid-tempo, unremarkable guitar solo shuffler.\r\n6. ** Anything You Are 03:20 - Slow and slinky. Rhythm flits around under the strumming R&B guitar and smoky jazz club vocals. Picks up the pace at 1:30 a little.\r\n7. *** Coralisa 04:49 - Great backbeat based rhythm, with buzzing guitar work over the top. Lightly reminiscent of Jon Spencer Blues Explosion.\r\n8. Wire 03:37 - Another uptempo backbeat based slightly buzzy krauty?\r\n9. ** Gravity Freeze 03:07 - Another R&B Funk hip swayer."
+        },
+        "relationships": {
+          "album": {
+            "data": {
+              "type": "album",
+              "id": "TAG_PENDING_little-barrie-gravity-freeze"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "key": "palace-ox",
+    "post_to": "/api/v1/review",
+    "payload": {
+      "data": {
+        "type": "review",
+        "attributes": {
+          "airname": "DJ Stace",
+          "published": true,
+          "date": "2026-10-04",
+          "review": "Album / Artist: Ox / Palace\r\n\r\nLabel: Palace Presents/Awal\r\n\r\nRelease Date: September 18, 2026\r\n\r\nReview Date: 10/4/2026\r\n\r\nReviewer: DJ Stace\r\n\r\nGeneral Comments / Reviews:\r\n\r\nDreamy, floaty Palace, all of them new dads and singing about it. Big basslines, guitars that drift instead of hit. Great road trip music. - DJ Stace\r\n\r\nRelease Notes:\r\n\r\nFifth album from the London band; first release on their own label, Palace Presents (distributed by AWAL).\r\n\r\nWritten as the band members became fathers; songs about watching a child hear music for the first time.\r\n\r\nReviewers hear a floatier, dreamier record than 2024's Ultrasound.\r\n\r\nTen tracks, about 44 minutes.\r\n\r\nreleased September 18, 2026\r\n\r\nFCCs: 3,8,10\r\n\r\nRIYL: My Morning Jacket, Bombay Bicycle Club, Foals, Wild Beasts, Daughter, Jeff Buckley\r\n\r\nPlay: All but FCCs, Favs Rated with up to *****\r\n\r\nTracklist:\r\n\r\n1. **** Dream On 04:23 - Mid-tempo rising rock anthem. Like Coldplay, but listenable. Lead single; announced the album. About becoming a parent. Cavernous bassline under vast dissonant desert guitars.\r\n2. **** Kid 04:22 - Upbeat jangly toe tapper with great vocal styling. Second single; fatherhood through absence.\r\n3. **** Ohio 03:42 - Loping, bouncy and infectious. Great falsetto peaks in vocals. Like this one, worth an edit, if PISS bothers us. FCC “piss wine” x1.\r\n4. ***** Denny's 04:50 - Brilliant, beautiful mid-temp Yacht Rock anthem about home being where your heart is. Great lyrics and vocal styling. Play it.\r\n5. **** Lucky Boy 03:20 - More upbeat jangle pop rock, on the edge of yachtiness. This one segues well with My Morning Jacket.\r\n6. **** I've Been Laughing 03:52 - Uptempo jangle strummer with a great refrain.\r\n7. Kicking Up Shadows 03:56 - Shuffling uptempo sparklier guitar pop.\r\n8. Brown Bread 06:26 - Iron&Wine type rhythm, guitar and lyrics, upbeat Americana flavored guitar pop. Good tune, but the whole refrain is FCC. FCC fuck x3, shit x3.\r\n9. ***** Made My Bed 04:01 - Vast, big sky soaring guitar. Beautiful lyrics. Dreamy love song. Just about perfect. Play it.\r\n10. Ox 05:21 - Up-paced shuffling snare rhythm, vocals get alittle Hamilton Leithauser on this one. Nice closer, but with an FCC. FCC “fucking grateful” x2."
+        },
+        "relationships": {
+          "album": {
+            "data": {
+              "type": "album",
+              "id": "TAG_PENDING_palace-ox"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "key": "dread-spectre-council-thetans",
+    "post_to": "/api/v1/review",
+    "payload": {
+      "data": {
+        "type": "review",
+        "attributes": {
+          "airname": "DJ Stace",
+          "published": true,
+          "date": "2026-10-04",
+          "review": "Album / Artist: Thetans / Dread Spectre Council\r\n\r\nLabel: Handmade Records\r\n\r\nRelease Date: March 29, 2026\r\n\r\nReview Date: 10/4/2026\r\n\r\nReviewer: DJ Stace\r\n\r\nGeneral Comments / Reviews:\r\n\r\nSummer sleeper that too many missed. Fuzzy, crashing DIY indie rock from one guy in Norway. Solid songwriting and spectacular musical craftsmanship. If you miss the Built To Spill and Swervedriver lane, pull up a chair. This deserves to be an indie hit, let’s encourage more from this guy. 10/10 - DJ Stace\r\n\r\nRelease Notes:\r\n\r\nSolo project of Kenneth Amundsen from Nittedal, Norway; billed as indie rock from Oslo.\r\n\r\nhttps://www.dreadspectrecouncil.com/\r\n\r\nReleased March 2026 by Handmade Records / Indigo (Oslo)\r\n\r\n10 tracks, about 34 minutes.\r\n\r\nreleased March 29, 2026\r\n\r\nFCCs: None found\r\n\r\nRIYL: Ty Segall, Built To Spill, Swervedriver, Dungen, Yo La Tengo\r\n\r\nPlay: All, Favs Rated with up to *****\r\n\r\nTracklist:\r\n\r\n1. ***** Hex's Up 03:50 - Kickass heir to Swervedriver starts the album strong. Play this one.\r\n2. ***** Hooves & Cloves 03:24 - Killer Melvinsesque monotone vocal chunky riffage intro. Explodes to wailing fuzz guitar greatness that will make Ty Segall wonder if someone stole his DNA. Segue with Ty Segall or Melvins.\r\n3. ***** Where Would the Light Go 03:11 - Upbeat pop anthem. Great melody and vocals. Best I can characterize this one is “Jangle-fuzz” and it’s pretty great. Hard to believe this is a one man show.\r\n4. **** Sungate 03:52 - Great lilting guitar intro, solid lyrics, crescendos into a crashing outro. Another great track. Found audio recording in the background.\r\n5. **** Spiderette 04:21 - Solid upbeat indiepoprock anthem. Bandcamp focus track. Would be right at home segued with Replacements or softer Iggy.\r\n6. **** Evil Incarnate 02:37 - Medium paced rocker. Another Ty Segallesque fuzz rock anthem. More found audio recordings overlaid for atmospherics. Love it.\r\n7. *** Wildling 02:59 - Quiet Travis pick tune that would be at home in Billy Bragg’s catalog. Outlier?\r\n8. **** Treasure Trove 03:10 - Another killer medium tempo rocker with less fuzz than other tracks, with great effect. Great refrain. Play it.\r\n9. ***** Raven 04:54 - Midtempo Built to Spill style guitar rocker. Excellent lyricism. Segue with BtS, obviously.\r\n10. ***** Summon the Sparks 03:38 - Love the off kilter pace of this one. Reminds of Pedro the Lion. Another great song, lyrically and musically. Killer anthemic power chord ending to the left-field sleeper album of the year."
+        },
+        "relationships": {
+          "album": {
+            "data": {
+              "type": "album",
+              "id": "TAG_PENDING_dread-spectre-council-thetans"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "key": "sluice-companion",
+    "post_to": "/api/v1/review",
+    "payload": {
+      "data": {
+        "type": "review",
+        "attributes": {
+          "airname": "DJ Stace",
+          "published": true,
+          "date": "2026-10-04",
+          "review": "Album / Artist: Companion / Sluice\r\n\r\nLabel: Mtn Laurel Recording Co.\r\n\r\nRelease Date: March 27, 2026\r\n\r\nReview Date: 10/4/2026\r\n\r\nReviewer: DJ Stace\r\n\r\nGeneral Comments / Reviews:\r\n\r\nHushed, wordy Durham folk rock with two nine-minute stunners and a song about Zillow. Bill Callahan fans, form a line. - DJ Stace\r\n\r\n“exists in a cloud of dreamy contemplation” - Pitchfork\r\n\r\nRelease Notes:\r\n\r\nThird album from the Durham, N.C., folk-rock band led by Justin Morris (guitar, piano, synth, kalimba, field recordings, vocals).\r\n\r\n10 tracks, about 44 minutes\r\n\r\nreleased March 27, 2026\r\n\r\nFCCs: 3,4,6,10\r\n\r\nRIYL: Fust, Bill Callahan, Friendship, Hovvdy, Sin Ropas, Red Red Meat, Califone\r\n\r\nPlay: All but FCCs, Favs Rated with up to *****\r\n\r\nTracklist:\r\n\r\n1. ***** Beadie 04:01 - Slow, plodding spacious, epic and glorious opener. Plodding anthem moves to a crashing crescendo at 3 minutes until the end. Great vocals. Lyrics refer to the romantically involved partners from TV’s “The Wire.”\r\n2. **** Ratchet Strap 03:30 -. Quiet, low fi, no country strummer, reminiscence of Uncle Tupelo’s harmonic best, ends up a rocker by the end. Fiddles and two part harmonies always get me. Segue with Avett Brothers.\r\n3. WTF 03:33 - Quiet intro gives way to “orchestra tuning vocal” layering, then quietly transitions to a fuzzy guitar plodder that reminds in places of Jason Molina. Great epic guitar interludes. FCC fuck x2.\r\n4. *** Gator 08:46 - Very long stream-of-consciousness track; Lovely guitar accompaniment. Morris joked about making it a single. Kind of track you don’t hear starts at first, but grabs you and holds you so you end up listening to it again. FCC “smelled like shit” x1, piss x1.\r\n5. The Ephemeral Stream 01:46 - Quiet, atmospheric recording, pastoral. Some sort of chopping breaks the silence. Bracing.\r\n6. Torpor 02:49 - Medium tempo, story song about being the victim of a home robbery. Starts with soft guitar and transitions to a country rocker. FCC “get on the fuckin’ ground” x1.\r\n7. Unknowing 09:01 - Slow, fuzzed but soft intro. VERY heavily distorted autotuned lyrics. Centerpiece; built on a prayer by a Trappist monk (source: Paste Magazine). Seque with “Tripped on Your Cape” by Sin Ropas. Final 90 seconds is near total silence, so you can crossfade at 7:30.\r\n8. ***** Overhead 03:57 - Another quiet strumming guitar and vocal start, without being redundant. Reminds of Bill Callahan, here.\r\n9. ***** Zillow 03:13 - Great no country pop toe tapper with lyrics culled/inspired from Zillow descriptions and comments about local housing prices.\r\n10. Vegas 03:18 - Upbeat country rocker, gives Old 97’s vibes. FCC shit x3."
+        },
+        "relationships": {
+          "album": {
+            "data": {
+              "type": "album",
+              "id": "TAG_PENDING_sluice-companion"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "key": "tricky-different-when-its-silent",
+    "post_to": "/api/v1/review",
+    "payload": {
+      "data": {
+        "type": "review",
+        "attributes": {
+          "airname": "DJ Stace",
+          "published": true,
+          "date": "2026-10-04",
+          "review": "Album / Artist: Different When It's Silent / Tricky\r\n\r\nLabel: False Idols\r\n\r\nRelease Date: July 17, 2026\r\n\r\nReview Date: 10/4/2026\r\n\r\nReviewer: DJ Stace\r\n\r\nGeneral Comments / Reviews:\r\n\r\nTricky's best in years. Dark, guitar-heavy trip-hop, with Mitch Sanders' ghostly falsetto doing a lot of the heavy lifting. - DJ Stace\r\n\r\nRelease Notes:\r\n\r\nBristol producer Adrian Thaws' 15th studio album and first full-length under his own name in six years, on his own False Idols label.\r\n\r\nBristol singer Mitch Sanders, 22, sings top lines on 12 of 14 tracks in a high falsetto; guests also include Marta Złakowska, Radana and Run Red Rambo.\r\n\r\nReviewers note distorted guitars, hypnotic basslines and electronic textures, with Tricky's low growl underneath.\r\n\r\nreleased July 17, 2026\r\n\r\nFCCs: 6,10\r\n\r\nRIYL: Massive Attack, Portishead, Martina Topley-Bird\r\n\r\nPlay: All but FCCs, Favs Rated with up to *****\r\n\r\nTracklist:\r\n\r\n1. **** I Still See Me There 03:39 - Slow, plodding, whispering, sinister and Trypnotic. Falsetto vocals float over Tricky’s growling whispers. Tricky is back.\r\n2. ** I'm Yours 02:36 - Medium paced bass and snare dominant rhythm line. Feat. Mitch Sanders falsetto; Interludes of Walls of sound applied to EDM.\r\n3. *** Be Still In The Pain 03:22 - Upbeat by Tricky standard. Feat. Mitch Sanders and Run Red Rambo great falsetto duet juxtaposition. Abrupt ending.\r\n4. *** I Tried 02:16 - Soft guitar intro, gives way to buzzing plodding marching rhythm and metallic guitar accompaniment with bass and vocal interludes.\r\n5. So Cold 02:39 - Medium to uptempo ticking and buzzing tapper. “Bright,” for Tricky.\r\n6. Paris Maybe 02:53 - Pretty straightforward guitar, bass and drums rock ballad? Would be at home in the 90’s segued to Divinyl. Not bad, but seems sonically isolated from the rest of the album. FCC fuck x1, shit x1.\r\n7. *** Cannon Fodder 02:48 - Organ & heartbeat intro. Breathy falsetto is right up front. Transitions to some very fuzzy, desert rock guitar solo, then back to breathy whispers and organ to the end.\r\n8. ***** Because I Don't Know 04:34 - Sinister, falsetto, trancy, repetitive, infectious groove. This is the hit on the record. Wall of sound drops with soaring falsetto crescendos are great. Can’t play it enough.\r\n9. ** Marinade 03:20 - String intro, gives way to “Velvet Undergroundish” bass riff and spoken lyrics. Kinda cool. Would segue well with Kae Tempest. Abrupt ending.\r\n10. Radana 03:10 - Middle Eastern flavor to the underlying music. Lyrics go hard. Would segue well with DAM. Feat. RMR & Radana. FCC fuck x3, piss x1, bitch x2.\r\n11. *** Piano 02:43 - Piano and vocals with light atmospherics transition to strings and operatic chorale accompaniment. Lovely. Another abrupt ending.\r\n12. **** Frontier Town 01:40 - Killer stomp, cap and cal.,Clearly inspired by field songs. If Alan Lomax recorded EDM, this would be on his radar. Segue with Delta blues or field recordings from Parnman Farm. short.\r\n13. **** Hengrove Blues 02:57 - Soft acoustic strummer about a Bristol neighborhood. Lovely falsetto vocals with Tricky’s low growl underneath.\r\n14. *** Out of Place 02:38 - Quiet operatic opening vocals give way to a fast-paced staccato growling rocker with Tricky and Marta Złakowska’s vocals full forward. . Lead single (April 2026, announced the album)."
+        },
+        "relationships": {
+          "album": {
+            "data": {
+              "type": "album",
+              "id": "TAG_PENDING_tricky-different-when-its-silent"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "key": "ty-segall-chrome",
+    "post_to": "/api/v1/review",
+    "payload": {
+      "data": {
+        "type": "review",
+        "attributes": {
+          "airname": "DJ Stace",
+          "published": true,
+          "date": "2026-10-04",
+          "review": "Chrome / Ty Segall\r\n\r\nLabel: Drag City\r\n\r\nRelease Date: August 28, 2026\r\n\r\nReview Date: 10/4/2026\r\n\r\nReviewer: DJ Stace\r\n\r\nGeneral Comments / Reviews:\r\n\r\nTy goes heavy. Mostly cut live with the band, fuzz pinned in the red, with a couple of crooner turns. Big, dumb, glorious riffage,and smart lyrics, man. - DJ Stace\r\n\r\nRelease Notes:\r\n\r\nTy Segall's 18th solo studio album, billed as one of his heaviest.\r\n\r\nRecorded mostly live with Ben Boye, Evan Burrows, Mikal Cronin and Emmett Kelly, plus Bitchin Bajas' Cooper Crain.\r\n\r\nSame-day companion Love Fuzzz EP (Twins cover plus My Pet Guru).\r\n\r\nLouder Than War Album of the Week.\r\n\r\nNine tracks, about 33 minutes.\r\n\r\nreleased August 28, 2026\r\n\r\nFCCs: None found\r\n\r\nRIYL: Thee Oh Sees, King Gizzard & The Lizard Wizard, Black Sabbath, Fuzz\r\n\r\nPlay: All, Favs Rated with up to *****\r\n\r\nTracklist:\r\n\r\n1. *** Hospital 04:43 - Opener; quiet/loud blippy dirge transfers into a chaotic twin-guitar solo with all the slanted guitar god greatness you expect of Segall.\r\n2. Running to Nowhere 02:30 - Super sludgy, with notes of Fu Manchu ruffage. Screamy lyrics give way to Segall's harmonics, gives way to screamy lyrics again.\r\n3. ***** Black Paint 02:00 - Jangle-fuzz bouncing rock anthem with Segall’s wailing lead solos. Lead single and in a sane world, a hit. (June 2026);\r\n4. *** Glass 04:27 - Medium upbeat. Proggy and metallic; Bass in heavy modulated fuzz; guitar duel mid-song. Segue with King GIzzard.\r\n5. ***** Play Cowboys 04:59 - Climbing raw opening riffage is infectious. Psych ballad with keyboards; Ty croons. Probably my favorite on the album.\r\n6. Everything You've Been 02:06 - Fast paced, breathy, least standout on the album. Still better than 99% of what was released, last year.\r\n7. Let Go 03:33 - Starts with some 1/4” audio jack feedback lead that turns into a fast paced guitar puncher with siren guitar solo highlights.\r\n8. *** Separation 02:52 - Fast paced, snared out punk rocker. Fun.\r\n9. *** Chrome 05:08 - Ty steals and reforms Ted Nugent’s blues metal riffage for a machine gun repetitive rocker that will make you drive too fast if you aren’t careful. Title track closer, the longest at 5:08."
+        },
+        "relationships": {
+          "album": {
+            "data": {
+              "type": "album",
+              "id": "TAG_PENDING_ty-segall-chrome"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "key": "lex-walton-ultimate-love-forever",
+    "post_to": "/api/v1/review",
+    "payload": {
+      "data": {
+        "type": "review",
+        "attributes": {
+          "airname": "DJ Stace",
+          "published": true,
+          "date": "2026-10-04",
+          "review": "Album / Artist: Ultimate Love Forever / Lex Walton\r\n\r\nLabel: Sub Pop Records\r\n\r\nRelease Date: August 26, 2026\r\n\r\nReview Date: 10/4/2026\r\n\r\nReviewer: DJ Stace\r\n\r\nGeneral Comments / Reviews:\r\n\r\nTwenty minutes of scuzzy, anxious warbling power pop that bites the music-industry hand that feeds it. Sharp, funny and over before you know it (way too soon, IMHO). I'm loving this album right now. - DJ Stace\r\n\r\n“wiggly, anxious power pop” - Paste\r\n\r\nRelease Notes:\r\n\r\nSeven-song Sub Pop debut, about 20 minutes; first released on Youth Against Satan before Sub Pop signed her in August 2026.\r\n\r\nWritten by Walton; produced by Walton and Dan Boeckner (Wolf Parade, Handsome Furs); recorded, mixed and mastered by Ben Greenberg (Uniform, The Men).\r\n\r\nCD/LP out Nov. 20, 2026 in North America.\r\n\r\nreleased August 26, 2026\r\n\r\nFCCs: 2,3 Track 4's title contains a slur.\r\n\r\nRIYL: Wolf Parade, The Men, Speedy Ortiz, Parquet Courts\r\n\r\nPlay: All but FCCs, Favs Rated with up to *****\r\n\r\nTracklist:\r\n\r\n1. ***** For Thee I Sing 02:01 - Smashing, crashing glorious intro. Walton’s warbling sarcasm and spit is the anthem we all need right now. Play it.\r\n2. Hipster Runoff 02:17 - FIrst Single. Killer flailing angular rocker. Probably worth an edit! Single. About the blog-era buzz band life cycle. Abrupt ending. FCC shit x1.\r\n3. ***** Yr Op-Ed Won't Get You Into Heaven Anymore 02:52 - Stoogeseque growler with soaring vocal interludes and a killer Stooges style solo freakkout. FCC go fuck yourself x1.\r\n4. *** USA = FAG NATION 03:23 - Upbeat Kraut-rockish talker. “I am not your market”. Title contains a slur. Consider on airbreaks.\r\n5. *** I Wish I Was An M80 03:15 - Medium pop rocker with a killer rhythm, and interludes. FCC “After she sucked us both off…”\r\n6. ***** Adrian Borland Will Have His Revenge On London 03:08 - Staccato strumming bright guitar and Walton’s fantastic warble is perfect here. Lots of “Meatloaf” feels on this on. Devolves into a crashing distortion fest with strings to a crashing outro. This one will be in heavy rotation on my playlist for years. About The Sound's Adrian Borland.\r\n7. ***** Ultimate Love 4Ever 03:06 - Title track. Bouncing rocking perfection. Make this one a hit. This is the anchor hit song for soundtrack for the remake of “Pretty in Pink” (if anyone were ever dumb enough to do that). Fun, infectious, I guarantee you will dance like Molly Ringwald, when noone is looking."
+        },
+        "relationships": {
+          "album": {
+            "data": {
+              "type": "album",
+              "id": "TAG_PENDING_lex-walton-ultimate-love-forever"
+            }
+          }
+        }
+      }
+    }
+  }
+]

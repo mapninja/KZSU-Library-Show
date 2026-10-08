@@ -1,0 +1,270 @@
+{
+ "source": "GET /api/v2/playlist/58312/events",
+ "pulled": "2026-10-07",
+ "spins": 29,
+ "events": [
+  {
+   "t": "07:00:25",
+   "artist": "Twisted Teens",
+   "track": "Peekaboo Hand",
+   "album": "Blame the Clown",
+   "label": "Chain Smoking Records"
+  },
+  {
+   "t": "07:04:27",
+   "artist": "Little Barrie",
+   "track": "More Bad Miles Of Road",
+   "album": "Gravity Freeze",
+   "label": "Easy Eye Sound"
+  },
+  {
+   "t": "07:07:32",
+   "artist": "Dinosaur Jr.",
+   "track": "Several Got Away",
+   "album": "There Near",
+   "label": "Jagjaguwar"
+  },
+  {
+   "t": "07:10:44",
+   "artist": "Yard Act",
+   "track": "New Beginnings",
+   "album": "You're Gonna Need A Little Music",
+   "label": "Republic Records"
+  },
+  {
+   "t": "07:14:17",
+   "artist": "Dread Spectre Council",
+   "track": "Summon the Sparks",
+   "album": "Thetans",
+   "label": "Handmade Records"
+  },
+  {
+   "t": "07:21:16",
+   "type": "break"
+  },
+  {
+   "t": "07:21:17",
+   "artist": "Radiohead",
+   "track": "Lotus Flower",
+   "album": "The King of Limbs",
+   "label": "XL Recordings"
+  },
+  {
+   "t": "07:23:34",
+   "artist": "Joy Division",
+   "track": "Transmission",
+   "album": "Transmission",
+   "label": "Factory Records"
+  },
+  {
+   "t": "07:27:15",
+   "artist": "Tricky",
+   "track": "Because I Don't Know",
+   "album": "Different When It's Silent",
+   "label": "False Idols"
+  },
+  {
+   "t": "07:31:35",
+   "artist": "Lex Walton",
+   "track": "For Thee I Sing",
+   "album": "Ultimate Love Forever",
+   "label": "Sub Pop Records"
+  },
+  {
+   "t": "07:33:34",
+   "artist": "Spoon",
+   "track": "The Underdog",
+   "album": "Ga Ga Ga Ga Ga",
+   "label": "Merge Records"
+  },
+  {
+   "t": "07:38:53",
+   "type": "break"
+  },
+  {
+   "t": "07:39:08",
+   "type": "PSA"
+  },
+  {
+   "t": "07:39:38",
+   "type": "PSA"
+  },
+  {
+   "t": "07:40:20",
+   "type": "Promo"
+  },
+  {
+   "t": "07:41:29",
+   "type": "break"
+  },
+  {
+   "t": "07:41:57",
+   "artist": "Palace",
+   "track": "Made My Bed",
+   "album": "Ox",
+   "label": "Awal"
+  },
+  {
+   "t": "07:45:39",
+   "artist": "Sluice",
+   "track": "Zillow",
+   "album": "Companion",
+   "label": "Mtn Laurel Recording Co."
+  },
+  {
+   "t": "07:50:42",
+   "artist": "Cut Worms",
+   "track": "Long Weekend",
+   "album": "Transmitter",
+   "label": "Jagjaguwar"
+  },
+  {
+   "t": "07:51:32",
+   "artist": "Sharp Pins",
+   "track": "Days of Change",
+   "album": "Mod Mayday 23",
+   "label": "K Records"
+  },
+  {
+   "t": "07:57:07",
+   "artist": "Pixies",
+   "track": "Here Comes Your Man",
+   "album": "Doolittle",
+   "label": "4AD"
+  },
+  {
+   "t": null,
+   "type": "LID"
+  },
+  {
+   "t": "08:00:30",
+   "type": "break"
+  },
+  {
+   "t": "08:01:23",
+   "artist": "The Strokes",
+   "track": "Hard To Explain",
+   "album": "Is This It",
+   "label": "RCA Records"
+  },
+  {
+   "t": "08:04:59",
+   "artist": "Mr. Gnome",
+   "track": "Mustangs",
+   "album": "The Heart of a Dark Star",
+   "label": "El Marko"
+  },
+  {
+   "t": "08:09:49",
+   "artist": "Arcade Fire",
+   "track": "Wake Up",
+   "album": "Funeral",
+   "label": "Merge Records"
+  },
+  {
+   "t": "08:15:16",
+   "artist": "Dirtbombs, The",
+   "track": "Ode To A Black Man",
+   "album": "Ultraglide In Black",
+   "label": "In the Red Records"
+  },
+  {
+   "t": "08:20:55",
+   "type": "break"
+  },
+  {
+   "t": null,
+   "type": "Promo"
+  },
+  {
+   "t": "08:20:56",
+   "artist": "Ty Segall",
+   "track": "Chrome",
+   "album": "Chrome",
+   "label": "Drag City"
+  },
+  {
+   "t": "08:25:12",
+   "artist": "Lex Walton",
+   "track": "Ultimate Love 4Ever",
+   "album": "Ultimate Love Forever",
+   "label": "Sub Pop Records"
+  },
+  {
+   "t": "08:28:11",
+   "artist": "Sheer Mag",
+   "track": "Expect The Bayonet",
+   "album": "Need To Feel Your Love",
+   "label": "Wilsun Rc"
+  },
+  {
+   "t": "08:33:28",
+   "artist": "Teens in Trouble",
+   "track": "I Do",
+   "album": "I Do",
+   "label": "Lauren Records"
+  },
+  {
+   "t": "08:35:28",
+   "type": "break"
+  },
+  {
+   "t": "08:36:49",
+   "type": "PSA"
+  },
+  {
+   "t": "08:37:12",
+   "type": "PSA"
+  },
+  {
+   "t": "08:38:14",
+   "type": "break"
+  },
+  {
+   "t": "08:38:15",
+   "artist": "Queens of the Stone Age",
+   "track": "Insignificant Other",
+   "album": "Perfecth",
+   "label": ""
+  },
+  {
+   "t": "08:44:00",
+   "artist": "Wilco",
+   "track": "Heavy Metal Drummer",
+   "album": "Yankee Hotel Foxtrot",
+   "label": "Nonesuch Records"
+  },
+  {
+   "t": "08:47:14",
+   "artist": "Sylvan Esso",
+   "track": "Hot Slob",
+   "album": "Ow ∞",
+   "label": "Psychic Hotline"
+  },
+  {
+   "t": "08:49:50",
+   "artist": "This Is Lorelei",
+   "track": "Hey Sarah Is It Gonna Rain Forever",
+   "album": "The Singer in My Band",
+   "label": "Matador Records"
+  },
+  {
+   "t": "08:54:58",
+   "artist": "Fontaines D.C.",
+   "track": "Marianne",
+   "album": "Marianne",
+   "label": "XL Recordings"
+  },
+  {
+   "t": "08:56:58",
+   "artist": "Twisted Teens",
+   "track": "Riding",
+   "album": "Florida Water Blues",
+   "label": "Going Underground"
+  },
+  {
+   "t": "09:01:12",
+   "type": "LID"
+  }
+ ]
+}
