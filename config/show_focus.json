@@ -1,0 +1,144 @@
+{
+ "_note": "Standing show focus set by DJ Stace on Oct. 8, 2026. kzsu-weekly-recon and kzsu-weekly-playlist should read this file and apply it. Artists below come from config/taste_profile.json (shows, last_spin).",
+ "theme": "punk and post-punk",
+ "start": "2026-10-15",
+ "review_after": "2026-11-12",
+ "target_share_of_playlist": "15 to 20 percent (about 10 to 14 tracks of a 70-track weekly list; 6 to 8 in the 2-hour show)",
+ "rules": [
+  "Build from her taste profile first: lapsed favorites, then new releases and anniversaries from the same scene.",
+  "Mix eras in each set: one classic (1976-1984) next to one current band so it sounds like her show, not an oldies block.",
+  "Texas punk gets a recurring slot (Scratch Acid, Butthole Surfers, Big Boys, The Dicks, The Jesus Lizard).",
+  "FCC screen every track. Scratch Acid, Butthole Surfers and Dead Kennedys are likely to need her radio edits or a different song.",
+  "Prefer 2:00-and-under songs from the 'Songs 2:00 and less' playlist for punk fill.",
+  "Log anything she deletes or adds as usual (60-day cool-off for deletes)."
+ ],
+ "lapsed_favorites": [
+  {
+   "artist": "The Clash",
+   "last_spin": "2024-05-15",
+   "shows": 10
+  },
+  {
+   "artist": "Stiff Little Fingers",
+   "last_spin": "2019-08-28",
+   "shows": 7
+  },
+  {
+   "artist": "Scratch Acid",
+   "last_spin": "2022-08-02",
+   "shows": 14,
+   "texas": true
+  },
+  {
+   "artist": "The Jesus Lizard",
+   "last_spin": "2024-06-26",
+   "shows": 17,
+   "texas": true
+  },
+  {
+   "artist": "Butthole Surfers",
+   "last_spin": "2026-08-06",
+   "shows": 8,
+   "texas": true
+  },
+  {
+   "artist": "Buzzcocks",
+   "last_spin": "2026-05-07",
+   "shows": 14
+  },
+  {
+   "artist": "Joy Division",
+   "last_spin": "2019-06-12",
+   "shows": 6
+  },
+  {
+   "artist": "The Fall",
+   "last_spin": "2019-02-20",
+   "shows": 5
+  },
+  {
+   "artist": "Wire",
+   "last_spin": "2026-05-21",
+   "shows": 11
+  },
+  {
+   "artist": "The Damned",
+   "last_spin": "2017-12-27",
+   "shows": 3
+  },
+  {
+   "artist": "Husker Du",
+   "last_spin": "2018-02-14",
+   "shows": 5
+  },
+  {
+   "artist": "Bad Brains",
+   "last_spin": "2016-10-19",
+   "shows": 2
+  },
+  {
+   "artist": "Ramones",
+   "last_spin": "2024-04-24",
+   "shows": 2
+  },
+  {
+   "artist": "Siouxsie & The Banshees",
+   "last_spin": "2026-04-09",
+   "shows": 9
+  },
+  {
+   "artist": "Killing Joke",
+   "last_spin": "2026-09-24",
+   "shows": 5
+  },
+  {
+   "artist": "Public Image Ltd.",
+   "last_spin": "2026-09-10",
+   "shows": 2
+  },
+  {
+   "artist": "Fugazi",
+   "last_spin": "2026-04-16",
+   "shows": 9
+  },
+  {
+   "artist": "Shellac",
+   "last_spin": "2024-06-12",
+   "shows": 3
+  }
+ ],
+ "texas_punk_to_research": [
+  "Big Boys",
+  "The Dicks",
+  "Butthole Surfers",
+  "Scratch Acid",
+  "The Jesus Lizard",
+  "Offenders",
+  "Really Red",
+  "The Hates",
+  "Poison 13"
+ ],
+ "current_bands_in_profile": [
+  "IDLES",
+  "Fontaines D.C.",
+  "Yard Act",
+  "Dry Cleaning",
+  "Shame",
+  "Viagra Boys",
+  "Geese",
+  "BODEGA",
+  "Parquet Courts",
+  "Iceage",
+  "Sleaford Mods",
+  "Black Midi",
+  "Twisted Teens",
+  "Sharp Pins",
+  "Wet Leg"
+ ],
+ "four_week_arc": {
+  "2026-10-15": "Clash and UK 1977: The Clash, Buzzcocks, Stiff Little Fingers (Belfast), The Damned, paired with IDLES or Fontaines D.C.",
+  "2026-10-22": "Texas punk: Scratch Acid, Butthole Surfers, Big Boys, The Jesus Lizard, paired with Ty Segall, Thee Oh Sees, Viagra Boys",
+  "2026-10-29": "Halloween post-punk: Bauhaus, Siouxsie, Joy Division, Killing Joke, PiL, paired with Dry Cleaning, Iceage",
+  "2026-11-05": "US hardcore and Washington D.C.: Fugazi, Husker Du, Bad Brains, Minutemen-style short songs under 2:00, paired with Parquet Courts, Sharp Pins"
+ }
+}
