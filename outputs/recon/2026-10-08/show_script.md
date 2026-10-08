@@ -2,12 +2,20 @@
 
 The Library with DJ Stace, KZSU 90.1 FM, 6-8 p.m. PT. Draft built Oct. 4; updated with Stace's Air Order edits in the Tuesday sweeps (Oct. 4 and Oct. 6). Final version Wednesday night.
 
-## Ticket giveaway (new Oct. 7)
+## Ticket giveaway (Oct. 7, revised: Hovvdy)
 
-- **Prize:** 1 ticket, Brit Floyd (classic rock cover band, Pink Floyd tribute), Fox Theater, Oakland, Wed. Oct. 14, 2026. Source: `data/tickets/ticket_giveaways_2026-10.csv` (the only row listing Stace). Give by Tue. Oct. 13. Show time is not on the sheet; confirm.
-- **When:** Hour 2, right after Set 4 and the Bay Area shows break.
+- **Prize:** 2 tickets, Hovvdy, Chapel, S.F., Mon. Oct. 19, 2026. Give by Sun. Oct. 18. Source: `data/tickets/ticket_giveaways_2026-10.csv`. Stace chose this over the Brit Floyd row (her only listed row). The sheet lists Francis as the giving DJ for Hovvdy: confirm before air. Show time is not on the sheet.
+- **When:** Hour 2, right after Set 5. Hovvdy "Try Try Try" is #24 in that set.
 - **Promo teasers:** opening break, end of Hour 1, and after the Triple Shot. Copy is in the landscape script.
 - **Contest method and call-in number:** not on the ticket sheet. Use the KZSU contest procedure.
+
+## Morphine mic break (after #35, "Cocoon")
+
+- New album Cocoon, out Dec. 4 on Partisan: eight songs from sessions Morphine started and abandoned in 1998, a year before Mark Sandman died on stage. First full-length since The Night (DreamWorks, 2000).
+- Producers Paul Q. Kolderie and Sean Slade, Morphine's longtime production duo (also Pablo Honey and Live Through This). Kolderie and Sandman's partner Sabine Hrechdakian went through the tapes in 2023. Kolderie newly mixed them. Dana Colley added new baritone sax on three songs. The recordings add piano, guitar and more than one drummer.
+- Hrechdakian on the title: Sandman loved to tour and loved to come home and cocoon. A space travel thread runs through the album; she pictures a spaceship for two.
+- Spaceman Charm has never been released. Title track is out now with an archival video. Cover photo by Sandman. Liner notes by Hanif Abdurraqib.
+- Sources: Pitchfork, The Line of Best Fit, Rolling Stone, SPIN, Stereogum, Partisan, Bandcamp. SPIN alone reports the DreamWorks and Kolderie friction. July 3, 1999 and age 46 for Sandman are background knowledge: verify. The version we play is the 1993 Cure for Pain song.
 
 ## Talk-break material
 
