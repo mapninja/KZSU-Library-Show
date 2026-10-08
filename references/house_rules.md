@@ -41,6 +41,9 @@
 - Reviews live in the KZSU-Album-Reviews repo. KZSU-Album-Reviews pushes go to branch `master` (not main). Add only your own files there; Stace keeps uncommitted work in that repo.
 - Commit and push after each run using the token in `.env`. Never print secrets.
 
+## Show script format
+- All show scripts (Working, Final, specialty) are landscape, table-based Word + PDF files, not prose Docs. Stace's standing preference (Oct. 7, 2026): she scans them on air. Layout and build steps: `references/show_script_landscape.md`.
+
 ## Style
 - AP style, no em dashes, no hyperbole. Bullets. Busy, tech-savvy reader.
 

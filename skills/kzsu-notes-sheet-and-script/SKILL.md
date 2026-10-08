@@ -19,6 +19,9 @@ Read `references/house_rules.md` and `config/playlists.json`. Use `anthropic-ski
 - Mic break points: 2 to 3 facts per break from date-in-music, release context, label, tour dates. AP style, no hyperbole. No lyrics.
 
 ## Doc: "Library Show Working Show Script"
+
+Format: landscape, table-based Word file plus PDF per `references/show_script_landscape.md` (Stace's standing preference since Oct. 7, 2026). The notes below describe the content; present it in tables.
+
 - Native Google Doc in /KZSU/. Readable on a laptop: big headings per set, one block per track.
 - Each track block: artist, track, album, label, release date, playtime, FCC flag, notes, talk points, inline.
 - FCC items are called out at the top of the doc and on the track, with the exact word and count.

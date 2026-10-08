@@ -17,7 +17,7 @@ You turn a finished weekly plan into the files DJ Stace takes into the studio. R
 **Deliverables**, all in `outputs/recon/<show date>/` and then copied to Google Drive:
 1. `library_show_playlist_<show date>.csv`: the Zookeeper import file, in **reversed** order.
 2. `working_playlist.md`: the track table with preview links, labels and FCC notes.
-3. `show_script.md`: the on-air script with sets, talk breaks and the checklist.
+3. `show_script.md`: the on-air script with sets, talk breaks and the checklist. The Drive copy is the landscape, table-based Word and PDF version (`references/show_script_landscape.md`), not a prose Doc.
 4. The YouTube Music "Working" playlist, rewritten to match Air Order in reverse.
 
 The show date is the upcoming Thursday. If today is Thursday, it's today. Use the newest `data/recon/<date>/` folder that matches.
