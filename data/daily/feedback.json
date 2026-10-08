@@ -503,5 +503,16 @@
    "item": "Twisted Teens - Hand Me A Cigarette",
    "strength": "weak"
   }
+ ],
+ "moved_by_stace": [
+  {
+   "date": "2026-10-08",
+   "source_playlist": "Air Order",
+   "artist": "Yo La Tengo",
+   "track": "Autumn Sweater",
+   "from": "Hour 2, Set 5, #29",
+   "to": "Hour 2, Set 6, #32 (after Dead Meadow)",
+   "signal": "moved in Air Order; keep, follow her order"
+  }
  ]
 }

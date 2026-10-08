@@ -140,13 +140,13 @@ Intro: New single Day in the Sun (album out Oct. 9) with two catalog picks from 
 26. **Cate Le Bon, "Home to You"** (5:28) Mexican Summer (verify). Weekly Playlist pick. Library: not in KZSU library. FCC: CLEAN (LRCLIB).
 27. **This Is Lorelei, "Oh No Now My"** (3:08) Matador Records. Stace's pick, replaces Billy Came Back. Second single from The Singer in My Band, Nate Amos's third This Is Lorelei album (Matador, Sept. 11). FCC: CLEAN (LRCLIB).
 28. **Courtney Barnett, "One Thing At A Time"** (4:42) Mom + Pop. Stace's pick, replaces Avant Gardener. From her fourth album, Creature of Habit (Mom + Pop, March 27). Flea on bass; produced by Stella Mozgawa and John Congleton. FCC: CLEAN (LRCLIB, check by ear: LRCLIB album name odd).
-29. **Yo La Tengo, "Autumn Sweater"** (5:19) Matador Records. Tag 376770. Weekly Playlist pick. FCC: CLEAN (LRCLIB).
-30. **Perfume Genius, "Queen"** (3:51) Matador Records. Tag 1063022. Weekly Playlist pick. FCC: CLEAN (LRCLIB).
+29. **Perfume Genius, "Queen"** (3:51) Matador Records. Tag 1063022. Weekly Playlist pick. FCC: CLEAN (LRCLIB).
 
 ### Hour 2, Set 6: Heavy, psych and close
 
-31. **Goat, "I Sing in Silence"** (3:29) Sub Pop Records. Tag 1102420. Weekly Playlist pick. FCC: CLEAN (LRCLIB).
-32. **Dead Meadow, "Everything's Goin On"** (3:30) Heavy Psych Sounds Records. Weekly Playlist pick. Foundlings rarities album out July 31 (Heavy Psych Sounds). FCC: CLEAN (LRCLIB).
+30. **Goat, "I Sing in Silence"** (3:29) Sub Pop Records. Tag 1102420. Weekly Playlist pick. FCC: CLEAN (LRCLIB).
+31. **Dead Meadow, "Everything's Goin On"** (3:30) Heavy Psych Sounds Records. Weekly Playlist pick. Foundlings rarities album out July 31 (Heavy Psych Sounds). FCC: CLEAN (LRCLIB).
+32. **Yo La Tengo, "Autumn Sweater"** (5:19) Matador Records. Tag 376770. Weekly Playlist pick. FCC: CLEAN (LRCLIB).
 33. **Mandrake Handshake, "The Tether / Modulo 5"** (5:12) Tip Top Recordings. Carried over. Likely instrumental. FCC: UNVERIFIED (no lyrics found; listen first).
 34. **Stereolab, "Flashes In The Afternoon"** (6:15) Duophonic Ultra High Fs. Stace's pick. Instrumental B-side of a once tour-only 7-inch, out Feb. 13 on the band's Duophonic label. FCC: CLEAN (instrumental).
 35. **Morphine, "Cocoon"** (3:54) Rykodisc. Carried over. New Morphine release Cocoon (Partisan) is due Dec. 4, 2026. FCC: CLEAN (Genius).

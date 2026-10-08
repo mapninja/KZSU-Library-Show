@@ -551,22 +551,6 @@
      "date_source": "wikipedia; stereogum"
     },
     {
-     "artist": "Yo La Tengo",
-     "track": "Autumn Sweater",
-     "album": "Autumn Sweater",
-     "label": "Matador Records",
-     "label_source": "zookeeper single (track appears on I Can Hear the Heart Beating as One, 1997)",
-     "tag": "376770",
-     "released": "1997",
-     "why": "Weekly Playlist pick.",
-     "fcc_status": "CLEAN",
-     "fcc_note": "CLEAN (LRCLIB)",
-     "priority": "O",
-     "source": "weekly playlist/recon",
-     "videoId": "jTI5dX83NZc",
-     "duration": "5:19"
-    },
-    {
      "artist": "Perfume Genius",
      "track": "Queen",
      "album": "Too Bright",
@@ -619,6 +603,24 @@
      "videoId": "dXVE5NZl6G4",
      "duration": "3:30",
      "source_url": "https://heavypsychsoundsrecords.bandcamp.com/album/dead-meadow-foundlings"
+    },
+    {
+     "artist": "Yo La Tengo",
+     "track": "Autumn Sweater",
+     "album": "Autumn Sweater",
+     "label": "Matador Records",
+     "label_source": "zookeeper single (track appears on I Can Hear the Heart Beating as One, 1997)",
+     "tag": "376770",
+     "released": "1997",
+     "why": "Weekly Playlist pick.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (LRCLIB)",
+     "priority": "O",
+     "source": "weekly playlist/recon",
+     "videoId": "jTI5dX83NZc",
+     "duration": "5:19",
+     "moved_by": "DJ Stace",
+     "moved_note": "Moved from Set 5 to Set 6 after Dead Meadow, seen Oct. 8"
     },
     {
      "artist": "Mandrake Handshake",

@@ -163,6 +163,7 @@ kids.push(simpleTable([2600, 11800], ["Change", "Detail"], [
   ["Culled", "None. No ticks in the Cull column."],
   ["Replace requests", "None. No ticks in the Replace column."],
   ["Added (Air Order)", "Swans, \"Can't Find My Way Home\" (4:49), track 42. Tag 738020, The Burning World, Uni Distribution Corp. FCC clean on LRCLIB."],
+  ["Moved (Air Order, Oct. 8)", "Yo La Tengo, \"Autumn Sweater\" (5:19) moved from Set 5 to Set 6, after Dead Meadow. Now track 32. Set 5 has 10 tracks, Set 6 has 6."],
   ["Held out", { t: "Sex Pistols, \"Anarchy in the U.K.\": FCC \"piss\" x1 (Outro). In the Air Order, not in the CSV. Needs a radio edit or a swap.", color: RED, bold: true }],
   ["Metadata fix", "Dinosaur Jr. \"Feel the Pain\" is on Without a Sound (tag 187859)."],
   [{ t: "Ticket giveaway (new)", bold: true }, { t: "Hovvdy, Chapel, S.F., Mon. Oct. 19. 2 tickets. Giveaway after Set 5 in Hour 2. Promo teasers at the opening break, the end of Hour 1 and after the Triple Shot. Sheet lists Francis as the giving DJ: confirm.", bold: true }],

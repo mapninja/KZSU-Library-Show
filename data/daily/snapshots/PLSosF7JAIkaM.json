@@ -1,223 +1,51 @@
 {
  "playlist": "DJ Stace library show Air Order",
  "id": "PLSosF7JAIkaM",
- "snapshot": "2026-10-07",
+ "snapshot": "2026-10-08 (Thursday show sync, 43 tracks)",
  "note": "43 tracks as read Oct. 7 (Wednesday final run). Only change since Oct. 6: Swans, Can't Find My Way Home, added at the end.",
  "tracks": [
-  [
-   "Twisted Teens",
-   "When We First Met",
-   "ElPskynxhTA"
-  ],
-  [
-   "Guided By Voices",
-   "Lost In The Sun",
-   "dfiR6XtYdzY"
-  ],
-  [
-   "Interpol",
-   "This Mirror Weighs a Ton",
-   "3PLNnRBXq4c"
-  ],
-  [
-   "Caroline Rose",
-   "Chow Mein",
-   "xoB-7eET8sw"
-  ],
-  [
-   "Dread Spectre Council",
-   "Hex's Up",
-   "bSbNyNFLQT8"
-  ],
-  [
-   "Soundgarden",
-   "Slaves & Bulldozers",
-   "wgqLAlFKtXA"
-  ],
-  [
-   "Radiohead",
-   "The National Anthem",
-   "NfQD1QiQ9o4"
-  ],
-  [
-   "Talking Heads",
-   "Once in a Lifetime",
-   "CHatn3_UxEU"
-  ],
-  [
-   "Galaxie 500",
-   "Tugboat",
-   "FUFWkuMY6xM"
-  ],
-  [
-   "R.E.M.",
-   "Man On The Moon",
-   "CO5GaVJiRwo"
-  ],
-  [
-   "Ty Segall",
-   "Play Cowboys",
-   "pirkuE2Edgc"
-  ],
-  [
-   "Teenage Fanclub",
-   "Everything Flows",
-   "TR8_FmGDXQU"
-  ],
-  [
-   "Teenage Fanclub",
-   "Ain't That Enough",
-   "D757lJMBDk0"
-  ],
-  [
-   "Teenage Fanclub",
-   "Day In The Sun",
-   "1c9YDg__yLc"
-  ],
-  [
-   "My Morning Jacket",
-   "Wordless Chorus",
-   "q15sZK-8sPw"
-  ],
-  [
-   "Dinosaur Jr",
-   "Feel the Pain",
-   "ItkZHJwmeN4"
-  ],
-  [
-   "Imperial Teen",
-   "Yoo Hoo",
-   "1ZX98VQcVl0"
-  ],
-  [
-   "Imperial Teen",
-   "Overdrive",
-   "kIRXNnh6NdU"
-  ],
-  [
-   "Geese",
-   "Cobra",
-   "iGafqQemNUw"
-  ],
-  [
-   "Sharp Pins",
-   "How Can I Explain What She Does To Me?",
-   "3VEaOLLkDi4"
-  ],
-  [
-   "Lucy Dacus",
-   "Planting Tomatoes",
-   "Kemyow8A4XY"
-  ],
-  [
-   "Beth Orton",
-   "Waiting",
-   "4AEdJyRdtHI"
-  ],
-  [
-   "Cigarettes After Sex",
-   "Twizzler",
-   "UrSKhNkbsM8"
-  ],
-  [
-   "Hovvdy",
-   "Try Try Try",
-   "PS4WMDhV2As"
-  ],
-  [
-   "Aldous Harding",
-   "The Barrel",
-   "Ws3XVUlKXQ4"
-  ],
-  [
-   "Cate Le Bon",
-   "Home to You",
-   "mUHfoV0ccEg"
-  ],
-  [
-   "This Is Lorelei",
-   "Oh No Now My",
-   "tsmxdk686wg"
-  ],
-  [
-   "Courtney Barnett",
-   "One Thing At A Time",
-   "KRc6QLhw834"
-  ],
-  [
-   "Perfume Genius",
-   "Queen",
-   "oRc4eohqlaM"
-  ],
-  [
-   "Goat",
-   "I Sing in Silence",
-   "7XhgcajHhcM"
-  ],
-  [
-   "Dead Meadow",
-   "Everything's Goin On",
-   "dXVE5NZl6G4"
-  ],
-  [
-   "Yo La Tengo",
-   "Autumn Sweater",
-   "jTI5dX83NZc"
-  ],
-  [
-   "Mandrake Handshake",
-   "The Tether / Modulo 5",
-   "Zsepy5ogQxU"
-  ],
-  [
-   "Stereolab",
-   "Flashes In The Afternoon",
-   "uJY5H3Hala8"
-  ],
-  [
-   "Morphine",
-   "Cocoon",
-   "Bw6BlzTg0Rc"
-  ],
-  [
-   "Big Star",
-   "September Gurls",
-   "IRGdfyrVjlw"
-  ],
-  [
-   "Broadcast",
-   "Come On Let's Go",
-   "AyWKWcEfE-Y"
-  ],
-  [
-   "Uncle Tupelo",
-   "No Depression",
-   "bu6nzpkoFyo"
-  ],
-  [
-   "Westside Cowboy",
-   "Kick Stones (The Boys)",
-   "W51Ik_1noH8"
-  ],
-  [
-   "Sex Pistols",
-   "Anarchy in the U.K.",
-   "K07Yq4zGTcI"
-  ],
-  [
-   "The Clash",
-   "Know Your Rights",
-   "M1Zz7QWbS-w"
-  ],
-  [
-   "Yard Act",
-   "You're Gonna Need A Little Music",
-   "aGTuvSf85-s"
-  ],
-  [
-   "Swans",
-   "Can't Find My Way Home",
-   "cZnaU3_Sr7U"
-  ]
+  "ElPskynxhTA",
+  "dfiR6XtYdzY",
+  "3PLNnRBXq4c",
+  "xoB-7eET8sw",
+  "bSbNyNFLQT8",
+  "wgqLAlFKtXA",
+  "NfQD1QiQ9o4",
+  "CHatn3_UxEU",
+  "FUFWkuMY6xM",
+  "CO5GaVJiRwo",
+  "pirkuE2Edgc",
+  "TR8_FmGDXQU",
+  "D757lJMBDk0",
+  "1c9YDg__yLc",
+  "q15sZK-8sPw",
+  "ItkZHJwmeN4",
+  "1ZX98VQcVl0",
+  "kIRXNnh6NdU",
+  "iGafqQemNUw",
+  "3VEaOLLkDi4",
+  "Kemyow8A4XY",
+  "4AEdJyRdtHI",
+  "UrSKhNkbsM8",
+  "PS4WMDhV2As",
+  "Ws3XVUlKXQ4",
+  "mUHfoV0ccEg",
+  "tsmxdk686wg",
+  "KRc6QLhw834",
+  "oRc4eohqlaM",
+  "7XhgcajHhcM",
+  "dXVE5NZl6G4",
+  "jTI5dX83NZc",
+  "Zsepy5ogQxU",
+  "uJY5H3Hala8",
+  "Bw6BlzTg0Rc",
+  "IRGdfyrVjlw",
+  "AyWKWcEfE-Y",
+  "bu6nzpkoFyo",
+  "W51Ik_1noH8",
+  "K07Yq4zGTcI",
+  "M1Zz7QWbS-w",
+  "aGTuvSf85-s",
+  "cZnaU3_Sr7U"
  ]
 }
