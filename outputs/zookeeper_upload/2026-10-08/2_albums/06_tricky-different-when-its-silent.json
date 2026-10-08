@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "type": "album",
+      "attributes": {
+        "artist": "Tricky",
+        "album": "Different When It's Silent",
+        "category": "General",
+        "medium": "CD",
+        "size": "Full",
+        "location": "Pending Appr",
+        "bin": null,
+        "coll": false,
+        "tracks": [
+          {
+            "seq": 1,
+            "track": "I Still See Me There",
+            "duration": "00:03:39",
+            "url": "https://tricky.bandcamp.com/track/i-still-see-me-there-feat-mitch-sanders"
+          },
+          {
+            "seq": 2,
+            "track": "I'm Yours",
+            "duration": "00:02:36",
+            "url": "https://tricky.bandcamp.com/track/im-yours-feat-mitch-sanders"
+          },
+          {
+            "seq": 3,
+            "track": "Be Still In The Pain",
+            "duration": "00:03:22",
+            "url": "https://tricky.bandcamp.com/track/be-still-in-the-pain-feat-mitch-sanders-run-red-rambo"
+          },
+          {
+            "seq": 4,
+            "track": "I Tried",
+            "duration": "00:02:16",
+            "url": "https://tricky.bandcamp.com/track/i-tried-feat-mitch-sanders"
+          },
+          {
+            "seq": 5,
+            "track": "So Cold",
+            "duration": "00:02:39",
+            "url": "https://tricky.bandcamp.com/track/so-cold-feat-mitch-sanders"
+          },
+          {
+            "seq": 6,
+            "track": "Paris Maybe",
+            "duration": "00:02:53",
+            "url": "https://tricky.bandcamp.com/track/paris-maybe-feat-mitch-sanders"
+          },
+          {
+            "seq": 7,
+            "track": "Cannon Fodder",
+            "duration": "00:02:48",
+            "url": "https://tricky.bandcamp.com/track/cannon-fodder-feat-mitch-sanders"
+          },
+          {
+            "seq": 8,
+            "track": "Because I Don't Know",
+            "duration": "00:04:34",
+            "url": "https://tricky.bandcamp.com/track/because-i-don-t-know-feat-mitch-sanders"
+          },
+          {
+            "seq": 9,
+            "track": "Marinade",
+            "duration": "00:03:20",
+            "url": "https://tricky.bandcamp.com/track/marinade-feat-mitch-sanders"
+          },
+          {
+            "seq": 10,
+            "track": "Radana",
+            "duration": "00:03:10",
+            "url": "https://tricky.bandcamp.com/track/radana-feat-mitch-sanders-radana"
+          },
+          {
+            "seq": 11,
+            "track": "Piano",
+            "duration": "00:02:43",
+            "url": "https://tricky.bandcamp.com/track/piano-feat-mitch-sanders"
+          },
+          {
+            "seq": 12,
+            "track": "Frontier Town",
+            "duration": "00:01:40",
+            "url": "https://tricky.bandcamp.com/track/frontier-town-2"
+          },
+          {
+            "seq": 13,
+            "track": "Hengrove Blues",
+            "duration": "00:02:57",
+            "url": "https://tricky.bandcamp.com/track/hengrove-blues-feat-mitch-sanders"
+          },
+          {
+            "seq": 14,
+            "track": "Out of Place",
+            "duration": "00:02:38",
+            "url": "https://tricky.bandcamp.com/track/out-of-place-feat-marta"
+          }
+        ],
+        "albumart": "https://f4.bcbits.com/img/a1789291586_5.jpg"
+      },
+      "relationships": {
+        "label": {
+          "data": {
+            "type": "label",
+            "id": "22352"
+          }
+        }
+      }
+    }
+  ]
+}

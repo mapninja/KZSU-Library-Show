@@ -1,0 +1,14 @@
+{
+  "data": {
+    "type": "album",
+    "id": "1156430",
+    "relationships": {
+      "label": {
+        "data": {
+          "type": "label",
+          "id": "22353"
+        }
+      }
+    }
+  }
+}

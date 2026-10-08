@@ -1,0 +1,1 @@
+204 PATCH https://zookeeper.stanford.edu/api/v1/album/1138339 PATCH_1138339_felice-brothers-the_undress.json

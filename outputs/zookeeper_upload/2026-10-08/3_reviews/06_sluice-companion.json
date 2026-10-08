@@ -1,0 +1,19 @@
+{
+  "data": {
+    "type": "review",
+    "attributes": {
+      "airname": "DJ Stace",
+      "published": true,
+      "date": "2026-10-04",
+      "review": "Album / Artist: Companion / Sluice\r\n\r\nLabel: Mtn Laurel Recording Co.\r\n\r\nRelease Date: March 27, 2026\r\n\r\nReview Date: 10/4/2026\r\n\r\nReviewer: DJ Stace\r\n\r\nGeneral Comments / Reviews:\r\n\r\nHushed, wordy Durham folk rock with two nine-minute stunners and a song about Zillow. Bill Callahan fans, form a line. - DJ Stace\r\n\r\n“exists in a cloud of dreamy contemplation” - Pitchfork\r\n\r\nRelease Notes:\r\n\r\nThird album from the Durham, N.C., folk-rock band led by Justin Morris (guitar, piano, synth, kalimba, field recordings, vocals).\r\n\r\n10 tracks, about 44 minutes\r\n\r\nreleased March 27, 2026\r\n\r\nFCCs: 3,4,6,10\r\n\r\nRIYL: Fust, Bill Callahan, Friendship, Hovvdy, Sin Ropas, Red Red Meat, Califone\r\n\r\nPlay: All but FCCs, Favs Rated with up to *****\r\n\r\nTracklist:\r\n\r\n1. ***** Beadie 04:01 - Slow, plodding spacious, epic and glorious opener. Plodding anthem moves to a crashing crescendo at 3 minutes until the end. Great vocals. Lyrics refer to the romantically involved partners from TV’s “The Wire.”\r\n2. **** Ratchet Strap 03:30 -. Quiet, low fi, no country strummer, reminiscence of Uncle Tupelo’s harmonic best, ends up a rocker by the end. Fiddles and two part harmonies always get me. Segue with Avett Brothers.\r\n3. WTF 03:33 - Quiet intro gives way to “orchestra tuning vocal” layering, then quietly transitions to a fuzzy guitar plodder that reminds in places of Jason Molina. Great epic guitar interludes. FCC fuck x2.\r\n4. *** Gator 08:46 - Very long stream-of-consciousness track; Lovely guitar accompaniment. Morris joked about making it a single. Kind of track you don’t hear starts at first, but grabs you and holds you so you end up listening to it again. FCC “smelled like shit” x1, piss x1.\r\n5. The Ephemeral Stream 01:46 - Quiet, atmospheric recording, pastoral. Some sort of chopping breaks the silence. Bracing.\r\n6. Torpor 02:49 - Medium tempo, story song about being the victim of a home robbery. Starts with soft guitar and transitions to a country rocker. FCC “get on the fuckin’ ground” x1.\r\n7. Unknowing 09:01 - Slow, fuzzed but soft intro. VERY heavily distorted autotuned lyrics. Centerpiece; built on a prayer by a Trappist monk (source: Paste Magazine). Seque with “Tripped on Your Cape” by Sin Ropas. Final 90 seconds is near total silence, so you can crossfade at 7:30.\r\n8. ***** Overhead 03:57 - Another quiet strumming guitar and vocal start, without being redundant. Reminds of Bill Callahan, here.\r\n9. ***** Zillow 03:13 - Great no country pop toe tapper with lyrics culled/inspired from Zillow descriptions and comments about local housing prices.\r\n10. Vegas 03:18 - Upbeat country rocker, gives Old 97’s vibes. FCC shit x3."
+    },
+    "relationships": {
+      "album": {
+        "data": {
+          "type": "album",
+          "id": "1156485"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "data": [
+    {
+      "type": "album",
+      "attributes": {
+        "artist": "Little Barrie",
+        "album": "Gravity Freeze",
+        "category": "General",
+        "medium": "CD",
+        "size": "Full",
+        "location": "Pending Appr",
+        "bin": null,
+        "coll": false,
+        "tracks": [
+          {
+            "seq": 1,
+            "track": "More Bad Miles Of Road",
+            "duration": "00:03:49",
+            "url": "https://littlebarrie.bandcamp.com/track/more-bad-miles-of-road"
+          },
+          {
+            "seq": 2,
+            "track": "It Isn't Soul",
+            "duration": "00:02:49",
+            "url": "https://littlebarrie.bandcamp.com/track/it-isnt-soul"
+          },
+          {
+            "seq": 3,
+            "track": "December",
+            "duration": "00:05:08",
+            "url": "https://littlebarrie.bandcamp.com/track/december"
+          },
+          {
+            "seq": 4,
+            "track": "Luggin' Hurt",
+            "duration": "00:07:08",
+            "url": "https://littlebarrie.bandcamp.com/track/luggin-hurt"
+          },
+          {
+            "seq": 5,
+            "track": "Talk It Up Like It's Wanted",
+            "duration": "00:03:02",
+            "url": "https://littlebarrie.bandcamp.com/track/talk-it-up-like-its-wanted"
+          },
+          {
+            "seq": 6,
+            "track": "Anything You Are",
+            "duration": "00:03:20",
+            "url": "https://littlebarrie.bandcamp.com/track/anything-you-are"
+          },
+          {
+            "seq": 7,
+            "track": "Coralisa",
+            "duration": "00:04:49",
+            "url": "https://littlebarrie.bandcamp.com/track/coralisa"
+          },
+          {
+            "seq": 8,
+            "track": "Wire",
+            "duration": "00:03:37",
+            "url": "https://littlebarrie.bandcamp.com/track/wire"
+          },
+          {
+            "seq": 9,
+            "track": "Gravity Freeze",
+            "duration": "00:03:07",
+            "url": "https://littlebarrie.bandcamp.com/track/gravity-freeze"
+          }
+        ],
+        "albumart": "https://f4.bcbits.com/img/a2605765828_5.jpg"
+      },
+      "relationships": {
+        "label": {
+          "data": {
+            "type": "label",
+            "id": "21304"
+          }
+        }
+      }
+    }
+  ]
+}

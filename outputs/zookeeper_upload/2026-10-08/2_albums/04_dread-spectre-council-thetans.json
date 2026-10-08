@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "type": "album",
+      "attributes": {
+        "artist": "Dread Spectre Council",
+        "album": "Thetans",
+        "category": "General",
+        "medium": "CD",
+        "size": "Full",
+        "location": "Pending Appr",
+        "bin": null,
+        "coll": false,
+        "tracks": [
+          {
+            "seq": 1,
+            "track": "Hex's Up",
+            "duration": "00:03:50",
+            "url": "https://handmaderecs.bandcamp.com/track/hexs-up-2"
+          },
+          {
+            "seq": 2,
+            "track": "Hooves & Cloves",
+            "duration": "00:03:24",
+            "url": "https://handmaderecs.bandcamp.com/track/hooves-cloves-2"
+          },
+          {
+            "seq": 3,
+            "track": "Where Would the Light Go",
+            "duration": "00:03:11",
+            "url": "https://handmaderecs.bandcamp.com/track/where-would-the-light-go-2"
+          },
+          {
+            "seq": 4,
+            "track": "Sungate",
+            "duration": "00:03:52",
+            "url": "https://handmaderecs.bandcamp.com/track/sungate-2"
+          },
+          {
+            "seq": 5,
+            "track": "Spiderette",
+            "duration": "00:04:21",
+            "url": "https://handmaderecs.bandcamp.com/track/spiderette-2"
+          },
+          {
+            "seq": 6,
+            "track": "Evil Incarnate",
+            "duration": "00:02:37",
+            "url": "https://handmaderecs.bandcamp.com/track/evil-incarnate-2"
+          },
+          {
+            "seq": 7,
+            "track": "Wildling",
+            "duration": "00:02:59",
+            "url": "https://handmaderecs.bandcamp.com/track/wildling-2"
+          },
+          {
+            "seq": 8,
+            "track": "Treasure Trove",
+            "duration": "00:03:10",
+            "url": "https://handmaderecs.bandcamp.com/track/treasure-trove-2"
+          },
+          {
+            "seq": 9,
+            "track": "Raven",
+            "duration": "00:04:54",
+            "url": "https://handmaderecs.bandcamp.com/track/raven"
+          },
+          {
+            "seq": 10,
+            "track": "Summon the Sparks",
+            "duration": "00:03:38",
+            "url": "https://handmaderecs.bandcamp.com/track/summon-the-sparks"
+          }
+        ],
+        "albumart": "https://f4.bcbits.com/img/a1933910254_5.jpg"
+      },
+      "relationships": {
+        "label": {
+          "data": {
+            "type": "label",
+            "id": "17538"
+          }
+        }
+      }
+    }
+  ]
+}

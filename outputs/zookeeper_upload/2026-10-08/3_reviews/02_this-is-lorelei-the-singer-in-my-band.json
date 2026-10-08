@@ -1,0 +1,19 @@
+{
+  "data": {
+    "type": "review",
+    "attributes": {
+      "airname": "DJ Stace",
+      "published": true,
+      "date": "2026-10-04",
+      "review": "Album / Artist: The Singer in My Band / This Is Lorelei\r\n\r\nLabel: Matador Records\r\n\r\nRelease Date: September 11, 2026\r\n\r\nReview Date: 10/4/2026\r\n\r\nReviewer: DJ Stace\r\n\r\nGeneral Comments / Reviews:\r\n\r\nNate Amos gets in the car and comes back with a twangy alt-country road record. Tight, warm and catchy as hell. Look for cover versions of most of these, a la Box for Buddy, cause who could resist? - DJ Stace\r\n\r\nRelease Notes:\r\n\r\nThird album from Nate Amos as This Is Lorelei, and his first for Matador.\r\n\r\nSelf-produced and recorded at his home studio in Brooklyn.\r\n\r\nAmos calls it his road album; he wrote the songs daydreaming in the car with no instruments.\r\n\r\nLead single Billy Came Back (June 23, 2026). NACC #12 the week of Oct. 1.\r\n\r\nreleased September 11, 2026\r\n\r\nFCCs: None found\r\n\r\nRIYL: MJ Lenderman, Wednesday, Alex G, Big Thief\r\n\r\nPlay: All, Favs Rated with up to *****\r\n\r\nTracklist:\r\n\r\n1. *** I Will Eat My Heart in the Morning Light 03:18 - Upbeat guitar anthem. Great lyrics and vocals.\r\n2. ***** Oh No Now My 03:09 - Strong mid tempo thumper with great guitar hook throughout. Least alt-country track of the album. Stacked harmonies over low-tuned guitars. Play it!!\r\n3. **** Billy Came Back 03:10 - Upbeat, jangly strummer about Billy, a karaoke legend.\r\n4. *** Watching Heaven Fall 03:13 - Upbeat country popper.\r\n5. *** Sailing (Your Baby's Down) 03:33 - Medium tempo upbeat country harmony yacht rocker.\r\n6. *** The Singer in My Band 02:26 - Upbeat country rocker with banjos.\r\n7. Nitro 01:27 - Fast paced low tuned acoustic guitar instrumental.\r\n8. ***** Hey Sarah Is It Gonna Rain Forever 03:28 - Continuing the riff from the previous instrumental, becomes a cool baritone guitar stomper anthem to Sarah. Great vocal styling. Playing this one heavily on The Library Show.\r\n9. **** The Kid With the Crown 04:15 - Starts with a light acoustic guitar jam, abruptly hits with an alt-country rocker punch in the face, and stays upbeat and bright throughout.\r\n10. **** And I Haven't Seen My Love in Quite a While 03:29 - Fast-paced country two-step bouncer. Segue with Old 97’s.\r\n11. **** Don't You Cry in Lonesomeness 03:19 - Strumming electric guitar and vocals alone. Brief. Goes quiet at 3:05, and hangs dead air for about 15 seconds."
+    },
+    "relationships": {
+      "album": {
+        "data": {
+          "type": "album",
+          "id": "1156441"
+        }
+      }
+    }
+  }
+}

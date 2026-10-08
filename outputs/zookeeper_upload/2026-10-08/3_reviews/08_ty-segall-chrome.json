@@ -1,0 +1,19 @@
+{
+  "data": {
+    "type": "review",
+    "attributes": {
+      "airname": "DJ Stace",
+      "published": true,
+      "date": "2026-10-04",
+      "review": "Chrome / Ty Segall\r\n\r\nLabel: Drag City\r\n\r\nRelease Date: August 28, 2026\r\n\r\nReview Date: 10/4/2026\r\n\r\nReviewer: DJ Stace\r\n\r\nGeneral Comments / Reviews:\r\n\r\nTy goes heavy. Mostly cut live with the band, fuzz pinned in the red, with a couple of crooner turns. Big, dumb, glorious riffage,and smart lyrics, man. - DJ Stace\r\n\r\nRelease Notes:\r\n\r\nTy Segall's 18th solo studio album, billed as one of his heaviest.\r\n\r\nRecorded mostly live with Ben Boye, Evan Burrows, Mikal Cronin and Emmett Kelly, plus Bitchin Bajas' Cooper Crain.\r\n\r\nSame-day companion Love Fuzzz EP (Twins cover plus My Pet Guru).\r\n\r\nLouder Than War Album of the Week.\r\n\r\nNine tracks, about 33 minutes.\r\n\r\nreleased August 28, 2026\r\n\r\nFCCs: None found\r\n\r\nRIYL: Thee Oh Sees, King Gizzard & The Lizard Wizard, Black Sabbath, Fuzz\r\n\r\nPlay: All, Favs Rated with up to *****\r\n\r\nTracklist:\r\n\r\n1. *** Hospital 04:43 - Opener; quiet/loud blippy dirge transfers into a chaotic twin-guitar solo with all the slanted guitar god greatness you expect of Segall.\r\n2. Running to Nowhere 02:30 - Super sludgy, with notes of Fu Manchu ruffage. Screamy lyrics give way to Segall's harmonics, gives way to screamy lyrics again.\r\n3. ***** Black Paint 02:00 - Jangle-fuzz bouncing rock anthem with Segall’s wailing lead solos. Lead single and in a sane world, a hit. (June 2026);\r\n4. *** Glass 04:27 - Medium upbeat. Proggy and metallic; Bass in heavy modulated fuzz; guitar duel mid-song. Segue with King GIzzard.\r\n5. ***** Play Cowboys 04:59 - Climbing raw opening riffage is infectious. Psych ballad with keyboards; Ty croons. Probably my favorite on the album.\r\n6. Everything You've Been 02:06 - Fast paced, breathy, least standout on the album. Still better than 99% of what was released, last year.\r\n7. Let Go 03:33 - Starts with some 1/4” audio jack feedback lead that turns into a fast paced guitar puncher with siren guitar solo highlights.\r\n8. *** Separation 02:52 - Fast paced, snared out punk rocker. Fun.\r\n9. *** Chrome 05:08 - Ty steals and reforms Ted Nugent’s blues metal riffage for a machine gun repetitive rocker that will make you drive too fast if you aren’t careful. Title track closer, the longest at 5:08."
+    },
+    "relationships": {
+      "album": {
+        "data": {
+          "type": "album",
+          "id": "1156508"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "data": [
+    {
+      "type": "album",
+      "attributes": {
+        "artist": "Segall, Ty",
+        "album": "Chrome",
+        "category": "General",
+        "medium": "CD",
+        "size": "Full",
+        "location": "Pending Appr",
+        "bin": null,
+        "coll": false,
+        "tracks": [
+          {
+            "seq": 1,
+            "track": "Hospital",
+            "duration": "00:04:43",
+            "url": ""
+          },
+          {
+            "seq": 2,
+            "track": "Running to Nowhere",
+            "duration": "00:02:30",
+            "url": "https://tysegall.bandcamp.com/track/running-to-nowhere"
+          },
+          {
+            "seq": 3,
+            "track": "Black Paint",
+            "duration": "00:02:00",
+            "url": "https://tysegall.bandcamp.com/track/black-paint"
+          },
+          {
+            "seq": 4,
+            "track": "Glass",
+            "duration": "00:04:27",
+            "url": ""
+          },
+          {
+            "seq": 5,
+            "track": "Play Cowboys",
+            "duration": "00:04:59",
+            "url": ""
+          },
+          {
+            "seq": 6,
+            "track": "Everything You've Been",
+            "duration": "00:02:06",
+            "url": ""
+          },
+          {
+            "seq": 7,
+            "track": "Let Go",
+            "duration": "00:03:33",
+            "url": ""
+          },
+          {
+            "seq": 8,
+            "track": "Separation",
+            "duration": "00:02:52",
+            "url": ""
+          },
+          {
+            "seq": 9,
+            "track": "Chrome",
+            "duration": "00:05:08",
+            "url": ""
+          }
+        ],
+        "albumart": "https://f4.bcbits.com/img/a3327883668_5.jpg"
+      },
+      "relationships": {
+        "label": {
+          "data": {
+            "type": "label",
+            "id": "989"
+          }
+        }
+      }
+    }
+  ]
+}

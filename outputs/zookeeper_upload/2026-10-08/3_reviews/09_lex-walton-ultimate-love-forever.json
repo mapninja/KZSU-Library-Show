@@ -1,0 +1,19 @@
+{
+  "data": {
+    "type": "review",
+    "attributes": {
+      "airname": "DJ Stace",
+      "published": true,
+      "date": "2026-10-04",
+      "review": "Album / Artist: Ultimate Love Forever / Lex Walton\r\n\r\nLabel: Sub Pop Records\r\n\r\nRelease Date: August 26, 2026\r\n\r\nReview Date: 10/4/2026\r\n\r\nReviewer: DJ Stace\r\n\r\nGeneral Comments / Reviews:\r\n\r\nTwenty minutes of scuzzy, anxious warbling power pop that bites the music-industry hand that feeds it. Sharp, funny and over before you know it (way too soon, IMHO). I'm loving this album right now. - DJ Stace\r\n\r\n“wiggly, anxious power pop” - Paste\r\n\r\nRelease Notes:\r\n\r\nSeven-song Sub Pop debut, about 20 minutes; first released on Youth Against Satan before Sub Pop signed her in August 2026.\r\n\r\nWritten by Walton; produced by Walton and Dan Boeckner (Wolf Parade, Handsome Furs); recorded, mixed and mastered by Ben Greenberg (Uniform, The Men).\r\n\r\nCD/LP out Nov. 20, 2026 in North America.\r\n\r\nreleased August 26, 2026\r\n\r\nFCCs: 2,3 Track 4's title contains a slur.\r\n\r\nRIYL: Wolf Parade, The Men, Speedy Ortiz, Parquet Courts\r\n\r\nPlay: All but FCCs, Favs Rated with up to *****\r\n\r\nTracklist:\r\n\r\n1. ***** For Thee I Sing 02:01 - Smashing, crashing glorious intro. Walton’s warbling sarcasm and spit is the anthem we all need right now. Play it.\r\n2. Hipster Runoff 02:17 - FIrst Single. Killer flailing angular rocker. Probably worth an edit! Single. About the blog-era buzz band life cycle. Abrupt ending. FCC shit x1.\r\n3. ***** Yr Op-Ed Won't Get You Into Heaven Anymore 02:52 - Stoogeseque growler with soaring vocal interludes and a killer Stooges style solo freakkout. FCC go fuck yourself x1.\r\n4. *** USA = FAG NATION 03:23 - Upbeat Kraut-rockish talker. “I am not your market”. Title contains a slur. Consider on airbreaks.\r\n5. *** I Wish I Was An M80 03:15 - Medium pop rocker with a killer rhythm, and interludes. FCC “After she sucked us both off…”\r\n6. ***** Adrian Borland Will Have His Revenge On London 03:08 - Staccato strumming bright guitar and Walton’s fantastic warble is perfect here. Lots of “Meatloaf” feels on this on. Devolves into a crashing distortion fest with strings to a crashing outro. This one will be in heavy rotation on my playlist for years. About The Sound's Adrian Borland.\r\n7. ***** Ultimate Love 4Ever 03:06 - Title track. Bouncing rocking perfection. Make this one a hit. This is the anchor hit song for soundtrack for the remake of “Pretty in Pink” (if anyone were ever dumb enough to do that). Fun, infectious, I guarantee you will dance like Molly Ringwald, when noone is looking."
+    },
+    "relationships": {
+      "album": {
+        "data": {
+          "type": "album",
+          "id": "1156519"
+        }
+      }
+    }
+  }
+}

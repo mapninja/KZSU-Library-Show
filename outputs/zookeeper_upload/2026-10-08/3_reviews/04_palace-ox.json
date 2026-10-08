@@ -1,0 +1,19 @@
+{
+  "data": {
+    "type": "review",
+    "attributes": {
+      "airname": "DJ Stace",
+      "published": true,
+      "date": "2026-10-04",
+      "review": "Album / Artist: Ox / Palace\r\n\r\nLabel: Palace Presents/Awal\r\n\r\nRelease Date: September 18, 2026\r\n\r\nReview Date: 10/4/2026\r\n\r\nReviewer: DJ Stace\r\n\r\nGeneral Comments / Reviews:\r\n\r\nDreamy, floaty Palace, all of them new dads and singing about it. Big basslines, guitars that drift instead of hit. Great road trip music. - DJ Stace\r\n\r\nRelease Notes:\r\n\r\nFifth album from the London band; first release on their own label, Palace Presents (distributed by AWAL).\r\n\r\nWritten as the band members became fathers; songs about watching a child hear music for the first time.\r\n\r\nReviewers hear a floatier, dreamier record than 2024's Ultrasound.\r\n\r\nTen tracks, about 44 minutes.\r\n\r\nreleased September 18, 2026\r\n\r\nFCCs: 3,8,10\r\n\r\nRIYL: My Morning Jacket, Bombay Bicycle Club, Foals, Wild Beasts, Daughter, Jeff Buckley\r\n\r\nPlay: All but FCCs, Favs Rated with up to *****\r\n\r\nTracklist:\r\n\r\n1. **** Dream On 04:23 - Mid-tempo rising rock anthem. Like Coldplay, but listenable. Lead single; announced the album. About becoming a parent. Cavernous bassline under vast dissonant desert guitars.\r\n2. **** Kid 04:22 - Upbeat jangly toe tapper with great vocal styling. Second single; fatherhood through absence.\r\n3. **** Ohio 03:42 - Loping, bouncy and infectious. Great falsetto peaks in vocals. Like this one, worth an edit, if PISS bothers us. FCC “piss wine” x1.\r\n4. ***** Denny's 04:50 - Brilliant, beautiful mid-temp Yacht Rock anthem about home being where your heart is. Great lyrics and vocal styling. Play it.\r\n5. **** Lucky Boy 03:20 - More upbeat jangle pop rock, on the edge of yachtiness. This one segues well with My Morning Jacket.\r\n6. **** I've Been Laughing 03:52 - Uptempo jangle strummer with a great refrain.\r\n7. Kicking Up Shadows 03:56 - Shuffling uptempo sparklier guitar pop.\r\n8. Brown Bread 06:26 - Iron&Wine type rhythm, guitar and lyrics, upbeat Americana flavored guitar pop. Good tune, but the whole refrain is FCC. FCC fuck x3, shit x3.\r\n9. ***** Made My Bed 04:01 - Vast, big sky soaring guitar. Beautiful lyrics. Dreamy love song. Just about perfect. Play it.\r\n10. Ox 05:21 - Up-paced shuffling snare rhythm, vocals get alittle Hamilton Leithauser on this one. Nice closer, but with an FCC. FCC “fucking grateful” x2."
+    },
+    "relationships": {
+      "album": {
+        "data": {
+          "type": "album",
+          "id": "1156463"
+        }
+      }
+    }
+  }
+}

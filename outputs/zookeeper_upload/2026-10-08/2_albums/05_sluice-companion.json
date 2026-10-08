@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "type": "album",
+      "attributes": {
+        "artist": "Sluice",
+        "album": "Companion",
+        "category": "General",
+        "medium": "CD",
+        "size": "Full",
+        "location": "Pending Appr",
+        "bin": null,
+        "coll": false,
+        "tracks": [
+          {
+            "seq": 1,
+            "track": "Beadie",
+            "duration": "00:04:01",
+            "url": "https://sluice.bandcamp.com/track/beadie"
+          },
+          {
+            "seq": 2,
+            "track": "Ratchet Strap",
+            "duration": "00:03:30",
+            "url": "https://sluice.bandcamp.com/track/ratchet-strap"
+          },
+          {
+            "seq": 3,
+            "track": "WTF",
+            "duration": "00:03:33",
+            "url": "https://sluice.bandcamp.com/track/wtf"
+          },
+          {
+            "seq": 4,
+            "track": "Gator",
+            "duration": "00:08:46",
+            "url": "https://sluice.bandcamp.com/track/gator"
+          },
+          {
+            "seq": 5,
+            "track": "The Ephemeral Stream",
+            "duration": "00:01:46",
+            "url": "https://sluice.bandcamp.com/track/the-ephemeral-stream"
+          },
+          {
+            "seq": 6,
+            "track": "Torpor",
+            "duration": "00:02:49",
+            "url": "https://sluice.bandcamp.com/track/torpor"
+          },
+          {
+            "seq": 7,
+            "track": "Unknowing",
+            "duration": "00:09:01",
+            "url": "https://sluice.bandcamp.com/track/unknowing"
+          },
+          {
+            "seq": 8,
+            "track": "Overhead",
+            "duration": "00:03:57",
+            "url": "https://sluice.bandcamp.com/track/overhead"
+          },
+          {
+            "seq": 9,
+            "track": "Zillow",
+            "duration": "00:03:13",
+            "url": "https://sluice.bandcamp.com/track/zillow"
+          },
+          {
+            "seq": 10,
+            "track": "Vegas",
+            "duration": "00:03:18",
+            "url": "https://sluice.bandcamp.com/track/vegas"
+          }
+        ],
+        "albumart": "https://f4.bcbits.com/img/a0092266456_5.jpg"
+      },
+      "relationships": {
+        "label": {
+          "data": {
+            "type": "label",
+            "id": "22351"
+          }
+        }
+      }
+    }
+  ]
+}

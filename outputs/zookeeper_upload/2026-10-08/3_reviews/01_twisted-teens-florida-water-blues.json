@@ -1,0 +1,19 @@
+{
+  "data": {
+    "type": "review",
+    "attributes": {
+      "airname": "DJ Stace",
+      "published": true,
+      "date": "2026-10-04",
+      "review": "Album / Artist: Florida Water Blues / Twisted Teens\r\n\r\nLabel: Chain SMoking / Going Underground\r\n\r\nRelease Date: July 10, 2026\r\n\r\nReview Date: 10/4/2026\r\n\r\nReviewer: DJ Stace\r\n\r\nGeneral Comments / Reviews:\r\n\r\nSame band six months later, slowed down and sunburned. Backroads swamp rock with unbelievably consistent songwriting and “finely” crafted recordings about backroads, marshes and coastal motels in place of city nerves. Mind the FCCs, and look for lofi, abrupt endings. - DJ Stace\r\n\r\nRelease Notes:\r\n\r\nNew Orleans band's second album of 2026, six months after Blame the Clown.\r\n\r\nNext album: The Holy Cross Tigers is due Nov. 6, 2026 on Sub Pop (single When We First Met out now).\r\n\r\nFCCs: 1,5,7,9,10,12\r\n\r\nRIYL: Black Lips, Kurt Vile, The Gun Club, Ty Segall\r\n\r\nPlay: All but FCCs, Favs Rated with up to *****\r\n\r\nTracklist:\r\n\r\n1. Why Did You Miss It? 03:36 - Fast Paced, starts with a frantic guitar intro, then the drum track leads into a fuzzed out lofi awesomeness. FCC fucked up x1.\r\n2. ***** Hand Me A Cigarette 03:26 - FIngerpicked Delta Blues jam intro, leads into a driving lofi junk blues stomper full of understated, dusty swagger. Play it!\r\n3. **** Swamp 02:55 - Noisy backwards masking intro leads into an upbeat swamp rock anthem to ,... LIVING IN THE SWAMP!\r\n4. *** Guided Thunder 03:13 - Fast, emphatic. Spoken-word breakdown that builds and cuts off on a drum hit to stomp all the way to the raucous toy piano ending.\r\n5. **** Florida Water Blues 03:45 - Pace: ____. Title track. Worth editing. FCC shit x1.\r\n6. ***** Top Of The World Hwy No.2 2:12 - Fast paced power chord jammer!\r\n7. Concealed Weepin' 02:27 - Fast paced buzzing rhythm section, with a plucky little guitar solo over the top. Frenetic and chaotic at points. Cool post-punk buzzer. FCC little fucker x1.\r\n8. ***** Riding 03:54 - Drum machine starts off with a great little breakdown. Heavy steel guitar, driving pace. Great tune. Transitions to this amazing distorted over-autotuned harmonic vocals at 3:00 that turns out to be the best part of the song, maybe.\r\n9. Business 02:23 - Jumpy female blues field recording vocals devolve into a janky plucker with talking vocals. FCC fuck x2.\r\n10. Javelina 02:50 - Slow twangy country rocker chock full of FCCs and great lap[ steel guitar. FCC fuck x1, shit x1.\r\n11. **** Weather The Season 03:45 - Crazy Horse style metallic guitar intros an early 60’s style crooner.\r\n12. Dancer 03:00 - Fast paced with crying steel guitar riffage. Ode to the Exotic Dancers of the FC. FCC fuck x1.\r\n13. **** Sun Go Down 05:10 - Straight guitar and lap steel strummer. Great closer, 12-string acoustic, the one real slow song."
+    },
+    "relationships": {
+      "album": {
+        "data": {
+          "type": "album",
+          "id": "1156430"
+        }
+      }
+    }
+  }
+}

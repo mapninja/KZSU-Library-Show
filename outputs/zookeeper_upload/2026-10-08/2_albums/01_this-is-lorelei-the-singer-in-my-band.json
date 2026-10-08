@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "type": "album",
+      "attributes": {
+        "artist": "This Is Lorelei",
+        "album": "The Singer in My Band",
+        "category": "General",
+        "medium": "CD",
+        "size": "Full",
+        "location": "Pending Appr",
+        "bin": null,
+        "coll": false,
+        "tracks": [
+          {
+            "seq": 1,
+            "track": "I Will Eat My Heart in the Morning Light",
+            "duration": "00:03:18",
+            "url": ""
+          },
+          {
+            "seq": 2,
+            "track": "Oh No Now My",
+            "duration": "00:03:09",
+            "url": "https://thisislorelei.bandcamp.com/track/oh-no-now-my"
+          },
+          {
+            "seq": 3,
+            "track": "Billy Came Back",
+            "duration": "00:03:10",
+            "url": "https://thisislorelei.bandcamp.com/track/billy-came-back"
+          },
+          {
+            "seq": 4,
+            "track": "Watching Heaven Fall",
+            "duration": "00:03:13",
+            "url": ""
+          },
+          {
+            "seq": 5,
+            "track": "Sailing (Your Baby's Down)",
+            "duration": "00:03:33",
+            "url": ""
+          },
+          {
+            "seq": 6,
+            "track": "The Singer in My Band",
+            "duration": "00:02:26",
+            "url": ""
+          },
+          {
+            "seq": 7,
+            "track": "Nitro",
+            "duration": "00:01:27",
+            "url": ""
+          },
+          {
+            "seq": 8,
+            "track": "Hey Sarah Is It Gonna Rain Forever",
+            "duration": "00:03:28",
+            "url": ""
+          },
+          {
+            "seq": 9,
+            "track": "The Kid With the Crown",
+            "duration": "00:04:15",
+            "url": "https://thisislorelei.bandcamp.com/track/the-kid-with-the-crown"
+          },
+          {
+            "seq": 10,
+            "track": "And I Haven't Seen My Love in Quite a While",
+            "duration": "00:03:29",
+            "url": ""
+          },
+          {
+            "seq": 11,
+            "track": "Don't You Cry in Lonesomeness",
+            "duration": "00:03:19",
+            "url": ""
+          }
+        ],
+        "albumart": "https://f4.bcbits.com/img/a3777505407_5.jpg"
+      },
+      "relationships": {
+        "label": {
+          "data": {
+            "type": "label",
+            "id": "1952"
+          }
+        }
+      }
+    }
+  ]
+}

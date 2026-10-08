@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "type": "album",
+      "attributes": {
+        "artist": "Palace",
+        "album": "Ox",
+        "category": "General",
+        "medium": "CD",
+        "size": "Full",
+        "location": "Pending Appr",
+        "bin": null,
+        "coll": false,
+        "tracks": [
+          {
+            "seq": 1,
+            "track": "Dream On",
+            "duration": "00:04:23",
+            "url": "https://palace.bandcamp.com/track/dream-on"
+          },
+          {
+            "seq": 2,
+            "track": "Kid",
+            "duration": "00:04:22",
+            "url": "https://palace.bandcamp.com/track/kid"
+          },
+          {
+            "seq": 3,
+            "track": "Ohio",
+            "duration": "00:03:42",
+            "url": "https://palace.bandcamp.com/track/ohio"
+          },
+          {
+            "seq": 4,
+            "track": "Denny's",
+            "duration": "00:04:50",
+            "url": "https://palace.bandcamp.com/track/dennys"
+          },
+          {
+            "seq": 5,
+            "track": "Lucky Boy",
+            "duration": "00:03:20",
+            "url": "https://palace.bandcamp.com/track/lucky-boy"
+          },
+          {
+            "seq": 6,
+            "track": "I've Been Laughing",
+            "duration": "00:03:52",
+            "url": "https://palace.bandcamp.com/track/ive-been-laughing"
+          },
+          {
+            "seq": 7,
+            "track": "Kicking Up Shadows",
+            "duration": "00:03:56",
+            "url": "https://palace.bandcamp.com/track/kicking-up-shadows"
+          },
+          {
+            "seq": 8,
+            "track": "Brown Bread",
+            "duration": "00:06:26",
+            "url": "https://palace.bandcamp.com/track/brown-bread"
+          },
+          {
+            "seq": 9,
+            "track": "Made My Bed",
+            "duration": "00:04:01",
+            "url": "https://palace.bandcamp.com/track/made-my-bed"
+          },
+          {
+            "seq": 10,
+            "track": "Ox",
+            "duration": "00:05:21",
+            "url": "https://palace.bandcamp.com/track/ox"
+          }
+        ],
+        "albumart": "https://f4.bcbits.com/img/a3328893918_5.jpg"
+      },
+      "relationships": {
+        "label": {
+          "data": {
+            "type": "label",
+            "id": "21943"
+          }
+        }
+      }
+    }
+  ]
+}

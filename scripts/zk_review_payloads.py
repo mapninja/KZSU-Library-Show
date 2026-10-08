@@ -23,7 +23,7 @@ import re
 from pathlib import Path
 
 # Where the approval files get written (relative to the repo root).
-OUT_DIR = Path(__file__).resolve().parent.parent / "outputs" / "zookeeper_upload" / "2026-10-06"
+OUT_DIR = Path(__file__).resolve().parent.parent / "outputs" / "zookeeper_upload" / "2026-10-08"
 
 # Review attributes shared by every review.
 AIRNAME = "DJ Stace"          # the airname string used on her past reviews
@@ -36,10 +36,26 @@ KNOWN_LABEL_IDS = {
     "Easy Eye Sound": "21304",
     "Handmade Records": "17538",
     "Drag City": "989",
+    "Jagjaguwar": "9332",
     "Sub Pop Records": "3124",
     # Palace's own imprint "Palace Presents" is not in the table; its distributor Awal is.
     "Awal": "21943",
 }
+
+# Labels that are NOT in the Zookeeper label table yet (checked Oct. 8, 2026).
+# They must be POSTed first (1_labels_to_post.json). After that, run this script again with
+# --labels labels.json (name -> new label ID) so the albums can point at the new IDs.
+NEW_LABELS = ["Mtn Laurel Recording Co.", "False Idols", "Going Underground"]
+
+# Albums already keyed in Zookeeper (checked Oct. 8, 2026): key -> album tag.
+# These are skipped in the album POST file. Their reviews can go out as soon as the tag is known.
+ALREADY_KEYED = {
+    "twisted-teens-blame-the-clown": "1156418",
+    "twisted-teens-florida-water-blues": "1156430",
+}
+
+# Reviews already posted (checked Oct. 8, 2026): skip them in the review file.
+ALREADY_REVIEWED = {"twisted-teens-blame-the-clown"}   # review 27025 on album 1156418
 
 # ---------------------------------------------------------------------------
 # The ten reviews Stace finished (edited in the Review Templates folder).
@@ -547,6 +563,24 @@ Tracklist:
 ]
 
 # ---------------------------------------------------------------------------
+# Album art for the Zookeeper "albumart" property (checked Oct. 8, 2026).
+# Zookeeper downloads and caches the image from the full URL we send. These are the
+# 700 px Bandcamp cover images (the "_5.jpg" size) taken from each release page.
+# Add every new album here so its POST carries art from the start.
+# ---------------------------------------------------------------------------
+COVER_ART = {
+    "twisted-teens-florida-water-blues": "https://f4.bcbits.com/img/a2998339203_5.jpg",
+    "this-is-lorelei-the-singer-in-my-band": "https://f4.bcbits.com/img/a3777505407_5.jpg",
+    "little-barrie-gravity-freeze": "https://f4.bcbits.com/img/a2605765828_5.jpg",
+    "palace-ox": "https://f4.bcbits.com/img/a3328893918_5.jpg",
+    "dread-spectre-council-thetans": "https://f4.bcbits.com/img/a1933910254_5.jpg",
+    "sluice-companion": "https://f4.bcbits.com/img/a0092266456_5.jpg",
+    "tricky-different-when-its-silent": "https://f4.bcbits.com/img/a1789291586_5.jpg",
+    "ty-segall-chrome": "https://f4.bcbits.com/img/a3327883668_5.jpg",
+    "lex-walton-ultimate-love-forever": "https://f4.bcbits.com/img/a3806305302_5.jpg",
+}
+
+# ---------------------------------------------------------------------------
 # Bandcamp preview links for the Zookeeper track "url" field (checked Oct. 6, 2026).
 # Each entry: album key -> (Bandcamp site, {track number: track page path}).
 # Only tracks Bandcamp lets people stream are listed, so the others keep url "".
@@ -638,8 +672,14 @@ def parse_tracks(body):
     return tracks
 
 
-def album_payload(a):
-    """Build the POST /api/v1/album body for one album."""
+def album_payload(a, new_label_ids):
+    """Build the POST /api/v1/album body for one album.
+
+    The label is always linked by ID, so Zookeeper never creates a duplicate label.
+    - Known labels use KNOWN_LABEL_IDS.
+    - New labels use the ID from --labels once they have been POSTed.
+    - Until then the body holds the placeholder LABEL_ID_<label name>.
+    """
     attributes = {
         "artist": a["lib_artist"],
         "album": a["album"],
@@ -651,20 +691,49 @@ def album_payload(a):
         "coll": False,
         "tracks": add_bandcamp_urls(a["key"], parse_tracks(a["body"])),
     }
-    label_id = KNOWN_LABEL_IDS.get(a["label"])
-    # Zookeeper's Albums.md shows the POST body with "data" as an ARRAY of one album,
-    # so we wrap the album in a list.
-    if label_id:
-        # Label already exists: link it by ID.
-        doc = {"data": [{"type": "album", "attributes": attributes,
-                         "relationships": {"label": {"data": {"type": "label", "id": label_id}}}}]}
-    else:
-        # Label is new: send its name in an "included" object; Zookeeper creates it.
-        local_id = "local-" + a["key"]
-        doc = {"data": [{"type": "album", "attributes": attributes,
-                         "relationships": {"label": {"data": {"type": "label", "id": local_id}}}}],
-               "included": [{"type": "label", "id": local_id, "attributes": {"name": a["label"]}}]}
-    return doc
+    # Album art: a full image URL that Zookeeper downloads and caches.
+    if COVER_ART.get(a["key"]):
+        attributes["albumart"] = COVER_ART[a["key"]]
+    label_id = KNOWN_LABEL_IDS.get(a["label"]) or new_label_ids.get(a["label"]) \
+        or "LABEL_ID_" + a["label"]
+    # Zookeeper's Albums.md shows the POST body with "data" as an ARRAY of one album.
+    return {"data": [{"type": "album", "attributes": attributes,
+                      "relationships": {"label": {"data": {"type": "label", "id": label_id}}}}]}
+
+
+# Contact details for the new labels, checked Oct. 8, 2026 on each label's own site.
+# Only facts the label publishes are filled in. Blank means "not published".
+# Field names and types match what GET /api/v1/label returns (mailcount int, international bool).
+LABEL_DETAILS = {
+    # Record store and label. Address and phone from goingundergroundrecords.com/pages/contact.
+    # No public email (contact form only).
+    "Going Underground": {
+        "address": "1312 19th St.", "city": "Bakersfield", "state": "CA", "zip": "93301",
+        "phone": "661-633-0111", "url": "https://www.goingundergroundrecords.com/",
+    },
+    # False Idols is an imprint of !K7. Address, phones and email are the legal-notice
+    # (Impressum) details for K7 Music GmbH on shop.falseidols.org, so the email is NOT a
+    # music-submission address. International (Berlin).
+    "False Idols": {
+        "address": "Gerichtstrasse 35", "city": "Berlin", "state": "", "zip": "13347",
+        "phone": "+49 30 4690505 0", "fax": "+49 30 4690505 19",
+        "email": "impressum@k7.com", "international": True,
+        "url": "https://falseidols.org/",
+    },
+    # New York City label. The site and Bandcamp publish no email or street address
+    # (contact form only), so only the city, state and site are filled in.
+    "Mtn Laurel Recording Co.": {
+        "city": "New York", "state": "NY", "url": "https://www.mtnlaurelrecordingco.com/",
+    },
+}
+
+
+def label_payload(name):
+    """Build the POST /api/v1/label body for one new label (array form, like albums)."""
+    attributes = {"name": name}
+    # Merge in any contact details we found for this label.
+    attributes.update(LABEL_DETAILS.get(name, {}))
+    return {"data": [{"type": "label", "attributes": attributes}]}
 
 
 def review_payload(a, tags):
@@ -678,22 +747,66 @@ def review_payload(a, tags):
                      "relationships": {"album": {"data": {"type": "album", "id": tag}}}}}
 
 
+def write_one(folder, name, body):
+    """Write ONE request body to its own file. The file holds only what gets POSTed."""
+    folder.mkdir(parents=True, exist_ok=True)
+    (folder / name).write_text(json.dumps(body, indent=2, ensure_ascii=False) + "\n")
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--tags", help="JSON file mapping album key -> Zookeeper tag")
+    parser.add_argument("--labels", help="JSON file mapping new label name -> Zookeeper label ID")
     args = parser.parse_args()
-    tags = json.loads(Path(args.tags).read_text()) if args.tags else {}
+    # Known tags (already keyed albums) plus any tags passed in.
+    tags = dict(ALREADY_KEYED)
+    if args.tags:
+        tags.update(json.loads(Path(args.tags).read_text()))
+    new_label_ids = json.loads(Path(args.labels).read_text()) if args.labels else {}
 
-    OUT_DIR.mkdir(parents=True, exist_ok=True)
-    albums = [{"key": a["key"], "post_to": "/api/v1/album", "source_doc": a["doc_id"],
-               "payload": album_payload(a)} for a in ALBUMS]
-    reviews = [{"key": a["key"], "post_to": "/api/v1/review", "payload": review_payload(a, tags)}
-               for a in ALBUMS]
-    (OUT_DIR / "albums_for_approval.json").write_text(json.dumps(albums, indent=2, ensure_ascii=False))
-    (OUT_DIR / "reviews_for_upload.json").write_text(json.dumps(reviews, indent=2, ensure_ascii=False))
-    for a in albums:
-        n = len(a["payload"]["data"][0]["attributes"]["tracks"])
-        print(a["key"], "tracks:", n)
+    # One file per request, each holding only the request body, in three folders.
+    # Post in this order: labels, then albums, then reviews.
+    slug = lambda text: re.sub(r"[^a-z0-9]+", "-", text.lower()).strip("-")
+
+    # 1. New labels: POST to /api/v1/label
+    n = 0
+    for name in NEW_LABELS:
+        if name in new_label_ids:
+            continue
+        n += 1
+        write_one(OUT_DIR / "1_labels", "%02d_%s.json" % (n, slug(name)), label_payload(name))
+
+    # 2. Albums to key: POST to /api/v1/album (skips albums already in Zookeeper)
+    n = 0
+    for a in ALBUMS:
+        if a["key"] in ALREADY_KEYED:
+            continue
+        n += 1
+        write_one(OUT_DIR / "2_albums", "%02d_%s.json" % (n, a["key"]), album_payload(a, new_label_ids))
+
+    # 2b. Florida Water Blues was keyed with the Chain Smoking label by mistake.
+    # PATCH /api/v1/album/1156430 to Going Underground once that label exists.
+    gu = new_label_ids.get("Going Underground", "LABEL_ID_Going Underground")
+    patch = {"data": {"type": "album", "id": "1156430",
+                      "relationships": {"label": {"data": {"type": "label", "id": gu}}}}}
+    write_one(OUT_DIR / "2_albums", "PATCH_1156430_florida-water-blues-label.json", patch)
+
+    # 2c. Album art PATCHes for albums that are already keyed (tags known).
+    # PATCH /api/v1/album/<tag> with only the albumart attribute.
+    for key, tag in tags.items():
+        if COVER_ART.get(key):
+            art = {"data": {"type": "album", "id": tag, "attributes": {"albumart": COVER_ART[key]}}}
+            write_one(OUT_DIR / "2b_albumart", "PATCH_%s_%s.json" % (tag, key), art)
+
+    # 3. Reviews: POST to /api/v1/review (after the albums are keyed and tags are known)
+    n = 0
+    for a in ALBUMS:
+        if a["key"] in ALREADY_REVIEWED:
+            continue
+        n += 1
+        write_one(OUT_DIR / "3_reviews", "%02d_%s.json" % (n, a["key"]), review_payload(a, tags))
+
+    print("wrote files under", OUT_DIR)
 
 
 if __name__ == "__main__":

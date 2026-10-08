@@ -1,0 +1,19 @@
+{
+  "data": {
+    "type": "review",
+    "attributes": {
+      "airname": "DJ Stace",
+      "published": true,
+      "date": "2026-10-04",
+      "review": "Album / Artist: Different When It's Silent / Tricky\r\n\r\nLabel: False Idols\r\n\r\nRelease Date: July 17, 2026\r\n\r\nReview Date: 10/4/2026\r\n\r\nReviewer: DJ Stace\r\n\r\nGeneral Comments / Reviews:\r\n\r\nTricky's best in years. Dark, guitar-heavy trip-hop, with Mitch Sanders' ghostly falsetto doing a lot of the heavy lifting. - DJ Stace\r\n\r\nRelease Notes:\r\n\r\nBristol producer Adrian Thaws' 15th studio album and first full-length under his own name in six years, on his own False Idols label.\r\n\r\nBristol singer Mitch Sanders, 22, sings top lines on 12 of 14 tracks in a high falsetto; guests also include Marta Złakowska, Radana and Run Red Rambo.\r\n\r\nReviewers note distorted guitars, hypnotic basslines and electronic textures, with Tricky's low growl underneath.\r\n\r\nreleased July 17, 2026\r\n\r\nFCCs: 6,10\r\n\r\nRIYL: Massive Attack, Portishead, Martina Topley-Bird\r\n\r\nPlay: All but FCCs, Favs Rated with up to *****\r\n\r\nTracklist:\r\n\r\n1. **** I Still See Me There 03:39 - Slow, plodding, whispering, sinister and Trypnotic. Falsetto vocals float over Tricky’s growling whispers. Tricky is back.\r\n2. ** I'm Yours 02:36 - Medium paced bass and snare dominant rhythm line. Feat. Mitch Sanders falsetto; Interludes of Walls of sound applied to EDM.\r\n3. *** Be Still In The Pain 03:22 - Upbeat by Tricky standard. Feat. Mitch Sanders and Run Red Rambo great falsetto duet juxtaposition. Abrupt ending.\r\n4. *** I Tried 02:16 - Soft guitar intro, gives way to buzzing plodding marching rhythm and metallic guitar accompaniment with bass and vocal interludes.\r\n5. So Cold 02:39 - Medium to uptempo ticking and buzzing tapper. “Bright,” for Tricky.\r\n6. Paris Maybe 02:53 - Pretty straightforward guitar, bass and drums rock ballad? Would be at home in the 90’s segued to Divinyl. Not bad, but seems sonically isolated from the rest of the album. FCC fuck x1, shit x1.\r\n7. *** Cannon Fodder 02:48 - Organ & heartbeat intro. Breathy falsetto is right up front. Transitions to some very fuzzy, desert rock guitar solo, then back to breathy whispers and organ to the end.\r\n8. ***** Because I Don't Know 04:34 - Sinister, falsetto, trancy, repetitive, infectious groove. This is the hit on the record. Wall of sound drops with soaring falsetto crescendos are great. Can’t play it enough.\r\n9. ** Marinade 03:20 - String intro, gives way to “Velvet Undergroundish” bass riff and spoken lyrics. Kinda cool. Would segue well with Kae Tempest. Abrupt ending.\r\n10. Radana 03:10 - Middle Eastern flavor to the underlying music. Lyrics go hard. Would segue well with DAM. Feat. RMR & Radana. FCC fuck x3, piss x1, bitch x2.\r\n11. *** Piano 02:43 - Piano and vocals with light atmospherics transition to strings and operatic chorale accompaniment. Lovely. Another abrupt ending.\r\n12. **** Frontier Town 01:40 - Killer stomp, cap and cal.,Clearly inspired by field songs. If Alan Lomax recorded EDM, this would be on his radar. Segue with Delta blues or field recordings from Parnman Farm. short.\r\n13. **** Hengrove Blues 02:57 - Soft acoustic strummer about a Bristol neighborhood. Lovely falsetto vocals with Tricky’s low growl underneath.\r\n14. *** Out of Place 02:38 - Quiet operatic opening vocals give way to a fast-paced staccato growling rocker with Tricky and Marta Złakowska’s vocals full forward. . Lead single (April 2026, announced the album)."
+    },
+    "relationships": {
+      "album": {
+        "data": {
+          "type": "album",
+          "id": "1156496"
+        }
+      }
+    }
+  }
+}

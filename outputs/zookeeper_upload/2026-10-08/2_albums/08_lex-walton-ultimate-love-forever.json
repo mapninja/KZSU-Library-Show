@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "type": "album",
+      "attributes": {
+        "artist": "Walton, Lex",
+        "album": "Ultimate Love Forever",
+        "category": "General",
+        "medium": "CD",
+        "size": "Full",
+        "location": "Pending Appr",
+        "bin": null,
+        "coll": false,
+        "tracks": [
+          {
+            "seq": 1,
+            "track": "For Thee I Sing",
+            "duration": "00:02:01",
+            "url": "https://youthagainstsatan.bandcamp.com/track/for-thee-i-sing"
+          },
+          {
+            "seq": 2,
+            "track": "Hipster Runoff",
+            "duration": "00:02:17",
+            "url": "https://youthagainstsatan.bandcamp.com/track/hipster-runoff"
+          },
+          {
+            "seq": 3,
+            "track": "Yr Op-Ed Won't Get You Into Heaven Anymore",
+            "duration": "00:02:52",
+            "url": "https://youthagainstsatan.bandcamp.com/track/yr-op-ed-won-t-get-you-into-heaven-anymore"
+          },
+          {
+            "seq": 4,
+            "track": "USA = FAG NATION",
+            "duration": "00:03:23",
+            "url": "https://youthagainstsatan.bandcamp.com/track/usa-fag-nation"
+          },
+          {
+            "seq": 5,
+            "track": "I Wish I Was An M80",
+            "duration": "00:03:15",
+            "url": "https://youthagainstsatan.bandcamp.com/track/i-wish-i-was-an-m80-2"
+          },
+          {
+            "seq": 6,
+            "track": "Adrian Borland Will Have His Revenge On London",
+            "duration": "00:03:08",
+            "url": "https://youthagainstsatan.bandcamp.com/track/adrian-borland-will-have-his-revenge-on-london"
+          },
+          {
+            "seq": 7,
+            "track": "Ultimate Love 4Ever",
+            "duration": "00:03:06",
+            "url": "https://youthagainstsatan.bandcamp.com/track/ultimate-love-4ever"
+          }
+        ],
+        "albumart": "https://f4.bcbits.com/img/a3806305302_5.jpg"
+      },
+      "relationships": {
+        "label": {
+          "data": {
+            "type": "label",
+            "id": "3124"
+          }
+        }
+      }
+    }
+  ]
+}
