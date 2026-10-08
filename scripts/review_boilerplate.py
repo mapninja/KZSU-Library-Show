@@ -93,12 +93,12 @@ def fcc_text(t: dict) -> str:
 
 
 def pace_text(t: dict) -> str:
-    """'Midtempo (~112 BPM).' or 'Pace: ____.'"""
+    """'Midtempo (~112 BPM).' or '' when no pace is known (no blank placeholder, Stace's rule Oct. 8, 2026)."""
     if t.get("pace") and t.get("bpm"):
         return f"{t['pace']} (~{int(t['bpm'])} BPM)."
     if t.get("pace"):
         return f"{t['pace']}."
-    return "Pace: ____."
+    return ""
 
 
 def render(info: dict) -> str:
@@ -138,12 +138,18 @@ def render(info: dict) -> str:
     multi_disc = len({t.get("disc", 1) for t in tracks}) > 1
     for t in tracks:
         num = f"{t.get('disc', 1)}-{t['num']}" if multi_disc else str(t.get("num"))
-        bits = [pace_text(t)]
-        if t.get("notes"):
-            bits.append(t["notes"].rstrip(".") + ".")
+        # FCC and caution notes come FIRST in the track comment (Stace's rule, Oct. 8, 2026),
+        # then the pace words, then any other objective notes.
+        bits = []
         if fcc_text(t):
             bits.append(fcc_text(t))
-        out.append(f"{num}. {t['title']} {two_digit_runtime(t.get('runtime'))} - {' '.join(bits)} [notes]")
+        if pace_text(t):
+            bits.append(pace_text(t))
+        if t.get("notes"):
+            bits.append(t["notes"].rstrip(".") + ".")
+        line = f"{num}. {t['title']} {two_digit_runtime(t.get('runtime'))}"
+        # No "Pace: ____" or "[notes]" placeholders: only what is known (FCC, pace, sourced notes).
+        out.append(line + (" - " + " ".join(bits) if bits else ""))
 
     # Sources stay in the posted review (Stace keeps them), so no "delete" note.
     out += ["", "Sources:"]

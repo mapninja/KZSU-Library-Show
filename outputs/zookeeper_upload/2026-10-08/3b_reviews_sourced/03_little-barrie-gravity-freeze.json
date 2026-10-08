@@ -1,0 +1,19 @@
+{
+ "data": {
+  "type": "review",
+  "attributes": {
+   "airname": "DJ Stace",
+   "published": true,
+   "date": "2026-10-04",
+   "review": "Album / Artist: Gravity Freeze / Little Barrie\r\n\r\nLabel: Easy Eye Sound\r\n\r\nRelease Date: May 22, 2026\r\n\r\nReview Date: 10/4/2026\r\n\r\nReviewer: DJ Stace\r\n\r\nGeneral Comments / Reviews:\r\n\r\nGreasy, low-slung Easy Eye Sound garage soul from a 70\u2019s that never was. They turned the heat down a notch, but Cadogan's guitar still bites. Low-slung grooves and bursts of guitar. - DJ Stace\r\n\r\nRelease Notes:\r\n\r\nSixth album from the London trio led by guitarist Barrie Cadogan; new drummer Coote joins.\r\n\r\nRecorded at Rat Salad Studios in Hornsey, North London, with Rupert Lyddon engineering and co-producing.\r\n\r\nreleased May 22, 2026\r\n\r\nFCCs: None found\r\n\r\nRIYL: The Black Keys, Allah-Las, Oh Sees, The Mystery Lights, El Michels Affair, Skinshape\r\n\r\nPlay: All, Favs Rated with up to *****\r\n\r\nTracklist:\r\n\r\n1. ***** More Bad Miles Of Road 03:49 - Upper-mid pace, slinky and naughty wah-wah pedal heavy funk burlesque rock. Lead single; announced the album in February 2026. Heavy play on Library Show as a single. Sourced: First single. Cadogan started from the bass line, wanting an upright bass sound (The Listening Post); Stark, menacing blues-rock with standup bass (AllMusic).\r\n2. *** It Isn't Soul 02:49 - Slow slinky with fuzzy guitar backing and bright guitar along the top. Great mix of dirt and polish. At home in a Tarantino film in a few years. Sourced: Fuzz-heavy, with dappled psychedelia (Tinnitist).\r\n3. December 05:08 - Upbeat high-hat pace, echoing vocals. This one threw its go-go boots in the corner and is dancing barefoot. Sourced: Nearly pretty ballad with a tenderness the rest of the record lacks (AllMusic); Wistful, Shuggie Otis-styled (Tinnitist); Backing vocals by Holly Quin-Ankrah and Frida Touray (Bandcamp credits).\r\n4. ***** Luggin' Hurt 07:08 - \u201cDo do do, de bap bap badada do,...\u201d Shuffling R&B rhythm and licorice taffy guitar stretching all over 7 minutes of ass-shaking funky wah-riff perfect. Play this song and people will ask \u201cwho is this?\u201d If you\u2019re going to spend 7 minutes of your show on a single, it better be good. This one is worth the minutes. Sourced: Named an album highlight (Song Bar).\r\n5. Talk It Up Like It's Wanted 03:02 - Mid-tempo, unremarkable guitar solo shuffler. Sourced: Laid-back and swaying, guitar moving between mellow strumming and murky soloing (AllMusic); 1960s-style fuzz bass as a subtle hook (Derek See).\r\n6. ** Anything You Are 03:20 - Slow and slinky. Rhythm flits around under the strumming R&B guitar and smoky jazz club vocals. Picks up the pace at 1:30 a little. Sourced: Slow shuffle showing Cadogan's take on his blues influences (Bucks Music Group).\r\n7. *** Coralisa 04:49 - Great backbeat based rhythm, with buzzing guitar work over the top. Lightly reminiscent of Jon Spencer Blues Explosion. Sourced: Open space for gnarly guitar workouts and nimble, almost flamenco-style picking (AllMusic).\r\n8. Wire 03:37 - Another uptempo backbeat based slightly buzzy krauty? Sourced: Chugging steam-train rhythm (Song Bar); Cadogan wanted a hypnotic, almost dance-like feel with swampy guitar over Tony Coote's steady groove (Tinnitist); Co-producer Rupert Lyddon plays synth (Bandcamp credits).\r\n9. ** Gravity Freeze 03:07 - Another R&B Funk hip swayer. Sourced: Title refers to sleep paralysis, per Cadogan (Guitar World); Subdued soundtrack for a bad dream (AllMusic)."
+  },
+  "relationships": {
+   "album": {
+    "data": {
+     "type": "album",
+     "id": "1156452"
+    }
+   }
+  }
+ }
+}

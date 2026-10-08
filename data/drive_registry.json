@@ -86,28 +86,30 @@
    "deployed": "2026-10-08T04:11Z",
    "working": "Working/final_show_script_2026-10-08.md (repo outputs/recon/2026-10-08/final_show_script_2026-10-08.md)",
    "retired": [],
-   "note": "Prose Google Doc not updated Oct. 8 (still lists Autumn Sweater at #29). Landscape docx and PDF at /KZSU/ top level are the on-air copy, replaced in place Oct. 8 09:10 PT."
+   "note": "Prose Google Doc not updated Oct. 8 (still lists Autumn Sweater at #29). Landscape docx and PDF at /KZSU/ top level are the on-air copy, replaced in place Oct. 8 09:10 PT. Oct. 8 afternoon: md mirror updated in Working/; prose Doc still not updated. Landscape docx and PDF replaced at /KZSU/ top level (old copies in _to_delete)."
   },
   "final_notes_sheet_2026-10-08": {
-   "id": "1NsR9rgUUqcePraLxtkw2XNxxDW7Jf9gllFw99MMr7XU",
+   "id": "1yHF1YtPOgXomvm-J3IWAq8XDZg_REi14lX_l_q6IVAA",
    "type": "sheet",
    "folder": "KZSU top",
-   "deployed": "2026-10-08T16:08Z",
+   "deployed": "2026-10-08T21:47Z",
    "working": "Working/notes_sheet_2026-10-08.csv",
    "retired": [
     "1v9--CvT-p9c8HZvB9Gq-_pcangbeRTmNHjCV_x0z8yE",
-    "1kyHIplkBUTlVdclvKzA7S_JWa1X0rpPBwf16vxJTQok"
+    "1kyHIplkBUTlVdclvKzA7S_JWa1X0rpPBwf16vxJTQok",
+    "1NsR9rgUUqcePraLxtkw2XNxxDW7Jf9gllFw99MMr7XU"
    ]
   },
   "zookeeper_csv_2026-10-08_final": {
-   "id": "1gWlQJ4gSrIpEGXss-pfWGBvOSwCgiDha",
+   "id": "1zas21mES7tPCJTuVQ0dAA8pTWNqU21z8",
    "type": "csv-raw",
    "folder": "KZSU top",
-   "deployed": "2026-10-08T16:08Z",
+   "deployed": "2026-10-08T21:47Z",
    "working": "Working/library_show_playlist_2026-10-08.csv",
    "retired": [
     "1XWYE3N4m5FMUXoian3Ieh-89lTv4HmeM",
-    "1ksLeqJt2CUae1Lh6U6CZJqbuA3oafz3t"
+    "1ksLeqJt2CUae1Lh6U6CZJqbuA3oafz3t",
+    "1gWlQJ4gSrIpEGXss-pfWGBvOSwCgiDha"
    ]
   }
  },

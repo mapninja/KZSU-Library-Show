@@ -73,7 +73,7 @@ python3 scripts/album_lookup.py --artist "<Artist>" --album "<Album>" [--tag <Zo
   - label, release date and format
   - Discogs credits
 - **Tracklist.** Check it against Bandcamp or the label page. Staged promos sometimes differ from the streaming release. If Deezer and MusicBrainz both miss the album (common for self-released records), copy the tracklist and runtimes from Bandcamp into the JSON.
-- **Missing BPM.** For each track with no BPM, look it up on songbpm.com or tunebat.com through WebSearch or the browser. Then set `bpm`, and set `pace` using the table in `references/style_guide.md`. If nothing turns up, leave both blank. The template prints `Pace: ____.`
+- **Missing BPM.** For each track with no BPM, look it up on songbpm.com or tunebat.com through WebSearch or the browser. Then set `bpm`, and set `pace` using the table in `references/style_guide.md`. If nothing turns up, leave both blank. The template then prints no pace text and no placeholder (Stace's rule, Oct. 8, 2026).
 
 ### 2. FCC screen every track
 

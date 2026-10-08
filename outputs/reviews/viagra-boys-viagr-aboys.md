@@ -27,17 +27,17 @@ RIYL: IDLES, Amyl and the Sniffers, Fat White Family, Shame, Suicide
 Play: All but FCCs, Favs Rated with up to *****
 
 Tracklist:
-1. Man Made of Meat 03:09 - Pace: ____. Lead single. [notes]
-2. The Bog Body 02:53 - Pace: ____. Single. [notes]
-3. Uno II 02:15 - Pace: ____. Second single. FCC shit x4 (Verse 1, Bridge x2, 1 unlabeled). Caution bitch x7 (Bridge x5, Verse 1, 1 unlabeled). [notes]
-4. Pyramid of Health 03:15 - Pace: ____. [notes]
-5. Dirty Boyz 03:44 - Pace: ____. FCC fuck x1, shit x1 (Verse 2). [notes]
-6. Medicine for Horses 02:55 - Pace: ____. [notes]
-7. Waterboy 02:58 - Pace: ____. FCC fuck x2 (Verse 1, Verse 2). [notes]
-8. Store Policy 03:35 - Pace: ____. [notes]
-9. You N33d Me 03:53 - Pace: ____. FCC fuck x1 (Verse 2). [notes]
-10. Best in Show Pt. IV 05:28 - Pace: ____. Longest track. [notes]
-11. River King 03:16 - Pace: ____. [notes]
+1. Man Made of Meat 03:09 - Lead single (Jan. 23, 2025). NME calls it a highlight.
+2. The Bog Body 02:53 - Single.
+3. Uno II 02:15 - FCC shit x4 (Verse 1, Bridge x2, 1 unlabeled). Caution bitch x7 (Bridge x5, Verse 1, 1 unlabeled). Second single (Feb. 27, 2025). Named after Murphy's Italian greyhound.
+4. Pyramid of Health 03:15
+5. Dirty Boyz 03:44 - FCC fuck x1, shit x1 (Verse 2). Occult Magazine hears a return to sleazy dance-punk.
+6. Medicine for Horses 02:55
+7. Waterboy 02:58 - FCC fuck x2 (Verse 1, Verse 2).
+8. Store Policy 03:35
+9. You N33d Me 03:53 - FCC fuck x1 (Verse 2).
+10. Best in Show Pt. IV 05:28 - Longest track.
+11. River King 03:16
 
 Sources:
 - https://en.wikipedia.org/wiki/Viagr_Aboys

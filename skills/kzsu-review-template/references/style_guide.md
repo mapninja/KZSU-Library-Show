@@ -82,24 +82,24 @@ Stace asked for pace plus FCC, nothing more. Pace wording comes from her own mos
 
 - Add the BPM in parentheses: `Midtempo (~108 BPM).`
 - BPM data can be off by double or half. If the result contradicts an objective fact, such as a ballad listed at 150 BPM, write `Pace: check (source says ~150 BPM).`
-- No BPM anywhere: `Pace: ____.`
+- No BPM anywhere: print nothing. Never add `Pace: ____.`
 - **Allowed extras.** Only objective facts:
   - "Instrumental."
   - "Lead single."
   - "Features <guest>."
   - "Only track with <X> on vocals," when the credits say so.
   - Runtime oddities: "Under a minute." "Over 7 minutes."
-- **FCC,** in the same line and her style:
+- **FCC goes FIRST in the track comment**, before pace and any other note (Stace, Oct. 8, 2026). Use her style:
   - `FCC "shit" x2 (Verse 2).`
   - `Caution "bitch" x1 (Chorus).`
   - `FCC suspect: marked explicit, no lyrics posted.`
   - `FCC unverified: no lyrics posted.`
-- Leave `[notes]` at the end of each line for her listening notes.
+- No `[notes]` or `Pace: ____` placeholders. Each track line holds only: number, title, runtime, FCC flag if any, and sourced notes.
 
 Example drafted line:
 
 ```
-4. Hit the Ground Running 03:55 - Mid to uptempo (~126 BPM). FCC "fucker" x1 (Chorus). [notes]
+4. Hit the Ground Running 03:55 - FCC "fucker" x1 (Chorus). Mid to uptempo (~126 BPM).
 ```
 
 ## RIYL

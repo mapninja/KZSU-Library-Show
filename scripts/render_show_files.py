@@ -110,10 +110,19 @@ def main():
 
     # ---- 2. Zookeeper CSV (REVERSED, no header, 6 quoted columns) ----------
     # Columns by position: artist, track, album, tag, label, timestamp (blank)
-    zk = [[t["artist"], t["track"], t.get("album", ""), t.get("tag", ""),
-           # strip "(verify)" notes so the label field holds only the label name
-           "" if t.get("label") == "unverified" else t.get("label", "").replace(" (verify)", ""), ""] for _, t in rows]
-    zk.reverse()  # first row = last track on air
+    # A blank row marks each mic break. Every set boundary is a mic break (talk break,
+    # promo, giveaway or Bay Area shows), so one blank row goes between sets.
+    # Stace's rule (Oct. 7, 2026): tags matched for every track, blank rows for mic breaks.
+    zk = []
+    prev_set = None
+    for set_name, t in rows:
+        if prev_set is not None and set_name != prev_set:
+            zk.append([])  # blank row = mic break between sets
+        prev_set = set_name
+        zk.append([t["artist"], t["track"], t.get("album", ""), t.get("tag", ""),
+                   # strip "(verify)" notes so the label field holds only the label name
+                   "" if t.get("label") == "unverified" else t.get("label", "").replace(" (verify)", ""), ""])
+    zk.reverse()  # first row = last track on air; blank rows stay between the same sets
     with (out / f"library_show_playlist_{a.show_date}.csv").open("w", newline="", encoding="utf-8") as f:
         csv.writer(f, quoting=csv.QUOTE_ALL).writerows(zk)
 

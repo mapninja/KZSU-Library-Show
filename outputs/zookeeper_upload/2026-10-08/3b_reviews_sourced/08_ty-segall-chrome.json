@@ -1,0 +1,19 @@
+{
+ "data": {
+  "type": "review",
+  "attributes": {
+   "airname": "DJ Stace",
+   "published": true,
+   "date": "2026-10-04",
+   "review": "Chrome / Ty Segall\r\n\r\nLabel: Drag City\r\n\r\nRelease Date: August 28, 2026\r\n\r\nReview Date: 10/4/2026\r\n\r\nReviewer: DJ Stace\r\n\r\nGeneral Comments / Reviews:\r\n\r\nTy goes heavy. Mostly cut live with the band, fuzz pinned in the red, with a couple of crooner turns. Big, dumb, glorious riffage,and smart lyrics, man. - DJ Stace\r\n\r\nRelease Notes:\r\n\r\nTy Segall's 18th solo studio album, billed as one of his heaviest.\r\n\r\nRecorded mostly live with Ben Boye, Evan Burrows, Mikal Cronin and Emmett Kelly, plus Bitchin Bajas' Cooper Crain.\r\n\r\nSame-day companion Love Fuzzz EP (Twins cover plus My Pet Guru).\r\n\r\nLouder Than War Album of the Week.\r\n\r\nNine tracks, about 33 minutes.\r\n\r\nreleased August 28, 2026\r\n\r\nFCCs: None found\r\n\r\nRIYL: Thee Oh Sees, King Gizzard & The Lizard Wizard, Black Sabbath, Fuzz\r\n\r\nPlay: All, Favs Rated with up to *****\r\n\r\nTracklist:\r\n\r\n1. *** Hospital 04:43 - Opener; quiet/loud blippy dirge transfers into a chaotic twin-guitar solo with all the slanted guitar god greatness you expect of Segall. Sourced: Hypnotic synth loop and some of the album's best guitar playing (Treble Zine).\r\n2. Running to Nowhere 02:30 - Super sludgy, with notes of Fu Manchu ruffage. Screamy lyrics give way to Segall's harmonics, gives way to screamy lyrics again. Sourced: Sudden shift out of heavy garage psych into a spacious, swirling break before the choruses (Louder Than War); Gritty guitar strum, big low end from Mikal Cronin's bass, experimental-era Beatles echoes (New Noise Magazine).\r\n3. ***** Black Paint 02:00 - Jangle-fuzz bouncing rock anthem with Segall\u2019s wailing lead solos. Lead single and in a sane world, a hit. (June 2026); Sourced: Lead single, with a video of Segall's regrouped band (Consequence); Catchy riff-bomb under two minutes, twin-guitar attack, heavy fuzz (Stereogum).\r\n4. *** Glass 04:27 - Medium upbeat. Proggy and metallic; Bass in heavy modulated fuzz; guitar duel mid-song. Segue with King GIzzard. Sourced: Proggy, metallic, with a guitar-duel breakdown in the middle (AllMusic); Mikal Cronin's bass in deep modulating fuzz anchors the vocals (Louder Than War).\r\n5. ***** Play Cowboys 04:59 - Climbing raw opening riffage is infectious. Psych ballad with keyboards; Ty croons. Probably my favorite on the album. Sourced: Rambling psych-rock ballad where the keyboards shine (AllMusic); Mid-pace grunge verses on a slightly bouncing riff (New Noise Magazine).\r\n6. Everything You've Been 02:06 - Fast paced, breathy, least standout on the album. Still better than 99% of what was released, last year. Sourced: Bends toward straight-up 1960s American garage rock (New Noise Magazine).\r\n7. Let Go 03:33 - Starts with some 1/4\u201d audio jack feedback lead that turns into a fast paced guitar puncher with siren guitar solo highlights. Sourced: The album's dirtiest riff, with warped production (Far Out Magazine).\r\n8. *** Separation 02:52 - Fast paced, snared out punk rocker. Fun. Sourced: Paired with Let Go as 1990s Seattle spirit mixed with Beatles filtered through Zappa (New Noise Magazine).\r\n9. *** Chrome 05:08 - Ty steals and reforms Ted Nugent\u2019s blues metal riffage for a machine gun repetitive rocker that will make you drive too fast if you aren\u2019t careful. Title track closer, the longest at 5:08. Sourced: Starts aggressive, then stretches into a classic-rock groove and a psychedelic jam (The Fire Note); Called a dirty, dusty \"ZZ Kraut boogie\" (Treble Zine)."
+  },
+  "relationships": {
+   "album": {
+    "data": {
+     "type": "album",
+     "id": "1156508"
+    }
+   }
+  }
+ }
+}

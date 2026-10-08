@@ -1,0 +1,19 @@
+{
+ "data": {
+  "type": "review",
+  "attributes": {
+   "airname": "DJ Stace",
+   "published": true,
+   "date": "2026-10-04",
+   "review": "Album / Artist: Thetans / Dread Spectre Council\r\n\r\nLabel: Handmade Records\r\n\r\nRelease Date: March 29, 2026\r\n\r\nReview Date: 10/4/2026\r\n\r\nReviewer: DJ Stace\r\n\r\nGeneral Comments / Reviews:\r\n\r\nSummer sleeper that too many missed. Fuzzy, crashing DIY indie rock from one guy in Norway. Solid songwriting and spectacular musical craftsmanship. If you miss the Built To Spill and Swervedriver lane, pull up a chair. This deserves to be an indie hit, let\u2019s encourage more from this guy. 10/10 - DJ Stace\r\n\r\nRelease Notes:\r\n\r\nSolo project of Kenneth Amundsen from Nittedal, Norway; billed as indie rock from Oslo.\r\n\r\nhttps://www.dreadspectrecouncil.com/\r\n\r\nReleased March 2026 by Handmade Records / Indigo (Oslo)\r\n\r\n10 tracks, about 34 minutes.\r\n\r\nreleased March 29, 2026\r\n\r\nFCCs: None found\r\n\r\nRIYL: Ty Segall, Built To Spill, Swervedriver, Dungen, Yo La Tengo\r\n\r\nPlay: All, Favs Rated with up to *****\r\n\r\nTracklist:\r\n\r\n1. ***** Hex's Up 03:50 - Kickass heir to Swervedriver starts the album strong. Play this one.\r\n2. ***** Hooves & Cloves 03:24 - Killer Melvinsesque monotone vocal chunky riffage intro. Explodes to wailing fuzz guitar greatness that will make Ty Segall wonder if someone stole his DNA. Segue with Ty Segall or Melvins. Sourced: Starts as a slow, drum-driven ballad-like song, then shifts to moody, anthemic indie rock (Glide Magazine); Chiming fuzz, lo-fi charm. Channels Sub Pop-era Sebadoh with Mary Timony's melodic grit (Last Day Deaf).\r\n3. ***** Where Would the Light Go 03:11 - Upbeat pop anthem. Great melody and vocals. Best I can characterize this one is \u201cJangle-fuzz\u201d and it\u2019s pretty great. Hard to believe this is a one man show.\r\n4. **** Sungate 03:52 - Great lilting guitar intro, solid lyrics, crescendos into a crashing outro. Another great track. Found audio recording in the background.\r\n5. **** Spiderette 04:21 - Solid upbeat indiepoprock anthem. Bandcamp focus track. Would be right at home segued with Replacements or softer Iggy.\r\n6. **** Evil Incarnate 02:37 - Medium paced rocker. Another Ty Segallesque fuzz rock anthem. More found audio recordings overlaid for atmospherics. Love it.\r\n7. *** Wildling 02:59 - Quiet Travis pick tune that would be at home in Billy Bragg\u2019s catalog. Outlier?\r\n8. **** Treasure Trove 03:10 - Another killer medium tempo rocker with less fuzz than other tracks, with great effect. Great refrain. Play it.\r\n9. ***** Raven 04:54 - Midtempo Built to Spill style guitar rocker. Excellent lyricism. Segue with BtS, obviously.\r\n10. ***** Summon the Sparks 03:38 - Love the off kilter pace of this one. Reminds of Pedro the Lion. Another great song, lyrically and musically. Killer anthemic power chord ending to the left-field sleeper album of the year."
+  },
+  "relationships": {
+   "album": {
+    "data": {
+     "type": "album",
+     "id": "1156474"
+    }
+   }
+  }
+ }
+}

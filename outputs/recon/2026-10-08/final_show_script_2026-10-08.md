@@ -1,18 +1,20 @@
 # Final Show Script: Thursday, Oct. 8, 2026
 
-The Library with DJ Stace, KZSU 90.1 FM, 6-8 p.m. PT. Final build Wednesday night, Oct. 7. Review and request changes Thursday before the show.
+The Library with DJ Stace, KZSU 90.1 FM, 6-8 p.m. PT. Final build Wednesday night, Oct. 7; updated Thursday midday, Oct. 8, for Stace's Air Order edits.
 
 ## Changes since the Working script
 
 - **Culled:** none. No ticks in the Cull column of the Notes Sheet.
 - **Replace requests:** none. No ticks in the Replace column.
-- **Added (Air Order):** Swans, "Can't Find My Way Home" (4:49), end of Closers and bench (track 42). Zookeeper: tag 738020, The Burning World (12-inch), label Uni Distribution Corp. FCC: CLEAN on LRCLIB.
-- **Moved:** none. Air Order order matches the plan.
-- **Held out of the Zookeeper CSV and Notes Sheet:** Sex Pistols, "Anarchy in the U.K." (FCC "piss" x1, Outro). It is still in the Air Order. Swap it, or supply a radio edit.
-- **Metadata fix:** Dinosaur Jr., "Feel the Pain" is on Without a Sound (Zookeeper tag 187859). Album filled in.
-- **Mic breaks:** none mention a cut track. No rewrites needed.
-- **Length:** 42 airable tracks, about 2:49 of music. The target is 2:30, so plan to cull about 20 minutes live.
-- **Check by ear before air:** Dread Spectre Council "Hex's Up" and Mandrake Handshake "The Tether" (no lyrics online), Courtney Barnett "One Thing At A Time" (odd LRCLIB album match), Imperial Teen "Overdrive" (no Genius match).
+- **Added (Air Order, Oct. 8 midday):** My Morning Jacket, "Mahgeetah" (5:57), track 43: tag 722281, It Still Moves, Ato Records, clean on Genius. BODEGA, "Slow Train" (3:52), track 44: cover of Bob Dylan's 1979 song, Chrysalis, album out Fri. Oct. 9. Listen first: Dylan's lyrics are clean, BODEGA's are not posted yet.
+- **Earlier add (Oct. 7):** Swans, "Can't Find My Way Home" (4:49), track 42. Tag 738020, The Burning World, Uni Distribution Corp. FCC: CLEAN on LRCLIB.
+- **Moved (Oct. 8 morning):** Yo La Tengo, "Autumn Sweater" moved from Set 5 to Set 6, after Dead Meadow.
+- **Held out of the Zookeeper CSV:** Sex Pistols, "Anarchy in the U.K." (FCC "piss" x1, Outro). It is still in the Air Order and Working. Swap it, or supply a radio edit.
+- **Correction:** Morphine, "Cocoon" (#35) is the new title track (a newly mixed 1998 recording, Partisan), not a Cure for Pain song. Album and label fixed. The mic break is rewritten.
+- **Library tags:** matched for 24 of 44 tracks. The rest are not in the KZSU library or the track is not on the library album record.
+- **Working playlist:** BODEGA and Mahgeetah need to move to the top and Radiohead after Talking Heads. Stace is dragging them in the YouTube Music app.
+- **Length:** 44 airable tracks, about 2:59 of music. The target is 2:30, so plan to cull about 29 minutes live.
+- **Check by ear before air:** BODEGA "Slow Train" (no lyrics posted), Dread Spectre Council "Hex's Up" and Mandrake Handshake "The Tether" (no lyrics online), Courtney Barnett "One Thing At A Time" (odd LRCLIB album match), Imperial Teen "Overdrive" (no Genius match).
 
 ## Ticket giveaway (Oct. 7, revised: Hovvdy)
 
@@ -27,7 +29,7 @@ The Library with DJ Stace, KZSU 90.1 FM, 6-8 p.m. PT. Final build Wednesday nigh
 - Producers Paul Q. Kolderie and Sean Slade, Morphine's longtime production duo (also Pablo Honey and Live Through This). Kolderie and Sandman's partner Sabine Hrechdakian went through the tapes in 2023. Kolderie newly mixed them. Dana Colley added new baritone sax on three songs. The recordings add piano, guitar and more than one drummer.
 - Hrechdakian on the title: Sandman loved to tour and loved to come home and cocoon. A space travel thread runs through the album; she pictures a spaceship for two.
 - Spaceman Charm has never been released. Title track is out now with an archival video. Cover photo by Sandman. Liner notes by Hanif Abdurraqib.
-- Sources: Pitchfork, The Line of Best Fit, Rolling Stone, SPIN, Stereogum, Partisan, Bandcamp. SPIN alone reports the DreamWorks and Kolderie friction. July 3, 1999 and age 46 for Sandman are background knowledge: verify. The version we play is the 1993 Cure for Pain song.
+- Sources: Pitchfork, The Line of Best Fit, Rolling Stone, SPIN, Stereogum, Partisan, Bandcamp. SPIN alone reports the DreamWorks and Kolderie friction. July 3, 1999 and age 46 for Sandman are background knowledge: verify. The version we play is the new title track, a newly mixed 1998 recording (3:54). It is not on Cure for Pain (1993). An earlier version is on Sandbox: The Music of Mark Sandman (2004).
 
 ## Talk-break material
 
@@ -49,6 +51,7 @@ The Library with DJ Stace, KZSU 90.1 FM, 6-8 p.m. PT. Final build Wednesday nigh
 ## FCC
 
 - **Held out of the CSV:** Sex Pistols, "Anarchy in the U.K." (Stace's Air Order add). FCC "piss" x1 ("pissed," Outro). Needs a radio edit or a swap.
+- Stace's Oct. 8 adds: My Morning Jacket "Mahgeetah" is clean on Genius. BODEGA "Slow Train" (#44) is a cover of Bob Dylan's 1979 song. Dylan's lyrics are clean on Genius, but BODEGA's version has no lyrics posted yet (album out Oct. 9): listen first.
 - No other FCC words found in the airable list. Dread Spectre Council "Hex's Up" and Mandrake Handshake "The Tether" have no lyrics online: listen first.
 - FCC Edit Needed candidates: Bodega "All Inside Aquarium" (fuck x2), Queens of the Stone Age "Easy Street" (fuck x1), Greg Freeman "Cahokia" (added to FCC Edit Needed Oct. 4).
 - Oct. 6 adds screened on Genius: Caroline Rose "Chow Mein," Ty Segall "Play Cowboys," Westside Cowboy "Kick Stones," The Clash "Know Your Rights" and Yard Act's title track are clean. Imperial Teen "Overdrive" was clean in the Oct. 4 check.
@@ -102,23 +105,23 @@ The Library with DJ Stace, KZSU 90.1 FM, 6-8 p.m. PT. Final build Wednesday nigh
 ### Hour 1, Set 2: New and coming up
 
 4. **Caroline Rose, "Chow Mein"** (2:25) SUCK Records. Added by DJ Stace (replaced Hello Again, Jim). Album out Oct. 23 on her own SUCK imprint. YTM lists the single under "Calm" (verify album). FCC: CLEAN (Genius, Oct. 6).
-5. **Dread Spectre Council, "Hex's Up"** (3:50) Handmade Records. Weekly Playlist pick. FCC: UNVERIFIED (no lyrics found; listen first).
+5. **Dread Spectre Council, "Hex's Up"** (3:50) Handmade Records. Tag 1156474. Weekly Playlist pick. FCC: UNVERIFIED (no lyrics found; listen first).
 
 ### Hour 1, Set 3: Oct. 8 anniversaries and canon
 
-6. **Soundgarden, "Slaves & Bulldozers"** (6:56) A&M Records. Tag 9065. Stace's pick, replaces Rusty Cage. Badmotorfinger came out Oct. 8, 1991, on A&M (35 years). FCC: CLEAN (LRCLIB).
+6. **Soundgarden, "Slaves & Bulldozers"** (6:57) A&M Records. Tag 9065. Stace's pick, replaces Rusty Cage. Badmotorfinger came out Oct. 8, 1991, on A&M (35 years). FCC: CLEAN (LRCLIB).
 7. **Radiohead, "The National Anthem"** (5:52) Capitol Records Inc. Tag 569178. Kid A debuted at No. 1 on the Billboard 200 the week of Oct. 8, 2000. FCC: CLEAN (LRCLIB).
-8. **Talking Heads, "Once in a Lifetime"** (4:20) Sire Records. Remain in Light was released Oct. 8, 1980 (46 years). FCC: CLEAN (LRCLIB).
-9. **Galaxie 500, "Tugboat"** (3:57) Aurora Records. Weekly Playlist pick. FCC: CLEAN (LRCLIB).
+8. **Talking Heads, "Once in a Lifetime"** (4:20) Sire Records. Tag 826860. Remain in Light was released Oct. 8, 1980 (46 years). FCC: CLEAN (LRCLIB).
+9. **Galaxie 500, "Tugboat"** (3:57) Rykodisc. Tag 378727. Weekly Playlist pick. FCC: CLEAN (LRCLIB).
 10. **R.E.M., "Man on the Moon"** (5:15) Warner Bros. Records. Tag 1153549. Weekly Playlist pick. FCC: CLEAN (LRCLIB).
-11. **Ty Segall, "Play Cowboys"** (4:59) Drag City. Added by DJ Stace (replaced Black Paint). Chrome is on the To Review list. FCC: CLEAN (Genius, Oct. 6).
+11. **Ty Segall, "Play Cowboys"** (4:59) Drag City. Tag 1156508. Added by DJ Stace (replaced Black Paint). Chrome is on the To Review list. FCC: CLEAN (Genius, Oct. 6).
 
 ### Hour 2, Thursday Triple Shot: Teenage Fanclub
 
 Intro: New single Day in the Sun (album out Oct. 9) with two catalog picks from 1990 and 1997.
 
-12. **Teenage Fanclub, "Everything Flows"** (5:14) Matador Records. Triple Shot 1 of 3. Early Glasgow jangle, 36 years old. FCC: CLEAN (LRCLIB).
-13. **Teenage Fanclub, "Ain't That Enough"** (3:43) Columbia Records. Triple Shot 2 of 3. Peak-era pop. FCC: CLEAN (LRCLIB).
+12. **Teenage Fanclub, "Everything Flows"** (5:14) Jetset Records. Tag 719074. Triple Shot 1 of 3. Early Glasgow jangle, 36 years old. FCC: CLEAN (LRCLIB).
+13. **Teenage Fanclub, "Ain't That Enough"** (3:43) Creation Records. Tag 395502. Triple Shot 2 of 3. Peak-era pop. FCC: CLEAN (LRCLIB).
 14. **Teenage Fanclub, "Day in the Sun"** (3:11) Merge Records. New single. Album Do Not Dare to Dream out Fri. Oct. 9 on Merge (track confirmed on the album). Closes the Triple Shot. FCC: CLEAN (LRCLIB).
 
 ### Hour 2, Set 4: Bay Area this week and next
@@ -137,9 +140,9 @@ Intro: New single Day in the Sun (album out Oct. 9) with two catalog picks from 
 23. **Cigarettes After Sex, "Twizzler"** (2:55) Partisan Records. Weekly Playlist pick. FCC: CLEAN (LRCLIB).
 24. **Hovvdy, "Try Try Try"** (2:22) Double Double Whammy. Weekly Playlist pick. FCC: CLEAN (LRCLIB).
 25. **Aldous Harding, "The Barrel"** (5:00) 4AD. Weekly Playlist pick. FCC: CLEAN (LRCLIB).
-26. **Cate Le Bon, "Home to You"** (5:28) Mexican Summer (verify). Weekly Playlist pick. Library: not in KZSU library. FCC: CLEAN (LRCLIB).
-27. **This Is Lorelei, "Oh No Now My"** (3:08) Matador Records. Stace's pick, replaces Billy Came Back. Second single from The Singer in My Band, Nate Amos's third This Is Lorelei album (Matador, Sept. 11). FCC: CLEAN (LRCLIB).
-28. **Courtney Barnett, "One Thing At A Time"** (4:42) Mom + Pop. Stace's pick, replaces Avant Gardener. From her fourth album, Creature of Habit (Mom + Pop, March 27). Flea on bass; produced by Stella Mozgawa and John Congleton. FCC: CLEAN (LRCLIB, check by ear: LRCLIB album name odd).
+26. **Cate Le Bon, "Home to You"** (5:28) Mexican Summer. Tag 1135099. Weekly Playlist pick. Library: not in KZSU library. FCC: CLEAN (LRCLIB).
+27. **This Is Lorelei, "Oh No Now My"** (3:09) Matador Records. Tag 1156441. Stace's pick, replaces Billy Came Back. Second single from The Singer in My Band, Nate Amos's third This Is Lorelei album (Matador, Sept. 11). FCC: CLEAN (LRCLIB).
+28. **Courtney Barnett, "One Thing At A Time"** (4:43) Mom + Pop. Stace's pick, replaces Avant Gardener. From her fourth album, Creature of Habit (Mom + Pop, March 27). Flea on bass; produced by Stella Mozgawa and John Congleton. FCC: CLEAN (LRCLIB, check by ear: LRCLIB album name odd).
 29. **Perfume Genius, "Queen"** (3:51) Matador Records. Tag 1063022. Weekly Playlist pick. FCC: CLEAN (LRCLIB).
 
 ### Hour 2, Set 6: Heavy, psych and close
@@ -149,14 +152,16 @@ Intro: New single Day in the Sun (album out Oct. 9) with two catalog picks from 
 32. **Yo La Tengo, "Autumn Sweater"** (5:19) Matador Records. Tag 376770. Weekly Playlist pick. FCC: CLEAN (LRCLIB).
 33. **Mandrake Handshake, "The Tether / Modulo 5"** (5:12) Tip Top Recordings. Carried over. Likely instrumental. FCC: UNVERIFIED (no lyrics found; listen first).
 34. **Stereolab, "Flashes In The Afternoon"** (6:15) Duophonic Ultra High Fs. Stace's pick. Instrumental B-side of a once tour-only 7-inch, out Feb. 13 on the band's Duophonic label. FCC: CLEAN (instrumental).
-35. **Morphine, "Cocoon"** (3:54) Rykodisc. Carried over. New Morphine release Cocoon (Partisan) is due Dec. 4, 2026. FCC: CLEAN (Genius).
+35. **Morphine, "Cocoon"** (3:54) Partisan Records. Carried over. Title track of the new album Cocoon (Partisan, Dec. 4, 2026), a newly mixed 1998 recording. An earlier version is on Sandbox: The Music of Mark Sandman (2004). FCC: CLEAN (Genius).
 
 ### Closers and bench
 
-36. **Big Star, "September Gurls"** (2:49) Ardent Records. Carried over. FCC: CLEAN (LRCLIB).
+36. **Big Star, "September Gurls"** (2:49) Ardent Records. Tag 393926. Carried over. FCC: CLEAN (LRCLIB).
 37. **Broadcast, "Come On Let's Go"** (3:18) Warp Records. Tag 550684. Carried over. FCC: CLEAN (LRCLIB).
-38. **Uncle Tupelo, "No Depression"** (2:21) Rockville Records. Weekly Playlist pick. FCC: CLEAN (LRCLIB).
+38. **Uncle Tupelo, "No Depression"** (2:21) Columbia Legacy. Tag 697990. Weekly Playlist pick. FCC: CLEAN (LRCLIB).
 39. **Westside Cowboy, "Kick Stones (The Boys)"** (3:57) Island Records. Added by DJ Stace. NACC #11 debut from Manchester. FCC: CLEAN (Genius, Oct. 6).
 40. **The Clash, "Know Your Rights"** (3:41) Epic Records. Tag 935894. Added by DJ Stace. FCC: CLEAN (Genius, Oct. 6).
 41. **Yard Act, "You're Gonna Need a Little Music"** (4:41) Republic Records. Added by DJ Stace. NACC #41. FCC: CLEAN (Genius, Oct. 6; album has FCC hits on other tracks).
 42. **Swans, "Can't Find My Way Home"** (4:49) Uni Distribution Corp. Tag 738020. Added by DJ Stace (Air Order, seen Oct. 7). Single from The Burning World (1989), the album Swans made for UNI/MCA. FCC: CLEAN (LRCLIB, The Burning World match, Oct. 7).
+43. **My Morning Jacket, "Mahgeetah"** (5:57) Ato Records. Tag 722281. Added by DJ Stace (Air Order, seen Oct. 8). MMJ plays the Fillmore, S.F., Oct. 9, 10 and 11. FCC: CLEAN (Genius, Oct. 8).
+44. **BODEGA, "Slow Train"** (3:52) Chrysalis Records. Added by DJ Stace (Air Order, seen Oct. 8). Cover of Bob Dylan's "Slow Train" (1979). Album out Fri. Oct. 9. FCC: UNVERIFIED: BODEGA's lyrics are not posted. Dylan's original is clean on Genius (Oct. 8). Listen first.

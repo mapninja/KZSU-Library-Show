@@ -27,18 +27,18 @@ RIYL: Smog, Bonnie "Prince" Billy, Leonard Cohen, Silver Jews, Lambchop
 Play: All but FCCs, Favs Rated with up to *****
 
 Tracklist:
-1. Why Do Men Sing 06:58 - Pace: ____. [notes]
-2. The Man I'm Supposed To Be 03:42 - Pace: ____. [notes]
-3. Pathol O.G. 06:03 - Pace: ____. [notes]
-4. Stepping Out For Air 07:23 - Pace: ____. Over 7 minutes. [notes]
-5. Lonely City 05:10 - Pace: ____. [notes]
-6. Empathy 05:19 - Pace: ____. [notes]
-7. West Texas 04:51 - Pace: ____. FCC cock x1. [notes]
-8. Computer 03:47 - Pace: ____. [notes]
-9. Lake Winnebago 03:51 - Pace: ____. [notes]
-10. Highway Born 04:47 - Pace: ____. [notes]
-11. And Dream Land 04:25 - Pace: ____. [notes]
-12. The World is Still 04:29 - Pace: ____. [notes]
+1. Why Do Men Sing 06:58 - Opener. Reviewers hear Lou Reed as a spirit guide (KLOF, The Line of Best Fit).
+2. The Man I'm Supposed To Be 03:42
+3. Pathol O.G. 06:03
+4. Stepping Out For Air 07:23 - Over 7 minutes.
+5. Lonely City 05:10 - Called a love song to Austin (The Line of Best Fit). AllMusic picks it among the stronger tracks.
+6. Empathy 05:19
+7. West Texas 04:51 - FCC cock x1.
+8. Computer 03:47
+9. Lake Winnebago 03:51
+10. Highway Born 04:47 - Western swing-tinged road song (AllMusic).
+11. And Dream Land 04:25
+12. The World is Still 04:29
 
 Sources:
 - https://billcallahan.bandcamp.com/album/my-days-of-58

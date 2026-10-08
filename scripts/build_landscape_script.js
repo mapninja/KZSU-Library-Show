@@ -139,7 +139,7 @@ const TEASER3 = "Promo 3 (after the Triple Shot): \"Hovvdy is in the songwriters
 // ---- build body ----
 const kids = [];
 kids.push(new Paragraph({ spacing: { after: 40 }, children: [run("The Library with DJ Stace: Final Show Script", { size: 36, bold: true, color: NAVY })] }));
-kids.push(para("Thursday, Oct. 8, 2026  |  KZSU 90.1 FM  |  6-8 p.m. PT  |  Final build Wed. Oct. 7  |  Landscape table version", { size: 18, color: "555555", after: 120 }));
+kids.push(para("Thursday, Oct. 8, 2026  |  KZSU 90.1 FM  |  6-8 p.m. PT  |  Final build Wed. Oct. 7, updated Thu. Oct. 8  |  Landscape table version", { size: 18, color: "555555", after: 120 }));
 
 // Run-of-show summary (computed)
 const sets = plan.sets.map((s) => ({ s }));
@@ -162,8 +162,11 @@ kids.push(heading("What changed since the Working script", 24, 160));
 kids.push(simpleTable([2600, 11800], ["Change", "Detail"], [
   ["Culled", "None. No ticks in the Cull column."],
   ["Replace requests", "None. No ticks in the Replace column."],
-  ["Added (Air Order)", "Swans, \"Can't Find My Way Home\" (4:49), track 42. Tag 738020, The Burning World, Uni Distribution Corp. FCC clean on LRCLIB."],
-  ["Moved (Air Order, Oct. 8)", "Yo La Tengo, \"Autumn Sweater\" (5:19) moved from Set 5 to Set 6, after Dead Meadow. Now track 32. Set 5 has 10 tracks, Set 6 has 6."],
+  [{ t: "Added (Air Order, Oct. 8 midday)", bold: true }, { t: "My Morning Jacket, \"Mahgeetah\" (5:57), #43. Tag 722281, It Still Moves, Ato Records. Clean on Genius. BODEGA, \"Slow Train\" (3:52), #44. Cover of Bob Dylan's 1979 song, Chrysalis, album out Fri. Oct. 9. LISTEN FIRST: Dylan's lyrics are clean, BODEGA's are not posted.", bold: true }],
+  ["Earlier add (Oct. 7)", "Swans, \"Can't Find My Way Home\" (4:49), #42. Tag 738020, The Burning World, Uni Distribution Corp. FCC clean on LRCLIB."],
+  ["Moved (Air Order, Oct. 8 morning)", "Yo La Tengo, \"Autumn Sweater\" (5:19) moved from Set 5 to Set 6, after Dead Meadow. Now track 32. Set 5 has 10 tracks, Set 6 has 6."],
+  [{ t: "Correction", bold: true }, "Morphine, \"Cocoon\" (#35) is the new title track (a newly mixed 1998 recording, Partisan), not a Cure for Pain song. Album and label fixed. The mic break text is rewritten."],
+  ["Library tags", "Tags matched for 24 of 44 tracks. The rest are not in the KZSU library or the track is not on the library album record."],
   ["Held out", { t: "Sex Pistols, \"Anarchy in the U.K.\": FCC \"piss\" x1 (Outro). In the Air Order, not in the CSV. Needs a radio edit or a swap.", color: RED, bold: true }],
   ["Metadata fix", "Dinosaur Jr. \"Feel the Pain\" is on Without a Sound (tag 187859)."],
   [{ t: "Ticket giveaway (new)", bold: true }, { t: "Hovvdy, Chapel, S.F., Mon. Oct. 19. 2 tickets. Giveaway after Set 5 in Hour 2. Promo teasers at the opening break, the end of Hour 1 and after the Triple Shot. Sheet lists Francis as the giving DJ: confirm.", bold: true }],
@@ -182,12 +185,12 @@ kids.push(simpleTable([2300, 3600, 2200, 2100, 4200], ["Artist", "Release", "Lab
   ["Teenage Fanclub", "Do Not Dare to Dream", "Merge", { t: "Fri. Oct. 9", bold: true }, "#14 Day in the Sun (Triple Shot closer)"],
   ["Imperial Teen", "All Over You", "Merge", { t: "Fri. Oct. 9", bold: true }, "#18 Overdrive"],
   ["Death Valley Girls", "Welcome to Earth", "Suicide Squeeze", { t: "Fri. Oct. 9", bold: true }, "Not in set"],
-  ["Bodega", "All Inside Aquarium", "Chrysalis", { t: "Fri. Oct. 9", bold: true }, { t: "Not airable: fuck x2 (FCC Edit Needed)", color: RED }],
+  ["Bodega", "All Inside Aquarium", "Chrysalis", { t: "Fri. Oct. 9", bold: true }, { t: "#44 Slow Train (Bob Dylan cover). Listen first. Title track is not airable: fuck x2.", color: AMBER }],
   ["Caroline Rose", "Gentling the Horse at the Walt Whitman Mall", "SUCK Records", "Oct. 23", "#4 Chow Mein"],
   ["Queens of the Stone Age", "Perfecth", "-", "Oct. 30", { t: "Easy Street: fuck x1 (FCC Edit Needed)", color: RED }],
   ["Ministry", "Final album", "-", "Oct. 30", "Not in set"],
   ["Twisted Teens", "The Holy Cross Tigers", "Sub Pop", "Nov. 6", "#1 When We First Met"],
-  ["Morphine", "Cocoon (new album)", "Partisan", "Dec. 4", "#35 Cocoon (1993 original). Full mic break after Set 6."],
+  ["Morphine", "Cocoon (new album)", "Partisan", "Dec. 4", "#35 Cocoon (the new title track). Full mic break after Set 6."],
 ]));
 kids.push(note("Next week: Thursday, Oct. 15 is Imperial Teen at Bottom of the Hill."));
 kids.push(spacer());
@@ -208,7 +211,7 @@ built.filter((b) => !/^Hour 1/.test(b.set.set)).forEach((b) => {
   if (/Set 4/.test(b.set.set)) {
     kids.push(heading("Talk break after Set 4: Bay Area shows (foopee.com, Oct. 4; confirm before air)", 22));
     kids.push(simpleTable([2300, 3500, 4300, 1500, 2800], ["Date", "Act", "Venue", "Status", "Track tonight"], [
-      ["Oct. 6, 7, 9, 10, 11", "My Morning Jacket", "Fillmore, S.F.", "", "#15 Wordless Chorus"],
+      ["Oct. 6, 7, 9, 10, 11", "My Morning Jacket", "Fillmore, S.F.", "", "#15 Wordless Chorus, #43 Mahgeetah"],
       [{ t: "Thu. Oct. 15", bold: true }, "Imperial Teen", "Bottom of the Hill, S.F.", "", "#17 Yoo Hoo, #18 Overdrive"],
       ["Oct. 16", "Iron & Wine", "Castro, S.F.", { t: "Sold out", color: RED }, "Not in set"],
       ["Oct. 18", "Dinosaur Jr. with Stef Chura", "S.F. (verify venue)", "", "#16 Feel the Pain"],
@@ -222,7 +225,7 @@ built.filter((b) => !/^Hour 1/.test(b.set.set)).forEach((b) => {
   if (/Set 6/.test(b.set.set)) {
     kids.push(heading("MIC BREAK after #35: Morphine, new album Cocoon (out Dec. 4, Partisan)", 22));
     kids.push(micBreak("READ (about 60 sec)", [
-      "\"That was Morphine, Cocoon, from Cure for Pain in 1993. Morphine has a new album, also called Cocoon, out Dec. 4 on Partisan. It is their first full-length since The Night in 2000, which came out after singer Mark Sandman died of a heart attack on stage in Italy. The new record is built from sessions the band started and abandoned in 1998. Sandman's partner, Sabine Hrechdakian, worked with producer Paul Q. Kolderie to go through the old tapes. Kolderie, who made Morphine records with Sean Slade and also produced Pablo Honey and Live Through This, remixed them. Dana Colley added new baritone sax on three songs. There is piano and guitar, and more than one drummer. Hrechdakian says the title is about coming home, and she pictures the cocoon as a spaceship for two. The title track is out now, with an archival video.\"",
+      "\"That was Morphine, Cocoon, the title track of a new album out Dec. 4 on Partisan. It is their first full-length since The Night in 2000, which came out after singer Mark Sandman died of a heart attack on stage in Italy. The new record is built from sessions the band started and abandoned in 1998. Sandman's partner, Sabine Hrechdakian, worked with producer Paul Q. Kolderie to go through the old tapes. Kolderie, who made Morphine records with Sean Slade and also produced Pablo Honey and Live Through This, remixed them. Dana Colley added new baritone sax on three songs. There is piano and guitar, and more than one drummer. Hrechdakian says the title is about coming home, and she pictures the cocoon as a spaceship for two. The title track is out now, with an archival video.\"",
     ]));
     kids.push(spacer());
     kids.push(simpleTable([2300, 9400, 2700], ["Ad-lib topic", "Background", "Source"], [
@@ -236,7 +239,7 @@ built.filter((b) => !/^Hour 1/.test(b.set.set)).forEach((b) => {
       [{ t: "The songs", bold: true }, "Tomorrow, Wig, Patience, Spaceman Charm, Justine, Moons of Jupiter, Cocoon, Pretty Face. Spaceman Charm has never been heard before. Some of the others circulated as alternate versions on unofficial releases and the 2004 compilation Sandbox. Title track is out now with an archival video.", "Partisan, Line of Best Fit, Pitchfork"],
       [{ t: "Art and notes", bold: true }, "Cover is a photo Sandman took of Hrechdakian's reflection in a train window. Liner notes by poet and essayist Hanif Abdurraqib, who writes about finding Morphine after Sandman's death.", "Bandcamp, Stereogum"],
       [{ t: "Sandman", bold: true }, "Singer and two-string slide bassist. Died of a heart attack at the Nel Nome del Rock festival in Palestrina, Italy, in 1999. July 3 and age 46 are from background knowledge, not the coverage above: verify before quoting.", "Pitchfork, Hot Press"],
-      [{ t: "Tonight's track", bold: true }, "We played the 1993 song from Cure for Pain (Rykodisc), #35. The new album's title track is a newly mixed 1998 recording; the coverage does not say how it differs from the 1993 version. Do not call it a re-recording.", "Verify"],
+      [{ t: "Tonight's track", bold: true }, "We played the new album's title track (3:54), a newly mixed 1998 recording, #35. It is not on Cure for Pain (1993). An earlier version is on Sandbox: The Music of Mark Sandman (2004). Do not call it a re-recording.", "Verify"],
       [{ t: "Release details", bold: true }, "Out Dec. 4 on Partisan; LP (black vinyl, gatefold) and CD (digisleeve with lyric booklet). Pre-orders are open. One outlet printed Dec. 8; the label and most coverage say Dec. 4.", "Bandcamp, Partisan"],
     ], { keepTogether: true }));
     kids.push(note("Sources: Pitchfork (Jazz Monroe), The Line of Best Fit, Rolling Stone, SPIN, Stereogum, Hot Press, Partisan Records and the band's Bandcamp page, all coverage of the album announcement."));
@@ -266,7 +269,8 @@ kids.push(simpleTable([2800, 3200, 1900, 6500], ["Artist and track", "Status", "
   ["Mandrake Handshake, The Tether / Modulo 5", { t: "LISTEN FIRST", color: AMBER, bold: true }, "#33", "No lyrics online. Likely instrumental."],
   ["Courtney Barnett, One Thing At A Time", { t: "CLEAN, check by ear", color: AMBER, bold: true }, "#28", "LRCLIB match came from an odd album entry."],
   ["Imperial Teen, Overdrive", "Clean (Oct. 4 shelf check)", "#18", "Genius has no match."],
-  ["Bodega, All Inside Aquarium", { t: "fuck x2", color: RED }, "FCC Edit Needed", "Not airable as is."],
+  [{ t: "Bodega, Slow Train", bold: true }, { t: "LISTEN FIRST", color: AMBER, bold: true }, "#44", "Cover of Dylan's \"Slow Train\". Dylan's lyrics are clean; BODEGA's are not posted (album out Oct. 9)."],
+  ["Bodega, All Inside Aquarium", { t: "fuck x2", color: RED }, "FCC Edit Needed", "Not airable as is. Slow Train replaces it in tonight's set."],
   ["Queens of the Stone Age, Easy Street", { t: "fuck x1", color: RED }, "FCC Edit Needed", "Not airable as is."],
   ["Greg Freeman, Cahokia", { t: "FCC", color: RED }, "FCC Edit Needed", "Added Oct. 4. Not airable as is."],
   ["Fontaines D.C., Tongue", { t: "shit x10 (Refrain)", color: RED }, "FCC Edit Needed", "Not airable as is."],
