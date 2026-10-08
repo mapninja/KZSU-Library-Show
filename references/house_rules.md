@@ -41,6 +41,11 @@
 - Reviews live in the KZSU-Album-Reviews repo. KZSU-Album-Reviews pushes go to branch `master` (not main). Add only your own files there; Stace keeps uncommitted work in that repo.
 - Commit and push after each run using the token in `.env`. Never print secrets.
 
+## Ticket giveaways
+- Ticket sheet: `data/tickets/ticket_giveaways_<yyyy-mm>.csv` (columns: Genre, Artists, Date, Venue, City, DJs to Give Away Tix, give by, # tix, Show time of tix*). Stace pastes updates in chat.
+- For each show, find rows where Stace is listed in the DJs column and the give-by date is on or after the show date. Add one giveaway to Hour 2 (after the Bay Area shows break, or after a set that fits) and promo teasers on earlier mic breaks (opening break, end of Hour 1, after the Triple Shot). Show it in the landscape script as a giveaway table plus MIC BREAK call-outs.
+- Do not invent contest rules, call-in numbers or show times; flag them as "confirm before air."
+
 ## Show script format
 - All show scripts (Working, Final, specialty) are landscape, table-based Word + PDF files, not prose Docs. Stace's standing preference (Oct. 7, 2026): she scans them on air. Layout and build steps: `references/show_script_landscape.md`.
 

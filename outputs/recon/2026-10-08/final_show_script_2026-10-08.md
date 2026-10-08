@@ -14,6 +14,13 @@ The Library with DJ Stace, KZSU 90.1 FM, 6-8 p.m. PT. Final build Wednesday nigh
 - **Length:** 42 airable tracks, about 2:49 of music. The target is 2:30, so plan to cull about 20 minutes live.
 - **Check by ear before air:** Dread Spectre Council "Hex's Up" and Mandrake Handshake "The Tether" (no lyrics online), Courtney Barnett "One Thing At A Time" (odd LRCLIB album match), Imperial Teen "Overdrive" (no Genius match).
 
+## Ticket giveaway (new Oct. 7)
+
+- **Prize:** 1 ticket, Brit Floyd (classic rock cover band, Pink Floyd tribute), Fox Theater, Oakland, Wed. Oct. 14, 2026. Source: `data/tickets/ticket_giveaways_2026-10.csv` (the only row listing Stace). Give by Tue. Oct. 13. Show time is not on the sheet; confirm.
+- **When:** Hour 2, right after Set 4 and the Bay Area shows break.
+- **Promo teasers:** opening break, end of Hour 1, and after the Triple Shot. Copy is in the landscape script.
+- **Contest method and call-in number:** not on the ticket sheet. Use the KZSU contest procedure.
+
 ## Talk-break material
 
 - **Oct. 8 in music:** Talking Heads released Remain in Light on this date in 1980. Soundgarden released Badmotorfinger on A&M in 1991, two weeks after Nevermind (35 years; "Slaves & Bulldozers" opens Set 3). Radiohead's Kid A debuted at No. 1 on the Billboard 200 the week of Oct. 8, 2000.

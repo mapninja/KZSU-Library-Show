@@ -42,8 +42,8 @@ function cell(text, w, o = {}) {
     children: lines.map((l) => para(l, o)),
   });
 }
-function heading(text, size = 28, before = 0) {
-  return new Paragraph({ spacing: { before, after: 80 }, keepNext: true, children: [run(text, { size, bold: true, color: NAVY })] });
+function heading(text, size = 28, before = 0, pageBreak = false) {
+  return new Paragraph({ pageBreakBefore: pageBreak, spacing: { before, after: 80 }, keepNext: true, children: [run(text, { size, bold: true, color: NAVY })] });
 }
 function note(text) {
   return new Paragraph({ spacing: { before: 60, after: 60 }, children: [run(text, { size: 16, italics: true, color: "555555" })] });
@@ -54,13 +54,13 @@ function spacer() { return new Paragraph({ spacing: { after: 120 }, children: []
 function simpleTable(widths, header, rows, o = {}) {
   const head = new TableRow({
     tableHeader: true, cantSplit: true,
-    children: header.map((h, i) => cell(h, widths[i], { fill: NAVY, color: "FFFFFF", bold: true, size: 18 })),
+    children: header.map((h, i) => cell(h, widths[i], { fill: NAVY, color: "FFFFFF", bold: true, size: 18, keepNext: o.keepTogether })),
   });
   const body = rows.map((r, ri) => new TableRow({
     cantSplit: true,
     children: r.map((c, i) => {
       const v = typeof c === "object" ? c : { t: c };
-      return cell(v.t, widths[i], { size: o.size || 18, fill: v.fill || (ri % 2 ? ZEBRA : undefined), color: v.color, bold: v.bold });
+      return cell(v.t, widths[i], { size: o.size || 18, fill: v.fill || (ri % 2 ? ZEBRA : undefined), color: v.color, bold: v.bold, keepNext: o.keepTogether && ri < rows.length - 1 });
     }),
   }));
   return new Table({ width: { size: widths.reduce((a, b) => a + b, 0), type: WidthType.DXA }, columnWidths: widths, rows: [head, ...body] });
@@ -119,6 +119,22 @@ function setTable(set, startNum, cumStart) {
     nextNum: n, cumEnd, count: airable.length, setSecs };
 }
 
+
+// ---- ticket giveaway (from data/tickets/*.csv: the row where Stace is listed as a giving DJ) ----
+const GIVE = { act: "Brit Floyd", what: "classic rock cover band (Pink Floyd tribute)", venue: "Fox Theater, Oakland", date: "Wed. Oct. 14, 2026",
+  giveBy: "Tue. Oct. 13", tix: "1", showTime: "Not on the sheet. Confirm before air." };
+const GREEN_BG = "E2F0D9";
+// A one-row call-out table for a mic break line (promo teaser or giveaway)
+function micBreak(label, lines, fill = GREEN_BG) {
+  return new Table({ width: { size: PAGE_W, type: WidthType.DXA }, columnWidths: [2600, 11800], rows: lines.map((l, i) => new TableRow({ cantSplit: true, children: [
+    cell(i === 0 ? label : "", 2600, { fill, bold: true, size: 18, keepNext: i < lines.length - 1 }),
+    cell(l, 11800, { fill, size: 20, keepNext: i < lines.length - 1 }),
+  ] })) });
+}
+const TEASER1 = "Promo 1 (opening break): \"We have a ticket to give away to Brit Floyd at the Fox Theater in Oakland on Wednesday, Oct. 14. That giveaway is in the second hour.\"";
+const TEASER2 = "Promo 2 (end of Hour 1): \"Second hour is next, with the Thursday Triple Shot. Later in the hour, one ticket to Brit Floyd at the Fox in Oakland, Wednesday, Oct. 14.\"";
+const TEASER3 = "Promo 3 (after the Triple Shot): \"Coming up after the next set: the ticket giveaway. Brit Floyd, Fox Theater, Oakland, Wednesday, Oct. 14.\"";
+
 // ---- build body ----
 const kids = [];
 kids.push(new Paragraph({ spacing: { after: 40 }, children: [run("The Library with DJ Stace: Final Show Script", { size: 36, bold: true, color: NAVY })] }));
@@ -148,6 +164,7 @@ kids.push(simpleTable([2600, 11800], ["Change", "Detail"], [
   ["Added (Air Order)", "Swans, \"Can't Find My Way Home\" (4:49), track 42. Tag 738020, The Burning World, Uni Distribution Corp. FCC clean on LRCLIB."],
   ["Held out", { t: "Sex Pistols, \"Anarchy in the U.K.\": FCC \"piss\" x1 (Outro). In the Air Order, not in the CSV. Needs a radio edit or a swap.", color: RED, bold: true }],
   ["Metadata fix", "Dinosaur Jr. \"Feel the Pain\" is on Without a Sound (tag 187859)."],
+  [{ t: "Ticket giveaway (new)", bold: true }, { t: "Brit Floyd, Fox Theater, Oakland, Wed. Oct. 14. 1 ticket. Giveaway after Set 4 in Hour 2. Promo teasers at the opening break, the end of Hour 1 and after the Triple Shot.", bold: true }],
 ]));
 
 // Opening talk-break tables
@@ -171,17 +188,21 @@ kids.push(simpleTable([2300, 3600, 2200, 2100, 4200], ["Artist", "Release", "Lab
   ["Morphine", "Cocoon", "Partisan", "Dec. 4", "#35 Cocoon (original on Cure for Pain)"],
 ]));
 kids.push(note("Next week: Thursday, Oct. 15 is Imperial Teen at Bottom of the Hill."));
+kids.push(spacer());
+kids.push(micBreak("MIC BREAK: PROMO", [TEASER1]));
 
 // ---- Hour 1 ----
-kids.push(new Paragraph({ children: [new PageBreak()] }));
-kids.push(heading("HOUR 1", 30));
-built.filter((b) => /^Hour 1/.test(b.set.set)).forEach((b) => { kids.push(b.table); kids.push(spacer()); });
+kids.push(heading("HOUR 1", 30, 0, true));
+built.filter((b) => /^Hour 1/.test(b.set.set)).forEach((b) => {
+  kids.push(b.table); kids.push(spacer());
+  if (/Set 3/.test(b.set.set)) { kids.push(micBreak("MIC BREAK: END OF HOUR 1", [TEASER2])); }
+});
 
 // ---- Hour 2 ----
-kids.push(new Paragraph({ children: [new PageBreak()] }));
-kids.push(heading("HOUR 2", 30));
+kids.push(heading("HOUR 2", 30, 0, true));
 built.filter((b) => /^Hour 2/.test(b.set.set)).forEach((b) => {
   kids.push(b.table); kids.push(spacer());
+  if (/Triple Shot/.test(b.set.set)) { kids.push(micBreak("MIC BREAK: PROMO", [TEASER3])); kids.push(spacer()); }
   if (/Set 4/.test(b.set.set)) {
     kids.push(heading("Talk break after Set 4: Bay Area shows (foopee.com, Oct. 4; confirm before air)", 22));
     kids.push(simpleTable([2300, 3500, 4300, 1500, 2800], ["Date", "Act", "Venue", "Status", "Track tonight"], [
@@ -192,14 +213,24 @@ built.filter((b) => /^Hour 2/.test(b.set.set)).forEach((b) => {
       ["Oct. 19", "Dinosaur Jr. with Stef Chura", "Guild Theater, Menlo Park (verify)", "", "#16 Feel the Pain"],
       ["Oct. 19 and 20", "Geese", "Fox Theater, Oakland", { t: "Sold out", color: RED }, "#19 Cobra"],
       ["Fri. Oct. 23", "Cheekface and Bodega", "Cornerstone, Berkeley", "", "Not in set"],
+    ], { keepTogether: true }));
+    kids.push(spacer());
+    kids.push(heading("TICKET GIVEAWAY (after the Bay Area shows break)", 22));
+    kids.push(simpleTable([2300, 3000, 2800, 2000, 1000, 3300], ["Act", "Type", "Venue", "Date", "Tickets", "Give by"], [
+      [{ t: GIVE.act, bold: true }, GIVE.what, GIVE.venue, { t: GIVE.date, bold: true }, GIVE.tix, { t: GIVE.giveBy + " (winner picked by then)", bold: true }],
+    ], { keepTogether: true }));
+    kids.push(micBreak("MIC BREAK: GIVEAWAY", [
+      "Read: \"Brit Floyd plays the Fox Theater in Oakland on Wednesday, Oct. 14. We have 1 ticket to give away.\"",
+      "Contest method and call-in number: use the KZSU contest procedure (not on the ticket sheet).",
+      "Show time: " + GIVE.showTime,
+      "After the winner: follow the usual KZSU steps for logging the giveaway and ticket pickup.",
     ]));
     kids.push(spacer());
   }
 });
 
 // ---- Back of the sheet ----
-kids.push(new Paragraph({ children: [new PageBreak()] }));
-kids.push(heading("FCC watch list", 28));
+kids.push(heading("FCC watch list", 28, 0, true));
 kids.push(simpleTable([2800, 3200, 1900, 6500], ["Artist and track", "Status", "Where", "Action"], [
   [{ t: "Sex Pistols, Anarchy in the U.K.", bold: true }, { t: "HOLD: piss x1 (\"pissed,\" Outro)", color: RED, bold: true }, "Air Order, held out of CSV", "Radio edit or swap."],
   ["Dread Spectre Council, Hex's Up", { t: "LISTEN FIRST", color: AMBER, bold: true }, "#5", "No lyrics online."],

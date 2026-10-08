@@ -15,6 +15,7 @@ Read `references/house_rules.md` and `config/playlists.json`. Use `anthropic-ski
 4. **Air Order edits.** Her Air Order changes win over everything. Added tracks go into the script at their position with label, release date, FCC status.
 5. **Rewrite** any mic break that mentions a cut track.
 6. **Build "Library Show Final Show Script"** in /KZSU/ as a landscape, table-based Word file plus PDF, following `references/show_script_landscape.md` (Stace's standing preference). Include a "What changed" table near the top: culled, replaced (old to new), added, moved. Update the sheet to match. Do not publish the old prose Google Doc.
+6b. **Ticket giveaways.** Check `data/tickets/` per the house rules. Add the giveaway and promo teasers to the final script.
 7. **Sync the plan JSON** so `kzsu-show-build` Thursday starts from the final list.
 8. **Email** Stace (Outlook draft/send to maples@stanford.edu is allowed for this notice only) with the doc link and the list of changes.
 9. Archive the previous final script to /KZSU/Archive/. Commit and push.
