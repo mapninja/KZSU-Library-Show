@@ -70,6 +70,14 @@
 - The Zookeeper CSV stays a raw CSV.
 - Ticks in Sheets: any mark (x, TRUE) counts.
 
+## KZSU Drive folder only (Stace, Oct. 8, 2026)
+- Every KZSU file lives in the KZSU Drive folder. Nothing KZSU-related goes in My Drive root, Claude_Working or anywhere else. Stace cannot find it otherwise.
+- Always pass `parentId` when creating or uploading to Drive. Never create without a parent.
+- One-off shows (for example Morning ZSU): drafts in `/KZSU/Show Prep/`, then move everything to `/KZSU/Archive/YYYY/MM-DD/` once aired, with the aired list from Zookeeper.
+- Do not use `present_files` on Drive paths: on Oct. 8 it left a stray PDF in My Drive root. Name the KZSU folder path in the reply instead.
+- End of every run: search Drive for KZSU-related files whose parent is My Drive root (parentId 0AGRVbhFBaqNYUk9PVA) and move any to the right KZSU folder or `/KZSU/_to_delete/`.
+- Do not put non-KZSU material in the KZSU folder.
+
 ## Promo images
 - Images live in Drive `KZSU/Promo and Merch` (index: `config/promo_images.json`).
 - Stace sets playlist thumbnails by hand each week (playlist page > Edit thumbnail). Skills do not upload thumbnails. In the weekly summary, remind her which new playlists need one.

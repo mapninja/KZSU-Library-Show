@@ -399,5 +399,109 @@
   "Courtney Barnett": 1,
   "Dirty Three": 1,
   "mercury": 1
- }
+ },
+ "not_aired": [
+  {
+   "date": "2026-10-07",
+   "show": "Morning ZSU",
+   "item": "Brigitte Calls Me Baby - Altitude",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-07",
+   "show": "Morning ZSU",
+   "item": "The Beach Boys - Shut Down",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-07",
+   "show": "Morning ZSU",
+   "item": "John Mellencamp - Pink Houses",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-07",
+   "show": "Morning ZSU",
+   "item": "Dread Spectre Council - Raven",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-07",
+   "show": "Morning ZSU",
+   "item": "Chinese American Bear - Turn Up The Radio",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-07",
+   "show": "Morning ZSU",
+   "item": "Palace - Denny's",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-07",
+   "show": "Morning ZSU",
+   "item": "Michael Kiwanuka - Summer Clothes",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-07",
+   "show": "Morning ZSU",
+   "item": "Sylvan Esso - Concrete Glen",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-07",
+   "show": "Morning ZSU",
+   "item": "Father John Misty - Chateau Lobby #4 (in C for Two Virgins)",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-07",
+   "show": "Morning ZSU",
+   "item": "Queens of the Stone Age - Go With The Flow",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-07",
+   "show": "Morning ZSU",
+   "item": "Bodega - Thrown",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-07",
+   "show": "Morning ZSU",
+   "item": "Allah-Las - Catamaran",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-07",
+   "show": "Morning ZSU",
+   "item": "Nilüfer Yanya - midnight sun",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-07",
+   "show": "Morning ZSU",
+   "item": "Khruangbin - Time (You and I)",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-07",
+   "show": "Morning ZSU",
+   "item": "Hovvdy - Life So Wide",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-07",
+   "show": "Morning ZSU",
+   "item": "Interpol - See Out Loud",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-07",
+   "show": "Morning ZSU",
+   "item": "Twisted Teens - Hand Me A Cigarette",
+   "strength": "weak"
+  }
+ ]
 }

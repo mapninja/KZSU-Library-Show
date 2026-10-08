@@ -13,147 +13,234 @@
   {
    "artist": "Twisted Teens",
    "track": "Peekaboo Hand",
-   "videoId": "J2IJ6ugcmUI"
+   "videoId": "J2IJ6ugcmUI",
+   "time": "07:00:25",
+   "album": "Blame the Clown",
+   "label": "Chain Smoking Records"
   },
   {
    "artist": "Little Barrie",
    "track": "More Bad Miles Of Road",
-   "videoId": "QXOOzvDc3Nk"
+   "videoId": "QXOOzvDc3Nk",
+   "time": "07:04:27",
+   "album": "Gravity Freeze",
+   "label": "Easy Eye Sound"
   },
   {
    "artist": "Dinosaur Jr.",
    "track": "Several Got Away",
-   "videoId": "2XwYVWnYMB8"
+   "videoId": "2XwYVWnYMB8",
+   "time": "07:07:32",
+   "album": "There Near",
+   "label": "Jagjaguwar"
   },
   {
    "artist": "Yard Act",
    "track": "New Beginnings",
-   "videoId": "WUmzu_RDflM"
+   "videoId": "WUmzu_RDflM",
+   "time": "07:10:44",
+   "album": "You're Gonna Need A Little Music",
+   "label": "Republic Records"
   },
   {
    "artist": "Dread Spectre Council",
    "track": "Summon the Sparks",
-   "videoId": "2BXy9z_o868"
+   "videoId": "2BXy9z_o868",
+   "time": "07:14:17",
+   "album": "Thetans",
+   "label": "Handmade Records"
   },
   {
    "artist": "Radiohead",
    "track": "Lotus Flower",
-   "videoId": "HgMAwBZ2M3w"
+   "videoId": "HgMAwBZ2M3w",
+   "time": "07:21:17",
+   "album": "The King of Limbs",
+   "label": "XL Recordings"
   },
   {
    "artist": "Joy Division",
    "track": "Transmission",
-   "videoId": "Kx3EqNYQklg"
+   "videoId": "Kx3EqNYQklg",
+   "time": "07:23:34",
+   "album": "Transmission",
+   "label": "Factory Records"
   },
   {
    "artist": "Tricky",
    "track": "Because I Don't Know",
-   "videoId": "gKkWSYQaxVo"
+   "videoId": "gKkWSYQaxVo",
+   "time": "07:27:15",
+   "album": "Different When It's Silent",
+   "label": "False Idols"
   },
   {
    "artist": "Lex Walton",
    "track": "For Thee I Sing",
-   "videoId": "w7PnWZXJwoc"
+   "videoId": "w7PnWZXJwoc",
+   "time": "07:31:35",
+   "album": "Ultimate Love Forever",
+   "label": "Sub Pop Records"
   },
   {
    "artist": "Spoon",
    "track": "The Underdog",
-   "videoId": "VaUOE8xv-zA"
+   "videoId": "VaUOE8xv-zA",
+   "time": "07:33:34",
+   "album": "Ga Ga Ga Ga Ga",
+   "label": "Merge Records"
   },
   {
    "artist": "Palace",
    "track": "Made My Bed",
-   "videoId": "MR-dh4FTavQ"
+   "videoId": "MR-dh4FTavQ",
+   "time": "07:41:57",
+   "album": "Ox",
+   "label": "Awal"
   },
   {
    "artist": "Sluice",
    "track": "Zillow",
-   "videoId": "lpl4quk0T_g"
+   "videoId": "lpl4quk0T_g",
+   "time": "07:45:39",
+   "album": "Companion",
+   "label": "Mtn Laurel Recording Co."
   },
   {
    "artist": "Cut Worms",
    "track": "Long Weekend",
-   "videoId": "7-SzF72go3Q"
+   "videoId": "7-SzF72go3Q",
+   "time": "07:50:42",
+   "album": "Transmitter",
+   "label": "Jagjaguwar"
   },
   {
    "artist": "Sharp Pins",
    "track": "Days of Change",
-   "videoId": "45CJxgz5Zt0"
+   "videoId": "45CJxgz5Zt0",
+   "time": "07:51:32",
+   "album": "Mod Mayday 23",
+   "label": "K Records"
   },
   {
    "artist": "Pixies",
    "track": "Here Comes Your Man",
-   "videoId": "XYrOmT72xZk"
+   "videoId": "XYrOmT72xZk",
+   "time": "07:57:07",
+   "album": "Doolittle",
+   "label": "4AD"
   },
   {
    "artist": "The Strokes",
    "track": "Hard To Explain",
-   "videoId": "2iF9-LAVcjE"
+   "videoId": "2iF9-LAVcjE",
+   "time": "08:01:23",
+   "album": "Is This It",
+   "label": "RCA Records"
   },
   {
    "artist": "Mr. Gnome",
    "track": "Mustangs",
-   "videoId": "qtolJ-O4F80"
+   "videoId": "qtolJ-O4F80",
+   "time": "08:04:59",
+   "album": "The Heart of a Dark Star",
+   "label": "El Marko"
   },
   {
    "artist": "Arcade Fire",
    "track": "Wake Up",
-   "videoId": "gKNIMRGUQBA"
+   "videoId": "gKNIMRGUQBA",
+   "time": "08:09:49",
+   "album": "Funeral",
+   "label": "Merge Records"
   },
   {
    "artist": "The Dirtbombs",
    "track": "Ode To A Black Man",
-   "videoId": "SQbBluzZmAo"
+   "videoId": "SQbBluzZmAo",
+   "time": "08:15:16",
+   "album": "Ultraglide In Black",
+   "label": "In the Red Records"
   },
   {
    "artist": "Ty Segall",
    "track": "Chrome",
-   "videoId": "apwTEl0Lfew"
+   "videoId": "apwTEl0Lfew",
+   "time": "08:20:56",
+   "album": "Chrome",
+   "label": "Drag City"
   },
   {
    "artist": "Lex Walton",
    "track": "Ultimate Love 4Ever",
-   "videoId": "uan9YB7O8nU"
+   "videoId": "uan9YB7O8nU",
+   "time": "08:25:12",
+   "album": "Ultimate Love Forever",
+   "label": "Sub Pop Records"
   },
   {
    "artist": "Sheer Mag",
    "track": "Expect The Bayonet",
-   "videoId": "gnSZhI4beE4"
+   "videoId": "gnSZhI4beE4",
+   "time": "08:28:11",
+   "album": "Need To Feel Your Love",
+   "label": "Wilsun Rc"
   },
   {
    "artist": "Teens in Trouble",
    "track": "I Do",
-   "videoId": "HDFgZYq0-zo"
+   "videoId": "HDFgZYq0-zo",
+   "time": "08:33:28",
+   "album": "I Do",
+   "label": "Lauren Records"
   },
   {
    "artist": "Queens of the Stone Age",
    "track": "Insignificant Other",
-   "videoId": "TVTmQTcV-iE"
+   "videoId": "TVTmQTcV-iE",
+   "time": "08:38:15",
+   "album": "Perfecth",
+   "label": ""
   },
   {
    "artist": "Wilco",
    "track": "Heavy Metal Drummer",
-   "videoId": "yeuIQFF7z6E"
+   "videoId": "yeuIQFF7z6E",
+   "time": "08:44:00",
+   "album": "Yankee Hotel Foxtrot",
+   "label": "Nonesuch Records"
   },
   {
    "artist": "Sylvan Esso",
    "track": "Hot Slob",
-   "videoId": "tH3ll9SA_k8"
+   "videoId": "tH3ll9SA_k8",
+   "time": "08:47:14",
+   "album": "Ow ∞",
+   "label": "Psychic Hotline"
   },
   {
    "artist": "This Is Lorelei",
    "track": "Hey Sarah Is It Gonna Rain Forever",
-   "videoId": "LHPybTFbWAA"
+   "videoId": "LHPybTFbWAA",
+   "time": "08:49:50",
+   "album": "The Singer in My Band",
+   "label": "Matador Records"
   },
   {
    "artist": "Fontaines D.C.",
    "track": "Marianne",
-   "videoId": "ikKBcZg9jUc"
+   "videoId": "ikKBcZg9jUc",
+   "time": "08:54:58",
+   "album": "Marianne",
+   "label": "XL Recordings"
   },
   {
    "artist": "Twisted Teens",
    "track": "Riding",
-   "videoId": "qyMXk41TU7Y"
+   "videoId": "qyMXk41TU7Y",
+   "time": "08:56:58",
+   "album": "Florida Water Blues",
+   "label": "Going Underground"
   }
  ],
  "added_on_air_not_in_plan": [
@@ -196,5 +283,8 @@
  "notes": [
   "Zookeeper log tags seen: Transmission 939405 (library single; plan only found Substance 204354), Dirtbombs 1086151, Spoon 1094598, Pixies 943354, Sheer Mag 1113680, Wilco 656995.",
   "Sylvan Esso Hot Slob aired as Stace's own radio edit (clean). The YTM archive entry (tH3ll9SA_k8) is the unedited single, which has FCC words (fuck x3)."
- ]
+ ],
+ "description": "Archive of Morning ZSU with DJ Stace on KZSU 90.1 FM Stanford, Wednesday, Oct. 7, 2026, 7-9 a.m. PT. 29 tracks in air order, pulled from the official KZSU Zookeeper playlist, so it includes on-air changes and requests. New and recent music: Twisted Teens, Little Barrie, Dinosaur Jr., Yard Act, Dread Spectre Council, Tricky, Lex Walton, Palace, Sluice, Sylvan Esso, This Is Lorelei, Fontaines D.C. Also in the mix: Radiohead, Joy Division, Spoon, Pixies, Arcade Fire, The Dirtbombs, Wilco. Theme: none. Today in Music: Joy Division, Transmission (Oct. 7, 1979); Thom Yorke birthday (Radiohead). Listen live at kzsu.stanford.edu. Archive built Oct. 7, 2026.",
+ "verified": "2026-10-08: YTM playlist PLSM27v5w-ZEM has 29 tracks in Zookeeper order; Zookeeper playlist 58312 has 29 spins; title and description confirmed on the page.",
+ "drive_folder": "KZSU/Archive/2026/10-07"
 }
