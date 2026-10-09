@@ -111,6 +111,34 @@
     "1ksLeqJt2CUae1Lh6U6CZJqbuA3oafz3t",
     "1gWlQJ4gSrIpEGXss-pfWGBvOSwCgiDha"
    ]
+  },
+  "notes_sheet_2026-10-15": {
+   "id": "1we63PTQy03BAGG33pQ_1C-V39v1QmewwKnRmWD4saMg",
+   "type": "sheet",
+   "folder": "Show Prep",
+   "deployed": "2026-10-09T14:24Z",
+   "working": "Working/notes_sheet_2026-10-15.csv (repo outputs/recon/2026-10-15/notes_sheet_2026-10-15.csv)",
+   "retired": [
+    "1gg9R14Xz7Ab4ERIn2cY_tIYeyGuYSYxrHYJeJd-rg3o"
+   ],
+   "note": "Redeployed once after the Basic Witch swap (IDLES Colossus opens). 45 rows plus header. No Cull or Replace ticks yet."
+  },
+  "working_show_script_2026-10-15": {
+   "id": null,
+   "type": "docx+pdf (raw files)",
+   "folder": "Show Prep",
+   "deployed": "2026-10-09T14:18Z",
+   "working": "Working/working_show_script_2026-10-15.md (data record); Word and PDF in Show Prep and repo outputs/recon/2026-10-15/",
+   "retired": [],
+   "note": "Landscape tables, 10 pages. Drive connector cannot set orientation on a Google Doc, so Word and PDF are the deliverables."
+  },
+  "review_suggestions_2026-10-09": {
+   "id": null,
+   "type": "md (raw file)",
+   "folder": "Show Prep",
+   "deployed": "2026-10-09T14:18Z",
+   "working": "outputs/reviews/review_suggestions_2026-10-09.md",
+   "retired": []
   }
  },
  "folders": {
