@@ -1,0 +1,129 @@
+{
+ "artist": "Death Valley Girls",
+ "album": "Welcome to Earth",
+ "label": "Suicide Squeeze Records",
+ "release_date": "2026-10-09",
+ "release_notes": [
+  "Sixth album from the Los Angeles band. Written after bandleader Bonnie Bloomgarden lost her Altadena home in the Eaton Fire, and her dog Tommy soon after.",
+  "Produced by Mark Rains and Bonnie Bloomgarden. Rains engineered and mixed at Station House; Stephen C Common mastered at Twin Hills Recording.",
+  "Bonnie Bloomgarden - organ, Juno 60, vocals; Laena Myers - guitar, vocals; Alana Amram - bass; Bailey Chapman - drums; Sarah Safaie - saxophone; Gregg Foreman - Wurlitzer, Rhodes, synth.",
+  "Guest voices include Laura Kelsey (The Kid), Seth Bogart (Hunx & His Punx), jazz singer Gretchen Parlato and a children's chorus (AllMusic, Bandcamp).",
+  "9 tracks, about 27 minutes. Fire and Brimstone first came out as a 2025 single, b/w Sisters of the Moon. Final single: How Losing Everything in the Fire Taught Me to Love Myself (Oct. 5, video by Dylan Mars Greenberg).",
+  "Out Oct. 9, 2026. Lyrics are posted for four of nine tracks; the other five are unscreened."
+ ],
+ "pull_quotes": [
+  {
+   "text": "an especially community-minded one",
+   "source": "AllMusic",
+   "url": "https://www.allmusic.com/album/welcome-to-earth-mw0004867433"
+  },
+  {
+   "text": "isn't your typical grief record",
+   "source": "The Spill Magazine",
+   "url": "https://spillmagazine.com/spill-album-review-death-valley-girls-welcome-to-earth/"
+  }
+ ],
+ "draft_comment": "Psychedelic garage punk with a sax and a crowd of guest singers, written after the Eaton Fire. AllMusic hears it as mostly uplifting.",
+ "riyl_suggestions": [
+  "Thee Oh Sees",
+  "The Black Angels",
+  "L.A. Witch",
+  "Hunx & His Punx"
+ ],
+ "tracks": [
+  {
+   "num": 1,
+   "title": "Welcome to Earth",
+   "runtime": "3:08",
+   "bpm": null,
+   "pace": "",
+   "fcc": "UNVERIFIED",
+   "notes": "Opener. AllMusic hears saxophones and wah-wah guitar."
+  },
+  {
+   "num": 2,
+   "title": "Basic Witch",
+   "runtime": "3:09",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "Features Seth Bogart (AllMusic). Already on the Weekly playlist.",
+   "fcc_source": "https://genius.com/Death-valley-girls-basic-witch-lyrics"
+  },
+  {
+   "num": 3,
+   "title": "Plant Magic",
+   "runtime": "2:50",
+   "bpm": null,
+   "pace": "",
+   "fcc": "UNVERIFIED",
+   "notes": "AllMusic calls it a song dedicated to renewal."
+  },
+  {
+   "num": 4,
+   "title": "Sing For Yourself",
+   "runtime": "3:45",
+   "bpm": null,
+   "pace": "",
+   "fcc": "UNVERIFIED",
+   "notes": "Longest track."
+  },
+  {
+   "num": 5,
+   "title": "Message From the Venus Flower",
+   "runtime": "2:42",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "Tribute to Bloomgarden's dog Tommy (AllMusic).",
+   "fcc_source": "https://genius.com/Death-valley-girls-message-from-the-venus-flower-lyrics"
+  },
+  {
+   "num": 6,
+   "title": "I love you",
+   "runtime": "2:50",
+   "bpm": null,
+   "pace": "",
+   "fcc": "UNVERIFIED",
+   "notes": ""
+  },
+  {
+   "num": 7,
+   "title": "Fire and Brimstone",
+   "runtime": "3:54",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "Earlier single (2025). Sarah Safaie on saxophone. The Spill Magazine calls it the best song.",
+   "fcc_source": "https://genius.com/Death-valley-girls-fire-and-brimstone-lyrics"
+  },
+  {
+   "num": 8,
+   "title": "Life So Far",
+   "runtime": "2:05",
+   "bpm": null,
+   "pace": "",
+   "fcc": "UNVERIFIED",
+   "notes": "Shortest track."
+  },
+  {
+   "num": 9,
+   "title": "How Losing Everything in the Fire Taught Me to Love Myself",
+   "runtime": "2:55",
+   "bpm": null,
+   "pace": "",
+   "fcc": "UNVERIFIED",
+   "notes": "Closer and final single (Oct. 5), with a Dylan Mars Greenberg video."
+  }
+ ],
+ "sources": [
+  "https://deathvalleygirls.bandcamp.com/album/welcome-to-earth",
+  "https://www.allmusic.com/album/welcome-to-earth-mw0004867433",
+  "https://spillmagazine.com/spill-album-review-death-valley-girls-welcome-to-earth/",
+  "https://suicidesqueeze.net/2026/10/death-valley-girls-release-welcome-to-earth-lp-this-friday-share-new-single/",
+  "Lyrics screened on Genius (counts only), tracks 2, 5 and 7. Tracks 1, 3, 4, 6, 8 and 9 have no lyrics posted on Genius or LRCLIB."
+ ],
+ "links": {
+  "ytm": "https://music.youtube.com/search?q=Death+Valley+Girls+Welcome+to+Earth"
+ }
+}

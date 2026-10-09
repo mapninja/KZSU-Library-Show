@@ -40,18 +40,20 @@
    ]
   },
   "review_shelf": {
-   "id": "1PRb9eZB9lsh3GIbV6yB6bW_A1xuqPE9de7FO4OMWqgY",
+   "id": "1c8HLi0BfdVMuR52yx6KJVuIrb6AVieJSJ7s1G2Lqdww",
    "type": "sheet",
    "folder": "KZSU top",
-   "deployed": "2026-10-05T04:16Z",
+   "deployed": "2026-10-09T16:25Z",
    "working": "Working/review_shelf.csv (mirror: repo data/staged/review_shelf.csv)",
    "retired": [
     "1_JNWDpkk3QIIUERXNMeptA6szTzrxvulXhr2v69ihM8",
     "1dzVYPNUWrSQ9SBTPEs676fOu9xwuRt-GJzTOqsnrV6M",
     "1rY7PatGmSGFQg5LdbdesnwTJKfjH6xaCH85lPvmYve4",
-    "1fPvv_v64PVn3_SswismkW1qPQlSJQJvkq5S3ffpteWU"
+    "1fPvv_v64PVn3_SswismkW1qPQlSJQJvkq5S3ffpteWU",
+    "1PRb9eZB9lsh3GIbV6yB6bW_A1xuqPE9de7FO4OMWqgY",
+    "1QNa8uUbiTV5Tr6wzN_xxt5zj_Og9GYRwdLs9iiTBbU0"
    ],
-   "note": "Columns fixed: Request, Artist, Album (link to YTM), Label (link to label page), Release date first."
+   "note": "Columns fixed: Request, Artist, Album (link to YTM), Label (link to label page), Release date first. Oct. 9: redeployed from the repo working copy (Friday sweep rows, Stace's 6 ticks, Tallest Man row added). Drive Working/ copy not updated (local Drive folder not connected)."
   },
   "review_templates_2026-10-04": {
    "folder": "Staged Reviews/Review Templates (1tHnkXsNSidy9BDtjnYBXwxibyqWl6een)",
@@ -139,6 +141,21 @@
    "deployed": "2026-10-09T14:18Z",
    "working": "outputs/reviews/review_suggestions_2026-10-09.md",
    "retired": []
+  },
+  "review_templates_2026-10-09": {
+   "folder": "Staged Reviews/Review Templates (1tHnkXsNSidy9BDtjnYBXwxibyqWl6een)",
+   "deployed": "2026-10-09T16:16Z",
+   "docs": {
+    "Death Valley Girls - Welcome to Earth": "1wgiimd-P-K4Demw-zbjqhFwOo3i8QuA1t7MHhiwUeTg",
+    "Stef Chura - Dancing Alone on the Concrete": "1dk3ifv-R1W4_7oCQT1ZeJL7NqJ3ppImgL6oR0wNrkJ8",
+    "Fontaines D.C. - Dopamine Chamber": "1AZtFJqo61sRASX71q8XByR6PqV0FGhTcv3gTBWSqnJE",
+    "Teenage Fanclub - Do Not Dare To Dream": "1s66tbge4KzWv79WSKvD4trscDBY4ArWhEoxA16n_qHA",
+    "L7 - Loma Linda": "1mH5iPGLW1Wiq4_XGWjX-ew-gOh3TOR53eZZMsHZxetU",
+    "Little Barrie - Luggin' Hurt": "1_9PgEkU6UDIcFy8M69CP85smBsuvzMwITEp22Nj7WrQ"
+   },
+   "retired": [
+    "147cO4XsjF5paSLFC0zJQB1Cxu6C3MxEO4DIWnfJzxEY"
+   ]
   }
  },
  "folders": {

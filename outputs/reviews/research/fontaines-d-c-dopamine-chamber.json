@@ -1,0 +1,144 @@
+{
+ "artist": "Fontaines D.C.",
+ "album": "Dopamine Chamber",
+ "label": "Xl Recordings",
+ "release_date": "2026-10-16",
+ "release_notes": [
+  "Fifth album from the Dublin band, after Romance (2024). Produced by James Ford, who also made Romance.",
+  "Recorded February 2025 to March 2026 at Narcissus Studios in London and Decoy Studios in Suffolk. Marta Salogni engineered; Matt Colton mastered (Wikipedia).",
+  "Grian Chatten - vocals, guitar; Carlos O'Connell - guitar, synths; Conor Curley - guitar; Conor Deegan - bass; Tom Coll - drums.",
+  "Rosalía guests on Where Is Gone?, the band's first guest on a record. Strings arranged by Chatten, Richard Jones, Laura Moody and Elysian Collective.",
+  "Singles: Marianne (Aug. 18) and Tongue (Sept. 30). 11 tracks, 43:59. Out Oct. 16, 2026.",
+  "Not out yet: lyrics are posted for four tracks only. Seven are unscreened."
+ ],
+ "pull_quotes": [
+  {
+   "text": "more mechanical extremes and orchestral noir flourishes",
+   "source": "NME",
+   "url": "https://www.nme.com/reviews/track/fontaines-d-c-marianne-track-review-new-album-dopamine-machine-lyrics-3963231"
+  }
+ ],
+ "draft_comment": "Dublin's finest, again with James Ford. Early press hears more synths, drum machines and strings than guitars. Tongue is an FCC edit.",
+ "riyl_suggestions": [
+  "IDLES",
+  "Shame",
+  "Interpol",
+  "Yard Act",
+  "Joy Division"
+ ],
+ "tracks": [
+  {
+   "num": 1,
+   "title": "Six Shot Morning",
+   "runtime": "4:56",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "Opener. Teased Aug. 15 and played live in Cádiz in August.",
+   "fcc_source": "https://genius.com/Fontaines-dc-six-shot-morning-lyrics"
+  },
+  {
+   "num": 2,
+   "title": "Marianne",
+   "runtime": "3:45",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "Lead single (Aug. 18), with a Dave Meyers video. NME hears Depeche Mode synths and Lynchian strings.",
+   "fcc_source": "https://genius.com/Fontaines-dc-marianne-lyrics"
+  },
+  {
+   "num": 3,
+   "title": "Mimesis",
+   "runtime": "3:51",
+   "bpm": null,
+   "pace": "",
+   "fcc": "UNVERIFIED",
+   "notes": ""
+  },
+  {
+   "num": 4,
+   "title": "Happy For You",
+   "runtime": "3:48",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "Debuted live at Leeds Festival, Aug. 29.",
+   "fcc_source": "https://genius.com/Fontaines-dc-happy-for-you-lyrics"
+  },
+  {
+   "num": 5,
+   "title": "Demolition",
+   "runtime": "3:19",
+   "bpm": null,
+   "pace": "",
+   "fcc": "UNVERIFIED",
+   "notes": ""
+  },
+  {
+   "num": 6,
+   "title": "Tongue",
+   "runtime": "3:13",
+   "bpm": null,
+   "pace": "",
+   "fcc": "FCC \"shit\" x10 (Refrain)",
+   "notes": "Second single (Sept. 30). In FCC Edit Needed.",
+   "fcc_source": "https://genius.com/Fontaines-dc-tongue-lyrics"
+  },
+  {
+   "num": 7,
+   "title": "One Man",
+   "runtime": "4:58",
+   "bpm": null,
+   "pace": "",
+   "fcc": "UNVERIFIED",
+   "notes": ""
+  },
+  {
+   "num": 8,
+   "title": "Where Is Gone? (with ROSALÍA)",
+   "runtime": "5:16",
+   "bpm": null,
+   "pace": "",
+   "fcc": "UNVERIFIED",
+   "notes": "Features Rosalía. Longest track."
+  },
+  {
+   "num": 9,
+   "title": "You Miss Me",
+   "runtime": "3:35",
+   "bpm": null,
+   "pace": "",
+   "fcc": "UNVERIFIED",
+   "notes": ""
+  },
+  {
+   "num": 10,
+   "title": "Japan",
+   "runtime": "3:15",
+   "bpm": null,
+   "pace": "",
+   "fcc": "UNVERIFIED",
+   "notes": ""
+  },
+  {
+   "num": 11,
+   "title": "Intimate",
+   "runtime": "3:57",
+   "bpm": null,
+   "pace": "",
+   "fcc": "UNVERIFIED",
+   "notes": "Closer."
+  }
+ ],
+ "sources": [
+  "https://fontainesdc.bandcamp.com/album/dopamine-chamber",
+  "https://en.wikipedia.org/wiki/Dopamine_Chamber",
+  "https://www.nme.com/reviews/track/fontaines-d-c-marianne-track-review-new-album-dopamine-machine-lyrics-3963231",
+  "https://www.nme.com/news/music/fontaines-d-c-share-dopamine-chamber-tracklist-featuring-collab-with-rosalia-3969431",
+  "Lyrics screened on Genius (counts only): tracks 1, 2, 4 and 6. Others unreleased."
+ ],
+ "links": {
+  "ytm": "https://music.youtube.com/search?q=Fontaines+D.C.+Dopamine+Chamber"
+ }
+}

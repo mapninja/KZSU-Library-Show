@@ -12,6 +12,27 @@
    "rows_added": 13,
    "source": "Stereogum, Indy Review New Music Friday, label and press pages",
    "ticked_requests_waiting": 0
+  },
+  {
+   "date": "2026-10-09",
+   "trigger": "Friday sweep",
+   "rows_added": 8,
+   "source": "NPR New Music Friday, Radio Milwaukee, release DB (upcoming_releases)",
+   "ticked_requests_waiting": "Sheet read Oct. 9: x on Death Valley Girls, Stef Chura, Sharp Pins, Little Barrie, Twisted Teens, Fontaines D.C., Teenage Fanclub, L7, Palace",
+   "deploy": "not deployed: Drive local folder not connected; additions CSV written to outputs/. Live Sheet 1QNa8uUbiTV5Tr6wzN_xxt5zj_Og9GYRwdLs9iiTBbU0 has a scrambled top (blank rows, Jess Williamson row shows Tallest Man album); repo CSV is the clean copy."
+  },
+  {
+   "date": "2026-10-09",
+   "trigger": "Tuesday/Friday review templates",
+   "templates": [
+    "Death Valley Girls",
+    "Stef Chura",
+    "Teenage Fanclub (rebuilt, 10 tracks)",
+    "Fontaines D.C. (pre-release)",
+    "L7 single",
+    "Little Barrie Luggin' Hurt single"
+   ],
+   "deploy": "Review Shelf redeployed as 1c8HLi0BfdVMuR52yx6KJVuIrb6AVieJSJ7s1G2Lqdww; old sheet in _to_delete."
   }
  ]
 }

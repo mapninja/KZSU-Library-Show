@@ -5,17 +5,22 @@
  "release_date": "2026-10-09",
  "release_notes": [
   "Thirteenth studio album, after Nothing Lasts Forever (2023). Merge cat. MRG892.",
-  "Produced by the band. Recorded in 14 days at Black Bay Studio in Kirkibost on Great Bernera, Outer Hebrides; mixed and mastered in Glasgow by Dexter George. A church organ at the studio is on several songs.",
+  "Produced by the band. Full-band parts recorded at Black Bay Studio in Kirkibost on Great Bernera, Outer Hebrides; vocals added at home in Glasgow; mixed and mastered in Glasgow by Dexter George.",
   "Norman Blake - vocals, guitar; Raymond McGinley - vocals, guitar; Euros Childs - keyboards, vocals; Francis Macdonald - drums; David McGowan - bass.",
   "Singles: Day In The Sun (announced July 23, 2026) and There Was You (Aug. 19), both with Donald Milne videos.",
   "10 tracks, about 39 minutes. Blake wrote 1, 4, 6, 8 and 9; McGinley wrote 2, 3, 5, 7 and 10 (Bandcamp). No covers.",
-  "Out Oct. 9, 2026, so no lyrics are posted yet. All tracks are unscreened for FCC words."
+  "Out Oct. 9, 2026. Lyrics are posted for all ten tracks and all screened clean."
  ],
  "pull_quotes": [
   {
    "text": "wrap up sombre reflections on life in a gentle melodic glow",
    "source": "MOJO",
    "url": "https://www.mojo4music.com/articles/new-music/teenage-fanclub-do-not-dare-to-dream-review/"
+  },
+  {
+   "text": "sunny harmonies, chiming guitars and a general warm demeanour",
+   "source": "musicOMH",
+   "url": "https://www.musicomh.com/reviews/albums/teenage-fanclub-do-not-dare-to-dream"
   }
  ],
  "draft_comment": "Glasgow's harmony pop veterans, recorded in 14 days in the Outer Hebrides with Euros Childs on keys. Mid-tempo, warm and Byrds-leaning.",
@@ -30,38 +35,42 @@
   {
    "num": 1,
    "title": "There Was You",
-   "runtime": "3:29",
+   "runtime": "3:28",
    "bpm": null,
    "pace": "",
-   "fcc": "UNVERIFIED",
-   "notes": "Blake song. Second single (Aug. 19). The Indy Review hears Big Star-ish guitar pop."
+   "fcc": "CLEAN",
+   "notes": "Blake song. Second single (Aug. 19). The Indy Review hears Big Star-ish guitar pop.",
+   "fcc_source": "https://genius.com/Teenage-fanclub-there-was-you-lyrics"
   },
   {
    "num": 2,
    "title": "Tomorrow People",
-   "runtime": "5:16",
+   "runtime": "5:15",
    "bpm": null,
    "pace": "",
-   "fcc": "UNVERIFIED",
-   "notes": "McGinley song, the longest track. Childs adds a Solina String Ensemble (MOJO)."
+   "fcc": "CLEAN",
+   "notes": "McGinley song, the longest track. Childs adds a Solina String Ensemble (MOJO).",
+   "fcc_source": "https://genius.com/Teenage-fanclub-tomorrow-people-lyrics"
   },
   {
    "num": 3,
    "title": "Over And Over",
-   "runtime": "4:23",
+   "runtime": "4:22",
    "bpm": null,
    "pace": "",
-   "fcc": "UNVERIFIED",
-   "notes": "McGinley song. Church organ under chiming guitars (The Indy Review)."
+   "fcc": "CLEAN",
+   "notes": "McGinley song. Church organ under chiming guitars (The Indy Review).",
+   "fcc_source": "https://genius.com/Teenage-fanclub-over-and-over-lyrics"
   },
   {
    "num": 4,
    "title": "Be With You Tonight",
-   "runtime": "3:31",
+   "runtime": "3:30",
    "bpm": null,
    "pace": "",
-   "fcc": "UNVERIFIED",
-   "notes": "Blake song."
+   "fcc": "CLEAN",
+   "notes": "Blake song.",
+   "fcc_source": "https://genius.com/Teenage-fanclub-be-with-you-tonight-lyrics"
   },
   {
    "num": 5,
@@ -69,17 +78,19 @@
    "runtime": "4:08",
    "bpm": null,
    "pace": "",
-   "fcc": "UNVERIFIED",
-   "notes": "McGinley song."
+   "fcc": "CLEAN",
+   "notes": "McGinley song.",
+   "fcc_source": "https://genius.com/Teenage-fanclub-the-same-air-lyrics"
   },
   {
    "num": 6,
    "title": "I Do Not Dare To Dream",
-   "runtime": "4:37",
+   "runtime": "4:36",
    "bpm": null,
    "pace": "",
-   "fcc": "UNVERIFIED",
-   "notes": "Blake song, title track. MOJO hears CSNY; The Indy Review hears 1970s Laurel Canyon."
+   "fcc": "CLEAN",
+   "notes": "Blake song, title track. MOJO hears CSNY; The Indy Review hears 1970s Laurel Canyon.",
+   "fcc_source": "https://genius.com/Teenage-fanclub-i-do-not-dare-to-dream-lyrics"
   },
   {
    "num": 7,
@@ -87,8 +98,9 @@
    "runtime": "3:50",
    "bpm": null,
    "pace": "",
-   "fcc": "UNVERIFIED",
-   "notes": "McGinley song. Childs on Mellotron flutes; Far Out places it in 1960s psychedelic tradition."
+   "fcc": "CLEAN",
+   "notes": "McGinley song. Childs on Mellotron flutes; Far Out places it in 1960s psychedelic tradition.",
+   "fcc_source": "https://genius.com/Teenage-fanclub-take-time-lyrics"
   },
   {
    "num": 8,
@@ -96,8 +108,9 @@
    "runtime": "3:10",
    "bpm": null,
    "pace": "",
-   "fcc": "UNVERIFIED",
-   "notes": "Blake song. First single, with a Donald Milne video."
+   "fcc": "CLEAN",
+   "notes": "Blake song. First single, with a Donald Milne video. musicOMH calls it shimmering and optimistic.",
+   "fcc_source": "https://genius.com/Teenage-fanclub-day-in-the-sun-lyrics"
   },
   {
    "num": 9,
@@ -105,8 +118,9 @@
    "runtime": "3:29",
    "bpm": null,
    "pace": "",
-   "fcc": "UNVERIFIED",
-   "notes": "Blake song."
+   "fcc": "CLEAN",
+   "notes": "Blake song (Bandcamp). musicOMH attributes it to McGinley.",
+   "fcc_source": "https://genius.com/Teenage-fanclub-somewhere-to-land-lyrics"
   },
   {
    "num": 10,
@@ -114,20 +128,20 @@
    "runtime": "3:06",
    "bpm": null,
    "pace": "",
-   "fcc": "UNVERIFIED",
-   "notes": "McGinley song. Closer."
+   "fcc": "CLEAN",
+   "notes": "McGinley song. Closer and shortest track.",
+   "fcc_source": "https://genius.com/Teenage-fanclub-young-and-wise-lyrics"
   }
  ],
  "sources": [
   "https://teenage-fanclub.bandcamp.com/album/do-not-dare-to-dream",
-  "https://www.mergerecords.com/product/do_not_dare_to_dream",
-  "https://www.mergerecords.com/news/6521",
-  "https://boomkat.com/artists/teenage-fanclub/releases/a8nrazut/do-not-dare-to-dream",
-  "https://www.qobuz.com/no-en/album/do-not-dare-to-dream-teenage-fanclub/mcw8fl1efniwu",
   "https://www.mojo4music.com/articles/new-music/teenage-fanclub-do-not-dare-to-dream-review/",
+  "https://www.musicomh.com/reviews/albums/teenage-fanclub-do-not-dare-to-dream",
   "https://theindyreview.com/2026/10/07/album-review-teenage-fanclub-do-not-dare-to-dream/",
   "https://faroutmagazine.co.uk/teenage-fanclub-do-not-dare-to-dream-album-review/",
-  "Runtimes from third-party listings (jazz-jazz.com, Boomkat, Qobuz). Verify once the album is live Oct. 9."
+  "Rebuilt Oct. 9 from the live Bandcamp tracklist (10 tracks; the Oct. 8 draft listed 9). Lyrics screened on Genius (counts only)."
  ],
- "links": {}
+ "links": {
+  "ytm": "https://music.youtube.com/search?q=Teenage+Fanclub+Do+Not+Dare+To+Dream"
+ }
 }
