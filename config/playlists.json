@@ -20,6 +20,12 @@
    "order": "forward",
    "mode": "ADD only; never clear; Stace deletes stale tracks; log her deletes (60-day cool-off)"
   },
+  "new_releases_review": {
+   "title": "New Releases for Review",
+   "id": null,
+   "order": "newest first (set Sort > Newest first so saves land on top)",
+   "mode": "Tue and Fri 8:20 a.m. via skills/kzsu-new-releases-review; ADD new singles and lead tracks on top; remove only tracks Claude added once 14 days old; never remove tracks Stace added; log her deletes. Ledger: data/new_releases_review/ledger.json"
+  },
   "fcc_edit_needed": {
    "title": "FCC Edit Needed",
    "id": "PLMduzOohHQLoN-Bq1XuSpyqe1i5JffIad",

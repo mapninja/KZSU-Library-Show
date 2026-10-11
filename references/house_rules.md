@@ -96,3 +96,4 @@
 - Review Shelf deploy: the working copy keeps "Album link" and "Label link" columns; the uploaded CSV drops them and writes Album and Label as `=HYPERLINK()` formulas.
 - Git in the sandbox: commit with `git -c user.name="DJ Stace (Claude)" -c user.email="maples@stanford.edu" commit ...`; the token is `github_token` in `.env`. Push with `HEAD:main` (reviews repo: `HEAD:master`) and confirm with `git ls-remote`.
 - FCC audio edits: `scripts/fcc_audio_edit.py` exists but is parked (Whisper model download blocked in the sandbox). Do not run it on a schedule.
+- New Releases for Review (`new_releases_review`) is the one playlist where Claude removes tracks: only tracks Claude added, 14 days after the add date (ledger `expires`), never ones Stace added. Her deletes are logged as 60-day cool-offs. See skills/kzsu-new-releases-review/SKILL.md.
