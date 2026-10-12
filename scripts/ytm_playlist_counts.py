@@ -53,6 +53,14 @@ EXCLUDE_PATTERNS = [
     # until Sept. 30, 2026, then renamed "Stace's Weekly Playlist."
     # Match both names so assistant picks never count as her taste.
     r"stace's (daily|weekly) playlist",
+    # Added Oct. 11, 2026. More assistant-built or duplicate lists:
+    r"new releases for review",   # assistant picks, Tuesday and Friday
+    r"morning zsu",               # one-off show lists (Air Order, Working, archive)
+    r"library specialty",         # assistant suggestion lists for themed shows
+    r"college radio top 50",      # chart copy, not her taste
+    r"kzsu current adds",         # station adds filtered by the assistant
+    # Aired-show archive lists repeat what Zookeeper airplay already counts.
+    r"the library show on kzsu",
 ]
 
 # Guessed weights for playlists we haven't seen before. First match wins.
