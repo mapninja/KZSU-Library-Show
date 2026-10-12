@@ -40,12 +40,13 @@
    ]
   },
   "review_shelf": {
-   "id": "1c8HLi0BfdVMuR52yx6KJVuIrb6AVieJSJ7s1G2Lqdww",
+   "id": "11QBWd_ZhiASLbcZxtkymc4ZocPaKPa3Q5osApEgoCig",
    "type": "sheet",
    "folder": "KZSU top",
-   "deployed": "2026-10-09T16:25Z",
+   "deployed": "2026-10-12T14:50Z",
    "working": "Working/review_shelf.csv (mirror: repo data/staged/review_shelf.csv)",
    "retired": [
+    "1c8HLi0BfdVMuR52yx6KJVuIrb6AVieJSJ7s1G2Lqdww",
     "1_JNWDpkk3QIIUERXNMeptA6szTzrxvulXhr2v69ihM8",
     "1dzVYPNUWrSQ9SBTPEs676fOu9xwuRt-GJzTOqsnrV6M",
     "1rY7PatGmSGFQg5LdbdesnwTJKfjH6xaCH85lPvmYve4",
@@ -53,7 +54,8 @@
     "1PRb9eZB9lsh3GIbV6yB6bW_A1xuqPE9de7FO4OMWqgY",
     "1QNa8uUbiTV5Tr6wzN_xxt5zj_Og9GYRwdLs9iiTBbU0"
    ],
-   "note": "Columns fixed: Request, Artist, Album (link to YTM), Label (link to label page), Release date first. Oct. 9: redeployed from the repo working copy (Friday sweep rows, Stace's 6 ticks, Tallest Man row added). Drive Working/ copy not updated (local Drive folder not connected)."
+   "note": "Oct. 12 Monday intake: added more eaze, Autumn Luz, The Yutes (ADDS 10/13). 97 rows, 22 ticks kept. Working/review_shelf.csv now mirrors repo copy. Old sheet moved to _to_delete.",
+   "hash": "8a3452070616a85b9323ae19a85929cc"
   },
   "review_templates_2026-10-04": {
    "folder": "Staged Reviews/Review Templates (1tHnkXsNSidy9BDtjnYBXwxibyqWl6een)",

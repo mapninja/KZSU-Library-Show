@@ -33,6 +33,18 @@
     "Little Barrie Luggin' Hurt single"
    ],
    "deploy": "Review Shelf redeployed as 1c8HLi0BfdVMuR52yx6KJVuIrb6AVieJSJ7s1G2Lqdww; old sheet in _to_delete."
+  },
+  {
+   "date": "2026-10-12",
+   "trigger": "Monday intake",
+   "rows_added": [
+    "more eaze - valley and structure",
+    "Autumn Luz - Cobalt",
+    "The Yutes - Rebellious Souls"
+   ],
+   "source": "md@kzsu promo (KZSU Gmail), ADDS 10/13",
+   "ticked_requests_waiting": "none new",
+   "deploy": "see data/drive_registry.json"
   }
  ]
 }

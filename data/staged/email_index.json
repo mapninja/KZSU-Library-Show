@@ -187,5 +187,13 @@
   "uri": "gmail:to:md@kzsu.stanford.edu after:2026/09/03",
   "items_extracted": 11,
   "kind": "md_list_promo"
+ },
+ {
+  "date": "2026-10-12",
+  "subject": "md@kzsu promo scan 2026-10-01..2026-10-12 (KZSU Gmail, 12 threads; 3 new items). Outlook: no new Mark or chartman mail since Sept. 3",
+  "sender": "md@kzsu.stanford.edu",
+  "uri": "gmail:to:md@kzsu.stanford.edu after:2026/10/01",
+  "items_extracted": 3,
+  "kind": "md_list_promo"
  }
 ]
