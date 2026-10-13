@@ -45,6 +45,25 @@
    "source": "md@kzsu promo (KZSU Gmail), ADDS 10/13",
    "ticked_requests_waiting": "none new",
    "deploy": "see data/drive_registry.json"
+  },
+  {
+   "date": "2026-10-13",
+   "trigger": "Tuesday sweep (new releases)",
+   "rows_added": [
+    "Queens of the Stone Age - Perfecth",
+    "Twisted Teens - The Holy Cross Tigers",
+    "Jozef Van Wissem & Jim Jarmusch - Bocca di Lupo / Mouth of the Wolf",
+    "TV Priest - Cartoons",
+    "PISS - you made me / skin on linen",
+    "The Avalanches - No Bad Memories",
+    "Fujiya & Miyagi - New Shiny Object",
+    "Spiral XP - Blue Earth (EP)",
+    "American Motors - Functional Music",
+    "David Byrne & Daniel Pemberton - Let Me Sell You A Dream (single)"
+   ],
+   "source": "Tuesday sweep, web research",
+   "ticked_requests_waiting": "none new (22 ticks all done or earlier)",
+   "deploy": "Review Shelf redeployed as 16_hzYARZ0LKts80BexBgNqDA-4a4UU7EEfxo1Ux0BCQ; old sheet in _to_delete."
   }
  ]
 }

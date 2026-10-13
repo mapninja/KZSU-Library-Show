@@ -40,10 +40,10 @@
    ]
   },
   "review_shelf": {
-   "id": "11QBWd_ZhiASLbcZxtkymc4ZocPaKPa3Q5osApEgoCig",
+   "id": "16_hzYARZ0LKts80BexBgNqDA-4a4UU7EEfxo1Ux0BCQ",
    "type": "sheet",
    "folder": "KZSU top",
-   "deployed": "2026-10-12T14:50Z",
+   "deployed": "2026-10-13T13:52Z",
    "working": "Working/review_shelf.csv (mirror: repo data/staged/review_shelf.csv)",
    "retired": [
     "1c8HLi0BfdVMuR52yx6KJVuIrb6AVieJSJ7s1G2Lqdww",
@@ -52,10 +52,11 @@
     "1rY7PatGmSGFQg5LdbdesnwTJKfjH6xaCH85lPvmYve4",
     "1fPvv_v64PVn3_SswismkW1qPQlSJQJvkq5S3ffpteWU",
     "1PRb9eZB9lsh3GIbV6yB6bW_A1xuqPE9de7FO4OMWqgY",
-    "1QNa8uUbiTV5Tr6wzN_xxt5zj_Og9GYRwdLs9iiTBbU0"
+    "1QNa8uUbiTV5Tr6wzN_xxt5zj_Og9GYRwdLs9iiTBbU0",
+    "11QBWd_ZhiASLbcZxtkymc4ZocPaKPa3Q5osApEgoCig"
    ],
-   "note": "Oct. 12 Monday intake: added more eaze, Autumn Luz, The Yutes (ADDS 10/13). 97 rows, 22 ticks kept. Working/review_shelf.csv now mirrors repo copy. Old sheet moved to _to_delete.",
-   "hash": "8a3452070616a85b9323ae19a85929cc"
+   "note": "Oct. 13 Tuesday sweep: added 10 new-release rows (QOTSA Perfecth, Twisted Teens Holy Cross Tigers, Van Wissem and Jarmusch, TV Priest, PISS, The Avalanches, Fujiya & Miyagi, Spiral XP, American Motors, David Byrne single). 107 rows, 22 ticks kept. No Stace edits since Oct. 12 deploy, so no harvest. Old sheet moved to _to_delete.",
+   "hash": "e56925d68dc0da0a2922fcd96727577c"
   },
   "review_templates_2026-10-04": {
    "folder": "Staged Reviews/Review Templates (1tHnkXsNSidy9BDtjnYBXwxibyqWl6een)",
@@ -117,15 +118,17 @@
    ]
   },
   "notes_sheet_2026-10-15": {
-   "id": "1we63PTQy03BAGG33pQ_1C-V39v1QmewwKnRmWD4saMg",
+   "id": "1pKLlJiLXXoQsWq3TPZevxnU8QsC0Snx2owHxsyX6Hwc",
    "type": "sheet",
    "folder": "Show Prep",
-   "deployed": "2026-10-09T14:24Z",
+   "deployed": "2026-10-13T13:47Z",
    "working": "Working/notes_sheet_2026-10-15.csv (repo outputs/recon/2026-10-15/notes_sheet_2026-10-15.csv)",
    "retired": [
-    "1gg9R14Xz7Ab4ERIn2cY_tIYeyGuYSYxrHYJeJd-rg3o"
+    "1gg9R14Xz7Ab4ERIn2cY_tIYeyGuYSYxrHYJeJd-rg3o",
+    "1we63PTQy03BAGG33pQ_1C-V39v1QmewwKnRmWD4saMg"
    ],
-   "note": "Redeployed once after the Basic Witch swap (IDLES Colossus opens). 45 rows plus header. No Cull or Replace ticks yet."
+   "note": "Redeployed Oct. 13 (Tuesday sweep) to sync Stace Air Order edits: cut Dazy, Death Cab A Movie Script Ending, Jess Williamson; added Velvet Underground Venus In Furs and Death Cab Coney Island. 44 rows plus header. No Cull or Replace ticks to harvest.",
+   "hash": "c1215e9c945258d59af19fca00b5d92c"
   },
   "working_show_script_2026-10-15": {
    "id": null,

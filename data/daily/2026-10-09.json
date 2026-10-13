@@ -1,0 +1,207 @@
+{
+ "date": "2026-10-09",
+ "run": "Friday sweep",
+ "target_show": "2026-10-15",
+ "playlist": "PLCLF-Tik2UHk",
+ "before": 113,
+ "after": 137,
+ "fcc_edit_needed_added": [
+  "x7qqmdoX_Ls",
+  "on6DxBgfsDY"
+ ],
+ "zookeeper": "blocked by bot check in built-in browser; labels from past spins or web (verify); tags blank",
+ "adds": [
+  {
+   "artist": "Teenage Fanclub",
+   "title": "Be With You Tonight",
+   "videoId": "fRp1NHpFmec",
+   "bucket": "new release",
+   "label": "Merge Records",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Teenage Fanclub",
+   "title": "Tomorrow People",
+   "videoId": "Wwb384ss-GQ",
+   "bucket": "new release",
+   "label": "Merge Records",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Imperial Teen",
+   "title": "All Over You",
+   "videoId": "a6Mo3rVVbNU",
+   "bucket": "new release",
+   "label": "Merge (verify)",
+   "fcc": "UNVERIFIED"
+  },
+  {
+   "artist": "BODEGA",
+   "title": "Olivia",
+   "videoId": "jqxlf-H3Gsk",
+   "bucket": "new release",
+   "label": "Chrysalis Records",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "BODEGA",
+   "title": "Combustible",
+   "videoId": "Ug5BfWJiZJA",
+   "bucket": "new release",
+   "label": "Chrysalis Records",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Death Valley Girls",
+   "title": "Welcome to Earth",
+   "videoId": "qAzvVmyfYuQ",
+   "bucket": "new release",
+   "label": "Suicide Squeeze (verify)",
+   "fcc": "UNVERIFIED"
+  },
+  {
+   "artist": "Jess Williamson",
+   "title": "High Heels and Blue Jeans",
+   "videoId": "j_rN2984eG0",
+   "bucket": "new release",
+   "label": "New West (verify)",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Jess Williamson",
+   "title": "A Mile South of Heaven",
+   "videoId": "H-ZpnkdMYrM",
+   "bucket": "new release",
+   "label": "New West (verify)",
+   "fcc": "UNVERIFIED"
+  },
+  {
+   "artist": "Cameron Winter",
+   "title": "It All Fell in the River (Live at Carnegie Hall)",
+   "videoId": "P-XUpEdR10k",
+   "bucket": "new release",
+   "label": "Partisan (verify)",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "The Tallest Man On Earth",
+   "title": "Just Beyond Endless Mountain",
+   "videoId": "OYtELuCAQ0Q",
+   "bucket": "new release",
+   "label": "Anti- (verify)",
+   "fcc": "UNVERIFIED"
+  },
+  {
+   "artist": "Jamie T",
+   "title": "All I Wanna See Is Now",
+   "videoId": "oF6HGK3abhE",
+   "bucket": "new release",
+   "label": "",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Buzzcocks",
+   "title": "Ever Fallen In Love (With Someone You Shouldn't've)",
+   "videoId": "aUVVRyjiVzo",
+   "bucket": "punk uk77",
+   "label": "I.R.S. Records",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Buzzcocks",
+   "title": "Orgasm Addict",
+   "videoId": "x7qqmdoX_Ls",
+   "bucket": "punk uk77",
+   "label": "I.R.S. Records",
+   "fcc": "FCC fucking x1 (Verse 4), fuckie x1 (Verse 6)"
+  },
+  {
+   "artist": "Stiff Little Fingers",
+   "title": "Suspect Device",
+   "videoId": "on6DxBgfsDY",
+   "bucket": "punk uk77",
+   "label": "One Way Records",
+   "fcc": "FCC fuck x1 (line 1)"
+  },
+  {
+   "artist": "Stiff Little Fingers",
+   "title": "Alternative Ulster",
+   "videoId": "PlGmYetiCjA",
+   "bucket": "punk uk77",
+   "label": "One Way Records",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "The Clash",
+   "title": "Complete Control",
+   "videoId": "u6ZWV7cCK5A",
+   "bucket": "punk uk77",
+   "label": "Epic Records (verify)",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Sex Pistols",
+   "title": "Pretty Vacant",
+   "videoId": "2sQaJNtbSzI",
+   "bucket": "punk uk77; Warfield Oct. 14",
+   "label": "Warner Bros. Records",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "The Damned",
+   "title": "Neat Neat Neat",
+   "videoId": "gXKDtkCzSCw",
+   "bucket": "punk uk77",
+   "label": "Stiff Records (verify)",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Fugazi",
+   "title": "Full Disclosure",
+   "videoId": "V9WCjEsPP0U",
+   "bucket": "anniversary 25 (The Argument, Oct. 2001)",
+   "label": "Dischord Records",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "IDLES",
+   "title": "Colossus",
+   "videoId": "hoDWTZYkTDY",
+   "bucket": "punk current",
+   "label": "Partisan Records",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Avengers",
+   "title": "We Are the One",
+   "videoId": "dJDSyCr4Dz8",
+   "bucket": "bay area Oct. 9 Regency",
+   "label": "Dangerhouse (verify)",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Flipper",
+   "title": "Sex Bomb (7\")",
+   "videoId": "X-H6xFBpy6I",
+   "bucket": "bay area Oct. 9 Regency",
+   "label": "Subterranean (verify)",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Heavens to Betsy",
+   "title": "Calculated",
+   "videoId": "LND24yCMEdY",
+   "bucket": "bay area Oct. 17-18 Bottom of the Hill",
+   "label": "Kill Rock Stars (verify)",
+   "fcc": "UNVERIFIED"
+  },
+  {
+   "artist": "Tune-Yards",
+   "title": "Bizness",
+   "videoId": "AbgoT8VicNI",
+   "bucket": "bay area Oct. 10 Point San Pablo",
+   "label": "4AD",
+   "fcc": "CLEAN"
+  }
+ ]
+}

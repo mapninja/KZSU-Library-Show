@@ -1,0 +1,124 @@
+{
+ "date": "2026-10-13",
+ "run": "Tuesday sweep (singles and announcements)",
+ "target_show": "2026-10-15",
+ "playlist": "PLCLF-Tik2UHk",
+ "before": 142,
+ "after": 156,
+ "fcc_edit_needed_added": [],
+ "zookeeper": "blocked by Turnstile bot check in built-in browser; labels from web (verify); tags blank",
+ "adds": [
+  {
+   "artist": "Dummy",
+   "title": "Full Spectrum Dominance",
+   "videoId": "FEeoIbUM60s",
+   "bucket": "new release",
+   "label": "Polyvinyl Record Co.",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "The Avalanches",
+   "title": "Can't Get Over Losing You (feat. Portraits Of Tracy)",
+   "videoId": "eLlkJ88sMC0",
+   "bucket": "new release",
+   "label": "Modular Recordings (verify)",
+   "fcc": "CAUTION goddamn x2 (Verse 1, Bridge)"
+  },
+  {
+   "artist": "The Avalanches",
+   "title": "Blue Shadows (feat. Karen O)",
+   "videoId": "nybyN7_98zw",
+   "bucket": "new release",
+   "label": "Modular Recordings (verify)",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Fontaines D.C. & ROSALIA",
+   "title": "Where Is Gone?",
+   "videoId": "3mb6YrCabso",
+   "bucket": "new release",
+   "label": "XL Recordings (verify)",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Spiral XP",
+   "title": "Faith Electric",
+   "videoId": "vK5DLybUq7Q",
+   "bucket": "new release",
+   "label": "Danger Collective / Den Tapes (verify)",
+   "fcc": "UNVERIFIED"
+  },
+  {
+   "artist": "Fujiya & Miyagi",
+   "title": "No Green Light",
+   "videoId": "K5l80OdiCzM",
+   "bucket": "new release",
+   "label": "Impossible Objects of Desire (verify)",
+   "fcc": "UNVERIFIED"
+  },
+  {
+   "artist": "Queens of the Stone Age",
+   "title": "Where The Goth Girls At?",
+   "videoId": "9jA_Bg_r_cw",
+   "bucket": "new release",
+   "label": "Matador Records (verify)",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "PISS",
+   "title": "time loop at hot slit",
+   "videoId": "5RUwqH9qVV8",
+   "bucket": "new release",
+   "label": "Sub Pop Records (verify)",
+   "fcc": "CAUTION bitch x1"
+  },
+  {
+   "artist": "David Byrne & Daniel Pemberton",
+   "title": "Let Me Sell You A Dream",
+   "videoId": "GE4EvRJ2AQ8",
+   "bucket": "new release",
+   "label": "Matador Records (verify)",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Twisted Teens",
+   "title": "Stalks",
+   "videoId": "mDYeisr6Gro",
+   "bucket": "new release",
+   "label": "Sub Pop Records (verify)",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Jozef Van Wissem & Jim Jarmusch",
+   "title": "Never Like You Said (feat. Courtney Barnett)",
+   "videoId": "3GytZtSR-lw",
+   "bucket": "new release",
+   "label": "Sacred Bones Records (verify)",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "TV Priest",
+   "title": "Cartoons",
+   "videoId": "AdS6TodChfs",
+   "bucket": "new release",
+   "label": "AMK / Kartel Music Group (verify)",
+   "fcc": "UNVERIFIED"
+  },
+  {
+   "artist": "American Motors",
+   "title": "marlboro miles",
+   "videoId": "en3seCQFVpg",
+   "bucket": "new release",
+   "label": "Expert Work / The Ghost Is Clear (verify)",
+   "fcc": "UNVERIFIED"
+  },
+  {
+   "artist": "Awning",
+   "title": "Little Green Book",
+   "videoId": "HQR3ynC-mOs",
+   "bucket": "new release",
+   "label": "unverified",
+   "fcc": "UNVERIFIED"
+  }
+ ]
+}

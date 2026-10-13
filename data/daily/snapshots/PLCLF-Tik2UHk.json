@@ -1,8 +1,8 @@
 {
  "playlist": "Stace's Weekly Playlist",
  "id": "PLCLF-Tik2UHk",
- "snapshot": "2026-10-06",
- "note": "Oct. 6 read: Stace deleted 1 (mercury), added 4. Tuesday sweep added 11 new singles.",
+ "snapshot": "2026-10-13",
+ "note": "Read from YTM Oct. 13 before the Tuesday sweep (142 tracks, no deletions since Oct. 9; 5 new tracks appeared that Claude did not add) plus 14 Tuesday adds. Total 156, verified by reload.",
  "tracks": [
   [
    "Guided By Voices",
@@ -45,11 +45,6 @@
    "Yyyc_ax5G5o"
   ],
   [
-   "Cigarettes After Sex",
-   "Twizzler",
-   "UrSKhNkbsM8"
-  ],
-  [
    "Hovvdy",
    "Try Try Try",
    "PS4WMDhV2As"
@@ -63,21 +58,6 @@
    "Shiner",
    "Only Shallow",
    "uzbP_JUEsRM"
-  ],
-  [
-   "Death Valley Girls",
-   "Basic Witch",
-   "m2g-drNGOFE"
-  ],
-  [
-   "Teenage Fanclub",
-   "Day In The Sun",
-   "1c9YDg__yLc"
-  ],
-  [
-   "Queens of the Stone Age",
-   "Easy Street",
-   "y0EoWpeBk5M"
   ],
   [
    "Ty Segall",
@@ -513,6 +493,296 @@
    "Michael Kiwanuka",
    "Summer Clothes",
    "Q19tYEHCfP0"
+  ],
+  [
+   "Sweeping Promises",
+   "Pain Without a Touch",
+   "kpAPLIwuuvA"
+  ],
+  [
+   "TTSSFU",
+   "Upstairs",
+   "hP-8zCjH3K8"
+  ],
+  [
+   "Allah-Las",
+   "Sandy",
+   "OpeaILsddHc"
+  ],
+  [
+   "feeble little horse",
+   "Doorway",
+   "rmd21czLZFw"
+  ],
+  [
+   "R.M.F.C.",
+   "The Clue",
+   "pcFnJEXsvWc"
+  ],
+  [
+   "R.M.F.C.",
+   "Mirror",
+   "yQt5aOzytyA"
+  ],
+  [
+   "R.M.F.C.",
+   "School",
+   "ckqL-CMgR9c"
+  ],
+  [
+   "R.M.F.C.",
+   "Mud",
+   "cAMhLBcUPfA"
+  ],
+  [
+   "R.M.F.C.",
+   "Feeder",
+   "JVWiTVPUr9c"
+  ],
+  [
+   "R.M.F.C.",
+   "Ecstatic Strife",
+   "ig5VXn7lVlw"
+  ],
+  [
+   "Star Moles",
+   "The End",
+   "C4KZlei2zk8"
+  ],
+  [
+   "Jesse Welles",
+   "The Nerd Reich",
+   "Lwz1XwHwWhY"
+  ],
+  [
+   "Eagles Of Death Metal",
+   "Careless Whisper",
+   "VFIcDRKCxoU"
+  ],
+  [
+   "Angine de Poitrine",
+   "Fabienk",
+   "7OdBQrs0Sng"
+  ],
+  [
+   "Sampa the Great",
+   "Can't Hold Us (feat. Mwanje)",
+   "nMpCWTL8Z4I"
+  ],
+  [
+   "Teenage Fanclub",
+   "Be With You Tonight",
+   "fRp1NHpFmec"
+  ],
+  [
+   "Teenage Fanclub",
+   "Tomorrow People",
+   "Wwb384ss-GQ"
+  ],
+  [
+   "Imperial Teen",
+   "All Over You",
+   "a6Mo3rVVbNU"
+  ],
+  [
+   "BODEGA",
+   "Olivia",
+   "jqxlf-H3Gsk"
+  ],
+  [
+   "BODEGA",
+   "Combustible",
+   "Ug5BfWJiZJA"
+  ],
+  [
+   "Death Valley Girls",
+   "Welcome to Earth",
+   "qAzvVmyfYuQ"
+  ],
+  [
+   "Jess Williamson",
+   "High Heels and Blue Jeans",
+   "j_rN2984eG0"
+  ],
+  [
+   "Jess Williamson",
+   "A Mile South of Heaven",
+   "H-ZpnkdMYrM"
+  ],
+  [
+   "Cameron Winter",
+   "It All Fell in the River (Live at Carnegie Hall)",
+   "P-XUpEdR10k"
+  ],
+  [
+   "The Tallest Man On Earth",
+   "Just Beyond Endless Mountain",
+   "OYtELuCAQ0Q"
+  ],
+  [
+   "Jamie T",
+   "All I Wanna See Is Now",
+   "oF6HGK3abhE"
+  ],
+  [
+   "Buzzcocks",
+   "Ever Fallen In Love (With Someone You Shouldn't've)",
+   "aUVVRyjiVzo"
+  ],
+  [
+   "Buzzcocks",
+   "Orgasm Addict",
+   "x7qqmdoX_Ls"
+  ],
+  [
+   "Stiff Little Fingers",
+   "Suspect Device",
+   "on6DxBgfsDY"
+  ],
+  [
+   "Stiff Little Fingers",
+   "Alternative Ulster",
+   "PlGmYetiCjA"
+  ],
+  [
+   "The Clash",
+   "Complete Control",
+   "u6ZWV7cCK5A"
+  ],
+  [
+   "Sex Pistols",
+   "Pretty Vacant",
+   "2sQaJNtbSzI"
+  ],
+  [
+   "The Damned",
+   "Neat Neat Neat",
+   "gXKDtkCzSCw"
+  ],
+  [
+   "Fugazi",
+   "Full Disclosure",
+   "V9WCjEsPP0U"
+  ],
+  [
+   "Avengers",
+   "We Are the One",
+   "dJDSyCr4Dz8"
+  ],
+  [
+   "Flipper",
+   "Sex Bomb (7\")",
+   "X-H6xFBpy6I"
+  ],
+  [
+   "Heavens to Betsy",
+   "Calculated",
+   "LND24yCMEdY"
+  ],
+  [
+   "Tune-Yards",
+   "Bizness",
+   "AbgoT8VicNI"
+  ],
+  [
+   "IDLES",
+   "Colossus",
+   "hoDWTZYkTDY"
+  ],
+  [
+   "13th Floor Elevators",
+   "You're Gonna Miss Me (QFPS Version)",
+   "S2VpigTE6js"
+  ],
+  [
+   "IDLES",
+   "Damaged Goods (feat. Gang of Four)",
+   "7OokEcgeB1M"
+  ],
+  [
+   "BODEGA",
+   "Territorial Call of the Female",
+   "rg1uP4mxXzE"
+  ],
+  [
+   "BODEGA",
+   "Fear not the Fear",
+   "u-OCkJD78Ec"
+  ],
+  [
+   "Fontaines D.C.",
+   "Chequeless Reckless (Darklands Version)",
+   "Y-dA3yt8m8s"
+  ],
+  [
+   "Dummy",
+   "Full Spectrum Dominance",
+   "FEeoIbUM60s"
+  ],
+  [
+   "The Avalanches",
+   "Can't Get Over Losing You (feat. Portraits Of Tracy)",
+   "eLlkJ88sMC0"
+  ],
+  [
+   "The Avalanches",
+   "Blue Shadows (feat. Karen O)",
+   "nybyN7_98zw"
+  ],
+  [
+   "Fontaines D.C. & ROSALIA",
+   "Where Is Gone?",
+   "3mb6YrCabso"
+  ],
+  [
+   "Spiral XP",
+   "Faith Electric",
+   "vK5DLybUq7Q"
+  ],
+  [
+   "Fujiya & Miyagi",
+   "No Green Light",
+   "K5l80OdiCzM"
+  ],
+  [
+   "Queens of the Stone Age",
+   "Where The Goth Girls At?",
+   "9jA_Bg_r_cw"
+  ],
+  [
+   "PISS",
+   "time loop at hot slit",
+   "5RUwqH9qVV8"
+  ],
+  [
+   "David Byrne & Daniel Pemberton",
+   "Let Me Sell You A Dream",
+   "GE4EvRJ2AQ8"
+  ],
+  [
+   "Twisted Teens",
+   "Stalks",
+   "mDYeisr6Gro"
+  ],
+  [
+   "Jozef Van Wissem & Jim Jarmusch",
+   "Never Like You Said (feat. Courtney Barnett)",
+   "3GytZtSR-lw"
+  ],
+  [
+   "TV Priest",
+   "Cartoons",
+   "AdS6TodChfs"
+  ],
+  [
+   "American Motors",
+   "marlboro miles",
+   "en3seCQFVpg"
+  ],
+  [
+   "Awning",
+   "Little Green Book",
+   "HQR3ynC-mOs"
   ]
  ]
 }

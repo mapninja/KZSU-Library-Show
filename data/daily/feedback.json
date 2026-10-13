@@ -215,6 +215,57 @@
    "videoId": "DG4Z4W1vG38",
    "note": "swapped for another track by the same artist",
    "cooloff_until": "2026-12-05"
+  },
+  {
+   "date": "2026-10-09",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "Cigarettes After Sex",
+   "title": "Twizzler",
+   "videoId": "UrSKhNkbsM8",
+   "cooloff_until": "2026-12-08"
+  },
+  {
+   "date": "2026-10-09",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "Death Valley Girls",
+   "title": "Basic Witch",
+   "videoId": "",
+   "cooloff_until": "2026-12-08"
+  },
+  {
+   "date": "2026-10-09",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "Queens of the Stone Age",
+   "title": "Easy Street",
+   "videoId": "",
+   "cooloff_until": "2026-12-08"
+  },
+  {
+   "date": "2026-10-13",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Dazy",
+   "title": "Ugly",
+   "videoId": "uH5CSB1vpb4",
+   "note": "cut from Air Order after Chapel show Oct. 13 passed",
+   "cooloff_until": "2026-12-12"
+  },
+  {
+   "date": "2026-10-13",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Death Cab for Cutie",
+   "title": "A Movie Script Ending",
+   "videoId": "LANNTICEaEU",
+   "note": "swapped for another track by the same artist (Coney Island)",
+   "cooloff_until": "2026-12-12"
+  },
+  {
+   "date": "2026-10-13",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Jess Williamson",
+   "title": "Goodbye to All That",
+   "videoId": "LnxoJbxlJV4",
+   "note": "cut from Air Order",
+   "cooloff_until": "2026-12-12"
   }
  ],
  "added_by_stace": [
@@ -373,6 +424,175 @@
    "videoId": "cZnaU3_Sr7U",
    "album": "Burning World, the",
    "label": "Uni Distribution Corp."
+  },
+  {
+   "date": "2026-10-09",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "Sweeping Promises",
+   "title": "Pain Without a Touch",
+   "videoId": "kpAPLIwuuvA",
+   "note": "new since Oct. 6 snapshot; adder not confirmed (Stace or Morning ZSU carryover). Kept."
+  },
+  {
+   "date": "2026-10-09",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "TTSSFU",
+   "title": "Upstairs",
+   "videoId": "hP-8zCjH3K8",
+   "note": "new since Oct. 6 snapshot; adder not confirmed (Stace or Morning ZSU carryover). Kept."
+  },
+  {
+   "date": "2026-10-09",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "Allah-Las",
+   "title": "Sandy",
+   "videoId": "OpeaILsddHc",
+   "note": "new since Oct. 6 snapshot; adder not confirmed (Stace or Morning ZSU carryover). Kept."
+  },
+  {
+   "date": "2026-10-09",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "feeble little horse",
+   "title": "Doorway",
+   "videoId": "rmd21czLZFw",
+   "note": "new since Oct. 6 snapshot; adder not confirmed (Stace or Morning ZSU carryover). Kept."
+  },
+  {
+   "date": "2026-10-09",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "R.M.F.C.",
+   "title": "The Clue",
+   "videoId": "pcFnJEXsvWc",
+   "note": "new since Oct. 6 snapshot; adder not confirmed (Stace or Morning ZSU carryover). Kept."
+  },
+  {
+   "date": "2026-10-09",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "R.M.F.C.",
+   "title": "Mirror",
+   "videoId": "yQt5aOzytyA",
+   "note": "new since Oct. 6 snapshot; adder not confirmed (Stace or Morning ZSU carryover). Kept."
+  },
+  {
+   "date": "2026-10-09",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "R.M.F.C.",
+   "title": "School",
+   "videoId": "ckqL-CMgR9c",
+   "note": "new since Oct. 6 snapshot; adder not confirmed (Stace or Morning ZSU carryover). Kept."
+  },
+  {
+   "date": "2026-10-09",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "R.M.F.C.",
+   "title": "Mud",
+   "videoId": "cAMhLBcUPfA",
+   "note": "new since Oct. 6 snapshot; adder not confirmed (Stace or Morning ZSU carryover). Kept."
+  },
+  {
+   "date": "2026-10-09",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "R.M.F.C.",
+   "title": "Feeder",
+   "videoId": "JVWiTVPUr9c",
+   "note": "new since Oct. 6 snapshot; adder not confirmed (Stace or Morning ZSU carryover). Kept."
+  },
+  {
+   "date": "2026-10-09",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "R.M.F.C.",
+   "title": "Ecstatic Strife",
+   "videoId": "ig5VXn7lVlw",
+   "note": "new since Oct. 6 snapshot; adder not confirmed (Stace or Morning ZSU carryover). Kept."
+  },
+  {
+   "date": "2026-10-09",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "Star Moles",
+   "title": "The End",
+   "videoId": "C4KZlei2zk8",
+   "note": "new since Oct. 6 snapshot; adder not confirmed (Stace or Morning ZSU carryover). Kept."
+  },
+  {
+   "date": "2026-10-09",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "Jesse Welles",
+   "title": "The Nerd Reich",
+   "videoId": "Lwz1XwHwWhY",
+   "note": "new since Oct. 6 snapshot; adder not confirmed (Stace or Morning ZSU carryover). Kept."
+  },
+  {
+   "date": "2026-10-09",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "Eagles Of Death Metal",
+   "title": "Careless Whisper",
+   "videoId": "VFIcDRKCxoU",
+   "note": "new since Oct. 6 snapshot; adder not confirmed (Stace or Morning ZSU carryover). Kept."
+  },
+  {
+   "date": "2026-10-09",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "Angine de Poitrine",
+   "title": "Fabienk",
+   "videoId": "7OdBQrs0Sng",
+   "note": "new since Oct. 6 snapshot; adder not confirmed (Stace or Morning ZSU carryover). Kept."
+  },
+  {
+   "date": "2026-10-09",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "Sampa the Great",
+   "title": "Can’t Hold Us (feat. Mwanjé)",
+   "videoId": "nMpCWTL8Z4I",
+   "note": "new since Oct. 6 snapshot; adder not confirmed (Stace or Morning ZSU carryover). Kept."
+  },
+  {
+   "date": "2026-10-13",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "The Velvet Underground & Nico",
+   "title": "Venus In Furs",
+   "videoId": "1qQ0MG9OPzA"
+  },
+  {
+   "date": "2026-10-13",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Death Cab for Cutie",
+   "title": "Coney Island",
+   "videoId": "Xt5JDwDX3xA"
+  },
+  {
+   "date": "2026-10-13",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "13th Floor Elevators",
+   "title": "You're Gonna Miss Me (QFPS Version)",
+   "videoId": "S2VpigTE6js"
+  },
+  {
+   "date": "2026-10-13",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "IDLES",
+   "title": "Damaged Goods (feat. Gang of Four)",
+   "videoId": "7OokEcgeB1M"
+  },
+  {
+   "date": "2026-10-13",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "BODEGA",
+   "title": "Territorial Call of the Female",
+   "videoId": "rg1uP4mxXzE"
+  },
+  {
+   "date": "2026-10-13",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "BODEGA",
+   "title": "Fear not the Fear",
+   "videoId": "u-OCkJD78Ec"
+  },
+  {
+   "date": "2026-10-13",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "Fontaines D.C.",
+   "title": "Chequeless Reckless (Darklands Version)",
+   "videoId": "Y-dA3yt8m8s"
   }
  ],
  "kept": [],
@@ -398,7 +618,13 @@
   "This Is Lorelei": 1,
   "Courtney Barnett": 1,
   "Dirty Three": 1,
-  "mercury": 1
+  "mercury": 1,
+  "Cigarettes After Sex": 1,
+  "Death Valley Girls": 1,
+  "Queens of the Stone Age": 1,
+  "Dazy": 1,
+  "Death Cab for Cutie": 1,
+  "Jess Williamson": 1
  },
  "not_aired": [
   {
@@ -633,6 +859,14 @@
    "from": "Hour 2, Set 5, #29",
    "to": "Hour 2, Set 6, #32 (after Dead Meadow)",
    "signal": "moved in Air Order; keep, follow her order"
+  }
+ ],
+ "housekeeping": [
+  {
+   "date": "2026-10-09",
+   "artist": "Teenage Fanclub",
+   "title": "Day In The Sun",
+   "note": "Removed from Weekly after it aired Oct. 8 (Triple Shot). Not a negative signal; no cool-off, no artist count."
   }
  ]
 }
