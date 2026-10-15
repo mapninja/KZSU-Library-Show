@@ -302,6 +302,69 @@
    "videoId": "Q19tYEHCfP0",
    "note": "deleted from New Releases for Review between Oct. 10 and Oct. 13",
    "cooloff_until": "2026-12-12"
+  },
+  {
+   "date": "2026-10-15",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "IDLES",
+   "title": "Colossus",
+   "videoId": "hoDWTZYkTDY",
+   "note": "replaced by The Beachland Ballroom",
+   "cooloff_until": "2026-12-14"
+  },
+  {
+   "date": "2026-10-15",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Bad Brains",
+   "title": "Banned in D.C.",
+   "videoId": "grixlGSNS6U",
+   "note": "replaced by I Against I",
+   "cooloff_until": "2026-12-14"
+  },
+  {
+   "date": "2026-10-15",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Blondshell",
+   "title": "Heart Has To Work So Hard",
+   "videoId": "iqtAP6szsPg",
+   "note": "cut from Air Order",
+   "cooloff_until": "2026-12-14"
+  },
+  {
+   "date": "2026-10-15",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Brigitte Calls Me Baby",
+   "title": "Altitude",
+   "videoId": "akcyM1qcfuM",
+   "note": "cut from Air Order",
+   "cooloff_until": "2026-12-14"
+  },
+  {
+   "date": "2026-10-15",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Fontaines D.C.",
+   "title": "Big",
+   "videoId": "7eM4MkqvDiY",
+   "note": "Triple Shot: replaced by The Cuckoo Is A-Callin'",
+   "cooloff_until": "2026-12-14"
+  },
+  {
+   "date": "2026-10-15",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Fontaines D.C.",
+   "title": "Jackie Down the Line",
+   "videoId": "tWTU4y_t3a8",
+   "note": "Triple Shot: replaced by Chequeless Reckless (Darklands Version)",
+   "cooloff_until": "2026-12-14"
+  },
+  {
+   "date": "2026-10-15",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Beth Orton",
+   "title": "Waiting",
+   "videoId": "4AEdJyRdtHI",
+   "note": "cut from Air Order",
+   "cooloff_until": "2026-12-14"
   }
  ],
  "added_by_stace": [
@@ -629,6 +692,127 @@
    "artist": "Fontaines D.C.",
    "title": "Chequeless Reckless (Darklands Version)",
    "videoId": "Y-dA3yt8m8s"
+  },
+  {
+   "date": "2026-10-15",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "IDLES",
+   "title": "The Beachland Ballroom",
+   "album": "CRAWLER",
+   "videoId": "VJ7esiIHMp8",
+   "set": "Hour 1, Set 1: Loud and new",
+   "label": "Partisan Records",
+   "tag": ""
+  },
+  {
+   "date": "2026-10-15",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Bad Brains",
+   "title": "I Against I",
+   "album": "I Against I",
+   "videoId": "6bfORnkyuBw",
+   "set": "Hour 1, Set 3: CBGB closed 20 years ago, plus Oct. 9 to 15 anniversaries",
+   "label": "SST Records (verify)",
+   "tag": ""
+  },
+  {
+   "date": "2026-10-15",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Fontaines D.C.",
+   "title": "The Cuckoo Is A-Callin'",
+   "album": "Too Real",
+   "videoId": "FXty6vOg0a0",
+   "set": "Hour 2, Thursday Triple Shot: Fontaines D.C.",
+   "label": "Partisan Records",
+   "tag": ""
+  },
+  {
+   "date": "2026-10-15",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Twisted Teens",
+   "title": "Stalks",
+   "album": "The Holy Cross Tigers",
+   "videoId": "mDYeisr6Gro",
+   "set": "Hour 1, Set 1: Loud and new",
+   "label": "Sub Pop Records",
+   "tag": ""
+  },
+  {
+   "date": "2026-10-15",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Sampa the Great",
+   "title": "Location",
+   "album": "Nu Zamrock",
+   "videoId": "6AK9bbwsK7s",
+   "set": "Hour 1, Set 4: New this month",
+   "label": "Loma Vista Recordings",
+   "tag": ""
+  },
+  {
+   "date": "2026-10-15",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Fujiya & Miyagi",
+   "title": "No Green Light",
+   "album": "New Shiny Object (verify)",
+   "videoId": "K5l80OdiCzM",
+   "set": "Hour 2, Set 7: Machines and motorik",
+   "label": "Impossible Objects of Desire (verify)",
+   "tag": ""
+  },
+  {
+   "date": "2026-10-15",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "MJ Lenderman",
+   "title": "She's Leaving You",
+   "album": "Manning Fireworks",
+   "videoId": "m1suappFvag",
+   "set": "Hour 2, Set 6: Songwriters and slow",
+   "label": "Anti- Records (verify)",
+   "tag": ""
+  },
+  {
+   "date": "2026-10-15",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Sluice",
+   "title": "Beadie",
+   "album": "Companion",
+   "videoId": "elKyn7L-Ddw",
+   "set": "Hour 2, Set 6: Songwriters and slow",
+   "label": "Mtn Laurel Recording Co.",
+   "tag": "1156485"
+  },
+  {
+   "date": "2026-10-15",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Firewater",
+   "title": "Another Perfect Catastrophe",
+   "album": "The Ponzi Scheme",
+   "videoId": "9_K08CnbR7E",
+   "set": "Hour 2, Set 8: Heavy, psych and short",
+   "label": "Jetset Records (verify)",
+   "tag": ""
+  },
+  {
+   "date": "2026-10-15",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "SAULT",
+   "title": "Wildfires",
+   "album": "Untitled (Black Is)",
+   "videoId": "GRC4Ac6IB1w",
+   "set": "Hour 2, Set 6: Songwriters and slow",
+   "label": "Forever Living Originals (verify)",
+   "tag": ""
+  },
+  {
+   "date": "2026-10-15",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Cameron Winter",
+   "title": "Love Takes Miles (Live at Carnegie Hall)",
+   "album": "Live at Carnegie Hall",
+   "videoId": "i4J2mM3DY1Q",
+   "set": "Hour 2, Set 6: Songwriters and slow",
+   "label": "Partisan Records",
+   "tag": ""
   }
  ],
  "kept": [],
@@ -641,7 +825,7 @@
   "Radiohead": 1,
   "Fleetwood Mac": 1,
   "Grateful Dead": 1,
-  "Blondshell": 1,
+  "Blondshell": 2,
   "Johnny Marr": 1,
   "Blancmange": 1,
   "Iggy Pop": 1,
@@ -663,7 +847,12 @@
   "Jess Williamson": 2,
   "Jamie T": 1,
   "Teenage Fanclub": 1,
-  "Michael Kiwanuka": 1
+  "Michael Kiwanuka": 1,
+  "IDLES": 1,
+  "Bad Brains": 1,
+  "Brigitte Calls Me Baby": 1,
+  "Fontaines D.C.": 2,
+  "Beth Orton": 1
  },
  "not_aired": [
   {
@@ -898,6 +1087,15 @@
    "from": "Hour 2, Set 5, #29",
    "to": "Hour 2, Set 6, #32 (after Dead Meadow)",
    "signal": "moved in Air Order; keep, follow her order"
+  },
+  {
+   "date": "2026-10-15",
+   "source_playlist": "Air Order",
+   "artist": "Stef Chura",
+   "track": "The Concrete",
+   "from": "Hour 2, Set 5, fifth track (Oct. 14 order)",
+   "to": "Hour 2, Set 5, second track (after Heavens to Betsy)",
+   "signal": "moved in Air Order; keep, follow her order"
   }
  ],
  "housekeeping": [
@@ -907,6 +1105,7 @@
    "title": "Day In The Sun",
    "note": "Removed from Weekly after it aired Oct. 8 (Triple Shot). Not a negative signal; no cool-off, no artist count."
   },
-  "2026-10-14 final script run: no Cull or Replace ticks, no new Air Order edits since Oct. 13 (44 tracks match plan). No removals logged."
+  "2026-10-14 final script run: no Cull or Replace ticks, no new Air Order edits since Oct. 13 (44 tracks match plan). No removals logged.",
+  "2026-10-15 show sync: Air Order 49 tracks. 8 removals logged (60-day cool-off), 13 adds logged, Fujiya & Miyagi paired with Kraftwerk and Cabaret Voltaire at her request."
  ]
 }

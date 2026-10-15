@@ -164,14 +164,16 @@
    ]
   },
   "final_notes_sheet_2026-10-15": {
-   "id": "1L4FLmjiFCKZCC_wLPkU9haQtqEdSN_KxcV_BIhjqoQ0",
+   "id": "1rmMJtcZCjd1Fhn1hlyETE--pPD_oMOB6DACuu0m4FU8",
    "type": "sheet",
    "folder": "KZSU top",
-   "deployed": "2026-10-15T03:35Z",
+   "deployed": "2026-10-15T22:36Z",
    "working": "Working/notes_sheet_2026-10-15.csv",
-   "retired": [],
-   "hash": "6a356a4f4bd2cef1a6a474a0a0a5ef46",
-   "note": "Wed. Oct. 14 final build. 44 rows. No Cull or Replace ticks found."
+   "retired": [
+    "1L4FLmjiFCKZCC_wLPkU9haQtqEdSN_KxcV_BIhjqoQ0"
+   ],
+   "hash": "762bc1b18dffabfa30783158a5a7a90e",
+   "note": "Thu. Oct. 15 afternoon sync: 51 rows (Air Order edits, tail tracks placed in sets, Kraftwerk and Cabaret Voltaire added). No ticks to harvest (old sheet unmodified since deploy). Old sheet moved to _to_delete."
   },
   "final_show_script_2026-10-15": {
    "id": null,

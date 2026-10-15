@@ -18,3 +18,5 @@
 - 2026-10-13 (Tuesday sweep): Review Shelf redeployed (new id 16_hzYARZ0LKts80BexBgNqDA-4a4UU7EEfxo1Ux0BCQ). +10 rows. No Stace edits since Oct. 12 deploy. Old sheet moved to _to_delete. Working/review_shelf.csv mirrors the repo copy.
 
 - 2026-10-14 (Wed night final build): Final Show Script 2026-10-15 (landscape docx + PDF), final Notes Sheet (id 1L4FLmjiFCKZCC_wLPkU9haQtqEdSN_KxcV_BIhjqoQ0), Zookeeper CSV and working_playlist.md placed at /KZSU/ top level. Old Working Notes Sheet and Working Word/PDF moved to _to_delete. No Stace edits to harvest (sheet unmodified since Oct. 13). R.M.F.C. The Clue now CLEAN (LRCLIB); Venus In Furs label Verve Records.
+
+- 2026-10-15 (Thursday sync): Final Notes Sheet 2026-10-15 redeployed (new id 1rmMJtcZCjd1Fhn1hlyETE--pPD_oMOB6DACuu0m4FU8) to match Stace's Oct. 15 Air Order edits: 51 tracks, 3:01. No ticks to harvest. Old sheet moved to _to_delete. Final Show Script docx and PDF, Zookeeper CSV and working_playlist md overwritten in place in KZSU/ (synced Drive folder). Working copies refreshed.
