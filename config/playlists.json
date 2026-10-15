@@ -76,7 +76,15 @@
    "id": "PLPKWMgnm3SDs",
    "order": "forward",
    "mode": "suggestion playlist for Oct. 29, 2026 show; Stace culls",
-   "tracks": 45
+   "tracks": 47,
+   "last_refresh": "2026-10-15 (Black Sabbath and QOTSA No One Knows added (47 tracks); plan JSON has videoIds, tags, labels. Note: the YTM playlist API returns 7 extra Suggestions rows after the tracks; ignore them)"
+  },
+  "specialty_thanksgiving_2026": {
+   "title": "Library Specialty: Thanksgiving 2026",
+   "id": "PLayCr-iEi4UA",
+   "order": "forward",
+   "mode": "suggestion playlist for Nov. 26, 2026 show; Stace culls; built Oct. 15, 2026 by kzsu-monthly-specialty; refresh Nov. 12",
+   "tracks": 40
   },
   "morning_zsu_air_order_2026-10-07": {
    "title": "DJ Stace - KZSU Morning ZSU Show Air Order",
