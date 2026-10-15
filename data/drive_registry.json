@@ -118,16 +118,17 @@
    ]
   },
   "notes_sheet_2026-10-15": {
-   "id": "1pKLlJiLXXoQsWq3TPZevxnU8QsC0Snx2owHxsyX6Hwc",
+   "id": null,
    "type": "sheet",
    "folder": "Show Prep",
    "deployed": "2026-10-13T13:47Z",
    "working": "Working/notes_sheet_2026-10-15.csv (repo outputs/recon/2026-10-15/notes_sheet_2026-10-15.csv)",
    "retired": [
     "1gg9R14Xz7Ab4ERIn2cY_tIYeyGuYSYxrHYJeJd-rg3o",
-    "1we63PTQy03BAGG33pQ_1C-V39v1QmewwKnRmWD4saMg"
+    "1we63PTQy03BAGG33pQ_1C-V39v1QmewwKnRmWD4saMg",
+    "1pKLlJiLXXoQsWq3TPZevxnU8QsC0Snx2owHxsyX6Hwc"
    ],
-   "note": "Redeployed Oct. 13 (Tuesday sweep) to sync Stace Air Order edits: cut Dazy, Death Cab A Movie Script Ending, Jess Williamson; added Velvet Underground Venus In Furs and Death Cab Coney Island. 44 rows plus header. No Cull or Replace ticks to harvest.",
+   "note": "Show Prep Working Notes Sheet retired Oct. 14 night when the final sheet was published at /KZSU/ top level.",
    "hash": "c1215e9c945258d59af19fca00b5d92c"
   },
   "working_show_script_2026-10-15": {
@@ -137,7 +138,7 @@
    "deployed": "2026-10-09T14:18Z",
    "working": "Working/working_show_script_2026-10-15.md (data record); Word and PDF in Show Prep and repo outputs/recon/2026-10-15/",
    "retired": [],
-   "note": "Landscape tables, 10 pages. Drive connector cannot set orientation on a Google Doc, so Word and PDF are the deliverables."
+   "note": "Word and PDF moved to _to_delete Oct. 14 (replaced by the final script)."
   },
   "review_suggestions_2026-10-09": {
    "id": null,
@@ -161,6 +162,33 @@
    "retired": [
     "147cO4XsjF5paSLFC0zJQB1Cxu6C3MxEO4DIWnfJzxEY"
    ]
+  },
+  "final_notes_sheet_2026-10-15": {
+   "id": "1L4FLmjiFCKZCC_wLPkU9haQtqEdSN_KxcV_BIhjqoQ0",
+   "type": "sheet",
+   "folder": "KZSU top",
+   "deployed": "2026-10-15T03:35Z",
+   "working": "Working/notes_sheet_2026-10-15.csv",
+   "retired": [],
+   "hash": "6a356a4f4bd2cef1a6a474a0a0a5ef46",
+   "note": "Wed. Oct. 14 final build. 44 rows. No Cull or Replace ticks found."
+  },
+  "final_show_script_2026-10-15": {
+   "id": null,
+   "type": "docx+pdf (raw files)",
+   "folder": "KZSU top",
+   "deployed": "2026-10-15T03:35Z",
+   "working": "Working/final_show_script_2026-10-15.md (data record); Word and PDF at /KZSU/ top level and repo outputs/recon/2026-10-15/",
+   "retired": [],
+   "note": "Landscape tables, 10 pages. Old Working Word and PDF moved to _to_delete."
+  },
+  "zookeeper_csv_2026-10-15_final": {
+   "id": null,
+   "type": "csv-raw",
+   "folder": "KZSU top",
+   "deployed": "2026-10-15T03:35Z",
+   "working": "Working/library_show_playlist_2026-10-15.csv",
+   "note": "Raw CSV placed at /KZSU/ top level through Drive for desktop. Unchanged content from the Oct. 13 build (44 tracks, reversed)."
   }
  },
  "folders": {

@@ -1,11 +1,20 @@
-# Working Show Script: Thursday, Oct. 15, 2026
+# Final Show Script: Thursday, Oct. 15, 2026
 
-KZSU 90.1 FM, 6-8 p.m. PT. Draft built Thu. Oct. 8 (night run). Landscape Word and PDF versions are the on-air copies; this file is the data record.
+KZSU 90.1 FM, 6-8 p.m. PT. Final build Wed. Oct. 14 (night run). Landscape Word and PDF versions are the on-air copies; this file is the data record.
+
+## What changed since the Working script
+
+- Culled: none (Notes Sheet unmodified since the Oct. 13 deploy; no ticks). Replace requests: none.
+- Air Order (44 tracks, 2:34) matches the plan. Stace's Oct. 13 edits are in: cut Dazy "Ugly", Death Cab "A Movie Script Ending", Jess Williamson "Goodbye to All That"; added Velvet Underground "Venus In Furs" and Death Cab "Coney Island".
+- FCC: R.M.F.C. "The Clue" is CLEAN on LRCLIB (76 words, check by ear). The Fall "30 Degrees" and R.M.F.C. "Mirror" still have no posted lyrics: listen first.
+- Label fix: Venus In Furs is Verve Records (past spin).
+- Zookeeper was blocked by its browser check on Oct. 14, so tags and labels were not re-checked.
+- Ticket giveaway: Dinosaur Jr., Guild Theatre, Menlo Park, Mon. Oct. 19. Confirm with Suzi (listed DJ).
 
 ## Run notes
 
 - Punk and post-punk focus begins this show (config/show_focus.json). Arc: UK 1977 tonight, Texas punk Oct. 22, Halloween post-punk Oct. 29, D.C. hardcore Nov. 5.
-- Anniversary hooks: CBGB closed 20 years ago today (Oct. 15, 2006, Patti Smith played the last show); Jon Spencer Blues Explosion Now I Got Worry turns 30 today (Matador, Oct. 15, 1996); Death Cab for Cutie The Photo Album turns 25 (Oct. 9, 2001); Sex Pistols signed to EMI Oct. 8, 1976 (50 years) and play the Warfield Oct. 14; Stiff Little Fingers released Alternative Ulster Oct. 17, 1978.
+- Anniversary hooks: CBGB closed 20 years ago today (Oct. 15, 2006, Patti Smith played the last show); Jon Spencer Blues Explosion Now I Got Worry turns 30 today (Matador, Oct. 15, 1996); Death Cab for Cutie The Photo Album turns 25 (Oct. 9, 2001); Sex Pistols signed to EMI Oct. 8, 1976 (50 years) and were booked at the Warfield Oct. 14; Stiff Little Fingers released Alternative Ulster Oct. 17, 1978.
 - Next week's tease: The Damned New Rose turns 50 on Oct. 22 (held out of this show).
 
 ## Talk breaks
@@ -13,7 +22,7 @@ KZSU 90.1 FM, 6-8 p.m. PT. Draft built Thu. Oct. 8 (night run). Landscape Word a
 ### Opening break
 
 - Punk and post-punk focus starts tonight: UK 1977 first, Texas punk next week, Halloween post-punk Oct. 29, D.C. hardcore Nov. 5.
-- Sex Pistols signed to EMI Oct. 8, 1976 and play the Warfield this week (Steve Jones, Paul Cook, Glen Matlock, Frank Carter).
+- Sex Pistols signed to EMI Oct. 8, 1976 (50 years). The reunion lineup (Steve Jones, Paul Cook, Glen Matlock, Frank Carter) was booked at the Warfield last night, Oct. 14.
 
 ### After Set 2 (UK 1977)
 
@@ -73,12 +82,12 @@ KZSU 90.1 FM, 6-8 p.m. PT. Draft built Thu. Oct. 8 (night run). Landscape Word a
 
 ### Hour 1, Set 2: UK 1977, Belfast and the Warfield
 
-6. **The Velvet Underground & Nico, "Venus In Furs"** (5:13) Verve Records (verify). Added by DJ Stace to the Air Order. Opens the UK 1977 set as a bridge from Hour 1 Set 1. FCC: CLEAN (Genius, 194 words, Oct. 13 screen).
+6. **The Velvet Underground & Nico, "Venus In Furs"** (5:13) Verve Records. Added by DJ Stace to the Air Order. Opens the UK 1977 set as a bridge from Hour 1 Set 1. FCC: CLEAN (Genius, 194 words, Oct. 13 screen).
 7. **The Clash, "Complete Control"** (3:13) Epic Records. Tag 15501. Punk focus opener: Clash and UK 1977. Lapsed favorite (10 shows). Know Your Rights aired Oct. 8, so this is a different era. FCC: CLEAN (Genius, 279 words).
 8. **Buzzcocks, "What Do I Get?"** (2:55) Irs Records. Tag 65348. Manchester, 1978 single. Buzzcocks have 14 shows in the profile. Ever Fallen in Love is on the bench (clean). FCC: CLEAN (Genius, 319 words).
 9. **Stiff Little Fingers, "Alternative Ulster"** (2:44) One Way Records. Tag 1086364. Belfast single released Oct. 17, 1978, two days after the show. Lapsed favorite, last aired 2019. FCC: CLEAN (Genius, 245 words). Suspect Device has fuck x1 and is not used.
-10. **Sex Pistols, "Pretty Vacant"** (3:19) Warner Bros. Records. Tag 903574. EMI signed the band Oct. 8, 1976 (50 years). Steve Jones, Paul Cook, Glen Matlock and Frank Carter play the Warfield Wed. Oct. 14. Stands in for Anarchy in the U.K. (piss x1). FCC: CLEAN (Genius, 248 words).
-11. **The Fall, "30 Degrees"** (4:03) Cog Sinister. Posthumous album, release date disputed. Lapsed favorite, last aired 2019. FCC: UNVERIFIED: no lyrics posted. Listen first.
+10. **Sex Pistols, "Pretty Vacant"** (3:19) Warner Bros. Records. Tag 903574. EMI signed the band Oct. 8, 1976 (50 years). Steve Jones, Paul Cook, Glen Matlock and Frank Carter played the Warfield Wed. Oct. 14. Stands in for Anarchy in the U.K. (piss x1). FCC: CLEAN (Genius, 248 words).
+11. **The Fall, "30 Degrees"** (4:03) Cog Sinister. Posthumous album, release date disputed. Lapsed favorite, last aired 2019. FCC: UNVERIFIED: not on Genius (Post Script lyrics listed as unreleased) or LRCLIB (checked Oct. 14). Listen first.
 12. **Joy Division, "Transmission"** (3:36) Factory Records. Lapsed favorite, last aired 2019. Bridges to the CBGB set. FCC: CLEAN (Genius, 189 words).
 
 ### Hour 1, Set 3: CBGB closed 20 years ago, plus Oct. 9 to 15 anniversaries
@@ -108,7 +117,7 @@ Intro: Dopamine Chamber (XL) comes out Fri. Oct. 16. Lead single Marianne plus t
 ### Hour 2, Set 5: Bay Area this week and next
 
 26. **Heavens to Betsy, "ain't never goin' back"** (1:47) Kill Rock Stars. First release since 1994. baby's gone is out Oct. 16 on Kill Rock Stars. Bottom of the Hill Sat. Oct. 17 (sold out) and Sun. Oct. 18. FCC: CLEAN (Genius, 157 words).
-27. **Dummy, "Full Spectrum Dominance"** (3:36) Polyvinyl Record Co. Lead single. Album out Oct. 16 on Polyvinyl. Chapel in San Francisco Wed. Oct. 14. FCC: CLEAN (Genius, 158 words).
+27. **Dummy, "Full Spectrum Dominance"** (3:36) Polyvinyl Record Co. Lead single. Album out Oct. 16 on Polyvinyl. Chapel in San Francisco last night, Wed. Oct. 14. FCC: CLEAN (Genius, 158 words).
 28. **Boy Harsher, "Pain"** (7:20) Nude Club. Fox Theater in Oakland tonight, Thu. Oct. 15, 7 p.m. Long one: cull candidate. FCC: CLEAN (Genius, 171 words).
 29. **Dinosaur Jr., "Start Choppin'"** (5:41) Sire Records. Tag 92618. Castro Sun. Oct. 18 (sold out) and Guild Theatre in Menlo Park Mon. Oct. 19, the ticket giveaway show. Feel the Pain aired Oct. 8. FCC: CLEAN (Genius, 280 words). Freak Scene has fuck x2 (Bridge, Outro) and is not used.
 30. **Stef Chura, "The Concrete"** (4:08) Saddle Creek Records. Opens for Dinosaur Jr. at the Castro Sun. Oct. 18. Danny is in cool-off to Nov. 26, so a different track. FCC: CLEAN (Genius, 207 words).
@@ -129,8 +138,8 @@ Intro: Dopamine Chamber (XL) comes out Fri. Oct. 16. Lead single Marianne plus t
 39. **Twin Peaks, "Walk to the One You Love"** (3:34) Grand Jury Music. Staged album No. 11. FCC: CLEAN (Genius, 203 words).
 40. **feeble little horse, "Doorway"** (2:55) Saddle Creek Records. Pittsburgh band, Saddle Creek. FCC: CLEAN (Genius, 166 words).
 41. **Star Moles, "The End"** (2:29) Historic New Jersey Recordings. Short-song fill. FCC: CLEAN (Genius, 117 words).
-42. **R.M.F.C., "The Clue"** (1:40) Label: fill in at the studio. Under 2:00 punk fill, from the weekly list. FCC: UNVERIFIED: no lyrics posted. Listen first.
-43. **R.M.F.C., "Mirror"** (2:23) Label: fill in at the studio. Short-song fill, from the weekly list. FCC: UNVERIFIED: no lyrics posted. Listen first.
+42. **R.M.F.C., "The Clue"** (1:40) Label: fill in at the studio. Under 2:00 punk fill, from the weekly list. FCC: CLEAN (LRCLIB, 76 words, Oct. 14 final-script screen). Short transcription; check by ear.
+43. **R.M.F.C., "Mirror"** (2:23) Label: fill in at the studio. Short-song fill, from the weekly list. FCC: UNVERIFIED: no lyrics on Genius or LRCLIB (checked Oct. 14). Listen first.
 
 ### Closers and bench
 

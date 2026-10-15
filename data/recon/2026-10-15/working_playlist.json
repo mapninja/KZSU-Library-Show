@@ -176,8 +176,8 @@
      "artist": "The Velvet Underground & Nico",
      "track": "Venus In Furs",
      "album": "The Velvet Underground & Nico",
-     "label": "Verve Records (verify)",
-     "label_source": "web (verify)",
+     "label": "Verve Records",
+     "label_source": "past spin (Zookeeper, aired 2022-12-13)",
      "tag": "",
      "released": "1967",
      "type": "album track",
@@ -259,7 +259,7 @@
      "upcoming": "",
      "duration": "3:19",
      "priority": "R",
-     "why": "EMI signed the band Oct. 8, 1976 (50 years). Steve Jones, Paul Cook, Glen Matlock and Frank Carter play the Warfield Wed. Oct. 14. Stands in for Anarchy in the U.K. (piss x1).",
+     "why": "EMI signed the band Oct. 8, 1976 (50 years). Steve Jones, Paul Cook, Glen Matlock and Frank Carter played the Warfield Wed. Oct. 14. Stands in for Anarchy in the U.K. (piss x1).",
      "fcc_status": "CLEAN",
      "fcc_note": "CLEAN (Genius, 248 words).",
      "source": "recon",
@@ -279,7 +279,7 @@
      "priority": "O",
      "why": "Posthumous album, release date disputed. Lapsed favorite, last aired 2019.",
      "fcc_status": "UNVERIFIED",
-     "fcc_note": "UNVERIFIED: no lyrics posted. Listen first.",
+     "fcc_note": "UNVERIFIED: not on Genius (Post Script lyrics listed as unreleased) or LRCLIB (checked Oct. 14). Listen first.",
      "source": "recon",
      "videoId": "9mebsxe970U"
     },
@@ -587,7 +587,7 @@
      "upcoming": "",
      "duration": "3:36",
      "priority": "R",
-     "why": "Lead single. Album out Oct. 16 on Polyvinyl. Chapel in San Francisco Wed. Oct. 14.",
+     "why": "Lead single. Album out Oct. 16 on Polyvinyl. Chapel in San Francisco last night, Wed. Oct. 14.",
      "fcc_status": "CLEAN",
      "fcc_note": "CLEAN (Genius, 158 words).",
      "source": "recon",
@@ -868,8 +868,8 @@
      "duration": "1:40",
      "priority": "X",
      "why": "Under 2:00 punk fill, from the weekly list.",
-     "fcc_status": "UNVERIFIED",
-     "fcc_note": "UNVERIFIED: no lyrics posted. Listen first.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (LRCLIB, 76 words, Oct. 14 final-script screen). Short transcription; check by ear.",
      "source": "recon",
      "videoId": "pcFnJEXsvWc"
     },
@@ -887,7 +887,7 @@
      "priority": "X",
      "why": "Short-song fill, from the weekly list.",
      "fcc_status": "UNVERIFIED",
-     "fcc_note": "UNVERIFIED: no lyrics posted. Listen first.",
+     "fcc_note": "UNVERIFIED: no lyrics on Genius or LRCLIB (checked Oct. 14). Listen first.",
      "source": "recon",
      "videoId": "yQt5aOzytyA"
     }
@@ -988,13 +988,13 @@
    "date": "Wed. Oct. 14",
    "venue": "Warfield, S.F.",
    "what": "Sex Pistols (Steve Jones, Paul Cook, Glen Matlock, Frank Carter), Starcrawler. 8:30 p.m.",
-   "note": "Day before the show. Past by air time."
+   "note": "Last night (Oct. 14)."
   },
   {
    "date": "Wed. Oct. 14",
    "venue": "Chapel, S.F.",
    "what": "Dummy, Golomb, Figure Eight, Sachi's Mirror. $20/$25, 7 p.m.",
-   "note": "Past by air time."
+   "note": "Last night (Oct. 14)."
   },
   {
    "date": "Thu. Oct. 15",
@@ -1036,7 +1036,7 @@
  "mic_breaks": {
   "opening": [
    "Punk and post-punk focus starts tonight: UK 1977 first, Texas punk next week, Halloween post-punk Oct. 29, D.C. hardcore Nov. 5.",
-   "Sex Pistols signed to EMI Oct. 8, 1976 and play the Warfield this week (Steve Jones, Paul Cook, Glen Matlock, Frank Carter)."
+   "Sex Pistols signed to EMI Oct. 8, 1976 (50 years). The reunion lineup (Steve Jones, Paul Cook, Glen Matlock, Frank Carter) was booked at the Warfield last night, Oct. 14."
   ],
   "after_uk_set": [
    "The Clash single Complete Control: fall 1977. Stiff Little Fingers released Alternative Ulster Oct. 17, 1978.",
@@ -1570,5 +1570,23 @@
    "cut_on": "2026-10-13",
    "source": "Stace edited Air Order (PLSosF7JAIkaM) between Oct. 9 and Oct. 13"
   }
- ]
+ ],
+ "final": {
+  "built": "2026-10-14",
+  "cull_ticks": [],
+  "replace_ticks": [],
+  "air_order_edits_since_working_docx": {
+   "cut": [
+    "Dazy Ugly",
+    "Death Cab for Cutie A Movie Script Ending",
+    "Jess Williamson Goodbye to All That"
+   ],
+   "added": [
+    "The Velvet Underground & Nico Venus In Furs",
+    "Death Cab for Cutie Coney Island"
+   ]
+  },
+  "air_order_matches_plan": true,
+  "notes": "Notes Sheet unmodified since Oct. 13 deploy (no ticks). Air Order (44 tracks, 2:34) matches plan. Zookeeper blocked by Cloudflare turnstile in the built-in browser, so labels and tags are from the plan cache and past spins; no new lookups."
+ }
 }
