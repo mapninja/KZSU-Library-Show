@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "type": "album",
+      "attributes": {
+        "artist": "Yard Act",
+        "album": "You're Gonna Need A Little Music",
+        "category": "General",
+        "medium": "CD",
+        "size": "Full",
+        "location": "Pending Appr",
+        "bin": null,
+        "coll": false,
+        "tracks": [
+          {
+            "seq": 1,
+            "track": "Empty Pledges",
+            "duration": "00:04:25",
+            "url": ""
+          },
+          {
+            "seq": 2,
+            "track": "New Beginnings",
+            "duration": "00:03:28",
+            "url": ""
+          },
+          {
+            "seq": 3,
+            "track": "Tall Tales",
+            "duration": "00:03:52",
+            "url": ""
+          },
+          {
+            "seq": 4,
+            "track": "Fiction",
+            "duration": "00:02:41",
+            "url": ""
+          },
+          {
+            "seq": 5,
+            "track": "You're Gonna Need A Little Music",
+            "duration": "00:04:41",
+            "url": ""
+          },
+          {
+            "seq": 6,
+            "track": "Cherophobe Rock",
+            "duration": "00:02:53",
+            "url": ""
+          },
+          {
+            "seq": 7,
+            "track": "Thrill Of The Chase",
+            "duration": "00:02:31",
+            "url": ""
+          },
+          {
+            "seq": 8,
+            "track": "Janey Said",
+            "duration": "00:04:51",
+            "url": ""
+          },
+          {
+            "seq": 9,
+            "track": "Redeemer",
+            "duration": "00:03:59",
+            "url": ""
+          },
+          {
+            "seq": 10,
+            "track": "Talky Talky People",
+            "duration": "00:03:56",
+            "url": ""
+          },
+          {
+            "seq": 11,
+            "track": "Over The Barrel",
+            "duration": "00:04:33",
+            "url": ""
+          }
+        ],
+        "albumart": "https://yt3.googleusercontent.com/7VQ3nfK96QRioXgKpu_IfAwtDYRsWflcVEwCqFP8v8AEdxOsNBCbeUI9XuZt9wDDYvdliw9HNRUUeH8AlA=w544-h544-l90-rj"
+      },
+      "relationships": {
+        "label": {
+          "data": {
+            "type": "label",
+            "id": "8396"
+          }
+        }
+      }
+    }
+  ]
+}

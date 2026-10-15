@@ -1,0 +1,82 @@
+{
+  "data": [
+    {
+      "type": "album",
+      "attributes": {
+        "artist": "Fall, The",
+        "album": "Post Script",
+        "category": "General",
+        "medium": "CD",
+        "size": "Full",
+        "location": "Pending Appr",
+        "bin": null,
+        "coll": false,
+        "tracks": [
+          {
+            "seq": 1,
+            "track": "30 Degrees",
+            "duration": "00:04:03",
+            "url": ""
+          },
+          {
+            "seq": 2,
+            "track": "So Long",
+            "duration": "00:04:08",
+            "url": ""
+          },
+          {
+            "seq": 3,
+            "track": "Colonel's Retreat",
+            "duration": "00:05:03",
+            "url": ""
+          },
+          {
+            "seq": 4,
+            "track": "A Caveat",
+            "duration": "00:04:10",
+            "url": ""
+          },
+          {
+            "seq": 5,
+            "track": "Final Position",
+            "duration": "00:05:32",
+            "url": ""
+          },
+          {
+            "seq": 6,
+            "track": "Retro Song",
+            "duration": "00:04:10",
+            "url": ""
+          },
+          {
+            "seq": 7,
+            "track": "Irish Northern Man",
+            "duration": "00:07:03",
+            "url": ""
+          },
+          {
+            "seq": 8,
+            "track": "Dehydrated",
+            "duration": "00:03:55",
+            "url": ""
+          },
+          {
+            "seq": 9,
+            "track": "The Book",
+            "duration": "00:06:23",
+            "url": ""
+          }
+        ],
+        "albumart": "https://yt3.googleusercontent.com/teuFpxaD8UYn8ShzdB23y10bfb9AnMzLkpBD2aofMJePMrhG66IdO96IPncoQhYrW-sQavM17Du9ouZccQ=w544-h544-l90-rj"
+      },
+      "relationships": {
+        "label": {
+          "data": {
+            "type": "label",
+            "id": "LABEL_ID_Cog Sinister"
+          }
+        }
+      }
+    }
+  ]
+}

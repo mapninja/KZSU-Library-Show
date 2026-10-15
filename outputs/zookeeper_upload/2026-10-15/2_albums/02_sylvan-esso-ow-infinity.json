@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "type": "album",
+      "attributes": {
+        "artist": "Sylvan Esso",
+        "album": "Ow ∞",
+        "category": "General",
+        "medium": "CD",
+        "size": "Full",
+        "location": "Pending Appr",
+        "bin": null,
+        "coll": false,
+        "tracks": [
+          {
+            "seq": 1,
+            "track": "Entertainment & Coca-Cola",
+            "duration": "00:02:03",
+            "url": "https://sylvanesso.bandcamp.com/track/entertainment-coca-cola"
+          },
+          {
+            "seq": 2,
+            "track": "Flood Season",
+            "duration": "00:02:24",
+            "url": "https://sylvanesso.bandcamp.com/track/flood-season"
+          },
+          {
+            "seq": 3,
+            "track": "Hot Slob",
+            "duration": "00:02:45",
+            "url": "https://sylvanesso.bandcamp.com/track/hot-slob"
+          },
+          {
+            "seq": 4,
+            "track": "Concrete Glen",
+            "duration": "00:03:30",
+            "url": "https://sylvanesso.bandcamp.com/track/concrete-glen"
+          },
+          {
+            "seq": 5,
+            "track": "Back Again",
+            "duration": "00:04:32",
+            "url": "https://sylvanesso.bandcamp.com/track/back-again"
+          },
+          {
+            "seq": 6,
+            "track": "Ribbon",
+            "duration": "00:01:53",
+            "url": "https://sylvanesso.bandcamp.com/track/ribbon"
+          },
+          {
+            "seq": 7,
+            "track": "Sledge",
+            "duration": "00:02:48",
+            "url": "https://sylvanesso.bandcamp.com/track/sledge"
+          },
+          {
+            "seq": 8,
+            "track": "Right to Left",
+            "duration": "00:03:32",
+            "url": "https://sylvanesso.bandcamp.com/track/right-to-left"
+          },
+          {
+            "seq": 9,
+            "track": "Good at Pain",
+            "duration": "00:02:48",
+            "url": "https://sylvanesso.bandcamp.com/track/good-at-pain"
+          },
+          {
+            "seq": 10,
+            "track": "Jessica",
+            "duration": "00:03:31",
+            "url": "https://sylvanesso.bandcamp.com/track/jessica"
+          },
+          {
+            "seq": 11,
+            "track": "On & On",
+            "duration": "00:04:43",
+            "url": "https://sylvanesso.bandcamp.com/track/on-on"
+          },
+          {
+            "seq": 12,
+            "track": "Plastic Sword",
+            "duration": "00:03:01",
+            "url": "https://sylvanesso.bandcamp.com/track/plastic-sword"
+          }
+        ],
+        "albumart": "https://f4.bcbits.com/img/a0712120107_5.jpg"
+      },
+      "relationships": {
+        "label": {
+          "data": {
+            "type": "label",
+            "id": "LABEL_ID_Psychic Hotline"
+          }
+        }
+      }
+    }
+  ]
+}

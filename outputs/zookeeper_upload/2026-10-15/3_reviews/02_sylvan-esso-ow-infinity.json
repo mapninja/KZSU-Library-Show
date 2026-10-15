@@ -1,0 +1,19 @@
+{
+  "data": {
+    "type": "review",
+    "attributes": {
+      "airname": "DJ Stace",
+      "published": true,
+      "date": "2026-10-08",
+      "review": "Album / Artist: Ow ∞ / Sylvan Esso\r\n\r\nLabel: Psychic Hotline\r\n\r\nRelease Date: September 11, 2026\r\n\r\nReview Date: 10/8/2026\r\n\r\nReviewer: DJ Stace\r\n\r\nGeneral Comments / Reviews:\r\n\r\nElectro-pop that wanders off into fuzz guitars, breakbeats and trip-hop, and comes back smiling like a Cheshire. Too many FCCs, but the clean ones are worth it. - DJ Stace\r\n\r\nRelease Notes:\r\n\r\nFifth album from Amelia Meath and Nick Sanborn; first in four years and first on their own label.\r\n\r\nBuilt over four years at their Betty's studio in Chapel Hill, N.C., with more collaborators than before.\r\n\r\nreleased September 11, 2026\r\n\r\nFCCs: 3,6,8,11\r\n\r\nRIYL: Flock of Dimes, Little Dragon, Purity Ring, Lucius\r\n\r\nPlay: All but FCCs, Favs Rated with up to *****\r\n\r\nTracklist:\r\n\r\n1. *** Entertainment & Coca-Cola 02:03 - Opens with a high-pitched wail that gives way to a soft melody that sounds like it’s coming from an antique toy recorder\r\n2. **** Flood Season 02:24 - Light, poppy with great beats. Bouncy with great melody, and vocals. Excellent.\r\n3. Hot Slob 02:45 - FCC fuck x3, bitch x1.Punked-up summer anthem. guitar by Jenn Wasner of Wye Oak. Worth a radio edit (there’s one on kzsustanford@gmail YTM account). Best song on the album.\r\n4. **** Concrete Glen 03:30 - Samples Sigur Ros' \"Svefn-g-englar\" Hazy. Slow and stochastic rhythms and soft bouncing “Nanny-boo-boo” lyrics. Excellent.\r\n5. *** Back Again 04:32 - Video game synth riffs and backbeat percussion pads, wonky clarinet bridge and soft lilting vocals.\r\n6. Ribbon 01:53 - FCC fuck x1. a cappella chorale with cursing.\r\n7. *** Sledge 02:48 - Fast-pased, driving rocker. Noisy distorted radio-type audio gives way to powerful vocals, distorted guitar and a repeated refrain.\r\n8. **** Right to Left 03:32 - FCC fuck x1. Great shuffling snare edge rhythm. Breathy and soft vocals.\r\n9. **** Good at Pain 02:48 - Great little weirdo wahwah organ vocal Intro. Create chaotic rhythms. Bouncy and surprisingly dancey. Excellent.\r\n10. *** Jessica 03:31 - More video game midi intro, with soft vocal intro.  Plucky and not at all melancholy. About the duo's friend Jessica, who died of sudden liver failure in 2023 (Paste).\r\n11. *** On & On 04:43 - FCC shit x4. Warbly little electro keyboard acoustic guitar pluck intro. Speedy shuffling little guitar Almost Bossa Nova.\r\n12. **** Plastic Sword 03:01 - pseudo-bluegrass over-auto-tuned scat and rap. Strange and wonderful. Great closer."
+    },
+    "relationships": {
+      "album": {
+        "data": {
+          "type": "album",
+          "id": "TAG_PENDING_sylvan-esso-ow-infinity"
+        }
+      }
+    }
+  }
+}
