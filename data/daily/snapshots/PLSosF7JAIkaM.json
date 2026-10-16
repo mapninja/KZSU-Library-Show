@@ -1,93 +1,148 @@
 {
  "playlist": "DJ Stace library show Air Order",
  "id": "PLSosF7JAIkaM",
- "snapshot": "2026-10-13",
- "note": "Read from YTM Oct. 13: 44 tracks. Stace cut Dazy Ugly, Death Cab A Movie Script Ending (swapped for Coney Island), Jess Williamson Goodbye to All That, Death Valley Girls Basic Witch (already out of plan); added Velvet Underground Venus In Furs and Death Cab Coney Island. Plan JSON synced.",
+ "snapshot": "2026-10-16",
+ "note": "Oct. 16 Thursday-night draft for the Oct. 22 show: rewritten from the aired Oct. 15 list by deltas (40 removed, 36 added, 38 moves, 9 kept). Verified by re-read: 45 tracks, order matches data/recon/2026-10-22/working_playlist.json. No Stace edits existed to harvest (the list matched the Oct. 15 archive).",
  "tracks": [
   [
-   "IDLES",
-   "Colossus",
-   "hoDWTZYkTDY"
+   "Dummy",
+   "Full Spectrum Dominance",
+   "FEeoIbUM60s"
   ],
   [
-   "Lambrini Girls",
-   "Cult of Celebrity",
-   "qjf8SsATw84"
+   "Heavens to Betsy",
+   "baby's gone",
+   "vHOfGp9F1Pw"
   ],
   [
-   "Sheer Mag",
-   "Expect the Bayonet",
-   "gnSZhI4beE4"
+   "Twisted Teens",
+   "Peekaboo Hand",
+   "J2IJ6ugcmUI"
   ],
   [
-   "Sweeping Promises",
-   "Cocoon",
-   "UoBEFx1r4tk"
+   "Twisted Teens",
+   "Top Of The World Hwy No. 2",
+   "UmRuVav12FA"
   ],
   [
-   "Westside Cowboy",
-   "Kick Stones (The Boys)",
-   "W51Ik_1noH8"
+   "Lex Walton",
+   "For Thee I Sing",
+   "w7PnWZXJwoc"
   ],
   [
-   "The Velvet Underground & Nico",
-   "Venus In Furs",
-   "1qQ0MG9OPzA"
+   "Yard Act",
+   "New Beginnings",
+   "WUmzu_RDflM"
   ],
   [
-   "The Clash",
-   "Complete Control",
-   "u6ZWV7cCK5A"
+   "Little Barrie",
+   "More Bad Miles Of Road",
+   "QXOOzvDc3Nk"
   ],
   [
-   "Buzzcocks",
-   "What Do I Get?",
-   "csGl5yVoHk8"
+   "Big Boys",
+   "Fun Fun Fun",
+   "fvFLtKkzL-g"
   ],
   [
-   "Stiff Little Fingers",
-   "Alternative Ulster",
-   "PlGmYetiCjA"
+   "Scratch Acid",
+   "Mary Had a Little Drug Problem",
+   "4ULEdk2rIkY"
   ],
   [
-   "Sex Pistols",
-   "Pretty Vacant",
-   "2sQaJNtbSzI"
+   "Butthole Surfers",
+   "Pepper",
+   "G8sGmSEehi4"
   ],
   [
-   "The Fall",
-   "30 Degrees",
-   "9mebsxe970U"
+   "The Jesus Lizard",
+   "Monkey Trick",
+   "bCt7lZos7pM"
   ],
   [
-   "Joy Division",
-   "Transmission",
-   "Kx3EqNYQklg"
+   "Ty Segall",
+   "Separation",
+   "HOWV7yxxp8g"
   ],
   [
-   "Ramones",
-   "Blitzkrieg Bop",
-   "skdE0KAFCEA"
+   "Viagra Boys",
+   "Medicine for Horses",
+   "aDKGnFeLnF4"
   ],
   [
-   "Bad Brains",
-   "Banned in D.C.",
-   "grixlGSNS6U"
+   "Fontaines D.C.",
+   "Six Shot Morning",
+   "00krktruwsM"
   ],
   [
-   "Patti Smith",
-   "Gloria: In Excelsis Deo",
-   "bXXQNtsBXYU"
+   "Fontaines D.C.",
+   "Mimesis",
+   "zXyN6eZjlTg"
   ],
   [
-   "The Jon Spencer Blues Explosion",
-   "2Kindsa Love",
-   "tx6ZlKdKwK4"
+   "Fontaines D.C.",
+   "Happy For You",
+   "wOkBZA51Z9o"
   ],
   [
-   "Death Cab for Cutie",
-   "Coney Island",
-   "Xt5JDwDX3xA"
+   "Fontaines D.C. & ROSALIA",
+   "Where Is Gone?",
+   "3mb6YrCabso"
+  ],
+  [
+   "Palace",
+   "Denny's",
+   "vEL9U3Z1cvo"
+  ],
+  [
+   "Sluice",
+   "Zillow",
+   "lpl4quk0T_g"
+  ],
+  [
+   "This Is Lorelei",
+   "Don't You Cry in Lonesomeness",
+   "cD_Av64P_qU"
+  ],
+  [
+   "Dread Spectre Council",
+   "Hooves & Cloves",
+   "2fTel1iqDiQ"
+  ],
+  [
+   "Tricky",
+   "Because I Don't Know",
+   "gKkWSYQaxVo"
+  ],
+  [
+   "The Damned",
+   "New Rose",
+   "ug3RfquyZl0"
+  ],
+  [
+   "The Damned",
+   "Neat Neat Neat",
+   "gXKDtkCzSCw"
+  ],
+  [
+   "The Damned",
+   "Love Song",
+   "F5fHfGZENbQ"
+  ],
+  [
+   "Cheekface",
+   "No Fly Zone",
+   "RoeVGBKwnkU"
+  ],
+  [
+   "BODEGA",
+   "Territorial Call of the Female",
+   "rg1uP4mxXzE"
+  ],
+  [
+   "Frightwig",
+   "Big Bang",
+   "omuKcuxMQq4"
   ],
   [
    "Julia Jacklin",
@@ -95,99 +150,59 @@
    "DL9Ac9pcKqI"
   ],
   [
-   "Blondshell",
-   "Heart Has To Work So Hard",
-   "iqtAP6szsPg"
+   "Protomartyr",
+   "Feast of Stephen",
+   "4Yf-8hL7lzk"
   ],
   [
-   "Brigitte Calls Me Baby",
-   "Altitude",
-   "akcyM1qcfuM"
+   "Black Flag",
+   "Rise Above",
+   "wDUYCyajDcs"
   ],
   [
-   "Teens in Trouble",
-   "I Do",
-   "HDFgZYq0-zo"
+   "Kraftwerk",
+   "Numbers (2009 Remaster)",
+   "fOoCnK5Jza4"
   ],
   [
-   "Michael Kiwanuka",
-   "Summer Clothes",
-   "Q19tYEHCfP0"
+   "Cabaret Voltaire",
+   "Nag, Nag, Nag",
+   "wdyhe8VT6Yg"
   ],
   [
-   "Fontaines D.C.",
-   "Big",
-   "7eM4MkqvDiY"
+   "Fujiya & Miyagi",
+   "No Green Light",
+   "K5l80OdiCzM"
   ],
   [
-   "Fontaines D.C.",
-   "Jackie Down the Line",
-   "tWTU4y_t3a8"
+   "Pulp",
+   "The Trees",
+   "dXyQj36I2Vc"
   ],
   [
-   "Fontaines D.C.",
-   "Marianne",
-   "ikKBcZg9jUc"
+   "The Avalanches",
+   "Blue Shadows (feat. Karen O)",
+   "nybyN7_98zw"
   ],
   [
-   "Heavens to Betsy",
-   "ain't never goin' back",
-   "LwGiIir7q8M"
+   "Sylvan Esso",
+   "Concrete Glen",
+   "PVcU0z1zPqk"
   ],
   [
-   "Dummy",
-   "Full Spectrum Dominance",
-   "FEeoIbUM60s"
+   "The Fall",
+   "A Caveat",
+   "BSraSIhC_8A"
   ],
   [
-   "Boy Harsher",
-   "Pain",
-   "hBK-7j_K5i0"
-  ],
-  [
-   "Dinosaur Jr.",
-   "Start Choppin'",
-   "OUrRKjY2DkI"
-  ],
-  [
-   "Stef Chura",
-   "The Concrete",
-   "oQWmM_9F954"
-  ],
-  [
-   "Hovvdy",
-   "Try Try Try",
-   "PS4WMDhV2As"
-  ],
-  [
-   "The Tallest Man on Earth",
-   "Deliver Me From Trying",
-   "RfnnUQYE5Fw"
-  ],
-  [
-   "Beth Orton",
-   "Waiting",
-   "4AEdJyRdtHI"
-  ],
-  [
-   "Perfume Genius",
-   "Queen",
-   "oRc4eohqlaM"
-  ],
-  [
-   "Nilüfer Yanya",
-   "midnight sun",
-   "E_LiLwsfhV8"
+   "Pretenders",
+   "Don't Get Me Wrong",
+   "DD-5_lCEMHY"
   ],
   [
    "Goat",
    "I Sing in Silence",
    "7XhgcajHhcM"
-  ],
-  [
-   "Dead Meadow",
-   "Everything's Goin On",
-   "dXVE5NZl6G4"
   ],
   [
    "Allah-Las",
@@ -213,16 +228,6 @@
    "R.M.F.C.",
    "The Clue",
    "pcFnJEXsvWc"
-  ],
-  [
-   "R.M.F.C.",
-   "Mirror",
-   "yQt5aOzytyA"
-  ],
-  [
-   "Radio Free Alice",
-   "Lunch Money",
-   "jef6-SwnwEY"
   ]
  ]
 }

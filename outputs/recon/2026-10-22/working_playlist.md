@@ -1,0 +1,83 @@
+# Working playlist: 2026-10-22 show (draft)
+
+Air Order (forward): https://music.youtube.com/playlist?list=PLSosF7JAIkaM
+Working (reversed): https://music.youtube.com/playlist?list=PLLXFGCRcu_qc
+
+45 tracks, 2:34. FCC screen: LRCLIB and Genius, counts only.
+
+| # | Set | Artist | Track | Album | Label | Tag | Time | FCC | Why |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | Hour 1, Set 1: Loud and new, plus reviews in rotation | Dummy | [Full Spectrum Dominance](https://music.youtube.com/watch?v=FEeoIbUM60s) | do you love the color of the sky? | Polyvinyl Record Co. |  | 3:36 | CLEAN (Genius, 158 words). | Album out today (Fri. Oct. 16) on Polyvinyl. Carried over: it did not air Oct. 15. |
+| 2 | Hour 1, Set 1: Loud and new, plus reviews in rotation | Heavens to Betsy | [baby's gone](https://music.youtube.com/watch?v=vHOfGp9F1Pw) | baby's gone | Yoyo Recordings | 58171 | 2:25 | CLEAN (Genius, 150 words). | New Heavens to Betsy compilation out Oct. 16. Carried over: 'ain't never goin' back' did not air Oct. 15. |
+| 3 | Hour 1, Set 1: Loud and new, plus reviews in rotation | Twisted Teens | [Peekaboo Hand](https://music.youtube.com/watch?v=J2IJ6ugcmUI) | Blame the Clown | Chain Smoking Records | 1156418 | 3:23 | DJ Stace review (Zookeeper, reviewed Oct. 4 to 8, 2026): no FCC flag on this track. | Reviewed rotation, week 2: five stars in DJ Stace's review. Holy Cross Tigers is out Nov. 6. |
+| 4 | Hour 1, Set 1: Loud and new, plus reviews in rotation | Twisted Teens | [Top Of The World Hwy No. 2](https://music.youtube.com/watch?v=UmRuVav12FA) | Florida Water Blues | Chain Smoking Records | 1156430 | 2:12 | DJ Stace review (Zookeeper, reviewed Oct. 4 to 8, 2026): no FCC flag on this track. | Reviewed rotation, week 2: five stars in DJ Stace's review. |
+| 5 | Hour 1, Set 1: Loud and new, plus reviews in rotation | Lex Walton | [For Thee I Sing](https://music.youtube.com/watch?v=w7PnWZXJwoc) | Ultimate Love Forever | Sub Pop Records | 1156519 | 2:01 | DJ Stace review (Zookeeper, reviewed Oct. 4 to 8, 2026): no FCC flag on this track. | Reviewed rotation, week 2: five stars. Opener of the album. CD and LP out Nov. 20. |
+| 6 | Hour 1, Set 1: Loud and new, plus reviews in rotation | Yard Act | [New Beginnings](https://music.youtube.com/watch?v=WUmzu_RDflM) | You're Gonna Need A Little Music | Republic Records | 1156564 | 3:28 | DJ Stace review (Zookeeper, reviewed Oct. 4 to 8, 2026): no FCC flag on this track. | Reviewed rotation, week 2: five stars. Over The Barrel aired Oct. 1, so a different track. |
+| 7 | Hour 1, Set 1: Loud and new, plus reviews in rotation | Little Barrie | [More Bad Miles Of Road](https://music.youtube.com/watch?v=QXOOzvDc3Nk) | Gravity Freeze | Easy Eye Sound | 1156452 | 3:49 | DJ Stace review (Zookeeper, reviewed Oct. 4 to 8, 2026): no FCC flag on this track. | Reviewed rotation, week 2: five stars. Lead single, heavy play on the show. |
+| 8 | Hour 1, Set 2: Texas punk (Austin and San Antonio) | Big Boys | [Fun Fun Fun](https://music.youtube.com/watch?v=fvFLtKkzL-g) | Fun Fun Fun | Moment Records |  | 3:15 | CLEAN (Genius, 183 words). | Texas punk arc (config/show_focus.json), Austin. Funk-punk from Randy 'Biscuit' Turner's band. |
+| 9 | Hour 1, Set 2: Texas punk (Austin and San Antonio) | Scratch Acid | [Mary Had a Little Drug Problem](https://music.youtube.com/watch?v=4ULEdk2rIkY) | Berserker | Touch and Go | 1034547 | 2:17 | CLEAN (Genius, 88 words, short: may be partial lyrics; check by ear). | Texas punk arc, Austin. Scratch Acid's David Yow went on to front The Jesus Lizard. |
+| 10 | Hour 1, Set 2: Texas punk (Austin and San Antonio) | Butthole Surfers | [Pepper](https://music.youtube.com/watch?v=G8sGmSEehi4) | Electriclarryland | Capitol Records (Jazz) | 316886 | 4:58 | CLEAN (Genius, 377 words). | Texas punk arc, San Antonio. Last spin Aug. 6, 2026. |
+| 11 | Hour 1, Set 2: Texas punk (Austin and San Antonio) | The Jesus Lizard | [Monkey Trick](https://music.youtube.com/watch?v=bCt7lZos7pM) | Goat | Touch and Go | 1086342 | 4:19 | CLEAN (Genius, 238 words). | Texas punk arc. David Yow's band after Scratch Acid. Mouth Breather (piss x1) and Seasick (fuck x1) were skipped. |
+| 12 | Hour 1, Set 2: Texas punk (Austin and San Antonio) | Ty Segall | [Separation](https://music.youtube.com/watch?v=HOWV7yxxp8g) | Chrome | Drag City | 1156508 | 2:52 | DJ Stace review (Zookeeper, reviewed Oct. 4 to 8, 2026): no FCC flag on this track. | Reviewed rotation, week 2 (three stars: fast, snared-out punk rocker). Pairs with the Texas set. Play Cowboys aired Oct. 1 and Oct. 8; Black Paint is in cool-off. |
+| 13 | Hour 1, Set 2: Texas punk (Austin and San Antonio) | Viagra Boys | [Medicine for Horses](https://music.youtube.com/watch?v=aDKGnFeLnF4) | viagr aboys | Year0001 |  | 2:51 | CLEAN (Genius, 249 words). | Texas arc pairing named in config/show_focus.json (Ty Segall, Thee Oh Sees, Viagra Boys). |
+| 14 | Hour 1, Set 3: Fontaines D.C., Dopamine Chamber (out Oct. 16) | Fontaines D.C. | [Six Shot Morning](https://music.youtube.com/watch?v=00krktruwsM) | Dopamine Chamber | Xl Recordings |  | 4:57 | CLEAN (Genius, 179 words). | Requested by DJ Stace (Oct. 16). Album opener. All Genius lyrics screened Oct. 16 after release. |
+| 15 | Hour 1, Set 3: Fontaines D.C., Dopamine Chamber (out Oct. 16) | Fontaines D.C. | [Mimesis](https://music.youtube.com/watch?v=zXyN6eZjlTg) | Dopamine Chamber | Xl Recordings |  | 3:52 | CLEAN (Genius, 334 words). | Requested by DJ Stace. Album track 3. |
+| 16 | Hour 1, Set 3: Fontaines D.C., Dopamine Chamber (out Oct. 16) | Fontaines D.C. | [Happy For You](https://music.youtube.com/watch?v=wOkBZA51Z9o) | Dopamine Chamber | Xl Recordings |  | 3:49 | CLEAN (Genius, 175 words). | Requested by DJ Stace. Debuted live at Leeds Festival Aug. 29. |
+| 17 | Hour 1, Set 3: Fontaines D.C., Dopamine Chamber (out Oct. 16) | Fontaines D.C. & ROSALIA | [Where Is Gone?](https://music.youtube.com/watch?v=3mb6YrCabso) | Dopamine Chamber | Xl Recordings |  | 5:17 | CLEAN (Genius, 245 words). | Requested by DJ Stace. Guest spot from Rosalia, the band's first guest on a record. Longest track on the album. |
+| 18 | Hour 1, Set 4: Reviewed albums in rotation | Palace | [Denny's](https://music.youtube.com/watch?v=vEL9U3Z1cvo) | Ox | Awal | 1156463 | 4:50 | DJ Stace review (Zookeeper, reviewed Oct. 4 to 8, 2026): no FCC flag on this track. | Reviewed rotation, week 2: five stars. Made My Bed aired Oct. 1. |
+| 19 | Hour 1, Set 4: Reviewed albums in rotation | Sluice | [Zillow](https://music.youtube.com/watch?v=lpl4quk0T_g) | Companion | Mtn Laurel Recording Co. | 1156485 | 3:13 | DJ Stace review (Zookeeper, reviewed Oct. 4 to 8, 2026): no FCC flag on this track. | Reviewed rotation, week 2: five stars. Beadie aired Oct. 15, so a different track. |
+| 20 | Hour 1, Set 4: Reviewed albums in rotation | This Is Lorelei | [Don't You Cry in Lonesomeness](https://music.youtube.com/watch?v=cD_Av64P_qU) | The Singer in My Band | Matador Records | 1156441 | 3:19 | DJ Stace review (Zookeeper, reviewed Oct. 4 to 8, 2026): no FCC flag on this track. | Reviewed rotation, week 2: four stars. Oh No Now My (Oct. 8) and Hey Sarah (Oct. 1) already aired; Billy Came Back is in cool-off. |
+| 21 | Hour 1, Set 4: Reviewed albums in rotation | Dread Spectre Council | [Hooves & Cloves](https://music.youtube.com/watch?v=2fTel1iqDiQ) | Thetans | Handmade Records | 1156474 | 3:24 | DJ Stace review (Zookeeper, reviewed Oct. 4 to 8, 2026): no FCC flag on this track. | Reviewed rotation, week 2: five stars. Hex's Up aired Oct. 8. |
+| 22 | Hour 1, Set 4: Reviewed albums in rotation | Tricky | [Because I Don't Know](https://music.youtube.com/watch?v=gKkWSYQaxVo) | Different When It's Silent | False Idols | 1156496 | 4:34 | DJ Stace review (Zookeeper, reviewed Oct. 4 to 8, 2026): no FCC flag on this track. | Reviewed rotation, week 2: five stars. 'The hit on the record,' per her review. |
+| 23 | Hour 2, Thursday Triple Shot: The Damned | The Damned | [New Rose](https://music.youtube.com/watch?v=ug3RfquyZl0) | Damned Damned Damned | Frontier | 982492 | 2:43 | CLEAN (Genius, 249 words). | Triple Shot 1 of 3. Released Oct. 22, 1976: 50 years ago today. First UK punk single, produced by Nick Lowe. |
+| 24 | Hour 2, Thursday Triple Shot: The Damned | The Damned | [Neat Neat Neat](https://music.youtube.com/watch?v=gXKDtkCzSCw) | Damned Damned Damned | Frontier | 982492 | 2:41 | CLEAN (Genius, 356 words). | Triple Shot 2 of 3. From the debut LP, first UK punk album. |
+| 25 | Hour 2, Thursday Triple Shot: The Damned | The Damned | [Love Song](https://music.youtube.com/watch?v=F5fHfGZENbQ) | Machine Gun Etiquette | Emi Records | 982504 | 2:22 | CLEAN (Genius, 242 words). | Triple Shot 3 of 3. 1979 turn toward power pop; shows range. |
+| 26 | Hour 2, Set 6: Bay Area, this weekend and next (upcoming shows only) | Cheekface | [No Fly Zone](https://music.youtube.com/watch?v=RoeVGBKwnkU) | Podium | Cheekface (self-released) |  | 4:14 | CLEAN (Genius, 382 words). | Fri. Oct. 23, Cornerstone, Berkeley, with BODEGA ($36). Foopee lists Waitress as support on a second entry: confirm the bill. In the Weekly Playlist (Friday sweep). |
+| 27 | Hour 2, Set 6: Bay Area, this weekend and next (upcoming shows only) | BODEGA | [Territorial Call of the Female](https://music.youtube.com/watch?v=rg1uP4mxXzE) | Broken Equipment | Chrysalis Records |  | 2:46 | CLEAN (Genius, 276 words). | Fri. Oct. 23, Cornerstone, Berkeley, with Cheekface. DJ Stace added it to the Weekly Playlist. |
+| 28 | Hour 2, Set 6: Bay Area, this weekend and next (upcoming shows only) | Frightwig | [Big Bang](https://music.youtube.com/watch?v=omuKcuxMQq4) | Wild Women Never Die | Southern Records | 820819 | 4:02 | CLEAN (Genius, 123 words). | Fri. Oct. 23, Chapel, S.F., with AroMa and scary story time ($25). San Francisco punk band. YTM lists the track on 'We Need to Talk'; the library holds it on Wild Women Never Die. |
+| 29 | Hour 2, Set 6: Bay Area, this weekend and next (upcoming shows only) | Julia Jacklin | [Get Away From Me (I Think I'll Love You Soon)](https://music.youtube.com/watch?v=DL9Ac9pcKqI) | The Gem | 4AD |  | 2:49 | CLEAN (Genius, 253 words). | Fri. Oct. 23, Castro, S.F. (foopee: sold out). Carried over: it did not air Oct. 15. |
+| 30 | Hour 2, Set 6: Bay Area, this weekend and next (upcoming shows only) | Protomartyr | [Feast of Stephen](https://music.youtube.com/watch?v=4Yf-8hL7lzk) | The Agent Intellect | Hardly Art | 1084193 | 2:25 | CLEAN (Genius, 80 words). | Fri. Oct. 23, The Ritz, San Jose, with Accessory ($26/$30). Different track from the earlier cool-off pick. |
+| 31 | Hour 2, Set 6: Bay Area, this weekend and next (upcoming shows only) | Black Flag | [Rise Above](https://music.youtube.com/watch?v=wDUYCyajDcs) | Damaged | Sst Records/New Alliance | 828772 | 2:27 | CLEAN (Genius, 242 words). | Sun. Oct. 25, Cornerstone, Berkeley ($45.80, Greg Ginn lineup); Fri. Oct. 23, Felton Music Hall. Nervous Breakdown skipped (fuck x2, Outro). |
+| 32 | Hour 2, Set 7: Machines and motorik | Kraftwerk | [Numbers (2009 Remaster)](https://music.youtube.com/watch?v=fOoCnK5Jza4) | Computer World (2009 Remaster) | Elektra Classics | 892751 | 3:21 | CLEAN (LRCLIB, 138 words, counting). | Requested back by DJ Stace (Oct. 16): she liked the set and did not get to play it Oct. 15. |
+| 33 | Hour 2, Set 7: Machines and motorik | Cabaret Voltaire | [Nag, Nag, Nag](https://music.youtube.com/watch?v=wdyhe8VT6Yg) | The Living Legends | Rough Trade Records |  | 4:40 | CLEAN (LRCLIB, 108 words). | Requested back by DJ Stace. Sheffield, 1979 single on Rough Trade. |
+| 34 | Hour 2, Set 7: Machines and motorik | Fujiya & Miyagi | [No Green Light](https://music.youtube.com/watch?v=K5l80OdiCzM) | New Shiny Object (verify) | Impossible Objects of Desire (verify) |  | 5:51 | UNVERIFIED: no lyrics posted on Genius or LRCLIB. Listen first. | Requested back by DJ Stace. New Shiny Object is out Oct. 30. It aired Oct. 15 per the Zookeeper log, so this is a second week for a new single. |
+| 35 | Hour 2, Set 8: Anniversary, new and slow | Pulp | [The Trees](https://music.youtube.com/watch?v=dXyQj36I2Vc) | We Love Life | Sanctuary Records Inc. | 667571 | 4:53 | CLEAN (Genius, 240 words). | 25th anniversary today. We Love Life came out Oct. 22, 2001 on Island, produced by Scott Walker; UK No. 6. |
+| 36 | Hour 2, Set 8: Anniversary, new and slow | The Avalanches | [Blue Shadows (feat. Karen O)](https://music.youtube.com/watch?v=nybyN7_98zw) | No Bad Memories | Modular Recordings |  | 2:40 | CLEAN (Genius, Oct. 13 screen). | No Bad Memories out Oct. 16. Carried from the Oct. 15 bench. Karen O guest. |
+| 37 | Hour 2, Set 8: Anniversary, new and slow | Sylvan Esso | [Concrete Glen](https://music.youtube.com/watch?v=PVcU0z1zPqk) | Ow ∞ | Psychic Hotline | 1156542 | 3:30 | DJ Stace review (Zookeeper, reviewed Oct. 4 to 8, 2026): no FCC flag on this track. | Reviewed rotation, week 2: four stars. Hot Slob is the one with a radio edit; skipped. |
+| 38 | Hour 2, Set 8: Anniversary, new and slow | The Fall | [A Caveat](https://music.youtube.com/watch?v=BSraSIhC_8A) | Post Script | Cog Sinister | 1156531 | 4:10 | DJ Stace review (Zookeeper, reviewed Oct. 4 to 8, 2026): no FCC flag on this track. | Reviewed rotation, week 2: four stars. 30 Degrees aired Oct. 15. |
+| 39 | Hour 2, Set 8: Anniversary, new and slow | Pretenders | [Don't Get Me Wrong](https://music.youtube.com/watch?v=DD-5_lCEMHY) | Get Close | Sire Records |  | 3:47 | CLEAN (Genius, 179 words). | 40 years: Get Close came out in the UK Oct. 20, 1986. In the Weekly Playlist (Friday sweep). |
+| 40 | Hour 2, Set 9: Heavy, psych and short | Goat | [I Sing in Silence](https://music.youtube.com/watch?v=7XhgcajHhcM) | Requiem | Sub Pop Records | 1102420 | 3:29 | CLEAN (Genius, 82 words; may be a partial transcription). | Carried over: it did not air Oct. 15. |
+| 41 | Hour 2, Set 9: Heavy, psych and short | Allah-Las | [Sandy](https://music.youtube.com/watch?v=OpeaILsddHc) | Allah-Las | Innovative Leisure |  | 2:45 | CLEAN (Genius, 175 words). | Carried over: it did not air Oct. 15. |
+| 42 | Hour 2, Set 9: Heavy, psych and short | Twin Peaks | [Walk to the One You Love](https://music.youtube.com/watch?v=adRswyRcJmM) | Down in Heaven | Grand Jury Music |  | 3:34 | CLEAN (Genius, 203 words). | Carried over: it did not air Oct. 15. |
+| 43 | Hour 2, Set 9: Heavy, psych and short | feeble little horse | [Doorway](https://music.youtube.com/watch?v=rmd21czLZFw) | bitknot | Saddle Creek Records |  | 2:55 | CLEAN (Genius, 166 words). | Carried over: it did not air Oct. 15. |
+| 44 | Hour 2, Set 9: Heavy, psych and short | Star Moles | [The End](https://music.youtube.com/watch?v=C4KZlei2zk8) | Highway to Hell | Historic New Jersey Recordings |  | 2:29 | CLEAN (Genius, 117 words). | Carried over: it did not air Oct. 15. |
+| 45 | Hour 2, Set 9: Heavy, psych and short | R.M.F.C. | [The Clue](https://music.youtube.com/watch?v=pcFnJEXsvWc) | Hive, Vol. 2 |  |  | 1:40 | UNVERIFIED: no lyrics posted. Listen first. | Carried over: it did not air Oct. 15. Listen first (lyrics not posted). |
+
+## Left out for FCC
+
+- Fontaines D.C. "Tongue": shit x10 (Refrain). FCC Edit Needed (single, Sept. 30).
+- Fontaines D.C. "Japan": fuck x3, shit x3 (Chorus). not used; Dopamine Chamber track 10.
+- Scratch Acid "Crazy Dan": fuck x2, shit x1 (unlabeled); caution bitch x2, goddamn x1. not used.
+- The Jesus Lizard "Mouth Breather": piss x1 (Verse). Monkey Trick used instead.
+- The Jesus Lizard "Seasick": fuck x1 (unlabeled). Monkey Trick used instead.
+- Black Flag "Nervous Breakdown": fuck x2 (Outro). Rise Above used instead.
+- Frightwig "Crazy World": cock x1 (unlabeled). Big Bang used instead.
+- Viagra Boys "Waterboy": fuck x2 (Verse 1, Verse 2). Medicine for Horses used instead.
+- BODEGA "All Inside Aquarium": fuck x2. FCC Edit Needed candidate; Territorial Call of the Female used instead.
+- The Jesus Lizard "Then Comes Dudley": caution asshole x1. not used.
+- Sylvan Esso "Hot Slob": fuck x3, bitch x1 (per DJ Stace review). DJ Stace has a radio edit; not planned.
+- Yard Act "Empty Pledges / Tall Tales / Janey Said / Redeemer": fuck, shit (per DJ Stace review). New Beginnings used instead.
+
+## Cut by Stace
+
+- Dazy, "Ugly"
+- Death Cab for Cutie, "A Movie Script Ending"
+- Jess Williamson, "Goodbye to All That"
+- IDLES, "Colossus"
+- Bad Brains, "Banned in D.C."
+- Blondshell, "Heart Has To Work So Hard"
+- Brigitte Calls Me Baby, "Altitude"
+- Michael Kiwanuka, "Summer Clothes"
+- Fontaines D.C., "Big"
+- Fontaines D.C., "Jackie Down the Line"
+- Beth Orton, "Waiting"

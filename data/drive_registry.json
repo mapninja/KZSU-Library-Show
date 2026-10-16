@@ -192,6 +192,33 @@
    "deployed": "2026-10-15T03:35Z",
    "working": "Working/library_show_playlist_2026-10-15.csv",
    "note": "Raw CSV placed at /KZSU/ top level through Drive for desktop. Unchanged content from the Oct. 13 build (44 tracks, reversed)."
+  },
+  "notes_sheet_2026-10-22": {
+   "id": "1YMM5u25pE3ufVbWf291Y3rCvgr19Df0H1WMaG8yu-hY",
+   "type": "sheet",
+   "folder": "Show Prep",
+   "deployed": "2026-10-16T16:47Z",
+   "working": "Working/notes_sheet_2026-10-22.csv (repo outputs/recon/2026-10-22/notes_sheet_2026-10-22.csv)",
+   "retired": [],
+   "hash": "206a5be419481385261e532aa4a95cb1",
+   "note": "Oct. 16 Thursday-night draft: 45 rows, no ticks to harvest (new file)."
+  },
+  "working_show_script_2026-10-22": {
+   "id": null,
+   "type": "docx+pdf (local files)",
+   "folder": "Show Prep",
+   "deployed": "2026-10-16T16:47Z",
+   "working": "Working/working_show_script_2026-10-22.md (data record); Word and PDF in Show Prep and repo outputs/recon/2026-10-22/",
+   "retired": [],
+   "note": "Landscape table draft, 11 pages."
+  },
+  "review_suggestions_2026-10-16": {
+   "id": null,
+   "type": "md (local file)",
+   "folder": "Show Prep",
+   "deployed": "2026-10-16T16:47Z",
+   "working": "repo outputs/reviews/review_suggestions_2026-10-16.md",
+   "retired": []
   }
  },
  "folders": {

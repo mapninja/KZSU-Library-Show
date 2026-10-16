@@ -22,3 +22,5 @@
 - 2026-10-15 (Thursday sync): Final Notes Sheet 2026-10-15 redeployed (new id 1rmMJtcZCjd1Fhn1hlyETE--pPD_oMOB6DACuu0m4FU8) to match Stace's Oct. 15 Air Order edits: 51 tracks, 3:01. No ticks to harvest. Old sheet moved to _to_delete. Final Show Script docx and PDF, Zookeeper CSV and working_playlist md overwritten in place in KZSU/ (synced Drive folder). Working copies refreshed.
 
 - 2026-10-16 (Friday sweep): Review Shelf redeployed (new id 1kf7hrafz2HY_qZlXOB7xppGphJqfflaUx58C8nh4BUQ). +7 rows, 3 Status updates. 22 ticks kept. No Stace edits since Oct. 13 deploy. Old sheet moved to _to_delete. Working/review_shelf.csv mirrors the repo copy. Weekly notes copied to Show Prep.
+
+- 2026-10-16 (Thursday-night draft for Oct. 22): created Notes Sheet 2026-10-22 in Show Prep (id 1YMM5u25pE3ufVbWf291Y3rCvgr19Df0H1WMaG8yu-hY, 45 rows); copied the Working Show Script Word and PDF and review_suggestions_2026-10-16.md to Show Prep; working copies in Working/. Oct. 15 finals moved to Archive/2026/10-15/.

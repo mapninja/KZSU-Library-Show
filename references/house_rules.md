@@ -97,3 +97,9 @@
 - Git in the sandbox: commit with `git -c user.name="DJ Stace (Claude)" -c user.email="maples@stanford.edu" commit ...`; the token is `github_token` in `.env`. Push with `HEAD:main` (reviews repo: `HEAD:master`) and confirm with `git ls-remote`.
 - FCC audio edits: `scripts/fcc_audio_edit.py` exists but is parked (Whisper model download blocked in the sandbox). Do not run it on a schedule.
 - New Releases for Review (`new_releases_review`) is the one playlist where Claude removes tracks: only tracks Claude added, 14 days after the add date (ledger `expires`), never ones Stace added. Her deletes are logged as 60-day cool-offs. See skills/kzsu-new-releases-review/SKILL.md.
+
+## Upcoming shows only (Stace, Oct. 16, 2026)
+- Bay Area highlights, the Bay Area air break and ticket giveaways list only shows dated on or after the show date. Never promote a show that already happened. When a carried-over set was built around a passed date, rename it or drop the plug.
+
+## Reviewed albums stay in rotation (Stace, Oct. 16, 2026)
+- Albums she reviewed in the last 10 weeks stay in tapering rotation: 1 track per album per show for weeks 1 to 3, about half the albums for weeks 4 to 6, about one in four for weeks 7 to 10. Config and album list: `config/review_rotation.json`. Pull reviews from Zookeeper (airname 1428); `[DRAFT]` files in the reviews repo do not count until posted.
