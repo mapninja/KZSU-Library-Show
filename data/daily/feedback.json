@@ -1076,6 +1076,150 @@
    "show": "The Library",
    "item": "Yard Act - You're Gonna Need a Little Music",
    "strength": "weak"
+  },
+  {
+   "date": "2026-10-15",
+   "show": "The Library",
+   "item": "The Velvet Underground & Nico - Venus In Furs",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-15",
+   "show": "The Library",
+   "item": "Julia Jacklin - Get Away From Me (I Think I'll Love You Soon)",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-15",
+   "show": "The Library",
+   "item": "Teens in Trouble - I Do",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-15",
+   "show": "The Library",
+   "item": "Heavens to Betsy - ain't never goin' back",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-15",
+   "show": "The Library",
+   "item": "Stef Chura - The Concrete",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-15",
+   "show": "The Library",
+   "item": "Dummy - Full Spectrum Dominance",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-15",
+   "show": "The Library",
+   "item": "Boy Harsher - Pain",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-15",
+   "show": "The Library",
+   "item": "Dinosaur Jr. - Start Choppin'",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-15",
+   "show": "The Library",
+   "item": "Hovvdy - Try Try Try",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-15",
+   "show": "The Library",
+   "item": "The Tallest Man on Earth - Deliver Me From Trying",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-15",
+   "show": "The Library",
+   "item": "Perfume Genius - Queen",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-15",
+   "show": "The Library",
+   "item": "Nilüfer Yanya - midnight sun",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-15",
+   "show": "The Library",
+   "item": "SAULT - Wildfires",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-15",
+   "show": "The Library",
+   "item": "Kraftwerk - Numbers (2009 Remaster)",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-15",
+   "show": "The Library",
+   "item": "Cabaret Voltaire - Nag, Nag, Nag",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-15",
+   "show": "The Library",
+   "item": "Goat - I Sing in Silence",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-15",
+   "show": "The Library",
+   "item": "Dead Meadow - Everything's Goin On",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-15",
+   "show": "The Library",
+   "item": "Allah-Las - Sandy",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-15",
+   "show": "The Library",
+   "item": "Twin Peaks - Walk to the One You Love",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-15",
+   "show": "The Library",
+   "item": "feeble little horse - Doorway",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-15",
+   "show": "The Library",
+   "item": "Star Moles - The End",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-15",
+   "show": "The Library",
+   "item": "R.M.F.C. - The Clue",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-15",
+   "show": "The Library",
+   "item": "R.M.F.C. - Mirror",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-15",
+   "show": "The Library",
+   "item": "Radio Free Alice - Lunch Money",
+   "strength": "weak"
   }
  ],
  "moved_by_stace": [
@@ -1106,6 +1250,7 @@
    "note": "Removed from Weekly after it aired Oct. 8 (Triple Shot). Not a negative signal; no cool-off, no artist count."
   },
   "2026-10-14 final script run: no Cull or Replace ticks, no new Air Order edits since Oct. 13 (44 tracks match plan). No removals logged.",
-  "2026-10-15 show sync: Air Order 49 tracks. 8 removals logged (60-day cool-off), 13 adds logged, Fujiya & Miyagi paired with Kraftwerk and Cabaret Voltaire at her request."
+  "2026-10-15 show sync: Air Order 49 tracks. 8 removals logged (60-day cool-off), 13 adds logged, Fujiya & Miyagi paired with Kraftwerk and Cabaret Voltaire at her request.",
+  "2026-10-16 archive: Oct. 15 show archived to PLa4ZjzLjQBsM (30 spins). 24 planned tracks not aired logged as weak not_aired signals."
  ]
 }
