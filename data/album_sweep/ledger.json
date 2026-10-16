@@ -1,0 +1,608 @@
+{
+ "_note": "Albums reported by the weekly album sweep. Key = artist|album.",
+ "albums": {
+  "the fall|post script": {
+   "artist": "The Fall",
+   "album": "Post Script",
+   "label": "Cog Sinister",
+   "release_date": "2026-10-02",
+   "status": "released",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "spike fuck|evidence": {
+   "artist": "Spike Fuck",
+   "album": "evidence",
+   "label": "Sacred Bones",
+   "release_date": "2026-10-02",
+   "status": "released",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "greg freeman|all set the bone": {
+   "artist": "Greg Freeman",
+   "album": "All Set the Bone",
+   "label": "Transgressive / Canvasback",
+   "release_date": "2026-10-02",
+   "status": "released",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "vanishing twin|archives": {
+   "artist": "Vanishing Twin",
+   "album": "Archives",
+   "label": "Fire",
+   "release_date": "2026-10-02",
+   "status": "released",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "susanne sundfor|revelations of divine love": {
+   "artist": "Susanne Sundfor",
+   "album": "Revelations of Divine Love",
+   "label": "Bella Union",
+   "release_date": "2026-10-02",
+   "status": "released",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "wynonna judd|the hard truth": {
+   "artist": "Wynonna Judd",
+   "album": "The Hard Truth",
+   "label": "Anti-",
+   "release_date": "2026-10-02",
+   "status": "released",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "lenny kaye|riot on oxford street": {
+   "artist": "Lenny Kaye",
+   "album": "Riot on Oxford Street",
+   "label": "IN.2 Records",
+   "release_date": "2026-10-02",
+   "status": "released",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "cameron winter|live at carnegie hall": {
+   "artist": "Cameron Winter",
+   "album": "Live at Carnegie Hall",
+   "label": "Partisan / PIAS",
+   "release_date": "2026-10-09",
+   "status": "released",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "imperial teen|all over you": {
+   "artist": "Imperial Teen",
+   "album": "All Over You",
+   "label": "Merge",
+   "release_date": "2026-10-09",
+   "status": "released",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "dawn richard|creole culture": {
+   "artist": "Dawn Richard",
+   "album": "Creole Culture",
+   "label": "Merge",
+   "release_date": "2026-10-09",
+   "status": "released",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "danielle ponder|everything has changed": {
+   "artist": "Danielle Ponder",
+   "album": "Everything Has Changed",
+   "label": "Dead Oceans",
+   "release_date": "2026-10-09",
+   "status": "released",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "haai|digitise": {
+   "artist": "HAAi",
+   "album": "Digitise",
+   "label": "Mute",
+   "release_date": "2026-10-09",
+   "status": "released",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "@|autosmile": {
+   "artist": "@",
+   "album": "Autosmile",
+   "label": "4AD",
+   "release_date": "2026-10-16",
+   "status": "released",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "june mcdoom|follow the light": {
+   "artist": "June McDoom",
+   "album": "Follow The Light",
+   "label": "Jagjaguwar",
+   "release_date": "2026-10-16",
+   "status": "released",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "the avalanches|no bad memories": {
+   "artist": "The Avalanches",
+   "album": "No Bad Memories",
+   "label": "Modular",
+   "release_date": "2026-10-16",
+   "status": "released",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "eels|cookie happened": {
+   "artist": "Eels",
+   "album": "Cookie Happened",
+   "label": "E Works / PIAS",
+   "release_date": "2026-10-16",
+   "status": "released",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "they are gutting a body of water|kool faith / loosies ii": {
+   "artist": "They Are Gutting a Body of Water",
+   "album": "Kool Faith / Loosies II",
+   "label": "ATO / Julia's War",
+   "release_date": "2026-10-16",
+   "status": "released",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "tropical fuck storm|inflatable graveyard vol. 2": {
+   "artist": "Tropical Fuck Storm",
+   "album": "Inflatable Graveyard Vol. 2",
+   "label": "Fire",
+   "release_date": "2026-10-16",
+   "status": "released",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "richard thompson|hippies, thugs and heroes": {
+   "artist": "Richard Thompson",
+   "album": "Hippies, Thugs and Heroes",
+   "label": "New West",
+   "release_date": "2026-10-16",
+   "status": "released",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "bibio and dorian concept|answers": {
+   "artist": "Bibio and Dorian Concept",
+   "album": "Answers",
+   "label": "Warp",
+   "release_date": "2026-10-16",
+   "status": "released",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "fish narc|uncle": {
+   "artist": "Fish Narc",
+   "album": "Uncle",
+   "label": "K",
+   "release_date": "2026-10-16",
+   "status": "released",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "caroline rose|gentling the horse at the walt whitman mall": {
+   "artist": "Caroline Rose",
+   "album": "Gentling the Horse at the Walt Whitman Mall",
+   "label": "SUCK Records",
+   "release_date": "2026-10-23",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "shabazz palaces|it's a style sport": {
+   "artist": "Shabazz Palaces",
+   "album": "It's a Style Sport",
+   "label": "Sub Pop",
+   "release_date": "2026-10-23",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "axis: sova|flowerage": {
+   "artist": "Axis: Sova",
+   "album": "Flowerage",
+   "label": "Drag City",
+   "release_date": "2026-10-23",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "michael nau|popfly": {
+   "artist": "Michael Nau",
+   "album": "Popfly",
+   "label": "Suicide Squeeze",
+   "release_date": "2026-10-23",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "sun araw|rapid response": {
+   "artist": "Sun Araw",
+   "album": "Rapid Response",
+   "label": "Drag City",
+   "release_date": "2026-10-23",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "josh rouse|museums and women": {
+   "artist": "Josh Rouse",
+   "album": "Museums and Women",
+   "label": "New West",
+   "release_date": "2026-10-23",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "josh johnson|animative": {
+   "artist": "Josh Johnson",
+   "album": "Animative",
+   "label": "International Anthem / Nonesuch",
+   "release_date": "2026-10-23",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "the garden|bootleg": {
+   "artist": "The Garden",
+   "album": "Bootleg",
+   "label": "Epitaph",
+   "release_date": "2026-10-23",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "sour widows|sigil": {
+   "artist": "Sour Widows",
+   "album": "Sigil",
+   "label": "Julia's War",
+   "release_date": "2026-10-23",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "shit and shine|0 aa riot": {
+   "artist": "Shit and Shine",
+   "album": "0 aa Riot",
+   "label": "Riot Season",
+   "release_date": "2026-10-23",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "the olivia tremor control|the same place": {
+   "artist": "The Olivia Tremor Control",
+   "album": "The Same Place",
+   "label": "Elephant 6",
+   "release_date": "2026-10-23",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "claud|me and the music": {
+   "artist": "Claud",
+   "album": "Me and the Music",
+   "label": "Dead Oceans",
+   "release_date": "2026-10-23",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "manic street preachers|the holy bible live": {
+   "artist": "Manic Street Preachers",
+   "album": "The Holy Bible Live",
+   "label": "Sony",
+   "release_date": "2026-10-23",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "clinic|wild in the streets": {
+   "artist": "Clinic",
+   "album": "Wild in the Streets",
+   "label": "Domino",
+   "release_date": "2026-10-30",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "piss|you made me / skin on linen": {
+   "artist": "PISS",
+   "album": "you made me / skin on linen",
+   "label": "Sub Pop",
+   "release_date": "2026-10-30",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "sampa the great|nu zamrock": {
+   "artist": "Sampa the Great",
+   "album": "Nu Zamrock",
+   "label": "Loma Vista",
+   "release_date": "2026-10-30",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "thao|show me": {
+   "artist": "Thao",
+   "album": "Show Me",
+   "label": "Kill Rock Stars",
+   "release_date": "2026-10-30",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "rip magic|1,2,3": {
+   "artist": "RIP Magic",
+   "album": "1,2,3",
+   "label": "section1 (Partisan)",
+   "release_date": "2026-10-30",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "ex:re|save as": {
+   "artist": "Ex:Re",
+   "album": "Save As",
+   "label": "4AD",
+   "release_date": "2026-10-30",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "fujiya & miyagi|new shiny object": {
+   "artist": "Fujiya & Miyagi",
+   "album": "New Shiny Object",
+   "label": "Impossible Objects of Desire",
+   "release_date": "2026-10-30",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "lydia loveless|accolades": {
+   "artist": "Lydia Loveless",
+   "album": "Accolades",
+   "label": "Bloodshot",
+   "release_date": "2026-10-30",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "ben vaughn and deer tick|magnetic east: the deer tick sessions": {
+   "artist": "Ben Vaughn and Deer Tick",
+   "album": "Magnetic East: The Deer Tick Sessions",
+   "label": "Yep Roc",
+   "release_date": "2026-10-30",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "the church|lacuna": {
+   "artist": "The Church",
+   "album": "Lacuna",
+   "label": "Cooking Vinyl",
+   "release_date": "2026-10-30",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "wavves|cherry soda": {
+   "artist": "Wavves",
+   "album": "Cherry Soda",
+   "label": "I Surrender",
+   "release_date": "2026-10-30",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "why?|oh golly / yes lord": {
+   "artist": "Why?",
+   "album": "Oh Golly / Yes Lord",
+   "label": "Waterlines",
+   "release_date": "2026-10-30",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "twisted teens|the holy cross tigers": {
+   "artist": "Twisted Teens",
+   "album": "The Holy Cross Tigers",
+   "label": "Sub Pop",
+   "release_date": "2026-11-06",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "jozef van wissem & jim jarmusch|bocca di lupo / mouth of the wolf": {
+   "artist": "Jozef Van Wissem & Jim Jarmusch",
+   "album": "Bocca di Lupo / Mouth of the Wolf",
+   "label": "Sacred Bones",
+   "release_date": "2026-11-06",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "party dozen|21 bum salute": {
+   "artist": "Party Dozen",
+   "album": "21 Bum Salute",
+   "label": "City Slang",
+   "release_date": "2026-11-06",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "chastity belt|all my friends": {
+   "artist": "Chastity Belt",
+   "album": "All My Friends",
+   "label": "Suicide Squeeze",
+   "release_date": "2026-11-06",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "spanish love songs|future nausea": {
+   "artist": "Spanish Love Songs",
+   "album": "Future Nausea",
+   "label": "Pure Noise",
+   "release_date": "2026-11-06",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "eddie 9v|down here": {
+   "artist": "Eddie 9V",
+   "album": "Down Here",
+   "label": "Easy Eye Sound",
+   "release_date": "2026-11-06",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "current joys|rosebud": {
+   "artist": "Current Joys",
+   "album": "Rosebud",
+   "label": "They Are Evil",
+   "release_date": "2026-11-06",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "naked raygun|live at riot fest": {
+   "artist": "Naked Raygun",
+   "album": "Live at Riot Fest",
+   "label": "Loud Pizza Records",
+   "release_date": "2026-11-06",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "krill|secret language": {
+   "artist": "Krill",
+   "album": "Secret Language",
+   "label": "Exploding In Sound",
+   "release_date": "2026-11-13",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "radie peat|no human tongue can tell": {
+   "artist": "Radie Peat",
+   "album": "No Human Tongue Can Tell",
+   "label": "Rough Trade",
+   "release_date": "2026-11-13",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "kim deal|live at the barbican": {
+   "artist": "Kim Deal",
+   "album": "Live at the Barbican",
+   "label": "4AD",
+   "release_date": "2026-11-13",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "fucked up|year of the rooster": {
+   "artist": "Fucked Up",
+   "album": "Year of the Rooster",
+   "label": "Tankcrimes",
+   "release_date": "2026-11-13",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "live skull|what could go wrong?": {
+   "artist": "Live Skull",
+   "album": "What Could Go Wrong?",
+   "label": "Bronson Recordings",
+   "release_date": "2026-11-13",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "land of talk|lasts": {
+   "artist": "Land of Talk",
+   "album": "Lasts",
+   "label": "Saddle Creek",
+   "release_date": "2026-11-13",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "the body and cel genesis|whole wide world": {
+   "artist": "The Body and Cel Genesis",
+   "album": "Whole Wide World",
+   "label": "Thrill Jockey",
+   "release_date": "2026-11-13",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "royal blood|dead company": {
+   "artist": "Royal Blood",
+   "album": "Dead Company",
+   "label": "Warner",
+   "release_date": "2026-11-13",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "alan vega|live at max's kansas city": {
+   "artist": "Alan Vega",
+   "album": "Live at Max's Kansas City",
+   "label": "Sacred Bones",
+   "release_date": "2026-11-20",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "lael neale|as killers do": {
+   "artist": "Lael Neale",
+   "album": "As Killers Do",
+   "label": "Consensual Sound",
+   "release_date": "2026-11-20",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "morphine|cocoon": {
+   "artist": "Morphine",
+   "album": "Cocoon",
+   "label": "Partisan",
+   "release_date": "2026-12-04",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "mayo thompson|quiet days in cliche": {
+   "artist": "Mayo Thompson",
+   "album": "Quiet Days in Cliche",
+   "label": "Drag City",
+   "release_date": "2026-12-04",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  },
+  "soak|decembers": {
+   "artist": "SOAK",
+   "album": "decembers",
+   "label": "Rough Trade",
+   "release_date": "2026-12-04",
+   "status": "announced",
+   "first_reported": "2026-10-16",
+   "last_reported": "2026-10-16"
+  }
+ }
+}

@@ -85,6 +85,29 @@
    "source": "Friday sweep, web research",
    "ticked_requests_waiting": "none new (22 ticks all done or earlier)",
    "deploy": "Review Shelf redeployed as 1kf7hrafz2HY_qZlXOB7xppGphJqfflaUx58C8nh4BUQ; old sheet in _to_delete."
+  },
+  {
+   "date": "2026-10-16",
+   "trigger": "Monday album sweep (run Oct. 16)",
+   "rows_added": [
+    "The Fall - Post Script",
+    "Spike Fuck - evidence",
+    "Vanishing Twin - Archives",
+    "Susanne Sundfor - Revelations of Divine Love",
+    "Wynonna Judd - The Hard Truth",
+    "Lenny Kaye - Riot on Oxford Street",
+    "Dawn Richard - Creole Culture",
+    "Danielle Ponder - Everything Has Changed",
+    "HAAi - Digitise",
+    "June McDoom - Follow The Light",
+    "They Are Gutting a Body of Water - Kool Faith / Loosies II",
+    "Richard Thompson - Hippies, Thugs and Heroes",
+    "Bibio and Dorian Concept - Answers",
+    "Fish Narc - Uncle"
+   ],
+   "source": "Album sweep",
+   "ticked_requests_waiting": "none new (22 ticks kept)",
+   "deploy": "Working copies updated (repo data/staged and Drive Working). Google Sheet not redeployed; the next sweep will redeploy."
   }
  ]
 }
