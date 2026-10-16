@@ -365,6 +365,114 @@
    "videoId": "4AEdJyRdtHI",
    "note": "cut from Air Order",
    "cooloff_until": "2026-12-14"
+  },
+  {
+   "date": "2026-10-16",
+   "source_playlist": "New Releases for Review (PLIl7VQi0nzk0)",
+   "artist": "Fontaines D.C.",
+   "title": "Tongue",
+   "videoId": "hfus2KUnWlQ",
+   "note": "deleted from New Releases for Review",
+   "cooloff_until": "2026-12-15"
+  },
+  {
+   "date": "2026-10-16",
+   "source_playlist": "New Releases for Review (PLIl7VQi0nzk0)",
+   "artist": "DIIV",
+   "title": "Trillions",
+   "videoId": "44mcd6hjOl0",
+   "note": "deleted from New Releases for Review",
+   "cooloff_until": "2026-12-15"
+  },
+  {
+   "date": "2026-10-16",
+   "source_playlist": "New Releases for Review (PLIl7VQi0nzk0)",
+   "artist": "Kings of Leon",
+   "title": "Cold Blue Dawn",
+   "videoId": "VQZxwhWDh8w",
+   "note": "deleted from New Releases for Review",
+   "cooloff_until": "2026-12-15"
+  },
+  {
+   "date": "2026-10-16",
+   "source_playlist": "New Releases for Review (PLIl7VQi0nzk0)",
+   "artist": "The Tallest Man On Earth",
+   "title": "Just Beyond Endless Mountain",
+   "videoId": "OYtELuCAQ0Q",
+   "note": "deleted from New Releases for Review",
+   "cooloff_until": "2026-12-15"
+  },
+  {
+   "date": "2026-10-16",
+   "source_playlist": "New Releases for Review (PLIl7VQi0nzk0)",
+   "artist": "Fat Dog",
+   "title": "Heart of Darkness",
+   "videoId": "TqtY7mpje2s",
+   "note": "deleted from New Releases for Review",
+   "cooloff_until": "2026-12-15"
+  },
+  {
+   "date": "2026-10-16",
+   "source_playlist": "New Releases for Review (PLIl7VQi0nzk0)",
+   "artist": "David Byrne & Daniel Pemberton",
+   "title": "Let Me Sell You A Dream",
+   "videoId": "GE4EvRJ2AQ8",
+   "note": "deleted from New Releases for Review",
+   "cooloff_until": "2026-12-15"
+  },
+  {
+   "date": "2026-10-16",
+   "source_playlist": "New Releases for Review (PLIl7VQi0nzk0)",
+   "artist": "BODEGA",
+   "title": "Olivia",
+   "videoId": "jqxlf-H3Gsk",
+   "note": "deleted from New Releases for Review",
+   "cooloff_until": "2026-12-15"
+  },
+  {
+   "date": "2026-10-16",
+   "source_playlist": "New Releases for Review (PLIl7VQi0nzk0)",
+   "artist": "TV Priest",
+   "title": "Cartoons",
+   "videoId": "AdS6TodChfs",
+   "note": "deleted from New Releases for Review",
+   "cooloff_until": "2026-12-15"
+  },
+  {
+   "date": "2026-10-16",
+   "source_playlist": "New Releases for Review (PLIl7VQi0nzk0)",
+   "artist": "Awning",
+   "title": "Little Green Book",
+   "videoId": "HQR3ynC-mOs",
+   "note": "deleted from New Releases for Review",
+   "cooloff_until": "2026-12-15"
+  },
+  {
+   "date": "2026-10-16",
+   "source_playlist": "New Releases for Review (PLIl7VQi0nzk0)",
+   "artist": "Spiral XP",
+   "title": "Faith Electric",
+   "videoId": "vK5DLybUq7Q",
+   "note": "deleted from New Releases for Review",
+   "cooloff_until": "2026-12-15"
+  },
+  {
+   "date": "2026-10-16",
+   "source_playlist": "New Releases for Review (PLIl7VQi0nzk0)",
+   "artist": "American Motors",
+   "title": "marlboro miles",
+   "videoId": "en3seCQFVpg",
+   "note": "deleted from New Releases for Review",
+   "cooloff_until": "2026-12-15"
+  },
+  {
+   "date": "2026-10-16",
+   "source_playlist": "New Releases for Review (PLIl7VQi0nzk0)",
+   "artist": "Dummy",
+   "title": "N of 1",
+   "videoId": "A4DIFoBJk7U",
+   "note": "deleted from New Releases for Review",
+   "cooloff_until": "2026-12-15"
   }
  ],
  "added_by_stace": [
@@ -851,8 +959,19 @@
   "IDLES": 1,
   "Bad Brains": 1,
   "Brigitte Calls Me Baby": 1,
-  "Fontaines D.C.": 2,
-  "Beth Orton": 1
+  "Fontaines D.C.": 3,
+  "Beth Orton": 1,
+  "DIIV": 1,
+  "Kings of Leon": 1,
+  "The Tallest Man On Earth": 1,
+  "Fat Dog": 1,
+  "David Byrne & Daniel Pemberton": 1,
+  "BODEGA": 1,
+  "TV Priest": 1,
+  "Awning": 1,
+  "Spiral XP": 1,
+  "American Motors": 1,
+  "Dummy": 1
  },
  "not_aired": [
   {
@@ -1252,6 +1371,7 @@
   "2026-10-14 final script run: no Cull or Replace ticks, no new Air Order edits since Oct. 13 (44 tracks match plan). No removals logged.",
   "2026-10-15 show sync: Air Order 49 tracks. 8 removals logged (60-day cool-off), 13 adds logged, Fujiya & Miyagi paired with Kraftwerk and Cabaret Voltaire at her request.",
   "2026-10-16 archive: Oct. 15 show archived to PLa4ZjzLjQBsM (30 spins). 24 planned tracks not aired logged as weak not_aired signals.",
-  "2026-10-16 Friday sweep: Weekly unchanged since Oct. 13 (no deletes, no Stace adds). Next Show gained 12 tracks since Oct. 9; new names Sluice, Firewater, SAULT, Cameron Winter (live). Air Order still holds the aired Oct. 15 list. New Releases for Review dropped from 25 to 12 since Oct. 13 (13 tracks gone); left to kzsu-new-releases-review to log. 25 tracks added to Weekly (181 total)."
+  "2026-10-16 Friday sweep: Weekly unchanged since Oct. 13 (no deletes, no Stace adds). Next Show gained 12 tracks since Oct. 9; new names Sluice, Firewater, SAULT, Cameron Winter (live). Air Order still holds the aired Oct. 15 list. New Releases for Review dropped from 25 to 12 since Oct. 13 (13 tracks gone); left to kzsu-new-releases-review to log. 25 tracks added to Weekly (181 total).",
+  "2026-10-16 New Releases for Review: 13 deletes logged (Altitude already logged Oct. 15 from Air Order, not double counted). Fontaines D.C. now at 3 removals (Big, Jackie Down the Line, Tongue): downweight. 6 adds. 18 tracks."
  ]
 }

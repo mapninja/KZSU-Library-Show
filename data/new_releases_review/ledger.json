@@ -1,5 +1,5 @@
 {
- "_note": "Ledger for New Releases for Review. status: pending (not yet added), active, expired, deleted_by_stace, stace_added. expires = added + 14 days. Created 2026-10-10. First build 2026-10-10: 17 tracks added, sort Newest first, verified by reload. Fat Dog, Wishy and Greg Freeman stay pending until release dates are verified (add only if inside the 14-day window). Oct. 13: 4 deletes by Stace logged (Jamie T, Jess Williamson, Teenage Fanclub, Michael Kiwanuka; 60-day cool-off to 2026-12-12); 12 adds (expire 2026-10-27); Fat Dog and Greg Freeman pendings resolved, Wishy skipped. 25 tracks verified by reload.",
+ "_note": "Ledger for New Releases for Review. status: pending (not yet added), active, expired, deleted_by_stace, stace_added. expires = added + 14 days. Created 2026-10-10. First build 2026-10-10: 17 tracks added, sort Newest first, verified by reload. Fat Dog, Wishy and Greg Freeman stay pending until release dates are verified (add only if inside the 14-day window). Oct. 13: 4 deletes by Stace logged (Jamie T, Jess Williamson, Teenage Fanclub, Michael Kiwanuka; 60-day cool-off to 2026-12-12); 12 adds (expire 2026-10-27); Fat Dog and Greg Freeman pendings resolved, Wishy skipped. 25 tracks verified by reload. Oct. 16: 13 deletes by Stace logged (60-day cool-off to 2026-12-15); 6 adds (expire 2026-10-30); 18 tracks verified by reload.",
  "playlist_id": "PLIl7VQi0nzk0",
  "entries": [
   {
@@ -12,10 +12,12 @@
    "added": "2026-10-10",
    "expires": "2026-10-24",
    "owner": "claude",
-   "status": "active",
+   "status": "deleted_by_stace",
    "fcc_status": "CLEAN",
    "fcc_note": "",
-   "source": "Oct. 6 and Oct. 9 sweeps"
+   "source": "Oct. 6 and Oct. 9 sweeps",
+   "deleted_detected": "2026-10-16",
+   "cooloff_until": "2026-12-15"
   },
   {
    "videoId": "_A-qWmdo1n4",
@@ -57,10 +59,12 @@
    "added": "2026-10-10",
    "expires": "2026-10-24",
    "owner": "claude",
-   "status": "active",
+   "status": "deleted_by_stace",
    "fcc_status": "FCC",
    "fcc_note": "shit x10 (Refrain)",
-   "source": "Oct. 6 and Oct. 9 sweeps"
+   "source": "Oct. 6 and Oct. 9 sweeps",
+   "deleted_detected": "2026-10-16",
+   "cooloff_until": "2026-12-15"
   },
   {
    "videoId": "44mcd6hjOl0",
@@ -72,10 +76,12 @@
    "added": "2026-10-10",
    "expires": "2026-10-24",
    "owner": "claude",
-   "status": "active",
+   "status": "deleted_by_stace",
    "fcc_status": "FCC",
    "fcc_note": "fucking x1 (no section)",
-   "source": "Oct. 6 and Oct. 9 sweeps"
+   "source": "Oct. 6 and Oct. 9 sweeps",
+   "deleted_detected": "2026-10-16",
+   "cooloff_until": "2026-12-15"
   },
   {
    "videoId": "czwz__JdcxQ",
@@ -147,10 +153,12 @@
    "added": "2026-10-10",
    "expires": "2026-10-24",
    "owner": "claude",
-   "status": "active",
+   "status": "deleted_by_stace",
    "fcc_status": "UNVERIFIED",
    "fcc_note": "no lyrics found",
-   "source": "Oct. 6 and Oct. 9 sweeps"
+   "source": "Oct. 6 and Oct. 9 sweeps",
+   "deleted_detected": "2026-10-16",
+   "cooloff_until": "2026-12-15"
   },
   {
    "videoId": "Q19tYEHCfP0",
@@ -273,10 +281,12 @@
    "added": "2026-10-10",
    "expires": "2026-10-24",
    "owner": "claude",
-   "status": "active",
+   "status": "deleted_by_stace",
    "fcc_status": "UNVERIFIED",
    "fcc_note": "no lyrics found",
-   "source": "Oct. 6 and Oct. 9 sweeps"
+   "source": "Oct. 6 and Oct. 9 sweeps",
+   "deleted_detected": "2026-10-16",
+   "cooloff_until": "2026-12-15"
   },
   {
    "videoId": "oF6HGK3abhE",
@@ -321,11 +331,13 @@
    "added": "2026-10-13",
    "expires": "2026-10-27",
    "owner": "claude",
-   "status": "active",
+   "status": "deleted_by_stace",
    "fit": "Domino label; album out Oct. 2; replaces the pending \"Go Fuck Urself\" (May single)",
    "fcc_status": "CAUTION",
    "fcc_note": "bitch x3 (no section)",
-   "source": "Oct. 13 run; Oct. 13 Tuesday sweep, Stereogum, Sub Pop, Domino"
+   "source": "Oct. 13 run; Oct. 13 Tuesday sweep, Stereogum, Sub Pop, Domino",
+   "deleted_detected": "2026-10-16",
+   "cooloff_until": "2026-12-15"
   },
   {
    "videoId": "Hh919vOHHNA",
@@ -385,11 +397,13 @@
    "added": "2026-10-13",
    "expires": "2026-10-27",
    "owner": "claude",
-   "status": "active",
+   "status": "deleted_by_stace",
    "fit": "Matador is a tier 1 label; Oct. 13 sweep add",
    "fcc_status": "CLEAN",
    "fcc_note": "",
-   "source": "Oct. 13 run; Oct. 13 Tuesday sweep, Stereogum, Sub Pop, Domino"
+   "source": "Oct. 13 run; Oct. 13 Tuesday sweep, Stereogum, Sub Pop, Domino",
+   "deleted_detected": "2026-10-16",
+   "cooloff_until": "2026-12-15"
   },
   {
    "videoId": "jqxlf-H3Gsk",
@@ -401,11 +415,13 @@
    "added": "2026-10-13",
    "expires": "2026-10-27",
    "owner": "claude",
-   "status": "active",
+   "status": "deleted_by_stace",
    "fit": "Profile artist (67 shows); she added two BODEGA tracks to Weekly on Oct. 13; punk focus",
    "fcc_status": "CLEAN",
    "fcc_note": "",
-   "source": "Oct. 13 run; Oct. 13 Tuesday sweep, Stereogum, Sub Pop, Domino"
+   "source": "Oct. 13 run; Oct. 13 Tuesday sweep, Stereogum, Sub Pop, Domino",
+   "deleted_detected": "2026-10-16",
+   "cooloff_until": "2026-12-15"
   },
   {
    "videoId": "AdS6TodChfs",
@@ -417,11 +433,13 @@
    "added": "2026-10-13",
    "expires": "2026-10-27",
    "owner": "claude",
-   "status": "active",
+   "status": "deleted_by_stace",
    "fit": "Post-punk; show focus",
    "fcc_status": "UNVERIFIED",
    "fcc_note": "no lyrics found",
-   "source": "Oct. 13 run; Oct. 13 Tuesday sweep, Stereogum, Sub Pop, Domino"
+   "source": "Oct. 13 run; Oct. 13 Tuesday sweep, Stereogum, Sub Pop, Domino",
+   "deleted_detected": "2026-10-16",
+   "cooloff_until": "2026-12-15"
   },
   {
    "videoId": "HQR3ynC-mOs",
@@ -433,11 +451,13 @@
    "added": "2026-10-13",
    "expires": "2026-10-27",
    "owner": "claude",
-   "status": "active",
+   "status": "deleted_by_stace",
    "fit": "Stereogum pick; indie rock lane; weak signal",
    "fcc_status": "UNVERIFIED",
    "fcc_note": "no lyrics found",
-   "source": "Oct. 13 run; Oct. 13 Tuesday sweep, Stereogum, Sub Pop, Domino"
+   "source": "Oct. 13 run; Oct. 13 Tuesday sweep, Stereogum, Sub Pop, Domino",
+   "deleted_detected": "2026-10-16",
+   "cooloff_until": "2026-12-15"
   },
   {
    "videoId": "vK5DLybUq7Q",
@@ -449,11 +469,13 @@
    "added": "2026-10-13",
    "expires": "2026-10-27",
    "owner": "claude",
-   "status": "active",
+   "status": "deleted_by_stace",
    "fit": "Shoegaze lane; Oct. 13 sweep add",
    "fcc_status": "UNVERIFIED",
    "fcc_note": "no lyrics found",
-   "source": "Oct. 13 run; Oct. 13 Tuesday sweep, Stereogum, Sub Pop, Domino"
+   "source": "Oct. 13 run; Oct. 13 Tuesday sweep, Stereogum, Sub Pop, Domino",
+   "deleted_detected": "2026-10-16",
+   "cooloff_until": "2026-12-15"
   },
   {
    "videoId": "en3seCQFVpg",
@@ -465,11 +487,13 @@
    "added": "2026-10-13",
    "expires": "2026-10-27",
    "owner": "claude",
-   "status": "active",
+   "status": "deleted_by_stace",
    "fit": "Punk; recorded with J Robbins; show focus",
    "fcc_status": "UNVERIFIED",
    "fcc_note": "no lyrics found",
-   "source": "Oct. 13 run; Oct. 13 Tuesday sweep, Stereogum, Sub Pop, Domino"
+   "source": "Oct. 13 run; Oct. 13 Tuesday sweep, Stereogum, Sub Pop, Domino",
+   "deleted_detected": "2026-10-16",
+   "cooloff_until": "2026-12-15"
   },
   {
    "videoId": "A4DIFoBJk7U",
@@ -481,11 +505,103 @@
    "added": "2026-10-13",
    "expires": "2026-10-27",
    "owner": "claude",
-   "status": "active",
+   "status": "deleted_by_stace",
    "fit": "Polyvinyl label; Stereolab RIYL; album Oct. 16; Aug. 13 single \"Full Spectrum Dominance\" was outside the window",
    "fcc_status": "UNVERIFIED",
    "fcc_note": "Genius page has no lyrics yet",
-   "source": "Oct. 13 run; Oct. 13 Tuesday sweep, Stereogum, Sub Pop, Domino"
+   "source": "Oct. 13 run; Oct. 13 Tuesday sweep, Stereogum, Sub Pop, Domino",
+   "deleted_detected": "2026-10-16",
+   "cooloff_until": "2026-12-15"
+  },
+  {
+   "videoId": "_26EsYNmkAc",
+   "artist": "Blondie",
+   "title": "Spectral Eyes",
+   "album": "High Noon (album Feb. 26, 2027)",
+   "label": "BMG",
+   "released": "2026-10-15",
+   "added": "2026-10-16",
+   "expires": "2026-10-30",
+   "owner": "claude",
+   "status": "active",
+   "fcc_status": "CLEAN",
+   "fcc_note": "249 words on Genius",
+   "source": "Oct. 16 run: Profile artist (3 shows); first single in nine years, Johnny Marr guitar"
+  },
+  {
+   "videoId": "IRmEiyYV7H0",
+   "artist": "The Smashing Pumpkins",
+   "title": "Black Stars",
+   "album": "The Hunger Games: Sunrise on the Reaping (The Album)",
+   "label": "MCA (verify)",
+   "released": "2026-10-15 (single; some outlets say Oct. 16); soundtrack Nov. 13",
+   "added": "2026-10-16",
+   "expires": "2026-10-30",
+   "owner": "claude",
+   "status": "active",
+   "fcc_status": "CLEAN",
+   "fcc_note": "198 words on Genius",
+   "source": "Oct. 16 run: Profile artist (332 YTM plays, last spin May 2024)"
+  },
+  {
+   "videoId": "nybyN7_98zw",
+   "artist": "The Avalanches",
+   "title": "Blue Shadows (feat. Karen O)",
+   "album": "No Bad Memories",
+   "label": "Modular Recordings",
+   "released": "2026-10-16 album",
+   "added": "2026-10-16",
+   "expires": "2026-10-30",
+   "owner": "claude",
+   "status": "active",
+   "fcc_status": "CLEAN",
+   "fcc_note": "156 words on Genius",
+   "source": "Oct. 16 run: Profile artist (2 shows in 12 months); watchlist"
+  },
+  {
+   "videoId": "45uEwi_dFU8",
+   "artist": "@",
+   "title": "Autosmile",
+   "album": "Autosmile",
+   "label": "4AD",
+   "released": "2026-10-16 album (title track is lead single, June)",
+   "added": "2026-10-16",
+   "expires": "2026-10-30",
+   "owner": "claude",
+   "status": "active",
+   "fcc_status": "CLEAN",
+   "fcc_note": "442 words on Genius",
+   "source": "Oct. 16 run: 4AD is a top-10 label (120 spins); Stereogum album of the week coverage"
+  },
+  {
+   "videoId": "_ownZ_IG9nQ",
+   "artist": "PISS",
+   "title": "Rote Zora. \"Resistance is Possible.\" Emma, no. 6, June 1984, pp. 39-41.",
+   "album": "you made me / skin on linen",
+   "label": "Sub Pop Records (verify)",
+   "released": "2026-10-15 single; album Oct. 30",
+   "added": "2026-10-16",
+   "expires": "2026-10-30",
+   "owner": "claude",
+   "status": "active",
+   "fcc_status": "CLEAN",
+   "fcc_note": "258 words (Friday sweep screen)",
+   "source": "Oct. 16 run: Punk focus; Sub Pop"
+  },
+  {
+   "videoId": "7oGmnzdsvis",
+   "artist": "Heavens to Betsy",
+   "title": "ain't never goin' back",
+   "album": "baby's gone",
+   "label": "Kill Rock Stars",
+   "released": "2026-10-16 album (lead single)",
+   "added": "2026-10-16",
+   "expires": "2026-10-30",
+   "owner": "claude",
+   "status": "active",
+   "fcc_status": "CLEAN",
+   "fcc_note": "145 words (Friday sweep screen)",
+   "source": "Oct. 16 run: Punk focus (riot grrrl); Bay Area shows Oct. 17 and 18"
   }
  ]
 }
