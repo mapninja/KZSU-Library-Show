@@ -64,6 +64,27 @@
    "source": "Tuesday sweep, web research",
    "ticked_requests_waiting": "none new (22 ticks all done or earlier)",
    "deploy": "Review Shelf redeployed as 16_hzYARZ0LKts80BexBgNqDA-4a4UU7EEfxo1Ux0BCQ; old sheet in _to_delete."
+  },
+  {
+   "date": "2026-10-16",
+   "trigger": "Friday sweep (new releases)",
+   "rows_added": [
+    "@ - Autosmile",
+    "Eels - Cookie Happened",
+    "Radie Peat - No Human Tongue Can Tell",
+    "Blondie - Spectral Eyes (single)",
+    "The Smashing Pumpkins - Black Stars (single)",
+    "Now, Now - Slide (single)",
+    "Bodywash - La Renommée (single)"
+   ],
+   "status_updated": [
+    "Fontaines D.C. - Dopamine Chamber",
+    "Dummy - Do You Love the Color of the Sky?",
+    "Heavens to Betsey - baby's gone"
+   ],
+   "source": "Friday sweep, web research",
+   "ticked_requests_waiting": "none new (22 ticks all done or earlier)",
+   "deploy": "Review Shelf redeployed as 1kf7hrafz2HY_qZlXOB7xppGphJqfflaUx58C8nh4BUQ; old sheet in _to_delete."
   }
  ]
 }

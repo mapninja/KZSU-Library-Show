@@ -40,12 +40,13 @@
    ]
   },
   "review_shelf": {
-   "id": "16_hzYARZ0LKts80BexBgNqDA-4a4UU7EEfxo1Ux0BCQ",
+   "id": "1kf7hrafz2HY_qZlXOB7xppGphJqfflaUx58C8nh4BUQ",
    "type": "sheet",
    "folder": "KZSU top",
-   "deployed": "2026-10-13T13:52Z",
+   "deployed": "2026-10-16T16:33Z",
    "working": "Working/review_shelf.csv (mirror: repo data/staged/review_shelf.csv)",
    "retired": [
+    "16_hzYARZ0LKts80BexBgNqDA-4a4UU7EEfxo1Ux0BCQ",
     "1c8HLi0BfdVMuR52yx6KJVuIrb6AVieJSJ7s1G2Lqdww",
     "1_JNWDpkk3QIIUERXNMeptA6szTzrxvulXhr2v69ihM8",
     "1dzVYPNUWrSQ9SBTPEs676fOu9xwuRt-GJzTOqsnrV6M",
@@ -55,8 +56,8 @@
     "1QNa8uUbiTV5Tr6wzN_xxt5zj_Og9GYRwdLs9iiTBbU0",
     "11QBWd_ZhiASLbcZxtkymc4ZocPaKPa3Q5osApEgoCig"
    ],
-   "note": "Oct. 13 Tuesday sweep: added 10 new-release rows (QOTSA Perfecth, Twisted Teens Holy Cross Tigers, Van Wissem and Jarmusch, TV Priest, PISS, The Avalanches, Fujiya & Miyagi, Spiral XP, American Motors, David Byrne single). 107 rows, 22 ticks kept. No Stace edits since Oct. 12 deploy, so no harvest. Old sheet moved to _to_delete.",
-   "hash": "e56925d68dc0da0a2922fcd96727577c"
+   "note": "Oct. 16 Friday sweep: added 7 rows (@ Autosmile, Eels Cookie Happened, Radie Peat No Human Tongue Can Tell, Blondie, Smashing Pumpkins, Now Now, Bodywash singles) and updated Status on 3 rows (Fontaines D.C., Dummy, Heavens to Betsey). 114 rows, 22 ticks kept. No Stace edits since Oct. 13 deploy (metadata gate), so no harvest. Old sheet moved to _to_delete.",
+   "hash": "66a8fcdb2fff8edc2446170c4074f009"
   },
   "review_templates_2026-10-04": {
    "folder": "Staged Reviews/Review Templates (1tHnkXsNSidy9BDtjnYBXwxibyqWl6een)",

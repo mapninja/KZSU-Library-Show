@@ -1,0 +1,266 @@
+{
+ "date": "2026-10-16",
+ "run": "kzsu-fri-releases",
+ "target_show": "2026-10-22",
+ "playlist": "PLCLF-Tik2UHk",
+ "before": 156,
+ "after": 181,
+ "adds": [
+  {
+   "artist": "Fontaines D.C.",
+   "title": "Six Shot Morning",
+   "videoId": "bijLQqV_iAU",
+   "album": "Dopamine Chamber",
+   "label": "XL Recordings (verify)",
+   "released": "2026-10-16",
+   "bucket": "new_release",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Fontaines D.C.",
+   "title": "Mimesis",
+   "videoId": "YEQwq31sT8M",
+   "album": "Dopamine Chamber",
+   "label": "XL Recordings (verify)",
+   "released": "2026-10-16",
+   "bucket": "new_release",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Fontaines D.C.",
+   "title": "Happy For You",
+   "videoId": "q7wkBe1rPyM",
+   "album": "Dopamine Chamber",
+   "label": "XL Recordings (verify)",
+   "released": "2026-10-16",
+   "bucket": "new_release",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Dummy",
+   "title": "Squeaky Wheel",
+   "videoId": "Yo7CyqnGCbw",
+   "album": "do you love the color of the sky?",
+   "label": "Polyvinyl",
+   "released": "2026-10-16",
+   "bucket": "new_release",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Dummy",
+   "title": "April Limousine",
+   "videoId": "d7rQFNhBX3o",
+   "album": "do you love the color of the sky?",
+   "label": "Polyvinyl",
+   "released": "2026-10-16",
+   "bucket": "new_release",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Dummy",
+   "title": "Omen Globe",
+   "videoId": "VUCZsqAvpNM",
+   "album": "do you love the color of the sky?",
+   "label": "Polyvinyl",
+   "released": "2026-10-16",
+   "bucket": "new_release",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Heavens to Betsy",
+   "title": "baby’s gone",
+   "videoId": "vHOfGp9F1Pw",
+   "album": "baby's gone",
+   "label": "Kill Rock Stars",
+   "released": "2026-10-16",
+   "bucket": "new_release",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Heavens to Betsy",
+   "title": "ain’t never goin’ back",
+   "videoId": "7oGmnzdsvis",
+   "album": "baby's gone",
+   "label": "Kill Rock Stars",
+   "released": "2026-10-16",
+   "bucket": "new_release",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Heavens to Betsy",
+   "title": "stay dead",
+   "videoId": "8WQAcwZ7MYk",
+   "album": "baby's gone",
+   "label": "Kill Rock Stars",
+   "released": "2026-10-16",
+   "bucket": "new_release",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Eels",
+   "title": "Cap In Hand",
+   "videoId": "pZdk9sFjiw4",
+   "album": "Cookie Happened",
+   "label": "E Works / Play It Again Sam",
+   "released": "2026-10-16",
+   "bucket": "new_release",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "@",
+   "title": "Autosmile",
+   "videoId": "RUkIRiSQtK8",
+   "album": "Autosmile",
+   "label": "4AD",
+   "released": "2026-10-16",
+   "bucket": "new_release",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "@",
+   "title": "I Know You Are (But What Am I Thinking)",
+   "videoId": "6btDJcSMQSQ",
+   "album": "Autosmile",
+   "label": "4AD",
+   "released": "2026-10-16",
+   "bucket": "new_release",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Blondie",
+   "title": "Spectral Eyes",
+   "videoId": "_26EsYNmkAc",
+   "album": "Spectral Eyes (single)",
+   "label": "unverified",
+   "released": "2026-10-16",
+   "bucket": "new_single",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "The Smashing Pumpkins & The Hunger Games",
+   "title": "Black Stars (From The Hunger Games: Sunrise on the Reaping - The Album)",
+   "videoId": "IRmEiyYV7H0",
+   "album": "Hunger Games soundtrack single",
+   "label": "unverified",
+   "released": "2026-10-16",
+   "bucket": "new_single",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Justice, Tame Impala, SZA & Grand Theft Auto VI",
+   "title": "Flower In A Hurricane [from GTAVI] (feat. King Gizzard & the Lizard Wizard)",
+   "videoId": "JWxoRY7AFSw",
+   "album": "GTA VI single",
+   "label": "unverified",
+   "released": "2026-10-16",
+   "bucket": "new_single",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "PISS",
+   "title": "Rote Zora. “Resistance is Possible.” Emma, no. 6, June 1984, pp. 39-41.",
+   "videoId": "_ownZ_IG9nQ",
+   "album": "you made me / skin on linen",
+   "label": "Sub Pop (verify)",
+   "released": "2026-10-15",
+   "bucket": "new_single",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Now, Now",
+   "title": "Slide",
+   "videoId": "IwtnXoFcP2U",
+   "album": "Slide (single)",
+   "label": "unverified",
+   "released": "2026-10-15",
+   "bucket": "new_single",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Bodywash",
+   "title": "La Renommée",
+   "videoId": "kVrIxspxJhQ",
+   "album": "La Renommée (single)",
+   "label": "unverified",
+   "released": "2026-10-15",
+   "bucket": "new_single",
+   "fcc": "UNVERIFIED"
+  },
+  {
+   "artist": "Radie Peat",
+   "title": "Hares on The Mountain",
+   "videoId": "gPY8WoLXLAo",
+   "album": "Hares on The Mountain (single)",
+   "label": "unverified",
+   "released": "2026-10-15",
+   "bucket": "new_single",
+   "fcc": "UNVERIFIED"
+  },
+  {
+   "artist": "Cheekface",
+   "title": "No Fly Zone",
+   "videoId": "kYAIfBhdCww",
+   "album": "Podium",
+   "label": "self-released (Cheekface LLC)",
+   "released": "2026-07-28",
+   "bucket": "bay_area: Cornerstone Oct. 23 with BODEGA",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Frightwig",
+   "title": "Hot Air Rising (Official Video)",
+   "videoId": "nmXsPvGqeHI",
+   "album": "Hot Air Rising (Peace Now Mix) (single)",
+   "label": "unverified",
+   "released": "2026",
+   "bucket": "bay_area: Chapel Oct. 23",
+   "fcc": "UNVERIFIED"
+  },
+  {
+   "artist": "Dinosaur Jr",
+   "title": "Blowin' Up",
+   "videoId": "zS-yOS2HEGk",
+   "album": "There Near",
+   "label": "Jagjaguwar",
+   "released": "2026-08-28",
+   "bucket": "bay_area: Castro Oct. 18, Guild Oct. 19",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Stef Chura",
+   "title": "Leadweight",
+   "videoId": "1Uh99A-ZwKs",
+   "album": "Dancing Alone on the Concrete",
+   "label": "unverified",
+   "released": "2026",
+   "bucket": "bay_area: Castro Oct. 18, Guild Oct. 19 (opener)",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Wild Pink",
+   "title": "Box Store",
+   "videoId": "MRdbs85uBms",
+   "album": "Still Coming Down",
+   "label": "Fire Talk",
+   "released": "2026-08-21",
+   "bucket": "bay_area: Castro Oct. 20",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Pretenders",
+   "title": "Don't Get Me Wrong",
+   "videoId": "DD-5_lCEMHY",
+   "album": "Get Close",
+   "label": "Real (UK) / Sire (US) (verify)",
+   "released": "1986-10-20",
+   "bucket": "today_in_music: 40th anniversary (UK release)",
+   "fcc": "CLEAN"
+  }
+ ],
+ "not_added": [
+  "Cheekface - I Don't Work Here (FCC piss x1, spoken outro)",
+  "Babehoven - I See Them, I See Me (released Sept. 18, not new)",
+  "Eels - Clobbered (UNVERIFIED)"
+ ],
+ "notes": "Genius screened from a genius.com browser tab; sandbox lyric APIs 403; LRCLIB 503. Zookeeper not checked (Turnstile)."
+}

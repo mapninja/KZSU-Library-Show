@@ -1,8 +1,8 @@
 {
  "playlist": "DJ Stace - Next Show",
  "id": "PLMduzOohHQLrQzt6w4ep6l2zAwcIzoZVF",
- "snapshot": "2026-10-09",
- "note": "Read only. 26 tracks.",
+ "snapshot": "2026-10-16",
+ "note": "Read only. 42 tracks by API read (library view shows 51; unavailable rows may be skipped). 12 new since Oct. 9: Sluice x2, Firewater, SAULT, Cameron Winter live, plus tracks moved from Weekly or Air Order.",
  "tracks": [
   [
    "The Avalanches",
@@ -16,7 +16,7 @@
   ],
   [
    "Tricky & Mitch Sanders",
-   "Because I Don't Know",
+   "Because I Don’t Know",
    "kB06zmFKTQ0"
   ],
   [
@@ -153,6 +153,66 @@
    "BODEGA",
    "Slow Train",
    "4TnhLA3yQaU"
+  ],
+  [
+   "Sluice",
+   "Beadie",
+   "elKyn7L-Ddw"
+  ],
+  [
+   "Sluice",
+   "Zillow",
+   "x2THUYupEt8"
+  ],
+  [
+   "Firewater",
+   "Another Perfect Catastrophe",
+   "9_K08CnbR7E"
+  ],
+  [
+   "BODEGA",
+   "Fear not the Fear",
+   "u-OCkJD78Ec"
+  ],
+  [
+   "SAULT",
+   "Wildfires",
+   "GRC4Ac6IB1w"
+  ],
+  [
+   "Cameron Winter",
+   "Love Takes Miles (Live at Carnegie Hall)",
+   "i4J2mM3DY1Q"
+  ],
+  [
+   "The Tallest Man On Earth",
+   "Just Beyond Endless Mountain",
+   "OYtELuCAQ0Q"
+  ],
+  [
+   "Fontaines D.C.",
+   "Chequeless Reckless (Darklands Version)",
+   "Y-dA3yt8m8s"
+  ],
+  [
+   "Fontaines D.C.",
+   "Marianne",
+   "ikKBcZg9jUc"
+  ],
+  [
+   "IDLES",
+   "The Beachland Ballroom",
+   "VJ7esiIHMp8"
+  ],
+  [
+   "Twisted Teens",
+   "Stalks",
+   "mDYeisr6Gro"
+  ],
+  [
+   "Fujiya & Miyagi",
+   "No Green Light",
+   "K5l80OdiCzM"
   ]
  ]
 }
