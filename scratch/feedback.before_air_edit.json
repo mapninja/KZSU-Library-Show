@@ -1,0 +1,912 @@
+{
+ "note": "Taste feedback from DJ Stace's playlist edits. 'removed' = she deleted it: not currently interested; don't re-suggest for 60 days (cooloff_until); downweight an artist only after 3+ removals. 'added_by_stace' = she added it herself: it fits, keep it, never remove it in automated rewrites, and treat artist/label/RIYL as positive signals. 'kept' = survived 2+ daily checks. Written by the kzsu-daily-playlist and kzsu-thursday-working-rewrite tasks.",
+ "playlist": {
+  "name": "Stace's Weekly Playlist",
+  "id": "PLCLF-Tik2UHk",
+  "url": "https://music.youtube.com/playlist?list=PLCLF-Tik2UHk",
+  "created": "2026-09-29",
+  "privacy": "Public",
+  "renamed": "2026-09-30",
+  "cadence": "weekly, Thursdays 6 p.m. PT"
+ },
+ "removed": [
+  {
+   "date": "2026-09-27",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Protomartyr",
+   "title": "Exalted Eagles",
+   "videoId": "1E35nIFsABE",
+   "cooloff_until": "2026-11-26"
+  },
+  {
+   "date": "2026-09-27",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Deathchant",
+   "title": "Enemy",
+   "videoId": "8H5dGiyTzqY",
+   "cooloff_until": "2026-11-26"
+  },
+  {
+   "date": "2026-09-27",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Silver Jews",
+   "title": "Pet Politics",
+   "videoId": "IDcE8APDqII",
+   "cooloff_until": "2026-11-26"
+  },
+  {
+   "date": "2026-09-27",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Stef Chura",
+   "title": "Danny",
+   "videoId": "zLVP19aQglQ",
+   "cooloff_until": "2026-11-26"
+  },
+  {
+   "date": "2026-09-27",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Killing Joke",
+   "title": "Wardance",
+   "videoId": "1Dxjh1Cq-cQ",
+   "cooloff_until": "2026-11-26"
+  },
+  {
+   "date": "2026-09-27",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Radiohead",
+   "title": "Reckoner",
+   "videoId": "pYHEpDnvVPk",
+   "cooloff_until": "2026-11-26"
+  },
+  {
+   "date": "2026-09-27",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Fleetwood Mac",
+   "title": "Tusk (Live at Warner Brothers Studios)",
+   "videoId": "7SHusnJ2v1U",
+   "cooloff_until": "2026-11-26"
+  },
+  {
+   "date": "2026-09-27",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Grateful Dead",
+   "title": "The Golden Road",
+   "videoId": "7jIVt-0L_3Y",
+   "cooloff_until": "2026-11-26"
+  },
+  {
+   "date": "2026-09-27",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Blondshell",
+   "title": "Violins",
+   "videoId": "GXbKiwjryfM",
+   "cooloff_until": "2026-11-26"
+  },
+  {
+   "date": "2026-09-27",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Johnny Marr",
+   "title": "Spin",
+   "videoId": "vUdimGNRvKk",
+   "cooloff_until": "2026-11-26"
+  },
+  {
+   "date": "2026-09-27",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Blancmange",
+   "title": "Living On the Ceiling (Extended Version)",
+   "videoId": "SgkanfoJUy8",
+   "cooloff_until": "2026-11-26"
+  },
+  {
+   "date": "2026-09-27",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Iggy Pop",
+   "title": "Real Wild Child (Wild One)",
+   "videoId": "d1IQLLkXBck",
+   "cooloff_until": "2026-11-26"
+  },
+  {
+   "date": "2026-09-30",
+   "source_playlist": "Stace's Daily Playlist (PLCLF-Tik2UHk)",
+   "artist": "The War On Drugs",
+   "title": "Who's That",
+   "videoId": "QcXna5iWtOk",
+   "bucket": "show",
+   "signal": "new single, Stereogum Best Songs",
+   "cooloff_until": "2026-11-29"
+  },
+  {
+   "date": "2026-09-30",
+   "source_playlist": "Stace's Daily Playlist (PLCLF-Tik2UHk)",
+   "artist": "Iceage",
+   "title": "Match Head Girl",
+   "videoId": "jCOIczD6iPQ",
+   "bucket": "review",
+   "signal": "staged album No. 9; aired single \"Star\"",
+   "cooloff_until": "2026-11-29"
+  },
+  {
+   "date": "2026-09-30",
+   "source_playlist": "Stace's Daily Playlist (PLCLF-Tik2UHk)",
+   "artist": "Wishy",
+   "title": "Mona Lisa",
+   "videoId": "pm2d3dXkJ4w",
+   "bucket": "show",
+   "signal": "Oct. 1 candidate list, new single",
+   "cooloff_until": "2026-11-29"
+  },
+  {
+   "date": "2026-10-04",
+   "artist": "The New Pornographers",
+   "title": "Votive",
+   "videoId": "Yyyc_ax5G5o",
+   "bucket": "oct8 plan",
+   "signal": "removed from Air Order",
+   "cooloff_until": "2026-12-03"
+  },
+  {
+   "date": "2026-10-04",
+   "artist": "Soundgarden",
+   "title": "Rusty Cage",
+   "videoId": "5rVNdGnVMb4",
+   "bucket": "oct8 plan",
+   "signal": "removed from Air Order",
+   "cooloff_until": "2026-12-03"
+  },
+  {
+   "date": "2026-10-04",
+   "artist": "Cowboy Junkies",
+   "title": "State Trooper",
+   "videoId": "x23eS6_LCIE",
+   "bucket": "oct8 plan",
+   "signal": "removed from Air Order",
+   "cooloff_until": "2026-12-03"
+  },
+  {
+   "date": "2026-10-04",
+   "artist": "This Is Lorelei",
+   "title": "Billy Came Back",
+   "videoId": "rpHYQQQKmos",
+   "bucket": "oct8 plan",
+   "signal": "removed from Air Order",
+   "cooloff_until": "2026-12-03"
+  },
+  {
+   "date": "2026-10-04",
+   "artist": "Courtney Barnett",
+   "title": "Avant Gardener",
+   "videoId": "ot0DO179yV8",
+   "bucket": "oct8 plan",
+   "signal": "removed from Air Order",
+   "cooloff_until": "2026-12-03"
+  },
+  {
+   "date": "2026-10-04",
+   "artist": "Dirty Three",
+   "title": "Sue's Last Ride",
+   "videoId": "k1sQYTXHI4M",
+   "bucket": "oct8 plan",
+   "signal": "removed from Air Order",
+   "cooloff_until": "2026-12-03"
+  },
+  {
+   "date": "2026-10-06",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "mercury",
+   "title": "Roar Of The Heliac Goat",
+   "videoId": "K6abLeVRgj0",
+   "cooloff_until": "2026-12-05"
+  },
+  {
+   "date": "2026-10-06",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Caroline Rose",
+   "title": "Hello Again, Jim",
+   "videoId": "KhXL7QK5kf4",
+   "note": "swapped for another track by the same artist",
+   "cooloff_until": "2026-12-05"
+  },
+  {
+   "date": "2026-10-06",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Ty Segall",
+   "title": "Black Paint",
+   "videoId": "DG4Z4W1vG38",
+   "note": "swapped for another track by the same artist",
+   "cooloff_until": "2026-12-05"
+  },
+  {
+   "date": "2026-10-09",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "Cigarettes After Sex",
+   "title": "Twizzler",
+   "videoId": "UrSKhNkbsM8",
+   "cooloff_until": "2026-12-08"
+  },
+  {
+   "date": "2026-10-09",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "Death Valley Girls",
+   "title": "Basic Witch",
+   "videoId": "",
+   "cooloff_until": "2026-12-08"
+  },
+  {
+   "date": "2026-10-09",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "Queens of the Stone Age",
+   "title": "Easy Street",
+   "videoId": "",
+   "cooloff_until": "2026-12-08"
+  },
+  {
+   "date": "2026-10-13",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Dazy",
+   "title": "Ugly",
+   "videoId": "uH5CSB1vpb4",
+   "note": "cut from Air Order after Chapel show Oct. 13 passed",
+   "cooloff_until": "2026-12-12"
+  },
+  {
+   "date": "2026-10-13",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Death Cab for Cutie",
+   "title": "A Movie Script Ending",
+   "videoId": "LANNTICEaEU",
+   "note": "swapped for another track by the same artist (Coney Island)",
+   "cooloff_until": "2026-12-12"
+  },
+  {
+   "date": "2026-10-13",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Jess Williamson",
+   "title": "Goodbye to All That",
+   "videoId": "LnxoJbxlJV4",
+   "note": "cut from Air Order",
+   "cooloff_until": "2026-12-12"
+  },
+  {
+   "date": "2026-10-13",
+   "source_playlist": "New Releases for Review (PLIl7VQi0nzk0)",
+   "artist": "Jamie T",
+   "title": "All I Wanna See Is Now",
+   "videoId": "oF6HGK3abhE",
+   "note": "deleted from New Releases for Review between Oct. 10 and Oct. 13",
+   "cooloff_until": "2026-12-12"
+  },
+  {
+   "date": "2026-10-13",
+   "source_playlist": "New Releases for Review (PLIl7VQi0nzk0)",
+   "artist": "Jess Williamson",
+   "title": "High Heels and Blue Jeans",
+   "videoId": "j_rN2984eG0",
+   "note": "deleted from New Releases for Review between Oct. 10 and Oct. 13",
+   "cooloff_until": "2026-12-12"
+  },
+  {
+   "date": "2026-10-13",
+   "source_playlist": "New Releases for Review (PLIl7VQi0nzk0)",
+   "artist": "Teenage Fanclub",
+   "title": "Be With You Tonight",
+   "videoId": "fRp1NHpFmec",
+   "note": "deleted from New Releases for Review between Oct. 10 and Oct. 13",
+   "cooloff_until": "2026-12-12"
+  },
+  {
+   "date": "2026-10-13",
+   "source_playlist": "New Releases for Review (PLIl7VQi0nzk0)",
+   "artist": "Michael Kiwanuka",
+   "title": "Summer Clothes",
+   "videoId": "Q19tYEHCfP0",
+   "note": "deleted from New Releases for Review between Oct. 10 and Oct. 13",
+   "cooloff_until": "2026-12-12"
+  }
+ ],
+ "added_by_stace": [
+  {
+   "date": "2026-09-27",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Foxygen",
+   "title": "San Francisco",
+   "album": "We Are the 21st Century Ambassadors of Peace & Magic",
+   "videoId": "mdB1QlEPodk",
+   "position": "Set 4 (Bay Area), after Fruit Bats",
+   "set": "Hour 2, Set 4: Bay Area weekend and Johnny Mathis at 91",
+   "label": "Jagjaguwar",
+   "tag": "1026706",
+   "fcc_status": "CLEAN",
+   "confirmed_in_air_order": "2026-09-29"
+  },
+  {
+   "date": "2026-10-04",
+   "artist": "Soundgarden",
+   "title": "Slaves & Bulldozers",
+   "videoId": "wgqLAlFKtXA",
+   "position": 7,
+   "set": "Hour 1, Set 2: New and coming up"
+  },
+  {
+   "date": "2026-10-04",
+   "artist": "This Is Lorelei",
+   "title": "Oh No Now My",
+   "videoId": "tsmxdk686wg",
+   "position": 26,
+   "set": "Hour 2, Set 5: Songwriters"
+  },
+  {
+   "date": "2026-10-04",
+   "artist": "Courtney Barnett",
+   "title": "One Thing At A Time",
+   "videoId": "KRc6QLhw834",
+   "position": 27,
+   "set": "Hour 2, Set 5: Songwriters"
+  },
+  {
+   "date": "2026-10-04",
+   "artist": "Stereolab",
+   "title": "Flashes In The Afternoon",
+   "videoId": "uJY5H3Hala8",
+   "position": 33,
+   "set": "Hour 2, Set 6: Heavy, psych and close"
+  },
+  {
+   "date": "2026-10-04",
+   "artist": "CZARFACE, Frankie Pulitzer & Method Man",
+   "title": "Mad Technology",
+   "videoId": "ny_FssSlHC4",
+   "playlist": "FCC Edit Needed",
+   "album": "Czarface Meets Frankie Pulitzer",
+   "fcc": "shit x2 (Genius and LRCLIB agree)",
+   "signal": "wants an edit; fits the show"
+  },
+  {
+   "date": "2026-10-06",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "Queens of the Stone Age",
+   "title": "Insignificant Other",
+   "videoId": "TVTmQTcV-iE"
+  },
+  {
+   "date": "2026-10-06",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "alt-J",
+   "title": "Left Hand Free",
+   "videoId": "vGIAO5Uz1Us"
+  },
+  {
+   "date": "2026-10-06",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "Soundgarden",
+   "title": "Into The Void (Sealth)",
+   "videoId": "gtG5d3Zd6I4"
+  },
+  {
+   "date": "2026-10-06",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "Nick Cave & The Bad Seeds",
+   "title": "Jubilee Street",
+   "videoId": "jCGyhMyH2GE"
+  },
+  {
+   "date": "2026-10-06",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Caroline Rose",
+   "title": "Chow Mein",
+   "videoId": "xoB-7eET8sw",
+   "album": "Gentling the Horse at the Walt Whitman Mall",
+   "label": "SUCK Records"
+  },
+  {
+   "date": "2026-10-06",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Ty Segall",
+   "title": "Play Cowboys",
+   "videoId": "pirkuE2Edgc",
+   "album": "Chrome",
+   "label": "Drag City"
+  },
+  {
+   "date": "2026-10-06",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Imperial Teen",
+   "title": "Overdrive",
+   "videoId": "kIRXNnh6NdU",
+   "album": "All Over You",
+   "label": "Merge Records"
+  },
+  {
+   "date": "2026-10-06",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Westside Cowboy",
+   "title": "Kick Stones (The Boys)",
+   "videoId": "W51Ik_1noH8",
+   "album": "It Goes On",
+   "label": "Island Records"
+  },
+  {
+   "date": "2026-10-06",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Sex Pistols",
+   "title": "Anarchy in the U.K.",
+   "videoId": "K07Yq4zGTcI",
+   "album": "Never Mind the Bollocks",
+   "label": "Warner Bros. Records"
+  },
+  {
+   "date": "2026-10-06",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "The Clash",
+   "title": "Know Your Rights",
+   "videoId": "M1Zz7QWbS-w",
+   "album": "Combat Rock",
+   "label": "Epic Records"
+  },
+  {
+   "date": "2026-10-06",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Yard Act",
+   "title": "You're Gonna Need A Little Music",
+   "videoId": "aGTuvSf85-s",
+   "album": "You're Gonna Need A Little Music",
+   "label": "Republic Records"
+  },
+  {
+   "date": "2026-10-07",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Swans",
+   "title": "Can't Find My Way Home",
+   "videoId": "cZnaU3_Sr7U",
+   "album": "Burning World, the",
+   "label": "Uni Distribution Corp."
+  },
+  {
+   "date": "2026-10-09",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "Sweeping Promises",
+   "title": "Pain Without a Touch",
+   "videoId": "kpAPLIwuuvA",
+   "note": "new since Oct. 6 snapshot; adder not confirmed (Stace or Morning ZSU carryover). Kept."
+  },
+  {
+   "date": "2026-10-09",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "TTSSFU",
+   "title": "Upstairs",
+   "videoId": "hP-8zCjH3K8",
+   "note": "new since Oct. 6 snapshot; adder not confirmed (Stace or Morning ZSU carryover). Kept."
+  },
+  {
+   "date": "2026-10-09",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "Allah-Las",
+   "title": "Sandy",
+   "videoId": "OpeaILsddHc",
+   "note": "new since Oct. 6 snapshot; adder not confirmed (Stace or Morning ZSU carryover). Kept."
+  },
+  {
+   "date": "2026-10-09",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "feeble little horse",
+   "title": "Doorway",
+   "videoId": "rmd21czLZFw",
+   "note": "new since Oct. 6 snapshot; adder not confirmed (Stace or Morning ZSU carryover). Kept."
+  },
+  {
+   "date": "2026-10-09",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "R.M.F.C.",
+   "title": "The Clue",
+   "videoId": "pcFnJEXsvWc",
+   "note": "new since Oct. 6 snapshot; adder not confirmed (Stace or Morning ZSU carryover). Kept."
+  },
+  {
+   "date": "2026-10-09",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "R.M.F.C.",
+   "title": "Mirror",
+   "videoId": "yQt5aOzytyA",
+   "note": "new since Oct. 6 snapshot; adder not confirmed (Stace or Morning ZSU carryover). Kept."
+  },
+  {
+   "date": "2026-10-09",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "R.M.F.C.",
+   "title": "School",
+   "videoId": "ckqL-CMgR9c",
+   "note": "new since Oct. 6 snapshot; adder not confirmed (Stace or Morning ZSU carryover). Kept."
+  },
+  {
+   "date": "2026-10-09",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "R.M.F.C.",
+   "title": "Mud",
+   "videoId": "cAMhLBcUPfA",
+   "note": "new since Oct. 6 snapshot; adder not confirmed (Stace or Morning ZSU carryover). Kept."
+  },
+  {
+   "date": "2026-10-09",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "R.M.F.C.",
+   "title": "Feeder",
+   "videoId": "JVWiTVPUr9c",
+   "note": "new since Oct. 6 snapshot; adder not confirmed (Stace or Morning ZSU carryover). Kept."
+  },
+  {
+   "date": "2026-10-09",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "R.M.F.C.",
+   "title": "Ecstatic Strife",
+   "videoId": "ig5VXn7lVlw",
+   "note": "new since Oct. 6 snapshot; adder not confirmed (Stace or Morning ZSU carryover). Kept."
+  },
+  {
+   "date": "2026-10-09",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "Star Moles",
+   "title": "The End",
+   "videoId": "C4KZlei2zk8",
+   "note": "new since Oct. 6 snapshot; adder not confirmed (Stace or Morning ZSU carryover). Kept."
+  },
+  {
+   "date": "2026-10-09",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "Jesse Welles",
+   "title": "The Nerd Reich",
+   "videoId": "Lwz1XwHwWhY",
+   "note": "new since Oct. 6 snapshot; adder not confirmed (Stace or Morning ZSU carryover). Kept."
+  },
+  {
+   "date": "2026-10-09",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "Eagles Of Death Metal",
+   "title": "Careless Whisper",
+   "videoId": "VFIcDRKCxoU",
+   "note": "new since Oct. 6 snapshot; adder not confirmed (Stace or Morning ZSU carryover). Kept."
+  },
+  {
+   "date": "2026-10-09",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "Angine de Poitrine",
+   "title": "Fabienk",
+   "videoId": "7OdBQrs0Sng",
+   "note": "new since Oct. 6 snapshot; adder not confirmed (Stace or Morning ZSU carryover). Kept."
+  },
+  {
+   "date": "2026-10-09",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "Sampa the Great",
+   "title": "Can’t Hold Us (feat. Mwanjé)",
+   "videoId": "nMpCWTL8Z4I",
+   "note": "new since Oct. 6 snapshot; adder not confirmed (Stace or Morning ZSU carryover). Kept."
+  },
+  {
+   "date": "2026-10-13",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "The Velvet Underground & Nico",
+   "title": "Venus In Furs",
+   "videoId": "1qQ0MG9OPzA"
+  },
+  {
+   "date": "2026-10-13",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Death Cab for Cutie",
+   "title": "Coney Island",
+   "videoId": "Xt5JDwDX3xA"
+  },
+  {
+   "date": "2026-10-13",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "13th Floor Elevators",
+   "title": "You're Gonna Miss Me (QFPS Version)",
+   "videoId": "S2VpigTE6js"
+  },
+  {
+   "date": "2026-10-13",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "IDLES",
+   "title": "Damaged Goods (feat. Gang of Four)",
+   "videoId": "7OokEcgeB1M"
+  },
+  {
+   "date": "2026-10-13",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "BODEGA",
+   "title": "Territorial Call of the Female",
+   "videoId": "rg1uP4mxXzE"
+  },
+  {
+   "date": "2026-10-13",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "BODEGA",
+   "title": "Fear not the Fear",
+   "videoId": "u-OCkJD78Ec"
+  },
+  {
+   "date": "2026-10-13",
+   "source_playlist": "Weekly (PLCLF-Tik2UHk)",
+   "artist": "Fontaines D.C.",
+   "title": "Chequeless Reckless (Darklands Version)",
+   "videoId": "Y-dA3yt8m8s"
+  }
+ ],
+ "kept": [],
+ "artist_removals": {
+  "Protomartyr": 1,
+  "Deathchant": 1,
+  "Silver Jews": 1,
+  "Stef Chura": 1,
+  "Killing Joke": 1,
+  "Radiohead": 1,
+  "Fleetwood Mac": 1,
+  "Grateful Dead": 1,
+  "Blondshell": 1,
+  "Johnny Marr": 1,
+  "Blancmange": 1,
+  "Iggy Pop": 1,
+  "The War On Drugs": 1,
+  "Iceage": 1,
+  "Wishy": 1,
+  "The New Pornographers": 1,
+  "Soundgarden": 1,
+  "Cowboy Junkies": 1,
+  "This Is Lorelei": 1,
+  "Courtney Barnett": 1,
+  "Dirty Three": 1,
+  "mercury": 1,
+  "Cigarettes After Sex": 1,
+  "Death Valley Girls": 1,
+  "Queens of the Stone Age": 1,
+  "Dazy": 1,
+  "Death Cab for Cutie": 1,
+  "Jess Williamson": 2,
+  "Jamie T": 1,
+  "Teenage Fanclub": 1,
+  "Michael Kiwanuka": 1
+ },
+ "not_aired": [
+  {
+   "date": "2026-10-07",
+   "show": "Morning ZSU",
+   "item": "Brigitte Calls Me Baby - Altitude",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-07",
+   "show": "Morning ZSU",
+   "item": "The Beach Boys - Shut Down",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-07",
+   "show": "Morning ZSU",
+   "item": "John Mellencamp - Pink Houses",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-07",
+   "show": "Morning ZSU",
+   "item": "Dread Spectre Council - Raven",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-07",
+   "show": "Morning ZSU",
+   "item": "Chinese American Bear - Turn Up The Radio",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-07",
+   "show": "Morning ZSU",
+   "item": "Palace - Denny's",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-07",
+   "show": "Morning ZSU",
+   "item": "Michael Kiwanuka - Summer Clothes",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-07",
+   "show": "Morning ZSU",
+   "item": "Sylvan Esso - Concrete Glen",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-07",
+   "show": "Morning ZSU",
+   "item": "Father John Misty - Chateau Lobby #4 (in C for Two Virgins)",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-07",
+   "show": "Morning ZSU",
+   "item": "Queens of the Stone Age - Go With The Flow",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-07",
+   "show": "Morning ZSU",
+   "item": "Bodega - Thrown",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-07",
+   "show": "Morning ZSU",
+   "item": "Allah-Las - Catamaran",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-07",
+   "show": "Morning ZSU",
+   "item": "Nilüfer Yanya - midnight sun",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-07",
+   "show": "Morning ZSU",
+   "item": "Khruangbin - Time (You and I)",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-07",
+   "show": "Morning ZSU",
+   "item": "Hovvdy - Life So Wide",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-07",
+   "show": "Morning ZSU",
+   "item": "Interpol - See Out Loud",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-07",
+   "show": "Morning ZSU",
+   "item": "Twisted Teens - Hand Me A Cigarette",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-08",
+   "show": "The Library",
+   "item": "Radiohead - The National Anthem",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-08",
+   "show": "The Library",
+   "item": "Galaxie 500 - Tugboat",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-08",
+   "show": "The Library",
+   "item": "My Morning Jacket - Wordless Chorus",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-08",
+   "show": "The Library",
+   "item": "Sharp Pins - How Can I Explain What She Does to Me?",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-08",
+   "show": "The Library",
+   "item": "Lucy Dacus - Planting Tomatoes",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-08",
+   "show": "The Library",
+   "item": "Beth Orton - Waiting",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-08",
+   "show": "The Library",
+   "item": "Cigarettes After Sex - Twizzler",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-08",
+   "show": "The Library",
+   "item": "Hovvdy - Try Try Try",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-08",
+   "show": "The Library",
+   "item": "Cate Le Bon - Home to You",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-08",
+   "show": "The Library",
+   "item": "Courtney Barnett - One Thing At A Time",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-08",
+   "show": "The Library",
+   "item": "Perfume Genius - Queen",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-08",
+   "show": "The Library",
+   "item": "Goat - I Sing in Silence",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-08",
+   "show": "The Library",
+   "item": "Dead Meadow - Everything's Goin On",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-08",
+   "show": "The Library",
+   "item": "Mandrake Handshake - The Tether / Modulo 5",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-08",
+   "show": "The Library",
+   "item": "Stereolab - Flashes In The Afternoon",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-08",
+   "show": "The Library",
+   "item": "Broadcast - Come On Let's Go",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-08",
+   "show": "The Library",
+   "item": "Uncle Tupelo - No Depression",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-08",
+   "show": "The Library",
+   "item": "Westside Cowboy - Kick Stones (The Boys)",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-08",
+   "show": "The Library",
+   "item": "Sex Pistols - Anarchy in the U.K.",
+   "strength": "weak"
+  },
+  {
+   "date": "2026-10-08",
+   "show": "The Library",
+   "item": "Yard Act - You're Gonna Need a Little Music",
+   "strength": "weak"
+  }
+ ],
+ "moved_by_stace": [
+  {
+   "date": "2026-10-08",
+   "source_playlist": "Air Order",
+   "artist": "Yo La Tengo",
+   "track": "Autumn Sweater",
+   "from": "Hour 2, Set 5, #29",
+   "to": "Hour 2, Set 6, #32 (after Dead Meadow)",
+   "signal": "moved in Air Order; keep, follow her order"
+  }
+ ],
+ "housekeeping": [
+  {
+   "date": "2026-10-09",
+   "artist": "Teenage Fanclub",
+   "title": "Day In The Sun",
+   "note": "Removed from Weekly after it aired Oct. 8 (Triple Shot). Not a negative signal; no cool-off, no artist count."
+  },
+  "2026-10-14 final script run: no Cull or Replace ticks, no new Air Order edits since Oct. 13 (44 tracks match plan). No removals logged."
+ ]
+}

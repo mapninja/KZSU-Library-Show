@@ -164,9 +164,34 @@ def album_payload(album, body, label_ids):
                       "relationships": {"label": {"data": {"type": "label", "id": label_id}}}}]}
 
 
+# Contact details for the new labels, checked Oct. 15, 2026 on each label's own site.
+# Only facts the label publishes are filled in. A missing key means "not published".
+# Field names and types match what GET /api/v1/label returns (international is a bool).
+LABEL_DETAILS = {
+    # Source: gonzomultimedia.co.uk contact page (Cog Sinister is one of Gonzo Multimedia's labels,
+    # catalog COGGZ). The only published contact is a customer-service email for orders and products,
+    # not a music-submission address. No postal address is published. UK company.
+    "Cog Sinister": {
+        "email": "customerservicesgonzo@gmail.com", "international": True,
+        "url": "https://www.gonzomultimedia.co.uk/labels/categories/cog-sinister",
+    },
+    # Source: psychic-hotline.net/about. Artist-run label in Durham, N.C. (Sylvan Esso's Amelia Meath and
+    # Nick Sanborn with manager Martin Anderson). General email and toll-free line are published; no
+    # demos accepted. No mailing address is published (the Holland Street address is the Mailroom
+    # pop-up shop, not the label's office). The licensing email goes to Ato Records, so it is not used.
+    # 1-888-PSY-HTLN dials as 1-888-779-4856.
+    "Psychic Hotline": {
+        "city": "Durham", "state": "NC", "phone": "1-888-779-4856",
+        "email": "info@psychic-hotline.net", "url": "https://psychic-hotline.net/",
+    },
+}
+
+
 def label_payload(name):
     """POST /api/v1/label body. Only needed if a label is missing from the Zookeeper table."""
-    return {"data": [{"type": "label", "attributes": {"name": name}}]}
+    attributes = {"name": name}
+    attributes.update(LABEL_DETAILS.get(name, {}))   # add the published contact details
+    return {"data": [{"type": "label", "attributes": attributes}]}
 
 
 def review_payload(album, body, tags):

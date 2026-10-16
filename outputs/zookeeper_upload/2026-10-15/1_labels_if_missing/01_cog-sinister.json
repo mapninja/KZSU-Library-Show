@@ -3,7 +3,10 @@
     {
       "type": "label",
       "attributes": {
-        "name": "Cog Sinister"
+        "name": "Cog Sinister",
+        "email": "customerservicesgonzo@gmail.com",
+        "international": true,
+        "url": "https://www.gonzomultimedia.co.uk/labels/categories/cog-sinister"
       }
     }
   ]

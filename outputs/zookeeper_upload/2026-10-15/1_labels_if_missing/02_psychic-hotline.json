@@ -3,7 +3,12 @@
     {
       "type": "label",
       "attributes": {
-        "name": "Psychic Hotline"
+        "name": "Psychic Hotline",
+        "city": "Durham",
+        "state": "NC",
+        "phone": "1-888-779-4856",
+        "email": "info@psychic-hotline.net",
+        "url": "https://psychic-hotline.net/"
       }
     }
   ]
