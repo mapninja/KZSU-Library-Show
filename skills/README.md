@@ -7,6 +7,7 @@ Source of truth for all KZSU Library Show skills. Each folder has `SKILL.md` and
 | kzsu-taste-profile-refresh | Rebuild taste profile and dashboard (Sun) |
 | kzsu-intake | Staged albums, Current Adds, Top 50, Filtered Review Shelf (Mon) |
 | kzsu-staged-albums-weekly | Music Dept email ranking (called by intake) |
+| kzsu-album-sweep | New and announced albums from favorite labels, Weekly and Review playlists, and lead singles aired (Mon) |
 | kzsu-weekly-playlist | Add-only sweeps into Stace's Weekly Playlist (Tue, Fri) |
 | kzsu-review-template | Review boilerplate for ticked shelf rows (Tue, Fri) |
 | kzsu-weekly-recon | Thursday-night draft plan and Air Order |
