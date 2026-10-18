@@ -1,0 +1,148 @@
+{
+ "artist": "Gilla Band",
+ "album": "Pugnello",
+ "label": "Rough Trade Records",
+ "release_date": "2026-09-25",
+ "release_notes": [
+  "Fourth album from the Dublin noise-rock band (formerly Girl Band) and the first since Most Normal (2022). Dara Kiely - vocals; Alan Duggan Borges - guitar; Daniel Fox - bass; Adam Faulkner - drums. No guests are credited.",
+  "Recorded 2022 to 2026 at Hellfire, Yellow Door Music Studio and Sonic Studios in Dublin. Produced by Gilla Band; recorded and mixed by bassist Daniel Fox. No mastering credit found.",
+  "Between albums: Kiely took up painting, Borges launched the solo project Null Club, Fox produced Sprints, Lambrini Girls and Mandy, Indiana, and Faulkner toured on drums with Lankum.",
+  "Singles: Giraffe (May 27, 2026, also a limited picture-disc 7-inch), Placeholder (July 7, with the album announcement) and Alogia (Sept. 8, video directed by Cuan Roche).",
+  "Paste ties the record to Kiely's grief over his estranged father's death in late 2022. Alogia was written after a schizophrenia diagnosis (Kiely, via Northern Transmissions). Paste and Quietus both note a PĒRKONS HD-01 drum machine at the core of the sound.",
+  "10 tracks, 42:16. Out Sept. 25, 2026. Metacritic 85/100 (15 critics); Pitchfork 8.8 and Best New Music; The Guardian 5 stars; Mojo less favorable (per Wikipedia). Charted No. 34 in Ireland and No. 15 on the UK Independent Albums chart."
+ ],
+ "pull_quotes": [
+  {
+   "text": "Dublin rock band deliver their most punishing record to date",
+   "source": "The Quietus",
+   "url": "https://thequietus.com/quietus-reviews/gilla-band-pugnello-review/"
+  },
+  {
+   "text": "four people going feral in a rage room",
+   "source": "Paste",
+   "url": "https://www.pastemagazine.com/music/gilla-band/gilla-band-pugnello-review"
+  }
+ ],
+ "draft_comment": "Abrasive, industrial-flecked noise rock and post-punk from Dublin, their first album in four years. Critics call it their most punishing yet, and too bad six of the ten tracks are FCC.",
+ "riyl_suggestions": [
+  "Mandy, Indiana",
+  "Chat Pile",
+  "Sonic Youth",
+  "Swans",
+  "My Bloody Valentine"
+ ],
+ "tracks": [
+  {
+   "num": 1,
+   "title": "The Angelus",
+   "runtime": "3:30",
+   "bpm": null,
+   "pace": "",
+   "fcc": "FCC “tits” x1, “piss” x1 (no section labels posted)",
+   "notes": "Opener. Title nods to the Angelus bell RTÉ broadcasts (The Quietus). Paste hears Sonic Youth-style guitar noise and a drum kit with five snares.",
+   "fcc_source": "https://genius.com/Gilla-band-the-angelus-lyrics"
+  },
+  {
+   "num": 2,
+   "title": "Placeholder",
+   "runtime": "4:14",
+   "bpm": null,
+   "pace": "",
+   "fcc": "FCC “pissed” x1, “piss” x1 (Verse 2), “fuck” x1 (Verse 5)",
+   "notes": "Second single (July 7, 2026), released with the album announcement. Kiely says it is about comfort distractions and childhood nostalgia (via The Line of Best Fit).",
+   "fcc_source": "https://genius.com/Gilla-band-placeholder-lyrics"
+  },
+  {
+   "num": 3,
+   "title": "Alogia",
+   "runtime": "3:24",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "Third single (Sept. 8, 2026), video directed by Cuan Roche. The title means poverty of speech; written after Kiely's schizophrenia diagnosis.",
+   "fcc_source": "https://genius.com/Gilla-band-alogia-lyrics"
+  },
+  {
+   "num": 4,
+   "title": "Three Hands Clapping",
+   "runtime": "2:08",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "Shortest track.",
+   "fcc_source": "https://genius.com/Gilla-band-three-hands-clapping-lyrics"
+  },
+  {
+   "num": 5,
+   "title": "Jacobsons",
+   "runtime": "4:38",
+   "bpm": null,
+   "pace": "",
+   "fcc": "FCC “fuck” x1 (no section labels posted)",
+   "notes": "Paste calls it the centerpiece of the album.",
+   "fcc_source": "https://genius.com/Gilla-band-jacobsons-lyrics"
+  },
+  {
+   "num": 6,
+   "title": "The Megazord",
+   "runtime": "5:28",
+   "bpm": null,
+   "pace": "",
+   "fcc": "FCC “pissed” x2 (no section labels posted)",
+   "notes": "Paste describes screeching, stuttering synths and a Power Rangers theme.",
+   "fcc_source": "https://genius.com/Gilla-band-the-megazord-lyrics"
+  },
+  {
+   "num": 7,
+   "title": "Computer Sadness",
+   "runtime": "3:44",
+   "bpm": null,
+   "pace": "",
+   "fcc": "UNVERIFIED",
+   "notes": "Only a partial transcription is posted on Genius (a few lines), with no FCC words in it. Paste hears atonal scrapes across the stereo field.",
+   "fcc_source": "https://genius.com/Gilla-band-computer-sadness-lyrics"
+  },
+  {
+   "num": 8,
+   "title": "Giraffe",
+   "runtime": "4:28",
+   "bpm": null,
+   "pace": "",
+   "fcc": "FCC “shit” x5 (Chorus x2, Verse 1 x3), “fucker” x1 (Verse 1). Caution “shite” x2 (Chorus)",
+   "notes": "Lead single (May 27, 2026), also issued on a limited picture-disc 7-inch. Band's first new music in more than three years.",
+   "fcc_source": "https://genius.com/Gilla-band-giraffe-lyrics"
+  },
+  {
+   "num": 9,
+   "title": "Crisp Pop",
+   "runtime": "7:42",
+   "bpm": null,
+   "pace": "",
+   "fcc": "FCC “pisshead” x3, “pissing” x1, “shit” x1 (no section labels posted)",
+   "notes": "Longest track, over 7 minutes.",
+   "fcc_source": "https://genius.com/Gilla-band-crisp-pop-lyrics"
+  },
+  {
+   "num": 10,
+   "title": "At the Gallop",
+   "runtime": "3:00",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "Closer. Named for the 1975 debut album by Cromwell, the prog band of Kiely's late father (Paste, The Quietus). Vocoder-processed vocal. Listed as \"The Gallop\" on pre-release tracklists.",
+   "fcc_source": "https://genius.com/Gilla-band-at-the-gallop-lyrics"
+  }
+ ],
+ "sources": [
+  "https://gillaband.bandcamp.com/album/pugnello",
+  "https://en.wikipedia.org/wiki/Pugnello",
+  "https://www.pastemagazine.com/music/gilla-band/gilla-band-pugnello-review",
+  "https://thequietus.com/quietus-reviews/gilla-band-pugnello-review/",
+  "https://www.thelineofbestfit.com/news/gilla-band-detail-first-new-album-in-four-years-pugnello",
+  "https://northerntransmissions.com/gilla-band-debuts-single-video-alogia/",
+  "Lyrics screened on Genius (counts only), tracks 1 to 10. Track 7 has only a partial transcription posted; the other nine have full lyrics, six with FCC words."
+ ],
+ "links": {
+  "bandcamp": "https://gillaband.bandcamp.com/album/pugnello"
+ }
+}

@@ -4,27 +4,37 @@
  "label": "Xl Recordings",
  "release_date": "2026-10-16",
  "release_notes": [
-  "Fifth album from the Dublin band, after Romance (2024). Produced by James Ford, who also made Romance.",
-  "Recorded February 2025 to March 2026 at Narcissus Studios in London and Decoy Studios in Suffolk. Marta Salogni engineered; Matt Colton mastered (Wikipedia).",
+  "Fifth album from the Dublin band, after Romance (2024). Produced by James Ford, who also made Romance. Metacritic score 85 from 19 reviews.",
+  "Most of it was recorded at Decoy Studios in Suffolk, with additional sessions at Narcissus Studios in London (February 2025 to March 2026). Grian Chatten recorded his vocals separately with Ford in Palermo, Sicily. Marta Salogni engineered; Matt Colton mastered (Wikipedia).",
   "Grian Chatten - vocals, guitar; Carlos O'Connell - guitar, synths; Conor Curley - guitar; Conor Deegan - bass; Tom Coll - drums.",
-  "Rosalía guests on Where Is Gone?, the band's first guest on a record. Strings arranged by Chatten, Richard Jones, Laura Moody and Elysian Collective.",
-  "Singles: Marianne (Aug. 18) and Tongue (Sept. 30). 11 tracks, 43:59. Out Oct. 16, 2026.",
-  "Not out yet: lyrics are posted for four tracks only. Seven are unscreened."
+  "Rosalía guests on Where Is Gone?, the band's first guest vocalist on a record. Strings arranged by Chatten, Richard Jones, Laura Moody and Elysian Collective.",
+  "Singles: Marianne (Aug. 18), Tongue (Sept. 30) and Where Is Gone? (Oct. 12). 11 tracks, about 44 minutes. Released Oct. 16, 2026.",
+  "Reviews (Guardian, NME, Pitchfork, AllMusic) hear synths, strings and electronics over guitars, with comparisons to The Cure, Depeche Mode, New Order and Massive Attack."
  ],
  "pull_quotes": [
   {
-   "text": "more mechanical extremes and orchestral noir flourishes",
+   "text": "gloomy, gorgeous and a gargantuan triumph",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/music/2026/oct/12/fontaines-dc-dopamine-chamber-album-review-xl-grian-chatten"
+  },
+  {
+   "text": "a dark but exhilarating reflection of end times",
    "source": "NME",
-   "url": "https://www.nme.com/reviews/track/fontaines-d-c-marianne-track-review-new-album-dopamine-machine-lyrics-3963231"
+   "url": "https://www.nme.com/reviews/album/fontaines-d-c-dopamine-chamber-album-review-3972863"
+  },
+  {
+   "text": "This is cruel, beautiful feel-bad music.",
+   "source": "Pitchfork",
+   "url": "https://pitchfork.com/reviews/albums/fontaines-dc-dopamine-chamber/"
   }
  ],
- "draft_comment": "Dublin's finest, again with James Ford. Early press hears more synths, drum machines and strings than guitars. Tongue is an FCC edit.",
+ "draft_comment": "Dublin post-punk gone synth-heavy, string-laced and stadium-sized, again with James Ford and a Rosalía duet. Critics hear Depeche Mode, The Cure and New Order. Tongue and Japan are FCC.",
  "riyl_suggestions": [
-  "IDLES",
-  "Shame",
+  "The Cure",
+  "Depeche Mode",
   "Interpol",
-  "Yard Act",
-  "Joy Division"
+  "Shame",
+  "IDLES"
  ],
  "tracks": [
   {
@@ -34,7 +44,7 @@
    "bpm": null,
    "pace": "",
    "fcc": "CLEAN",
-   "notes": "Opener. Teased Aug. 15 and played live in Cádiz in August.",
+   "notes": "Opener. Teased Aug. 15; live debut in Cádiz in August. Mechanical Depeche Mode death march (NME); chugging bassline and searching synths (AllMusic).",
    "fcc_source": "https://genius.com/Fontaines-dc-six-shot-morning-lyrics"
   },
   {
@@ -44,7 +54,7 @@
    "bpm": null,
    "pace": "",
    "fcc": "CLEAN",
-   "notes": "Lead single (Aug. 18), with a Dave Meyers video. NME hears Depeche Mode synths and Lynchian strings.",
+   "notes": "Lead single (Aug. 18), with a Dave Meyers video. Live debut in Cádiz in August. Strings arranged by Chatten, Richard Jones, Laura Moody and Elysian Collective. Cyborg-meets-symphony balladry (NME); spiralling strings (Guardian).",
    "fcc_source": "https://genius.com/Fontaines-dc-marianne-lyrics"
   },
   {
@@ -53,8 +63,9 @@
    "runtime": "3:51",
    "bpm": null,
    "pace": "",
-   "fcc": "UNVERIFIED",
-   "notes": ""
+   "fcc": "CLEAN",
+   "notes": "Synth-pop noir (NME); a New Order-style bassline (Guardian).",
+   "fcc_source": "https://genius.com/Fontaines-dc-mimesis-lyrics"
   },
   {
    "num": 4,
@@ -63,7 +74,7 @@
    "bpm": null,
    "pace": "",
    "fcc": "CLEAN",
-   "notes": "Debuted live at Leeds Festival, Aug. 29.",
+   "notes": "Debuted live at Leeds Festival, Aug. 29. A Cure-like guitar twang (Guardian); a massive guitar drop (AllMusic).",
    "fcc_source": "https://genius.com/Fontaines-dc-happy-for-you-lyrics"
   },
   {
@@ -72,8 +83,9 @@
    "runtime": "3:19",
    "bpm": null,
    "pace": "",
-   "fcc": "UNVERIFIED",
-   "notes": ""
+   "fcc": "CLEAN",
+   "notes": "Album highlight, with fuzzy electronica (NME); a grunge attack (Guardian).",
+   "fcc_source": "https://genius.com/Fontaines-dc-demolition-lyrics"
   },
   {
    "num": 6,
@@ -81,8 +93,8 @@
    "runtime": "3:13",
    "bpm": null,
    "pace": "",
-   "fcc": "FCC \"shit\" x10 (Refrain)",
-   "notes": "Second single (Sept. 30). In FCC Edit Needed.",
+   "fcc": "FCC “shit” x10 (Refrain)",
+   "notes": "Second single (Sept. 30), with a New York-shot video directed by PHC (John Angus Stewart). In FCC Edit Needed. Trip-hop gloom (NME); the oddest track on the album (AllMusic).",
    "fcc_source": "https://genius.com/Fontaines-dc-tongue-lyrics"
   },
   {
@@ -91,8 +103,9 @@
    "runtime": "4:58",
    "bpm": null,
    "pace": "",
-   "fcc": "UNVERIFIED",
-   "notes": ""
+   "fcc": "CLEAN",
+   "notes": "Second-longest track. Breathy and elegiac (NME); starts the album's run of tender songs (AllMusic).",
+   "fcc_source": "https://genius.com/Fontaines-dc-one-man-lyrics"
   },
   {
    "num": 8,
@@ -100,8 +113,9 @@
    "runtime": "5:16",
    "bpm": null,
    "pace": "",
-   "fcc": "UNVERIFIED",
-   "notes": "Features Rosalía. Longest track."
+   "fcc": "CLEAN",
+   "notes": "Features Rosalía, the band's first guest vocalist. Third single (Oct. 12). Longest track. A Morricone-style ballad and would-be Bond theme (NME, Guardian). No FCC words in the English lyrics posted; Spanish checked for common swear words.",
+   "fcc_source": "https://genius.com/Fontaines-dc-and-rosalia-where-is-gone-lyrics"
   },
   {
    "num": 9,
@@ -109,17 +123,19 @@
    "runtime": "3:35",
    "bpm": null,
    "pace": "",
-   "fcc": "UNVERIFIED",
-   "notes": ""
+   "fcc": "CLEAN",
+   "notes": "Robert Smith-style verse (NME).",
+   "fcc_source": "https://genius.com/Fontaines-dc-you-miss-me-lyrics"
   },
   {
    "num": 10,
    "title": "Japan",
-   "runtime": "3:15",
+   "runtime": "3:14",
    "bpm": null,
    "pace": "",
-   "fcc": "UNVERIFIED",
-   "notes": ""
+   "fcc": "FCC “fuck” x3, “shit” x3 (Chorus)",
+   "notes": "Bittersweet acoustic singalong (NME). Bandcamp lists 3:14; Wikipedia lists 3:15.",
+   "fcc_source": "https://genius.com/Fontaines-dc-japan-lyrics"
   },
   {
    "num": 11,
@@ -127,16 +143,23 @@
    "runtime": "3:57",
    "bpm": null,
    "pace": "",
-   "fcc": "UNVERIFIED",
-   "notes": "Closer."
+   "fcc": "CLEAN",
+   "notes": "Closer. Skittering sci-fi hymn (NME).",
+   "fcc_source": "https://genius.com/Fontaines-dc-intimate-lyrics"
   }
  ],
  "sources": [
   "https://fontainesdc.bandcamp.com/album/dopamine-chamber",
   "https://en.wikipedia.org/wiki/Dopamine_Chamber",
-  "https://www.nme.com/reviews/track/fontaines-d-c-marianne-track-review-new-album-dopamine-machine-lyrics-3963231",
-  "https://www.nme.com/news/music/fontaines-d-c-share-dopamine-chamber-tracklist-featuring-collab-with-rosalia-3969431",
-  "Lyrics screened on Genius (counts only): tracks 1, 2, 4 and 6. Others unreleased."
+  "https://www.theguardian.com/music/2026/oct/12/fontaines-dc-dopamine-chamber-album-review-xl-grian-chatten",
+  "https://www.nme.com/reviews/album/fontaines-d-c-dopamine-chamber-album-review-3972863",
+  "https://www.allmusic.com/album/dopamine-chamber-mw0004868007",
+  "https://www.metacritic.com/music/dopamine-chamber/fontaines-dc/critic-reviews",
+  "https://pitchfork.com/reviews/albums/fontaines-dc-dopamine-chamber/",
+  "https://www.undertheradarmag.com/news/fontaines_d.c_release_video_for_new_single_where_is_gone_feat_rosalia/",
+  "https://consequence.net/2026/10/fontaines-dc-rosalia-where-is-gone-new-song-stream/",
+  "https://lbbonline.com/news/fontaines-d-c-tongue-music-video",
+  "Lyrics screened on Genius (counts only): all 11 tracks. FCC words on tracks 6 and 10."
  ],
  "links": {
   "ytm": "https://music.youtube.com/search?q=Fontaines+D.C.+Dopamine+Chamber"

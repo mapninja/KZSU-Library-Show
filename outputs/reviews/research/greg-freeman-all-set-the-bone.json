@@ -1,0 +1,183 @@
+{
+ "artist": "Greg Freeman",
+ "album": "All Set the Bone",
+ "label": "Transgressive Records / Canvasback",
+ "release_date": "2026-10-02",
+ "format": "2xLP",
+ "release_notes": [
+  "Third album from Burlington, Vermont singer-songwriter Greg Freeman, after I Looked Out (July 2022) and Burnover (Aug. 2025). Transgressive says Burnover made The New York Times' best albums of 2025 and earned Pitchfork's Best New Album tag.",
+  "13 tracks, about 67 minutes, spread over four sides of a double LP. Recorded April 8 to 18, 2026 in Los Angeles. Produced, mixed and engineered by John Congleton; mastered by Matt Colton. All songs written by Freeman.",
+  "Greg Freeman - guitar, vocals; Garrett Linck - bass, group vocals; Joey Sullivan (Florry) - drums, percussion; Carney Hemler (The Rockin Worms) - guitar, group vocals; Sam Atallah - piano, keys, trumpet, horn arrangements, group vocals; Scott Daniel - violin.",
+  "Guests: Anna McClellan and Trinity Ace (vocals), David Ralicke (saxophone), Vikram Devasthali (trombone), Mike Bolger (accordion on track 13).",
+  "Written while Freeman left his longtime Burlington home and went full-time in music, after jobs as a cemetery landscaper and restaurant line cook (Transgressive). The label name-checks early Pavement and pre-Good News Modest Mouse, with Fugazi and Unwound behind the heavier songs.",
+  "Singles: Indu (July 21, with the album announcement), Cahokia (Aug. 26) and Loser's Prize (Sept. 29, the final preview). North American tour starts Oct. 20, with a San Francisco stop at The Independent on Nov. 5.",
+  "Lyrics are posted for all 13 tracks. Three have FCC words: 1, 11 and 13."
+ ],
+ "pull_quotes": [
+  {
+   "text": "widescreen Americana-founded experiential rock",
+   "source": "Record Collector",
+   "url": "https://recordcollectormag.com/reviews/greg-freeman-all-set-the-bone-album-review"
+  },
+  {
+   "text": "a perfect pop earworm",
+   "source": "Paste",
+   "url": "https://www.pastemagazine.com/music/greg-freeman/greg-freeman-all-set-the-bone-review"
+  }
+ ],
+ "draft_comment": "Sprawling, noisy, horn-flecked indie rock with Americana roots, produced by John Congleton. Record Collector hears Fugazi-style post-hardcore in the heavy parts, and three tracks are FCC, the opener included.",
+ "riyl_suggestions": [
+  "Pavement",
+  "Modest Mouse",
+  "Fugazi",
+  "Wednesday",
+  "MJ Lenderman"
+ ],
+ "tracks": [
+  {
+   "num": 1,
+   "title": "Cahokia",
+   "runtime": "4:32",
+   "bpm": null,
+   "pace": "",
+   "fcc": "FCC “fucked” x1 (Verse 1); “shit” x1 (final Chorus)",
+   "notes": "Opener. Second single (Aug. 26). Vocals by Anna McClellan",
+   "fcc_source": "https://genius.com/Greg-freeman-cahokia-lyrics"
+  },
+  {
+   "num": 2,
+   "title": "Totaled",
+   "runtime": "4:43",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "Vocals by Anna McClellan. Paste says it grieves a towed Toyota. Record Collector hears 90s alt-rock noise",
+   "fcc_source": "https://genius.com/Greg-freeman-totaled-lyrics"
+  },
+  {
+   "num": 3,
+   "title": "Culture",
+   "runtime": "5:24",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "Vocals by Trinity Ace. Paste calls it syncopated, a military march toward doom",
+   "fcc_source": "https://genius.com/Greg-freeman-culture-lyrics"
+  },
+  {
+   "num": 4,
+   "title": "Withdrawn",
+   "runtime": "5:36",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "Vocals by Anna McClellan and Trinity Ace. Saxophone: David Ralicke; trombone: Vikram Devasthali. Paste says it starts sparse and acoustic and ends as a horn-filled anthem",
+   "fcc_source": "https://genius.com/Greg-freeman-withdrawn-lyrics"
+  },
+  {
+   "num": 5,
+   "title": "Indu",
+   "runtime": "4:21",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "Lead single (July 21). Vocals by Anna McClellan. Paste calls it a pop earworm; Record Collector hears psych-y slacker garage",
+   "fcc_source": "https://genius.com/Greg-freeman-indu-lyrics"
+  },
+  {
+   "num": 6,
+   "title": "Loser's Prize",
+   "runtime": "4:42",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "Final single (Sept. 29). Vocals by Anna McClellan. Paste calls it uptempo yet melancholy",
+   "fcc_source": "https://genius.com/Greg-freeman-losers-prize-lyrics"
+  },
+  {
+   "num": 7,
+   "title": "Hail Mary",
+   "runtime": "5:35",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "Vocals by Anna McClellan. Per Paste, the first two minutes are a slow instrumental before the riffs arrive. Record Collector calls it a highlight, Fugazi-style post-hardcore",
+   "fcc_source": "https://genius.com/Greg-freeman-hail-mary-lyrics"
+  },
+  {
+   "num": 8,
+   "title": "Decade",
+   "runtime": "3:55",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "Shortest track. Saxophone: David Ralicke; trombone: Vikram Devasthali. Paste hears Dexys Midnight Runners in the horn bridge",
+   "fcc_source": "https://genius.com/Greg-freeman-decade-lyrics"
+  },
+  {
+   "num": 9,
+   "title": "Marooned",
+   "runtime": "6:54",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "Longest track. Vocals by Trinity Ace. Paste says it opens as a minor-key dirge and builds to a full arrangement. Record Collector calls it pounding, Fugazi-style post-hardcore",
+   "fcc_source": "https://genius.com/Greg-freeman-marooned-lyrics"
+  },
+  {
+   "num": 10,
+   "title": "Untitled 10",
+   "runtime": "5:10",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "Saxophone: David Ralicke; trombone: Vikram Devasthali. Per Paste, opens on fuzzed-up guitar and turns into a ballad in the second half. Record Collector calls it a brass-imbued psych wig-out",
+   "fcc_source": "https://genius.com/Greg-freeman-untitled-10-lyrics"
+  },
+  {
+   "num": 11,
+   "title": "Next To Nothing",
+   "runtime": "4:18",
+   "bpm": null,
+   "pace": "",
+   "fcc": "FCC “shit” x1 (early in song; Genius posts no sections)",
+   "notes": "",
+   "fcc_source": "https://genius.com/Greg-freeman-next-to-nothing-lyrics"
+  },
+  {
+   "num": 12,
+   "title": "Costs",
+   "runtime": "5:46",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "Vocals by Anna McClellan and Trinity Ace",
+   "fcc_source": "https://genius.com/Greg-freeman-costs-lyrics"
+  },
+  {
+   "num": 13,
+   "title": "Bury Me The Shovel",
+   "runtime": "5:45",
+   "bpm": null,
+   "pace": "",
+   "fcc": "FCC “shit” x1 (early in song; Genius posts no sections)",
+   "notes": "Closer. Accordion: Mike Bolger. Vocals by Anna McClellan and Trinity Ace. Record Collector calls it a country-ish ballad",
+   "fcc_source": "https://genius.com/Greg-freeman-bury-me-the-shovel-lyrics"
+  }
+ ],
+ "sources": [
+  "https://gregfreeman.bandcamp.com/album/all-set-the-bone",
+  "https://transgressiverecords.com/news/greg-freeman-announces-a-new-album-all-set-the-bone/",
+  "https://northerntransmissions.com/greg-freeman-announces-new-album-all-set-the-bone/",
+  "https://recordcollectormag.com/reviews/greg-freeman-all-set-the-bone-album-review",
+  "https://www.pastemagazine.com/music/greg-freeman/greg-freeman-all-set-the-bone-review",
+  "https://stereogum.com/2505840/greg-freeman-announces-new-album-all-set-the-bone-hear-indu/music",
+  "https://stereogum.com/2509484/greg-freeman-cahokia/music",
+  "https://www.thelineofbestfit.com/news/greg-freeman-unveils-new-single-losers-prize",
+  "https://music.youtube.com/playlist?list=PLMduzOohHQLoYAPMl9uNRayfpe9uQ3NiA (To Review playlist, tracks 1 to 8 checked)",
+  "Lyrics screened on Genius (counts only), tracks 1 to 13. All 13 have lyrics posted. Tracks 11 and 13 have no section labels, so the word is located only as early in the song."
+ ],
+ "links": {
+  "bandcamp": "https://gregfreeman.bandcamp.com/album/all-set-the-bone"
+ }
+}

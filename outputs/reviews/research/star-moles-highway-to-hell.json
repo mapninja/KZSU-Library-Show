@@ -1,0 +1,155 @@
+{
+ "artist": "Star Moles",
+ "album": "Highway to Hell",
+ "label": "Dead Oceans (signed Oct. 7, 2026; first released on Historic New Jersey Recordings)",
+ "release_date": "2026-02-26",
+ "format": "Digital; vinyl and CD Dec. 4, 2026",
+ "release_notes": [
+  "Star Moles is Emily Moales, a Philadelphia songwriter (originally from New Hampshire) who has been releasing music since 2017. Not related to the AC/DC album of the same name, and no covers: all songs written by Moales.",
+  "Produced, recorded, mixed and mastered by Kevin Basko (Rubber Band Gun) at his Historic New Jersey studio in Philadelphia, 2025.",
+  "Emily Moales - acoustic guitar, drums, bass, piano, vocals, percussion; Kevin Basko - bass, saxophone, backing vocals, percussion; Sam Sullivan - electric guitar (tracks 1, 4, 5, 10); Jem Seidel - percussion (track 9). Cover art by Matthew Reed (TV Beaches).",
+  "10 tracks, about 38 minutes. Follows the 2025 releases Snack Monster (Aug.) and At Night (Oct.). Turn and Work calls Time the focus track and Overdog an advance single.",
+  "On Oct. 7, 2026 Moales signed to Dead Oceans, which will issue Highway to Hell on vinyl for the first time on Dec. 4. A new single, Born Again (video by Lucky Marvel), came out the same day and is the 11th track on the Bandcamp edition. It is not on the 10-track streaming album.",
+  "Dead Oceans announced a January 2027 headline tour. Lyrics are posted for all 10 tracks, and none has FCC words."
+ ],
+ "pull_quotes": [
+  {
+   "text": "think Stephen Malkmus by way of Weyes Blood",
+   "source": "Paste",
+   "url": "https://www.pastemagazine.com/music/star-moles/star-moles-highway-to-hell-album-review"
+  },
+  {
+   "text": "at her most absurd, cynical, and tender",
+   "source": "Paste",
+   "url": "https://www.pastemagazine.com/music/star-moles/star-moles-highway-to-hell-album-review"
+  },
+  {
+   "text": "endlessly rewarding and wholly endearing",
+   "source": "Aquarium Drunkard",
+   "url": "https://aquariumdrunkard.com/2026/04/09/star-moles-highway-to-hell/"
+  }
+ ],
+ "draft_comment": "Stripped-back, lo-fi, psych-tinged bedroom folk-pop from Philadelphia, produced by Kevin Basko of Rubber Band Gun. All 10 tracks screened clean.",
+ "riyl_suggestions": [
+  "Stephen Malkmus",
+  "Weyes Blood",
+  "Fiona Apple",
+  "Liz Phair",
+  "Kate Bush"
+ ],
+ "tracks": [
+  {
+   "num": 1,
+   "title": "The End",
+   "runtime": "2:28",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "Opener and shortest track. Electric guitar: Sam Sullivan. Paste hears a piano riff reminiscent of Fatboy Slim's Praise You",
+   "fcc_source": "https://genius.com/Star-moles-the-end-lyrics"
+  },
+  {
+   "num": 2,
+   "title": "Real Magic",
+   "runtime": "3:56",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "",
+   "fcc_source": "https://genius.com/Star-moles-real-magic-lyrics"
+  },
+  {
+   "num": 3,
+   "title": "Time",
+   "runtime": "3:23",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "Focus track for the release (Turn and Work)",
+   "fcc_source": "https://genius.com/Star-moles-time-lyrics"
+  },
+  {
+   "num": 4,
+   "title": "Overdog",
+   "runtime": "3:56",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "Advance single (Turn and Work). Electric guitar: Sam Sullivan",
+   "fcc_source": "https://genius.com/Star-moles-overdog-lyrics"
+  },
+  {
+   "num": 5,
+   "title": "Day Off",
+   "runtime": "2:59",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "Electric guitar: Sam Sullivan",
+   "fcc_source": "https://genius.com/Star-moles-day-off-lyrics"
+  },
+  {
+   "num": 6,
+   "title": "Factory Train",
+   "runtime": "4:00",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "",
+   "fcc_source": "https://genius.com/Star-moles-factory-train-lyrics"
+  },
+  {
+   "num": 7,
+   "title": "Spinning",
+   "runtime": "4:17",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "Paste calls it a dreamy country ballad",
+   "fcc_source": "https://genius.com/Star-moles-spinning-lyrics"
+  },
+  {
+   "num": 8,
+   "title": "Control Freak",
+   "runtime": "5:20",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "Longest track. Paste calls it the album's longest and slowest song, a piano ballad",
+   "fcc_source": "https://genius.com/Star-moles-control-freak-lyrics"
+  },
+  {
+   "num": 9,
+   "title": "Skip the Party",
+   "runtime": "3:16",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "Percussion: Jem Seidel. Paste calls it jaunty",
+   "fcc_source": "https://genius.com/Star-moles-skip-the-party-lyrics"
+  },
+  {
+   "num": 10,
+   "title": "Halo",
+   "runtime": "4:03",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "Closer. Electric guitar: Sam Sullivan",
+   "fcc_source": "https://genius.com/Star-moles-halo-lyrics"
+  }
+ ],
+ "sources": [
+  "https://starmoles.bandcamp.com/album/highway-to-hell",
+  "https://deadoceans.com/news/star-moles-sign-to-dead-oceans-announce-highway-to-hell-vinyl-release-new-song-born-again/",
+  "https://www.pastemagazine.com/music/star-moles/star-moles-highway-to-hell-album-review",
+  "https://www.turnandwork.com/music/highway-to-hell/",
+  "https://aquariumdrunkard.com/2026/04/09/star-moles-highway-to-hell/",
+  "https://stereogum.com/2491334/stream-star-moles-striking-charismatic-new-album-highway-to-hell/music",
+  "https://music.youtube.com/browse/MPREb_uPa3iIAilYk (YouTube Music album page, 10 songs, 37 minutes)",
+  "Lyrics screened on Genius (counts only), tracks 1 to 10. All 10 have lyrics posted and none has FCC or caution words."
+ ],
+ "links": {
+  "bandcamp": "https://starmoles.bandcamp.com/album/highway-to-hell"
+ }
+}

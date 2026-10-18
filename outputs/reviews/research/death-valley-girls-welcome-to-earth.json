@@ -6,12 +6,17 @@
  "release_notes": [
   "Sixth album from the Los Angeles band. Written after bandleader Bonnie Bloomgarden lost her Altadena home in the Eaton Fire, and her dog Tommy soon after.",
   "Produced by Mark Rains and Bonnie Bloomgarden. Rains engineered and mixed at Station House; Stephen C Common mastered at Twin Hills Recording.",
-  "Bonnie Bloomgarden - organ, Juno 60, vocals; Laena Myers - guitar, vocals; Alana Amram - bass; Bailey Chapman - drums; Sarah Safaie - saxophone; Gregg Foreman - Wurlitzer, Rhodes, synth.",
-  "Guest voices include Laura Kelsey (The Kid), Seth Bogart (Hunx & His Punx), jazz singer Gretchen Parlato and a children's chorus (AllMusic, Bandcamp).",
-  "9 tracks, about 27 minutes. Fire and Brimstone first came out as a 2025 single, b/w Sisters of the Moon. Final single: How Losing Everything in the Fire Taught Me to Love Myself (Oct. 5, video by Dylan Mars Greenberg).",
-  "Out Oct. 9, 2026. Lyrics are posted for four of nine tracks; the other five are unscreened."
+  "Bonnie Bloomgarden - organ, Juno 60, vocals; Laena Myers - guitar, vocals; Alana Amram - bass; Bailey Chapman - drums; Sarah Safaie - saxophone; Gregg Foreman - Wurlitzer, Rhodes, synth. Foreman died in April 2026 after the record was finished (Louder Than War, Glide).",
+  "Guest voices include Laura Kelsey (The Kid), Kelsey Hart (Little Ghost), Hannah Pierce, Seth Bogart (Hunx & His Punx), jazz singer Gretchen Parlato, Shannon Lay and a children's chorus (Bandcamp, AllMusic, Silent Radio).",
+  "9 tracks, about 27 minutes. Singles: Message From the Venus Flower (Aug. 11, with the album announcement), Basic Witch (Sept. 2) and How Losing Everything in the Fire Taught Me to Love Myself (Oct. 5). Fire and Brimstone is a Link Wray cover that first came out in 2025 as the B-side of Sisters of the Moon.",
+  "Released Oct. 9, 2026. Lyrics are posted for all nine tracks and none carry FCC words."
  ],
  "pull_quotes": [
+  {
+   "text": "buzzes and grooves, dancing and chanting with cosmic flair",
+   "source": "Glide Magazine",
+   "url": "https://glidemagazine.com/331355/death-valley-girls-turn-devastation-into-cosmic-hope-on-welcome-to-earth-album-review/"
+  },
   {
    "text": "an especially community-minded one",
    "source": "AllMusic",
@@ -23,12 +28,13 @@
    "url": "https://spillmagazine.com/spill-album-review-death-valley-girls-welcome-to-earth/"
   }
  ],
- "draft_comment": "Psychedelic garage punk with a sax and a crowd of guest singers, written after the Eaton Fire. AllMusic hears it as mostly uplifting.",
+ "draft_comment": "Psychedelic garage punk with a sax and a crowd of guest singers, written after the Eaton Fire. Reviews hear girl-group vocals and punk energy more than grief. Last record with keyboardist Gregg Foreman. All clean.",
  "riyl_suggestions": [
   "Thee Oh Sees",
   "The Black Angels",
   "L.A. Witch",
-  "Hunx & His Punx"
+  "Hunx & His Punx",
+  "X-Ray Spex"
  ],
  "tracks": [
   {
@@ -37,8 +43,9 @@
    "runtime": "3:08",
    "bpm": null,
    "pace": "",
-   "fcc": "UNVERIFIED",
-   "notes": "Opener. AllMusic hears saxophones and wah-wah guitar."
+   "fcc": "CLEAN",
+   "notes": "Opener. Layers of wah-wah guitar, synths and sax (Glide, AllMusic).",
+   "fcc_source": "https://genius.com/Death-valley-girls-welcome-to-earth-lyrics"
   },
   {
    "num": 2,
@@ -47,7 +54,7 @@
    "bpm": null,
    "pace": "",
    "fcc": "CLEAN",
-   "notes": "Features Seth Bogart (AllMusic). Already on the Weekly playlist.",
+   "notes": "Features Seth Bogart. Second single (Sept. 2), with a video directed by Henry Mortensen and starring Exene Cervenka. Already on the Weekly playlist. Garage-rocking groove (Glide); Wurlitzer and sax (Silent Radio).",
    "fcc_source": "https://genius.com/Death-valley-girls-basic-witch-lyrics"
   },
   {
@@ -56,8 +63,9 @@
    "runtime": "2:50",
    "bpm": null,
    "pace": "",
-   "fcc": "UNVERIFIED",
-   "notes": "AllMusic calls it a song dedicated to renewal."
+   "fcc": "CLEAN",
+   "notes": "Dedicated to renewal (AllMusic). Guest choir of children and singers including Shannon Lay and Gretchen Parlato (Silent Radio). Sax-laced punk energy (Glide, Louder Than War).",
+   "fcc_source": "https://genius.com/Death-valley-girls-plant-magic-lyrics"
   },
   {
    "num": 4,
@@ -65,8 +73,9 @@
    "runtime": "3:45",
    "bpm": null,
    "pace": "",
-   "fcc": "UNVERIFIED",
-   "notes": "Longest track."
+   "fcc": "CLEAN",
+   "notes": "Longest track. Swaying tempo with spaghetti-western guitar (Spill); jazzy rhythms (Silent Radio). Glide finds it wandering and one-note.",
+   "fcc_source": "https://genius.com/Death-valley-girls-sing-for-yourself-lyrics"
   },
   {
    "num": 5,
@@ -75,7 +84,7 @@
    "bpm": null,
    "pace": "",
    "fcc": "CLEAN",
-   "notes": "Tribute to Bloomgarden's dog Tommy (AllMusic).",
+   "notes": "Lead single (Aug. 11), with a video directed by Ian Svenonius. Tribute to Bloomgarden's dog Tommy (AllMusic). Funkier (AllMusic); new wave feel (Glide).",
    "fcc_source": "https://genius.com/Death-valley-girls-message-from-the-venus-flower-lyrics"
   },
   {
@@ -84,8 +93,9 @@
    "runtime": "2:50",
    "bpm": null,
    "pace": "",
-   "fcc": "UNVERIFIED",
-   "notes": ""
+   "fcc": "CLEAN",
+   "notes": "Tense and revving (Glide); Riot Grrrl-style exuberance (Louder Than War).",
+   "fcc_source": "https://genius.com/Death-valley-girls-i-love-you-lyrics"
   },
   {
    "num": 7,
@@ -94,7 +104,7 @@
    "bpm": null,
    "pace": "",
    "fcc": "CLEAN",
-   "notes": "Earlier single (2025). Sarah Safaie on saxophone. The Spill Magazine calls it the best song.",
+   "notes": "Cover of Link Wray (written by Wray, from his 1971 album). First released in 2025 as the B-side of Sisters of the Moon, a Fleetwood Mac cover. Sarah Safaie on saxophone. Spill calls it the best song; Glide hears a 70s disco groove.",
    "fcc_source": "https://genius.com/Death-valley-girls-fire-and-brimstone-lyrics"
   },
   {
@@ -103,8 +113,9 @@
    "runtime": "2:05",
    "bpm": null,
    "pace": "",
-   "fcc": "UNVERIFIED",
-   "notes": "Shortest track."
+   "fcc": "CLEAN",
+   "notes": "Shortest track. Girl-group vibes (Glide); surf-guitar riff (Spill).",
+   "fcc_source": "https://genius.com/Death-valley-girls-life-so-far-lyrics"
   },
   {
    "num": 9,
@@ -112,16 +123,25 @@
    "runtime": "2:55",
    "bpm": null,
    "pace": "",
-   "fcc": "UNVERIFIED",
-   "notes": "Closer and final single (Oct. 5), with a Dylan Mars Greenberg video."
+   "fcc": "CLEAN",
+   "notes": "Closer and final single (Oct. 5), with a Dylan Mars Greenberg video. Ends the album on a message of hope (Louder Than War).",
+   "fcc_source": "https://genius.com/Death-valley-girls-how-losing-everything-in-the-fire-taught-me-to-love-myself-lyrics"
   }
  ],
  "sources": [
   "https://deathvalleygirls.bandcamp.com/album/welcome-to-earth",
   "https://www.allmusic.com/album/welcome-to-earth-mw0004867433",
+  "https://glidemagazine.com/331355/death-valley-girls-turn-devastation-into-cosmic-hope-on-welcome-to-earth-album-review/",
+  "https://louderthanwar.com/death-valley-girls-welcome-to-earth-album-review/",
   "https://spillmagazine.com/spill-album-review-death-valley-girls-welcome-to-earth/",
+  "https://www.silentradio.co.uk/10/04/album-review-death-valley-girls-welcome-to-earth/",
+  "https://www.thatericalper.com/2026/09/02/death-valley-girls-recruit-exene-cervenka-for-basic-witch-video-ahead-of-welcome-to-earth/",
+  "https://www.audiofuzz.com/2026/08/11/death-valley-girls-announce-welcome-to-earth-and-share-message-from-the-venus-flower/",
+  "https://stereogum.com/2507847/death-valley-girls-announce-new-album-welcome-to-earth-hear-message-from-the-venus-flower/music",
+  "https://en.wikipedia.org/wiki/Link_Wray_(album)",
+  "https://stereogum.com/2303441/death-valley-girls-sisters-of-the-moon-fleetwood-mac-cover-fire-and-brimstone-link-wray-cover/music",
   "https://suicidesqueeze.net/2026/10/death-valley-girls-release-welcome-to-earth-lp-this-friday-share-new-single/",
-  "Lyrics screened on Genius (counts only), tracks 2, 5 and 7. Tracks 1, 3, 4, 6, 8 and 9 have no lyrics posted on Genius or LRCLIB."
+  "Lyrics screened on Genius (counts only): all 9 tracks. No FCC words found."
  ],
  "links": {
   "ytm": "https://music.youtube.com/search?q=Death+Valley+Girls+Welcome+to+Earth"

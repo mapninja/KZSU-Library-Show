@@ -1,0 +1,61 @@
+Album / Artist: Perfecth / Queens of the Stone Age
+
+Label: Matador Records
+
+Release Date: October 30, 2026
+Review Date: 10/18/2026
+Reviewer: DJ Stace
+
+General Comments / Reviews:
+
+Moody, menacing, love-obsessed rock from a Homme and Shuman production, nine tracks long. Record Collector calls it direct and emotionally exposed, and Easy Street is FCC with five tracks still unscreened. - DJ Stace  [DRAFT, edit or replace]
+
+“a direct and emotionally exposed album exploring love, heartbreak and recovery” - Record Collector
+
+“minimalist riffs with an explosive chorus” - NME (on Where The Goth Girls At?)
+
+Release Notes:
+
+Not yet released. Out Oct. 30 on Matador. Ninth album from the Palm Desert, California band, after In Times New Roman... (2023) and the 2025 live EP and concert film Alive in the Catacombs.
+Nine tracks, about 36 minutes. Produced by Josh Homme and Michael Shuman. Matador says sessions were tracked from New Orleans to Los Angeles; Wikipedia lists Sound City in Los Angeles. Mixing credits: Mark Rankin, Alan Moulder and Finn Howells. Mastered by Dale Becker (Wikipedia).
+Josh Homme - vocals, guitar; Troy Van Leeuwen - guitar; Michael Shuman - bass; Dean Fertita - guitar, keyboards; Jon Theodore - drums. Guests: Nikki Lane (on Easy Street). Wikipedia's personnel list also credits Dave Grohl as an additional musician, with no track named.
+Matador says the nine songs map different kinds of love: family, friends and others. Homme says he broke the word "perfect" to make the title, and the label cites kintsugi, the Japanese art of repairing pottery with gold, as the spirit of the record.
+Singles: Easy Street (feat. Nikki Lane, July 14, first new music since 2023), Insignificant Other (Aug. 25, with the album announcement) and Where The Goth Girls At? (Sept. 23, with a video). Sunday revisits a song Homme co-wrote with Iggy Pop for Post Pop Depression.
+Lyrics are posted on Genius for four tracks only (2, 3, 6 and 7). One has an FCC word: 7. Tracks 1, 4, 5, 8 and 9 are unscreened.
+released October 30, 2026
+
+FCCs: 7  (check by ear: 1,4,5,8,9)
+
+RIYL: Kyuss, Them Crooked Vultures, Eagles of Death Metal, Iggy Pop, Foo Fighters
+
+Play: All but FCCs, Favs Rated with up to *****
+
+Tracklist:
+1. It's Only Love 03:07 - FCC unverified: no lyrics posted. Opener. Electric Eye hears jangling guitars and strings, closer to Wilco than desert rock, with train sounds at the open and close.
+2. Insignificant Other 05:53 - Second single (Aug. 25), released with a lyric video. Matador calls it the centerpiece and says it is the second of only two takes. Homme says it is about distance. Longest track.
+3. Where The Goth Girls At? 03:28 - Third single (Sept. 23). Video directed by Christopher Gruse and Tony Wolski, with Steve Agee, Scarlett Kapella and Lou Lou Safran. NME describes minimalist riffs, an explosive chorus and string and horn arrangements. Homme says it draws on his teenage years in a Palm Desert suburb.
+4. Mono 03:19 - FCC unverified: no lyrics posted. Matador says the mix slips from mono to stereo and from claustrophobia to widescreen orchestral grandeur. Electric Eye hears a spectral melody over an almost trip-hop rhythm.
+5. From the Cliff 02:58 - FCC unverified: no lyrics posted. Shortest track. Electric Eye, which titles it "From the Cliffs of Love Into the Blue," calls it an acoustic ballad and the album's best song.
+6. Sunday 04:55 - Re-recording of a song first on Iggy Pop's Post Pop Depression (2016). Original artist: Iggy Pop. Written by Josh Homme and Iggy Pop (Wikipedia). Electric Eye calls it the most danceable track here. Genius lyrics are posted, but the recording is unreleased, so confirm by ear.
+7. Easy Street 03:51 - FCC “fuck” x1 (Verse 2). First single (July 14), feat. Nikki Lane. Video directed by Christopher Gruse and Tony Wolski. First new QOTSA music since 2023. Debuted live in Oct. 2025 on the Catacombs tour. Electric Eye hears an almost operatic folk strain.
+8. Phantom Limb 04:55 - FCC unverified: no lyrics posted. Electric Eye calls it grungy and folk-inflected.
+9. Run Away From the Mob 03:58 - FCC unverified: no lyrics posted. Closer. Electric Eye says it starts slowly, recalls Pavement and gains weight in the last quarter.
+
+Sources:
+- https://qotsa.bandcamp.com/album/perfecth (tracklist; runtimes posted for tracks 2, 3 and 7 only)
+- https://matadorrecords.com/blogs/news/coming-october-30-queens-of-the-stone-age-perfecth
+- https://en.wikipedia.org/wiki/Perfecth (runtimes for the other tracks, credits, single dates)
+- https://consequence.net/2026/08/queens-of-the-stone-age-new-album-perfecth-single-insignificant-other-stream/
+- https://www.nme.com/news/music/queens-of-the-stone-age-share-new-single-where-the-goth-girls-at-listen-watch-video-3970425
+- https://recordcollectormag.com/reviews/queens-of-the-stone-age-perfecth-album-review
+- https://www.electriceyerock.com/2026/10/album-review-queens-of-stone-age.html
+- https://stereogum.com/2509297/queens-of-the-stone-age-announce-new-album-perfecth-hear-insignificant-other/music
+- https://www.theprp.com/2026/07/14/news/queens-of-the-stone-age-team-with-nikki-lane-for-easy-street-music-video/
+- Lyrics screened on Genius (counts only): tracks 2, 3, 6 and 7. Genius lists tracks 1, 4, 5, 8 and 9 as unreleased with no lyrics. Insignificant Other runtime is 5:53 on Bandcamp and 5:54 on Wikipedia; Bandcamp used.
+- Quote, Record Collector: https://recordcollectormag.com/reviews/queens-of-the-stone-age-perfecth-album-review
+- Quote, NME (on Where The Goth Girls At?): https://www.nme.com/news/music/queens-of-the-stone-age-share-new-single-where-the-goth-girls-at-listen-watch-video-3970425
+- Track 2 lyrics checked: https://genius.com/Queens-of-the-stone-age-insignificant-other-lyrics
+- Track 3 lyrics checked: https://genius.com/Queens-of-the-stone-age-where-the-goth-girls-at-lyrics
+- Track 6 lyrics checked: https://genius.com/Queens-of-the-stone-age-sunday-lyrics
+- Track 7 lyrics checked: https://genius.com/Queens-of-the-stone-age-easy-street-lyrics
+- bandcamp: https://qotsa.bandcamp.com/album/perfecth

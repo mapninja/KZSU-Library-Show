@@ -1,0 +1,155 @@
+{
+ "artist": "Dummy",
+ "album": "Do You Love the Color of the Sky?",
+ "label": "Polyvinyl Records",
+ "release_date": "2026-10-16",
+ "format": "LP, CD, cassette, digital",
+ "release_notes": [
+  "Third album from Los Angeles band Dummy (The Line of Best Fit counts it as the fourth), their first for Polyvinyl. It follows Free Energy (Sept. 2024) and the remix album Bubbelibrium DLC (2025). Stylized in lowercase as do you love the color of the sky?",
+  "10 tracks, about 43 minutes. Produced, recorded and mixed by Dummy and Joo-Joo Ashworth, in a home studio and at Studio 22 (Northern Transmissions); mastered by Mikey Young. Certain editions include a bonus CD, the Dronus Disc, an ambient companion disc meant to play alongside the album (Treble).",
+  "Emma Maatman - keyboards, vocals; Nathan O'Dell - guitar, vocals; Joe Trainor - guitar; Alex Ewell - drums, vocals; Lance Umble - bass (touring bassist turned full-time member, credited with additional bass).",
+  "Guests: Nina Pitchkites (additional vocals, \"Song of Mana\"); Allyson Foster and Paul Benson of New Issue (additional vocals, \"Alluvial Fan\").",
+  "Polyvinyl says the songs take on climate degradation (\"April Limousine\"), A.I. and the devaluation of art (\"Full Spectrum Dominance\") and the surveillance state (\"N of 1\"). Label comparisons include Seefeel, Disco Inferno, early Björk and Madonna's Ray of Light.",
+  "Singles: \"Full Spectrum Dominance\" (Aug. 13, with the album announcement), \"April Limousine\" and \"Alluvial Fan\" (Sept. 17, one shared video directed by Maatman) and \"N of 1\" (Oct. 13). The band says it played about 113 shows over roughly 150 days of touring between albums.",
+  "Lyrics are posted on Genius for 9 tracks; track 8 is listed as wordless. Two tracks have FCC words: 9 and 10."
+ ],
+ "pull_quotes": [
+  {
+   "text": "a softly-lit and pastel-hued otherland easy to get lost in",
+   "source": "The Line of Best Fit",
+   "url": "https://www.thelineofbestfit.com/albums/dummy-offer-up-a-pastel-hued-escape-fantasy-on-do-you-love-the-color-of-the-sky"
+  },
+  {
+   "text": "sonically disorienting but also incredibly cohesive",
+   "source": "Clash",
+   "url": "https://www.clashmusic.com/reviews/dummy-do-you-love-the-color-of-the-sky/"
+  }
+ ],
+ "draft_comment": "Dreamy, drone-flecked, breakbeat-driven indie electronica from L.A., the band's third album and first for Polyvinyl, with critics reaching for Seefeel, Broadcast and Stereolab. Two FCC tracks late in the sequence (9 and 10).",
+ "riyl_suggestions": [
+  "Stereolab",
+  "Broadcast",
+  "Seefeel",
+  "Cocteau Twins",
+  "A Sunny Day in Glasgow"
+ ],
+ "tracks": [
+  {
+   "num": 1,
+   "title": "April Limousine",
+   "runtime": "5:03",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "Opener. Single (Sept. 17, paired with \"Alluvial Fan\"). Maatman says it references every other song on the album (Stereogum). Treble hears a psychedelic breakbeat opening that drifts into an ethereal float",
+   "fcc_source": "https://genius.com/Dummy-la-april-limousine-lyrics"
+  },
+  {
+   "num": 2,
+   "title": "Alluvial Fan",
+   "runtime": "3:39",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "Single (Sept. 17, paired with \"April Limousine\"). Additional vocals: Allyson Foster and Paul Benson (New Issue)",
+   "fcc_source": "https://genius.com/Dummy-la-alluvial-fan-lyrics"
+  },
+  {
+   "num": 3,
+   "title": "Full Spectrum Dominance",
+   "runtime": "3:35",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "Lead single (Aug. 13). Video by Matt Wells (Post Man Animation). Trainor calls it the band's nu metal song, with tambourine added (Stereogum). The Line of Best Fit compares it to Stereolab remixed by Lemon Jelly",
+   "fcc_source": "https://genius.com/Dummy-la-and-dummy-full-spectrum-dominance-lyrics"
+  },
+  {
+   "num": 4,
+   "title": "Squeaky Wheel",
+   "runtime": "6:23",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "Longest track. Treble says it climaxes in layered vocal spirals",
+   "fcc_source": "https://genius.com/Dummy-la-squeaky-wheel-lyrics"
+  },
+  {
+   "num": 5,
+   "title": "Touch the Perfect Speed",
+   "runtime": "4:29",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "",
+   "fcc_source": "https://genius.com/Dummy-la-touch-the-perfect-speed-lyrics"
+  },
+  {
+   "num": 6,
+   "title": "Song of Mana",
+   "runtime": "6:22",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "Additional vocals: Nina Pitchkites. Treble hears a melancholy ambient-pop drift that turns into acid techno squelch",
+   "fcc_source": "https://genius.com/Dummy-la-song-of-mana-lyrics"
+  },
+  {
+   "num": 7,
+   "title": "Omen Globe",
+   "runtime": "2:35",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "Treble calls it a standout and a compact ravegaze rush",
+   "fcc_source": "https://genius.com/Dummy-la-omen-globe-lyrics"
+  },
+  {
+   "num": 8,
+   "title": "C.B.B.S.I.M.M.P.W.M.",
+   "runtime": "1:38",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "Shortest track. Genius lists it as wordless; Clash says the band lean into the instrumental side here",
+   "fcc_source": "https://genius.com/Dummy-la-cbbsimmpwm-lyrics"
+  },
+  {
+   "num": 9,
+   "title": "N of 1",
+   "runtime": "5:03",
+   "bpm": null,
+   "pace": "",
+   "fcc": "FCC “fucking” x1 (Verse 2)",
+   "notes": "Final single (Oct. 13). About being conditioned to accept the surveillance state (Polyvinyl). Trainor says it cuts glacial guitar drones into a jungle-inspired drum context (The Line of Best Fit)",
+   "fcc_source": "https://genius.com/Dummy-la-n-of-1-lyrics"
+  },
+  {
+   "num": 10,
+   "title": "Heaven's What You Make of It",
+   "runtime": "4:27",
+   "bpm": null,
+   "pace": "",
+   "fcc": "FCC “piss” x1 (Verse 2)",
+   "notes": "Closer. Lance Umble's bass is featured (Polyvinyl). The Line of Best Fit calls it the album highlight",
+   "fcc_source": "https://genius.com/Dummy-la-heavens-what-you-make-of-it-lyrics"
+  }
+ ],
+ "sources": [
+  "https://notdummy.bandcamp.com/album/do-you-love-the-color-of-the-sky",
+  "https://www.polyvinylrecords.com/products/dummy-do-you-love-the-color-of-the-sky",
+  "https://stereogum.com/2508150/dummy-announce-new-album-do-you-love-the-color-of-the-sky-hear-full-spectrum-dominance/music",
+  "https://stereogum.com/2511768/dummy-april-limousine-alluvial-fan/music",
+  "https://northerntransmissions.com/dummy-announce-new-album-do-you-love-the-color-of-the-sky/",
+  "https://northerntransmissions.com/dummy-do-you-love-the-color-of-the-sky/",
+  "https://www.thelineofbestfit.com/albums/dummy-offer-up-a-pastel-hued-escape-fantasy-on-do-you-love-the-color-of-the-sky",
+  "https://www.thelineofbestfit.com/news/dummy-unveil-new-single-n-of-1-and-announce-uk-eu-tour",
+  "https://www.treblezine.com/dummy-do-you-love-the-color-of-the-sky-review/",
+  "https://www.clashmusic.com/reviews/dummy-do-you-love-the-color-of-the-sky/",
+  "https://music.youtube.com/playlist?list=PLMduzOohHQLoYAPMl9uNRayfpe9uQ3NiA (To Review playlist, all 10 tracks present; runtimes here follow Bandcamp, which run 1 second shorter on most tracks)",
+  "Lyrics screened on Genius (counts only), tracks 1 to 10. Lyrics are posted for all 10; track 8 is listed as wordless."
+ ],
+ "links": {
+  "bandcamp": "https://notdummy.bandcamp.com/album/do-you-love-the-color-of-the-sky"
+ }
+}

@@ -1,0 +1,180 @@
+{
+ "artist": "Bodega",
+ "album": "All Inside Aquarium",
+ "label": "Chrysalis Records",
+ "release_date": "2026-10-09",
+ "release_notes": [
+  "Fourth album from the New York band, and the follow-up to Our Brand Could Be Yr Life (Apr. 12, 2024, Chrysalis). The 2025 mini-album Rot in Helvetica came out under the alter-ego name NODEGA.",
+  "Ben Hozie - guitar, vocals; Nikki Belfiglio - vocals, percussion, sampling; Dan Ryan - lead guitar; Adam See - bass; Adam Shumski - drums (Wikipedia).",
+  "Produced by Matt Peel (Yard Act, Eagulls) at the Nave, his studio in a deconsecrated church in Leeds, England. Recorded live over about six weeks, the band's first time recording outside New York. Mixed in Brighton by Theo Verney (English Teacher, Lime Garden).",
+  "Hozie says he never thought of Bodega as post-punk and cites late-'80s and early-'90s Stone Roses and Jane's Addiction as the model, with more riffing and guitar solos. Belfiglio built the miniature fish-tank scene on the cover over five months.",
+  "Singles: Pick up the Check (May 6, video directed by Hozie), All Inside Aquarium (June 22, video directed by Belfiglio), Weather Me (Aug. 5), Literary World (Sept. 9) and Slow Train (shared ahead of release, coverage dated Oct. 8).",
+  "12 tracks, 45:20 (Bandcamp, AllMusic). Out Oct. 9, 2026. Lyrics are posted on Genius for all 12 tracks, with no section labels."
+ ],
+ "pull_quotes": [
+  {
+   "text": "much more focused on melodicism than ever before",
+   "source": "Far Out",
+   "url": "https://faroutmagazine.co.uk/bodega-all-inside-aquarium-album-review/"
+  },
+  {
+   "text": "they’re not just post-punk; they’re post-genre, and better for it",
+   "source": "SPIN",
+   "url": "https://www.spinmagazine.com/2026/10/bodegas-excellent-adventure/"
+  },
+  {
+   "text": "sound like Jane’s Addiction covering Bob Dylan",
+   "source": "Glide Magazine",
+   "url": "https://glidemagazine.com/331320/bodega-trade-post-punk-angularity-for-guitar-driven-rock-on-all-inside-aquarium-album-review/"
+  }
+ ],
+ "draft_comment": "Bodega ditches the post-punk tag for late-'80s and early-'90s alt rock, Stone Roses meets Jane's Addiction by the band's own account. Heads up that the title track is FCC.",
+ "riyl_suggestions": [
+  "Parquet Courts",
+  "Wet Leg",
+  "Yard Act",
+  "The Stone Roses",
+  "Jane's Addiction"
+ ],
+ "tracks": [
+  {
+   "num": 1,
+   "title": "All Inside Aquarium",
+   "runtime": "4:14",
+   "bpm": null,
+   "pace": "",
+   "fcc": "FCC “fuck” x2 (Genius posts no section labels)",
+   "notes": "Single (June 22) with a green-screen video directed by Nikki Belfiglio. Title track. Already on the Weekly playlist.",
+   "fcc_source": "https://genius.com/Bodega-all-inside-aquarium-lyrics"
+  },
+  {
+   "num": 2,
+   "title": "Weather Me",
+   "runtime": "3:22",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "Single (Aug. 5). Belfiglio takes the lead vocal (Glide).",
+   "fcc_source": "https://genius.com/Bodega-weather-me-lyrics"
+  },
+  {
+   "num": 3,
+   "title": "Literary World",
+   "runtime": "2:59",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "Single (Sept. 9) with video. Hozie calls it the album's thesis song.",
+   "fcc_source": "https://genius.com/Bodega-literary-world-lyrics"
+  },
+  {
+   "num": 4,
+   "title": "Astro Night Ride",
+   "runtime": "4:57",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "Longest track. Glide compares its distorted guitars to Sonic Youth; SPIN lists it among the highlights.",
+   "fcc_source": "https://genius.com/Bodega-astro-night-ride-lyrics"
+  },
+  {
+   "num": 5,
+   "title": "Pick up the Check",
+   "runtime": "4:38",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "First single (May 6), video directed by Hozie. Far Out names it the standout track.",
+   "fcc_source": "https://genius.com/Bodega-pick-up-the-check-lyrics"
+  },
+  {
+   "num": 6,
+   "title": "Oxygen",
+   "runtime": "2:54",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "Vocals shared by Belfiglio and Hozie (SPIN).",
+   "fcc_source": "https://genius.com/Bodega-oxygen-lyrics"
+  },
+  {
+   "num": 7,
+   "title": "Fear not the Fear",
+   "runtime": "4:47",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "Hozie on lead vocal (SPIN).",
+   "fcc_source": "https://genius.com/Bodega-fear-not-the-fear-lyrics"
+  },
+  {
+   "num": 8,
+   "title": "Slow Train",
+   "runtime": "3:51",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "Cover of Bob Dylan (written by Dylan, title track of his 1979 album Slow Train Coming). Keeps Dylan's lyrics with new music by the band. First track recorded with Matt Peel, as a test of the sessions. Already on the Weekly playlist.",
+   "fcc_source": "https://genius.com/Bodega-slow-train-lyrics"
+  },
+  {
+   "num": 9,
+   "title": "Combustible",
+   "runtime": "3:11",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "",
+   "fcc_source": "https://genius.com/Bodega-combustible-lyrics"
+  },
+  {
+   "num": 10,
+   "title": "Pile Driver",
+   "runtime": "2:50",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "Shortest track. Belfiglio vocal (SPIN).",
+   "fcc_source": "https://genius.com/Bodega-pile-driver-lyrics"
+  },
+  {
+   "num": 11,
+   "title": "Backbeaten",
+   "runtime": "4:14",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CAUTION “asshole” x1 (Genius posts no section labels; near the end of the lyrics)",
+   "notes": "",
+   "fcc_source": "https://genius.com/Bodega-backbeaten-lyrics"
+  },
+  {
+   "num": 12,
+   "title": "Olivia",
+   "runtime": "3:23",
+   "bpm": null,
+   "pace": "",
+   "fcc": "CLEAN",
+   "notes": "Closer. Belfiglio vocal (Glide, SPIN).",
+   "fcc_source": "https://genius.com/Bodega-olivia-lyrics"
+  }
+ ],
+ "sources": [
+  "https://bodegabk.bandcamp.com/album/all-inside-aquarium",
+  "https://www.allmusic.com/album/all-inside-aquarium-mw0004890258",
+  "https://en.wikipedia.org/wiki/Bodega_(American_band)",
+  "https://www.nme.com/news/music/bodega-announce-new-album-all-inside-aquarium-with-melodic-title-track-3952493",
+  "https://diymag.com/news/new-york-bodega-new-album-all-inside-aquarium",
+  "https://www.thelineofbestfit.com/news/bodega-announce-fourth-album-all-inside-aquarium-and-share-title-track-single",
+  "https://whynow.co.uk/read/bodega-literary-world",
+  "https://www.thatericalper.com/2026/10/08/bodega-reinvent-bob-dylans-slow-train-ahead-of-new-album-all-inside-aquarium/",
+  "https://northerntransmissions.com/bodega-cover-bob-dylans-slow-train/",
+  "https://www.godisinthetvzine.co.uk/2026/05/06/news-bodega-return-with-new-single-pick-up-the-check-announce-live-dates-including-londons-100-club-in-september/",
+  "https://faroutmagazine.co.uk/bodega-all-inside-aquarium-album-review/",
+  "https://www.spinmagazine.com/2026/10/bodegas-excellent-adventure/",
+  "https://glidemagazine.com/331320/bodega-trade-post-punk-angularity-for-guitar-driven-rock-on-all-inside-aquarium-album-review/",
+  "Lyrics screened on Genius (counts only), tracks 1 to 12. Genius posts the lyrics without section labels."
+ ],
+ "links": {
+  "bandcamp": "https://bodegabk.bandcamp.com/album/all-inside-aquarium"
+ }
+}
