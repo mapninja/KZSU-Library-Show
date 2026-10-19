@@ -118,6 +118,13 @@
    "source": "md@kzsu promo (KZSU Gmail), ADDS 10/20",
    "ticked_requests_waiting": "none new (29 ticks all done or earlier)",
    "deploy": "Review Shelf redeployed as 1oOidwykAZb93nTEzERXCfLMSMyPT3TiLVTbpXJ60RGE; old sheet in _to_delete."
+  },
+  {
+   "date": "2026-10-19",
+   "trigger": "Monday album sweep",
+   "rows_added": 0,
+   "source": "Album sweep",
+   "note": "All released matches (Fontaines D.C., Dummy, Teenage Fanclub, Tallest Man, Jess Williamson, Death Valley Girls, BODEGA, Jamie T) were already on the shelf. Bad Brains archival (Nov. 6) skipped for cool-off. Ticks untouched."
   }
  ]
 }

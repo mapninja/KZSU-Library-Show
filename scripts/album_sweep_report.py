@@ -167,6 +167,24 @@ def build_markdown(records, today):
     return "\n".join(out).rstrip() + "\n"
 
 
+def skipped_section(today):
+    """Render data/album_sweep/skipped_<date>.json (albums held back because
+    the artist is in a 60-day cool-off). Returns "" if the file is absent."""
+    path = SWEEP_DIR / f"skipped_{today}.json"
+    if not path.exists():
+        return ""
+    rows = json.loads(path.read_text())
+    out = ["## Skipped: 60-day cool-off", "",
+           "Albums by artists Stace deleted from the Air Order, Weekly or New "
+           "Releases for Review. Not added to the Review Shelf. Cool-off dates "
+           "are in `data/daily/feedback.json`.", ""]
+    for r in sorted(rows, key=lambda r: r.get("release_date", "")):
+        out.append(f"- {r['artist']}, *{r['album']}* ({r.get('label', '')}; "
+                   f"{r.get('release_date', '')}). Cool-off to "
+                   f"{r.get('cooloff_until', '')}: {r.get('reason', '')}.")
+    return "\n".join(out) + "\n"
+
+
 def main():
     ap = argparse.ArgumentParser(description="Render the album sweep report.")
     ap.add_argument("--date", default=date.today().isoformat(),
@@ -200,7 +218,8 @@ def main():
 
     REPORT_DIR.mkdir(parents=True, exist_ok=True)
     report = REPORT_DIR / f"{args.date}.md"
-    report.write_text(build_markdown(records, args.date))
+    report.write_text(build_markdown(records, args.date) + "\n" +
+                      skipped_section(args.date))
 
     table = SWEEP_DIR / f"albums_{args.date}.csv"
     with table.open("w", newline="", encoding="utf-8") as fh:

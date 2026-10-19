@@ -1,0 +1,17 @@
+{
+ "_note": "Browser screen, Oct. 19, 2026 (sandbox gets 403 on lyric sites). Counts only, no lyrics. Locations are LRCLIB line numbers or Genius sections.",
+ "results": [
+  {"artist": "Fontaines D.C.", "track": "Marianne", "status": "CLEAN", "source": "LRCLIB", "words": 259},
+  {"artist": "The Tallest Man On Earth", "track": "Deliver Me From Trying", "status": "CLEAN", "source": "LRCLIB", "words": 212},
+  {"artist": "Dummy", "track": "Full Spectrum Dominance", "status": "CLEAN", "source": "LRCLIB", "words": 151},
+  {"artist": "BODEGA", "track": "Literary World", "status": "CLEAN", "source": "Genius", "words": 272},
+  {"artist": "Queens of the Stone Age", "track": "Where the Goth Girls At?", "status": "CLEAN", "source": "Genius", "words": 156},
+  {"artist": "Queens of the Stone Age", "track": "Easy Street", "status": "FCC", "source": "Genius", "words": 224, "hits": "fuck x1 (Verse 2)"},
+  {"artist": "DIIV", "track": "The Fountain", "status": "CLEAN", "source": "LRCLIB", "words": 106},
+  {"artist": "TV Priest", "track": "Just So You Know", "status": "CLEAN", "source": "Genius", "words": 183},
+  {"artist": "Do Nothing", "track": "Stars", "status": "CLEAN", "source": "LRCLIB", "words": 202},
+  {"artist": "Rocketship", "track": "New Threats", "status": "UNVERIFIED", "source": "none found"},
+  {"artist": "Desperate Journalist", "track": "Terrible Years", "status": "UNVERIFIED", "source": "none found"},
+  {"artist": "The Blue Aeroplanes", "track": "Silver Lounge", "status": "UNVERIFIED", "source": "none found"}
+ ]
+}
