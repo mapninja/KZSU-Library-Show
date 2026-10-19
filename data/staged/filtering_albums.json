@@ -10876,5 +10876,25 @@
   "blurb": "First single from debut album Moments. Philadelphia. Adding at Top 200.",
   "also_in": [],
   "source": "md_list_promo"
+ },
+ {
+  "email_date": "2026-10-15",
+  "email_subject": "[ADDS 10/20]: VICIOUS VICIOUS :: RIYL: Beck, Ween, Mac DeMarco, Flaming Lips, Tame Impala",
+  "artist": "Vicious Vicious",
+  "title": "All Caught Up / Yodel My Name Across The Sweeping Sands",
+  "type": "single",
+  "label": "Vicious Vicious (self-released)",
+  "riyl": [
+   "Beck",
+   "Ween",
+   "Mac DeMarco",
+   "Flaming Lips",
+   "Tame Impala"
+  ],
+  "format_tags": "Digital Only",
+  "flags": "ADDS 10/20; FCC CLEAN per promo (verify)",
+  "blurb": "Erik Appelwick (Tapes 'n Tapes, Kid Dakota), Minneapolis. First preview of eighth album You And I Belong (16 songs, due November 2026). Prior album I Think We've Got A Situation reached the NACC 200 Top 30. Adding at Top 200.",
+  "also_in": [],
+  "source": "md_list_promo"
  }
 ]

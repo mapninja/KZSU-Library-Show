@@ -1,6 +1,6 @@
 # Staged for review: priority list (2026-10-19)
 
-Merged from 986 releases across all sources: Mark Mollineaux's New Music Filtering emails (555 items, latest 2026-10-08), the Music Dept promo list, label feeds, Wikipedia lists, Stereogum and other release news, Bandcamp artist and label pages, the indieisnotagenre list, the Review Shelf sweeps, the NACC chart and your Weekly and Review playlist activity. Scored against `config/taste_profile.json`.
+Merged from 987 releases across all sources: Mark Mollineaux's New Music Filtering emails (556 items, latest 2026-10-15), the Music Dept promo list, label feeds, Wikipedia lists, Stereogum and other release news, Bandcamp artist and label pages, the indieisnotagenre list, the Review Shelf sweeps, the NACC chart and your Weekly and Review playlist activity. Scored against `config/taste_profile.json`.
 Staged releases (Mark and Music Dept) get a bonus. Claim them through the music department's form. Release date shows (verify) when only one source has it and NEEDED when none does.
 
 Source scans: indieisnotagenre ok (2026-10-19); bandcamp ok, no taste-profile matches (2026-10-19); pitchfork blocked (2026-10-19).
@@ -177,7 +177,7 @@ Finished templates get a link after the last `|`.
 | 22 | 54.5 | Cigarettes After Sex, *Twizzler* | single | Partisan Records | 2026-05-19 | cool-off until 2026-12-08; you play Cigarettes After Sex; RIYL Yo La Tengo, Mazzy Star, Alex G; label: 118 spins | Mark Mollineaux email | staged |
 | 23 | 53.6 | Danielle Ponder, *Power* | single | Dead Oceans | 2026-06-18 (verify) | RIYL SAULT, Khruangbin, Michael Kiwanuka; label: 40 spins | Mark Mollineaux email | staged |
 | 24 | 52.3 | Gelli Haha, *Klouds Will Carry Me To Sleep* | single | Innovative Leisure | 2026-03-25 | on Weekly Playlist; you play Gelli Haha; RIYL Blondie; label: 41 spins | Mark Mollineaux email | staged |
-| 25 | 49.7 | Hrishikesh Hirway, *Stray Dogs (with Iron & Wine)* | single | Keeled Scales | 2026-02-18 | on Weekly Playlist; RIYL Iron & Wine, Nick Drake, Damien Jurado | Mark Mollineaux email | staged |
+| 25 | 51.4 | Vicious Vicious, *All Caught Up / Yodel My Name Across The Sweeping Sands* | single | Vicious Vicious (self-released) | NEEDED | RIYL Beck, The Flaming Lips, Ween | Music Dept promo list | staged ADDS 10/20; FCC CLEAN per promo (verify) |
 
 ## Outside singles worth airing (top 10)
 
@@ -196,12 +196,20 @@ Finished templates get a link after the last `|`.
 
 Full scored list: `staged_priority_2026-10-19.csv`.
 
+## FCC
+
+- **Flags:** Fat Dog's single is titled "Go Fuck Urself" on release. It needs a clean edit if aired.
+- **Clean (screened):** Little Barrie "More Bad Miles Of Road", Sluice "Zillow", Dread Spectre Council "Hooves & Cloves", The Fall "A Caveat" (Stace's Zookeeper reviews, Oct. 4 to 8); Twin Peaks "Walk to the One You Love" (Genius).
+- **Unverified, listen first:** Vicious Vicious "All Caught Up" and "Yodel My Name Across The Sweeping Sands". The promo says FCC clean, but lyric databases had no lyrics and the sandbox lyric APIs returned 403. Guided By Voices, Mitski and Widowspeak lead tracks were not re-screened this run.
+
+## Cross-check
+
+- Overlap with the Oct. 22 plan (`data/recon/2026-10-22/working_playlist.json`): Little Barrie, Sluice, Dread Spectre Council, The Fall, Twin Peaks.
+- New staged single: [Vicious Vicious, All Caught Up](https://music.youtube.com/search?q=Vicious+Vicious+All+Caught+Up). Going for adds Oct. 20, not yet on YouTube Music or Bandcamp as of Oct. 19. Check again Wednesday before building the show.
+
 ## Run notes
 
-- New mail: none from Mark Mollineaux (bufordsharkley@gmail.com, mgm@ and md@kzsu.stanford.edu) or the Music Dept after Oct. 12. Latest indexed email is still Oct. 12.
-- Source scans (Oct. 19): indieisnotagenre ok, 206 rows, no new rows since Oct. 17. Bandcamp rock+punk new feed ok, no taste-profile or watchlist matches. Pitchfork blocked, not retried.
-- Dates checked this run: 30 lookups from MusicBrainz plus label, Bandcamp, Wikipedia and press pages. 24 newly confirmed (two agreeing day-precision sources), including Thetans (Mar. 27), The Next (June 2), Dim Sum and Then Some (May 8) and Nobody's Coming To Save You (single, May 20).
-- Lists show 90 confirmed, 10 verify and 0 missing dates. Still verify: GALVEZTON, Go Public, Haters, Little Barrie "Luggin' Hurt", Miss Grit "Mind Disaster", Danielle Ponder "Power" (MusicBrainz says June 17, Clash June 18), Imperial Teen "All Hands Up" (album cut, not a single), PJ Harvey "Voyager" (7-inch Dec.), Teenage Fanclub "Be With You Tonight", Buddy Miller.
-- Queue for next run: 35 items (backfill of undated pool).
-- Ticks: the Oct. 18 Drive list had no ticks, so none carried forward.
-- FCC screen and cross-check not rerun (no new staged mail). Fat Dog's single is titled "Go Fuck Urself" on release, so it needs a clean edit if aired.
+- New mail (Oct. 19 intake): one new Music Dept promo in the KZSU Gmail, [ADDS 10/20] Vicious Vicious (single, self-released, album You And I Belong due November). Outlook: no new mail from Mark Mollineaux or chartman since Sept. 3 and 4. Skipped two Vitriol Radio PRIOS digests and one unsolicited submission (DreArtist).
+- Source scans: the 07:15 daily run covered them today. indieisnotagenre ok (206 rows), Bandcamp ok with no taste-profile matches, Pitchfork blocked.
+- Dates: 90 confirmed, 10 verify per the 07:15 run. Vicious Vicious single date is NEEDED (not published yet). Queue of undated items carried to the next run.
+- Ticks: the Drive list had no ticks to carry forward.

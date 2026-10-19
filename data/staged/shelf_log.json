@@ -108,6 +108,16 @@
    "source": "Album sweep",
    "ticked_requests_waiting": "none new (22 ticks kept)",
    "deploy": "Working copies updated (repo data/staged and Drive Working). Google Sheet not redeployed; the next sweep will redeploy."
+  },
+  {
+   "date": "2026-10-19",
+   "trigger": "Monday intake",
+   "rows_added": [
+    "Vicious Vicious - All Caught Up / Yodel My Name Across The Sweeping Sands (single)"
+   ],
+   "source": "md@kzsu promo (KZSU Gmail), ADDS 10/20",
+   "ticked_requests_waiting": "none new (29 ticks all done or earlier)",
+   "deploy": "Review Shelf redeployed as 1oOidwykAZb93nTEzERXCfLMSMyPT3TiLVTbpXJ60RGE; old sheet in _to_delete."
   }
  ]
 }

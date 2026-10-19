@@ -24,3 +24,7 @@
 - 2026-10-16 (Friday sweep): Review Shelf redeployed (new id 1kf7hrafz2HY_qZlXOB7xppGphJqfflaUx58C8nh4BUQ). +7 rows, 3 Status updates. 22 ticks kept. No Stace edits since Oct. 13 deploy. Old sheet moved to _to_delete. Working/review_shelf.csv mirrors the repo copy. Weekly notes copied to Show Prep.
 
 - 2026-10-16 (Thursday-night draft for Oct. 22): created Notes Sheet 2026-10-22 in Show Prep (id 1YMM5u25pE3ufVbWf291Y3rCvgr19Df0H1WMaG8yu-hY, 45 rows); copied the Working Show Script Word and PDF and review_suggestions_2026-10-16.md to Show Prep; working copies in Working/. Oct. 15 finals moved to Archive/2026/10-15/.
+
+- 2026-10-17 (daily Mark email check): no new Mark or Music Dept mail. Review Shelf redeployed (new id 1UcRkOD4jJSE4zoI_bbR1dLDVT9wm3cGIWFBWQ2bRt5k). Harvested 7 new ticks from Stace's edits (29 total). +14 album sweep rows, release dates updated from 31 lookups. Old sheet moved to _to_delete. staged_priority_2026-10-17.md uploaded to Staged Reviews (Oct. 16 list left in place). Working/review_shelf.csv not refreshed this run.
+
+- 2026-10-19 (Monday intake): Review Shelf redeployed (new id 1oOidwykAZb93nTEzERXCfLMSMyPT3TiLVTbpXJ60RGE). Sheet not edited since Oct. 17 deploy (no harvest). 132 rows, 29 ticks kept. +1 row (Vicious Vicious single, ADDS 10/20). Old sheet moved to _to_delete. staged_priority_2026-10-19.md replaced in Staged Reviews (old copy moved to _to_delete). Working/review_shelf.csv mirrors the repo copy.

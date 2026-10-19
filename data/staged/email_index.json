@@ -195,5 +195,13 @@
   "uri": "gmail:to:md@kzsu.stanford.edu after:2026/10/01",
   "items_extracted": 3,
   "kind": "md_list_promo"
+ },
+ {
+  "date": "2026-10-19",
+  "subject": "md@kzsu promo scan 2026-10-12..2026-10-19 (KZSU Gmail, 6 threads; 1 new item: Vicious Vicious ADDS 10/20). Outlook: no new Mark or chartman mail since Sept. 3. Skipped Vitriol Radio PRIOS digests and one unsolicited submission (DreArtist).",
+  "sender": "md@kzsu.stanford.edu",
+  "uri": "gmail:to:md@kzsu.stanford.edu after:2026/10/12",
+  "items_extracted": 1,
+  "kind": "md_list_promo"
  }
 ]

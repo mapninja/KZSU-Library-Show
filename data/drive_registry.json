@@ -40,12 +40,14 @@
    ]
   },
   "review_shelf": {
-   "id": "1kf7hrafz2HY_qZlXOB7xppGphJqfflaUx58C8nh4BUQ",
+   "id": "1oOidwykAZb93nTEzERXCfLMSMyPT3TiLVTbpXJ60RGE",
    "type": "sheet",
    "folder": "KZSU top",
-   "deployed": "2026-10-16T16:33Z",
+   "deployed": "2026-10-19T14:49Z",
    "working": "Working/review_shelf.csv (mirror: repo data/staged/review_shelf.csv)",
    "retired": [
+    "1UcRkOD4jJSE4zoI_bbR1dLDVT9wm3cGIWFBWQ2bRt5k",
+    "1kf7hrafz2HY_qZlXOB7xppGphJqfflaUx58C8nh4BUQ",
     "16_hzYARZ0LKts80BexBgNqDA-4a4UU7EEfxo1Ux0BCQ",
     "1c8HLi0BfdVMuR52yx6KJVuIrb6AVieJSJ7s1G2Lqdww",
     "1_JNWDpkk3QIIUERXNMeptA6szTzrxvulXhr2v69ihM8",
@@ -56,8 +58,8 @@
     "1QNa8uUbiTV5Tr6wzN_xxt5zj_Og9GYRwdLs9iiTBbU0",
     "11QBWd_ZhiASLbcZxtkymc4ZocPaKPa3Q5osApEgoCig"
    ],
-   "note": "Oct. 16 Friday sweep: added 7 rows (@ Autosmile, Eels Cookie Happened, Radie Peat No Human Tongue Can Tell, Blondie, Smashing Pumpkins, Now Now, Bodywash singles) and updated Status on 3 rows (Fontaines D.C., Dummy, Heavens to Betsey). 114 rows, 22 ticks kept. No Stace edits since Oct. 13 deploy (metadata gate), so no harvest. Old sheet moved to _to_delete.",
-   "hash": "66a8fcdb2fff8edc2446170c4074f009"
+   "note": "Oct. 19 Monday intake: Sheet unmodified since Oct. 17 deploy, so no harvest. Redeployed 132 rows with 29 ticks. +1 row (Vicious Vicious single), Oct. 18 boilerplate dates and 3 template rows (Gilla Band, Calibro 35, Star Moles), release dates synced. Old sheet moved to _to_delete. Working/review_shelf.csv refreshed from the repo copy.",
+   "hash": "58ef580a704b2bc322a1297282cc9d99"
   },
   "review_templates_2026-10-04": {
    "folder": "Staged Reviews/Review Templates (1tHnkXsNSidy9BDtjnYBXwxibyqWl6een)",
