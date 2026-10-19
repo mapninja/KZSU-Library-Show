@@ -1,0 +1,317 @@
+[
+ {
+  "artist": "GALVEZTON",
+  "title": "Ocean Cabaret",
+  "type": "album",
+  "label": "La Izquierda",
+  "current_date": "2026-04-03",
+  "date_check": "verify",
+  "key": "galvezton|ocean cabaret"
+ },
+ {
+  "artist": "Go Public",
+  "title": "You Are Traffic",
+  "type": "album",
+  "label": "Happy Happy Birthday To Me",
+  "current_date": "2026-09-18",
+  "date_check": "verify",
+  "key": "go public|you are traffic"
+ },
+ {
+  "artist": "Haters",
+  "title": "Non-Violent",
+  "type": "album",
+  "label": "Self-Released",
+  "current_date": "2025-03-21",
+  "date_check": "verify",
+  "key": "haters|non violent"
+ },
+ {
+  "artist": "Little Barrie",
+  "title": "Luggin' Hurt",
+  "type": "single",
+  "label": "Easy Eye Sound / Concord",
+  "current_date": "2026-04-23",
+  "date_check": "verify",
+  "key": "little barrie|luggin hurt"
+ },
+ {
+  "artist": "Miss Grit",
+  "title": "Mind Disaster",
+  "type": "single",
+  "label": "Mute Records",
+  "current_date": "2026-03",
+  "date_check": "verify",
+  "key": "miss grit|mind disaster"
+ },
+ {
+  "artist": "Danielle Ponder",
+  "title": "Power",
+  "type": "single",
+  "label": "Dead Oceans",
+  "current_date": "2026-06-18",
+  "date_check": "verify",
+  "key": "danielle ponder|power"
+ },
+ {
+  "artist": "Imperial Teen",
+  "title": "All Hands Up",
+  "type": "single",
+  "label": "Merge",
+  "current_date": "2026-10-09",
+  "date_check": "verify",
+  "key": "imperial teen|all hands up"
+ },
+ {
+  "artist": "PJ Harvey",
+  "title": "Voyager (7-inch)",
+  "type": "single",
+  "label": "",
+  "current_date": "2026-06-24",
+  "date_check": "verify",
+  "key": "pj harvey|voyager 7 inch"
+ },
+ {
+  "artist": "Teenage Fanclub",
+  "title": "Be With You Tonight",
+  "type": "single",
+  "label": "Merge",
+  "current_date": "2026-09-09",
+  "date_check": "verify",
+  "key": "teenage fanclub|be with you tonight"
+ },
+ {
+  "artist": "Buddy Miller",
+  "title": "Nothing But a Child / On The Road to Bethlehem",
+  "type": "single",
+  "label": "New West",
+  "current_date": "2026-09-25",
+  "date_check": "verify",
+  "key": "buddy miller|nothing but a child on the road to bethlehem"
+ },
+ {
+  "artist": "Alewya",
+  "title": "City of Symbols (feat. eejebee)",
+  "type": "single",
+  "label": "Because London Music",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "alewya|city of symbols feat eejebee"
+ },
+ {
+  "artist": "Alewya",
+  "title": "Maktoub",
+  "type": "single",
+  "label": "Because London Music",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "alewya|maktoub"
+ },
+ {
+  "artist": "Emmett Jerome",
+  "title": "It Ain't Me",
+  "type": "album",
+  "label": "Light Organ Records",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "emmett jerome|it ain t me"
+ },
+ {
+  "artist": "Philippe B",
+  "title": "Cigale",
+  "type": "album",
+  "label": "Bonsound",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "philippe b|cigale"
+ },
+ {
+  "artist": "Luke Norton",
+  "title": "Reservoir",
+  "type": "album",
+  "label": "Halloween on Raspberry Hill",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "luke norton|reservoir"
+ },
+ {
+  "artist": "The Wave Pictures",
+  "title": "Gained / Lost",
+  "type": "album",
+  "label": "Bella Union",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "wave pictures|gained lost"
+ },
+ {
+  "artist": "Widemouth",
+  "title": "No Gasoline",
+  "type": "album",
+  "label": "Urban Scandal",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "widemouth|no gasoline"
+ },
+ {
+  "artist": "Archive",
+  "title": "Glass Minds",
+  "type": "album",
+  "label": "Dangervisit / [PIAS]",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "archive|glass minds"
+ },
+ {
+  "artist": "Pope",
+  "title": "BFM",
+  "type": "album",
+  "label": "Rite Field",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "pope|bfm"
+ },
+ {
+  "artist": "ISTA",
+  "title": "In Sound To All",
+  "type": "album",
+  "label": "Self-Released",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "ista|in sound to all"
+ },
+ {
+  "artist": "Motorists",
+  "title": "Never Sing Alone",
+  "type": "album",
+  "label": "We Are Time",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "motorists|never sing alone"
+ },
+ {
+  "artist": "Natalie Jane Hill",
+  "title": "Hopeful Woman",
+  "type": "album",
+  "label": "Dear Life",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "natalie jane hill|hopeful woman"
+ },
+ {
+  "artist": "Love Spells",
+  "title": "Crutch",
+  "type": "single",
+  "label": "RCA Records",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "love spells|crutch"
+ },
+ {
+  "artist": "casi",
+  "title": "CASI",
+  "type": "album",
+  "label": "Carpark",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "casi|casi"
+ },
+ {
+  "artist": "Slow Leaves",
+  "title": "The Ruins of Things Unfinished",
+  "type": "album",
+  "label": "Birthday Cake",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "slow leaves|ruins of things unfinished"
+ },
+ {
+  "artist": "TRAITRS",
+  "title": "Possessor",
+  "type": "album",
+  "label": "Furniture Records",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "traitrs|possessor"
+ },
+ {
+  "artist": "Blondshell",
+  "title": "Heart Has To Work So Hard",
+  "type": "single",
+  "label": "Partisan Records",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "blondshell|heart has to work so hard"
+ },
+ {
+  "artist": "Bellows",
+  "title": "Que Bello!",
+  "type": "single",
+  "label": "bloody knuckles",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "bellows|que bello"
+ },
+ {
+  "artist": "Nina Garbus",
+  "title": "Secrets of the Fifth Angel",
+  "type": "album",
+  "label": "Candlepin",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "nina garbus|secrets of the fifth angel"
+ },
+ {
+  "artist": "Operelly",
+  "title": "*FLUTTERS AWAY*",
+  "type": "album",
+  "label": "deadAir",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "operelly|flutters away"
+ },
+ {
+  "artist": "Styrofoam Winos",
+  "title": "Any River",
+  "type": "album",
+  "label": "Dear Life",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "styrofoam winos|any river"
+ },
+ {
+  "artist": "Triples",
+  "title": "Every Good Story",
+  "type": "album",
+  "label": "Bleak Enterprise",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "triples|every good story"
+ },
+ {
+  "artist": "They Might Be Giants",
+  "title": "Eyeball EP",
+  "type": "EP",
+  "label": "Upward Spiral",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "they might be giants|eyeball ep"
+ },
+ {
+  "artist": "They Might Be Giants",
+  "title": "The World Is to Dig",
+  "type": "album",
+  "label": "Idlewild",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "they might be giants|world is to dig"
+ },
+ {
+  "artist": "Julianna Riolino",
+  "title": "Like a Rembrandt b/w Don't Put Me In The Middle",
+  "type": "single",
+  "label": "Moonwhistle",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "julianna riolino|like a rembrandt b w don t put me in the middle"
+ }
+]
