@@ -5,13 +5,11 @@
  "release_date": "2026-11-06",
  "format": "LP / CD / cassette / digital",
  "release_notes": [
-  "Not yet released. Out Nov. 6 on Sub Pop. Third Twisted Teens album of 2026, after Blame the Clown (Chain Smoking Records, January) and Florida Water Blues (Going Underground, July; Sub Pop outside North America in September). First album since the band signed to Sub Pop in August.",
-  "New Orleans duo Caspian Halliwell and RJ Santos lead the band (Sub Pop). 13 tracks. No producer, studio or personnel credits had been published as of Oct. 18.",
-  "First single When We First Met arrived Sept. 10 with the album announcement; Sub Pop calls it a 113-second tale of a love long gone. Video for the opener Stalks followed Oct. 7.",
-  "Pitchfork put the album on its 34 most anticipated albums of fall 2026 list, citing the band's strut through garage rock, country and traditional folk (as quoted by Sub Pop).",
-  "LP preorders from Sub Pop and at shows get the Loser Edition on maroon vinyl; there is also a Bandcamp exclusive LP, a CD and a cassette.",
-  "On tour with Kurt Vile and The Violators from Nov. 4 (Buffalo) to Nov. 24 (Baltimore), after a Nov. 3 headline show at Bowery Ballroom in New York. Australian dates follow in December.",
-  "Lyrics are posted for only two tracks (1 and 2), both clean. Tracks 3 through 13 are unscreened."
+  "Caspian Halliwell - lead vocals, guitar, songwriter; RJ Santos - steel guitar (Sub Pop and press profiles). The two met as neighbors in New Orleans' Holy Cross neighborhood. Halliwell's earlier bands include Blackbird Raum and Scissorbills; Santos played in Cajun and country bands.",
+  "No producer, studio or other personnel credits published as of Oct. 18.",
+  "Sound: garage rock, country and traditional folk, with steel guitar over shuffling drums (Pitchfork, via Sub Pop). Earlier songs lean on drum machines, slide guitar, organ and a drawling baritone (Stereogum).",
+  "Sub Pop debut, after two earlier 2026 albums, Blame the Clown (Chain Smoking Records) and Florida Water Blues (Going Underground).",
+  "Press materials call the songs anthems of longing and disappointment, from a brutal breakup to snitching ex-friends."
  ],
  "pull_quotes": [
   {
@@ -20,7 +18,7 @@
    "url": "https://www.subpop.com/news/2026/10/07/twisted_teens_share_stalks_official_video"
   }
  ],
- "draft_comment": "Garage-rock, country, folk-flecked New Orleans duo, third album this year and first for Sub Pop. Both screened tracks are clean, but the other eleven are unscreened, so mind the FCCs.",
+ "draft_comment": "Out Nov. 6. New Orleans garage rock with steel guitar and a country drawl, from a duo that keeps making albums. Both screened tracks are clean, the other eleven are unscreened, so mind the FCCs.",
  "riyl_suggestions": [
   "Kurt Vile",
   "Black Lips",
@@ -35,7 +33,7 @@
    "bpm": null,
    "pace": "",
    "fcc": "CLEAN",
-   "notes": "Opener. Video released Oct. 7, directed by Mama Hot Dog and starring the band. Sub Pop calls the song ribald",
+   "notes": "Drum machine, sha-la-la guitar riffs, organ swirls and non-stop slide guitar under a hard-drawling baritone (Stereogum). Fuzzy, rock and roll feel (Song Bar). Toggles between flirty and frustrated (Sub Pop).",
    "fcc_source": "https://genius.com/Twisted-teens-stalks-lyrics"
   },
   {
@@ -45,7 +43,7 @@
    "bpm": null,
    "pace": "",
    "fcc": "CLEAN",
-   "notes": "First single (Sept. 10). Video directed by Anthony Simpkins, medieval-themed. Paste hears jagged guitars and pedal steel under roaring vocals",
+   "notes": "Short and frantic: hopped-up guitar with raw amp distortion, steel guitar and roaring vocals (Still Listening, Scientists of Sound, Paste). Shout-along feel (Sub Pop).",
    "fcc_source": "https://genius.com/Twisted-teens-when-we-first-met-lyrics"
   },
   {
@@ -145,7 +143,7 @@
    "bpm": null,
    "pace": "",
    "fcc": "UNVERIFIED: no lyrics posted",
-   "notes": "Closer"
+   "notes": "Album closer."
   }
  ],
  "sources": [
@@ -154,7 +152,14 @@
   "https://www.subpop.com/news/2026/10/07/twisted_teens_share_stalks_official_video",
   "https://www.pastemagazine.com/music/twisted-teens/twisted-teens-announce-third-album-of-2026",
   "https://stereogum.com/2510931/twisted-teens-announce-third-new-album-this-year-the-holy-cross-tigers-hear-when-we-first-met/music",
-  "Lyrics screened on Genius (counts only): tracks 1 and 2. Genius lists tracks 3 through 13 as missing lyrics."
+  "Lyrics screened on Genius (counts only): tracks 1 and 2. Genius lists tracks 3 through 13 as missing lyrics.",
+  "https://stereogum.com/2513843/twisted-teens-stalks/music (Stalks description)",
+  "https://www.song-bar.com/song-of-the-day/song-of-the-day-twisted-teens-stalks (Stalks)",
+  "https://www.subpop.com/artists/twisted_teens (artist page: flirty and frustrated, RJ Santos steel guitar)",
+  "https://www.stilllisteningmagazine.com/news/twisted-teens-release-when-we-first-met-ahead-of-upcoming-album-the-holy-cross-tigers (When We First Met)",
+  "https://www.sos-music.co.uk/2026/09/twisted-teens-when-we-first-met.html (When We First Met)",
+  "https://bigtakeover.com/interviews/where-punk-meets-the-pews-a-conversation-with-twisted-teens and https://chainsmokingrecords.com/pages/twisted-teens (members and earlier bands, via search summaries)",
+  "BPM: no source found for any track (songbpm and tunebat pages could not be opened)."
  ],
  "links": {
   "bandcamp": "https://twistedteens.bandcamp.com/album/the-holy-cross-tigers"

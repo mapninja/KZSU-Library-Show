@@ -5,13 +5,11 @@
  "release_date": "2026-10-02",
  "format": "2xLP",
  "release_notes": [
-  "Third album from Burlington, Vermont singer-songwriter Greg Freeman, after I Looked Out (July 2022) and Burnover (Aug. 2025). Transgressive says Burnover made The New York Times' best albums of 2025 and earned Pitchfork's Best New Album tag.",
-  "13 tracks, about 67 minutes, spread over four sides of a double LP. Recorded April 8 to 18, 2026 in Los Angeles. Produced, mixed and engineered by John Congleton; mastered by Matt Colton. All songs written by Freeman.",
+  "Greg Freeman is a Burlington, Vermont singer-songwriter; third album, after I Looked Out (2022) and Burnover (2025). Written as he left Burlington for the Southwest and went full-time in music; he calls it a reflection of a lot of change and tension (Bandcamp). Label cites early Pavement and pre-Good News Modest Mouse, with Fugazi and Unwound behind the heavy songs.",
   "Greg Freeman - guitar, vocals; Garrett Linck - bass, group vocals; Joey Sullivan (Florry) - drums, percussion; Carney Hemler (The Rockin Worms) - guitar, group vocals; Sam Atallah - piano, keys, trumpet, horn arrangements, group vocals; Scott Daniel - violin.",
-  "Guests: Anna McClellan and Trinity Ace (vocals), David Ralicke (saxophone), Vikram Devasthali (trombone), Mike Bolger (accordion on track 13).",
-  "Written while Freeman left his longtime Burlington home and went full-time in music, after jobs as a cemetery landscaper and restaurant line cook (Transgressive). The label name-checks early Pavement and pre-Good News Modest Mouse, with Fugazi and Unwound behind the heavier songs.",
-  "Singles: Indu (July 21, with the album announcement), Cahokia (Aug. 26) and Loser's Prize (Sept. 29, the final preview). North American tour starts Oct. 20, with a San Francisco stop at The Independent on Nov. 5.",
-  "Lyrics are posted for all 13 tracks. Three have FCC words: 1, 11 and 13."
+  "Guests: Anna McClellan (vocals, tracks 1, 2, 4, 5, 6, 7, 12, 13); Trinity Ace (vocals, tracks 3, 4, 9, 12, 13); David Ralicke (saxophone) and Vikram Devasthali (trombone) on tracks 4, 8, 10; Mike Bolger (accordion, track 13).",
+  "Produced, mixed and engineered by John Congleton in Los Angeles (assistant engineer Rachel White); mastered by Matt Colton. All songs written by Freeman.",
+  "Congleton fronted the Dallas alt-rock band The Paper Chase and has produced St. Vincent (Actor, Strange Mercy, the self-titled album), and worked with Angel Olsen, Explosions in the Sky, Modest Mouse and Okkervil River."
  ],
  "pull_quotes": [
   {
@@ -25,7 +23,7 @@
    "url": "https://www.pastemagazine.com/music/greg-freeman/greg-freeman-all-set-the-bone-review"
   }
  ],
- "draft_comment": "Sprawling, noisy, horn-flecked indie rock with Americana roots, produced by John Congleton. Record Collector hears Fugazi-style post-hardcore in the heavy parts, and three tracks are FCC, the opener included.",
+ "draft_comment": "Sprawling, noisy, horn-flecked indie rock with Americana roots, swinging from slacker garage to Fugazi-style post-hardcore, produced by John Congleton. Three tracks are FCC, the opener included.",
  "riyl_suggestions": [
   "Pavement",
   "Modest Mouse",
@@ -38,80 +36,80 @@
    "num": 1,
    "title": "Cahokia",
    "runtime": "4:32",
-   "bpm": null,
-   "pace": "",
+   "bpm": 96,
+   "pace": "Midtempo",
    "fcc": "FCC “fucked” x1 (Verse 1); “shit” x1 (final Chorus)",
-   "notes": "Opener. Second single (Aug. 26). Vocals by Anna McClellan",
+   "notes": "Opens like a road song on chiming guitars, then builds slowly to urgent, stormy guitars and drums (Song Bar, Americana Highways, Fire Note). Anna McClellan on vocals. About the ancient Mississippian site and modern decline (Americana Highways).",
    "fcc_source": "https://genius.com/Greg-freeman-cahokia-lyrics"
   },
   {
    "num": 2,
    "title": "Totaled",
    "runtime": "4:43",
-   "bpm": null,
-   "pace": "",
+   "bpm": 125,
+   "pace": "Mid to uptempo",
    "fcc": "CLEAN",
-   "notes": "Vocals by Anna McClellan. Paste says it grieves a towed Toyota. Record Collector hears 90s alt-rock noise",
+   "notes": "Ragged 90s-style guitar noise with a pace-changing rhythm (Song Bar). Recalls early Nirvana (Americana Highways), the Replacements or early Modest Mouse (Fire Note). Anna McClellan on vocals. About a wrecked, towed Toyota (Paste).",
    "fcc_source": "https://genius.com/Greg-freeman-totaled-lyrics"
   },
   {
    "num": 3,
    "title": "Culture",
    "runtime": "5:24",
-   "bpm": null,
-   "pace": "",
+   "bpm": 102,
+   "pace": "Midtempo",
    "fcc": "CLEAN",
-   "notes": "Vocals by Trinity Ace. Paste calls it syncopated, a military march toward doom",
+   "notes": "Driving, abrasive guitars and a syncopated, chugging rhythm that crashes into brass and a wall of noise (Song Bar, Paste, Americana Highways). Clatters like Califone (PopMatters). Trinity Ace on vocals.",
    "fcc_source": "https://genius.com/Greg-freeman-culture-lyrics"
   },
   {
    "num": 4,
    "title": "Withdrawn",
    "runtime": "5:36",
-   "bpm": null,
-   "pace": "",
+   "bpm": 84,
+   "pace": "Slow to midtempo",
    "fcc": "CLEAN",
-   "notes": "Vocals by Anna McClellan and Trinity Ace. Saxophone: David Ralicke; trombone: Vikram Devasthali. Paste says it starts sparse and acoustic and ends as a horn-filled anthem",
+   "notes": "Starts quiet with strummed acoustic guitar and sparse percussion, then adds horns, violin and piano and ends as a horn anthem (Paste, Song Bar). Saxophone: David Ralicke; trombone: Vikram Devasthali. Anna McClellan and Trinity Ace on vocals.",
    "fcc_source": "https://genius.com/Greg-freeman-withdrawn-lyrics"
   },
   {
    "num": 5,
    "title": "Indu",
    "runtime": "4:21",
-   "bpm": null,
-   "pace": "",
+   "bpm": 105,
+   "pace": "Midtempo",
    "fcc": "CLEAN",
-   "notes": "Lead single (July 21). Vocals by Anna McClellan. Paste calls it a pop earworm; Record Collector hears psych-y slacker garage",
+   "notes": "Spacious, psychedelic pop with a pumping feel; lead vocal has something of Neil Young (Song Bar). Hooky, pop-leaning (Paste); slacker garage (Record Collector). Anna McClellan on vocals.",
    "fcc_source": "https://genius.com/Greg-freeman-indu-lyrics"
   },
   {
    "num": 6,
    "title": "Loser's Prize",
    "runtime": "4:42",
-   "bpm": null,
-   "pace": "",
+   "bpm": 167,
+   "pace": "Fast",
    "fcc": "CLEAN",
-   "notes": "Final single (Sept. 29). Vocals by Anna McClellan. Paste calls it uptempo yet melancholy",
+   "notes": "Stomping, twangy guitar and organ, with energetic guitar and piano solos (Northern Transmissions, Americana Highways). Upbeat but melancholy (Paste); Old 97's swagger (Fire Note). Anna McClellan on vocals.",
    "fcc_source": "https://genius.com/Greg-freeman-losers-prize-lyrics"
   },
   {
    "num": 7,
    "title": "Hail Mary",
    "runtime": "5:35",
-   "bpm": null,
-   "pace": "",
+   "bpm": 95,
+   "pace": "Midtempo",
    "fcc": "CLEAN",
-   "notes": "Vocals by Anna McClellan. Per Paste, the first two minutes are a slow instrumental before the riffs arrive. Record Collector calls it a highlight, Fugazi-style post-hardcore",
+   "notes": "About two minutes of slow, tentative guitar and violin before the band erupts into jagged math-rock guitar and post-hardcore distortion; frantic, squalling ending (Paste, Song Bar, Americana Highways). Tempo shifts. Fugazi-style (Record Collector). Anna McClellan on vocals.",
    "fcc_source": "https://genius.com/Greg-freeman-hail-mary-lyrics"
   },
   {
    "num": 8,
    "title": "Decade",
    "runtime": "3:55",
-   "bpm": null,
-   "pace": "",
+   "bpm": 113,
+   "pace": "Midtempo",
    "fcc": "CLEAN",
-   "notes": "Shortest track. Saxophone: David Ralicke; trombone: Vikram Devasthali. Paste hears Dexys Midnight Runners in the horn bridge",
+   "notes": "Horn-accented, groovy rollick with ragtime-style piano; horn bridge recalls Dexys Midnight Runners (Paste, PopMatters, Northern Transmissions). Saxophone: David Ralicke; trombone: Vikram Devasthali. Shortest track.",
    "fcc_source": "https://genius.com/Greg-freeman-decade-lyrics"
   },
   {
@@ -121,47 +119,47 @@
    "bpm": null,
    "pace": "",
    "fcc": "CLEAN",
-   "notes": "Longest track. Vocals by Trinity Ace. Paste says it opens as a minor-key dirge and builds to a full arrangement. Record Collector calls it pounding, Fugazi-style post-hardcore",
+   "notes": "Tempo sources unclear (one lists ~138 BPM, critics call it plodding). Opens as a quiet minor-key dirge and explodes around the four-minute mark into pounding drums and frantic guitars (Paste, Song Bar, PopMatters). Strings through it (Far Out); Fugazi-style (Record Collector). Longest track. Trinity Ace on vocals.",
    "fcc_source": "https://genius.com/Greg-freeman-marooned-lyrics"
   },
   {
    "num": 10,
    "title": "Untitled 10",
    "runtime": "5:10",
-   "bpm": null,
-   "pace": "",
+   "bpm": 114,
+   "pace": "Midtempo",
    "fcc": "CLEAN",
-   "notes": "Saxophone: David Ralicke; trombone: Vikram Devasthali. Per Paste, opens on fuzzed-up guitar and turns into a ballad in the second half. Record Collector calls it a brass-imbued psych wig-out",
+   "notes": "Opens on heavy, fuzzed-up, minor-key guitar and turns into a ballad in the second half, with organ, mournful violin solo by Scott Daniel and flashes of brass (Paste, Americana Highways, Northern Transmissions). Saxophone: David Ralicke; trombone: Vikram Devasthali.",
    "fcc_source": "https://genius.com/Greg-freeman-untitled-10-lyrics"
   },
   {
    "num": 11,
    "title": "Next To Nothing",
    "runtime": "4:18",
-   "bpm": null,
-   "pace": "",
+   "bpm": 95,
+   "pace": "Midtempo",
    "fcc": "FCC “shit” x1 (early in song; Genius posts no sections)",
-   "notes": "",
+   "notes": "Bluesy and catchy (Song Bar). Dense arrangement with the lead vocal sitting low against it (Northern Transmissions).",
    "fcc_source": "https://genius.com/Greg-freeman-next-to-nothing-lyrics"
   },
   {
    "num": 12,
    "title": "Costs",
    "runtime": "5:46",
-   "bpm": null,
-   "pace": "",
+   "bpm": 80,
+   "pace": "Slow to midtempo",
    "fcc": "CLEAN",
-   "notes": "Vocals by Anna McClellan and Trinity Ace",
+   "notes": "Bright pub-style piano over a steady groove; piano carries the outro (Northern Transmissions). Anna McClellan and Trinity Ace on vocals.",
    "fcc_source": "https://genius.com/Greg-freeman-costs-lyrics"
   },
   {
    "num": 13,
    "title": "Bury Me The Shovel",
    "runtime": "5:45",
-   "bpm": null,
-   "pace": "",
+   "bpm": 105,
+   "pace": "Midtempo",
    "fcc": "FCC “shit” x1 (early in song; Genius posts no sections)",
-   "notes": "Closer. Accordion: Mike Bolger. Vocals by Anna McClellan and Trinity Ace. Record Collector calls it a country-ish ballad",
+   "notes": "Country-ish ballad (Record Collector). Twangy acoustic guitars, accordion by Mike Bolger and violin, with Anna McClellan and Trinity Ace harmonizing (Paste, Northern Transmissions). Closer.",
    "fcc_source": "https://genius.com/Greg-freeman-bury-me-the-shovel-lyrics"
   }
  ],
@@ -175,6 +173,14 @@
   "https://stereogum.com/2509484/greg-freeman-cahokia/music",
   "https://www.thelineofbestfit.com/news/greg-freeman-unveils-new-single-losers-prize",
   "https://music.youtube.com/playlist?list=PLMduzOohHQLoYAPMl9uNRayfpe9uQ3NiA (To Review playlist, tracks 1 to 8 checked)",
+  "https://www.song-bar.com/album-releases/greg-freeman-all-set-the-bone-album-review",
+  "https://northerntransmissions.com/greg-freeman-all-set-the-bone/",
+  "https://www.popmatters.com/greg-freeman-all-set-the-bone",
+  "https://americanahighways.org/2026/09/30/review-greg-freeman-all-set-the-bone/",
+  "https://faroutmagazine.co.uk/greg-freeman-all-set-the-bone-album-review/",
+  "https://thefirenote.com/reviews/greg-freeman-all-set-the-bone-album-review/",
+  "https://en.wikipedia.org/wiki/John_Congleton",
+  "https://songbpm.com/@greg-freeman (BPM for tracks 1 to 8, 10 to 13)",
   "Lyrics screened on Genius (counts only), tracks 1 to 13. All 13 have lyrics posted. Tracks 11 and 13 have no section labels, so the word is located only as early in the song."
  ],
  "links": {

@@ -23,7 +23,7 @@ Research file fields (all optional except artist, album and tracks):
       "riyl_suggestions": ["Artist", "Artist"],
       "tracks": [{"num": 1, "title": "Song", "runtime": "3:21", "bpm": 112,
                   "pace": "Midtempo", "explicit": false,
-                  "notes": "Lead single.",            # objective tags only
+                  "notes": "Midtempo, fuzzy guitars, dry spoken vocal.",  # observational: tempo, sound, vocals, feel
                   "fcc": "CLEAN" | "FCC “shit” x2 (Verse 2)" | "UNVERIFIED: ..." | "SUSPECT: ...",
                   "fcc_source": "https://genius.com/..."}],
       "links": {"bandcamp": "...", "deezer": "..."},
@@ -121,8 +121,8 @@ def render(info: dict) -> str:
 
     out += ["", "Release Notes:", ""]
     notes = list(info.get("release_notes", []))
-    if info.get("release_date"):
-        notes.append(f"released {long_date(info['release_date'])}")
+    # No auto "released <date>" line: the Release Date field above already says it
+    # (Stace, Oct. 18, 2026: less release metadata, more about the music).
     out += notes or ["____"]
     if info.get("credits"):
         out += ["", "; ".join(info["credits"])]

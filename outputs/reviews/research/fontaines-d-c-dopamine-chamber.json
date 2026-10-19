@@ -4,12 +4,11 @@
  "label": "Xl Recordings",
  "release_date": "2026-10-16",
  "release_notes": [
-  "Fifth album from the Dublin band, after Romance (2024). Produced by James Ford, who also made Romance. Metacritic score 85 from 19 reviews.",
-  "Most of it was recorded at Decoy Studios in Suffolk, with additional sessions at Narcissus Studios in London (February 2025 to March 2026). Grian Chatten recorded his vocals separately with Ford in Palermo, Sicily. Marta Salogni engineered; Matt Colton mastered (Wikipedia).",
-  "Grian Chatten - vocals, guitar; Carlos O'Connell - guitar, synths; Conor Curley - guitar; Conor Deegan - bass; Tom Coll - drums.",
-  "Rosalía guests on Where Is Gone?, the band's first guest vocalist on a record. Strings arranged by Chatten, Richard Jones, Laura Moody and Elysian Collective.",
-  "Singles: Marianne (Aug. 18), Tongue (Sept. 30) and Where Is Gone? (Oct. 12). 11 tracks, about 44 minutes. Released Oct. 16, 2026.",
-  "Reviews (Guardian, NME, Pitchfork, AllMusic) hear synths, strings and electronics over guitars, with comparisons to The Cure, Depeche Mode, New Order and Massive Attack."
+  "Fifth album from the Dublin band, after Romance (2024). Produced by James Ford, who took over from Dan Carey (producer of the first three albums) on Romance.",
+  "Ford is also a member of Simian Mobile Disco and The Last Shadow Puppets, and has produced Arctic Monkeys and Depeche Mode (Memento Mori). Marta Salogni engineered; she also recorded and mixed Memento Mori and has worked with Björk and Bon Iver. Matt Colton mastered.",
+  "Recorded mostly at Decoy Studios in Suffolk, plus Narcissus Studios in London. Grian Chatten cut his vocals separately with Ford in Palermo, Sicily.",
+  "Grian Chatten - vocals, guitar; Carlos O'Connell - guitar, synths; Conor Curley - guitar; Conor Deegan - bass; Tom Coll - drums. Rosalía guests on Where Is Gone?, the band's first guest vocalist. Strings arranged by Chatten, Richard Jones, Laura Moody and Elysian Collective.",
+  "About the doomscroll and phone-as-painkiller culture, technological dependence and collapse. Chatten says he left the hope out on purpose (Rolling Stone Philippines)."
  ],
  "pull_quotes": [
   {
@@ -28,7 +27,7 @@
    "url": "https://pitchfork.com/reviews/albums/fontaines-dc-dopamine-chamber/"
   }
  ],
- "draft_comment": "Dublin post-punk gone synth-heavy, string-laced and stadium-sized, again with James Ford and a Rosalía duet. Critics hear Depeche Mode, The Cure and New Order. Tongue and Japan are FCC.",
+ "draft_comment": "Dublin post-punk gone synth-heavy and string-laced, again with James Ford and a Rosalía duet. Critics hear Depeche Mode, The Cure and New Order. Tongue and Japan are FCC.",
  "riyl_suggestions": [
   "The Cure",
   "Depeche Mode",
@@ -41,50 +40,50 @@
    "num": 1,
    "title": "Six Shot Morning",
    "runtime": "4:56",
-   "bpm": null,
-   "pace": "",
+   "bpm": 131,
+   "pace": "Uptempo",
    "fcc": "CLEAN",
-   "notes": "Opener. Teased Aug. 15; live debut in Cádiz in August. Mechanical Depeche Mode death march (NME); chugging bassline and searching synths (AllMusic).",
+   "notes": "Synth intro, then a heavy bassline and a cool, commanding male lead vocal (Rolling Stone Philippines). Mechanical Depeche Mode death march (NME); gated, grainy drums (The Soundboard).",
    "fcc_source": "https://genius.com/Fontaines-dc-six-shot-morning-lyrics"
   },
   {
    "num": 2,
    "title": "Marianne",
    "runtime": "3:45",
-   "bpm": null,
-   "pace": "",
+   "bpm": 82,
+   "pace": "Slow to midtempo",
    "fcc": "CLEAN",
-   "notes": "Lead single (Aug. 18), with a Dave Meyers video. Live debut in Cádiz in August. Strings arranged by Chatten, Richard Jones, Laura Moody and Elysian Collective. Cyborg-meets-symphony balladry (NME); spiralling strings (Guardian).",
+   "notes": "Ballad with gauzy synths and spiralling strings (The Soundboard, Guardian). Cyborg-meets-symphony balladry (NME); Moroder-style electronic tone with a Duran Duran feel (Beats Per Minute).",
    "fcc_source": "https://genius.com/Fontaines-dc-marianne-lyrics"
   },
   {
    "num": 3,
    "title": "Mimesis",
    "runtime": "3:51",
-   "bpm": null,
-   "pace": "",
+   "bpm": 128,
+   "pace": "Mid to uptempo",
    "fcc": "CLEAN",
-   "notes": "Synth-pop noir (NME); a New Order-style bassline (Guardian).",
+   "notes": "Dominant bass, sharp snare hits and cold synths (Beats Per Minute). New Order-style bassline (Guardian); 80s dance-pop feel (Rolling Stone Philippines).",
    "fcc_source": "https://genius.com/Fontaines-dc-mimesis-lyrics"
   },
   {
    "num": 4,
    "title": "Happy For You",
    "runtime": "3:48",
-   "bpm": null,
-   "pace": "",
+   "bpm": 130,
+   "pace": "Uptempo",
    "fcc": "CLEAN",
-   "notes": "Debuted live at Leeds Festival, Aug. 29. A Cure-like guitar twang (Guardian); a massive guitar drop (AllMusic).",
+   "notes": "Flanged, Cure-like guitar twang (Guardian, Rolling Stone Philippines), building to a massive guitar drop (AllMusic, The Soundboard). Bitter, sarcastic song about a breakup (Beats Per Minute).",
    "fcc_source": "https://genius.com/Fontaines-dc-happy-for-you-lyrics"
   },
   {
    "num": 5,
    "title": "Demolition",
    "runtime": "3:19",
-   "bpm": null,
-   "pace": "",
+   "bpm": 176,
+   "pace": "Fast",
    "fcc": "CLEAN",
-   "notes": "Album highlight, with fuzzy electronica (NME); a grunge attack (Guardian).",
+   "notes": "Sweeping open guitars and crunching synths into a big chorus (The Soundboard). Drum machine pulse (Rolling Stone Philippines); grunge attack (Guardian); Smiths-like guitar lead (Beats Per Minute).",
    "fcc_source": "https://genius.com/Fontaines-dc-demolition-lyrics"
   },
   {
@@ -94,7 +93,7 @@
    "bpm": null,
    "pace": "",
    "fcc": "FCC “shit” x10 (Refrain)",
-   "notes": "Second single (Sept. 30), with a New York-shot video directed by PHC (John Angus Stewart). In FCC Edit Needed. Trip-hop gloom (NME); the oddest track on the album (AllMusic).",
+   "notes": "Tempo check: songbpm says ~165 BPM, but critics hear trip-hop beats, so it may be half-time. Slinky bassline and piano (Rolling Stone Philippines); hollowed, heavy mix with a piano interlude (The Soundboard) and a jazzy bridge (Beats Per Minute). Trip-hop gloom (NME). Listed in FCC Edit Needed.",
    "fcc_source": "https://genius.com/Fontaines-dc-tongue-lyrics"
   },
   {
@@ -104,47 +103,47 @@
    "bpm": null,
    "pace": "",
    "fcc": "CLEAN",
-   "notes": "Second-longest track. Breathy and elegiac (NME); starts the album's run of tender songs (AllMusic).",
+   "notes": "Tempo check: songbpm says ~132 BPM, but critics call it a ballad, so it may be half-time. Epic, string-drenched romantic ballad that builds to a big finish (Beats Per Minute). Breathy and elegiac (NME).",
    "fcc_source": "https://genius.com/Fontaines-dc-one-man-lyrics"
   },
   {
    "num": 8,
    "title": "Where Is Gone? (with ROSALÍA)",
    "runtime": "5:16",
-   "bpm": null,
-   "pace": "",
+   "bpm": 80,
+   "pace": "Slow to midtempo",
    "fcc": "CLEAN",
-   "notes": "Features Rosalía, the band's first guest vocalist. Third single (Oct. 12). Longest track. A Morricone-style ballad and would-be Bond theme (NME, Guardian). No FCC words in the English lyrics posted; Spanish checked for common swear words.",
+   "notes": "Features Rosalía: male and female vocals together on an orchestral duet. Restrained strings, alt-country feel (The Soundboard); Morricone-style ballad (NME, Guardian). No FCC words in the English lyrics posted; Spanish checked for common swear words.",
    "fcc_source": "https://genius.com/Fontaines-dc-and-rosalia-where-is-gone-lyrics"
   },
   {
    "num": 9,
    "title": "You Miss Me",
    "runtime": "3:35",
-   "bpm": null,
-   "pace": "",
+   "bpm": 101,
+   "pace": "Midtempo",
    "fcc": "CLEAN",
-   "notes": "Robert Smith-style verse (NME).",
+   "notes": "Smoky guitar hook (Rolling Stone Philippines). Edgy synth strings and sharp beats in the verses, string-led crooner chorus (Beats Per Minute); Robert Smith-style verse (NME).",
    "fcc_source": "https://genius.com/Fontaines-dc-you-miss-me-lyrics"
   },
   {
    "num": 10,
    "title": "Japan",
    "runtime": "3:14",
-   "bpm": null,
-   "pace": "",
+   "bpm": 148,
+   "pace": "Uptempo",
    "fcc": "FCC “fuck” x3, “shit” x3 (Chorus)",
-   "notes": "Bittersweet acoustic singalong (NME). Bandcamp lists 3:14; Wikipedia lists 3:15.",
+   "notes": "Bittersweet acoustic singalong (NME). Dream-pop feel, Beach House meets a-ha (Beats Per Minute).",
    "fcc_source": "https://genius.com/Fontaines-dc-japan-lyrics"
   },
   {
    "num": 11,
    "title": "Intimate",
    "runtime": "3:57",
-   "bpm": null,
-   "pace": "",
+   "bpm": 133,
+   "pace": "Uptempo",
    "fcc": "CLEAN",
-   "notes": "Closer. Skittering sci-fi hymn (NME).",
+   "notes": "Skittering sci-fi hymn (NME). Hi-hat-driven headbanger of a closer (Rolling Stone Philippines).",
    "fcc_source": "https://genius.com/Fontaines-dc-intimate-lyrics"
   }
  ],
@@ -159,6 +158,14 @@
   "https://www.undertheradarmag.com/news/fontaines_d.c_release_video_for_new_single_where_is_gone_feat_rosalia/",
   "https://consequence.net/2026/10/fontaines-dc-rosalia-where-is-gone-new-song-stream/",
   "https://lbbonline.com/news/fontaines-d-c-tongue-music-video",
+  "https://louderthanwar.com/fontaines-dc-dopamine-chamber-5-star-album-review/",
+  "https://beatsperminute.com/album-review-fontaines-d-c-dopamine-chamber/",
+  "https://thesoundboardreviews.com/2026/10/18/album-review-fontaines-dc-dopamine-chamber/",
+  "https://rollingstonephilippines.com/music/music-reviews/fontaines-dc-dopamine-chamber-album-review/",
+  "https://en.wikipedia.org/wiki/James_Ford_(musician)",
+  "https://en.wikipedia.org/wiki/Marta_Salogni",
+  "https://www.brooklynvegan.com/fontaines-d-c-announce-new-album-romance-watch-starburster-video/",
+  "https://songbpm.com/ (tempo per track, searched Oct. 18, 2026)",
   "Lyrics screened on Genius (counts only): all 11 tracks. FCC words on tracks 6 and 10."
  ],
  "links": {

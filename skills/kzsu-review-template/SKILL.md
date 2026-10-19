@@ -1,7 +1,7 @@
 ---
 name: kzsu-review-template
 description: >-
-  Makes KZSU library review templates in Markdown for DJ Stace ("The Library," KZSU 90.1 FM). Works for any album she names, and for every album she ticks in the "Make review templates" checklist of her weekly staged_priority list. Templates follow the layout, tone and style of her past KZSU reviews and pre-fill label, release date, release notes and credits, a one-line draft take in her voice, short pull quotes from authoritative outlets, RIYL, the FCC track numbers, and a tracklist with runtimes. Each track gets only very basic objective notes: pace from BPM data, plus FCC flags or suspicions from the kzsu-fcc-lyrics-check skill. Saves templates to her KZSU Drive folder and marks the checklist item done. Use this whenever Stace asks for a review template, boilerplate, review draft or "review prep" for an album, or on the scheduled check for ticked boxes, even if she doesn't name the skill. Not for ranking staged albums (kzsu-staged-albums-weekly) or for her final opinions and star ratings.
+  Makes KZSU library review templates in Markdown for DJ Stace ("The Library," KZSU 90.1 FM). Works for any album she names, and for every album she ticks in the "Make review templates" checklist of her weekly staged_priority list. Templates follow the layout, tone and style of her past KZSU reviews and pre-fill label, release date, release notes and credits, a one-line draft take in her voice, short pull quotes from authoritative outlets, RIYL, the FCC track numbers, and a tracklist with runtimes. Each track gets the FCC flag first, then tempo, then short observational notes (sound, feel, vocals, intro or outro). Saves templates to her KZSU Drive folder and marks the checklist item done. Use this whenever Stace asks for a review template, boilerplate, review draft or "review prep" for an album, or on the scheduled check for ticked boxes, even if she doesn't name the skill. Not for ranking staged albums (kzsu-staged-albums-weekly) or for her final opinions and star ratings.
 ---
 
 # KZSU review template
@@ -95,17 +95,17 @@ python3 -c "import sqlite3;c=sqlite3.connect('file:data/library_show.db?mode=ro'
 
 Add these fields to the research JSON:
 
-- **`release_notes`.** Three to six short paraphrased facts:
+- **`release_notes`.** Three to five short paraphrased facts (no release dates, formats, singles or chart info):
   - hometown and lineup, with instruments
   - producer, studio and mastering
   - notable guests
-  - where this record sits in the band's catalog
+  - production connections (who else the producer or engineer has worked with) and lineage (members' other bands, the band's earlier records, label family)
 
   Sources: Bandcamp, the label, press. Don't paste bios.
 - **`pull_quotes`.** One to three quotes, each under 15 words, from authoritative outlets listed in the style guide, each with its `source` and `url`. Quote exactly. No quote from a real review is better than a weak one.
 - **`draft_comment`.** One or two sentences in her voice: stacked genre adjectives, a comparison, dry and never hype. The render marks it `[DRAFT, edit or replace]`. Base it only on research facts. You haven't heard the record, so don't describe songs.
 - **`riyl_suggestions`.** Three to five artists, following the style guide.
-- **Track `notes`.** Objective tags only: "Lead single." "Instrumental." "Features Kim Deal." Nothing about how it sounds. Pace comes from BPM.
+- **Track `notes`.** Observational, so a DJ can play the track without having heard it: sound and feel, lead instruments, vocal style, intro and outro, "sounds like", plus "Instrumental", "Features <guest>", covers with original artist and writer. Source every description (critics, band, audio) and attribute outside ones in parentheses. No single dates, video credits, formats or chart talk. Tempo from BPM (look it up on songbpm.com or tunebat). Details in `references/style_guide.md`.
 
 ### 4. Render
 

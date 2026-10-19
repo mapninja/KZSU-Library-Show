@@ -63,13 +63,27 @@ When drafting for her:
 
 ## Release notes
 
-- These are the facts she pastes from Bandcamp or the label: hometown, lineup with instruments, producer, studio, mastering, guests, release date.
-- Paraphrase in short plain sentences. Don't copy the label's bio.
-- Keep it to about five lines. Personnel lists are fine as one line: `Name - guitar, vocals; Name - drums`.
+- Purpose (Stace, Oct. 18, 2026): a DJ should be able to play a track from the album without ever having heard it. Keep what helps a DJ and a listener place the record.
+- **Keep:** lineup with instruments, producer, studio, mastering, guests, production connections (who else the producer or engineer has worked with), lineage (members' other bands, side projects, the band's earlier records, label family), and what the record is about when the band says so.
+- **Drop:** release metadata. No single release dates, video dates or directors, CD versus vinyl versus digital formats, catalog numbers, chart positions, review scores or "out on <date>" lines. The Release Date field already carries the date. Mention pre-release status once in the draft comment only if the album is not out yet.
+- Paraphrase in short plain sentences. Don't copy the label's bio. About four or five lines. Personnel as one line: `Name - guitar, vocals; Name - drums`.
 
-## Track notes: VERY basic and objective
+## Track notes: FCC first, then what it sounds like
 
-Stace asked for pace plus FCC, nothing more. Pace wording comes from her own most-used terms:
+The notes exist so a DJ can pick and cue a track cold. Order inside each track comment:
+
+1. **FCC flag first.** Exact word, count, section. This is the most important part.
+2. **Tempo.** Pace word plus BPM when known (table below).
+3. **Observational description.** Sound and feel: lead instruments, rhythm, mood, vocal style (male, female, shared, spoken, screamed, whispered), intro or outro (cold start, long fade, slow build), dynamics, sounds like <artist or era>. Short fragments, plain words.
+4. **Radio-useful facts.** Instrumental, features <guest>, cover of <song> by <artist> (writer, year), spoken-word or sample, long intro, abrupt ending, runtime oddities.
+
+Rules:
+
+- Sources for descriptions: critics' track-by-track descriptions, the band's own descriptions and the audio itself when it can be heard. Attribute outside descriptions in parentheses, for example "(Paste)". Never invent a sound. If nothing credible is found, write only FCC and tempo.
+- **No single or release metadata in track comments.** Cut "Lead single", "Second single (Sept. 30)", "video by...", "debuted live at...", chart and review-score talk. Say "Lead single" only if it helps the DJ choose (it does not unless Stace asks).
+- Keep each comment to one or two short sentences after the FCC and tempo.
+
+Pace wording comes from her own most-used terms:
 
 | BPM (from Deezer, songbpm or tunebat) | Write |
 |---|---|
@@ -82,24 +96,19 @@ Stace asked for pace plus FCC, nothing more. Pace wording comes from her own mos
 
 - Add the BPM in parentheses: `Midtempo (~108 BPM).`
 - BPM data can be off by double or half. If the result contradicts an objective fact, such as a ballad listed at 150 BPM, write `Pace: check (source says ~150 BPM).`
-- No BPM anywhere: print nothing. Never add `Pace: ____.`
-- **Allowed extras.** Only objective facts:
-  - "Instrumental."
-  - "Lead single."
-  - "Features <guest>."
-  - "Only track with <X> on vocals," when the credits say so.
-  - Runtime oddities: "Under a minute." "Over 7 minutes."
-- **FCC goes FIRST in the track comment**, before pace and any other note (Stace, Oct. 8, 2026). Use her style:
+- No BPM anywhere (common for unreleased albums): print nothing for tempo and describe the feel in words if a source supports it. Never add `Pace: ____.`
+- FCC styles:
   - `FCC "shit" x2 (Verse 2).`
   - `Caution "bitch" x1 (Chorus).`
   - `FCC suspect: marked explicit, no lyrics posted.`
   - `FCC unverified: no lyrics posted.`
-- No `[notes]` or `Pace: ____` placeholders. Each track line holds only: number, title, runtime, FCC flag if any, and sourced notes.
+- No `[notes]` or `Pace: ____` placeholders. Each track line holds: number, title, runtime, FCC flag if any, tempo, short observational notes.
 
-Example drafted line:
+Example drafted lines:
 
 ```
-4. Hit the Ground Running 03:55 - FCC "fucker" x1 (Chorus). Mid to uptempo (~126 BPM).
+4. Hit the Ground Running 03:55 - FCC "fucker" x1 (Chorus). Mid to uptempo (~126 BPM). Driving bass, shouted gang vocals, cold start.
+7. Lake Winnebago 03:52 - Slow (~68 BPM). Acoustic guitar and baritone voice, sparse, long fade. Cover of a song by <artist> (<writer>, <year>).
 ```
 
 ## RIYL
@@ -114,6 +123,6 @@ Example drafted line:
 - Wry, punchy openers: "There's something wrong with Robert Pollard. This is his 4 millionth release. This year." Callbacks to her own past lines are welcome.
 - Plain enthusiasm is fine ("Killer song. Play this.", "catchy as hell"), as are pop-culture comparisons and one specific image ("Put the top down and crank it down the 1.").
 - Stack genre adjectives, name the band it sounds like, mention practical radio notes ("Too bad it's FCC").
-- Drafts stay short (one to three sentences) and never describe songs as if heard.
-- Track notes may include objective facts found in press: single and video dates, guests, covers, what a song is about, and short attributed reviewer descriptions in parentheses, e.g. "(Paste)".
+- Drafts stay short (one to three sentences). The general comment can name a sound or comparison that critics make; do not claim to have heard the record.
+- Track notes follow the "Track notes" section above: FCC, tempo, observational sound and feel. No single or release-date metadata (Stace, Oct. 18, 2026).
 - End with a plain `Sources:` list; she keeps it.

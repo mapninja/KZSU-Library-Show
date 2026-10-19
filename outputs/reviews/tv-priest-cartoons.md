@@ -8,7 +8,7 @@ Reviewer: DJ Stace
 
 General Comments / Reviews:
 
-Post-punk widened out with piano, fiddle and field recordings from London's TV Priest, out Nov. 6. The press compares it to R.E.M., Radiohead, The National and Foals, and the three singles with posted lyrics screen clean. - DJ Stace  [DRAFT, edit or replace]
+Post-punk with the doors thrown open: strings, fiddle, breakbeats and birdsong. Out Nov. 6, so most of the FCC screen is still open. - DJ Stace  [DRAFT, edit or replace]
 
 “containing some of TV Priest’s most potent melodies to date” - Clash
 
@@ -16,13 +16,11 @@ Post-punk widened out with piano, fiddle and field recordings from London's TV P
 
 Release Notes:
 
-Third album from London band TV Priest, out Nov. 6 (not yet released). It follows Uppers (Feb. 2021) and My Other People (June 2022), both on Sub Pop. It is their first full-length in four years and their first on AMK / Kartel Music Group.
-Written over two years by vocalist Charlie Drinkwater and guitarist Alex Sprogis, then opened up to a wider group of collaborators. The press release lists piano, fiddle, manipulated birdsong recordings, programmed drums and a dance-influenced low end alongside the guitars.
-Wikipedia lists Drinkwater and Sprogis as the current members, with Nic Bueth (bass, keyboards) and Ed Kelland (drums) as past members. Album producer, studio and mastering credits are not published yet. Genius credits Love Song (A Good Kind of Weapon) to producers Alex Sprogis, Murray Matravers and Simon Tyrie.
-The press release compares the record to R.E.M., Radiohead, The National and Foals. Drinkwater calls it a record about confusion, surveillance and late capitalism.
-Singles: The Mud Never Dries (June 19), Love Song (A Good Kind of Weapon) (July 10, with the album announcement), Just So You Know (Sept. 7) and the title track Cartoons (Oct. 9). The Bandcamp pre-order streams these four now.
-Lyrics are posted for 3 of the 4 singles (tracks 1, 4 and 6), and all three screen clean. The title track and the six unreleased songs are not screened. Runtimes are published for four tracks only.
-released November 6, 2026
+Lineup now: Charlie Drinkwater - vocals; Alex Sprogis - guitar, with a wider circle of collaborators on piano, fiddle, manipulated birdsong, programmed drums and a dance-influenced low end. Bassist/keyboardist Nic Bueth and drummer Ed Kelland, on the first two albums, are listed as past members (Wikipedia).
+Producer, studio and mastering are not published. Genius credits Love Song (A Good Kind of Weapon) to Sprogis, Murray Matravers and Simon Tyrie. Matravers fronts the band Easy Life and is credited as a producer and engineer (AllMusic); no other credits found for Tyrie.
+Lineage: London, formed 2019 by four friends who made music together as teenagers (Sub Pop). Uppers and My Other People were both on Sub Pop, produced by Bueth at Studio East, London. No earlier bands for the members found.
+Drinkwater calls the record one about confusion, surveillance and late capitalism. Press sets it beside R.E.M., Radiohead, The National and Foals.
+Sound across the singles: breakbeat drums, spoken word and data samples on The Mud Never Dries; strings, synths and a more sung vocal on Love Song (A Good Kind of Weapon); cantering guitar riffs on Cartoons (press coverage).
 
 FCCs: None found  (check by ear: 2,3,5,7,8,9,10)
 
@@ -31,16 +29,16 @@ RIYL: Fontaines D.C., Yard Act, IDLES, Protomartyr, Foals
 Play: All, Favs Rated with up to *****
 
 Tracklist:
-1. Just So You Know 03:41 - Opener. Single and video (Sept. 7). Clash calls it an all-out blaster.
-2. Cartoons 03:20 - FCC unverified: no lyrics posted. Title track. Single and video (Oct. 9). Per the press release, about digital overload and dystopia. No lyrics on Genius or LRCLIB as of Oct. 18.
-3. Ultraviolet Blue __:__ - FCC unverified: no lyrics posted. Unreleased. Runtime not published.
-4. The Mud Never Dries 03:17 - First single (June 19). Video directed by Charles Gall. Clash hears a breakbeat opening that surges into bleak post-punk.
-5. A Song From The Riverbed __:__ - FCC unverified: no lyrics posted. Unreleased. Runtime not published.
-6. Love Song (A Good Kind of Weapon) 03:52 - Single (July 10), announced with the album and billed as its lead single. Written by Alex Sprogis and Charlie Drinkwater; producers per Genius: Sprogis, Murray Matravers and Simon Tyrie. Rockshot cites strings, synths and understated electronics. Screened on LRCLIB plain text, which has no section labels.
-7. Into Shape __:__ - FCC unverified: no lyrics posted. Unreleased. Runtime not published.
-8. Daily Recommendations __:__ - FCC unverified: no lyrics posted. Unreleased. Runtime not published.
-9. I Am __:__ - FCC unverified: no lyrics posted. Unreleased. Runtime not published.
-10. Epping __:__ - FCC unverified: no lyrics posted. Closer. Unreleased. Runtime not published.
+1. Just So You Know 03:41 - Opens on solemn strings, then turns into a groove-heavy, muscular indie rocker (press coverage). All-out blaster (Clash). Breakup song in which the other party is technology (Drinkwater).
+2. Cartoons 03:20 - FCC unverified: no lyrics posted. Cantering, fleet-footed guitar riffs (press coverage). Drinkwater calls it a summary of the album, a simpler shape built on hooks.
+3. Ultraviolet Blue __:__ - FCC unverified: no lyrics posted.
+4. The Mud Never Dries 03:17 - Cold start on a breakbeat blast of programmed drums, then a restless, propulsive bassline and fractured post-punk (Clash, Rockshot). Spoken word over rising electronic noise near the end. Band: drum and bass, post-punk, data samples, spoken word. Their most abrasive song (Drinkwater).
+5. A Song From The Riverbed __:__ - FCC unverified: no lyrics posted.
+6. Love Song (A Good Kind of Weapon) 03:52 - Slow-burning and brooding: strings, shimmering synths and understated electronics under a melodic sung vocal (Rockshot, press coverage). Compared to Radiohead and The National (press coverage). Co-produced by Sprogis, Matravers and Tyrie.
+7. Into Shape __:__ - FCC unverified: no lyrics posted.
+8. Daily Recommendations __:__ - FCC unverified: no lyrics posted.
+9. I Am __:__ - FCC unverified: no lyrics posted.
+10. Epping __:__ - FCC unverified: no lyrics posted.
 
 Sources:
 - https://tvpriest.bandcamp.com/album/cartoons
@@ -62,6 +60,14 @@ Sources:
 - https://genius.com/Tv-priest-love-song-a-good-kind-of-weapon-lyrics (credits only; lyrics not posted there)
 - Note: Clash's announcement text says Oct. 6 once, but its headline and every other source say Nov. 6. Bandcamp calls The Mud Never Dries the lead single; the announcement press calls Love Song (A Good Kind of Weapon) the lead single.
 - Lyrics screened (counts only): tracks 1 and 4 on Genius; track 6 on LRCLIB (Genius has no lyrics yet). Track 2 has no lyrics on Genius or LRCLIB. Tracks 3, 5 and 7 to 10 are unreleased.
+- https://rockshotmagazine.com/tv-priest-return-with-ferocious-new-single-the-mud-never-dries/
+- https://www.soundspheremag.com/news/leeds/tv-priest-share-new-single-just-so-you-know-and-announce-uk-tour-dates/
+- https://readdork.com/news/tv-priest-just-so-you-know
+- https://www.indieisnotagenre.com/tv-priest-return-after-four-years-with-abrasive-new-single-the-mud-never-dries/
+- https://www.subpop.com/artists/tv_priest
+- https://en.wikipedia.org/wiki/My_Other_People
+- https://www.allmusic.com/artist/murray-matravers-mn0003753671
+- https://www.qobuz.com/fr-fr/album/the-mud-never-dries-tv-priest/lx7rbgrkwa8dt (producer credits)
 - Quote, Clash: https://www.clashmusic.com/news/tv-priest-announce-new-album-cartoons
 - Quote, Clash: https://www.clashmusic.com/news/tv-priest-share-new-single-just-so-you-know-alongside-uk-headline-dates
 - Track 1 lyrics checked: https://genius.com/Tv-priest-just-so-you-know-lyrics

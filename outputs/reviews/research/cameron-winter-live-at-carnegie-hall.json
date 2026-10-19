@@ -4,12 +4,10 @@
  "label": "Partisan Records",
  "release_date": "2026-10-09",
  "release_notes": [
-  "First live album from Cameron Winter, the Geese frontman, recorded Dec. 11, 2025 in the Stern Auditorium at Carnegie Hall in New York. Solo set: Winter on vocals and a Steinway grand piano (Wikipedia, Paste).",
-  "12 tracks, about 67 minutes, on 2xLP, CD and digital (Bandcamp). Announced Aug. 19, 2026. Produced and mixed by Ariel Rechtshaid, mixed at Heavy Duty Studios in Burbank; mastered by Heba Kadry (liner notes via Wikipedia).",
-  "Studio vs. live: seven songs come from his 2024 debut Heavy Metal (tracks 2, 4, 5, 6, 7, 9, 10) and two from the Oct. 22, 2024 Singles EP (tracks 11, 12). Three are new and previously unreleased (tracks 1, 3, 8). Heavy Metal songs not played: Nausicaä (Love Will Be Revealed), We’re Thinking the Same Thing, Can’t Keep Anything.",
-  "Every returning song runs longer live than on record, by 45 seconds to over two minutes. Paste notes the French horn on the studio Drinking Age is replaced by piano, and that Cancer of the Skull and $0 are extended.",
-  "The concert was also filmed by Paul Thomas Anderson (with Benny Safdie as camera operator) on 35mm. Cameron Winter at Carnegie Hall premiered at the New York Film Festival on Oct. 1, 2026, with a U.S. release Nov. 20.",
-  "Lyrics are posted on Genius for every track, on both the Live at Carnegie Hall page and the plain song page. Screened both; FCC words match on each except track 3 (see track note)."
+  "Solo set: Cameron Winter - vocals, Steinway grand piano. First live album, recorded in the Stern Auditorium at Carnegie Hall, New York, December 2025 (Wikipedia, Paste).",
+  "Produced and mixed by Ariel Rechtshaid (mixed at Heavy Duty Studios in Burbank), mastered by Heba Kadry (Wikipedia liner notes). Rechtshaid is better known for work with Vampire Weekend, Haim and Adele (Wikipedia).",
+  "Lineage: Winter fronts the band Geese. His studio debut Heavy Metal (2024) was produced by Winter with Loren Humphrey, with James Richardson (Real Estate, MGMT's live band) on guitar, trumpet and French horn (Wikipedia).",
+  "Set list: seven songs from Heavy Metal (tracks 2, 4, 5, 6, 7, 9, 10), two from his 2024 Singles EP (tracks 11, 12) and three new, unreleased songs (tracks 1, 3, 8). Every returning song runs longer live, and the studio horn and band parts become piano (Paste)."
  ],
  "pull_quotes": [
   {
@@ -23,7 +21,7 @@
    "url": "https://www.thelineofbestfit.com/albums/on-live-at-carnegie-hall-we-benefit-from-an-extra-concentrated-dose-of-cameron-winter"
   }
  ],
- "draft_comment": "Voice and piano only, the Geese frontman alone at Carnegie Hall with seven Heavy Metal songs and three new ones. Paste and The Line of Best Fit both rate it highly, but five tracks are FCC.",
+ "draft_comment": "Voice and piano only, the Geese frontman alone at Carnegie Hall with seven Heavy Metal songs, two from the Singles EP and three new ones, most stretched longer than the studio versions. Five tracks are FCC, so plan around them.",
  "riyl_suggestions": [
   "Geese",
   "Tom Waits",
@@ -36,10 +34,10 @@
    "num": 1,
    "title": "It All Fell in the River",
    "runtime": "4:30",
-   "bpm": null,
-   "pace": "",
+   "bpm": 99,
+   "pace": "Midtempo",
    "fcc": "CLEAN",
-   "notes": "New, unreleased song (not on Heavy Metal). Opens the concert (Paste).",
+   "notes": "New, unreleased song (not on Heavy Metal). Piano and voice, fairly uncomplicated arrangement; tempo drifts, quickening in verse 2, then he hits the keys harder (Our Culture). Set opener, starts after about 30 seconds of crowd cheering (Daily Campus). About surrendering to your emotions (Paste).",
    "fcc_source": "https://genius.com/Cameron-winter-it-all-fell-in-the-river-live-at-carnegie-hall-lyrics"
   },
   {
@@ -49,7 +47,7 @@
    "bpm": null,
    "pace": "",
    "fcc": "FCC “shitless” x1 (Verse 2); caution “bitching” x1 (Verse 7)",
-   "notes": "From Heavy Metal (studio 4:47).",
+   "notes": "From Heavy Metal (live 5:35, studio 4:47). Piano and voice, long pauses between words and a recurring falsetto, ends on a melancholy note (Paste, Our Culture). Rubato piano: tempo listings ~116 live, ~120 studio BPM, check by ear.",
    "fcc_source": "https://genius.com/Cameron-winter-try-as-i-may-live-at-carnegie-hall-lyrics"
   },
   {
@@ -59,7 +57,7 @@
    "bpm": null,
    "pace": "",
    "fcc": "FCC “fucking” x1 (Verse 1.5 on the plain Genius page; the Live at Carnegie Hall page lacks it, so confirm by ear)",
-   "notes": "New, unreleased song (not on Heavy Metal). Paste calls it an extension of his religious allusions.",
+   "notes": "New, unreleased song (not on Heavy Metal). Slow, brooding build with a reverent, church-like mood, sweeping melody and a big outro, then a short piano jaunt at the end (Daily Campus, Our Culture, Paste). Live listing says ~117 BPM but critics describe it as slow, so check by ear.",
    "fcc_source": "https://genius.com/Cameron-winter-emperor-xiii-in-shades-lyrics"
   },
   {
@@ -69,17 +67,17 @@
    "bpm": null,
    "pace": "",
    "fcc": "CAUTION “goddamn” x1 (Verse 3)",
-   "notes": "From Heavy Metal (studio 3:18, album opener). Paste says the guitar intro becomes a piano melody.",
+   "notes": "From Heavy Metal (live 4:25, studio 3:18, album opener). The studio guitar intro becomes a piano melody in the vein of Carole King or Joni Mitchell (Paste). Midway piano solo with a rushing arpeggio and a long held trill; vocal goes from loud to tender falsetto at the end (Daily Campus, Our Culture). Tempo listings disagree (live ~95, studio ~72 BPM).",
    "fcc_source": "https://genius.com/Cameron-winter-the-rolling-stones-live-at-carnegie-hall-lyrics"
   },
   {
    "num": 5,
    "title": "Love Takes Miles",
    "runtime": "4:13",
-   "bpm": null,
-   "pace": "",
+   "bpm": 136,
+   "pace": "Uptempo",
    "fcc": "CLEAN",
-   "notes": "From Heavy Metal (studio 3:18). Paste hears a more urgent new arrangement.",
+   "notes": "From Heavy Metal (live 4:13, studio 3:18, studio ~130 BPM). His poppiest, most accessible song, here a more urgent, restless, breathless piano arrangement (Paste, Our Culture).",
    "fcc_source": "https://genius.com/Cameron-winter-love-takes-miles-live-at-carnegie-hall-lyrics"
   },
   {
@@ -89,7 +87,7 @@
    "bpm": null,
    "pace": "",
    "fcc": "FCC “shit” x1 (Genius posts no section labels)",
-   "notes": "From Heavy Metal (studio 3:30). Piano replaces the studio French horn (Paste).",
+   "notes": "From Heavy Metal (live 5:10, studio 3:30). Piano replaces the studio French horn (Paste). Sparse, staggered piano with soft-loud cycles and long silences, a downtrodden near-groan vocal, falsetto runs at the end and laughter from the crowd (Daily Campus, Paste). Live listing ~81 BPM, studio ~134 (possibly double-time).",
    "fcc_source": "https://genius.com/Cameron-winter-drinking-age-live-at-carnegie-hall-lyrics"
   },
   {
@@ -99,7 +97,7 @@
    "bpm": null,
    "pace": "",
    "fcc": "CLEAN",
-   "notes": "From Heavy Metal (studio 5:31). Over 7 minutes. The only song Winter introduces to the crowd (Paste).",
+   "notes": "From Heavy Metal (live 7:03, studio 5:31). Piano riffs cycle over and over (Paste). The only song Winter introduces to the crowd, with a long held vocal note before the verse (Paste, Our Culture). Tempo listings disagree (live ~104, studio ~180 BPM).",
    "fcc_source": "https://genius.com/Cameron-winter-cancer-of-the-skull-live-at-carnegie-hall-lyrics"
   },
   {
@@ -109,7 +107,7 @@
    "bpm": null,
    "pace": "",
    "fcc": "CLEAN",
-   "notes": "New, unreleased song (not on Heavy Metal). Paste calls it a ballad.",
+   "notes": "New, unreleased song (not on Heavy Metal). Heartbreak ballad with cascading, overwhelming piano and an achy, warbling vocal (Paste, Daily Campus). Pace: check (live listing says ~176 BPM).",
    "fcc_source": "https://genius.com/Cameron-winter-if-you-turn-back-now-live-at-carnegie-hall-lyrics"
   },
   {
@@ -119,7 +117,7 @@
    "bpm": null,
    "pace": "",
    "fcc": "FCC “shit” x1 (Verse 2)",
-   "notes": "From Heavy Metal (studio 5:52). Paste calls it a crowd favorite.",
+   "notes": "From Heavy Metal (live 6:37, studio 5:52). Studio version has layered vocals and swirling piano; live is solo piano with pounding keys and escalating, frenetic volume, voice faltering near the end (Our Culture, Daily Campus, Paste). Crowd favorite. Tempo listings disagree (live ~118, studio ~79 BPM).",
    "fcc_source": "https://genius.com/Cameron-winter-nina-field-of-cops-live-at-carnegie-hall-lyrics"
   },
   {
@@ -129,7 +127,7 @@
    "bpm": null,
    "pace": "",
    "fcc": "FCC “fuck” x2 (Intro)",
-   "notes": "From Heavy Metal (studio 6:43). Longest track, over 8 minutes.",
+   "notes": "From Heavy Metal (live 8:42, studio 6:43), the longest track. Dry, near-spoken intro vocal; piano rises into piercing twinkles and falls into low hums, with long-held vowels and a roughly three-minute piano stretch (Our Culture, Paste, Daily Campus). Live listing ~91 BPM, studio ~75.",
    "fcc_source": "https://genius.com/Cameron-winter-0-live-at-carnegie-hall-lyrics"
   },
   {
@@ -139,7 +137,7 @@
    "bpm": null,
    "pace": "",
    "fcc": "CLEAN",
-   "notes": "From the 2024 Singles EP, not Heavy Metal (studio 4:01).",
+   "notes": "From the 2024 Singles EP, not Heavy Metal (live 6:17, studio 4:01). Slow-building, fragile ballad with falsetto and a low note near the end (Our Culture, Daily Campus). Companion to If You Turn Back Now. Tempo listings disagree (live ~107, studio ~140 BPM).",
    "fcc_source": "https://genius.com/Cameron-winter-take-it-with-you-live-at-carnegie-hall-lyrics"
   },
   {
@@ -149,7 +147,7 @@
    "bpm": null,
    "pace": "",
    "fcc": "CLEAN",
-   "notes": "From the 2024 Singles EP, not Heavy Metal (studio 3:06). Closer.",
+   "notes": "From the 2024 Singles EP, not Heavy Metal (live 4:38, studio 3:06). Closer. Slow progression with falsetto moments, delicate and vulnerable (Daily Campus). Studio listing ~75 BPM; live listing ~123 is probably double-time.",
    "fcc_source": "https://genius.com/Cameron-winter-vines-live-at-carnegie-hall-lyrics"
   }
  ],
@@ -162,6 +160,12 @@
   "https://stereogum.com/2508725/cameron-winter-announces-live-at-carnegie-hall-album/news",
   "https://www.pastemagazine.com/music/cameron-winter/cameron-winter-live-at-carnegie-hall-review",
   "https://www.thelineofbestfit.com/albums/on-live-at-carnegie-hall-we-benefit-from-an-extra-concentrated-dose-of-cameron-winter",
+  "https://dailycampus.com/2026/10/13/a-man-and-his-piano-cameron-winters-live-at-carnegie-hall/",
+  "https://ourculturemag.com/album-review-cameron-winter-live-at-carnegie-hall/",
+  "https://songbpm.com/ (per-track search results for studio and live listings)",
+  "https://en.wikipedia.org/wiki/Heavy_Metal_(album)",
+  "https://en.wikipedia.org/wiki/Ariel_Rechtshaid",
+  "https://www.hebakadry.com/discography-highlights/cameron-winter-live-at-carnegie-hall-mastering-engineer-heba-kadry",
   "Lyrics screened on Genius (counts only), tracks 1 to 12, both the Live at Carnegie Hall and plain song pages. Genius posts no section labels for track 6; the track 3 hit is on the plain song page only: https://genius.com/Cameron-winter-emperor-xiii-in-shades-lyrics"
  ],
  "links": {
