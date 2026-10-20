@@ -1,8 +1,8 @@
 {
  "playlist": "DJ Stace - Next Show",
  "id": "PLMduzOohHQLrQzt6w4ep6l2zAwcIzoZVF",
- "snapshot": "2026-10-16",
- "note": "Read only. 42 tracks by API read (library view shows 51; unavailable rows may be skipped). 12 new since Oct. 9: Sluice x2, Firewater, SAULT, Cameron Winter live, plus tracks moved from Weekly or Air Order.",
+ "snapshot": "2026-10-20",
+ "note": "Read from YTM Oct. 20 (49 tracks).",
  "tracks": [
   [
    "The Avalanches",
@@ -213,6 +213,41 @@
    "Fujiya & Miyagi",
    "No Green Light",
    "K5l80OdiCzM"
+  ],
+  [
+   "John Lennon",
+   "Watching The Wheels",
+   "2Kx2PbA8bCI"
+  ],
+  [
+   "BODEGA",
+   "Combustible",
+   "Ug5BfWJiZJA"
+  ],
+  [
+   "Soundgarden",
+   "Into The Void (Sealth)",
+   "gtG5d3Zd6I4"
+  ],
+  [
+   "Father John Misty",
+   "Trouble",
+   "O6a7lfozvEY"
+  ],
+  [
+   "Bauhaus",
+   "The Passion of Lovers",
+   "qSk88IeNUr0"
+  ],
+  [
+   "TV Priest",
+   "The Big Curve",
+   "Ex__KGYw5LE"
+  ],
+  [
+   "TV Priest",
+   "Decoration",
+   "tKcbUTCGY3Q"
   ]
  ]
 }

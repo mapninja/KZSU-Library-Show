@@ -125,6 +125,14 @@
    "rows_added": 0,
    "source": "Album sweep",
    "note": "All released matches (Fontaines D.C., Dummy, Teenage Fanclub, Tallest Man, Jess Williamson, Death Valley Girls, BODEGA, Jamie T) were already on the shelf. Bad Brains archival (Nov. 6) skipped for cool-off. Ticks untouched."
+  },
+  {
+   "date": "2026-10-20",
+   "trigger": "Tuesday sweep",
+   "rows_added": 4,
+   "source": "Stereogum Oct. 19 and 20, Punknews (Soul Glo, Hot Chip, Fake Names, Disfear)",
+   "ticked_requests_waiting": "none new (29 ticks kept)",
+   "deploy": "Working copy only. The Sheet 1oOidwykAZb93nTEzERXCfLMSMyPT3TiLVTbpXJ60RGE (132 rows) was not redeployed; upload CSV ready at outputs/review_shelf_upload_2026-10-20.csv."
   }
  ]
 }

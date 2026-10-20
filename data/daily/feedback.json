@@ -482,6 +482,15 @@
    "videoId": "TmB8o0oPu3M",
    "note": "deleted from New Releases for Review",
    "cooloff_until": "2026-12-19"
+  },
+  {
+   "date": "2026-10-20",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Scratch Acid",
+   "title": "Mary Had a Little Drug Problem",
+   "videoId": "4ULEdk2rIkY",
+   "note": "replaced by Greatest Gift",
+   "cooloff_until": "2026-12-19"
   }
  ],
  "added_by_stace": [
@@ -930,6 +939,117 @@
    "set": "Hour 2, Set 6: Songwriters and slow",
    "label": "Partisan Records",
    "tag": ""
+  },
+  {
+   "date": "2026-10-20",
+   "source_playlist": "Stace's Weekly Playlist (PLCLF-Tik2UHk)",
+   "artist": "Shovels & Rope & Felice County Fair",
+   "title": "Ballad of Lou the Welterweight",
+   "videoId": "kJDK6XJisoo"
+  },
+  {
+   "date": "2026-10-20",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Scratch Acid",
+   "title": "Greatest Gift",
+   "videoId": "b-NO3Y2kKm0",
+   "set": "Hour 1, Set 2: Texas punk"
+  },
+  {
+   "date": "2026-10-20",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "The Damned",
+   "title": "Nasty",
+   "videoId": "7Sm385a-tqc",
+   "set": "Hour 2, Thursday Triple Shot (fourth track)"
+  },
+  {
+   "date": "2026-10-20",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Jozef Van Wissem & Jim Jarmusch",
+   "title": "Never Like You Said (feat. Courtney Barnett)",
+   "videoId": "72heAMH_l5s",
+   "set": "end of Air Order"
+  },
+  {
+   "date": "2026-10-20",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Eagles Of Death Metal",
+   "title": "Careless Whisper",
+   "videoId": "VFIcDRKCxoU",
+   "set": "end of Air Order"
+  },
+  {
+   "date": "2026-10-20",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Lambrini Girls",
+   "title": "Cult of Celebrity",
+   "videoId": "qjf8SsATw84",
+   "set": "end of Air Order"
+  },
+  {
+   "date": "2026-10-20",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Queens of the Stone Age",
+   "title": "Insignificant Other",
+   "videoId": "TVTmQTcV-iE",
+   "set": "end of Air Order"
+  },
+  {
+   "date": "2026-10-20",
+   "source_playlist": "DJ Stace - Next Show (PLMduzOohHQLrQzt6w4ep6l2zAwcIzoZVF)",
+   "artist": "John Lennon",
+   "title": "Watching The Wheels",
+   "videoId": "2Kx2PbA8bCI",
+   "note": "new interest (read only)"
+  },
+  {
+   "date": "2026-10-20",
+   "source_playlist": "DJ Stace - Next Show (PLMduzOohHQLrQzt6w4ep6l2zAwcIzoZVF)",
+   "artist": "BODEGA",
+   "title": "Combustible",
+   "videoId": "Ug5BfWJiZJA",
+   "note": "new interest (read only)"
+  },
+  {
+   "date": "2026-10-20",
+   "source_playlist": "DJ Stace - Next Show (PLMduzOohHQLrQzt6w4ep6l2zAwcIzoZVF)",
+   "artist": "Soundgarden",
+   "title": "Into The Void (Sealth)",
+   "videoId": "gtG5d3Zd6I4",
+   "note": "new interest (read only)"
+  },
+  {
+   "date": "2026-10-20",
+   "source_playlist": "DJ Stace - Next Show (PLMduzOohHQLrQzt6w4ep6l2zAwcIzoZVF)",
+   "artist": "Father John Misty",
+   "title": "Trouble",
+   "videoId": "O6a7lfozvEY",
+   "note": "new interest (read only)"
+  },
+  {
+   "date": "2026-10-20",
+   "source_playlist": "DJ Stace - Next Show (PLMduzOohHQLrQzt6w4ep6l2zAwcIzoZVF)",
+   "artist": "Bauhaus",
+   "title": "The Passion of Lovers",
+   "videoId": "qSk88IeNUr0",
+   "note": "new interest (read only)"
+  },
+  {
+   "date": "2026-10-20",
+   "source_playlist": "DJ Stace - Next Show (PLMduzOohHQLrQzt6w4ep6l2zAwcIzoZVF)",
+   "artist": "TV Priest",
+   "title": "The Big Curve",
+   "videoId": "Ex__KGYw5LE",
+   "note": "new interest (read only)"
+  },
+  {
+   "date": "2026-10-20",
+   "source_playlist": "DJ Stace - Next Show (PLMduzOohHQLrQzt6w4ep6l2zAwcIzoZVF)",
+   "artist": "TV Priest",
+   "title": "Decoration",
+   "videoId": "tKcbUTCGY3Q",
+   "note": "new interest (read only)"
   }
  ],
  "kept": [],
@@ -981,7 +1101,8 @@
   "Spiral XP": 1,
   "American Motors": 1,
   "Dummy": 1,
-  "Spanish Love Songs": 1
+  "Spanish Love Songs": 1,
+  "Scratch Acid": 1
  },
  "not_aired": [
   {
@@ -1382,6 +1503,7 @@
   "2026-10-15 show sync: Air Order 49 tracks. 8 removals logged (60-day cool-off), 13 adds logged, Fujiya & Miyagi paired with Kraftwerk and Cabaret Voltaire at her request.",
   "2026-10-16 archive: Oct. 15 show archived to PLa4ZjzLjQBsM (30 spins). 24 planned tracks not aired logged as weak not_aired signals.",
   "2026-10-16 Friday sweep: Weekly unchanged since Oct. 13 (no deletes, no Stace adds). Next Show gained 12 tracks since Oct. 9; new names Sluice, Firewater, SAULT, Cameron Winter (live). Air Order still holds the aired Oct. 15 list. New Releases for Review dropped from 25 to 12 since Oct. 13 (13 tracks gone); left to kzsu-new-releases-review to log. 25 tracks added to Weekly (181 total).",
-  "2026-10-16 New Releases for Review: 13 deletes logged (Altitude already logged Oct. 15 from Air Order, not double counted). Fontaines D.C. now at 3 removals (Big, Jackie Down the Line, Tongue): downweight. 6 adds. 18 tracks."
+  "2026-10-16 New Releases for Review: 13 deletes logged (Altitude already logged Oct. 15 from Air Order, not double counted). Fontaines D.C. now at 3 removals (Big, Jackie Down the Line, Tongue): downweight. 6 adds. 18 tracks.",
+  "2026-10-20 Tuesday sweep: Weekly 182 at read (Stace added Shovels & Rope & Felice County Fair), 11 added, 193 total. Air Order 50 tracks: Greatest Gift replaced Mary Had a Little Drug Problem (cool-off to Dec. 19), Nasty added to the Triple Shot, four tracks added at the end; plan synced. Next Show gained 7 tracks. Stace asked that YTM not play audio during playlist work."
  ]
 }

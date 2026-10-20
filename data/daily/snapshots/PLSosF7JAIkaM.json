@@ -1,8 +1,8 @@
 {
  "playlist": "DJ Stace library show Air Order",
  "id": "PLSosF7JAIkaM",
- "snapshot": "2026-10-16",
- "note": "Oct. 16 Thursday-night draft for the Oct. 22 show: rewritten from the aired Oct. 15 list by deltas (40 removed, 36 added, 38 moves, 9 kept). Verified by re-read: 45 tracks, order matches data/recon/2026-10-22/working_playlist.json. No Stace edits existed to harvest (the list matched the Oct. 15 archive).",
+ "snapshot": "2026-10-20",
+ "note": "Read from YTM Oct. 20 (50 tracks), Stace edits since the Oct. 16 draft included.",
  "tracks": [
   [
    "Dummy",
@@ -11,7 +11,7 @@
   ],
   [
    "Heavens to Betsy",
-   "baby's gone",
+   "baby’s gone",
    "vHOfGp9F1Pw"
   ],
   [
@@ -46,8 +46,8 @@
   ],
   [
    "Scratch Acid",
-   "Mary Had a Little Drug Problem",
-   "4ULEdk2rIkY"
+   "Greatest Gift",
+   "b-NO3Y2kKm0"
   ],
   [
    "Butthole Surfers",
@@ -72,17 +72,17 @@
   [
    "Fontaines D.C.",
    "Six Shot Morning",
-   "00krktruwsM"
+   "bijLQqV_iAU"
   ],
   [
    "Fontaines D.C.",
    "Mimesis",
-   "zXyN6eZjlTg"
+   "YEQwq31sT8M"
   ],
   [
    "Fontaines D.C.",
    "Happy For You",
-   "wOkBZA51Z9o"
+   "q7wkBe1rPyM"
   ],
   [
    "Fontaines D.C. & ROSALIA",
@@ -121,6 +121,11 @@
   ],
   [
    "The Damned",
+   "Nasty",
+   "7Sm385a-tqc"
+  ],
+  [
+   "The Damned",
    "Neat Neat Neat",
    "gXKDtkCzSCw"
   ],
@@ -132,7 +137,7 @@
   [
    "Cheekface",
    "No Fly Zone",
-   "RoeVGBKwnkU"
+   "kYAIfBhdCww"
   ],
   [
    "BODEGA",
@@ -201,7 +206,7 @@
   ],
   [
    "Goat",
-   "I Sing in Silence",
+   "I Sing In Silence",
    "7XhgcajHhcM"
   ],
   [
@@ -228,6 +233,26 @@
    "R.M.F.C.",
    "The Clue",
    "pcFnJEXsvWc"
+  ],
+  [
+   "Jozef Van Wissem & Jim Jarmusch",
+   "Never Like You Said (feat. Courtney Barnett)",
+   "72heAMH_l5s"
+  ],
+  [
+   "Eagles Of Death Metal",
+   "Careless Whisper",
+   "VFIcDRKCxoU"
+  ],
+  [
+   "Lambrini Girls",
+   "Cult of Celebrity",
+   "qjf8SsATw84"
+  ],
+  [
+   "Queens of the Stone Age",
+   "Insignificant Other",
+   "TVTmQTcV-iE"
   ]
  ]
 }

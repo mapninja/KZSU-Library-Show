@@ -1,0 +1,93 @@
+{
+ "date": "2026-10-20",
+ "run": "Tuesday sweep",
+ "target_show": "2026-10-22",
+ "playlist": "PLCLF-Tik2UHk",
+ "before": 182,
+ "after": 193,
+ "adds": [
+  {
+   "artist": "Soul Glo (feat. Tunde Adebimpe)",
+   "title": "Ppl Worried",
+   "videoId": "MxJy3S-YkG4",
+   "bucket": "new_release",
+   "fcc": "UNVERIFIED"
+  },
+  {
+   "artist": "Hot Chip",
+   "title": "Random Violence",
+   "videoId": "FEQJgTFfS9k",
+   "bucket": "new_release",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Fake Names",
+   "title": "Punk Ruins",
+   "videoId": "D4S-TxPpaI8",
+   "bucket": "new_release",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Disfear",
+   "title": "Shackled To Our Vice",
+   "videoId": "e6kbCB4pgps",
+   "bucket": "new_release",
+   "fcc": "UNVERIFIED"
+  },
+  {
+   "artist": "Dazy",
+   "title": "Unreasonable Person",
+   "videoId": "IsyO2HA1L5k",
+   "bucket": "new_release",
+   "fcc": "UNVERIFIED"
+  },
+  {
+   "artist": "sadie",
+   "title": "Little Things",
+   "videoId": "PsepUacYtqk",
+   "bucket": "new_release",
+   "fcc": "UNVERIFIED"
+  },
+  {
+   "artist": "Hannah Frances",
+   "title": "Circadian Heart",
+   "videoId": "_w7nuLzcsfI",
+   "bucket": "new_release",
+   "fcc": "UNVERIFIED"
+  },
+  {
+   "artist": "claire rousay & Zander Raymond",
+   "title": "can't we have both",
+   "videoId": "yqs11sWmfHc",
+   "bucket": "new_release",
+   "fcc": "UNVERIFIED"
+  },
+  {
+   "artist": "Spirit Ghost",
+   "title": "Dungeon Crawler",
+   "videoId": "mvq1-dpQNXY",
+   "bucket": "new_release",
+   "fcc": "UNVERIFIED"
+  },
+  {
+   "artist": "High Vis",
+   "title": "Guided Tour",
+   "videoId": "7YE22jSxuds",
+   "bucket": "bay_area",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Antioch Arrow",
+   "title": "The Fixed Orbit",
+   "videoId": "cDSlMK-aT9U",
+   "bucket": "bay_area",
+   "fcc": "CLEAN"
+  }
+ ],
+ "not_added": [
+  "Alphabet - Into The Blur (no YTM track yet)",
+  "Marika Hackman lead single (id not confirmed)",
+  "One Step Closer (details blocked)"
+ ],
+ "notes": "Genius screened from a browser tab; Zookeeper blocked by Turnstile. Watch pages autoplay: muted and paused after Stace asked; rule added to house_rules."
+}

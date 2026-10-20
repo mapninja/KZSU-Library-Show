@@ -26,6 +26,11 @@
 - Never edit "DJ Stace - Next Show". Read only.
 - Weekly Playlist: add, do not clear. A deleted track = not interested now (60-day cool-off, artist downweight after 3). Tracks Stace adds are kept.
 
+## No audio in YTM (Stace, Oct. 20, 2026)
+- Never let YTM play during playlist work. It is distracting and she cannot find the source.
+- Do not open `music.youtube.com/watch?v=...` to save a track (it autoplays). Use album or playlist pages (row Action menu > Save to playlist) or the in-page API.
+- If anything starts playing, run `document.querySelector('video').pause()` and set `muted = true` and `volume = 0` before continuing.
+
 ## FCC
 - FCC words: fuck, shit, piss, cunt, cocksucker, cock, tits. Caution: bitch, asshole, goddamn.
 - Name the exact word, count and section. Never reproduce lyrics.

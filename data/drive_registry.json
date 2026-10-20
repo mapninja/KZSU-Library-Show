@@ -196,14 +196,16 @@
    "note": "Raw CSV placed at /KZSU/ top level through Drive for desktop. Unchanged content from the Oct. 13 build (44 tracks, reversed)."
   },
   "notes_sheet_2026-10-22": {
-   "id": "1YMM5u25pE3ufVbWf291Y3rCvgr19Df0H1WMaG8yu-hY",
+   "id": "1JLExeCfzBIJARuEk5CC26fFSDY04fa1R-dyFTTUGFEM",
    "type": "sheet",
    "folder": "Show Prep",
-   "deployed": "2026-10-16T16:47Z",
+   "deployed": "2026-10-20T15:50Z",
    "working": "Working/notes_sheet_2026-10-22.csv (repo outputs/recon/2026-10-22/notes_sheet_2026-10-22.csv)",
-   "retired": [],
-   "hash": "206a5be419481385261e532aa4a95cb1",
-   "note": "Oct. 16 Thursday-night draft: 45 rows, no ticks to harvest (new file)."
+   "retired": [
+    "1YMM5u25pE3ufVbWf291Y3rCvgr19Df0H1WMaG8yu-hY"
+   ],
+   "hash": "9ffa6a3ff17a127080c94f680b31c0d3",
+   "note": "Oct. 20 Tuesday sweep: 50 rows synced to Stace Air Order edits. Old sheet unmodified since Oct. 16 deploy, so no ticks to harvest. Old sheet moved to _to_delete."
   },
   "working_show_script_2026-10-22": {
    "id": null,
