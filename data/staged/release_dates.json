@@ -214,14 +214,14 @@
   "date": "2026-03",
   "precision": "month",
   "sources": [
-   "https://www.undertheradarmag.com/news/miss_grit_shares_new_song_mind_disaster_and_announces_new_tour_dates_openin",
-   "https://www.thelineofbestfit.com/news/miss-grit-new-track-mind-disaster"
+   "https://www.thelineofbestfit.com/news/miss-grit-new-track-mind-disaster",
+   "https://www.undertheradarmag.com/news/miss_grit_shares_new_song_mind_disaster_and_announces_new_tour_dates_openin"
   ],
   "status": "released",
-  "note": "Third single from Under My Umbrella, covered Mar. 10 to 12, 2026. Bandcamp track page shows the album date, Apr. 24, 2026. Day not found.",
-  "label": "",
+  "note": "Press dated Mar. 10 to 12, 2026; no day stated. Album Under My Umbrella (Mute) is Apr. 24, 2026. Verify on Bandcamp or Mute.",
+  "label": "Mute Records",
   "confirmed": false,
-  "checked_on": "2026-10-17"
+  "checked_on": "2026-10-20"
  },
  "hrishikesh hirway|stray dogs with iron wine": {
   "date": "2026-02-18",
@@ -260,10 +260,10 @@
    "https://newwestrecords.com/products/buddy-miller-nothing-but-a-child-on-the-road-to-bethlehem-7"
   ],
   "status": "released",
-  "note": "Bandcamp (digital) Sept. 25, 2026. 7-inch red vinyl pre-orders ship by Nov. 27, 2026 (New West).",
-  "label": "",
+  "note": "Bandcamp gives Sept. 25, 2026. Retailers list Oct. 2 (Amazon) and Nov. 27 (Horizons) for the 7-inch. Verify on the New West page.",
+  "label": "New West",
   "confirmed": false,
-  "checked_on": "2026-10-17"
+  "checked_on": "2026-10-20"
  },
  "little barrie|gravity freeze": {
   "date": "2026-05-22",
@@ -312,13 +312,13 @@
   "precision": "day",
   "sources": [
    "https://www.thenighttemple.com/post/galvezton-releases-sophomore-album-ocean-cabaret",
-   "https://klofmag.com/2026/05/galvezton-ocean-cabaret/"
+   "https://musicontherox.com/galvezton-ocean-cabaret-album-review/"
   ],
   "status": "released",
-  "note": "Night Temple gives Apr. 3, 2026. KLOF Mag header says May 15; a Dec. 2025 local item mentions a release party. Conflict, verify.",
-  "label": "",
+  "note": "Night Temple and MusicOnTheRox give Apr. 3, 2026 (La Izquierda). KLOF Mag lists May 15, 2026, likely an error. Verify on Bandcamp or label page.",
+  "label": "La Izquierda",
   "confirmed": false,
-  "checked_on": "2026-10-17"
+  "checked_on": "2026-10-20"
  },
  "feeble little horse|bitknot": {
   "date": "2026-05-26",
@@ -590,15 +590,14 @@
   "date": "2025-03-21",
   "precision": "day",
   "sources": [
-   "https://music.apple.com/us/album/non-violent/1762970134",
    "https://haters.bandcamp.com/album/non-violent",
-   "https://open.spotify.com/album/5L25sAsofmUPPgrhidKe6Y"
+   "https://music.apple.com/us/album/non-violent/1762970134"
   ],
   "status": "released",
-  "note": "Brisbane trio Haters, debut album. Apple Music, Bandcamp and Spotify show 2025-03-21; a vinyl-only edition was pre-ordered from Nov 2024 before the digital release. Label not confirmed (no clearer label found).",
-  "label": "",
-  "confirmed": false,
-  "checked_on": "2026-10-16"
+  "note": "Bandcamp and Apple Music give Mar. 21, 2025 (FOUR|FOUR). Limited vinyl shipped to select stores earlier.",
+  "label": "Self-Released",
+  "confirmed": true,
+  "checked_on": "2026-10-20"
  },
  "white denim|13": {
   "date": "2026-04-24",
@@ -758,14 +757,14 @@
   "date": "2026-06-24",
   "precision": "day",
   "sources": [
-   "https://iconvsicon.com/2026/06/24/pj-harvey-voyager-new-track/",
-   "https://consequence.net/2026/06/pj-harvey-unveils-song-voyager/"
+   "https://pjharvey.bandcamp.com/album/voyager",
+   "https://northerntransmissions.com/pj-harvey-returns-with-new-single-voyager/"
   ],
   "status": "released",
-  "note": "Digital single June 24, 2026 on Partisan. The 7-inch (PTSN1612-7) is dated Dec. 18, 2026 by retailers (Spindizzy, Flashback, Juno) and Dec. 4 by the artist store (shipping).",
-  "label": "",
-  "confirmed": false,
-  "checked_on": "2026-10-17"
+  "note": "Digital single Jun. 24, 2026 (Partisan). The 7-inch ships Dec. 4, 2026 per the PJ Harvey store and Bandcamp; one retailer lists Dec. 18.",
+  "label": "Partisan",
+  "confirmed": true,
+  "checked_on": "2026-10-20"
  },
  "sluice|companion": {
   "date": "2026-03-27",
@@ -827,14 +826,13 @@
   "precision": "day",
   "sources": [
    "https://flagpole.com/topstory/2026/09/16/go-public-releases-debut-album-you-are-traffic/",
-   "https://www.side-line.com/go-public-dream-over/",
-   "https://hhbtm.bandcamp.com/album/you-are-traffic"
+   "https://www.herecomestheflood.com/2026/09/go-public-craps-tempo.html"
   ],
   "status": "released",
-  "note": "Press (Flagpole, Side-Line) says Sept. 18, 2026. HHBTM Bandcamp and store still show July 24, 2026 (earlier date). Conflict, verify.",
-  "label": "",
+  "note": "Flagpole (Sept. 16) and Here Comes The Flood give Sept. 18, 2026 (HHBTM). Moved from July 24; HHBTM Bandcamp page still shows July 24. Verify on the label page.",
+  "label": "Happy Happy Birthday To Me",
   "confirmed": false,
-  "checked_on": "2026-10-17"
+  "checked_on": "2026-10-20"
  },
  "las cruxes|las cruxes": {
   "date": "2026-04-24",
@@ -924,13 +922,13 @@
   "precision": "day",
   "sources": [
    "https://littlebarrie.bandcamp.com/track/luggin-hurt",
-   "https://thefirenote.com/videos/little-barrie-luggin-hurt-single-edit-video/"
+   "https://www.shazam.com/en-us/song/1874098778/luggin-hurt"
   ],
-  "status": "released",
-  "note": "Single edit and video appeared about Apr. 22 to 23, 2026 ahead of Gravity Freeze (May 22, 2026). No label post with the exact day. Verify.",
-  "label": "",
+  "status": "single, date unverified",
+  "note": "Standalone single date not found. Bandcamp and Shazam show the album Gravity Freeze (Easy Eye Sound) as May 22, 2026. A YouTube upload suggests about Apr. 22, 2026 (metadata only). Keep as verify.",
+  "label": "Easy Eye Sound / Concord",
   "confirmed": false,
-  "checked_on": "2026-10-17"
+  "checked_on": "2026-10-20"
  },
  "new pornographers|votive": {
   "date": "2026-01-21",
@@ -979,14 +977,13 @@
   "precision": "day",
   "sources": [
    "https://www.clashmusic.com/news/danielle-ponder-signs-to-dead-oceans-shares-new-song-power/",
-   "https://danielleponder.bandcamp.com/track/power-2",
-   "https://musicbrainz.org/release-group search: Power [single], 2026-06-17"
+   "https://www.live4ever.uk.com/danielle-ponder-new-single-power/"
   ],
   "status": "released",
-  "note": "Clash article dated June 18, 2026; MusicBrainz says June 17. One-day conflict, keep June 18 pending a label post. Album Everything Has Changed out Oct. 9, 2026 (Dead Oceans).",
-  "label": "",
-  "confirmed": false,
-  "checked_on": "2026-10-19"
+  "note": "Clash and Live4ever both dated Jun. 18, 2026. Album Everything Has Changed (Dead Oceans) is Oct. 9, 2026. Bandcamp track page shows Oct. 9 (album date).",
+  "label": "Dead Oceans",
+  "confirmed": true,
+  "checked_on": "2026-10-20"
  },
  "tom waits|fly": {
   "date": "2026-07-31",
@@ -1006,14 +1003,14 @@
   "date": "2026-09-09",
   "precision": "day",
   "sources": [
-   "https://jammerzine.com/teenage-fanclub-deliver-sunshine-fuzz-and-feelings-on-be-with-you-tonight/",
+   "https://www.thelineofbestfit.com/news/teenage-fanclub-share-new-single-be-with-you-tonight",
    "https://www.undertheradarmag.com/news/teenage_fanclub_share_video_for_new_song_be_with_you_tonight"
   ],
   "status": "released",
-  "note": "Single and video around Sept. 9, 2026 (Jammerzine, article metadata). Third single from Do Not Dare To Dream (Merge, Oct. 9, 2026). No label post found for the exact day.",
-  "label": "",
+  "note": "Press places the single in early September 2026; no second source states the day. Album Do Not Dare To Dream (Merge) is Oct. 9, 2026. Verify.",
+  "label": "Merge",
   "confirmed": false,
-  "checked_on": "2026-10-17"
+  "checked_on": "2026-10-20"
  },
  "mitski|nothing s about to happen to me": {
   "date": "2026-02-27",
@@ -1240,17 +1237,17 @@
   "checked_on": "2026-10-16"
  },
  "imperial teen|all hands up": {
-  "date": "2026-10-09",
-  "precision": "day",
+  "date": "2026-09",
+  "precision": "month",
   "sources": [
-   "https://mergerecords.com/products/imperial-teen-all-over-you",
-   "https://imperialteen.bandcamp.com/album/all-over-you"
+   "https://rmas.mx/en/2026/09/17/imperial-teen-release-hands-all-up-new-preview-of-all-over-you/",
+   "https://thefirenote.com/news/fire-tracks/fire-track-imperial-teen-hands-all-up/"
   ],
   "status": "released",
-  "note": "The track is Hands All Up, an album cut on All Over You (Merge, Oct. 9, 2026). Only Overdrive found as a single (announced Aug. 4, 2026). No single release for this track found.",
-  "label": "",
+  "note": "Song title is 'Hands All Up' in all sources, not 'All Hands Up'. RMAS post dated Sept. 17, 2026; exact single day not stated. Album All Over You (Merge) is Oct. 9, 2026.",
+  "label": "Merge",
   "confirmed": false,
-  "checked_on": "2026-10-17"
+  "checked_on": "2026-10-20"
  },
  "steve earle los lobos|volver a celaya city of immigrants": {
   "date": "2026-08-06",
@@ -2067,5 +2064,209 @@
   "label": "Mute",
   "confirmed": true,
   "checked_on": "2026-10-19"
+ },
+ "alewya|maktoub": {
+  "date": "2026-05-28",
+  "precision": "day",
+  "sources": [
+   "https://www.youtube.com/watch?v=1QoX1QEWPTQ",
+   "https://audiomack.com/alewya/song/maktoub",
+   "https://femmusic.com/2026/05/28/alewya-maktoub/"
+  ],
+  "status": "released",
+  "note": "YouTube credit and Audiomack give May 28, 2026. Bandcamp shows Jun. 26 (album Zero date). Label credits: Because Music / LDN Records.",
+  "label": "Because London Music",
+  "confirmed": true,
+  "checked_on": "2026-10-20"
+ },
+ "alewya|city of symbols feat eejebee": {
+  "date": "2026-03-10",
+  "precision": "day",
+  "sources": [
+   "https://www.youtube.com/watch?v=6CguwK8jtCY",
+   "https://rateyourmusic.com/release/single/alewya/city-of-symbols/"
+  ],
+  "status": "released",
+  "note": "YouTube credit and Rate Your Music give Mar. 10, 2026. Album Zero is Jun. 26, 2026 (one source says Jun. 22).",
+  "label": "Because London Music",
+  "confirmed": true,
+  "checked_on": "2026-10-20"
+ },
+ "emmett jerome|it ain t me": {
+  "date": "2025-10-22",
+  "precision": "day",
+  "sources": [
+   "https://audiomack.com/emmett-jerome/album/it-aint-me",
+   "https://music.apple.com/gb/album/it-aint-me-ep/1833993214",
+   "https://www.indiemusicdiscovery.com/wistful-ballad-pretty-pieces-finds-emmett-jerome-searching-through-the-fragments-of-heartbreak-it-aint-me-lp-out-october-22nd/"
+  ],
+  "status": "released",
+  "note": "Audiomack, Apple Music and Indie Music Discovery give Oct. 22, 2025. Apple Music and Light Organ list it as a six-track EP.",
+  "label": "Light Organ Records",
+  "confirmed": true,
+  "checked_on": "2026-10-20"
+ },
+ "philippe b|cigale": {
+  "date": "2026-03-13",
+  "precision": "day",
+  "sources": [
+   "https://philippeb.bandcamp.com/album/cigale",
+   "https://tower.com/products/philippe-b-cigale-compact-discs",
+   "https://www.bonsound.com/en/release/cigale/"
+  ],
+  "status": "released",
+  "note": "Bandcamp and Tower give Mar. 13, 2026 (Bonsound).",
+  "label": "Bonsound",
+  "confirmed": true,
+  "checked_on": "2026-10-20"
+ },
+ "luke norton|reservoir": {
+  "date": "2026-02-13",
+  "precision": "day",
+  "sources": [
+   "https://lukenorton.bandcamp.com/album/reservoir",
+   "https://halloweenonraspberryhillrecords.bandcamp.com/album/reservoir"
+  ],
+  "status": "released",
+  "note": "Artist and label Bandcamp pages both give Feb. 13, 2026 (RAZ005). Same platform, no press source yet. Verify.",
+  "label": "Halloween on Raspberry Hill",
+  "confirmed": false,
+  "checked_on": "2026-10-20"
+ },
+ "wave pictures|gained lost": {
+  "date": "2026-02-27",
+  "precision": "day",
+  "sources": [
+   "https://thewavepictures.bandcamp.com/album/gained-lost",
+   "https://circuitsweet.co.uk/2025/11/the-wave-pictures-announce-new-album-gained-lost-out-27th-february-via-bella-union-share-first-single-alice-uk-live-dates/",
+   "https://www.resident-music.com/product/wave-pictures-the-gained-lost"
+  ],
+  "status": "released",
+  "note": "Bandcamp, Circuit Sweet and Resident Music give Feb. 27, 2026 (Bella Union).",
+  "label": "Bella Union",
+  "confirmed": true,
+  "checked_on": "2026-10-20"
+ },
+ "widemouth|no gasoline": {
+  "date": "2026-05-29",
+  "precision": "day",
+  "sources": [
+   "https://music.newcity.com/2026/06/23/widemouth-finds-meaning-in-the-quiet-details-on-no-gasoline/",
+   "https://music.apple.com/ai/album/no-gasoline/1876588036"
+  ],
+  "status": "released",
+  "note": "New City and Apple Music give May 29, 2026 (Urban Scandal).",
+  "label": "Urban Scandal",
+  "confirmed": true,
+  "checked_on": "2026-10-20"
+ },
+ "archive|glass minds": {
+  "date": "2026-02-27",
+  "precision": "day",
+  "sources": [
+   "https://music.apple.com/us/album/glass-minds/1825153086",
+   "https://www.deezer.com/us/album/784156311",
+   "https://orkus1.com/en/archive-glass-minds/"
+  ],
+  "status": "released",
+  "note": "Apple Music, Deezer and Orkus give Feb. 27, 2026 (Dangervisit / [PIAS]).",
+  "label": "Dangervisit / [PIAS]",
+  "confirmed": true,
+  "checked_on": "2026-10-20"
+ },
+ "pope|bfm": {
+  "date": "2026-04-30",
+  "precision": "day",
+  "sources": [
+   "https://popeband.bandcamp.com/album/bfm",
+   "https://asbomagazine.com/the-long-homecoming-pope-returns-with-bfm/"
+  ],
+  "status": "released",
+  "note": "Bandcamp and ASBO give Apr. 30, 2026 (Rite Field). The Indy Review says Friday, May 1. Verify.",
+  "label": "Rite Field",
+  "confirmed": false,
+  "checked_on": "2026-10-20"
+ },
+ "ista|in sound to all": {
+  "date": "2026-04-17",
+  "precision": "day",
+  "sources": [
+   "https://open.spotify.com/album/7GgVRL2zETcwjtajhCS1yH",
+   "https://www.istasound.com/products/in-sound-to-all-cd"
+  ],
+  "status": "released",
+  "note": "Spotify and the band store give Apr. 17, 2026 (self-released).",
+  "label": "Self-Released",
+  "confirmed": true,
+  "checked_on": "2026-10-20"
+ },
+ "motorists|never sing alone": {
+  "date": "2026-03-06",
+  "precision": "day",
+  "sources": [
+   "https://motoristswearetime.bandcamp.com/album/never-sing-alone",
+   "https://music.apple.com/gb/album/never-sing-alone/1884651081"
+  ],
+  "status": "released",
+  "note": "Bandcamp and Apple Music give Mar. 6, 2026 (We Are Time). Two outlets print 2025 in the body text, likely a typo.",
+  "label": "We Are Time",
+  "confirmed": true,
+  "checked_on": "2026-10-20"
+ },
+ "natalie jane hill|hopeful woman": {
+  "date": "2026-03-06",
+  "precision": "day",
+  "sources": [
+   "https://klofmag.com/2025/11/natalie-jane-hill-album-hopeful-woman-video-never-left-me/",
+   "https://music.apple.com/us/album/hopeful-woman/1845871651",
+   "https://lunchboxrecords.com/products/617308004045"
+  ],
+  "status": "released",
+  "note": "KLOF, Apple Music and Lunchbox give Mar. 6, 2026 (Dear Life). Tower lists the CD as Mar. 27. Verify.",
+  "label": "Dear Life",
+  "confirmed": false,
+  "checked_on": "2026-10-20"
+ },
+ "love spells|crutch": {
+  "date": "2026-04-30",
+  "precision": "day",
+  "sources": [
+   "https://music.apple.com/ca/album/crutch-single/1895274406",
+   "https://soundcharts.com/en/song/1596e922-44f9-4f4c-94bd-0dc7d701e0db",
+   "https://www.clashmusic.com/news/love-spells-shares-dazzling-new-single-crutch/"
+  ],
+  "status": "released",
+  "note": "Apple Music, Soundcharts and Clash give Apr. 30, 2026 (RCA). Album Love Is the Law is Jul. 24, 2026. Shazam shows Jul. 24, likely the album date.",
+  "label": "RCA Records",
+  "confirmed": true,
+  "checked_on": "2026-10-20"
+ },
+ "casi|casi": {
+  "date": "2026-06-19",
+  "precision": "day",
+  "sources": [
+   "https://www.carparkrecords.com/news/casi-signs-to-carpark-announces-self-titled-album-new-single-jumper/",
+   "https://casi-rightnow.bandcamp.com/album/casi",
+   "https://tower.com/products/casi-casi-compact-discs"
+  ],
+  "status": "released",
+  "note": "Carpark, Bandcamp and Tower give Jun. 19, 2026.",
+  "label": "Carpark",
+  "confirmed": true,
+  "checked_on": "2026-10-20"
+ },
+ "slow leaves|ruins of things unfinished": {
+  "date": "2026-05-01",
+  "precision": "day",
+  "sources": [
+   "https://birthdaycakerecords.com/collections/slow-leaves",
+   "https://slowleaves.bandcamp.com/album/the-ruins-of-things-unfinished",
+   "https://music.apple.com/il/album/the-ruins-of-things-unfinished/1869399188"
+  ],
+  "status": "released",
+  "note": "Label, Bandcamp and Apple Music give May 1, 2026 (Birthday Cake). Some vinyl retailers list May 15 and the CD Jun. 5 (presale dates).",
+  "label": "Birthday Cake",
+  "confirmed": true,
+  "checked_on": "2026-10-20"
  }
 }

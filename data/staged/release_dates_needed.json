@@ -18,15 +18,6 @@
   "key": "go public|you are traffic"
  },
  {
-  "artist": "Haters",
-  "title": "Non-Violent",
-  "type": "album",
-  "label": "Self-Released",
-  "current_date": "2025-03-21",
-  "date_check": "verify",
-  "key": "haters|non violent"
- },
- {
   "artist": "Little Barrie",
   "title": "Luggin' Hurt",
   "type": "single",
@@ -45,21 +36,12 @@
   "key": "miss grit|mind disaster"
  },
  {
-  "artist": "Danielle Ponder",
-  "title": "Power",
-  "type": "single",
-  "label": "Dead Oceans",
-  "current_date": "2026-06-18",
-  "date_check": "verify",
-  "key": "danielle ponder|power"
- },
- {
   "artist": "Vicious Vicious",
   "title": "All Caught Up / Yodel My Name Across The Sweeping Sands",
   "type": "single",
   "label": "Vicious Vicious (self-released)",
-  "current_date": "",
-  "date_check": "needed",
+  "current_date": "2026-10",
+  "date_check": "verify",
   "key": "vicious vicious|all caught up yodel my name across the sweeping sands"
  },
  {
@@ -67,18 +49,9 @@
   "title": "All Hands Up",
   "type": "single",
   "label": "Merge",
-  "current_date": "2026-10-09",
+  "current_date": "2026-09",
   "date_check": "verify",
   "key": "imperial teen|all hands up"
- },
- {
-  "artist": "PJ Harvey",
-  "title": "Voyager (7-inch)",
-  "type": "single",
-  "label": "",
-  "current_date": "2026-06-24",
-  "date_check": "verify",
-  "key": "pj harvey|voyager 7 inch"
  },
  {
   "artist": "Teenage Fanclub",
@@ -97,141 +70,6 @@
   "current_date": "2026-09-25",
   "date_check": "verify",
   "key": "buddy miller|nothing but a child on the road to bethlehem"
- },
- {
-  "artist": "Alewya",
-  "title": "City of Symbols (feat. eejebee)",
-  "type": "single",
-  "label": "Because London Music",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "alewya|city of symbols feat eejebee"
- },
- {
-  "artist": "Alewya",
-  "title": "Maktoub",
-  "type": "single",
-  "label": "Because London Music",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "alewya|maktoub"
- },
- {
-  "artist": "Emmett Jerome",
-  "title": "It Ain't Me",
-  "type": "album",
-  "label": "Light Organ Records",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "emmett jerome|it ain t me"
- },
- {
-  "artist": "Philippe B",
-  "title": "Cigale",
-  "type": "album",
-  "label": "Bonsound",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "philippe b|cigale"
- },
- {
-  "artist": "Luke Norton",
-  "title": "Reservoir",
-  "type": "album",
-  "label": "Halloween on Raspberry Hill",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "luke norton|reservoir"
- },
- {
-  "artist": "The Wave Pictures",
-  "title": "Gained / Lost",
-  "type": "album",
-  "label": "Bella Union",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "wave pictures|gained lost"
- },
- {
-  "artist": "Widemouth",
-  "title": "No Gasoline",
-  "type": "album",
-  "label": "Urban Scandal",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "widemouth|no gasoline"
- },
- {
-  "artist": "Archive",
-  "title": "Glass Minds",
-  "type": "album",
-  "label": "Dangervisit / [PIAS]",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "archive|glass minds"
- },
- {
-  "artist": "Pope",
-  "title": "BFM",
-  "type": "album",
-  "label": "Rite Field",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "pope|bfm"
- },
- {
-  "artist": "ISTA",
-  "title": "In Sound To All",
-  "type": "album",
-  "label": "Self-Released",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "ista|in sound to all"
- },
- {
-  "artist": "Motorists",
-  "title": "Never Sing Alone",
-  "type": "album",
-  "label": "We Are Time",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "motorists|never sing alone"
- },
- {
-  "artist": "Natalie Jane Hill",
-  "title": "Hopeful Woman",
-  "type": "album",
-  "label": "Dear Life",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "natalie jane hill|hopeful woman"
- },
- {
-  "artist": "Love Spells",
-  "title": "Crutch",
-  "type": "single",
-  "label": "RCA Records",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "love spells|crutch"
- },
- {
-  "artist": "casi",
-  "title": "CASI",
-  "type": "album",
-  "label": "Carpark",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "casi|casi"
- },
- {
-  "artist": "Slow Leaves",
-  "title": "The Ruins of Things Unfinished",
-  "type": "album",
-  "label": "Birthday Cake",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "slow leaves|ruins of things unfinished"
  },
  {
   "artist": "TRAITRS",
@@ -322,5 +160,140 @@
   "current_date": "",
   "date_check": "needed",
   "key": "julianna riolino|like a rembrandt b w don t put me in the middle"
+ },
+ {
+  "artist": "Julianna Riolino",
+  "title": "Echo In The Dust (Deluxe)",
+  "type": "album",
+  "label": "Moonwhistle",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "julianna riolino|echo in the dust deluxe"
+ },
+ {
+  "artist": "The Limiñanas",
+  "title": "Live at Beaubourg",
+  "type": "album",
+  "label": "Because Music",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "liminanas|live at beaubourg"
+ },
+ {
+  "artist": "Swapmeet",
+  "title": "2 C U",
+  "type": "single",
+  "label": "Winspear",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "swapmeet|2 c u"
+ },
+ {
+  "artist": "Elder Island",
+  "title": "Hello Baby Okay",
+  "type": "album",
+  "label": "Self-Released",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "elder island|hello baby okay"
+ },
+ {
+  "artist": "The Sheila Divine",
+  "title": "The Middle Ages",
+  "type": "album",
+  "label": "Trash Casual",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "sheila divine|middle ages"
+ },
+ {
+  "artist": "daphne tunes",
+  "title": "Volume D",
+  "type": "album",
+  "label": "Self-Released",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "daphne tunes|volume d"
+ },
+ {
+  "artist": "Al Green",
+  "title": "To Love Somebody",
+  "type": "album",
+  "label": "Fat Possum",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "al green|to love somebody"
+ },
+ {
+  "artist": "L'Eclair",
+  "title": "Lagniappe Session",
+  "type": "album",
+  "label": "Innovative Leisure",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "l eclair|lagniappe session"
+ },
+ {
+  "artist": "Lucy Dreams",
+  "title": "VVVVV",
+  "type": "album",
+  "label": "SonicWaveArtPop",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "lucy dreams|vvvvv"
+ },
+ {
+  "artist": "Danny L Harle",
+  "title": "Raft In The Sea (feat. Julia Michaels)",
+  "type": "single",
+  "label": "XL Recordings",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "danny l harle|raft in the sea feat julia michaels"
+ },
+ {
+  "artist": "Danny L Harle",
+  "title": "Cerulean",
+  "type": "album",
+  "label": "XL Recordings",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "danny l harle|cerulean"
+ },
+ {
+  "artist": "Clarion",
+  "title": "Blue Fairy [EP]",
+  "type": "EP",
+  "label": "Broke",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "clarion|blue fairy ep"
+ },
+ {
+  "artist": "Arielle Soucy",
+  "title": "Passages",
+  "type": "album",
+  "label": "Bonbonbon",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "arielle soucy|passages"
+ },
+ {
+  "artist": "Planet Bones",
+  "title": "SAMSARA",
+  "type": "album",
+  "label": "incurable",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "planet bones|samsara"
+ },
+ {
+  "artist": "Emma Louise",
+  "title": "Sunshine For Happiness",
+  "type": "album",
+  "label": "Future Classic",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "emma louise|sunshine for happiness"
  }
 ]
