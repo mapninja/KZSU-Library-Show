@@ -1,5 +1,5 @@
 {
- "_note": "Ledger for New Releases for Review. status: pending (not yet added), active, expired, deleted_by_stace, stace_added. expires = added + 14 days. Created 2026-10-10. First build 2026-10-10: 17 tracks added, sort Newest first, verified by reload. Fat Dog, Wishy and Greg Freeman stay pending until release dates are verified (add only if inside the 14-day window). Oct. 13: 4 deletes by Stace logged (Jamie T, Jess Williamson, Teenage Fanclub, Michael Kiwanuka; 60-day cool-off to 2026-12-12); 12 adds (expire 2026-10-27); Fat Dog and Greg Freeman pendings resolved, Wishy skipped. 25 tracks verified by reload. Oct. 16: 13 deletes by Stace logged (60-day cool-off to 2026-12-15); 6 adds (expire 2026-10-30); 18 tracks verified by reload.",
+ "_note": "Ledger for New Releases for Review. status: pending (not yet added), active, expired, deleted_by_stace, stace_added. expires = added + 14 days. Created 2026-10-10. First build 2026-10-10: 17 tracks added, sort Newest first, verified by reload. Fat Dog, Wishy and Greg Freeman stay pending until release dates are verified (add only if inside the 14-day window). Oct. 13: 4 deletes by Stace logged (Jamie T, Jess Williamson, Teenage Fanclub, Michael Kiwanuka; 60-day cool-off to 2026-12-12); 12 adds (expire 2026-10-27); Fat Dog and Greg Freeman pendings resolved, Wishy skipped. 25 tracks verified by reload. Oct. 16: 13 deletes by Stace logged (60-day cool-off to 2026-12-15); 6 adds (expire 2026-10-30); 18 tracks verified by reload. Oct. 20: 1 delete by Stace logged (Spanish Love Songs, cool-off to 2026-12-19); 2 adds (expire 2026-11-03); 19 tracks verified by reload. No expirations (earliest expiry Oct. 24).",
  "playlist_id": "PLIl7VQi0nzk0",
  "entries": [
   {
@@ -138,10 +138,12 @@
    "added": "2026-10-10",
    "expires": "2026-10-24",
    "owner": "claude",
-   "status": "active",
+   "status": "deleted_by_stace",
    "fcc_status": "FCC",
    "fcc_note": "shit x1 (Verse 3)",
-   "source": "Oct. 6 and Oct. 9 sweeps"
+   "source": "Oct. 6 and Oct. 9 sweeps",
+   "deleted_detected": "2026-10-20",
+   "cooloff_until": "2026-12-19"
   },
   {
    "videoId": "VQZxwhWDh8w",
@@ -602,6 +604,38 @@
    "fcc_status": "CLEAN",
    "fcc_note": "145 words (Friday sweep screen)",
    "source": "Oct. 16 run: Punk focus (riot grrrl); Bay Area shows Oct. 17 and 18"
+  },
+  {
+   "videoId": "fYaxUMD4pJs",
+   "artist": "Prize Horse",
+   "title": "The Big Picture",
+   "album": "The Big Picture (single)",
+   "label": "Closed Casket Activities",
+   "released": "2026-10-19 (Stereogum; verify)",
+   "added": "2026-10-20",
+   "expires": "2026-11-03",
+   "owner": "claude",
+   "status": "active",
+   "fcc_status": "FCC",
+   "fcc_note": "shit x1 (no section markers on Genius)",
+   "source": "Stereogum new music Oct. 19; Salad Days",
+   "bucket": "punk and post-punk focus"
+  },
+  {
+   "videoId": "FEQJgTFfS9k",
+   "artist": "Hot Chip",
+   "title": "Random Violence",
+   "album": "A Long Way From Kansas (album Jan. 8, 2027)",
+   "label": "Domino",
+   "released": "2026-10-19",
+   "added": "2026-10-20",
+   "expires": "2026-11-03",
+   "owner": "claude",
+   "status": "active",
+   "fcc_status": "CLEAN",
+   "fcc_note": "323 words checked",
+   "source": "Stereogum new music Oct. 19; Domino announcement",
+   "bucket": "Domino label, in her YTM history"
   }
  ]
 }

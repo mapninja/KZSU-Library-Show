@@ -473,6 +473,15 @@
    "videoId": "A4DIFoBJk7U",
    "note": "deleted from New Releases for Review",
    "cooloff_until": "2026-12-15"
+  },
+  {
+   "date": "2026-10-20",
+   "source_playlist": "New Releases for Review (PLIl7VQi0nzk0)",
+   "artist": "Spanish Love Songs",
+   "title": "Doom Tripping",
+   "videoId": "TmB8o0oPu3M",
+   "note": "deleted from New Releases for Review",
+   "cooloff_until": "2026-12-19"
   }
  ],
  "added_by_stace": [
@@ -971,7 +980,8 @@
   "Awning": 1,
   "Spiral XP": 1,
   "American Motors": 1,
-  "Dummy": 1
+  "Dummy": 1,
+  "Spanish Love Songs": 1
  },
  "not_aired": [
   {
