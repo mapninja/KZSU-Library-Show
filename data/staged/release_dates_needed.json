@@ -72,87 +72,6 @@
   "key": "buddy miller|nothing but a child on the road to bethlehem"
  },
  {
-  "artist": "TRAITRS",
-  "title": "Possessor",
-  "type": "album",
-  "label": "Furniture Records",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "traitrs|possessor"
- },
- {
-  "artist": "Blondshell",
-  "title": "Heart Has To Work So Hard",
-  "type": "single",
-  "label": "Partisan Records",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "blondshell|heart has to work so hard"
- },
- {
-  "artist": "Bellows",
-  "title": "Que Bello!",
-  "type": "single",
-  "label": "bloody knuckles",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "bellows|que bello"
- },
- {
-  "artist": "Nina Garbus",
-  "title": "Secrets of the Fifth Angel",
-  "type": "album",
-  "label": "Candlepin",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "nina garbus|secrets of the fifth angel"
- },
- {
-  "artist": "Operelly",
-  "title": "*FLUTTERS AWAY*",
-  "type": "album",
-  "label": "deadAir",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "operelly|flutters away"
- },
- {
-  "artist": "Styrofoam Winos",
-  "title": "Any River",
-  "type": "album",
-  "label": "Dear Life",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "styrofoam winos|any river"
- },
- {
-  "artist": "Triples",
-  "title": "Every Good Story",
-  "type": "album",
-  "label": "Bleak Enterprise",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "triples|every good story"
- },
- {
-  "artist": "They Might Be Giants",
-  "title": "Eyeball EP",
-  "type": "EP",
-  "label": "Upward Spiral",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "they might be giants|eyeball ep"
- },
- {
-  "artist": "They Might Be Giants",
-  "title": "The World Is to Dig",
-  "type": "album",
-  "label": "Idlewild",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "they might be giants|world is to dig"
- },
- {
   "artist": "Julianna Riolino",
   "title": "Like a Rembrandt b/w Don't Put Me In The Middle",
   "type": "single",
@@ -162,138 +81,219 @@
   "key": "julianna riolino|like a rembrandt b w don t put me in the middle"
  },
  {
-  "artist": "Julianna Riolino",
-  "title": "Echo In The Dust (Deluxe)",
+  "artist": "youbet",
+  "title": "youbet",
   "type": "album",
-  "label": "Moonwhistle",
+  "label": "Hardly Art",
   "current_date": "",
   "date_check": "needed",
-  "key": "julianna riolino|echo in the dust deluxe"
+  "key": "youbet|youbet"
  },
  {
-  "artist": "The Limiñanas",
-  "title": "Live at Beaubourg",
+  "artist": "Two Feet",
+  "title": "Songs for February [EP]",
+  "type": "EP",
+  "label": "477 Records",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "two feet|songs for february ep"
+ },
+ {
+  "artist": "Kula Shaker",
+  "title": "Wormslayer",
+  "type": "album",
+  "label": "Strange Folk",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "kula shaker|wormslayer"
+ },
+ {
+  "artist": "Surfbort",
+  "title": "Reality Star",
+  "type": "album",
+  "label": "TODO",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "surfbort|reality star"
+ },
+ {
+  "artist": "KÁRYYN",
+  "title": "COLLAPSE PHASE",
+  "type": "single",
+  "label": "Mute",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "karyyn|collapse phase"
+ },
+ {
+  "artist": "KÁRYYN",
+  "title": "PHYSICS UNIVERSAL LOVE LANGUAGE (PULL)",
+  "type": "album",
+  "label": "Mute",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "karyyn|physics universal love language pull"
+ },
+ {
+  "artist": "Thomas Dollbaum",
+  "title": "Birds of Paradise",
+  "type": "album",
+  "label": "Dear Life",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "thomas dollbaum|birds of paradise"
+ },
+ {
+  "artist": "TV Star",
+  "title": "Music For Heads",
+  "type": "album",
+  "label": "Father/Daughter",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "tv star|music for heads"
+ },
+ {
+  "artist": "lovetempo",
+  "title": "Never The Same",
+  "type": "single",
+  "label": "Self-released",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "lovetempo|never the same"
+ },
+ {
+  "artist": "Selah Sue & The Gallands",
+  "title": "Movin'",
   "type": "album",
   "label": "Because Music",
   "current_date": "",
   "date_check": "needed",
-  "key": "liminanas|live at beaubourg"
+  "key": "selah sue the gallands|movin"
  },
  {
-  "artist": "Swapmeet",
-  "title": "2 C U",
+  "artist": "lovetempo",
+  "title": "By Your Side",
   "type": "single",
-  "label": "Winspear",
+  "label": "Self-released",
   "current_date": "",
   "date_check": "needed",
-  "key": "swapmeet|2 c u"
+  "key": "lovetempo|by your side"
  },
  {
-  "artist": "Elder Island",
-  "title": "Hello Baby Okay",
+  "artist": "lovetempo",
+  "title": "There Is A Light",
   "type": "album",
   "label": "Self-Released",
   "current_date": "",
   "date_check": "needed",
-  "key": "elder island|hello baby okay"
+  "key": "lovetempo|there is a light"
  },
  {
-  "artist": "The Sheila Divine",
-  "title": "The Middle Ages",
+  "artist": "April + VISTA",
+  "title": "Traditional Noise",
   "type": "album",
-  "label": "Trash Casual",
+  "label": "Third & Hayden",
   "current_date": "",
   "date_check": "needed",
-  "key": "sheila divine|middle ages"
+  "key": "april vista|traditional noise"
  },
  {
-  "artist": "daphne tunes",
-  "title": "Volume D",
+  "artist": "Pigeon",
+  "title": "OUTTANATIONAL",
   "type": "album",
-  "label": "Self-Released",
+  "label": "Memphis Industries",
   "current_date": "",
   "date_check": "needed",
-  "key": "daphne tunes|volume d"
+  "key": "pigeon|outtanational"
  },
  {
-  "artist": "Al Green",
-  "title": "To Love Somebody",
+  "artist": "Scott Fisher",
+  "title": "A Billion Suns",
   "type": "album",
-  "label": "Fat Possum",
+  "label": "1 A.M. Music",
   "current_date": "",
   "date_check": "needed",
-  "key": "al green|to love somebody"
+  "key": "scott fisher|a billion suns"
  },
  {
-  "artist": "L'Eclair",
-  "title": "Lagniappe Session",
-  "type": "album",
-  "label": "Innovative Leisure",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "l eclair|lagniappe session"
- },
- {
-  "artist": "Lucy Dreams",
-  "title": "VVVVV",
-  "type": "album",
-  "label": "SonicWaveArtPop",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "lucy dreams|vvvvv"
- },
- {
-  "artist": "Danny L Harle",
-  "title": "Raft In The Sea (feat. Julia Michaels)",
+  "artist": "Massive Attack",
+  "title": "Boots On The Ground (feat. Tom Waits)",
   "type": "single",
-  "label": "XL Recordings",
+  "label": "Play It Again Sam",
   "current_date": "",
   "date_check": "needed",
-  "key": "danny l harle|raft in the sea feat julia michaels"
+  "key": "massive attack|boots on the ground feat tom waits"
  },
  {
-  "artist": "Danny L Harle",
-  "title": "Cerulean",
+  "artist": "Dina Ögon",
+  "title": "Människobarn",
   "type": "album",
-  "label": "XL Recordings",
+  "label": "Playground",
   "current_date": "",
   "date_check": "needed",
-  "key": "danny l harle|cerulean"
+  "key": "dina ogon|manniskobarn"
  },
  {
-  "artist": "Clarion",
-  "title": "Blue Fairy [EP]",
-  "type": "EP",
-  "label": "Broke",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "clarion|blue fairy ep"
- },
- {
-  "artist": "Arielle Soucy",
-  "title": "Passages",
+  "artist": "Paula Kelley",
+  "title": "Blinking as the Starlight Burns Out",
   "type": "album",
-  "label": "Bonbonbon",
+  "label": "Wharf Cat",
   "current_date": "",
   "date_check": "needed",
-  "key": "arielle soucy|passages"
+  "key": "paula kelley|blinking as the starlight burns out"
  },
  {
-  "artist": "Planet Bones",
-  "title": "SAMSARA",
+  "artist": "Jane Inc.",
+  "title": "A RUPTURE A CANYON A BIRTH",
   "type": "album",
-  "label": "incurable",
+  "label": "Telephone Explosion",
   "current_date": "",
   "date_check": "needed",
-  "key": "planet bones|samsara"
+  "key": "jane inc|a rupture a canyon a birth"
  },
  {
-  "artist": "Emma Louise",
-  "title": "Sunshine For Happiness",
+  "artist": "cootie catcher",
+  "title": "Something We All Got",
   "type": "album",
-  "label": "Future Classic",
+  "label": "Carpark",
   "current_date": "",
   "date_check": "needed",
-  "key": "emma louise|sunshine for happiness"
+  "key": "cootie catcher|something we all got"
+ },
+ {
+  "artist": "LuxJury",
+  "title": "Giving Up",
+  "type": "album",
+  "label": "Bella Union",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "luxjury|giving up"
+ },
+ {
+  "artist": "Laure Briard",
+  "title": "Voyage Mental",
+  "type": "album",
+  "label": "Midnight Special",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "laure briard|voyage mental"
+ },
+ {
+  "artist": "EXEK",
+  "title": "Prove The Mountain Move",
+  "type": "album",
+  "label": "DFA",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "exek|prove the mountain move"
+ },
+ {
+  "artist": "Peaches",
+  "title": "No Lube So Rude",
+  "type": "single",
+  "label": "Kill Rock Stars",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "peaches|no lube so rude"
  }
 ]

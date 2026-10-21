@@ -2268,5 +2268,340 @@
   "label": "Birthday Cake",
   "confirmed": true,
   "checked_on": "2026-10-20"
+ },
+ "traitrs|possessor": {
+  "date": "2026-03-13",
+  "precision": "day",
+  "sources": [
+   "https://traitrs.bandcamp.com/album/possessor",
+   "https://www.side-line.com/traitrs-possessor-album-2026-tour/"
+  ],
+  "status": "released",
+  "note": "Bandcamp and Side-Line agree on Mar. 13, 2026 (Furniture Records; Icy Cold EU edition same date).",
+  "label": "",
+  "confirmed": true,
+  "checked_on": "2026-10-21"
+ },
+ "blondshell|heart has to work so hard": {
+  "date": "2026-05-18",
+  "precision": "day",
+  "sources": [
+   "https://blondshell.bandcamp.com/album/heart-has-to-work-so-hard",
+   "https://wruv.wordpress.com/2026/05/26/blondshell-heart-has-to-work-so-hard-single/"
+  ],
+  "status": "released",
+  "note": "Bandcamp gives May 18, 2026. Press (Consequence, WRUV) is dated May 2026 with no day. One day-precision source.",
+  "label": "",
+  "confirmed": false,
+  "checked_on": "2026-10-21"
+ },
+ "bellows|que bello": {
+  "date": "2026-06-12",
+  "precision": "day",
+  "sources": [
+   "https://bellows.bandcamp.com/album/que-bello",
+   "https://rosyoverdrive.com/2026/06/11/pressing-concerns-bellows-the-cowboys-horse-lords-yea-ming-and-the-rumours/"
+  ],
+  "status": "released",
+  "note": "Bandcamp gives June 12, 2026 (bloody knuckles double album). Rosy Overdrive post is dated June 11. One day-precision source.",
+  "label": "",
+  "confirmed": false,
+  "checked_on": "2026-10-21"
+ },
+ "nina garbus|secrets of the fifth angel": {
+  "date": "2026-02-27",
+  "precision": "day",
+  "sources": [
+   "https://candlepinrecords.bandcamp.com/album/secrets-of-the-fifth-angel",
+   "https://wruv.wordpress.com/2026/02/23/nina-garbus-secrets-of-the-fifith-angel/"
+  ],
+  "status": "released",
+  "note": "Candlepin Bandcamp gives Feb. 27, 2026. WRUV review dated Feb. 23. One day-precision source.",
+  "label": "",
+  "confirmed": false,
+  "checked_on": "2026-10-21"
+ },
+ "operelly|flutters away": {
+  "date": "2026-03-17",
+  "precision": "day",
+  "sources": [
+   "https://operelly.bandcamp.com/album/flutters-away",
+   "https://open.spotify.com/album/5grjXewIYwJzeegUrLSsyx"
+  ],
+  "status": "released",
+  "note": "Bandcamp (via search result) gives Mar. 17, 2026. Release is a 5-track EP, not an album. Spotify confirms 2026 only.",
+  "label": "",
+  "confirmed": false,
+  "checked_on": "2026-10-21"
+ },
+ "styrofoam winos|any river": {
+  "date": "2026-06-19",
+  "precision": "day",
+  "sources": [
+   "https://styrofoamwinos.bandcamp.com/album/any-river",
+   "https://klofmag.com/2026/06/styrofoam-winos-any-river/"
+  ],
+  "status": "released",
+  "note": "Bandcamp gives June 19, 2026 (Dear Life). KLOF Mag post is June 2026, no day. One day-precision source.",
+  "label": "",
+  "confirmed": false,
+  "checked_on": "2026-10-21"
+ },
+ "triples|every good story": {
+  "date": "2026-01-30",
+  "precision": "day",
+  "sources": [
+   "https://triplesband.bandcamp.com/album/every-good-story-ep",
+   "https://www.thelineofbestfit.com/news/triples-sign-to-bleak-enterprise-and-announce-debut-ep-every-good-story"
+  ],
+  "status": "released",
+  "note": "Bandcamp gives Jan. 30, 2026. This is an EP. Line of Best Fit announcement checked for title only, no day read.",
+  "label": "",
+  "confirmed": false,
+  "checked_on": "2026-10-21"
+ },
+ "they might be giants|eyeball ep": {
+  "date": "2026-01-15",
+  "precision": "day",
+  "sources": [
+   "https://www.brooklynvegan.com/they-might-be-giants-release-eyeball-ep-announce-2026-spring-tour/",
+   "https://consequence.net/2026/01/they-might-be-giants-eyeball-ep-2026-tour/",
+   "https://en.wikipedia.org/wiki/Eyeball_(EP)",
+   "https://tmbg.bandcamp.com/album/eyeball-ep"
+  ],
+  "status": "released",
+  "note": "Press and Wikipedia snippets give Jan. 15, 2026. Band Bandcamp page lists Apr. 14, 2026, likely the album date or a later listing. Not confirmed until the conflict is read.",
+  "label": "",
+  "confirmed": false,
+  "checked_on": "2026-10-21"
+ },
+ "they might be giants|world is to dig": {
+  "date": "2026-04-14",
+  "precision": "day",
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_World_Is_to_Dig",
+   "https://tmbg.bandcamp.com/album/the-world-is-to-dig",
+   "https://tmbw.net/wiki/The_World_Is_To_Dig"
+  ],
+  "status": "released",
+  "note": "Wikipedia and Bandcamp agree on Apr. 14, 2026 (Idlewild). Download came Apr. 10 via the TMBG shop per TMBW.",
+  "label": "",
+  "confirmed": true,
+  "checked_on": "2026-10-21"
+ },
+ "julianna riolino|echo in the dust deluxe": {
+  "date": "2026-02-27",
+  "precision": "day",
+  "sources": [
+   "https://juliannariolinosings.bandcamp.com/album/echo-in-the-dust-deluxe",
+   "https://www.killbeatmusic.com/media-releases/2026/1/15/julianna-riolino-announces-deluxe-lp-shares-new-single"
+  ],
+  "status": "released",
+  "note": "Search summary of the Bandcamp and Killbeat pages gives Feb. 27, 2026. Killbeat announcement Jan. 15. Day not read from page text.",
+  "label": "",
+  "confirmed": false,
+  "checked_on": "2026-10-21"
+ },
+ "julianna riolino|like a rembrandt b w don t put me in the middle": {
+  "date": "",
+  "precision": "none",
+  "sources": [
+   "https://northerntransmissions.com/dont-put-me-in-the-middle-by-julianna-riolino/"
+  ],
+  "status": "single, date not found",
+  "note": "Single date not found. Deluxe album came Feb. 27, 2026.",
+  "label": "",
+  "confirmed": false,
+  "checked_on": "2026-10-21"
+ },
+ "liminanas|live at beaubourg": {
+  "date": "2026-06-19",
+  "precision": "day",
+  "sources": [
+   "https://www.allmusic.com/album/live-at-beaubourg-mr0007018783",
+   "https://theliminanas.bandcamp.com/album/live-at-beaubourg",
+   "https://www.noise11.com/news/the-liminanas-first-north-american-tour-live-at-beaubourg-20260409"
+  ],
+  "status": "released",
+  "note": "AllMusic and press give June 19, 2026 (Because Music).",
+  "label": "",
+  "confirmed": true,
+  "checked_on": "2026-10-21"
+ },
+ "swapmeet|2 c u": {
+  "date": "2026-05-19",
+  "precision": "day",
+  "sources": [
+   "https://femmusic.com/2026/05/19/swapmeet-2-c-u/",
+   "https://thedailymusicreport.com/music-news-releases/swapmeet-2-c-u-05192026/"
+  ],
+  "status": "single, press date",
+  "note": "Press posts are dated May 19, 2026. Release day not stated on a label page, so treat as verify. Album Mount Zero is July 17 on Winspear.",
+  "label": "",
+  "confirmed": false,
+  "checked_on": "2026-10-21"
+ },
+ "elder island|hello baby okay": {
+  "date": "2026-05-08",
+  "precision": "day",
+  "sources": [
+   "https://elderisland.bandcamp.com/album/hello-baby-okay",
+   "https://readdork.com/album/hello-baby-okay-elder-island",
+   "https://rateyourmusic.com/release/album/elder-island/hello-baby-okay.p/"
+  ],
+  "status": "released",
+  "note": "Bandcamp, Dork and Rate Your Music agree on May 8, 2026.",
+  "label": "",
+  "confirmed": true,
+  "checked_on": "2026-10-21"
+ },
+ "sheila divine|middle ages": {
+  "date": "2026-05-22",
+  "precision": "day",
+  "sources": [
+   "https://thesheiladivine.bandcamp.com/album/the-middle-ages",
+   "https://en.wikipedia.org/wiki/The_Sheila_Divine",
+   "https://www.buzz-music.com/post/the-sheila-divine-share-new-single-i-climbed-inside-a-whale-new-lp-the-middle-ages-out-may-22"
+  ],
+  "status": "released",
+  "note": "Bandcamp, Wikipedia and pre-release press agree on May 22, 2026 (Trash Casual).",
+  "label": "",
+  "confirmed": true,
+  "checked_on": "2026-10-21"
+ },
+ "daphne tunes|volume d": {
+  "date": "2026-02-06",
+  "precision": "day",
+  "sources": [
+   "https://daphne.bandcamp.com/album/volume-d",
+   "https://tigerbombpromo.com/daphne-tunes"
+  ],
+  "status": "released",
+  "note": "Bandcamp and Tiger Bomb Promo agree on Feb. 6, 2026 digital. Vinyl LP is a separate presale shipping Nov. 6, 2026.",
+  "label": "",
+  "confirmed": true,
+  "checked_on": "2026-10-21"
+ },
+ "al green|to love somebody": {
+  "date": "2026-01-16",
+  "precision": "day",
+  "sources": [
+   "https://www.allmusic.com/album/release/to-love-somebody-mr0006990218",
+   "https://music.apple.com/us/album/to-love-somebody-ep/1861546518",
+   "https://www.qobuz.com/se-en/album/to-love-somebody-al-green/ftf812dig8re2"
+  ],
+  "status": "released",
+  "note": "AllMusic, Apple Music and Qobuz agree on Jan. 16, 2026 (Fat Possum, digital). It is a 4-track EP.",
+  "label": "",
+  "confirmed": true,
+  "checked_on": "2026-10-21"
+ },
+ "l eclair|lagniappe session": {
+  "date": "2026-02-06",
+  "precision": "day",
+  "sources": [
+   "https://leclairband.bandcamp.com/album/lagniappe-sessions",
+   "https://aquariumdrunkard.com/2025/08/11/the-lagniappe-sessions-leclair/"
+  ],
+  "status": "released",
+  "note": "Bandcamp gives Feb. 6, 2026 for the 3-song cover EP \"Lagniappe Sessions\". No source ties it to Innovative Leisure, and an Aquarium Drunkard post is dated Aug. 2025. Verify label and edition.",
+  "label": "",
+  "confirmed": false,
+  "checked_on": "2026-10-21"
+ },
+ "lucy dreams|vvvvv": {
+  "date": "2026-02-06",
+  "precision": "day",
+  "sources": [
+   "https://lucydreamsdp.bandcamp.com/album/vvvvv",
+   "https://music.apple.com/us/album/vvvvv/1867455525"
+  ],
+  "status": "released",
+  "note": "Bandcamp and Apple Music agree on Feb. 6, 2026. An eBay Japan CD lists 2025-07-17, likely a different edition.",
+  "label": "",
+  "confirmed": true,
+  "checked_on": "2026-10-21"
+ },
+ "danny l harle|cerulean": {
+  "date": "2026-02-13",
+  "precision": "day",
+  "sources": [
+   "https://dannylharle.bandcamp.com/album/cerulean",
+   "https://www.amazon.com/clp/B0G1K49PZH",
+   "https://www.plaidroomrecords.com/products/pre-order-danny-l-harle-cerulean-release-date-02-13-2026"
+  ],
+  "status": "released",
+  "note": "Bandcamp, Amazon and Plaid Room agree on Feb. 13, 2026 (XL Recordings).",
+  "label": "",
+  "confirmed": true,
+  "checked_on": "2026-10-21"
+ },
+ "danny l harle|raft in the sea feat julia michaels": {
+  "date": "2026-01-14",
+  "precision": "day",
+  "sources": [
+   "https://readdork.com/news/danny-l-harle-new-single-raft-in-the-sea/",
+   "https://stereogum.com/2485358/danny-l-harle-raft-in-the-sea-feat-julia-michaels/music",
+   "https://dannylharle.bandcamp.com/track/raft-in-the-sea-feat-julia-michaels"
+  ],
+  "status": "single, press date",
+  "note": "Electronica Live (via search) gives Jan. 14, 2026 as the single date and Stereogum posted Jan. 14. Bandcamp track page shows Feb. 13, 2026 (album Cerulean). Sasha remixes Aug. 24, 2026. Verify day on a label page.",
+  "label": "",
+  "confirmed": false,
+  "checked_on": "2026-10-21"
+ },
+ "clarion|blue fairy ep": {
+  "date": "2026-03-27",
+  "precision": "day",
+  "sources": [
+   "https://www.echobase.com/projects/blue-fairy---clarion",
+   "https://www.melodicmag.com/news/clarion-announces-blue-fairy-ep-alongside-release-of-cathartic-title-track/",
+   "https://music.apple.com/us/album/blue-fairy-ep/1879891133"
+  ],
+  "status": "released",
+  "note": "Echo Base and Melodic Magazine agree on Mar. 27, 2026 (Broke Records, 6-track EP). Title track single came Feb. 19, 2026.",
+  "label": "",
+  "confirmed": true,
+  "checked_on": "2026-10-21"
+ },
+ "arielle soucy|passages": {
+  "date": "2026-03-27",
+  "precision": "day",
+  "sources": [
+   "https://ariellesoucy.bandcamp.com/album/passages",
+   "https://www.ledevoir.com/culture/musique/965100/passages-quete-lumiere-arielle-soucy",
+   "https://www.newfeeling.ca/arielle-soucy-passages-profile/"
+  ],
+  "status": "released",
+  "note": "Bandcamp, Le Devoir and New Feeling agree on Mar. 27, 2026 (Bonbonbon).",
+  "label": "",
+  "confirmed": true,
+  "checked_on": "2026-10-21"
+ },
+ "planet bones|samsara": {
+  "date": "2025-10-03",
+  "precision": "day",
+  "sources": [
+   "https://planetbones.bandcamp.com/album/samsara",
+   "https://planetbones.com/2025/09/08/new-album-samsara-out-10-3-25/"
+  ],
+  "status": "released",
+  "note": "Bandcamp and the artist site agree on Oct. 3, 2025 (incurable). Not a 2026 release.",
+  "label": "",
+  "confirmed": true,
+  "checked_on": "2026-10-21"
+ },
+ "emma louise|sunshine for happiness": {
+  "date": "2026-05-01",
+  "precision": "day",
+  "sources": [
+   "https://futureclassic.bandcamp.com/album/sunshine-for-happiness",
+   "https://music.apple.com/sb/album/sunshine-for-happiness/1869391408"
+  ],
+  "status": "released",
+  "note": "Bandcamp and Apple Music agree on May 1, 2026 (Future Classic).",
+  "label": "",
+  "confirmed": true,
+  "checked_on": "2026-10-21"
  }
 }
