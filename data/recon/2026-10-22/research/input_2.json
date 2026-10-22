@@ -1,0 +1,156 @@
+[
+ {
+  "n": 15,
+  "videoId": "eF4RiUfPRNs",
+  "artist": "Loco Gringos",
+  "track": "Ain't No Corndogs",
+  "album": "Loco Gringos",
+  "label": "Existential Vacuum",
+  "released_in_plan": "1992 (posthumous album; reissued 2006 and 2020)",
+  "type": "album track",
+  "known_notes": "Stace added this to the Air Order (Oct. 22). Dallas punk band. Their only album came out after singer Tom Foote died in 1990. In the library. No lyrics posted anywhere checked: listen first."
+ },
+ {
+  "n": 16,
+  "videoId": "HOWV7yxxp8g",
+  "artist": "Ty Segall",
+  "track": "Separation",
+  "album": "Chrome",
+  "label": "Drag City",
+  "released_in_plan": "2026-08-28",
+  "type": "album track",
+  "known_notes": "Reviewed rotation, week 2 (three stars: fast, snared-out punk rocker). Pairs with the Texas set. Play Cowboys aired Oct. 1 and Oct. 8; Black Paint is in cool-off."
+ },
+ {
+  "n": 17,
+  "videoId": "aDKGnFeLnF4",
+  "artist": "Viagra Boys",
+  "track": "Medicine for Horses",
+  "album": "viagr aboys",
+  "label": "Year0001",
+  "released_in_plan": "2025 (verify)",
+  "type": "album track",
+  "known_notes": "Texas arc pairing named in config/show_focus.json (Ty Segall, Thee Oh Sees, Viagra Boys)."
+ },
+ {
+  "n": 18,
+  "videoId": "wOkBZA51Z9o",
+  "artist": "Fontaines D.C.",
+  "track": "Happy For You",
+  "album": "Dopamine Chamber",
+  "label": "Xl Recordings",
+  "released_in_plan": "2026-10-16",
+  "type": "album track",
+  "known_notes": "Requested by DJ Stace (Oct. 16). She cut the other three Dopamine Chamber tracks from the Air Order on Oct. 22; this one stays. Debuted live at Leeds Festival Aug. 29."
+ },
+ {
+  "n": 19,
+  "videoId": "vEL9U3Z1cvo",
+  "artist": "Palace",
+  "track": "Denny's",
+  "album": "Ox",
+  "label": "Awal",
+  "released_in_plan": "2026-09-18",
+  "type": "album track",
+  "known_notes": "Reviewed rotation, week 2: five stars. Made My Bed aired Oct. 1."
+ },
+ {
+  "n": 20,
+  "videoId": "lpl4quk0T_g",
+  "artist": "Sluice",
+  "track": "Zillow",
+  "album": "Companion",
+  "label": "Mtn Laurel Recording Co.",
+  "released_in_plan": "2026-03-27",
+  "type": "album track",
+  "known_notes": "Reviewed rotation, week 2: five stars. Beadie aired Oct. 15, so a different track."
+ },
+ {
+  "n": 21,
+  "videoId": "cD_Av64P_qU",
+  "artist": "This Is Lorelei",
+  "track": "Don't You Cry in Lonesomeness",
+  "album": "The Singer in My Band",
+  "label": "Matador Records",
+  "released_in_plan": "2026-09-11",
+  "type": "album track",
+  "known_notes": "Reviewed rotation, week 2: four stars. Oh No Now My (Oct. 8) and Hey Sarah (Oct. 1) already aired; Billy Came Back is in cool-off."
+ },
+ {
+  "n": 22,
+  "videoId": "5X718hNafSM",
+  "artist": "This Is Lorelei & MJ Lenderman",
+  "track": "Dancing in the Club (MJ Lenderman Version) (Radio Edit)",
+  "album": "Box for Buddy, Box for Star (Deluxe)",
+  "label": "Double Double Whammy",
+  "released_in_plan": "2025-04-25",
+  "type": "radio edit",
+  "known_notes": "Stace added this to the Air Order (Oct. 22). Lenderman's cover of Lorelei's own song, from the 2025 deluxe edition of Box for Buddy, Box for Star. Second Lorelei track tonight (the album track comes just before it). The original has fuck x2 (Verse 4); YTM lists this as the Radio Edit: confirm the edit by ear."
+ },
+ {
+  "n": 23,
+  "videoId": "2fTel1iqDiQ",
+  "artist": "Dread Spectre Council",
+  "track": "Hooves & Cloves",
+  "album": "Thetans",
+  "label": "Handmade Records",
+  "released_in_plan": "2026-03-29",
+  "type": "album track",
+  "known_notes": "Reviewed rotation, week 2: five stars. Hex's Up aired Oct. 8."
+ },
+ {
+  "n": 24,
+  "videoId": "gKkWSYQaxVo",
+  "artist": "Tricky",
+  "track": "Because I Don't Know",
+  "album": "Different When It's Silent",
+  "label": "False Idols",
+  "released_in_plan": "2026-07-17",
+  "type": "album track",
+  "known_notes": "Reviewed rotation, week 2: five stars. 'The hit on the record,' per her review."
+ },
+ {
+  "n": 25,
+  "videoId": "ug3RfquyZl0",
+  "artist": "The Damned",
+  "track": "New Rose",
+  "album": "Damned Damned Damned",
+  "label": "Frontier",
+  "released_in_plan": "1976-10-22 (single, Stiff Records)",
+  "type": "single",
+  "known_notes": "Triple Shot 1 of 3. Released Oct. 22, 1976: 50 years ago today. First UK punk single, produced by Nick Lowe."
+ },
+ {
+  "n": 26,
+  "videoId": "7Sm385a-tqc",
+  "artist": "The Damned",
+  "track": "Nasty",
+  "album": "Punk Generation: Best Of The Damned - Oddities & Versions",
+  "label": "Damned",
+  "released_in_plan": "1984-05-28 (B-side of Thanks for the Night)",
+  "type": "compilation track",
+  "known_notes": "Stace added this to the Triple Shot on the Air Order (seen Oct. 20). The set now has four tracks: confirm it is still a Triple Shot. Label from Wikipedia (band's own Damned label), not in Zookeeper. Recorded 1984 for The Young Ones; B-side of Thanks for the Night."
+ },
+ {
+  "n": 27,
+  "videoId": "gXKDtkCzSCw",
+  "artist": "The Damned",
+  "track": "Neat Neat Neat",
+  "album": "Damned Damned Damned",
+  "label": "Frontier",
+  "released_in_plan": "1977",
+  "type": "album track",
+  "known_notes": "Triple Shot 2 of 3. From the debut LP, first UK punk album."
+ },
+ {
+  "n": 28,
+  "videoId": "F5fHfGZENbQ",
+  "artist": "The Damned",
+  "track": "Love Song",
+  "album": "Machine Gun Etiquette",
+  "label": "Emi Records",
+  "released_in_plan": "1979",
+  "type": "album track",
+  "known_notes": "Triple Shot 3 of 3. 1979 turn toward power pop; shows range."
+ }
+]

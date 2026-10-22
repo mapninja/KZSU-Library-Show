@@ -39,3 +39,7 @@
 ## 2026-10-22 Air Order update (Oct. 22 show)
 - Stace cut 3 Fontaines D.C. tracks and Pulp The Trees; added Nervebreakers, Loco Gringos, This Is Lorelei and MJ Lenderman inline plus six at the end (Royal Blood, Westside Cowboy, Bauhaus, Stef Chura, Consolidated, Dumb). Last six placed in Sets 1, 7, 8 and 9.
 - New final Notes Sheet (55 rows), Final Show Script docx and pdf (16 pages), Zookeeper CSV (55 tracks, 8 mic breaks). Old files moved to _to_delete.
+
+## 2026-10-22 Final script format revision (request 3)
+- Final Show Script docx and pdf rebuilt (18 pages): provenance notes column replaced with "Track history"; Released column shows bold date with year plus sub-line (single, album, reissue); booked Bay Area shows highlighted yellow per track ("LIVE SOON") and a booked-shows table after Set 6 (foopee.com, read Oct. 22). Dates marked (verify) rest on one source. Old files moved to _to_delete.
+- Notes Sheet and Zookeeper CSV unchanged.

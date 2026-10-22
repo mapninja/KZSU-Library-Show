@@ -245,7 +245,7 @@
    "deployed": "2026-10-21T20:15Z",
    "working": "Working/final_show_script_2026-10-22.md (data record); Word and PDF at /KZSU/ top level and repo outputs/recon/2026-10-22/",
    "retired": [],
-   "note": "Landscape tables, 16 pages, 55 tracks, 3:12:15. Rebuilt Oct. 22 for Stace's Air Order edits; Oct. 21 version moved to _to_delete."
+   "note": "Landscape tables, 18 pages, 55 tracks, 3:12:15. Rebuilt Oct. 22 for Stace's Air Order edits, then revised 08:40 (Track history column, bold release dates with years, LIVE show highlights, booked-shows table); prior versions moved to _to_delete."
   },
   "zookeeper_csv_2026-10-22_final": {
    "id": null,

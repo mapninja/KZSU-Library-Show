@@ -1,0 +1,241 @@
+[
+  {
+    "n": 15,
+    "artist": "Loco Gringos",
+    "track": "Ain't No Corndogs",
+    "release_date": "1992",
+    "release_kind": "album",
+    "parent_release": "Loco Gringos (self-titled), 1992; CD reissue with live bonus tracks, 2006; Bandcamp reissue, 2020",
+    "info": "Loco Gringos were a Dallas punk band that ended when singer Tom Foote died on June 16, 1990. This track is on their only album, a self-titled set issued after his death in 1992. Their only release while active was a 1987 single, \"Nurture My Pig,\" which the Reverend Horton Heat later covered.",
+    "sources": [
+      "https://www.allmusic.com/artist/loco-gringos-mn0001209500/biography",
+      "https://www.dallasobserver.com/music/echoes-and-reverberations-loco-gringos-vivir-para-siempre-en-nuestros-corazones-7053078/",
+      "https://locogringosdallas.bandcamp.com/album/loco-gringos"
+    ],
+    "confidence": "medium",
+    "flags": "Exact day not found, year only. Label 'Existential Vacuum' from the plan could not be verified in any source seen. Track appears on the album as track 8 per Bandcamp. A YouTube upload labels the song 1987, so the recording may be older than the album."
+  },
+  {
+    "n": 16,
+    "artist": "Ty Segall",
+    "track": "Separation",
+    "release_date": "Aug. 28, 2026",
+    "release_kind": "album",
+    "parent_release": "",
+    "info": "From Chrome, Ty Segall's 18th solo studio album, on Drag City. He recorded it with his touring band (Ben Boye, Emmett Kelly, Mikal Cronin and Evan Burrows) and Bitchin Bajas' Cooper Crain, tracking it live. \"Separation\" is track 8 of 9 and runs 2:51. The Love Fuzzz EP came out the same day.",
+    "sources": [
+      "https://www.dragcity.com/products/chrome",
+      "https://tysegall.bandcamp.com/album/chrome",
+      "https://tysegall.bandcamp.com/track/separation",
+      "https://www.pastemagazine.com/music/ty-segall/ty-segall-chrome-review",
+      "https://relix.com/news/detail/ty-segall-previews-new-album-chrome-and-new-ep-love-fuzzz-with-black-paint"
+    ],
+    "confidence": "high",
+    "flags": "Bandcamp description numbers Separation as track 9 while Drag City lists it as track 8; track number left out of date line."
+  },
+  {
+    "n": 17,
+    "artist": "Viagra Boys",
+    "track": "Medicine for Horses",
+    "release_date": "Apr. 25, 2025",
+    "release_kind": "album",
+    "parent_release": "",
+    "info": "From viagr aboys, the fourth album by the Swedish band Viagra Boys, produced by longtime collaborator Pelle Gunnerfeldt. Lyrics are credited to singer Sebastian Murphy and Gunnerfeldt. It is track 6 and runs 2:50. The album came out on the band's own Shrimptech Enterprises and was Rough Trade's 2025 album of the year.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Viagr_Aboys",
+      "https://www.albumoftheyear.org/song/521336-medicine-for-horses/",
+      "https://music.apple.com/us/song/medicine-for-horses/1790124981",
+      "https://www.clashmusic.com/news/rough-trade-shops-album-of-the-year-2025-viagra-boys-take-the-crown/"
+    ],
+    "confidence": "high",
+    "flags": "Plan lists label as Year0001 and date as '2025 (verify)'. Wikipedia, Apple Music and Shazam give Shrimptech Enterprises (the band's own label, after leaving Year0001). Beatsource shows 2026-01-09, likely a later DJ-pool listing. Not released as a separate single."
+  },
+  {
+    "n": 18,
+    "artist": "Fontaines D.C.",
+    "track": "Happy For You",
+    "release_date": "Oct. 16, 2026",
+    "release_kind": "album",
+    "parent_release": "",
+    "info": "From Dopamine Chamber, the fifth album by the Irish band Fontaines D.C., on XL Recordings and produced by James Ford, who also produced 2024's Romance. \"Happy For You\" is track 4 and was first played live at Leeds Festival on Aug. 29. Rosalia guests elsewhere on the album, on \"Where Is Gone?\"",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Dopamine_Chamber",
+      "https://www.xlrecordings.com/releases/dopamine-chamber",
+      "https://fontainesdc.bandcamp.com/track/happy-for-you",
+      "https://www.npr.org/2026/10/16/nx-s1-6001842/on-dopamine-chamber-irish-band-fontaines-d-c-finds-beauty-in-chaos"
+    ],
+    "confidence": "high",
+    "flags": ""
+  },
+  {
+    "n": 19,
+    "artist": "Palace",
+    "track": "Denny's",
+    "release_date": "Sept. 18, 2026",
+    "release_kind": "album",
+    "parent_release": "",
+    "info": "From Ox, the fifth album by the London band Palace, released on Palace Presents/AWAL and produced by longtime collaborator Adam Jaffrey. The songs were written while all three members became fathers for the first time. \"Denny's\" is track 4 of 10 and runs about 4:50.",
+    "sources": [
+      "https://www.silentradio.co.uk/09/22/album-review-palace-ox/",
+      "https://www.broadwayworld.com/bwwmusic/article/PALACE-Release-Fifth-Album-OX-Launch-30-Date-North-American-Tour-20260918",
+      "https://palace.bandcamp.com/album/ox",
+      "https://upcomingvinyl.com/index.php/record/palace-ox"
+    ],
+    "confidence": "high",
+    "flags": "Running time 4:49 vs 4:50 across retailers (not used in date)."
+  },
+  {
+    "n": 20,
+    "artist": "Sluice",
+    "track": "Zillow",
+    "release_date": "Feb. 23, 2026",
+    "release_kind": "single",
+    "parent_release": "Companion (Mtn Laurel Recording Co.), March 27, 2026",
+    "info": "Released as a single ahead of Companion, the third album by the Durham, North Carolina, band Sluice. Justin Morris wrote the songs, and he has said a carpentry job inspired this one. Credits note it borrows elements from the Fust song \"Battering Ram.\" It runs 8 to 9 minutes.",
+    "sources": [
+      "https://www.thelineofbestfit.com/news/sluice-new-single-zillow",
+      "https://magnetmagazine.com/2026/02/23/magnet-exclusive-premiere-of-sluices-zillow/",
+      "https://sluice.bandcamp.com/track/zillow",
+      "https://sluice.bandcamp.com/album/companion"
+    ],
+    "confidence": "high",
+    "flags": "Sources list Zillow as track 9 or 10 of Companion; track number not used. Fust song title appears as 'Battering Ram' in the credits."
+  },
+  {
+    "n": 21,
+    "artist": "This Is Lorelei",
+    "track": "Don't You Cry in Lonesomeness",
+    "release_date": "Sept. 11, 2026",
+    "release_kind": "album",
+    "parent_release": "",
+    "info": "The closing track, number 11, of The Singer in My Band, the third studio album by Nate Amos as This Is Lorelei and his first for Matador. Amos produced, engineered and played everything on the album, with banjo from his father, Bob Amos. The album's singles were \"Billy Came Back,\" \"Oh No Now My\" and \"The Kid With the Crown.\"",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Singer_in_My_Band",
+      "https://matadorrecords.com/blogs/news/coming-september-11-this-is-lorelei-the-singer-in-my-band",
+      "https://thisislorelei.bandcamp.com/album/the-singer-in-my-band",
+      "https://americanahighways.org/2026/09/09/review-this-is-lorelei-the-singer-in-my-band/"
+    ],
+    "confidence": "high",
+    "flags": ""
+  },
+  {
+    "n": 22,
+    "artist": "This Is Lorelei & MJ Lenderman",
+    "track": "Dancing in the Club (MJ Lenderman Version) (Radio Edit)",
+    "release_date": "Mar. 25, 2025",
+    "release_kind": "single",
+    "parent_release": "Box for Buddy, Box for Star (Deluxe) (Double Double Whammy), April 25, 2025",
+    "info": "MJ Lenderman sings lead on this new version of \"Dancing in the Club,\" a song by Nate Amos of This Is Lorelei from the 2024 album Box for Buddy, Box for Star. Lenderman first played it live in Atlanta in January 2025. Amos plays drums and piano, and Brad Cook produced. It is track 13 on the deluxe edition.",
+    "sources": [
+      "https://www.brooklynvegan.com/mj-lenderman-this-is-lorelei-team-for-new-version-of-dancing-in-the-club/",
+      "https://stereogum.com/2301565/mj-lenderman-dancing-in-the-club-this-is-lorelei-cover/music",
+      "https://www.rollingstone.com/music/music-news/mj-lenderman-covers-this-is-lorelei-dancing-in-the-club-1235302937/",
+      "https://swimintothesound.com/swim-selects/2025/3/25/this-is-lorelei-dancing-in-the-club-mj-lenderman-version",
+      "https://thisislorelei.bandcamp.com/album/box-for-buddy-box-for-star-deluxe"
+    ],
+    "confidence": "medium",
+    "flags": "Single date: Swim Into The Sound and others say Mar. 25, 2025, a YouTube upload shows Mar. 24. Deluxe album date Apr. 25, 2025 from one search summary of Double Double Whammy; a Super Deluxe edition (Apr. 17, 2026) also includes this track. The 'Radio Edit' label is from YouTube Music; no source seen describes a separate edit, so the date is for the Lenderman version."
+  },
+  {
+    "n": 23,
+    "artist": "Dread Spectre Council",
+    "track": "Hooves & Cloves",
+    "release_date": "2025",
+    "release_kind": "single",
+    "parent_release": "Thetans (Handmade Records), March 2026",
+    "info": "Dread Spectre Council is the solo project of Kenneth Amundsen, who is also linked to Izakaya Heartbeat, Mindy Misty, Le Corbeau and Go-Go Gorilla. This was one of several singles released in 2025 ahead of the project's debut album, Thetans, on the Oslo label Handmade Records.",
+    "sources": [
+      "https://glidemagazine.com/316196/listen-dread-spectre-council-powers-through-different-moods-on-explosive-hooves-cloves/",
+      "https://lastdaydeaf.com/listening-now-dread-spectre-council-hooves-cloves/",
+      "https://open.spotify.com/album/5FYp0h2M0w9oJtaQ6EXsCf",
+      "https://www.amazon.com/Thetans-Vinyl-Dread-Spectre-Council/dp/B0GHQ2RMSD"
+    ],
+    "confidence": "low",
+    "flags": "Exact single date not found. Covered by Last Day Deaf on July 17, 2025 and Glide on Aug. 13, 2025; a blog playlist from May 2025 may list it. Not confirmed that the single is on Thetans (assumed from plan). Thetans date conflicts: Amazon CD Mar. 22, Amazon LP Mar. 29, Spotify metadata Mar. 27, 2026."
+  },
+  {
+    "n": 24,
+    "artist": "Tricky",
+    "track": "Because I Don't Know",
+    "release_date": "May 19, 2026",
+    "release_kind": "single",
+    "parent_release": "Different When It's Silent (False Idols), July 17, 2026",
+    "info": "Released as the second single from Different When It's Silent, Tricky's 15th studio album and his first full-length under his own name in six years. Bristol singer Mitch Sanders is featured, and Tricky produced the track. The first single was \"Out of Place,\" with Marta. The album is on Tricky's own False Idols label.",
+    "sources": [
+      "https://www.thelineofbestfit.com/news/tricky-joins-forces-with-mitch-sanders-on-new-single-because-i-dont-know",
+      "https://music.mxdwn.com/2026/05/19/news/tricky-teams-up-with-mitch-sanders-for-collaborative-new-single-because-i-dont-know/",
+      "https://tricky.bandcamp.com/album/different-when-its-silent-2",
+      "https://www.republicofmusic.net/news/announcing-tricky---different-when-its-silent"
+    ],
+    "confidence": "high",
+    "flags": "Shazam lists the album date (July 17, 2026) as the song's date; single date of May 19, 2026 from multiple news posts."
+  },
+  {
+    "n": 25,
+    "artist": "The Damned",
+    "track": "New Rose",
+    "release_date": "Oct. 22, 1976",
+    "release_kind": "single",
+    "parent_release": "Damned Damned Damned (Stiff Records), Feb. 18, 1977",
+    "info": "Released by Stiff Records on Oct. 22, 1976, about five weeks before the Sex Pistols' \"Anarchy in the U.K.\" It is widely called the first UK punk single. Brian James wrote it, Nick Lowe produced it, and the B-side is a Beatles cover, \"Help!,\" played about twice as fast.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/New_Rose",
+      "https://post-punk.com/the-damned-new-rose/",
+      "https://faroutmagazine.co.uk/50-years-ago-the-damned-released-britains-first-punk-single-the-sex-pistols-werent-impressed/",
+      "https://producelikeapro.com/blog/new-rose"
+    ],
+    "confidence": "high",
+    "flags": "'First UK punk single' is a widely repeated convention, not a formally certified record."
+  },
+  {
+    "n": 26,
+    "artist": "The Damned",
+    "track": "Nasty",
+    "release_date": "May 1984",
+    "release_kind": "single",
+    "parent_release": "B-side of \"Thanks for the Night\" (Damned Records); later on the compilation Punk Generation: Best Of The Damned - Oddities & Versions",
+    "info": "Recorded Jan. 19, 1984, for the BBC comedy The Young Ones, which aired it in the episode of the same name on May 29, 1984. It was the B-side of \"Thanks for the Night,\" the last studio recording with Captain Sensible until 2001. It was on no Damned studio album and later appeared on compilations.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Thanks_for_the_Night",
+      "https://www.discogs.com/release/517773-The-Damned-Thanks-For-The-Night",
+      "https://www.dirtyfeed.org/2020/11/the-young-ones-music-guide-series-two/",
+      "https://rateyourmusic.com/release/single/the-damned/thanks-for-the-night-nasty/"
+    ],
+    "confidence": "medium",
+    "flags": "Exact day not found; sources give May 1984 only. Plan's May 28, 1984 is unverified (episode aired May 29). Recording date and episode date come from a Discogs note citing Carol Clerk."
+  },
+  {
+    "n": 27,
+    "artist": "The Damned",
+    "track": "Neat Neat Neat",
+    "release_date": "Feb. 18, 1977",
+    "release_kind": "single",
+    "parent_release": "Damned Damned Damned (Stiff Records), Feb. 18, 1977",
+    "info": "The Damned's second single, released by Stiff on the same day as their debut album, which is regarded as the first album by a UK punk band. Brian James wrote it and Nick Lowe produced it. The B-side has two tracks, \"Stab Yor Back\" and \"Singalongascabies.\" Elvis Costello and the Attractions later covered it.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Neat_Neat_Neat",
+      "https://en.wikipedia.org/wiki/Damned_Damned_Damned",
+      "https://www.dreamdeferred.org.uk/2015/01/the-damned-neat-neat-neat/",
+      "https://www.discogs.com/release/1071649-The-Damned-Neat-Neat-Neat"
+    ],
+    "confidence": "high",
+    "flags": "Single and album share the same release date."
+  },
+  {
+    "n": 28,
+    "artist": "The Damned",
+    "track": "Love Song",
+    "release_date": "April 20, 1979",
+    "release_kind": "single",
+    "parent_release": "Machine Gun Etiquette (Chiswick Records), Nov. 1979",
+    "info": "The Damned's first top 40 hit, peaking at No. 20 in the UK, and it led to the band's first Top of the Pops appearance. It came out on Chiswick as CHIS 112 with \"Noise Noise Noise\" on the B-side. Captain Sensible had moved to guitar and Algy Ward joined on bass. A re-recorded version opens Machine Gun Etiquette.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Love_Song_(The_Damned_song)",
+      "https://progrography.com/damned/the-damned-love-song-1979/",
+      "https://www.45cat.com/record/chis112",
+      "https://acerecords.co.uk/machine-gun-etiquette-3"
+    ],
+    "confidence": "medium",
+    "flags": "Wikipedia says only 'April 1979'; Progrography and other sources give April 20. Single and album versions are different recordings, so the album cut on air is the re-recorded one. Plan lists label as EMI; original issue was Chiswick."
+  }
+]

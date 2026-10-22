@@ -1,0 +1,252 @@
+[
+ {
+  "n": 29,
+  "artist": "Cheekface",
+  "track": "No Fly Zone",
+  "release_date": "June 26, 2026",
+  "release_kind": "single",
+  "parent_release": "Podium (Cheekface, self-released), July 28, 2026",
+  "info": "\"No Fly Zone\" was the last pre-release single from Podium, and it is track 8 of 13 on the album. Cheekface is a trio from Los Angeles. Podium came out July 28, 2026, and the band released it themselves.",
+  "sources": [
+   "https://cheekface.bandcamp.com/track/no-fly-zone",
+   "https://cheekface.bandcamp.com/album/podium",
+   "https://www.thelineofbestfit.com/news/cheekface-close-in-on-new-album-with-final-single-no-fly-zone",
+   "https://music.apple.com/ug/album/podium/1887355048"
+  ],
+  "confidence": "high",
+  "flags": "Single date of June 26, 2026 comes from the Bandcamp track page only; album date July 28, 2026 agrees across Bandcamp and Apple Music. Press disagrees on whether Podium is the fifth or sixth album, so the info line avoids it."
+ },
+ {
+  "n": 30,
+  "artist": "BODEGA",
+  "track": "Territorial Call of the Female",
+  "release_date": "March 11, 2022",
+  "release_kind": "album",
+  "parent_release": "",
+  "info": "The track is on Broken Equipment, the Brooklyn band's 2022 album, where it is track 4 at 2:45. Ben Hozie is credited as writer and he produced the album with live sound mixer Bobby Lewis. The record was later expanded as Xtra Equipment.",
+  "sources": [
+   "https://bodegabk.bandcamp.com/track/territorial-call-of-the-female",
+   "https://bodegabk.bandcamp.com/album/broken-equipment",
+   "https://www.pastemagazine.com/music/bodega/broken-equipment-album-review",
+   "https://www.banquetrecords.com/bodega/broken-equipment/WYR0122CD"
+  ],
+  "confidence": "medium",
+  "flags": "Label conflict: the plan says Chrysalis Records, Banquet Records lists Chrysalis, but an Amazon bio says the band signed to Chrysalis after Broken Equipment. Label not stated in info. Label for the 2022 release is unresolved."
+ },
+ {
+  "n": 31,
+  "artist": "Frightwig",
+  "track": "Big Bang",
+  "release_date": "1986",
+  "release_kind": "album",
+  "parent_release": "Faster, Frightwig: Kill!! Kill!! (Caroline Records, CAROL 1334), 1986; reissued on the compilation Wild Women Never Die...They Just Dye Their Hair (Southern Records), 1993",
+  "info": "\"Big Bang\" first appeared on Frightwig's 1986 second album, Faster, Frightwig: Kill!! Kill!!, on Caroline Records. The library copy is the Wild Women Never Die compilation, which collects the band's first two LPs. Frightwig is an all-woman San Francisco punk band formed in the early 1980s, and they released We Need to Talk in 2023.",
+  "sources": [
+   "https://www.discogs.com/release/1733423-Frightwig-Faster-Frightwig-Kill-Kill",
+   "https://rateyourmusic.com/release/album/frightwig/faster-frightwig-kill-kill/",
+   "https://www.discogs.com/release/2698584-Frightwig-Wild-Women-Never-DieThey-Just-Dye-Their-Hair",
+   "https://frightwig.org/release/wild-women-never-die/",
+   "https://en.wikipedia.org/wiki/Frightwig",
+   "http://grrlbandgeek.blogspot.com/2010/06/frightwig-wild-women-never-die.html"
+  ],
+  "confidence": "medium",
+  "flags": "Plan says 1990 (verify): that date is wrong. The compilation is dated 1993 (Discogs, Wikipedia) but the band site says Oct. 3, 1995. Only the year 1986 was found for the original album, no exact day. Track placement on Faster, Frightwig: Kill!! Kill!! comes from YouTube full-album track listings and a blog tracklist, not Discogs."
+ },
+ {
+  "n": 32,
+  "artist": "Julia Jacklin",
+  "track": "Get Away From Me (I Think I'll Love You Soon)",
+  "release_date": "June 15, 2026",
+  "release_kind": "single",
+  "parent_release": "The Gem (4AD), Sept. 25, 2026",
+  "info": "This was the lead single from The Gem, her fourth album and first for 4AD. The Australian singer-songwriter recorded the album in Melbourne with co-producer Robert Muinos at Rat Shack studios. It is track 7 of 10 and the first new material since 2022's Pre Pleasure.",
+  "sources": [
+   "https://open.spotify.com/album/0YbnCJi3H6yOl1Rrltlo2W",
+   "https://floodmagazine.com/225109/listen-julia-jacklin-get-away-from-me/",
+   "https://www.thelineofbestfit.com/news/julia-jacklin-announces-fourth-album-the-gem-shares-first-single-get-away-from-me-i-think-ill-love-you-soon",
+   "https://stereogum.com/2502301/julia-jacklin-announces-new-album-the-gem-hear-get-away-from-me-i-think-ill-love-you-soon/music",
+   "https://juliajacklin.bandcamp.com/album/the-gem"
+  ],
+  "confidence": "high",
+  "flags": "Bandcamp track page shows Sept. 25, 2026, which is the album date; Spotify, FLOOD and Under the Radar date the single June 15, 2026."
+ },
+ {
+  "n": 33,
+  "artist": "Protomartyr",
+  "track": "Feast of Stephen",
+  "release_date": "Oct. 9, 2015",
+  "release_kind": "album",
+  "parent_release": "The Agent Intellect (Hardly Art), Oct. 9, 2015; 2023 repress on Hardly Art",
+  "info": "\"Feast of Stephen\" closes The Agent Intellect, the third album from the Detroit post-punk band, released on Hardly Art. It runs 12th on the tracklist and ends with about 30 seconds of ambient noise. The Michigan Daily reports the song was inspired by the celebration of St. Stephen.",
+  "sources": [
+   "https://protomartyr.bandcamp.com/track/feast-of-stephen",
+   "https://protomartyr.bandcamp.com/album/the-agent-intellect",
+   "https://www.treblezine.com/25783-protomartyr-the-agent-intellect-review/",
+   "https://www.michigandaily.com/arts/protomartyr-agent-intellect-review/",
+   "https://www.piccadillyrecords.com/104729/Protomartyr-The-Agent-Intellect-2023-Repress-Hardly-Art"
+  ],
+  "confidence": "high",
+  "flags": "Plan says 2021; the original release is Oct. 9, 2015 per Bandcamp. The 2021 date likely came from a later review or a repress."
+ },
+ {
+  "n": 34,
+  "artist": "Black Flag",
+  "track": "Rise Above",
+  "release_date": "November 1981",
+  "release_kind": "album",
+  "parent_release": "Damaged (SST Records), November 1981",
+  "info": "\"Rise Above\" is on Damaged, Black Flag's debut album and first with vocalist Henry Rollins, on SST Records. Songs are credited to guitarist Greg Ginn unless noted. Britannica calls \"Rise Above\" the band's best-known single, and Rollins joined only weeks before the album was recorded.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Damaged_(Black_Flag_album)",
+   "https://www.britannica.com/topic/Black-Flag",
+   "https://rateyourmusic.com/release/album/black-flag/damaged/",
+   "https://davesmusicdatabase.blogspot.com/1981/12/black-flag-damaged-released.html",
+   "https://www.allmusic.com/album/damaged-mw0000198777"
+  ],
+  "confidence": "medium",
+  "flags": "Exact day not settled. Wikipedia says November 1981; Rate Your Music and Deezer list Nov. 16, 1981 (Unicorn pressing); Dave's Music Database, Diffuser and Fandom list Dec. 5, 1981 (SST). The song's own credit line was not confirmed, so the info line uses the album-level credit."
+ },
+ {
+  "n": 35,
+  "artist": "Kraftwerk",
+  "track": "Numbers (2009 Remaster)",
+  "release_date": "May 11, 1981",
+  "release_kind": "album",
+  "parent_release": "Computer World (2009 Remaster), reissue, Oct. 5, 2009",
+  "info": "\"Numbers\" is on Computer World, the Dusseldorf group's 1981 album, and counts in several languages including Japanese. A 1981 US promo 12-inch paired it with \"Computer Love,\" and a January 1982 maxi-single carried the German \"Nummern.\" The 2009 remaster is a later reissue of the album.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Computer_World",
+   "https://kraftwerk.fandom.com/wiki/Computer_World",
+   "https://www.discogs.com/release/96570-Kraftwerk-Numbers",
+   "https://www.discogs.com/release/260556-Kraftwerk-Numbers-Computer-Love",
+   "https://www.discogs.com/release/2626417-Kraftwerk-Computer-World"
+  ],
+  "confidence": "medium",
+  "flags": "Album date is May 11, 1981 per Wikipedia and May 10, 1981 per Fandom and Amazon. 1981 singles of Numbers are dated only 1981 on Discogs, no day found. The Oct. 5, 2009 remaster date comes from a promo CDr back cover, not a commercial listing; Elektra Classics label not confirmed."
+ },
+ {
+  "n": 36,
+  "artist": "Cabaret Voltaire",
+  "track": "Nag, Nag, Nag",
+  "release_date": "June 1979",
+  "release_kind": "single",
+  "parent_release": "",
+  "info": "Issued on Rough Trade as RT 018, it was produced by Geoff Travis and Mayo Thompson and recorded in London, not at the band's Sheffield studio. The Sheffield trio of Stephen Mallinder, Richard H. Kirk and Chris Watson formed in 1973. Wikipedia reports it sold about 10,000 copies.",
+  "sources": [
+   "https://rateyourmusic.com/release/single/cabaret-voltaire/nag-nag-nag-is-that-me-finding-someone-at-the-door-again/",
+   "https://www.discogs.com/release/54221-Cabaret-Voltaire-Nag-Nag-Nag",
+   "https://www.electronicsound.co.uk/features/landmarks/cabaret-voltaire-nag-nag-nag/",
+   "https://www.whosampled.com/Cabaret-Voltaire/Nag-Nag-Nag/",
+   "https://en.wikipedia.org/wiki/Cabaret_Voltaire_(band)"
+  ],
+  "confidence": "medium",
+  "flags": "Exact day not found; June 1979 per Discogs and Rate Your Music. Punk 77 dates the track to 1978. The plan lists The Living Legends as the album; that is a later compilation, not verified here."
+ },
+ {
+  "n": 37,
+  "artist": "Bauhaus",
+  "track": "The Passion of Lovers",
+  "release_date": "June 19, 1981",
+  "release_kind": "single",
+  "parent_release": "Mask (Beggars Banquet), Oct. 16, 1981",
+  "info": "It was the band's sixth single and reached No. 56 on the UK chart, on Beggars Banquet. The B-side was a four-part montage in which each member made one section. On Mask, the group's first album for the label, the band added keyboards and acoustic guitar to the track.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Passion_of_Lovers",
+   "https://en.wikipedia.org/wiki/Mask_(Bauhaus_album)",
+   "https://music.apple.com/us/album/the-passion-of-lovers-single/1634375496",
+   "https://www.discogs.com/release/263066-Bauhaus-The-Passion-Of-Lovers"
+  ],
+  "confidence": "high",
+  "flags": ""
+ },
+ {
+  "n": 38,
+  "artist": "Consolidated",
+  "track": "Friendly Fascism (Radio Edit)",
+  "release_date": "April 26, 1991",
+  "release_kind": "album",
+  "parent_release": "Friendly Fa$cism (Nettwerk), April 26, 1991",
+  "info": "The song is on Friendly Fa$cism, the 1991 Consolidated album from the San Francisco industrial hip-hop act, recorded at Razors Edge in San Francisco from November 1990 to January 1991. The title comes from Bertram Gross's 1980 book on creeping fascism. Wikipedia notes \"Brutal Equation\" and \"Unity of Oppression\" were alternative rock hits on MTV.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Friendly_Fa$cism",
+   "https://music.apple.com/us/album/friendly-fa$cism/92101280",
+   "https://open.spotify.com/album/4aZScLsTzyScCAvkjSybTT",
+   "https://www.discogs.com/release/30775-Consolidated-Friendly-Facism",
+   "https://www.discogs.com/release/61545-Consolidated-This-Is-Fascism"
+  ],
+  "confidence": "medium",
+  "flags": "No separate Friendly Fascism radio edit was found. The 1991 Nettwerk radio edit seen is for This Is Fascism (CD single). Album cut is 5:01 per Spotify, so the YTM Radio Edit at 5:02 is likely the album track. Apple and Spotify give April 26, 1991; a Discogs promo cassette is dated May 7, 1991."
+ },
+ {
+  "n": 39,
+  "artist": "Fujiya & Miyagi",
+  "track": "No Green Light",
+  "release_date": "Oct. 6, 2026",
+  "release_kind": "single",
+  "parent_release": "New Shiny Object (Impossible Objects of Desire), Oct. 30, 2026",
+  "info": "This is the third single from New Shiny Object, after \"Lowest Common Denominator\" and \"Point 33 Recurring.\" It is track 7 of 9 on the album, due Oct. 30 on the band's own imprint. The Brighton group's lineup is David Best, Steve Lewis, Ben Adamo and Ed Chivers.",
+  "sources": [
+   "https://music.mxdwn.com/2026/10/06/news/fujiya-miyagi-share-dynamic-new-single-video-no-green-light/",
+   "https://www.undertheradarmag.com/news/fujiya_miyagi_share_video_for_new_song_no_green_light",
+   "https://fujiyamiyagi.bandcamp.com/album/new-shiny-object-2",
+   "https://readdork.com/news/fujiya-miyagi-no-green-light-video-uk-tour-c2d7464805",
+   "https://open.spotify.com/album/0RURz80qRO48UXAurN1bEw"
+  ],
+  "confidence": "medium",
+  "flags": "Oct. 6, 2026 is inferred from the first news coverage (mxdwn dated Oct. 6); no official release listing with the day was read. Confirm on Spotify or Bandcamp."
+ },
+ {
+  "n": 40,
+  "artist": "The Avalanches",
+  "track": "Blue Shadows (feat. Karen O)",
+  "release_date": "July 23, 2026",
+  "release_kind": "single",
+  "parent_release": "No Bad Memories (Modular Recordings), Oct. 16, 2026",
+  "info": "Karen O of Yeah Yeah Yeahs sings on this single from No Bad Memories. It is her second collaboration with the Australian group, after \"Dial D for Devotion\" from 2020's We Will Always Love You. The album came out Oct. 16, 2026, on Modular.",
+  "sources": [
+   "https://music.apple.com/mg/album/blue-shadows-feat-karen-o-single/6791042457",
+   "https://www.udiscovermusic.com/news/the-avalanches-blue-shadows-ft-karen-o/",
+   "https://hifiway.live/2026/07/27/the-avalanches-release-blue-shadows-with-karen-o/",
+   "https://us.theavalanchesstore.com/products/no-bad-memories-cd",
+   "https://www.slantmagazine.com/music/the-avalanches-no-bad-memories-album-review/"
+  ],
+  "confidence": "high",
+  "flags": "Apple Music gives July 23, 2026; UDiscover article is dated July 24, 2026 and says it is available now. Yeah Yeah Yeahs link is from general knowledge, not the sources."
+ },
+ {
+  "n": 41,
+  "artist": "Sylvan Esso",
+  "track": "Concrete Glen",
+  "release_date": "July 21, 2026",
+  "release_kind": "single",
+  "parent_release": "Ow ∞ (Psychic Hotline), Sept. 11, 2026",
+  "info": "The lead single from Ow ∞, the Durham, North Carolina, duo's fifth album and first on their own Psychic Hotline label. It samples \"Svefn-g-englar\" by Sigur Rós. Amelia Meath and Nick Sanborn made the album at their Betty's studio in Chapel Hill.",
+  "sources": [
+   "https://stereogum.com/2505877/sylvan-esso-announce-new-album-ow-%E2%88%9E-hear-the-sigur-ros-sampling-concrete-glen/music",
+   "https://music.mxdwn.com/2026/07/21/news/sylvan-esso-announce-new-album-ow-%E2%88%9E-for-september-2026-release-shares-new-single-video-concrete-glen/",
+   "https://consequence.net/2026/07/sylvan-esso-announce-first-self-released-album-ow/",
+   "https://shorefire.com/releases/entry/sylvan-esso-embrace-the-pain-on-ow-new-album-out-september-11-via-psychic-hotline",
+   "https://sylvanesso.bandcamp.com/track/concrete-glen"
+  ],
+  "confidence": "medium",
+  "flags": "July 21, 2026 is the announcement and single coverage date (mxdwn, Our Culture, Consequence); no listing stating the single date was read. Bandcamp track page shows Sept. 11, 2026, the album date."
+ },
+ {
+  "n": 42,
+  "artist": "The Fall",
+  "track": "A Caveat",
+  "release_date": "Oct. 2, 2026",
+  "release_kind": "album",
+  "parent_release": "",
+  "info": "\"A Caveat\" is track 4 of 9 on Post Script, released on Cog Sinister and billed as the band's final studio album. It was built from unused vocals Mark E. Smith recorded between 2001 and 2014, with new backing tracks added by Ed Blaney and Archer. Smith died in January 2018.",
+  "sources": [
+   "https://thequietus.com/news/the-fall-reveal-final-studio-album-post-script/",
+   "https://en.wikipedia.org/wiki/Post_Script_(album)",
+   "https://www.realgonerocks.com/2026/10/post-script/",
+   "https://www.noise11.com/news/the-fall-final-album-post-script-september-2026-20260615",
+   "https://newreleases.discogs.com/eu/release/769992-the-fall-post-script-the-final-studio-album-from-the-fall"
+  ],
+  "confidence": "medium",
+  "flags": "Quietus and Wikipedia give Oct. 2, 2026; one late-September article says Oct. 9; some US retailers show an Oct. 23 presale or ship date (likely US vinyl and CD). Original plan was September. The attribution to the Fall is disputed: Smith's fiance Pamela Vander said she did not approve, and Archer called it unheard recordings. Sources differ on Archer's first name (Mark or Simon), so only the surname is used."
+ }
+]

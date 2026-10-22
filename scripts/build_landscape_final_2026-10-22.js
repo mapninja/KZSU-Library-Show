@@ -31,7 +31,7 @@ const GREEN = "1B7F3B", RED = "B00020", AMBER = "8A6100";
 const border = { style: BorderStyle.SINGLE, size: 4, color: "B7B7B7" };
 const borders = { top: border, bottom: border, left: border, right: border };
 
-function run(text, o = {}) { return new TextRun({ text: String(text), font: FONT, size: o.size || 18, bold: o.bold, color: o.color, italics: o.italics }); }
+function run(text, o = {}) { return new TextRun({ text: String(text), font: FONT, size: o.size || 18, bold: o.bold, color: o.color, italics: o.italics, highlight: o.hl }); }
 function para(text, o = {}) { return new Paragraph({ spacing: { before: o.before || 0, after: o.after || 0 }, alignment: o.align, keepNext: o.keepNext, children: [run(text, o)] }); }
 function cell(text, w, o = {}) {
   const lines = Array.isArray(text) ? text : [text];
@@ -40,6 +40,15 @@ function cell(text, w, o = {}) {
     shading: o.fill ? { fill: o.fill, type: ShadingType.CLEAR, color: "auto" } : undefined,
     margins: { top: 50, bottom: 50, left: 90, right: 90 },
     children: lines.map((l) => para(l, o)),
+  });
+}
+function rich(lines, w, o = {}) {
+  return new TableCell({
+    width: { size: w, type: WidthType.DXA }, borders, verticalAlign: VerticalAlign.CENTER,
+    shading: o.fill ? { fill: o.fill, type: ShadingType.CLEAR, color: "auto" } : undefined,
+    margins: { top: 50, bottom: 50, left: 90, right: 90 },
+    children: lines.map((l) => new Paragraph({ spacing: { before: l.before || 0, after: l.after || 0 }, keepNext: o.keepNext,
+      children: [run(l.t, { size: l.size || 16, bold: l.bold, color: l.color, italics: l.italics, hl: l.hl })] })),
   });
 }
 function heading(text, size = 28, before = 0, pageBreak = false) {
@@ -75,15 +84,15 @@ function fcc(t) {
   return { t: "CLEAN", color: GREEN, bold: true };
 }
 
-const W = [450, 1800, 2600, 2100, 1600, 900, 650, 1300, 3000];
-const COLS = ["#", "Artist", "Track", "Album", "Label", "Tag", "Time", "FCC", "Notes"];
+const W = [400, 1400, 2000, 1400, 1500, 1400, 850, 640, 900, 3910];
+const COLS = ["#", "Artist", "Track", "Album", "Released", "Label", "Tag", "Time", "FCC", "Track history"];
 function setTable(set, startNum, cumStart) {
   const airable = set.tracks.filter((t) => t.priority !== "SKIP" && t.priority !== "CUT");
   const setSecs = airable.reduce((a, t) => a + secs(t.duration), 0);
   const cumEnd = cumStart + setSecs;
   const title = `${set.set}   |   ${airable.length} tracks   |   ${fmt(setSecs)}   |   on air through ${fmt(cumEnd)}`;
-  const bandRows = [new TableRow({ cantSplit: true, children: [cell(title, PAGE_W, { span: 9, fill: BAND, bold: true, size: 22, color: NAVY, keepNext: true })] })];
-  if (/Triple Shot/.test(set.set)) bandRows.push(new TableRow({ cantSplit: true, children: [cell("Intro: " + plan.triple_shot.angle, PAGE_W, { span: 9, fill: BAND, size: 18, keepNext: true })] }));
+  const bandRows = [new TableRow({ cantSplit: true, tableHeader: true, children: [cell(title, PAGE_W, { span: 10, fill: BAND, bold: true, size: 22, color: NAVY, keepNext: true })] })];
+  if (/Triple Shot/.test(set.set)) bandRows.push(new TableRow({ cantSplit: true, children: [cell("Intro: " + plan.triple_shot.angle, PAGE_W, { span: 10, fill: BAND, size: 18, keepNext: true })] }));
   const head = new TableRow({ tableHeader: true, cantSplit: true, children: COLS.map((h, i) => cell(h, W[i], { fill: NAVY, color: "FFFFFF", bold: true, keepNext: true })) });
   let n = startNum;
   const rows = set.tracks.map((t, ri) => {
@@ -92,15 +101,18 @@ function setTable(set, startNum, cumStart) {
     const num = held ? "--" : String(n++);
     const f = fcc(t);
     const fill = held ? RED_BG : ri % 2 ? ZEBRA : undefined;
-    const extra = held ? " FCC: " + t.fcc_note : (f.t === "CLEAN, check ear" ? " " + (t.fcc_note || "Check by ear.") : "");
-    const notes = (held ? "HELD OUT of Zookeeper CSV. " : "") + (t.why || "") + extra;
+    const rel = t.rel_main ? [{ t: t.rel_main, size: 20, bold: true, color: NAVY }, { t: t.rel_sub || "", size: 14, color: "555555", before: 20 }] : [{ t: String(t.released || "-"), size: 18, bold: true }];
+    const live = (t.shows || []).map((x) => ({ t: "LIVE: " + x, size: 15, bold: true, color: "5A3E00", hl: "yellow", before: 30 }));
+    const hist = [{ t: (held ? "HELD OUT of the Zookeeper CSV. " : "") + (t.info || t.why || ""), size: 16 }].concat(live);
+    const artistLines = [{ t: t.artist, size: 18, bold: true }].concat((t.shows || []).length ? [{ t: "LIVE SOON", size: 13, bold: true, color: "5A3E00", hl: "yellow", before: 20 }] : []);
     return new TableRow({ cantSplit: true, children: [
-      cell(num, W[0], { fill, bold: true, keepNext: kn }), cell(t.artist, W[1], { fill, bold: true, keepNext: kn }),
+      cell(num, W[0], { fill, bold: true, keepNext: kn }), rich(artistLines, W[1], { fill, keepNext: kn }),
       cell(t.track, W[2], { fill, bold: true, size: 20, keepNext: kn }), cell(t.album || "-", W[3], { fill, keepNext: kn }),
-      cell(t.label || "-", W[4], { fill, keepNext: kn }), cell(t.tag || "-", W[5], { fill, keepNext: kn }),
-      cell(held ? "--" : t.duration, W[6], { fill, keepNext: kn }),
-      cell(f.t, W[7], { fill: f.fill || fill, color: f.color, bold: f.bold, keepNext: kn }),
-      cell(notes, W[8], { fill, size: 16, keepNext: kn }) ] });
+      rich(rel, W[4], { fill, keepNext: kn }),
+      cell(t.label || "-", W[5], { fill, keepNext: kn }), cell(t.tag || "-", W[6], { fill, keepNext: kn }),
+      cell(held ? "--" : t.duration, W[7], { fill, keepNext: kn }),
+      cell(f.t, W[8], { fill: f.fill || fill, color: f.color, bold: f.bold, keepNext: kn, size: 16 }),
+      rich(hist, W[9], { fill, keepNext: kn }) ] });
   });
   return { table: new Table({ width: { size: PAGE_W, type: WidthType.DXA }, columnWidths: W, rows: [...bandRows, head, ...rows] }), nextNum: n, cumEnd, count: airable.length, setSecs };
 }
@@ -123,6 +135,7 @@ kids.push(note("FCC column: green CLEAN, amber means listen first or check by ea
 
 kids.push(heading("What changed: Thu. Oct. 22 update (your Air Order edits)", 24, 160));
 kids.push(simpleTable([2600, 11800], ["Change", "Detail"], [
+  [{ t: "Script format (latest)", bold: true }, "Playlist-management notes are gone from the right column. It is now Track history: release, credits, covers, chart and label facts. Release dates sit in their own bold column with the year; the small line gives single, album or EP and the parent album date. Booked Bay Area shows are marked LIVE in yellow on each row and listed by date after Set 6. Dates marked (verify) rest on one source."],
   [{ t: "Cut by you", bold: true }, "Fontaines D.C. Six Shot Morning, Mimesis and Where Is Gone? (Happy For You stays), and Pulp The Trees. All four are out of the run of show and the Zookeeper CSV. Logged as not interested for 60 days."],
   [{ t: "Added inside the list", bold: true }, `Nervebreakers My Girlfriend is a Rock, radio edit (${N("Nervebreakers", "My Girl")}), Loco Gringos Ain't No Corndogs (${N("Loco Gringos", "Ain")}) and This Is Lorelei & MJ Lenderman Dancing in the Club, radio edit (${N("This Is Lorelei & MJ Lenderman", "Dancing")}). Set 2 is now Texas punk with Dallas added.`],
   [{ t: "Your last six, placed where they fit", bold: true }, `Set 1: Westside Cowboy (${N("Westside Cowboy", "Kick")}, after Yard Act) and Royal Blood (${N("Royal Blood", "Ten")}, last, before the Texas set). Set 7: Bauhaus (${N("Bauhaus", "The Passion")}) and Consolidated (${N("Consolidated", "Friendly")}). Set 8: Stef Chura (${N("Stef Chura", "Sweet")}, closes the slow set). Set 9: Dumb (${N("Dumb", "Pull")}, with the short rockers).`],
@@ -160,7 +173,7 @@ kids.push(simpleTable([2300, 3600, 2200, 2100, 4200], ["Artist", "Release", "Lab
   ["Heavens to Betsy", "baby's gone (first new release in 32 years, per Consequence)", "Kill Rock Stars", { t: "Fri. Oct. 16", bold: true }, `${N("Heavens to Betsy", "baby")} baby's gone`],
   ["The Avalanches", "No Bad Memories", "Modular", { t: "Fri. Oct. 16", bold: true }, `${N("The Avalanches", "Blue")} Blue Shadows (Karen O)`],
   ["Westside Cowboy", "It Goes On (debut album; Kick Stones (The Boys) is the lead single)", "Island", { t: "Fri. Aug. 21", bold: true }, `${N("Westside Cowboy", "Kick")} Kick Stones (The Boys)`],
-  ["Royal Blood", "Dead Company (single Ten Over Ten out Aug. 12; album date: sources say Nov. 6, 12 or 13)", "Warner", { t: "Fri. Nov. 13 (verify)", bold: true }, `${N("Royal Blood", "Ten")} Ten Over Ten`],
+  ["Royal Blood", "Dead Company (single Ten Over Ten out Aug. 12, 2026)", "Warner", { t: "Fri. Nov. 6, 2026", bold: true }, `${N("Royal Blood", "Ten")} Ten Over Ten`],
   ["Queens of the Stone Age", "Perfecth (single Insignificant Other out Aug. 28)", "Matador", { t: "Fri. Oct. 30", bold: true }, `${N("Queens of the Stone Age", "Insignificant")} Insignificant Other`],
   ["Fujiya & Miyagi", "New Shiny Object", "Impossible Objects of Desire", { t: "Fri. Oct. 30", bold: true }, `${N("Fujiya & Miyagi", "No Green")} No Green Light`],
   ["Jozef Van Wissem & Jim Jarmusch", "Bocca di Lupo and Mouth of the Wolf (double album)", "Sacred Bones", { t: "Fri. Nov. 6", bold: true }, `${N("Jozef Van Wissem & Jim Jarmusch", "Never")} Never Like You Said (Courtney Barnett)`],
@@ -199,17 +212,15 @@ built.filter((b) => !/^Hour 1/.test(b.set.set)).forEach((b) => {
   if (/Triple Shot/.test(b.set.set)) { kids.push(micBreak("MIC BREAK: TRIPLE SHOT INTRO", mb("triple_shot_intro"))); kids.push(spacer()); }
   kids.push(b.table); kids.push(spacer());
   if (/Set 6/.test(b.set.set)) {
-    kids.push(heading("Talk break after Set 6: Bay Area shows, upcoming only (foopee.com, checked Oct. 16; Cornerstone bill and door times: confirm before air)", 22));
-    kids.push(simpleTable([2300, 3700, 3900, 1700, 2800], ["Date", "Act", "Venue", "Status", "Track tonight"], [
-      [{ t: "Fri. Oct. 23", bold: true }, "Cheekface with BODEGA", "Cornerstone, Berkeley", { t: "$36, 8 p.m. doors. Foopee also lists Waitress as support: confirm", bold: true }, N("Cheekface", "No Fly") + " No Fly Zone, " + N("BODEGA", "Territorial") + " Territorial Call of the Female"],
-      [{ t: "Fri. Oct. 23", bold: true }, "Frightwig, AroMa, scary story time", "Chapel, S.F.", "$25, 7 p.m.", N("Frightwig", "Big") + " Big Bang"],
-      [{ t: "Fri. Oct. 23", bold: true }, "Julia Jacklin, Jordan Patterson", "Castro, S.F.", { t: "Sold out", color: RED }, N("Julia Jacklin", "Get") + " Get Away From Me"],
-      [{ t: "Fri. Oct. 23", bold: true }, "Protomartyr, Accessory", "The Ritz, San Jose", "$26/$30, 8 p.m.", N("Protomartyr", "Feast") + " Feast of Stephen"],
-      [{ t: "Fri. Oct. 23", bold: true }, "Black Flag (Greg Ginn lineup)", "Felton Music Hall, Felton", "21+", N("Black Flag", "Rise") + " Rise Above"],
-      [{ t: "Sun. Oct. 25", bold: true }, "Black Flag (Greg Ginn lineup)", "Cornerstone, Berkeley", "$45.80, 7 p.m.", N("Black Flag", "Rise") + " Rise Above"],
-      ["Wed. Oct. 28", "Slow Pulp (ticket sheet; DJ Cleo)", "Fillmore, S.F.", "Not in set", "--"],
-    ], { keepTogether: true }));
-    kids.push(note("Shows that happened before tonight (Dinosaur Jr., Hovvdy, Heavens to Betsy at Bottom of the Hill, Stef Chura) are not listed."));
+    kids.push(heading("Booked Bay Area shows for artists in tonight's set (foopee.com, read Oct. 22; confirm bills and doors before air)", 22));
+    const SH = [];
+    for (const st of plan.sets) for (const t of st.tracks) if ((t.shows || []).length) { let e = SH.find((x) => x.artist === t.artist); if (!e) { e = { artist: t.artist, shows: t.shows, tracks: [] }; SH.push(e); } e.tracks.push(N(t.artist, t.track.slice(0, 6)) + " " + t.track); }
+    const MON = { Oct: 10, Nov: 11, Dec: 12 };
+    const rows = []; for (const e of SH) for (const sh of e.shows) { const m = /^(\w+)\. (\w+)\. (\d+), (.*)$/.exec(sh); rows.push({ key: MON[m[2]] * 100 + +m[3], day: `${m[1]}. ${m[2]}. ${m[3]}`, artist: e.artist, rest: m[4], tracks: e.tracks.join("; ") }); }
+    rows.sort((x, y) => x.key - y.key);
+    kids.push(simpleTable([1700, 2600, 6000, 4100], ["Date", "Artist", "Venue, bill, price", "Track tonight"],
+      rows.map((r) => [{ t: r.day, bold: true, fill: "FFF2A8" }, { t: r.artist, bold: true, fill: "FFF2A8" }, { t: r.rest, fill: r.rest.includes("sold out") ? RED_BG : "FFF2A8" }, { t: r.tracks, fill: "FFF2A8" }]).concat([["Wed. Oct. 28", "Slow Pulp (ticket sheet; DJ Cleo)", "Fillmore, S.F.", "Not in set"]]), { keepTogether: true }));
+    kids.push(note("Dates run through Jan. 2027 on foopee. Shows before tonight (Dinosaur Jr., Hovvdy, Heavens to Betsy at Bottom of the Hill, Stef Chura) are not listed. Yellow rows are booked shows; red means sold out."));
     kids.push(spacer());
     kids.push(micBreak("MIC BREAK: BAY AREA", mb("bay_area_break")));
     kids.push(spacer());
