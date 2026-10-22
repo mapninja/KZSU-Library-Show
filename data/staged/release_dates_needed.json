@@ -54,15 +54,6 @@
   "key": "imperial teen|all hands up"
  },
  {
-  "artist": "Teenage Fanclub",
-  "title": "Be With You Tonight",
-  "type": "single",
-  "label": "Merge",
-  "current_date": "2026-09-09",
-  "date_check": "verify",
-  "key": "teenage fanclub|be with you tonight"
- },
- {
   "artist": "Buddy Miller",
   "title": "Nothing But a Child / On The Road to Bethlehem",
   "type": "single",
@@ -70,51 +61,6 @@
   "current_date": "2026-09-25",
   "date_check": "verify",
   "key": "buddy miller|nothing but a child on the road to bethlehem"
- },
- {
-  "artist": "Julianna Riolino",
-  "title": "Like a Rembrandt b/w Don't Put Me In The Middle",
-  "type": "single",
-  "label": "Moonwhistle",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "julianna riolino|like a rembrandt b w don t put me in the middle"
- },
- {
-  "artist": "youbet",
-  "title": "youbet",
-  "type": "album",
-  "label": "Hardly Art",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "youbet|youbet"
- },
- {
-  "artist": "Two Feet",
-  "title": "Songs for February [EP]",
-  "type": "EP",
-  "label": "477 Records",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "two feet|songs for february ep"
- },
- {
-  "artist": "Kula Shaker",
-  "title": "Wormslayer",
-  "type": "album",
-  "label": "Strange Folk",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "kula shaker|wormslayer"
- },
- {
-  "artist": "Surfbort",
-  "title": "Reality Star",
-  "type": "album",
-  "label": "TODO",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "surfbort|reality star"
  },
  {
   "artist": "KÁRYYN",
@@ -126,33 +72,6 @@
   "key": "karyyn|collapse phase"
  },
  {
-  "artist": "KÁRYYN",
-  "title": "PHYSICS UNIVERSAL LOVE LANGUAGE (PULL)",
-  "type": "album",
-  "label": "Mute",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "karyyn|physics universal love language pull"
- },
- {
-  "artist": "Thomas Dollbaum",
-  "title": "Birds of Paradise",
-  "type": "album",
-  "label": "Dear Life",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "thomas dollbaum|birds of paradise"
- },
- {
-  "artist": "TV Star",
-  "title": "Music For Heads",
-  "type": "album",
-  "label": "Father/Daughter",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "tv star|music for heads"
- },
- {
   "artist": "lovetempo",
   "title": "Never The Same",
   "type": "single",
@@ -160,15 +79,6 @@
   "current_date": "",
   "date_check": "needed",
   "key": "lovetempo|never the same"
- },
- {
-  "artist": "Selah Sue & The Gallands",
-  "title": "Movin'",
-  "type": "album",
-  "label": "Because Music",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "selah sue the gallands|movin"
  },
  {
   "artist": "lovetempo",
@@ -180,120 +90,201 @@
   "key": "lovetempo|by your side"
  },
  {
-  "artist": "lovetempo",
-  "title": "There Is A Light",
+  "artist": "Sook-Yin Lee",
+  "title": "72RHR",
+  "type": "album",
+  "label": "Hand Drawn Dracula",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "sook yin lee|72rhr"
+ },
+ {
+  "artist": "The Orielles",
+  "title": "Only You Left",
+  "type": "album",
+  "label": "Heavenly Recordings",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "orielles|only you left"
+ },
+ {
+  "artist": "The Olympians",
+  "title": "Strawberry Kiwi",
+  "type": "single",
+  "label": "Daptone",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "olympians|strawberry kiwi"
+ },
+ {
+  "artist": "The Olympians",
+  "title": "In Search of a Revival",
+  "type": "album",
+  "label": "Daptone Records",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "olympians|in search of a revival"
+ },
+ {
+  "artist": "Amiture Music",
+  "title": "Amiture Music",
+  "type": "album",
+  "label": "Dots Per Inch",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "amiture music|amiture music"
+ },
+ {
+  "artist": "Sub*T",
+  "title": "How My Own Voice Sounds",
   "type": "album",
   "label": "Self-Released",
   "current_date": "",
   "date_check": "needed",
-  "key": "lovetempo|there is a light"
+  "key": "sub t|how my own voice sounds"
  },
  {
-  "artist": "April + VISTA",
-  "title": "Traditional Noise",
+  "artist": "Ken Park",
+  "title": "Ken Park",
   "type": "album",
-  "label": "Third & Hayden",
+  "label": "TODO",
   "current_date": "",
   "date_check": "needed",
-  "key": "april vista|traditional noise"
+  "key": "ken park|ken park"
  },
  {
-  "artist": "Pigeon",
-  "title": "OUTTANATIONAL",
-  "type": "album",
-  "label": "Memphis Industries",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "pigeon|outtanational"
- },
- {
-  "artist": "Scott Fisher",
-  "title": "A Billion Suns",
-  "type": "album",
-  "label": "1 A.M. Music",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "scott fisher|a billion suns"
- },
- {
-  "artist": "Massive Attack",
-  "title": "Boots On The Ground (feat. Tom Waits)",
+  "artist": "Christian Taylor",
+  "title": "trust (you)",
   "type": "single",
+  "label": "BannerYeer",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "christian taylor|trust you"
+ },
+ {
+  "artist": "Junior Varsity",
+  "title": "Ready",
+  "type": "album",
+  "label": "Key",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "junior varsity|ready"
+ },
+ {
+  "artist": "54-40",
+  "title": "Porto",
+  "type": "album",
+  "label": "Smilin' Buddha Enjoyment Complex",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "54 40|porto"
+ },
+ {
+  "artist": "Sawyer Utah",
+  "title": "WHEN THE SUN GOES DOWN",
+  "type": "album",
+  "label": "VISCYRL X",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "sawyer utah|when the sun goes down"
+ },
+ {
+  "artist": "Swapmeet",
+  "title": "I Know!",
+  "type": "single",
+  "label": "Winspear",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "swapmeet|i know"
+ },
+ {
+  "artist": "The Haunted Youth",
+  "title": "Boys Cry Too",
+  "type": "album",
   "label": "Play It Again Sam",
   "current_date": "",
   "date_check": "needed",
-  "key": "massive attack|boots on the ground feat tom waits"
+  "key": "haunted youth|boys cry too"
  },
  {
-  "artist": "Dina Ögon",
-  "title": "Människobarn",
+  "artist": "Radium Dolls",
+  "title": "Wound Up",
   "type": "album",
-  "label": "Playground",
+  "label": "Self-Released",
   "current_date": "",
   "date_check": "needed",
-  "key": "dina ogon|manniskobarn"
+  "key": "radium dolls|wound up"
  },
  {
-  "artist": "Paula Kelley",
-  "title": "Blinking as the Starlight Burns Out",
+  "artist": "Edwin Raphael",
+  "title": "I Know A Garden",
   "type": "album",
-  "label": "Wharf Cat",
+  "label": "Favourite Library",
   "current_date": "",
   "date_check": "needed",
-  "key": "paula kelley|blinking as the starlight burns out"
+  "key": "edwin raphael|i know a garden"
  },
  {
-  "artist": "Jane Inc.",
-  "title": "A RUPTURE A CANYON A BIRTH",
+  "artist": "Mark Adams",
+  "title": "This Is Neo-Soul",
   "type": "album",
-  "label": "Telephone Explosion",
+  "label": "DownJazz Records",
   "current_date": "",
   "date_check": "needed",
-  "key": "jane inc|a rupture a canyon a birth"
+  "key": "mark adams|this is neo soul"
  },
  {
-  "artist": "cootie catcher",
-  "title": "Something We All Got",
-  "type": "album",
-  "label": "Carpark",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "cootie catcher|something we all got"
- },
- {
-  "artist": "LuxJury",
-  "title": "Giving Up",
-  "type": "album",
-  "label": "Bella Union",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "luxjury|giving up"
- },
- {
-  "artist": "Laure Briard",
-  "title": "Voyage Mental",
-  "type": "album",
-  "label": "Midnight Special",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "laure briard|voyage mental"
- },
- {
-  "artist": "EXEK",
-  "title": "Prove The Mountain Move",
-  "type": "album",
-  "label": "DFA",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "exek|prove the mountain move"
- },
- {
-  "artist": "Peaches",
-  "title": "No Lube So Rude",
+  "artist": "Arctic Monkeys",
+  "title": "Opening Night",
   "type": "single",
-  "label": "Kill Rock Stars",
+  "label": "War Child Records",
   "current_date": "",
   "date_check": "needed",
-  "key": "peaches|no lube so rude"
+  "key": "arctic monkeys|opening night"
+ },
+ {
+  "artist": "beaming",
+  "title": "horseshoe",
+  "type": "album",
+  "label": "Rose Garden",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "beaming|horseshoe"
+ },
+ {
+  "artist": "Various Artists",
+  "title": "Naive Melodies",
+  "type": "album",
+  "label": "BBE Music",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "various artists|naive melodies"
+ },
+ {
+  "artist": "Cardinals",
+  "title": "Masquerade",
+  "type": "album",
+  "label": "So Young",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "cardinals|masquerade"
+ },
+ {
+  "artist": "Pastel Blank",
+  "title": "Unmade In Minutes",
+  "type": "album",
+  "label": "Paper Bag",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "pastel blank|unmade in minutes"
+ },
+ {
+  "artist": "LAPêCHE",
+  "title": "Autotelic",
+  "type": "album",
+  "label": "Tiny Engines",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "lapeche|autotelic"
  }
 ]

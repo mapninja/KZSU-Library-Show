@@ -133,6 +133,14 @@
    "source": "Stereogum Oct. 19 and 20, Punknews (Soul Glo, Hot Chip, Fake Names, Disfear)",
    "ticked_requests_waiting": "none new (29 ticks kept)",
    "deploy": "Working copy only. The Sheet 1oOidwykAZb93nTEzERXCfLMSMyPT3TiLVTbpXJ60RGE (132 rows) was not redeployed; upload CSV ready at outputs/review_shelf_upload_2026-10-20.csv."
+  },
+  {
+   "date": "2026-10-22",
+   "trigger": "kzsu-daily-mark-email-check, new md@kzsu promo (Oct. 21)",
+   "rows_added": 2,
+   "source": "Music Dept promo list (Thrill Jockey: Dis Fig, Mike Reed's Separatist Party)",
+   "ticked_requests_waiting": "none new",
+   "deploy": "Working copy only. Sheet not redeployed (no checked shelf dates changed)."
   }
  ]
 }

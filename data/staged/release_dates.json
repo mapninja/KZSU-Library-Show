@@ -218,10 +218,10 @@
    "https://www.undertheradarmag.com/news/miss_grit_shares_new_song_mind_disaster_and_announces_new_tour_dates_openin"
   ],
   "status": "released",
-  "note": "Press dated Mar. 10 to 12, 2026; no day stated. Album Under My Umbrella (Mute) is Apr. 24, 2026. Verify on Bandcamp or Mute.",
+  "note": "Press dated Mar. 10 to 12, 2026; no day stated. Album Under My Umbrella (Mute) is Apr. 24, 2026. Verify on Bandcamp or Mute. Rechecked Oct. 22: no new day-precision source.",
   "label": "Mute Records",
   "confirmed": false,
-  "checked_on": "2026-10-20"
+  "checked_on": "2026-10-22"
  },
  "hrishikesh hirway|stray dogs with iron wine": {
   "date": "2026-02-18",
@@ -260,10 +260,10 @@
    "https://newwestrecords.com/products/buddy-miller-nothing-but-a-child-on-the-road-to-bethlehem-7"
   ],
   "status": "released",
-  "note": "Bandcamp gives Sept. 25, 2026. Retailers list Oct. 2 (Amazon) and Nov. 27 (Horizons) for the 7-inch. Verify on the New West page.",
+  "note": "Bandcamp gives Sept. 25, 2026. Retailers list Oct. 2 (Amazon) and Nov. 27 (Horizons) for the 7-inch. Verify on the New West page. Rechecked Oct. 22: no new day-precision source.",
   "label": "New West",
   "confirmed": false,
-  "checked_on": "2026-10-20"
+  "checked_on": "2026-10-22"
  },
  "little barrie|gravity freeze": {
   "date": "2026-05-22",
@@ -315,10 +315,10 @@
    "https://musicontherox.com/galvezton-ocean-cabaret-album-review/"
   ],
   "status": "released",
-  "note": "Night Temple and MusicOnTheRox give Apr. 3, 2026 (La Izquierda). KLOF Mag lists May 15, 2026, likely an error. Verify on Bandcamp or label page.",
+  "note": "Night Temple and MusicOnTheRox give Apr. 3, 2026 (La Izquierda). KLOF Mag lists May 15, 2026, likely an error. Verify on Bandcamp or label page. Rechecked Oct. 22: no new day-precision source.",
   "label": "La Izquierda",
   "confirmed": false,
-  "checked_on": "2026-10-20"
+  "checked_on": "2026-10-22"
  },
  "feeble little horse|bitknot": {
   "date": "2026-05-26",
@@ -829,10 +829,10 @@
    "https://www.herecomestheflood.com/2026/09/go-public-craps-tempo.html"
   ],
   "status": "released",
-  "note": "Flagpole (Sept. 16) and Here Comes The Flood give Sept. 18, 2026 (HHBTM). Moved from July 24; HHBTM Bandcamp page still shows July 24. Verify on the label page.",
+  "note": "Flagpole (Sept. 16) and Here Comes The Flood give Sept. 18, 2026 (HHBTM). Moved from July 24; HHBTM Bandcamp page still shows July 24. Verify on the label page. Rechecked Oct. 22: no new day-precision source.",
   "label": "Happy Happy Birthday To Me",
   "confirmed": false,
-  "checked_on": "2026-10-20"
+  "checked_on": "2026-10-22"
  },
  "las cruxes|las cruxes": {
   "date": "2026-04-24",
@@ -925,10 +925,10 @@
    "https://www.shazam.com/en-us/song/1874098778/luggin-hurt"
   ],
   "status": "single, date unverified",
-  "note": "Standalone single date not found. Bandcamp and Shazam show the album Gravity Freeze (Easy Eye Sound) as May 22, 2026. A YouTube upload suggests about Apr. 22, 2026 (metadata only). Keep as verify.",
+  "note": "Standalone single date not found. Bandcamp and Shazam show the album Gravity Freeze (Easy Eye Sound) as May 22, 2026. A YouTube upload suggests about Apr. 22, 2026 (metadata only). Keep as verify. Rechecked Oct. 22: no new day-precision source.",
   "label": "Easy Eye Sound / Concord",
   "confirmed": false,
-  "checked_on": "2026-10-20"
+  "checked_on": "2026-10-22"
  },
  "new pornographers|votive": {
   "date": "2026-01-21",
@@ -1004,13 +1004,15 @@
   "precision": "day",
   "sources": [
    "https://www.thelineofbestfit.com/news/teenage-fanclub-share-new-single-be-with-you-tonight",
-   "https://www.undertheradarmag.com/news/teenage_fanclub_share_video_for_new_song_be_with_you_tonight"
+   "https://www.undertheradarmag.com/news/teenage_fanclub_share_video_for_new_song_be_with_you_tonight",
+   "https://jammerzine.com/teenage-fanclub-deliver-sunshine-fuzz-and-feelings-on-be-with-you-tonight/",
+   "https://www.thelineofbestfit.com/news/teenage-fanclub-share-new-single-be-with-you-tonight"
   ],
   "status": "released",
-  "note": "Press places the single in early September 2026; no second source states the day. Album Do Not Dare To Dream (Merge) is Oct. 9, 2026. Verify.",
+  "note": "Jammerzine (says released today) and The Line of Best Fit both dated Sept. 9, 2026. Third single from Do Not Dare To Dream (Merge, Oct. 9, 2026).",
   "label": "Merge",
-  "confirmed": false,
-  "checked_on": "2026-10-20"
+  "confirmed": true,
+  "checked_on": "2026-10-22"
  },
  "mitski|nothing s about to happen to me": {
   "date": "2026-02-27",
@@ -1244,10 +1246,10 @@
    "https://thefirenote.com/news/fire-tracks/fire-track-imperial-teen-hands-all-up/"
   ],
   "status": "released",
-  "note": "Song title is 'Hands All Up' in all sources, not 'All Hands Up'. RMAS post dated Sept. 17, 2026; exact single day not stated. Album All Over You (Merge) is Oct. 9, 2026.",
+  "note": "Song title is 'Hands All Up' in all sources, not 'All Hands Up'. RMAS post dated Sept. 17, 2026; exact single day not stated. Album All Over You (Merge) is Oct. 9, 2026. Rechecked Oct. 22: no new day-precision source.",
   "label": "Merge",
   "confirmed": false,
-  "checked_on": "2026-10-20"
+  "checked_on": "2026-10-22"
  },
  "steve earle los lobos|volver a celaya city of immigrants": {
   "date": "2026-08-06",
@@ -2403,16 +2405,17 @@
   "checked_on": "2026-10-21"
  },
  "julianna riolino|like a rembrandt b w don t put me in the middle": {
-  "date": "",
-  "precision": "none",
+  "date": "2025-10-01",
+  "precision": "day",
   "sources": [
-   "https://northerntransmissions.com/dont-put-me-in-the-middle-by-julianna-riolino/"
+   "https://www.killbeatmusic.com/media-releases/2025/10/1/julianna-riolino-shares-like-a-rembrandt-from-upcoming-lp",
+   "https://www.youtube.com/watch?v=sEHJA2HN8ag"
   ],
-  "status": "single, date not found",
-  "note": "Single date not found. Deluxe album came Feb. 27, 2026.",
+  "status": "single, date for A-side only",
+  "note": "A-side Like A Rembrandt shared Oct. 1, 2025 (Killbeat press release, YouTube metadata) ahead of album Echo in the Dust (Oct. 24, 2025); deluxe edition Feb. 27, 2026. Date of the b/w Do Not Put Me in the Middle release not found, so not confirmed. Not a 2026 new release.",
   "label": "",
   "confirmed": false,
-  "checked_on": "2026-10-21"
+  "checked_on": "2026-10-22"
  },
  "liminanas|live at beaubourg": {
   "date": "2026-06-19",
@@ -2603,5 +2606,369 @@
   "label": "",
   "confirmed": true,
   "checked_on": "2026-10-21"
+ },
+ "youbet|youbet": {
+  "date": "2026-05-01",
+  "precision": "day",
+  "sources": [
+   "https://youbetband.bandcamp.com/album/youbet",
+   "https://www.hardlyart.com/blogs/news/youbet-share-new-single-worship-album-out-today",
+   "https://www.allmusic.com/album/release/youbet-mr0007003465"
+  ],
+  "status": "released",
+  "note": "Bandcamp, Hardly Art and AllMusic agree on May 1, 2026.",
+  "label": "Hardly Art",
+  "confirmed": true,
+  "checked_on": "2026-10-22"
+ },
+ "two feet|songs for february ep": {
+  "date": "2026-02-06",
+  "precision": "day",
+  "sources": [
+   "https://music.apple.com/us/album/songs-for-february-ep/1869196520",
+   "https://www.ladygunn.com/music/two-feet/"
+  ],
+  "status": "released",
+  "note": "Apple Music and Ladygunn agree on Feb. 6, 2026 (477 Records).",
+  "label": "477 Records",
+  "confirmed": true,
+  "checked_on": "2026-10-22"
+ },
+ "kula shaker|wormslayer": {
+  "date": "2026-01-30",
+  "precision": "day",
+  "sources": [
+   "https://lunchboxrecords.com/products/760137198529",
+   "https://upcomingvinyl.com/index.php/record/kula-shaker-wormslayer",
+   "https://www.discogs.com/release/36386986-Kula-Shaker-Wormslayer"
+  ],
+  "status": "released",
+  "note": "Lunchbox Records and Upcoming Vinyl agree on Jan. 30, 2026. Label is Strange F.O.L.K. (band label).",
+  "label": "Strange F.O.L.K.",
+  "confirmed": true,
+  "checked_on": "2026-10-22"
+ },
+ "surfbort|reality star": {
+  "date": "2026-03-06",
+  "precision": "day",
+  "sources": [
+   "https://music.apple.com/us/album/reality-star/1852049422",
+   "https://www.kerrang.com/album-review-surfbort-reality-star",
+   "https://www.todomusic.net/release/555578-surfbort-reality-star?lang=en_GB"
+  ],
+  "status": "released",
+  "note": "Apple Music, Kerrang and TODO agree on Mar. 6, 2026. A TODO Bandcamp page shows Mar. 2 (likely early format).",
+  "label": "TODO",
+  "confirmed": true,
+  "checked_on": "2026-10-22"
+ },
+ "karyyn|collapse phase": {
+  "date": "",
+  "precision": "none",
+  "sources": [
+   "https://karyyn.bandcamp.com/track/collapse-phase",
+   "https://readdork.com/track/karyyn-collapse-phase",
+   "https://acidstag.com/2026/01/karyyn-collapse-phase/"
+  ],
+  "status": "single, date not found",
+  "note": "Acid Stag covered it in Jan. 2026; Dork track page lists May 28. Day not confirmed. Album Physics Universal Love Language (PULL) is May 29, 2026.",
+  "label": "Mute",
+  "confirmed": false,
+  "checked_on": "2026-10-22"
+ },
+ "karyyn|physics universal love language pull": {
+  "date": "2026-05-29",
+  "precision": "day",
+  "sources": [
+   "https://karyyn.bandcamp.com/album/physics-universal-love-language-pull",
+   "https://www.side-line.com/karyyn-physics-universal-love-language/"
+  ],
+  "status": "released",
+  "note": "Bandcamp and Side-Line agree on May 29, 2026 (Mute). Hotpress shows Mar. 29, a typo.",
+  "label": "Mute",
+  "confirmed": true,
+  "checked_on": "2026-10-22"
+ },
+ "thomas dollbaum|birds of paradise": {
+  "date": "2026-05-22",
+  "precision": "day",
+  "sources": [
+   "https://music.apple.com/us/album/birds-of-paradise/1843643038",
+   "https://www.amoeba.com/birds-of-paradise-cd-thomas-dollbaum/albums/4479824/"
+  ],
+  "status": "released",
+  "note": "Apple Music and Amoeba agree on May 22, 2026 (Dear Life).",
+  "label": "Dear Life",
+  "confirmed": true,
+  "checked_on": "2026-10-22"
+ },
+ "tv star|music for heads": {
+  "date": "2026-04-24",
+  "precision": "day",
+  "sources": [
+   "https://tvstar.bandcamp.com/album/music-for-heads",
+   "https://www.mixeduprecords.com/products/tv-star-music-for-heads",
+   "https://stereogum.com/2490307/tv-star-announce-debut-album-music-for-heads-hear-out-of-my-bag/music"
+  ],
+  "status": "released",
+  "note": "Bandcamp, Mixed Up Records and Stereogum agree on Apr. 24, 2026 (Father/Daughter).",
+  "label": "Father/Daughter",
+  "confirmed": true,
+  "checked_on": "2026-10-22"
+ },
+ "lovetempo|there is a light": {
+  "date": "2026-04-17",
+  "precision": "day",
+  "sources": [
+   "https://itslovetempo.bandcamp.com/album/there-is-a-light",
+   "https://www.amazon.co.uk/There-Light-lovetempo/dp/B0G6S9NVWS"
+  ],
+  "status": "released",
+  "note": "Bandcamp and Amazon Music agree on Apr. 17, 2026 (self-released debut). Remix EP Oct. 9, 2026.",
+  "label": "Self-released",
+  "confirmed": true,
+  "checked_on": "2026-10-22"
+ },
+ "lovetempo|never the same": {
+  "date": "",
+  "precision": "none",
+  "sources": [
+   "https://ceconline.co.za/lovetempo-release-never-the-same/"
+  ],
+  "status": "single, date not found",
+  "note": "Pre-release single covered Jan. 2026; day not stated. Album There Is A Light is Apr. 17, 2026.",
+  "label": "Self-released",
+  "confirmed": false,
+  "checked_on": "2026-10-22"
+ },
+ "lovetempo|by your side": {
+  "date": "",
+  "precision": "none",
+  "sources": [
+   "https://essentialhouse.club/2026/10/lovetempo-there-is-a-light-remixes-on-lovetempo/"
+  ],
+  "status": "single, date not found",
+  "note": "Single date not found. LEONG remix listed Aug. 25, 2026. Album There Is A Light is Apr. 17, 2026.",
+  "label": "Self-released",
+  "confirmed": false,
+  "checked_on": "2026-10-22"
+ },
+ "selah sue the gallands|movin": {
+  "date": "2026-03-20",
+  "precision": "day",
+  "sources": [
+   "https://readdork.com/news/selah-sue-the-gallands-movin-collaborative-album",
+   "https://music.apple.com/us/album/movin/1866930659",
+   "https://www.discogs.com/release/36837445-Selah-SueGallands-Movin"
+  ],
+  "status": "released",
+  "note": "Dork and release listings give Mar. 20, 2026 (Because Music). First single was Another Way.",
+  "label": "Because Music",
+  "confirmed": true,
+  "checked_on": "2026-10-22"
+ },
+ "april vista|traditional noise": {
+  "date": "2026-04-22",
+  "precision": "day",
+  "sources": [
+   "https://aprilandvista.bandcamp.com/album/traditional-noise",
+   "https://music.apple.com/us/album/traditional-noise/1884158520",
+   "https://www.clashmusic.com/news/april-vista-announce-debut-album-traditional-noise/"
+  ],
+  "status": "released",
+  "note": "Bandcamp and Apple Music agree on Apr. 22, 2026 (Third & Hayden). A green vinyl edition lists July 31, 2026.",
+  "label": "Third & Hayden",
+  "confirmed": true,
+  "checked_on": "2026-10-22"
+ },
+ "pigeon|outtanational": {
+  "date": "2026-05-01",
+  "precision": "day",
+  "sources": [
+   "https://pigeon-uk.bandcamp.com/album/outtanational",
+   "https://www.thelineofbestfit.com/news/pigeon-announce-debut-album-outtanational",
+   "https://www.piccadillyrecords.com/165202/Pigeon-Outtanational-Memphis-Industries"
+  ],
+  "status": "released",
+  "note": "Bandcamp, Line of Best Fit and Piccadilly agree on May 1, 2026 (Memphis Industries). Dork lists Apr. 1, an error.",
+  "label": "Memphis Industries",
+  "confirmed": true,
+  "checked_on": "2026-10-22"
+ },
+ "scott fisher|a billion suns": {
+  "date": "2026-05-22",
+  "precision": "day",
+  "sources": [
+   "https://www.scottfishermusic.com/",
+   "https://www.thenighttemple.com/post/scott-fisher-shares-a-billion-suns-ahead-of-upcoming-album"
+  ],
+  "status": "released",
+  "note": "Artist site and Night Temple agree on May 22, 2026 (1 A.M. Music). Title track single Apr. 30, 2026.",
+  "label": "1 A.M. Music",
+  "confirmed": true,
+  "checked_on": "2026-10-22"
+ },
+ "massive attack|boots on the ground feat tom waits": {
+  "date": "2026-04-16",
+  "precision": "day",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Boots_on_the_Ground_(Massive_Attack_song)",
+   "https://consequence.net/2026/04/massive-attack-new-single-tom-waits/",
+   "https://www.godisinthetvzine.co.uk/2026/04/16/news-massive-attack-and-tom-waits-release-boots-on-the-ground/"
+  ],
+  "status": "released",
+  "note": "Wikipedia, Consequence and God Is In The TV agree on Apr. 16, 2026 (Play It Again Sam).",
+  "label": "Play It Again Sam",
+  "confirmed": true,
+  "checked_on": "2026-10-22"
+ },
+ "dina ogon|manniskobarn": {
+  "date": "2026-02-06",
+  "precision": "day",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dina_%C3%96gon",
+   "https://www.deezer.com/en/album/837223652",
+   "https://www.shazam.com/en-us/song/1845109309/mc3a4nniskobarn"
+  ],
+  "status": "released",
+  "note": "Wikipedia, Deezer and Shazam agree on Feb. 6, 2026 (Playground Music). Spotify pre-release page showed Feb. 5.",
+  "label": "Playground Music",
+  "confirmed": true,
+  "checked_on": "2026-10-22"
+ },
+ "paula kelley|blinking as the starlight burns out": {
+  "date": "2026-03-27",
+  "precision": "day",
+  "sources": [
+   "https://paulakelley.bandcamp.com/album/blinking-as-the-starlight-burns-out",
+   "https://music.apple.com/us/album/blinking-as-the-starlight-burns-out/1847953669",
+   "https://www.bullcityrecords.com/products/paula-kelley-blinking-as-the-starlight-burns-out-lp"
+  ],
+  "status": "released",
+  "note": "Bandcamp, Apple Music and Bull City agree on Mar. 27, 2026 (Wharf Cat).",
+  "label": "Wharf Cat",
+  "confirmed": true,
+  "checked_on": "2026-10-22"
+ },
+ "vicious vicious|all caught up yodel my name across the sweeping sands": {
+  "date": "2026-10",
+  "precision": "month",
+  "sources": [],
+  "status": "single, date not found",
+  "note": "Promo email (Oct. 15, 2026) lists ADDS 10/20; the single day is not stated and web search found no page. Album You And I Belong is due November 2026. Check the artist Bandcamp page next run.",
+  "label": "Vicious Vicious (self-released)",
+  "confirmed": false,
+  "checked_on": "2026-10-22"
+ },
+ "jane inc|a rupture a canyon a birth": {
+  "date": "2025-10-17",
+  "precision": "day",
+  "sources": [
+   "https://janeinc.bandcamp.com/album/a-rupture-a-canyon-a-birth",
+   "https://music.apple.com/us/album/a-rupture-a-canyon-a-birth/1827141045",
+   "https://www.roughtrade.com/en-us/product/jane-inc/a-rupture-a-canyon-a-birth"
+  ],
+  "status": "released",
+  "note": "Bandcamp, Apple Music and Rough Trade agree on Oct. 17, 2025 (Telephone Explosion). Not a 2026 release.",
+  "label": "Telephone Explosion",
+  "confirmed": true,
+  "checked_on": "2026-10-22"
+ },
+ "cootie catcher|something we all got": {
+  "date": "2026-02-27",
+  "precision": "day",
+  "sources": [
+   "https://cootiecatcher69.bandcamp.com/album/something-we-all-got",
+   "https://music.apple.com/us/album/something-we-all-got/1844206678",
+   "https://store.carparkrecords.com/products/cak186-cootie-catcher-something-we-all-got"
+  ],
+  "status": "released",
+  "note": "Bandcamp, Apple Music and Carpark agree on Feb. 27, 2026.",
+  "label": "Carpark",
+  "confirmed": true,
+  "checked_on": "2026-10-22"
+ },
+ "luxjury|giving up": {
+  "date": "2026-03-27",
+  "precision": "day",
+  "sources": [
+   "https://luxjury.bandcamp.com/album/giving-up",
+   "https://bellaunion.com/products/luxjury-giving-up",
+   "https://music.apple.com/us/album/giving-up/1856310678"
+  ],
+  "status": "released",
+  "note": "Bandcamp, Bella Union and Apple Music agree on Mar. 27, 2026.",
+  "label": "Bella Union",
+  "confirmed": true,
+  "checked_on": "2026-10-22"
+ },
+ "laure briard|voyage mental": {
+  "date": "2026-06-05",
+  "precision": "day",
+  "sources": [
+   "https://laurebriard.bandcamp.com/album/voyage-mental",
+   "https://www.deezer.com/us/album/951135821",
+   "https://music.apple.com/us/album/voyage-mental/1888306261"
+  ],
+  "status": "released",
+  "note": "Bandcamp, Deezer and Apple Music agree on June 5, 2026 (Midnight Special).",
+  "label": "Midnight Special",
+  "confirmed": true,
+  "checked_on": "2026-10-22"
+ },
+ "exek|prove the mountain move": {
+  "date": "2026-02-27",
+  "precision": "day",
+  "sources": [
+   "https://exek.bandcamp.com/album/prove-the-mountains-move",
+   "https://store.dfarecords.com/products/exek-prove",
+   "https://www.badseedsrecordshop.com/release/36615520/exek-prove-the-mountains-move"
+  ],
+  "status": "released",
+  "note": "Bandcamp, DFA and Bad Seeds agree on Feb. 27, 2026. Correct title is Prove The Mountains Move (plural).",
+  "label": "DFA",
+  "confirmed": true,
+  "checked_on": "2026-10-22"
+ },
+ "peaches|no lube so rude": {
+  "date": "2026-02-20",
+  "precision": "day",
+  "sources": [
+   "https://peachesofficial.bandcamp.com/album/no-lube-so-rude",
+   "https://www.teachesofpeaches.com/news/peaches-signs-kill-rock-stars-no-lube-so-rude",
+   "https://www.discogs.com/release/36559222-Peaches-No-Lube-So-Rude"
+  ],
+  "status": "released",
+  "note": "Bandcamp, artist site and Discogs agree on Feb. 20, 2026 (Kill Rock Stars). RSD picture disc Apr. 17 or 18, 2026.",
+  "label": "Kill Rock Stars",
+  "confirmed": true,
+  "checked_on": "2026-10-22"
+ },
+ "dis fig|what to make of these mortal hands": {
+  "date": "2026-10-23",
+  "precision": "day",
+  "sources": [
+   "https://disfig.bandcamp.com/album/what-to-make-of-these-mortal-hands",
+   "https://www.thrilljockey.com/artists/dis-fig"
+  ],
+  "status": "announced",
+  "note": "Bandcamp and Thrill Jockey agree on Oct. 23, 2026. Promo email (Oct. 21) lists ADDS 10/27.",
+  "label": "Thrill Jockey",
+  "confirmed": true,
+  "checked_on": "2026-10-22"
+ },
+ "mike reeds separatist party|sing the color blue": {
+  "date": "2026-10-23",
+  "precision": "day",
+  "sources": [
+   "https://mikereed1.bandcamp.com/album/sing-the-color-blue",
+   "https://thrilljockeyrecords.substack.com/p/join-the-separatist-party-with-music",
+   "https://www.thrilljockey.com/products/sing-the-color-blue"
+  ],
+  "status": "announced",
+  "note": "Bandcamp, Thrill Jockey and its newsletter agree on Oct. 23, 2026. Promo email (Oct. 21) lists ADDS 10/27.",
+  "label": "Thrill Jockey",
+  "confirmed": true,
+  "checked_on": "2026-10-22"
  }
 }

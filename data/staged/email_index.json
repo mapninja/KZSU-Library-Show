@@ -203,5 +203,13 @@
   "uri": "gmail:to:md@kzsu.stanford.edu after:2026/10/12",
   "items_extracted": 1,
   "kind": "md_list_promo"
+ },
+ {
+  "date": "2026-10-22",
+  "subject": "md@kzsu promo scan 2026-10-19..2026-10-22 (KZSU Gmail; 1 new email, 2 new items: Dis Fig, Mike Reed's Separatist Party, both Thrill Jockey, out 10/23, ADDS 10/27; claire rousay & zander raymond single not named in email, skipped). Outlook: no new Mark or chartman mail since Sept. 3. Skipped Vitriol Radio PRIOS digest.",
+  "sender": "md@kzsu.stanford.edu",
+  "uri": "gmail:to:md@kzsu.stanford.edu after:2026/10/19",
+  "items_extracted": 2,
+  "kind": "md_list_promo"
  }
 ]

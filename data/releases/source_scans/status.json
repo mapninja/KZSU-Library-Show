@@ -1,22 +1,22 @@
 {
  "_note": "Weekly scan status per outside source. The weekly run updates this file. Scans land in data/releases/source_scans/<source>_<date>.psv (date|ARTIST|Title|Label) and feed scripts/staged_crossref.py.",
  "indieisnotagenre": {
-  "last_scan": "2026-10-21",
+  "last_scan": "2026-10-22",
   "method": "browser pane, snippet in references/source_scans.md",
   "status": "ok",
   "rows_saved": 206,
-  "note": "Oct. 21 scan: 206 rows, identical to Oct. 17 (row-by-row hash match, no new file saved). Saved file is indieisnotagenre_2026-10-17.psv."
+  "note": "Oct. 22 scan: 206 rows, identical to Oct. 17 (SHA-256 match after trailing-pipe normalization, no new file saved). Saved file is indieisnotagenre_2026-10-17.psv."
  },
  "bandcamp": {
-  "last_scan": "2026-10-21",
+  "last_scan": "2026-10-22",
   "method": "browser pane, bandcamp.com/discover/rock+punk?s=new, first 60 items",
   "status": "ok, no taste-profile matches",
-  "note": "Oct. 21: scanned rock+punk and rock+punk+alternative new feeds (60 items each). No matches in taste profile or label watchlist. Item selector: [class*=results-grid] li. Label and artist Bandcamp pages are used for dates."
+  "note": "Oct. 22: scanned rock+punk and rock+punk+alternative new feeds (60 items each). No matches in taste profile or label watchlist (Pulled Apart By Horses merch appeared, not in profile). Item selector: [class*=results-grid] li. Label and artist Bandcamp pages are used for dates."
  },
  "pitchfork": {
-  "last_scan": "2026-10-21",
+  "last_scan": "2026-10-22",
   "method": "browser pane, web fetch, WebSearch",
   "status": "blocked",
-  "note": "Blocked. Not retried on Oct. 21."
+  "note": "Blocked. Not retried on Oct. 22."
  }
 }
