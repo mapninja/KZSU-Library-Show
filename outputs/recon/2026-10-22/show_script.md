@@ -72,7 +72,7 @@ KZSU 90.1 FM, 6-8 p.m. PT. Draft built Fri. Oct. 16 (Thursday-night run). Landsc
 ### Hour 1, Set 2: Texas punk (Austin and San Antonio)
 
 8. **Big Boys, "Fun Fun Fun"** (3:15) Moment Records. Texas punk arc (config/show_focus.json), Austin. Funk-punk from Randy 'Biscuit' Turner's band. FCC: CLEAN (Genius, 183 words).
-9. **Scratch Acid, "Greatest Gift"** (2:11) Label: fill in at the studio. Stace swapped this in for "Mary Had a Little Drug Problem" on the Air Order (seen Oct. 20). Texas punk arc, Austin. FCC: CLEAN (Genius, 747 chars; short, check by ear).
+9. **Scratch Acid, "Greatest Gift"** (2:11) Touch and Go. Tag 1082955. Stace swapped this in for "Mary Had a Little Drug Problem" on the Air Order (seen Oct. 20). Texas punk arc, Austin. Library copy is the Touch and Go compilation The Greatest Gift; original 1984 EP label not confirmed. FCC: CLEAN (Genius, 747 chars; short, check by ear).
 10. **Butthole Surfers, "Pepper"** (4:58) Capitol Records (Jazz). Tag 316886. Texas punk arc, San Antonio. Last spin Aug. 6, 2026. FCC: CLEAN (Genius, 377 words).
 11. **The Jesus Lizard, "Monkey Trick"** (4:19) Touch and Go. Tag 1086342. Texas punk arc. David Yow's band after Scratch Acid. Mouth Breather (piss x1) and Seasick (fuck x1) were skipped. FCC: CLEAN (Genius, 238 words).
 12. **Ty Segall, "Separation"** (2:52) Drag City. Tag 1156508. Reviewed rotation, week 2 (three stars: fast, snared-out punk rocker). Pairs with the Texas set. Play Cowboys aired Oct. 1 and Oct. 8; Black Paint is in cool-off. FCC: DJ Stace review (Zookeeper, reviewed Oct. 4 to 8, 2026): no FCC flag on this track.
@@ -98,7 +98,7 @@ KZSU 90.1 FM, 6-8 p.m. PT. Draft built Fri. Oct. 16 (Thursday-night run). Landsc
 Intro: New Rose came out Oct. 22, 1976 on Stiff Records: the first UK punk single, 50 years ago on show day. Three eras: the 1976 single, the 1977 debut LP, and the 1979 turn toward power pop. No new release this week, so the anchor is the anniversary (house rule fallback).
 
 23. **The Damned, "New Rose"** (2:43) Frontier. Tag 982492. Triple Shot 1 of 3. Released Oct. 22, 1976: 50 years ago today. First UK punk single, produced by Nick Lowe. FCC: CLEAN (Genius, 249 words).
-24. **The Damned, "Nasty"** (2:50) Label: fill in at the studio. Stace added this to the Triple Shot on the Air Order (seen Oct. 20). The set now has four tracks: confirm it is still a Triple Shot. FCC: CLEAN (Genius, 1,120 chars).
+24. **The Damned, "Nasty"** (2:50) Damned. Stace added this to the Triple Shot on the Air Order (seen Oct. 20). The set now has four tracks: confirm it is still a Triple Shot. Label from Wikipedia (band's own Damned label), not in Zookeeper. Recorded 1984 for The Young Ones; B-side of Thanks for the Night. FCC: CLEAN (Genius, 1,120 chars).
 25. **The Damned, "Neat Neat Neat"** (2:41) Frontier. Tag 982492. Triple Shot 2 of 3. From the debut LP, first UK punk album. FCC: CLEAN (Genius, 356 words).
 26. **The Damned, "Love Song"** (2:22) Emi Records. Tag 982504. Triple Shot 3 of 3. 1979 turn toward power pop; shows range. FCC: CLEAN (Genius, 242 words).
 
@@ -115,7 +115,7 @@ Intro: New Rose came out Oct. 22, 1976 on Stiff Records: the first UK punk singl
 
 33. **Kraftwerk, "Numbers (2009 Remaster)"** (3:21) Elektra Classics. Tag 892751. Requested back by DJ Stace (Oct. 16): she liked the set and did not get to play it Oct. 15. FCC: CLEAN (LRCLIB, 138 words, counting).
 34. **Cabaret Voltaire, "Nag, Nag, Nag"** (4:40) Rough Trade Records. Requested back by DJ Stace. Sheffield, 1979 single on Rough Trade. FCC: CLEAN (LRCLIB, 108 words).
-35. **Fujiya & Miyagi, "No Green Light"** (5:51) Impossible Objects of Desire (verify). Requested back by DJ Stace. New Shiny Object is out Oct. 30. It aired Oct. 15 per the Zookeeper log, so this is a second week for a new single. FCC: UNVERIFIED: no lyrics posted on Genius or LRCLIB. Listen first.
+35. **Fujiya & Miyagi, "No Green Light"** (5:51) Impossible Objects of Desire. Requested back by DJ Stace. New Shiny Object is out Oct. 30. It aired Oct. 15 per the Zookeeper log, so this is a second week for a new single. Label is the band's own imprint, not in Zookeeper. FCC: UNVERIFIED: no lyrics posted on Genius or LRCLIB. Listen first.
 
 ### Hour 2, Set 8: Anniversary, new and slow
 
@@ -132,17 +132,8 @@ Intro: New Rose came out Oct. 22, 1976 on Stiff Records: the first UK punk singl
 43. **Twin Peaks, "Walk to the One You Love"** (3:34) Grand Jury Music. Carried over: it did not air Oct. 15. FCC: CLEAN (Genius, 203 words).
 44. **feeble little horse, "Doorway"** (2:55) Saddle Creek Records. Carried over: it did not air Oct. 15. FCC: CLEAN (Genius, 166 words).
 45. **Star Moles, "The End"** (2:29) Historic New Jersey Recordings. Carried over: it did not air Oct. 15. FCC: CLEAN (Genius, 117 words).
-46. **R.M.F.C., "The Clue"** (1:40) Label: fill in at the studio. Carried over: it did not air Oct. 15. Listen first (lyrics not posted). FCC: UNVERIFIED: no lyrics posted. Listen first.
-47. **Jozef Van Wissem & Jim Jarmusch, "Never Like You Said (feat. Courtney Barnett)"** (5:24) Label: fill in at the studio. Stace added this to the end of the Air Order (seen Oct. 20). Set placement is her call. FCC: CLEAN (Genius, 1,938 chars). Crowd-sourced lyrics: check by ear.
-48. **Eagles Of Death Metal, "Careless Whisper"** (5:05) Label: fill in at the studio. Stace added this to the end of the Air Order (seen Oct. 20). Set placement is her call. FCC: CLEAN (Genius, 1,574 chars). Crowd-sourced lyrics: check by ear.
+46. **R.M.F.C., "The Clue"** (1:40) Warttmann Inc. Carried over: it did not air Oct. 15. Listen first (lyrics not posted). Label from Bandcamp (single source), not in Zookeeper: verify. FCC: UNVERIFIED: no lyrics posted. Listen first.
+47. **Jozef Van Wissem & Jim Jarmusch, "Never Like You Said (feat. Courtney Barnett)"** (5:24) Sacred Bones Records. Stace added this to the end of the Air Order (seen Oct. 20). Set placement is her call. Double album Bocca di Lupo and Mouth of the Wolf out Nov. 6. FCC: CLEAN (Genius, 1,938 chars). Crowd-sourced lyrics: check by ear.
+48. **Eagles Of Death Metal, "Careless Whisper"** (5:05) Universal. Stace added this to the end of the Air Order (seen Oct. 20). Set placement is her call. Label from press listings (Universal group); verify. Cover of the George Michael song. FCC: CLEAN (Genius, 1,574 chars). Crowd-sourced lyrics: check by ear.
 49. **Lambrini Girls, "Cult of Celebrity"** (2:14) City Slang. Stace added this to the end of the Air Order (seen Oct. 20). Set placement is her call. FCC: CLEAN (Genius, 1,262 chars). Crowd-sourced lyrics: check by ear.
-50. **Queens of the Stone Age, "Insignificant Other"** (5:54) Label: fill in at the studio. Stace added this to the end of the Air Order (seen Oct. 20). Set placement is her call. FCC: CLEAN (Genius, 1,089 chars). Crowd-sourced lyrics: check by ear.
-
-## Fill in at the studio
-
-- Scratch Acid, "Greatest Gift"
-- The Damned, "Nasty"
-- R.M.F.C., "The Clue"
-- Jozef Van Wissem & Jim Jarmusch, "Never Like You Said (feat. Courtney Barnett)"
-- Eagles Of Death Metal, "Careless Whisper"
-- Queens of the Stone Age, "Insignificant Other"
+50. **Queens of the Stone Age, "Insignificant Other"** (5:54) Matador Records. Stace added this to the end of the Air Order (seen Oct. 20). Set placement is her call. Second single from Perfecth, out Oct. 30 on Matador. FCC: CLEAN (Genius, 1,089 chars). Crowd-sourced lyrics: check by ear.

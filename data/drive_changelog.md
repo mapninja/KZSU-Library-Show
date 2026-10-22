@@ -30,3 +30,8 @@
 - 2026-10-19 (Monday intake): Review Shelf redeployed (new id 1oOidwykAZb93nTEzERXCfLMSMyPT3TiLVTbpXJ60RGE). Sheet not edited since Oct. 17 deploy (no harvest). 132 rows, 29 ticks kept. +1 row (Vicious Vicious single, ADDS 10/20). Old sheet moved to _to_delete. staged_priority_2026-10-19.md replaced in Staged Reviews (old copy moved to _to_delete). Working/review_shelf.csv mirrors the repo copy.
 
 - 2026-10-20 (Tuesday sweep): Notes Sheet 2026-10-22 redeployed in Show Prep (new id 1JLExeCfzBIJARuEk5CC26fFSDY04fa1R-dyFTTUGFEM, 50 rows) to match Stace's Air Order edits. No ticks to harvest. Old sheet moved to _to_delete. Working copies refreshed (notes CSV, Zookeeper CSV, working_playlist.md, script md). Working Word and PDF script not rebuilt (Thursday build covers it). Review Shelf working copy +4 rows (136 total); Sheet not redeployed this run, upload CSV ready at outputs/review_shelf_upload_2026-10-20.csv. Weekly notes copied to Show Prep.
+
+## 2026-10-21 Wednesday final script (Oct. 22 show)
+- No Cull or Replace ticks; Air Order matches plan (50 tracks).
+- Labels filled for 7 tracks (Scratch Acid tag 1082955, Nasty, R.M.F.C., Van Wissem and Jarmusch, EODM, QOTSA, Fujiya & Miyagi). Four videoIds set to live Air Order ids.
+- New: final Notes Sheet at top level, Final Show Script docx and pdf, Zookeeper CSV, working_playlist md. Retired: Show Prep Notes Sheet and Working Show Script docx and pdf.

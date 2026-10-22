@@ -248,21 +248,23 @@
     {
      "artist": "Scratch Acid",
      "track": "Greatest Gift",
-     "album": "S/T EP",
-     "label": "",
-     "label_source": "unverified (ZK not checked: Turnstile)",
-     "tag": "",
-     "released": "2025",
+     "album": "The Greatest Gift",
+     "label": "Touch and Go",
+     "label_source": "zookeeper album 1082955 (compilation holding the 1984 S/T EP tracks)",
+     "tag": "1082955",
+     "released": "1984 (EP; collected on the 1991 compilation)",
      "type": "EP track",
      "upcoming": "",
      "duration": "2:11",
      "priority": "R",
-     "why": "Stace swapped this in for \"Mary Had a Little Drug Problem\" on the Air Order (seen Oct. 20). Texas punk arc, Austin.",
+     "why": "Stace swapped this in for \"Mary Had a Little Drug Problem\" on the Air Order (seen Oct. 20). Texas punk arc, Austin. Library copy is the Touch and Go compilation The Greatest Gift; original 1984 EP label not confirmed.",
      "fcc_status": "CLEAN",
      "fcc_note": "CLEAN (Genius, 747 chars; short, check by ear).",
      "source": "added_by_stace",
      "videoId": "b-NO3Y2kKm0",
-     "added_by": "DJ Stace"
+     "added_by": "DJ Stace",
+     "source_url": "https://en.wikipedia.org/wiki/Scratch_Acid_(EP)",
+     "label_note": "Original 1984 EP label not confirmed; library copy is the Touch and Go compilation."
     },
     {
      "artist": "Butthole Surfers",
@@ -357,7 +359,7 @@
      "fcc_status": "CLEAN",
      "fcc_note": "CLEAN (Genius, 179 words).",
      "source": "requested by DJ Stace",
-     "videoId": "bijLQqV_iAU"
+     "videoId": "00krktruwsM"
     },
     {
      "artist": "Fontaines D.C.",
@@ -375,7 +377,7 @@
      "fcc_status": "CLEAN",
      "fcc_note": "CLEAN (Genius, 334 words).",
      "source": "requested by DJ Stace",
-     "videoId": "YEQwq31sT8M"
+     "videoId": "zXyN6eZjlTg"
     },
     {
      "artist": "Fontaines D.C.",
@@ -393,7 +395,7 @@
      "fcc_status": "CLEAN",
      "fcc_note": "CLEAN (Genius, 175 words).",
      "source": "requested by DJ Stace",
-     "videoId": "q7wkBe1rPyM"
+     "videoId": "wOkBZA51Z9o"
     },
     {
      "artist": "Fontaines D.C. & ROSALIA",
@@ -535,20 +537,23 @@
      "artist": "The Damned",
      "track": "Nasty",
      "album": "Punk Generation: Best Of The Damned - Oddities & Versions",
-     "label": "",
-     "label_source": "unverified (ZK not checked: Turnstile)",
+     "label": "Damned",
+     "label_source": "wikipedia: Thanks for the Night, label 'Damned DAMNED 1'",
      "tag": "",
-     "released": "2004 (compilation)",
+     "released": "1984-05-28 (B-side of Thanks for the Night)",
      "type": "compilation track",
      "upcoming": "",
      "duration": "2:50",
      "priority": "R",
-     "why": "Stace added this to the Triple Shot on the Air Order (seen Oct. 20). The set now has four tracks: confirm it is still a Triple Shot.",
+     "why": "Stace added this to the Triple Shot on the Air Order (seen Oct. 20). The set now has four tracks: confirm it is still a Triple Shot. Label from Wikipedia (band's own Damned label), not in Zookeeper. Recorded 1984 for The Young Ones; B-side of Thanks for the Night.",
      "fcc_status": "CLEAN",
      "fcc_note": "CLEAN (Genius, 1,120 chars).",
      "source": "added_by_stace",
      "videoId": "7Sm385a-tqc",
-     "added_by": "DJ Stace"
+     "added_by": "DJ Stace",
+     "source_url": "https://en.wikipedia.org/wiki/Thanks_for_the_Night",
+     "zk_alt": "Sessions of the Damned (Fuel Records, tag 576154) and Seasons of the Damned (Dutch East India Trading, tag 167767) hold the track; both are compilations.",
+     "label_note": "Not the 1976-79 era: Nasty was recorded in 1984 for The Young Ones."
     },
     {
      "artist": "The Damned",
@@ -607,7 +612,7 @@
      "fcc_status": "CLEAN",
      "fcc_note": "CLEAN (Genius, 382 words).",
      "source": "weekly playlist (Friday sweep)",
-     "videoId": "kYAIfBhdCww"
+     "videoId": "RoeVGBKwnkU"
     },
     {
      "artist": "BODEGA",
@@ -743,20 +748,21 @@
     {
      "artist": "Fujiya & Miyagi",
      "track": "No Green Light",
-     "album": "New Shiny Object (verify)",
-     "label": "Impossible Objects of Desire (verify)",
-     "label_source": "web (verify)",
+     "album": "New Shiny Object",
+     "label": "Impossible Objects of Desire",
+     "label_source": "media: Under the Radar, Stereogum, Wikipedia (band's own label; two sources agree)",
      "tag": "",
      "released": "2026-10-30 (album)",
      "type": "single",
      "upcoming": "",
      "duration": "5:51",
      "priority": "R",
-     "why": "Requested back by DJ Stace. New Shiny Object is out Oct. 30. It aired Oct. 15 per the Zookeeper log, so this is a second week for a new single.",
+     "why": "Requested back by DJ Stace. New Shiny Object is out Oct. 30. It aired Oct. 15 per the Zookeeper log, so this is a second week for a new single. Label is the band's own imprint, not in Zookeeper.",
      "fcc_status": "UNVERIFIED",
      "fcc_note": "UNVERIFIED: no lyrics posted on Genius or LRCLIB. Listen first.",
      "source": "carried from Oct. 15 plan",
-     "videoId": "K5l80OdiCzM"
+     "videoId": "K5l80OdiCzM",
+     "source_url": "https://fujiyamiyagi.bandcamp.com/album/new-shiny-object-2"
     }
    ]
   },
@@ -952,57 +958,60 @@
      "artist": "R.M.F.C.",
      "track": "The Clue",
      "album": "Hive, Vol. 2",
-     "label": "",
-     "label_source": "unverified",
+     "label": "Warttmann Inc.",
+     "label_source": "media: Bandcamp, Warttmann Inc. WART010 (single source; verify)",
      "tag": "",
-     "released": "2019",
+     "released": "2019-03-01 (Hive Vol. 2)",
      "type": "EP track",
      "upcoming": "",
      "duration": "1:40",
      "priority": "X",
-     "why": "Carried over: it did not air Oct. 15. Listen first (lyrics not posted).",
+     "why": "Carried over: it did not air Oct. 15. Listen first (lyrics not posted). Label from Bandcamp (single source), not in Zookeeper: verify.",
      "fcc_status": "UNVERIFIED",
      "fcc_note": "UNVERIFIED: no lyrics posted. Listen first.",
      "source": "carried from Oct. 15 plan",
-     "videoId": "pcFnJEXsvWc"
+     "videoId": "pcFnJEXsvWc",
+     "source_url": "https://warttmanninc.bandcamp.com/track/the-clue"
     },
     {
      "artist": "Jozef Van Wissem & Jim Jarmusch",
      "track": "Never Like You Said (feat. Courtney Barnett)",
      "album": "Bocca di Lupo",
-     "label": "",
-     "label_source": "unverified (ZK not checked: Turnstile)",
+     "label": "Sacred Bones Records",
+     "label_source": "zookeeper label table 17966; release facts from Stereogum and Consequence",
      "tag": "",
-     "released": "2026",
+     "released": "2026-11-06 (album; lead single out now)",
      "type": "single or album track",
      "upcoming": "",
      "duration": "5:24",
      "priority": "R",
-     "why": "Stace added this to the end of the Air Order (seen Oct. 20). Set placement is her call.",
+     "why": "Stace added this to the end of the Air Order (seen Oct. 20). Set placement is her call. Double album Bocca di Lupo and Mouth of the Wolf out Nov. 6.",
      "fcc_status": "CLEAN",
      "fcc_note": "CLEAN (Genius, 1,938 chars). Crowd-sourced lyrics: check by ear.",
      "source": "added_by_stace",
      "videoId": "72heAMH_l5s",
-     "added_by": "DJ Stace"
+     "added_by": "DJ Stace",
+     "source_url": "https://stereogum.com/2510869/jozef-van-wissem-jim-jarmusch-announce-new-double-album-bocca-di-lupo-mouth-of-the-wolf-hear-never-like-you-said-feat-courtney-barnett/music"
     },
     {
      "artist": "Eagles Of Death Metal",
      "track": "Careless Whisper",
      "album": "EODM Presents Boots Electric Performing The Best Songs We Never Wrote",
-     "label": "",
-     "label_source": "unverified (ZK not checked: Turnstile)",
+     "label": "Universal",
+     "label_source": "media: Universal Music imprints (UMC, UMe); ZK label table has 'Universal' 8548",
      "tag": "",
-     "released": "2019",
+     "released": "2019-06-07",
      "type": "cover",
      "upcoming": "",
      "duration": "5:05",
      "priority": "R",
-     "why": "Stace added this to the end of the Air Order (seen Oct. 20). Set placement is her call.",
+     "why": "Stace added this to the end of the Air Order (seen Oct. 20). Set placement is her call. Label from press listings (Universal group); verify. Cover of the George Michael song.",
      "fcc_status": "CLEAN",
      "fcc_note": "CLEAN (Genius, 1,574 chars). Crowd-sourced lyrics: check by ear.",
      "source": "added_by_stace",
      "videoId": "VFIcDRKCxoU",
-     "added_by": "DJ Stace"
+     "added_by": "DJ Stace",
+     "source_url": "https://www.discogs.com/release/13717168-Eagles-Of-Death-Metal-Presents-Boots-Electric-Eagles-Of-Death-Metal-Presents-Boots-Electric-Performi"
     },
     {
      "artist": "Lambrini Girls",
@@ -1027,20 +1036,21 @@
      "artist": "Queens of the Stone Age",
      "track": "Insignificant Other",
      "album": "Insignificant Other",
-     "label": "",
-     "label_source": "unverified (ZK not checked: Turnstile)",
+     "label": "Matador Records",
+     "label_source": "zookeeper label table 1952; Matador release page",
      "tag": "",
-     "released": "2026",
+     "released": "2026-08-28 (single; album Perfecth out Oct. 30)",
      "type": "single",
      "upcoming": "",
      "duration": "5:54",
      "priority": "R",
-     "why": "Stace added this to the end of the Air Order (seen Oct. 20). Set placement is her call.",
+     "why": "Stace added this to the end of the Air Order (seen Oct. 20). Set placement is her call. Second single from Perfecth, out Oct. 30 on Matador.",
      "fcc_status": "CLEAN",
      "fcc_note": "CLEAN (Genius, 1,089 chars). Crowd-sourced lyrics: check by ear.",
      "source": "added_by_stace",
      "videoId": "TVTmQTcV-iE",
-     "added_by": "DJ Stace"
+     "added_by": "DJ Stace",
+     "source_url": "https://matadorrecords.com/blogs/news/coming-october-30-queens-of-the-stone-age-perfecth"
     }
    ]
   }
@@ -1156,12 +1166,12 @@
    "New Rose by The Damned turns 50 tonight. Triple Shot opens Hour 2."
   ],
   "after_texas_set": [
-   "Scratch Acid formed in Austin. David Yow sang for them, then fronted The Jesus Lizard. Goat (Touch and Go) is from 1991.",
+   "Scratch Acid formed in Austin. Greatest Gift is from their 1984 self-titled EP, collected on The Greatest Gift (Touch and Go, 1991). David Yow sang for them, then fronted The Jesus Lizard. Monkey Trick is from Goat (Touch and Go, 1991).",
    "Butthole Surfers came out of San Antonio. Pepper is from Electriclarryland (1996). Big Boys were an Austin band; Fun Fun Fun is a 1982 EP."
   ],
   "after_fontaines": [
    "Dopamine Chamber is the band's fifth album and the second with James Ford. Rosalia is the first guest on a Fontaines record.",
-   "Two songs from it, Tongue (shit x10) and Japan (fuck x3, shit x3), stay off the air. Their Europe and UK tour starts in Lisbon on Oct. 21 (verify)."
+   "Two songs from it, Tongue (shit x10) and Japan (fuck x3, shit x3), stay off the air. Their Europe and UK tour started in Lisbon on Oct. 21 (verify)."
   ],
   "end_hour_1": [
    "Reviewed this month and in rotation: Twisted Teens (two albums), Lex Walton, Yard Act, Little Barrie, Palace, Sluice, This Is Lorelei, Dread Spectre Council, Tricky, Ty Segall.",
@@ -1184,6 +1194,11 @@
   ],
   "closing": [
    "Next week, Oct. 29: Halloween post-punk."
+  ],
+  "after_heavy_set": [
+   "Last stretch is new and loud: Queens of the Stone Age, Insignificant Other, from Perfecth (Matador, out Oct. 30).",
+   "Jozef Van Wissem and Jim Jarmusch, Bocca di Lupo and Mouth of the Wolf, Sacred Bones, Nov. 6. Courtney Barnett sings on Never Like You Said.",
+   "Eagles of Death Metal cover Careless Whisper on Boots Electric Performing the Best Songs We Never Wrote (2019). Lambrini Girls, Cult of Celebrity, City Slang."
   ]
  },
  "bench": [
@@ -1730,9 +1745,16 @@
  ],
  "air_order_note": "Oct. 16: Air Order rewritten by deltas (40 removed, 36 added, 38 moves, 9 kept). YTM stores some Weekly tracks under a different videoId when added: Fontaines D.C. Six Shot Morning, Mimesis and Happy For You, and Cheekface No Fly Zone use the Air Order ids. Oct. 20 (Tuesday sweep): plan synced to her Air Order edits. Greatest Gift replaces Mary Had a Little Drug Problem; Nasty added to the Triple Shot; Van Wissem and Jarmusch, EODM, Lambrini Girls and QOTSA added at the end. Four Fontaines D.C. and Cheekface videoIds updated to the live ids. 9 Tuesday singles added to the bench.",
  "final": {
-  "built": "2026-10-16",
+  "built": "2026-10-21",
   "cull_ticks": [],
   "replace_ticks": [],
-  "notes": "Draft. No Stace edits to harvest yet."
+  "air_order_edits": "none since the Oct. 20 sync (YTM read Oct. 21: 50 tracks, same order; four Fontaines D.C. and Cheekface videoIds differ from the snapshot only because the snapshot kept old ids)",
+  "notes_sheet": "unmodified since Oct. 20 deploy (no ticks)",
+  "enrichment": "Zookeeper API read Oct. 21 via API route; labels filled for 7 tracks (see label_source on each track)",
+  "open_flags": [
+   "Triple Shot has four Damned tracks (Nasty added by Stace). Confirm or cut one.",
+   "Stace's four tail adds sit at the end of Set 9; placement is her call.",
+   "No ticket giveaway placed: no sheet row lists Stace on or after Oct. 22."
+  ]
  }
 }
