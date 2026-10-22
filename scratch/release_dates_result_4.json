@@ -1,0 +1,164 @@
+[
+ {
+  "key": "sluice|companion",
+  "date": "2026-03-27",
+  "precision": "day",
+  "sources": ["https://sluice.bandcamp.com/album/companion", "https://klofmag.com/2026/03/sluice-companion-album/", "https://lunchboxrecords.com/products/617308018196"],
+  "status": "released",
+  "note": "Sources agree on 2026-03-27. Third album, label debut.",
+  "label": "Mtn Laurel Recording Co."
+ },
+ {
+  "key": "new pornographers|former site of",
+  "date": "2026-03-27",
+  "precision": "day",
+  "sources": ["https://en.wikipedia.org/wiki/The_Former_Site_Of", "https://www.mergerecords.com/news/6467", "https://www.mergerecords.com/product/the_former_site_of"],
+  "status": "released",
+  "note": "Sources agree. Tenth studio album.",
+  "label": ""
+ },
+ {
+  "key": "ben auld|loserdom",
+  "date": "2026-04-01",
+  "precision": "day",
+  "sources": ["https://benauld.bandcamp.com/album/loserdom", "https://rosyoverdrive.com/2026/06/01/pressing-concerns-the-greenberry-woods-fastener-ben-auld-morningstar/"],
+  "status": "released",
+  "note": "Sources agree on 2026-04-01. Joint release with UK label Safe Suburban Home.",
+  "label": "Repeating Cloud / Safe Suburban Home"
+ },
+ {
+  "key": "brother wallace|electric love",
+  "date": "2026-05-08",
+  "precision": "day",
+  "sources": ["https://atorecords.com/news/brother-wallace-announces-debut-album-electric-love/", "https://brotherwallace.bandcamp.com/album/electric-love", "https://music.apple.com/us/album/electric-love/1861427630"],
+  "status": "released",
+  "note": "Sources agree. Debut album.",
+  "label": ""
+ },
+ {
+  "key": "go public|you are traffic",
+  "date": "2026-09-18",
+  "precision": "day",
+  "sources": ["https://flagpole.com/topstory/2026/09/16/go-public-releases-debut-album-you-are-traffic/", "https://www.side-line.com/go-public-dream-over/", "https://www.herecomestheflood.com/2026/09/go-public-craps-tempo.html"],
+  "status": "released",
+  "note": "Sources disagree: HHBTM product page and Bandcamp (older snapshot) list 2026-07-24; Flagpole (Sept 16), Side-Line (Aug) and Here Comes The Flood (Sept) give 2026-09-18. Likely postponed from July 24; no source states the delay outright. Used the later date. Debut album.",
+  "label": "HHBTM Records"
+ },
+ {
+  "key": "las cruxes|las cruxes",
+  "date": "2026-04-24",
+  "precision": "day",
+  "sources": ["https://www.millionstarsrecords.com/las-cruxes", "https://lazy-i.com/2026/02/new-music-las-cruxes-on-million-stars-big-harp-on-saddle-creek-crooked-fingers-ratboys/", "https://millionstars.merchtable.com/music/las-cruxes-self-titled-cd"],
+  "status": "released",
+  "note": "Label page and press give 2026-04-24. Tower Records and some vinyl retailers list 2026-03-20, likely an early placeholder.",
+  "label": ""
+ },
+ {
+  "key": "boards of canada|inferno",
+  "date": "2026-05-29",
+  "precision": "day",
+  "sources": ["https://warp.net/releases/590960-inferno", "https://en.wikipedia.org/wiki/Inferno_(Boards_of_Canada_album)", "https://www.studioone.org/reviews/2026-05-29/boards-of-canada-inferno-review"],
+  "status": "released",
+  "note": "Digital/CD/cassette 2026-05-29 per Warp. Bleep lists standard 2xLP 2026-07-03 and deluxe red vinyl 2026-09-18; one Europe listing shows 2026-05-28. First album in 13 years.",
+  "label": ""
+ },
+ {
+  "key": "outfit|preservers of the pearl",
+  "date": "2026-03-13",
+  "precision": "day",
+  "sources": ["https://danielromano.bandcamp.com/album/preservers-of-the-pearl", "https://music.apple.com/ye/album/preservers-of-the-pearl/1863579532", "https://rateyourmusic.com/release/album/outfit/preservers-of-the-pearl.p/"],
+  "status": "released",
+  "note": "Sources agree. Artist credited as Daniel Romano's Outfit / Daniel Romano & The Outfit (catalog YC-071).",
+  "label": ""
+ },
+ {
+  "key": "this is lorelei|singer in my band",
+  "date": "2026-09-11",
+  "precision": "day",
+  "sources": ["https://en.wikipedia.org/wiki/The_Singer_in_My_Band", "https://tower.com/products/this-is-lorelei-the-singer-in-my-band-compact-discs", "https://www.plaidroomrecords.com/products/pre-order-this-is-lorelei-the-singer-in-my-band-indie-exclusive-white-vinyl-release-date-09-11-2026"],
+  "status": "released",
+  "note": "Sources agree. Matador debut.",
+  "label": ""
+ },
+ {
+  "key": "lex walton|ultimate love forever",
+  "date": "2026-08-26",
+  "precision": "day",
+  "sources": ["https://music.subpop.com/lexwalton_ultimateloveforever", "https://youthagainstsatan.bandcamp.com/album/ultimate-love-forever", "https://femmusic.com/2026/08/26/lex-walton-ultimate-love-forever/", "https://rateyourmusic.com/release/album/lex-walton/ultimate-love-forever.p/"],
+  "status": "released",
+  "note": "Digital 2026-08-26. CD/LP due 2026-11-20 per Sub Pop and South Metro Music (Upcoming Vinyl lists 2027-01-22, likely wrong). Sub Pop signing news dated Aug 20.",
+  "label": ""
+ },
+ {
+  "key": "pixies|trompe le monde bossanova 2026 remasters",
+  "date": "2026-09-11",
+  "precision": "day",
+  "sources": ["https://shop.4ad.com/release/598288-pixies-bossanova-2026-remaster?lang=de", "https://shop.4ad.com/release/598290-pixies-trompe-le-monde-2026-remaster?lang=fr", "https://thequietus.com/news/pixies-announces-2026-remasters-of-bossanova-and-trompe-le-monde/"],
+  "status": "released",
+  "note": "Reissue: two separate 2026 Remasters, both 2026-09-11 (digital, CD, vinyl; Dinked editions with bonus 7-inch). Originals: Bossanova 1990, Trompe le Monde 1991. Limited Addition Records listing says date subject to change; no source found showing a delay.",
+  "label": ""
+ },
+ {
+  "key": "little barrie|luggin hurt",
+  "date": "2026-04-23",
+  "precision": "day",
+  "sources": ["https://littlebarrie.bandcamp.com/track/luggin-hurt", "https://thefirenote.com/videos/little-barrie-luggin-hurt-single-edit-video/", "https://www.youtube.com/watch?v=9A-UgOEaNjM", "https://www.xsnoize.com/little-barrie-announce-gravity-freeze-out-22-may-2026-hear-more-bad-miles-of-road/"],
+  "status": "released",
+  "note": "Weak confirmation: single edit video and audio uploads on YouTube dated about Apr 22-23 and a Spotify listing dated Apr 23; no source states the single date outright. Album Gravity Freeze (where the 7-min album version appears) is 2026-05-22; Shazam dates the track 2026-05-22. Not the album's first single (that was More Bad Miles Of Road).",
+  "label": ""
+ },
+ {
+  "key": "new pornographers|votive",
+  "date": "2026-01-21",
+  "precision": "day",
+  "sources": ["https://rateyourmusic.com/release/single/the-new-pornographers/votive/", "https://www.undertheradarmag.com/news/the_new_pornographers_announce_new_album_share_video_for_new_song_votive", "https://music.mxdwn.com/2026/01/29/news/the-new-pornographers-announce-new-album-the-former-site-of-for-march-2026-release-share-new-single-video-votive/"],
+  "status": "released",
+  "note": "Single released with album announcement 2026-01-21. Bandcamp track page shows 2026-03-27 (album date).",
+  "label": ""
+ },
+ {
+  "key": "brother wallace|who do you love",
+  "date": "2026-03-31",
+  "precision": "day",
+  "sources": ["https://shorefire.com/releases/entry/brother-wallace-new-single-music-video-who-do-you-love", "https://www.mnprmagazine.com/releases/brother-wallace-who-do-you-love/", "https://www.youtube.com/watch?v=ed3mwM8Ed9Y"],
+  "status": "released",
+  "note": "Single and video 2026-03-31 per Shore Fire press release and YouTube upload. Shazam shows 2026-05-08 (album date). Album track 7 on Electric Love.",
+  "label": ""
+ },
+ {
+  "key": "jose gonzalez|against the dying of the light",
+  "date": "2026-01-13",
+  "precision": "day",
+  "sources": ["https://www.brooklynvegan.com/jose-gonzalez-announces-new-album-north-american-tour-shares-first-single/", "https://www.nordicmusiccentral.com/jose-gonzalez-sweden-against-the-dying-of-the-light-single-future-album-track-video/", "https://www.youtube.com/watch?v=K9krPYK6JWM"],
+  "status": "released",
+  "note": "First single from the album, shared with album announcement and video 2026-01-13 (BrooklynVegan article and YouTube video date). Album Against the Dying of the Light is 2026-03-27 (Bandcamp, Dork).",
+  "label": ""
+ },
+ {
+  "key": "danielle ponder|power",
+  "date": "2026-06",
+  "precision": "month",
+  "sources": ["https://www.clashmusic.com/news/danielle-ponder-signs-to-dead-oceans-shares-new-song-power/", "https://www.live4ever.uk.com/danielle-ponder-new-single-power/", "https://www.thelineofbestfit.com/news/danielle-ponder-signs-to-dead-oceans-in-partnership-with-phoebe-bridgers-and-shares-new-single-power", "https://deadoceans.com/news/danielle-ponder-signs-to-dead-oceans-in-partnership-with-phoebe-bridgers/"],
+  "status": "released",
+  "note": "Single debuted mid-June 2026 (Clash and Live4ever dated June 18, around Juneteenth; coverage points to June 17-19) with her Dead Oceans signing; exact day not confirmed. Album Everything Has Changed is 2026-10-09 (Bandcamp date on the Power track page reflects the album).",
+  "label": ""
+ },
+ {
+  "key": "tom waits|fly",
+  "date": "2026-07-31",
+  "precision": "day",
+  "sources": ["https://tomwaits.bandcamp.com/album/the-fly", "https://consequence.net/2026/07/tom-waits-the-fly/", "https://www.broadwayworld.com/bwwmusic/article/Tom-Waits-Shares-Wry-Spoken-Word-Track-THE-FLY-20260731"],
+  "status": "released",
+  "note": "Digital/streaming 2026-07-31 (Bandcamp, Consequence, BroadwayWorld). B-side to Massive Attack's Boots on the Ground; 12-inch vinyl 2026-09-04. Spoken-word track.",
+  "label": ""
+ },
+ {
+  "key": "teenage fanclub|be with you tonight",
+  "date": "2026-09-09",
+  "precision": "day",
+  "sources": ["https://jammerzine.com/teenage-fanclub-deliver-sunshine-fuzz-and-feelings-on-be-with-you-tonight/", "https://www.undertheradarmag.com/news/teenage_fanclub_share_video_for_new_song_be_with_you_tonight", "https://www.thelineofbestfit.com/news/teenage-fanclub-share-new-single-be-with-you-tonight"],
+  "status": "released",
+  "note": "Day taken from news coverage dated 2026-09-09 describing the single as released that day; no label press release or streaming page seen to confirm. Third single from Do Not Dare To Dream (album 2026-10-09, Merge).",
+  "label": ""
+ }
+]

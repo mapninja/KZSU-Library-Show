@@ -1,0 +1,164 @@
+[
+ {
+  "artist": "Little Barrie",
+  "title": "Gravity Freeze",
+  "type": "album",
+  "label": "Easy Eye Sound/Concord",
+  "current_date": "2026-05-22",
+  "date_check": "verify",
+  "key": "little barrie|gravity freeze"
+ },
+ {
+  "artist": "Twin Peaks",
+  "title": "Down In Heaven (10th Anniversary Edition)",
+  "type": "album",
+  "label": "Grand Jury",
+  "current_date": "2026-05-22",
+  "date_check": "verify",
+  "key": "twin peaks|down in heaven 10th anniversary edition"
+ },
+ {
+  "artist": "Sunglaciers",
+  "title": "Spiritual Content",
+  "type": "album",
+  "label": "Mothland",
+  "current_date": "2026-03-27",
+  "date_check": "verify",
+  "key": "sunglaciers|spiritual content"
+ },
+ {
+  "artist": "GALVEZTON",
+  "title": "Ocean Cabaret",
+  "type": "album",
+  "label": "La Izquierda",
+  "current_date": "2026-04-03",
+  "date_check": "verify",
+  "key": "galvezton|ocean cabaret"
+ },
+ {
+  "artist": "feeble little horse",
+  "title": "bitknot",
+  "type": "album",
+  "label": "Saddle Creek",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "feeble little horse|bitknot"
+ },
+ {
+  "artist": "Angine De Poitrine",
+  "title": "Vol. II",
+  "type": "album",
+  "label": "Spectacles Bonzaï",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "angine de poitrine|vol ii"
+ },
+ {
+  "artist": "Sleaford Mods",
+  "title": "The Demise of Planet X",
+  "type": "album",
+  "label": "Rough Trade",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "sleaford mods|demise of planet x"
+ },
+ {
+  "artist": "Will Epstein",
+  "title": "Yeah, mostly",
+  "type": "album",
+  "label": "Fat Possum",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "will epstein|yeah mostly"
+ },
+ {
+  "artist": "Twisted Teens",
+  "title": "Blame the Clown",
+  "type": "album",
+  "label": "Chain Smoking Records",
+  "current_date": "2026-02-13",
+  "date_check": "verify",
+  "key": "twisted teens|blame the clown"
+ },
+ {
+  "artist": "Sylvan Esso",
+  "title": "Ow ∞",
+  "type": "album",
+  "label": "Psychic Hotline",
+  "current_date": "2026-09-11",
+  "date_check": "verify",
+  "key": "sylvan esso|ow"
+ },
+ {
+  "artist": "Swans",
+  "title": "Newly Sentient Being",
+  "type": "live",
+  "label": "Young God",
+  "current_date": "2026-10-02",
+  "date_check": "verify",
+  "key": "swans|newly sentient being"
+ },
+ {
+  "artist": "Yard Act",
+  "title": "Redeemer",
+  "type": "single",
+  "label": "Republic",
+  "current_date": "2026-05-07",
+  "date_check": "verify",
+  "key": "yard act|redeemer"
+ },
+ {
+  "artist": "Hovvdy",
+  "title": "Try Try Try",
+  "type": "single",
+  "label": "Arts & Crafts",
+  "current_date": "2026-05-13",
+  "date_check": "verify",
+  "key": "hovvdy|try try try"
+ },
+ {
+  "artist": "Hermanos Gutiérrez",
+  "title": "Canto Andino",
+  "type": "single",
+  "label": "Easy Eye Sound/Concord",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "hermanos gutierrez|canto andino"
+ },
+ {
+  "artist": "Chinese American Bear",
+  "title": "No No Yeah Yeah",
+  "type": "single",
+  "label": "Moshi Moshi",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "chinese american bear|no no yeah yeah"
+ },
+ {
+  "artist": "Thee Sacred Souls",
+  "title": "Any Old Fool",
+  "type": "single",
+  "label": "Daptone Records",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "thee sacred souls|any old fool"
+ },
+ {
+  "artist": "Father John Misty",
+  "title": "The X-panded Universe",
+  "type": "single",
+  "label": "Sub Pop Records",
+  "current_date": "2026-09-29",
+  "date_check": "verify",
+  "key": "father john misty|x panded universe"
+ },
+ {
+  "artist": "Gilla Band",
+  "title": "Alogia",
+  "type": "single",
+  "label": "Rough Trade",
+  "current_date": "2026-09",
+  "date_check": "verify",
+  "key": "gilla band|alogia"
+ }
+]

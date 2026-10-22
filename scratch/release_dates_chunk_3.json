@@ -1,0 +1,164 @@
+[
+ {
+  "artist": "Dread Spectre Council",
+  "title": "Thetans",
+  "type": "album",
+  "label": "Handmade",
+  "current_date": "2026-03-29",
+  "date_check": "verify",
+  "key": "dread spectre council|thetans"
+ },
+ {
+  "artist": "The Fall",
+  "title": "Singles Live: Vol. 2 80-83",
+  "type": "album",
+  "label": "Popstock/Bella Union",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "fall|singles live vol 2 80 83"
+ },
+ {
+  "artist": "Annabelle Chairlegs",
+  "title": "Waking Up",
+  "type": "album",
+  "label": "TODO",
+  "current_date": "2026-01-30",
+  "date_check": "verify",
+  "key": "annabelle chairlegs|waking up"
+ },
+ {
+  "artist": "Population II",
+  "title": "Gimmicks",
+  "type": "EP",
+  "label": "Bonsound",
+  "current_date": "2026-04-03",
+  "date_check": "verify",
+  "key": "population ii|gimmicks"
+ },
+ {
+  "artist": "Iceage",
+  "title": "For the Love of Grace & the Hereafter",
+  "type": "album",
+  "label": "Mexican Summer",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "iceage|for the love of grace the hereafter"
+ },
+ {
+  "artist": "Haters",
+  "title": "Non-Violent",
+  "type": "album",
+  "label": "Self-Released",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "haters|non violent"
+ },
+ {
+  "artist": "White Denim",
+  "title": "13",
+  "type": "album",
+  "label": "Bella Union",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "white denim|13"
+ },
+ {
+  "artist": "Frog",
+  "title": "Frog For Sale",
+  "type": "album",
+  "label": "Audio Antihero",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "frog|frog for sale"
+ },
+ {
+  "artist": "Twisted Teens",
+  "title": "Florida Water Blues",
+  "type": "album",
+  "label": "Going Underground",
+  "current_date": "2026-07-10",
+  "date_check": "verify",
+  "key": "twisted teens|florida water blues"
+ },
+ {
+  "artist": "Sharp Pins",
+  "title": "Mod Mayday 23",
+  "type": "album",
+  "label": "K Records",
+  "current_date": "2026-09-04",
+  "date_check": "verify",
+  "key": "sharp pins|mod mayday 23"
+ },
+ {
+  "artist": "Courtney Barnett",
+  "title": "Creature of Habit",
+  "type": "album",
+  "label": "Mom + Pop",
+  "current_date": "2026-03-27",
+  "date_check": "verify",
+  "key": "courtney barnett|creature of habit"
+ },
+ {
+  "artist": "Interpol",
+  "title": "See Out Loud b/w This Mirror Weighs A Ton",
+  "type": "single",
+  "label": "Partisan Records",
+  "current_date": "2026-06-09",
+  "date_check": "verify",
+  "key": "interpol|see out loud b w this mirror weighs a ton"
+ },
+ {
+  "artist": "Eric McEntee",
+  "title": "I'm Not Bothered By The Rain",
+  "type": "single",
+  "label": "Pacific Union",
+  "current_date": "2024-02-23",
+  "date_check": "verify",
+  "key": "eric mcentee|i m not bothered by the rain"
+ },
+ {
+  "artist": "Brother Wallace",
+  "title": "Gone With The Wind",
+  "type": "single",
+  "label": "ATO",
+  "current_date": "2026-02-24",
+  "date_check": "verify",
+  "key": "brother wallace|gone with the wind"
+ },
+ {
+  "artist": "Chinese American Bear",
+  "title": "Turn up The Radio (把收音机开大点)",
+  "type": "single",
+  "label": "Moshi Moshi",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "chinese american bear|turn up the radio"
+ },
+ {
+  "artist": "Cigarettes After Sex",
+  "title": "Twizzler",
+  "type": "single",
+  "label": "Partisan Records",
+  "current_date": "2026-05-19",
+  "date_check": "verify",
+  "key": "cigarettes after sex|twizzler"
+ },
+ {
+  "artist": "Fontaines D.C.",
+  "title": "Marianne",
+  "type": "single",
+  "label": "XL",
+  "current_date": "2026-08-18",
+  "date_check": "verify",
+  "key": "fontaines d c|marianne"
+ },
+ {
+  "artist": "PJ Harvey",
+  "title": "Voyager (7-inch)",
+  "type": "single",
+  "label": "",
+  "current_date": "2026-12-04",
+  "date_check": "verify",
+  "key": "pj harvey|voyager 7 inch"
+ }
+]

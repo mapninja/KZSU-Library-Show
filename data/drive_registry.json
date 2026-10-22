@@ -235,8 +235,8 @@
     "1JLExeCfzBIJARuEk5CC26fFSDY04fa1R-dyFTTUGFEM",
     "1BV0bM8nyq8JaWEHb6AFzZCg4uLnDDMqwEe1xEKrgTds"
    ],
-   "hash": "4896875e414afa67de4962eef425b0cf",
-   "note": "Thu. Oct. 22 update: 55 rows after Stace's Oct. 22 Air Order edits (4 cuts, 3 inline adds, last six placed). Old sheet unmodified since its Oct. 21 deploy, so no ticks to harvest."
+   "hash": "dd53b1da06e77113a6202d3fd7748d4a",
+   "note": "Thu. Oct. 22 update: 55 rows after Stace's Oct. 22 Air Order edits (4 cuts, 3 inline adds, last six placed). Old sheet unmodified since its Oct. 21 deploy, so no ticks to harvest. Oct. 22 Thursday sync: patched 5 cells in place (Royal Blood date and note, Viagra Boys label, EODM label, QOTSA date) to match the plan; link unchanged."
   },
   "final_show_script_2026-10-22": {
    "id": null,
@@ -253,7 +253,7 @@
    "folder": "KZSU top",
    "deployed": "2026-10-21T20:15Z",
    "working": "Working/library_show_playlist_2026-10-22.csv",
-   "note": "Raw CSV at /KZSU/ top level through Drive for desktop. 50 tracks, reversed, 7 mic-break blank rows, 8 labels filled."
+   "note": "Raw CSV at /KZSU/ top level through Drive for desktop. 50 tracks, reversed, 7 mic-break blank rows, 8 labels filled. Oct. 22 Thursday sync: overwritten in place with 55 tracks (labels Ume for EODM, Shrimptech Enterprises for Viagra Boys)."
   }
  },
  "folders": {

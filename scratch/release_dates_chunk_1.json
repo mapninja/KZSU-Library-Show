@@ -1,0 +1,173 @@
+[
+ {
+  "artist": "Guided By Voices",
+  "title": "Crawlspace of the Pantheon",
+  "type": "album",
+  "label": "GBV Inc.",
+  "current_date": "2026-05-29",
+  "date_check": "verify",
+  "key": "guided by voices|crawlspace of the pantheon"
+ },
+ {
+  "artist": "Widowspeak",
+  "title": "Roses",
+  "type": "album",
+  "label": "Captured Tracks",
+  "current_date": "2026-06-05",
+  "date_check": "verify",
+  "key": "widowspeak|roses"
+ },
+ {
+  "artist": "Kill Chicago",
+  "title": "The Next",
+  "type": "album",
+  "label": "Self-Released",
+  "current_date": "2026-06-02",
+  "date_check": "verify",
+  "key": "kill chicago|next"
+ },
+ {
+  "artist": "Richie Owens",
+  "title": "Redemption",
+  "type": "album",
+  "label": "Owepar Records",
+  "current_date": "2025-10-10",
+  "date_check": "verify",
+  "key": "richie owens|redemption"
+ },
+ {
+  "artist": "Juliana Hatfield",
+  "title": "Lightning Might Strike",
+  "type": "album",
+  "label": "American Laundromat Records",
+  "current_date": "2025-12-12",
+  "date_check": "verify",
+  "key": "juliana hatfield|lightning might strike"
+ },
+ {
+  "artist": "Chinese American Bear",
+  "title": "Dim Sum and Then Some",
+  "type": "album",
+  "label": "Moshi Moshi",
+  "current_date": "2026-05-08",
+  "date_check": "verify",
+  "key": "chinese american bear|dim sum and then some"
+ },
+ {
+  "artist": "Ritt Momney",
+  "title": "BASE",
+  "type": "album",
+  "label": "Self-released",
+  "current_date": "2026-02-27",
+  "date_check": "verify",
+  "key": "ritt momney|base"
+ },
+ {
+  "artist": "The Naked Sun",
+  "title": "Mirror in The Hallway",
+  "type": "album",
+  "label": "Mothland",
+  "current_date": "2026-01-30",
+  "date_check": "verify",
+  "key": "naked sun|mirror in the hallway"
+ },
+ {
+  "artist": "Ty Segall",
+  "title": "Chrome",
+  "type": "album",
+  "label": "Drag City",
+  "current_date": "2026-08-28",
+  "date_check": "verify",
+  "key": "ty segall|chrome"
+ },
+ {
+  "artist": "Yard Act",
+  "title": "You're Gonna Need A Little Music",
+  "type": "album",
+  "label": "Republic Records",
+  "current_date": "2026-07-17",
+  "date_check": "verify",
+  "key": "yard act|you re gonna need a little music"
+ },
+ {
+  "artist": "Tricky",
+  "title": "Different When It's Silent",
+  "type": "album",
+  "label": "False Idols",
+  "current_date": "2026-07-17",
+  "date_check": "verify",
+  "key": "tricky|different when it s silent"
+ },
+ {
+  "artist": "Morphine",
+  "title": "Cocoon",
+  "type": "album",
+  "label": "Partisan",
+  "current_date": "2026-12-04",
+  "date_check": "verify",
+  "key": "morphine|cocoon"
+ },
+ {
+  "artist": "Gurriers",
+  "title": "Nobody's Coming To Save You",
+  "type": "single",
+  "label": "Play It Again Sam",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "gurriers|nobody s coming to save you"
+ },
+ {
+  "artist": "Radio Free Alice",
+  "title": "Lunch Money",
+  "type": "single",
+  "label": "Atlantic",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "radio free alice|lunch money"
+ },
+ {
+  "artist": "Beth Orton",
+  "title": "Waiting",
+  "type": "single",
+  "label": "Parisan Records",
+  "current_date": "2026-04-20",
+  "date_check": "verify",
+  "key": "beth orton|waiting"
+ },
+ {
+  "artist": "Miss Grit",
+  "title": "Mind Disaster",
+  "type": "single",
+  "label": "Mute Records",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "miss grit|mind disaster"
+ },
+ {
+  "artist": "Hrishikesh Hirway",
+  "title": "Stray Dogs (with Iron & Wine)",
+  "type": "single",
+  "label": "Keeled Scales",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "hrishikesh hirway|stray dogs with iron wine"
+ },
+ {
+  "artist": "Teens in Trouble",
+  "title": "I Do",
+  "type": "single",
+  "label": "Lauren Records",
+  "current_date": "2026-10-05",
+  "date_check": "verify",
+  "key": "teens in trouble|i do"
+ },
+ {
+  "artist": "Buddy Miller",
+  "title": "Nothing But a Child / On The Road to Bethlehem",
+  "type": "single",
+  "label": "New West",
+  "current_date": "2026-11-27",
+  "date_check": "verify",
+  "key": "buddy miller|nothing but a child on the road to bethlehem"
+ }
+]

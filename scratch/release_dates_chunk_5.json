@@ -1,0 +1,164 @@
+[
+ {
+  "artist": "Mitski",
+  "title": "Nothing's About to Happen to Me",
+  "type": "album",
+  "label": "Dead Oceans",
+  "current_date": "2026-02-27",
+  "date_check": "verify",
+  "key": "mitski|nothing s about to happen to me"
+ },
+ {
+  "artist": "HUGERNAUT",
+  "title": "Circulator",
+  "type": "album",
+  "label": "Azzliff Records",
+  "current_date": "2026-03-02",
+  "date_check": "verify",
+  "key": "hugernaut|circulator"
+ },
+ {
+  "artist": "Other Lives",
+  "title": "Sheerar Sessions",
+  "type": "album",
+  "label": "Play It Again Sam",
+  "current_date": "2026-05-22",
+  "date_check": "verify",
+  "key": "other lives|sheerar sessions"
+ },
+ {
+  "artist": "Temporary Blessings",
+  "title": "Sumbisori",
+  "type": "album",
+  "label": "College of Knowledge",
+  "current_date": "2025-12-05",
+  "date_check": "verify",
+  "key": "temporary blessings|sumbisori"
+ },
+ {
+  "artist": "KNEECAP",
+  "title": "FENIAN",
+  "type": "album",
+  "label": "[PIAS]",
+  "current_date": "2026-05-01",
+  "date_check": "verify",
+  "key": "kneecap|fenian"
+ },
+ {
+  "artist": "Miss Grit",
+  "title": "Under My Umbrella",
+  "type": "album",
+  "label": "Mute",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "miss grit|under my umbrella"
+ },
+ {
+  "artist": "Nora Kelly Band",
+  "title": "So Wrong For So Long",
+  "type": "album",
+  "label": "Mint Records",
+  "current_date": "2026-05-22",
+  "date_check": "verify",
+  "key": "nora kelly band|so wrong for so long"
+ },
+ {
+  "artist": "Tory Silver",
+  "title": "In Through the Front with Lasers",
+  "type": "album",
+  "label": "Michi Tapes",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "tory silver|in through the front with lasers"
+ },
+ {
+  "artist": "Dinosaur Jr.",
+  "title": "There Near",
+  "type": "album",
+  "label": "Jagjaguwar",
+  "current_date": "2026-08-28",
+  "date_check": "verify",
+  "key": "dinosaur jr|there near"
+ },
+ {
+  "artist": "Westside Cowboy",
+  "title": "It Goes On",
+  "type": "album",
+  "label": "Slow Play/Island",
+  "current_date": "2026-08-21",
+  "date_check": "verify",
+  "key": "westside cowboy|it goes on"
+ },
+ {
+  "artist": "Sharp Pins",
+  "title": "Electric My Icebox",
+  "type": "EP",
+  "label": "K / Perennial",
+  "current_date": "2027-01-15",
+  "date_check": "verify",
+  "key": "sharp pins|electric my icebox"
+ },
+ {
+  "artist": "Sylvan Esso",
+  "title": "Hot Slob",
+  "type": "single",
+  "label": "Psychic Hotline",
+  "current_date": "2026-06-10",
+  "date_check": "verify",
+  "key": "sylvan esso|hot slob"
+ },
+ {
+  "artist": "Lambrini Girls",
+  "title": "Cult of Celebrity",
+  "type": "single",
+  "label": "City Slang",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "lambrini girls|cult of celebrity"
+ },
+ {
+  "artist": "Allah-Las",
+  "title": "Ultramarine",
+  "type": "single",
+  "label": "Mexican Summer",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "allah las|ultramarine"
+ },
+ {
+  "artist": "Miss Grit",
+  "title": "Stranger",
+  "type": "single",
+  "label": "Mute Records",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "miss grit|stranger"
+ },
+ {
+  "artist": "Gelli Haha",
+  "title": "Klouds Will Carry Me To Sleep",
+  "type": "single",
+  "label": "Innovative Leisure",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "gelli haha|klouds will carry me to sleep"
+ },
+ {
+  "artist": "Imperial Teen",
+  "title": "All Hands Up",
+  "type": "single",
+  "label": "Merge",
+  "current_date": "2026-09",
+  "date_check": "verify",
+  "key": "imperial teen|all hands up"
+ },
+ {
+  "artist": "Steve Earle / Los Lobos",
+  "title": "Volver A Celaya / City of Immigrants",
+  "type": "single",
+  "label": "New West",
+  "current_date": "2026-10-16",
+  "date_check": "verify",
+  "key": "steve earle los lobos|volver a celaya city of immigrants"
+ }
+]

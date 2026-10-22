@@ -1,0 +1,164 @@
+[
+ {
+  "artist": "Sluice",
+  "title": "Companion",
+  "type": "album",
+  "label": "Mtn. Lauren",
+  "current_date": "2026-03-27",
+  "date_check": "verify",
+  "key": "sluice|companion"
+ },
+ {
+  "artist": "The New Pornographers",
+  "title": "The Former Site Of",
+  "type": "album",
+  "label": "Merge Records",
+  "current_date": "2026-03-27",
+  "date_check": "verify",
+  "key": "new pornographers|former site of"
+ },
+ {
+  "artist": "Ben Auld",
+  "title": "Loserdom",
+  "type": "album",
+  "label": "Repeating Cloud",
+  "current_date": "2026-04-01",
+  "date_check": "verify",
+  "key": "ben auld|loserdom"
+ },
+ {
+  "artist": "Brother Wallace",
+  "title": "Electric Love",
+  "type": "album",
+  "label": "ATO",
+  "current_date": "2026-05-08",
+  "date_check": "verify",
+  "key": "brother wallace|electric love"
+ },
+ {
+  "artist": "Go Public",
+  "title": "You Are Traffic",
+  "type": "album",
+  "label": "Happy Happy Birthday To Me",
+  "current_date": "2026-09-18",
+  "date_check": "verify",
+  "key": "go public|you are traffic"
+ },
+ {
+  "artist": "Las Cruxes",
+  "title": "Las Cruxes",
+  "type": "album",
+  "label": "Million Stars",
+  "current_date": "2026-04-24",
+  "date_check": "verify",
+  "key": "las cruxes|las cruxes"
+ },
+ {
+  "artist": "Boards of Canada",
+  "title": "Inferno",
+  "type": "album",
+  "label": "Warp",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "boards of canada|inferno"
+ },
+ {
+  "artist": "The Outfit",
+  "title": "Preservers of the Pearl",
+  "type": "album",
+  "label": "You've Changed",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "outfit|preservers of the pearl"
+ },
+ {
+  "artist": "This Is Lorelei",
+  "title": "The Singer in My Band",
+  "type": "album",
+  "label": "Matador Records",
+  "current_date": "2026-09-11",
+  "date_check": "verify",
+  "key": "this is lorelei|singer in my band"
+ },
+ {
+  "artist": "Lex Walton",
+  "title": "Ultimate Love Forever",
+  "type": "album",
+  "label": "Sub Pop Records",
+  "current_date": "2026-08-26",
+  "date_check": "verify",
+  "key": "lex walton|ultimate love forever"
+ },
+ {
+  "artist": "Pixies",
+  "title": "Trompe le Monde + Bossanova (2026 Remasters)",
+  "type": "reissue",
+  "label": "4AD",
+  "current_date": "2026",
+  "date_check": "verify",
+  "key": "pixies|trompe le monde bossanova 2026 remasters"
+ },
+ {
+  "artist": "Little Barrie",
+  "title": "Luggin' Hurt",
+  "type": "single",
+  "label": "Easy Eye Sound / Concord",
+  "current_date": "2026-04-23",
+  "date_check": "verify",
+  "key": "little barrie|luggin hurt"
+ },
+ {
+  "artist": "The New Pornographers",
+  "title": "Votive",
+  "type": "single",
+  "label": "Merge",
+  "current_date": "2026-01-21",
+  "date_check": "verify",
+  "key": "new pornographers|votive"
+ },
+ {
+  "artist": "Brother Wallace",
+  "title": "Who Do You Love?",
+  "type": "single",
+  "label": "ATO",
+  "current_date": "2026-03-31",
+  "date_check": "verify",
+  "key": "brother wallace|who do you love"
+ },
+ {
+  "artist": "José González",
+  "title": "Against the Dying of the Light",
+  "type": "single",
+  "label": "Mute",
+  "current_date": "2026-01-13",
+  "date_check": "verify",
+  "key": "jose gonzalez|against the dying of the light"
+ },
+ {
+  "artist": "Danielle Ponder",
+  "title": "Power",
+  "type": "single",
+  "label": "Dead Oceans",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "danielle ponder|power"
+ },
+ {
+  "artist": "Tom Waits",
+  "title": "The Fly",
+  "type": "single",
+  "label": "Anti-",
+  "current_date": "2026",
+  "date_check": "verify",
+  "key": "tom waits|fly"
+ },
+ {
+  "artist": "Teenage Fanclub",
+  "title": "Be With You Tonight",
+  "type": "single",
+  "label": "Merge",
+  "current_date": "2026-09",
+  "date_check": "verify",
+  "key": "teenage fanclub|be with you tonight"
+ }
+]

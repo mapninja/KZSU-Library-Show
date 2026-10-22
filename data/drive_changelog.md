@@ -43,3 +43,8 @@
 ## 2026-10-22 Final script format revision (request 3)
 - Final Show Script docx and pdf rebuilt (18 pages): provenance notes column replaced with "Track history"; Released column shows bold date with year plus sub-line (single, album, reissue); booked Bay Area shows highlighted yellow per track ("LIVE SOON") and a booked-shows table after Set 6 (foopee.com, read Oct. 22). Dates marked (verify) rest on one source. Old files moved to _to_delete.
 - Notes Sheet and Zookeeper CSV unchanged.
+
+## 2026-10-22 Thursday show sync (kzsu-thu-show-sync)
+- Air Order read live: 55 tracks, identical to this morning's snapshot, so no new Stace edits to log. Plan placement of the last six (Air Order positions 50 to 55) kept; Air Order not changed.
+- YTM Working rewritten by deltas: 39 removed, 42 added, 54 moves. Verified by reload: 55 tracks, 2:59, equals plan order reversed.
+- Re-rendered show files from the plan (labels: EODM Ume, Viagra Boys Shrimptech Enterprises; Royal Blood album date Nov. 6; QOTSA single date Aug. 25). Zookeeper CSV and working_playlist md overwritten in place at /KZSU/ top level; Working/ copies refreshed. Final Notes Sheet patched in place (5 cells). Word and PDF script unchanged (built 08:38 from the same plan).

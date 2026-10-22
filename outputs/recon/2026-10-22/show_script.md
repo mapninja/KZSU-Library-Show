@@ -69,7 +69,7 @@ KZSU 90.1 FM, 6-8 p.m. PT. Draft built Fri. Oct. 16 (Thursday-night run). Landsc
 6. **Westside Cowboy, "Kick Stones (The Boys)"** (3:57) Island Records. Last six, placed in Set 1 after Yard Act (British guitar bands). Manchester four-piece, debut album It Goes On out Aug. 21 on Island, lead single, album opener. Uptempo (about 139 BPM), Velvet Underground fuzz sped up. NACC #11. Your review draft is dated Oct. 21 and is not posted, so it is not in the rotation count. FCC: CLEAN (Genius, 300 words; matches your review draft).
 7. **Dummy, "Full Spectrum Dominance"** (3:36) Polyvinyl Record Co. Album out today (Fri. Oct. 16) on Polyvinyl. Carried over: it did not air Oct. 15. FCC: CLEAN (Genius, 158 words).
 8. **Little Barrie, "More Bad Miles Of Road"** (3:49) Easy Eye Sound. Tag 1156452. Reviewed rotation, week 2: five stars. Lead single, heavy play on the show. FCC: DJ Stace review (Zookeeper, reviewed Oct. 4 to 8, 2026): no FCC flag on this track.
-9. **Royal Blood, "Ten Over Ten"** (3:18) Warner Records. Last six, placed at the end of Set 1 (loud and new, after Little Barrie). New single, first music since Back to the Water Below (2023). Dead Company is due Nov. 13 on Warner Records; sources list Nov. 6, 12 and 13, so verify. Zookeeper has Warner Bros. Records but not Warner Records. FCC: CLEAN (Genius, 275 words).
+9. **Royal Blood, "Ten Over Ten"** (3:18) Warner Records. Last six, placed at the end of Set 1 (loud and new, after Little Barrie). New single, first music since Back to the Water Below (2023). Dead Company is due Nov. 6 on Warner Records (August coverage said Nov. 13). Zookeeper has Warner Bros. Records but not Warner Records. FCC: CLEAN (Genius, 275 words).
 
 ### Hour 1, Set 2: Texas punk (Austin, San Antonio and Dallas)
 
@@ -80,7 +80,7 @@ KZSU 90.1 FM, 6-8 p.m. PT. Draft built Fri. Oct. 16 (Thursday-night run). Landsc
 14. **The Jesus Lizard, "Monkey Trick"** (4:19) Touch and Go. Tag 1086342. Texas punk arc. David Yow's band after Scratch Acid. Mouth Breather (piss x1) and Seasick (fuck x1) were skipped. FCC: CLEAN (Genius, 238 words).
 15. **Loco Gringos, "Ain't No Corndogs"** (2:28) Existential Vacuum. Tag 1089648. Stace added this to the Air Order (Oct. 22). Dallas punk band. Their only album came out after singer Tom Foote died in 1990. In the library. No lyrics posted anywhere checked: listen first. FCC: UNVERIFIED: no lyrics posted on Genius or the Bandcamp page. Listen first.
 16. **Ty Segall, "Separation"** (2:52) Drag City. Tag 1156508. Reviewed rotation, week 2 (three stars: fast, snared-out punk rocker). Pairs with the Texas set. Play Cowboys aired Oct. 1 and Oct. 8; Black Paint is in cool-off. FCC: DJ Stace review (Zookeeper, reviewed Oct. 4 to 8, 2026): no FCC flag on this track.
-17. **Viagra Boys, "Medicine for Horses"** (2:51) Year0001. Texas arc pairing named in config/show_focus.json (Ty Segall, Thee Oh Sees, Viagra Boys). FCC: CLEAN (Genius, 249 words).
+17. **Viagra Boys, "Medicine for Horses"** (2:51) Shrimptech Enterprises. Texas arc pairing named in config/show_focus.json (Ty Segall, Thee Oh Sees, Viagra Boys). FCC: CLEAN (Genius, 249 words).
 
 ### Hour 1, Set 3: Fontaines D.C., Dopamine Chamber (out Oct. 16)
 
@@ -139,6 +139,6 @@ Intro: New Rose came out Oct. 22, 1976 on Stiff Records: the first UK punk singl
 50. **Star Moles, "The End"** (2:29) Historic New Jersey Recordings. Carried over: it did not air Oct. 15. FCC: CLEAN (Genius, 117 words).
 51. **R.M.F.C., "The Clue"** (1:40) Warttmann Inc. Carried over: it did not air Oct. 15. Listen first (lyrics not posted). Label from Bandcamp (single source), not in Zookeeper: verify. FCC: UNVERIFIED: no lyrics posted. Listen first.
 52. **Jozef Van Wissem & Jim Jarmusch, "Never Like You Said (feat. Courtney Barnett)"** (5:24) Sacred Bones Records. Stace added this to the end of the Air Order (seen Oct. 20). Set placement is her call. Double album Bocca di Lupo and Mouth of the Wolf out Nov. 6. FCC: CLEAN (Genius, 1,938 chars). Crowd-sourced lyrics: check by ear.
-53. **Eagles Of Death Metal, "Careless Whisper"** (5:05) Universal. Stace added this to the end of the Air Order (seen Oct. 20). Set placement is her call. Label from press listings (Universal group); verify. Cover of the George Michael song. FCC: CLEAN (Genius, 1,574 chars). Crowd-sourced lyrics: check by ear.
+53. **Eagles Of Death Metal, "Careless Whisper"** (5:05) Ume. Stace added this to the end of the Air Order (seen Oct. 20). Set placement is her call. Label from press listings (Universal group); verify. Cover of the George Michael song. FCC: CLEAN (Genius, 1,574 chars). Crowd-sourced lyrics: check by ear.
 54. **Lambrini Girls, "Cult of Celebrity"** (2:14) City Slang. Stace added this to the end of the Air Order (seen Oct. 20). Set placement is her call. FCC: CLEAN (Genius, 1,262 chars). Crowd-sourced lyrics: check by ear.
 55. **Queens of the Stone Age, "Insignificant Other"** (5:54) Matador Records. Stace added this to the end of the Air Order (seen Oct. 20). Set placement is her call. Second single from Perfecth, out Oct. 30 on Matador. FCC: CLEAN (Genius, 1,089 chars). Crowd-sourced lyrics: check by ear.

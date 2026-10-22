@@ -1,0 +1,236 @@
+[
+ {
+  "key": "dread spectre council|thetans",
+  "date": "2026-03-27",
+  "precision": "day",
+  "sources": [
+   "https://open.spotify.com/album/5FYp0h2M0w9oJtaQ6EXsCf",
+   "https://www.amazon.com/Thetans-Vinyl-Dread-Spectre-Council/dp/B0GHQ2RMSD",
+   "https://handmaderecs.bandcamp.com/"
+  ],
+  "status": "released",
+  "note": "Spotify lists 2026-03-27 (only source with a plain release date; no label announcement found). Amazon first-available dates differ: CD 2026-03-22, LP 2026-03-29. Treat day as moderate confidence.",
+  "label": ""
+ },
+ {
+  "key": "fall|singles live vol 2 80 83",
+  "date": "2026-05-29",
+  "precision": "day",
+  "sources": [
+   "https://bellaunion.com/products/the-fall-singles-live-vol-2",
+   "https://bellaunion.bandcamp.com/album/singles-live-vol-2-80-83",
+   "https://joyzine.org/2026/05/27/the-fall/"
+  ],
+  "status": "released",
+  "note": "Popstock POP004 with Bella Union; live compilation of 1980-83 single material. One line in the Joyzine interview says 28 May but label pages and rest of article say 29 May.",
+  "label": ""
+ },
+ {
+  "key": "annabelle chairlegs|waking up",
+  "date": "2026-01-30",
+  "precision": "day",
+  "sources": [
+   "https://annabellechairlegs.bandcamp.com/album/waking-up",
+   "https://todorecords.bandcamp.com/album/waking-up",
+   "https://www.austinchronicle.com/columns/in-the-pocket/annabelle-chairlegs-is-waking-up/"
+  ],
+  "status": "released",
+  "note": "Third album, produced by Ty Segall. Levitation vinyl page says 2026-01-29, likely retailer discrepancy.",
+  "label": "TODO Records"
+ },
+ {
+  "key": "population ii|gimmicks",
+  "date": "2026-04-03",
+  "precision": "day",
+  "sources": [
+   "https://population2.bandcamp.com/album/gimmicks",
+   "https://www.punknews.org/article/87671/population-ii-to-release-new-ep-share-magouilleux",
+   "https://montrealrocks.ca/population-ii-release-gimmicks-ep/"
+  ],
+  "status": "released",
+  "note": "Digital 2026-04-03; vinyl edition 2026-04-24 (adds Serpent Echelle EP on B-side).",
+  "label": ""
+ },
+ {
+  "key": "iceage|for the love of grace the hereafter",
+  "date": "2026-05-29",
+  "precision": "day",
+  "sources": [
+   "https://en.wikipedia.org/wiki/For_Love_of_Grace_&_the_Hereafter",
+   "https://iceage.bandcamp.com/album/for-love-of-grace-the-hereafter",
+   "https://www.allmusic.com/album/release/for-love-of-grace-the-hereafter-mr0007039534"
+  ],
+  "status": "released",
+  "note": "Title is actually 'For Love of Grace & the Hereafter' (input has an extra 'the'). Sources agree.",
+  "label": ""
+ },
+ {
+  "key": "haters|non violent",
+  "date": "2025-03-21",
+  "precision": "day",
+  "sources": [
+   "https://music.apple.com/us/album/non-violent/1762970134",
+   "https://haters.bandcamp.com/album/non-violent",
+   "https://open.spotify.com/album/5L25sAsofmUPPgrhidKe6Y"
+  ],
+  "status": "released",
+  "note": "Brisbane trio Haters, debut album. Apple Music, Bandcamp and Spotify show 2025-03-21; a vinyl-only edition was pre-ordered from Nov 2024 before the digital release. Label not confirmed (no clearer label found).",
+  "label": ""
+ },
+ {
+  "key": "white denim|13",
+  "date": "2026-04-24",
+  "precision": "day",
+  "sources": [
+   "https://www.propermusicgroup.com/2026/04/20/white-denim-13/",
+   "https://bellaunion.com/products/white-denim-13",
+   "https://whitedenimband.bandcamp.com/album/13"
+  ],
+  "status": "released",
+  "note": "Bella Union BELLA1687. Sources agree.",
+  "label": ""
+ },
+ {
+  "key": "frog|frog for sale",
+  "date": "2026-04-17",
+  "precision": "day",
+  "sources": [
+   "https://www.albumoftheyear.org/album/1719548-frog-frog-for-sale.php",
+   "https://klofmag.com/2026/03/frog-announce-frog-for-sale-single-je-ne-sais-pas/",
+   "https://audioantihero.com/2026/03/28/news-frog-announce-new-lp-with-je-ne-sais-pas-single-us-tour-and-first-uk-show-since-2016-audio-antihero-artists-on-the-road/"
+  ],
+  "status": "released",
+  "note": "Eighth studio album. Sources agree on 2026-04-17. Some sources credit Audio Antihero / Tape Wormies jointly.",
+  "label": ""
+ },
+ {
+  "key": "twisted teens|florida water blues",
+  "date": "2026-07-10",
+  "precision": "day",
+  "sources": [
+   "https://twistedteens.bandcamp.com/album/florida-water-blues",
+   "https://thefirenote.com/reviews/twisted-teens-florida-water-blues-album-review/",
+   "https://rateyourmusic.com/release/album/twisted-teens/florida-water-blues/"
+  ],
+  "status": "released",
+  "note": "Going Underground Records confirmed. Sub Pop page mentions a vinyl LP + CD edition around 2026-09-18, a later physical release.",
+  "label": ""
+ },
+ {
+  "key": "sharp pins|mod mayday 23",
+  "date": "2026-09-04",
+  "precision": "day",
+  "sources": [
+   "https://sharppins.bandcamp.com/album/mod-mayday-23",
+   "https://www.clashmusic.com/news/sharp-pins-announces-new-album-mod-mayday-23/",
+   "https://www.deaddogrecords.com/lp-sharp-pins-mod-mayday-23.html"
+  ],
+  "status": "released",
+  "note": "Reissue of the 2023 teenage cassette Mod Mayday 23, on K Records (Perennial imprint per whynow). Digital/CD 2026-09-04; Upcoming Vinyl and Dead Dog list standard vinyl on 2026-11-06.",
+  "label": ""
+ },
+ {
+  "key": "courtney barnett|creature of habit",
+  "date": "2026-03-27",
+  "precision": "day",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Creature_of_Habit_(album)",
+   "https://rateyourmusic.com/release/album/courtney-barnett/creature-of-habit/",
+   "https://courtneybarnett.bandcamp.com/album/creature-of-habit"
+  ],
+  "status": "released",
+  "note": "Fourth studio album. Some coverage credits Mom + Pop and Fiction Records.",
+  "label": ""
+ },
+ {
+  "key": "interpol|see out loud b w this mirror weighs a ton",
+  "date": "2026-06-09",
+  "precision": "day",
+  "sources": [
+   "https://en.wikipedia.org/wiki/This_Mirror_Weighs_a_Ton",
+   "https://www.thefader.com/2026/06/09/interpol-this-mirror-weighs-a-ton-album-announcement",
+   "https://www.radiox.co.uk/news/music/interpol-this-mirror-weighs-a-ton-album-release-date-opening-tracklist/"
+  ],
+  "status": "released",
+  "note": "Double A-side released with the album announcement. Album 'This Mirror Weighs a Ton' followed 2026-08-28 (NME says Aug 31, apparent error).",
+  "label": ""
+ },
+ {
+  "key": "eric mcentee|i m not bothered by the rain",
+  "date": "2024-02-23",
+  "precision": "day",
+  "sources": [
+   "https://open.spotify.com/album/44X5MVji24cTnNUGK1aZnO",
+   "https://music.apple.com/ug/album/im-not-bothered-by-the-rain-single/1732727817",
+   "https://www.deezer.com/us/album/542127182"
+  ],
+  "status": "released",
+  "note": "Spotify, Apple Music and Deezer all show 2024-02-23. Later included on the New Moons EP (2024; Bandcamp dates conflict, Jul 19 vs Sep 6) and expanded edition 2025-05-23.",
+  "label": ""
+ },
+ {
+  "key": "brother wallace|gone with the wind",
+  "date": "2026-02-24",
+  "precision": "day",
+  "sources": [
+   "https://music.apple.com/us/song/gone-with-the-wind/1861427635",
+   "https://shorefire.com/releases/entry/brother-wallace-new-single-gone-with-the-wind",
+   "https://www.theindiescene.co.uk/single-reviews/brother-wallace-gone-with-the-wind"
+  ],
+  "status": "released",
+  "note": "Third single from debut album Electric Love (ATO, 2026-05-08).",
+  "label": ""
+ },
+ {
+  "key": "chinese american bear|turn up the radio",
+  "date": "2026-04-08",
+  "precision": "day",
+  "sources": [
+   "https://thedailymusicreport.com/music-news-releases/chinese-american-bear-turn-up-the-radio-04082026/",
+   "https://femmusic.com/2026/04/08/chinese-american-bear-turn-up-the-radio/",
+   "https://www.thelineofbestfit.com/news/chinese-american-bear-release-new-single-turn-up-the-radio-%E6%8A%8A%E6%94%B6%E9%9F%B3%E6%9C%BA%E5%BC%80%E5%A4%A7%E7%82%B9"
+  ],
+  "status": "released",
+  "note": "Date is from 'out now' coverage dated 2026-04-08 (no store listing opened). Shazam shows 2026-05-08, which is the album Dim Sum & Then Some date, not the single.",
+  "label": ""
+ },
+ {
+  "key": "cigarettes after sex|twizzler",
+  "date": "2026-05-19",
+  "precision": "day",
+  "sources": [
+   "https://cigarettesaftersex.bandcamp.com/album/twizzler",
+   "https://thedropradar.com/release/cigarettes-after-sex-twizzler/",
+   "https://music.apple.com/us/album/twizzler-single/1896063799"
+  ],
+  "status": "released",
+  "note": "Standalone single, licensed to Partisan. Sources agree.",
+  "label": ""
+ },
+ {
+  "key": "fontaines d c|marianne",
+  "date": "2026-08-18",
+  "precision": "day",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marianne_(Fontaines_D.C._song)",
+   "https://www.albumoftheyear.org/album/1981238-fontaines-dc-marianne.php",
+   "https://www.undertheradarmag.com/news/fontaines_dc_announce_new_album_share_new_song_marianne/"
+  ],
+  "status": "released",
+  "note": "Lead single from Dopamine Chamber (album out 2026-10-16, XL). Sources agree.",
+  "label": ""
+ },
+ {
+  "key": "pj harvey|voyager 7 inch",
+  "date": "2026-12-04",
+  "precision": "day",
+  "sources": [
+   "https://store.pjharvey.net/products/voyager-7",
+   "https://pjharvey.bandcamp.com/album/voyager",
+   "https://www.juno.co.uk/products/pj-harvey-voyager-vinyl/1175886-01/"
+  ],
+  "status": "announced",
+  "note": "Sources disagree on the 7-inch date: artist store 2026-12-04 (Bandcamp says ships on or around Dec 4); Juno, Roan, Horizons, Flashback, Crash list 2026-12-18. Digital single was released 2026-06-24 (Bandcamp). Partisan, cat. PTSN1612-7.",
+  "label": "Partisan Records"
+ }
+]
