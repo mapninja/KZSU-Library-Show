@@ -108,7 +108,7 @@ function setTable(set, startNum, cumStart) {
 // ---- build body ----
 const kids = [];
 kids.push(new Paragraph({ spacing: { after: 40 }, children: [run("The Library with DJ Stace: Final Show Script", { size: 36, bold: true, color: NAVY })] }));
-kids.push(para("Thursday, Oct. 22, 2026  |  KZSU 90.1 FM  |  6-8 p.m. PT  |  Final built Wed. Oct. 21  |  Texas punk week (punk and post-punk arc, week 2 of 4)  |  Landscape table version", { size: 18, color: "555555", after: 120 }));
+kids.push(para("Thursday, Oct. 22, 2026  |  KZSU 90.1 FM  |  6-8 p.m. PT  |  Final built Wed. Oct. 21, updated Thu. Oct. 22 for your Air Order edits  |  Texas punk week (punk and post-punk arc, week 2 of 4)  |  Landscape table version", { size: 18, color: "555555", after: 120 }));
 
 let num = 1, cum = 0; const built = [];
 for (const set of plan.sets) { const b = setTable(set, num, cum); num = b.nextNum; cum = b.cumEnd; built.push({ set, ...b }); }
@@ -121,32 +121,33 @@ kids.push(simpleTable([6200, 1500, 1800, 2400, 2500], ["Set", "Tracks", "Set tim
     .concat([[{ t: "Total (airable)", bold: true }, { t: String(built.reduce((a, b) => a + b.count, 0)), bold: true }, { t: fmt(total), bold: true }, `Hour 1 ${fmt(h1)}, Hour 2 ${fmt(total - h1)}`, { t: "Target 2:30:00", bold: true }]])));
 kids.push(note("FCC column: green CLEAN, amber means listen first or check by ear, red means hold out. Tag is the KZSU library tag; a dash means not in the library. Cull to taste: the list runs " + fmt(total - 9000) + " over the 2:30 target. Bench tracks (back page) are not in the Air Order."));
 
-kids.push(heading("What changed since the working draft", 24, 160));
+kids.push(heading("What changed: Thu. Oct. 22 update (your Air Order edits)", 24, 160));
 kids.push(simpleTable([2600, 11800], ["Change", "Detail"], [
-  [{ t: "Culled", bold: true }, "None. The Notes Sheet has no Cull ticks (sheet untouched since the Oct. 20 deploy)."],
-  [{ t: "Replaced", bold: true }, "None. No Replace ticks."],
-  [{ t: "Added (your Air Order edits, synced Oct. 20)", bold: true }, `Greatest Gift (${N("Scratch Acid", "Greatest")}) replaced Mary Had a Little Drug Problem. Nasty (${N("The Damned", "Nasty")}) joined the Triple Shot. Four tracks closed the Air Order: Van Wissem and Jarmusch (${N("Jozef Van Wissem & Jim Jarmusch", "Never")}), Eagles of Death Metal (${N("Eagles Of Death Metal", "Careless")}), Lambrini Girls (${N("Lambrini Girls", "Cult")}), Queens of the Stone Age (${N("Queens of the Stone Age", "Insignificant")}).`],
-  [{ t: "Moved", bold: true }, "None. The Air Order on YouTube Music (read Oct. 21) matches the plan, 50 tracks."],
-  [{ t: "Metadata", bold: true }, "Labels filled for 7 tracks that had none or a (verify) flag: Scratch Acid (Touch and Go, tag 1082955), The Damned Nasty (Damned), R.M.F.C. (Warttmann Inc.), Van Wissem and Jarmusch (Sacred Bones), EODM (Universal), QOTSA (Matador), Fujiya & Miyagi (Impossible Objects of Desire)."],
-  [{ t: "Talk breaks", bold: true }, "New break after Set 9 for the four tail tracks. Texas punk break now cites Greatest Gift. Fontaines tour note updated."],
+  [{ t: "Cut by you", bold: true }, "Fontaines D.C. Six Shot Morning, Mimesis and Where Is Gone? (Happy For You stays), and Pulp The Trees. All four are out of the run of show and the Zookeeper CSV. Logged as not interested for 60 days."],
+  [{ t: "Added inside the list", bold: true }, `Nervebreakers My Girlfriend is a Rock, radio edit (${N("Nervebreakers", "My Girl")}), Loco Gringos Ain't No Corndogs (${N("Loco Gringos", "Ain")}) and This Is Lorelei & MJ Lenderman Dancing in the Club, radio edit (${N("This Is Lorelei & MJ Lenderman", "Dancing")}). Set 2 is now Texas punk with Dallas added.`],
+  [{ t: "Your last six, placed where they fit", bold: true }, `Set 1: Westside Cowboy (${N("Westside Cowboy", "Kick")}, after Yard Act) and Royal Blood (${N("Royal Blood", "Ten")}, last, before the Texas set). Set 7: Bauhaus (${N("Bauhaus", "The Passion")}) and Consolidated (${N("Consolidated", "Friendly")}). Set 8: Stef Chura (${N("Stef Chura", "Sweet")}, closes the slow set). Set 9: Dumb (${N("Dumb", "Pull")}, with the short rockers).`],
+  [{ t: "Reordered", bold: true }, "Set 1 now follows your Air Order (Lex Walton first, Dummy after Yard Act). The Air Order on YouTube Music still lists the six at the end (positions 50 to 55); it was not changed."],
+  [{ t: "Metadata", bold: true }, "Labels and tags from Zookeeper where the library has the album (Loco Gringos 1089648, Bauhaus Mask 273046, Stef Chura Midnight 1135774, Consolidated 2866, Dumb 1148228). Web sources for the rest. Nervebreakers is on the library compilation Bloodstains Across Texas only (tag 487829); no tag used."],
+  [{ t: "Still open", bold: true }, { t: "Triple Shot has four Damned tracks. Loco Gringos has no lyrics posted: listen first. Lorelei and Lenderman, Nervebreakers and Consolidated are radio edits on YTM: confirm the edits by ear (Lorelei original has fuck x2 in Verse 4).", color: RED }],
+  [{ t: "Earlier (Oct. 21 final)", bold: true }, "No cull or replace ticks. Labels filled for seven tracks. Greatest Gift replaced Mary Had a Little Drug Problem; Nasty joined the Triple Shot; Van Wissem and Jarmusch, EODM, Lambrini Girls and QOTSA closed the Air Order."],
 ]));
 kids.push(spacer());
 kids.push(heading("What is in this show", 24, 60));
 kids.push(simpleTable([2600, 11800], ["Item", "Detail"], [
-  [{ t: "Your requests (Oct. 16)", bold: true }, `Fontaines D.C. Dopamine Chamber: four tracks in Set 3 (${N("Fontaines D.C.", "Six Shot")}-${N("Fontaines D.C. & ROSALIA", "Where")}). The Fujiya & Miyagi, Kraftwerk, Cabaret Voltaire set is back as Set 7 (${N("Kraftwerk", "Numbers")}-${N("Fujiya & Miyagi", "No Green")}). Reviewed albums stay in tapering rotation. Bay Area highlights list upcoming shows only.`],
-  [{ t: "Reviewed albums in rotation", bold: true }, "13 albums reviewed in the last 10 weeks, one track each (week 2). Table below. Taper: weeks 1 to 3 one track per album; weeks 4 to 6 about half; weeks 7 to 10 about one in four. Config: config/review_rotation.json."],
+  [{ t: "Your requests (Oct. 16)", bold: true }, `Fontaines D.C. Dopamine Chamber: one track in Set 3 now (${N("Fontaines D.C.", "Happy")} Happy For You; you cut the other three). The Fujiya & Miyagi, Kraftwerk, Cabaret Voltaire set is back as Set 7 (${N("Kraftwerk", "Numbers")}-${N("Fujiya & Miyagi", "No Green")}). Reviewed albums stay in tapering rotation. Bay Area highlights list upcoming shows only.`],
+  [{ t: "Reviewed albums in rotation", bold: true }, "13 albums reviewed in the last 10 weeks, one track each (week 2); This Is Lorelei has a second track tonight (Lenderman version). The Westside Cowboy review is a draft, not posted. Table below. Taper: weeks 1 to 3 one track per album; weeks 4 to 6 about half; weeks 7 to 10 about one in four. Config: config/review_rotation.json."],
   [{ t: "Triple Shot", bold: true }, `The Damned (${N("The Damned", "New Rose")}-${N("The Damned", "Love Song")}). New Rose was released Oct. 22, 1976: 50 years on show day. Your Air Order adds Nasty (${N("The Damned", "Nasty")}), so the set now has four tracks. Cut one to keep it a triple, or keep four.`],
-  [{ t: "Texas punk", bold: true }, `Set 2 (${N("Big Boys", "Fun")}-${N("Viagra Boys", "Medicine")}). Held out for FCC words: Scratch Acid Crazy Dan, Jesus Lizard Mouth Breather and Seasick.`],
-  [{ t: "Fontaines D.C. FCC", bold: true }, { t: "Tongue (shit x10, Refrain) and Japan (fuck x3, shit x3, Chorus) are held out. The other nine Dopamine Chamber tracks screened clean on Genius Oct. 16.", color: RED }],
+  [{ t: "Texas punk", bold: true }, `Set 2 (${N("Nervebreakers", "My Girl")}-${N("Viagra Boys", "Medicine")}), Austin, San Antonio and Dallas. Held out for FCC words: Scratch Acid Crazy Dan, Jesus Lizard Mouth Breather and Seasick.`],
+  [{ t: "Fontaines D.C. FCC", bold: true }, { t: "Tongue (shit x10, Refrain) and Japan (fuck x3, shit x3, Chorus) are held out. Happy For You and the other Dopamine Chamber tracks screened clean on Genius Oct. 16.", color: RED }],
   [{ t: "Ticket giveaway", bold: true }, "None placed. No row on the ticket sheet lists Stace with a give-by date on or after Oct. 22. Rows for passed shows (Dinosaur Jr., Hovvdy) are skipped. Option: Slow Pulp, Fillmore, Oct. 28 (listed DJ Cleo): confirm with Cleo."],
   [{ t: "Carried over", bold: true }, "Tracks that did not air Oct. 15: Dummy, Heavens to Betsy, Julia Jacklin, Goat, Allah-Las, Twin Peaks, feeble little horse, Star Moles, R.M.F.C. The Clue. Fujiya & Miyagi aired as the last spin Oct. 15 but stays in your set."],
-  [{ t: "Labels and tags", bold: true }, "Zookeeper rechecked Oct. 21 for the seven changed tracks. Not in the library: Dopamine Chamber (label from the Zookeeper label table), Big Boys, Viagra Boys, Cheekface, Pretenders. Labels not in the Zookeeper label table: Damned, Warttmann Inc., Impossible Objects of Desire. Fill in at the studio if the library has them by Thursday."],
+  [{ t: "Labels and tags", bold: true }, "Zookeeper rechecked Oct. 21 and 22 for changed tracks. Not in the library: Dopamine Chamber (label from the Zookeeper label table), Big Boys, Viagra Boys, Cheekface, Pretenders, Westside Cowboy, Royal Blood. Labels not in the Zookeeper label table: Damned, Wild Child Records, Warttmann Inc., Impossible Objects of Desire, Warner Records (library has Warner Bros. Records). Fill in at the studio if the library has them by Thursday."],
 ]));
 
 kids.push(heading("Talk break: Today in music", 24, 200));
 kids.push(simpleTable([2600, 3300, 6000, 2500], ["Artist or place", "Item", "Fact", "In tonight's set"], [
   ["The Damned", "New Rose", "Released Oct. 22, 1976 on Stiff Records (50 years today). First UK punk single. Nick Lowe produced it at Pathway Studios in London, reportedly in one day. The B-side is a fast cover of the Beatles' Help!", N("The Damned", "New Rose") + " New Rose"],
-  ["Pulp", "We Love Life", "Released Oct. 22, 2001 on Island (25 years today). Scott Walker produced. It reached No. 6 in the UK.", N("Pulp", "The Trees") + " The Trees"],
+  ["Pulp", "We Love Life", "Released Oct. 22, 2001 on Island (25 years today). Scott Walker produced. It reached No. 6 in the UK.", "No track: The Trees was cut from the Air Order"],
   ["Pretenders", "Get Close", "UK release Oct. 20, 1986 (40 years). Verify the date before air.", N("Pretenders", "Don't") + " Don't Get Me Wrong"],
   ["Scratch Acid, The Jesus Lizard", "Austin lineage", "David Yow sang for Scratch Acid, then fronted The Jesus Lizard. Greatest Gift is from the 1984 S/T EP, collected on The Greatest Gift (Touch and Go, 1991). Goat is on Touch and Go (1991).", N("Scratch Acid", "Greatest") + " and " + N("The Jesus Lizard", "Monkey")],
 ]));
@@ -154,10 +155,12 @@ kids.push(note("Focus calendar: Texas punk tonight, Halloween post-punk Oct. 29,
 
 kids.push(heading("Talk break: new and coming up", 24, 200));
 kids.push(simpleTable([2300, 3600, 2200, 2100, 4200], ["Artist", "Release", "Label", "Date", "In tonight's set"], [
-  ["Fontaines D.C.", "Dopamine Chamber (fifth album, James Ford producing)", "XL", { t: "Fri. Oct. 16", bold: true }, `${N("Fontaines D.C.", "Six Shot")}-${N("Fontaines D.C. & ROSALIA", "Where")} (Set 3)`],
+  ["Fontaines D.C.", "Dopamine Chamber (fifth album, James Ford producing)", "XL", { t: "Fri. Oct. 16", bold: true }, `${N("Fontaines D.C.", "Happy")} Happy For You (Set 3)`],
   ["Dummy", "do you love the color of the sky? (album)", "Polyvinyl", { t: "Fri. Oct. 16", bold: true }, `${N("Dummy", "Full")} Full Spectrum Dominance`],
   ["Heavens to Betsy", "baby's gone (first new release in 32 years, per Consequence)", "Kill Rock Stars", { t: "Fri. Oct. 16", bold: true }, `${N("Heavens to Betsy", "baby")} baby's gone`],
   ["The Avalanches", "No Bad Memories", "Modular", { t: "Fri. Oct. 16", bold: true }, `${N("The Avalanches", "Blue")} Blue Shadows (Karen O)`],
+  ["Westside Cowboy", "It Goes On (debut album; Kick Stones (The Boys) is the lead single)", "Island", { t: "Fri. Aug. 21", bold: true }, `${N("Westside Cowboy", "Kick")} Kick Stones (The Boys)`],
+  ["Royal Blood", "Dead Company (single Ten Over Ten out Aug. 12; album date: sources say Nov. 6, 12 or 13)", "Warner", { t: "Fri. Nov. 13 (verify)", bold: true }, `${N("Royal Blood", "Ten")} Ten Over Ten`],
   ["Queens of the Stone Age", "Perfecth (single Insignificant Other out Aug. 28)", "Matador", { t: "Fri. Oct. 30", bold: true }, `${N("Queens of the Stone Age", "Insignificant")} Insignificant Other`],
   ["Fujiya & Miyagi", "New Shiny Object", "Impossible Objects of Desire", { t: "Fri. Oct. 30", bold: true }, `${N("Fujiya & Miyagi", "No Green")} No Green Light`],
   ["Jozef Van Wissem & Jim Jarmusch", "Bocca di Lupo and Mouth of the Wolf (double album)", "Sacred Bones", { t: "Fri. Nov. 6", bold: true }, `${N("Jozef Van Wissem & Jim Jarmusch", "Never")} Never Like You Said (Courtney Barnett)`],
@@ -225,7 +228,10 @@ kids.push(simpleTable([3200, 2400, 1500, 7300], ["Artist and track", "Status", "
   [{ t: "R.M.F.C., The Clue", bold: true }, AMB("LISTEN FIRST"), N("R.M.F.C.", "The Clue"), "No lyrics posted. Short song (1:40). Cull if unsure."],
   ["Scratch Acid, Greatest Gift", AMB("CLEAN, check by ear"), N("Scratch Acid", "Greatest"), "Genius 747 characters: short or partial transcription. Check by ear."],
   ["Stace's four tail adds (Van Wissem and Jarmusch, EODM, Lambrini Girls, QOTSA)", AMB("CLEAN, check by ear"), `${N("Jozef Van Wissem & Jim Jarmusch", "Never")}-${N("Queens of the Stone Age", "Insignificant")}`, "Genius lyrics are crowd-sourced and short. Confirm by ear."],
-  ["Fontaines D.C., Dopamine Chamber (4 tracks in set)", AMB("CLEAN, check by ear"), `${N("Fontaines D.C.", "Six")}-${N("Fontaines D.C. & ROSALIA", "Where")}`, "Genius lyrics were posted Oct. 16. Crowd-sourced: confirm by ear."],
+  ["Fontaines D.C., Happy For You", AMB("CLEAN, check by ear"), N("Fontaines D.C.", "Happy"), "Genius lyrics were posted Oct. 16. Crowd-sourced: confirm by ear."],
+  [{ t: "Loco Gringos, Ain't No Corndogs", bold: true }, AMB("LISTEN FIRST"), N("Loco Gringos", "Ain"), "No lyrics posted on Genius or Bandcamp. Short (2:28): cull if unsure."],
+  [{ t: "This Is Lorelei & MJ Lenderman, Dancing in the Club (Radio Edit)", bold: true }, AMB("LISTEN FIRST"), N("This Is Lorelei & MJ Lenderman", "Dancing"), "Original has fuck x2 (Verse 4). YTM lists a Radio Edit: confirm both are covered."],
+  ["Nervebreakers (My Girlfriend is a Rock) and Consolidated (Friendly Fascism), both Radio Edit on YTM", AMB("CLEAN, check by ear"), `${N("Nervebreakers", "My Girl")} and ${N("Consolidated", "Friendly")}`, "Genius lyrics screened clean; the edits are not verified."],
   ["Reviewed-album tracks (13)", AMB("Per your review"), "Sets 1, 2, 4, 8", "Your Zookeeper reviews list FCC words per track; none of these tracks has a flag."],
   [{ t: "Fontaines D.C., Tongue", bold: true }, { t: "shit x10 (Refrain)", color: RED }, "FCC Edit Needed", "Not airable as is."],
   [{ t: "Fontaines D.C., Japan", bold: true }, { t: "fuck x3, shit x3 (Chorus)", color: RED }, "Held out", "Dopamine Chamber track 10. Not in set."],

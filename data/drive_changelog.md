@@ -35,3 +35,7 @@
 - No Cull or Replace ticks; Air Order matches plan (50 tracks).
 - Labels filled for 7 tracks (Scratch Acid tag 1082955, Nasty, R.M.F.C., Van Wissem and Jarmusch, EODM, QOTSA, Fujiya & Miyagi). Four videoIds set to live Air Order ids.
 - New: final Notes Sheet at top level, Final Show Script docx and pdf, Zookeeper CSV, working_playlist md. Retired: Show Prep Notes Sheet and Working Show Script docx and pdf.
+
+## 2026-10-22 Air Order update (Oct. 22 show)
+- Stace cut 3 Fontaines D.C. tracks and Pulp The Trees; added Nervebreakers, Loco Gringos, This Is Lorelei and MJ Lenderman inline plus six at the end (Royal Blood, Westside Cowboy, Bauhaus, Stef Chura, Consolidated, Dumb). Last six placed in Sets 1, 7, 8 and 9.
+- New final Notes Sheet (55 rows), Final Show Script docx and pdf (16 pages), Zookeeper CSV (55 tracks, 8 mic breaks). Old files moved to _to_delete.

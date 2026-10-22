@@ -491,6 +491,42 @@
    "videoId": "4ULEdk2rIkY",
    "note": "replaced by Greatest Gift",
    "cooloff_until": "2026-12-19"
+  },
+  {
+   "date": "2026-10-22",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Fontaines D.C.",
+   "title": "Six Shot Morning",
+   "videoId": "00krktruwsM",
+   "note": "cut from Air Order Oct. 22",
+   "cooloff_until": "2026-12-21"
+  },
+  {
+   "date": "2026-10-22",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Fontaines D.C.",
+   "title": "Mimesis",
+   "videoId": "zXyN6eZjlTg",
+   "note": "cut from Air Order Oct. 22",
+   "cooloff_until": "2026-12-21"
+  },
+  {
+   "date": "2026-10-22",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Fontaines D.C. & ROSALIA",
+   "title": "Where Is Gone?",
+   "videoId": "3mb6YrCabso",
+   "note": "cut from Air Order Oct. 22",
+   "cooloff_until": "2026-12-21"
+  },
+  {
+   "date": "2026-10-22",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Pulp",
+   "title": "The Trees",
+   "videoId": "dXyQj36I2Vc",
+   "note": "cut from Air Order Oct. 22",
+   "cooloff_until": "2026-12-21"
   }
  ],
  "added_by_stace": [
@@ -1050,6 +1086,69 @@
    "title": "Decoration",
    "videoId": "tKcbUTCGY3Q",
    "note": "new interest (read only)"
+  },
+  {
+   "date": "2026-10-22",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Nervebreakers",
+   "title": "My Girlfriend is a Rock (Radio Edit)",
+   "videoId": "NhfruZ2cHZo"
+  },
+  {
+   "date": "2026-10-22",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Loco Gringos",
+   "title": "Ain't No Corndogs",
+   "videoId": "eF4RiUfPRNs"
+  },
+  {
+   "date": "2026-10-22",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "This Is Lorelei & MJ Lenderman",
+   "title": "Dancing in the Club (MJ Lenderman Version) (Radio Edit)",
+   "videoId": "5X718hNafSM"
+  },
+  {
+   "date": "2026-10-22",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Royal Blood",
+   "title": "Ten Over Ten",
+   "videoId": "HzkJsKXCjvg"
+  },
+  {
+   "date": "2026-10-22",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Westside Cowboy",
+   "title": "Kick Stones (The Boys)",
+   "videoId": "W51Ik_1noH8"
+  },
+  {
+   "date": "2026-10-22",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Bauhaus",
+   "title": "The Passion of Lovers",
+   "videoId": "qSk88IeNUr0"
+  },
+  {
+   "date": "2026-10-22",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Stef Chura",
+   "title": "Sweet Sweet Midnight",
+   "videoId": "JcEeRS8DDPA"
+  },
+  {
+   "date": "2026-10-22",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Consolidated",
+   "title": "Friendly Fascism (Radio Edit)",
+   "videoId": "rbI494XYNi4"
+  },
+  {
+   "date": "2026-10-22",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Dumb",
+   "title": "Pull Me Up",
+   "videoId": "5nt_9kEaokY"
   }
  ],
  "kept": [],

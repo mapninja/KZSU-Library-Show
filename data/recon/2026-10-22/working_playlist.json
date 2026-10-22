@@ -97,22 +97,22 @@
    "set": "Hour 1, Set 1: Loud and new, plus reviews in rotation",
    "tracks": [
     {
-     "artist": "Dummy",
-     "track": "Full Spectrum Dominance",
-     "album": "do you love the color of the sky?",
-     "label": "Polyvinyl Record Co.",
-     "label_source": "zookeeper label table",
-     "tag": "",
-     "released": "2026-10-16 (album)",
-     "type": "single",
+     "artist": "Lex Walton",
+     "track": "For Thee I Sing",
+     "album": "Ultimate Love Forever",
+     "label": "Sub Pop Records",
+     "label_source": "zookeeper album 1156519",
+     "tag": "1156519",
+     "released": "2026-08-26",
+     "type": "album track",
      "upcoming": "",
-     "duration": "3:36",
-     "priority": "R",
-     "why": "Album out today (Fri. Oct. 16) on Polyvinyl. Carried over: it did not air Oct. 15.",
+     "duration": "2:01",
+     "priority": "O",
+     "why": "Reviewed rotation, week 2: five stars. Opener of the album. CD and LP out Nov. 20.",
      "fcc_status": "CLEAN",
-     "fcc_note": "CLEAN (Genius, 158 words).",
-     "source": "carried from Oct. 15 plan",
-     "videoId": "FEeoIbUM60s"
+     "fcc_note": "DJ Stace review (Zookeeper, reviewed Oct. 4 to 8, 2026): no FCC flag on this track.",
+     "source": "review rotation",
+     "videoId": "w7PnWZXJwoc"
     },
     {
      "artist": "Heavens to Betsy",
@@ -169,24 +169,6 @@
      "videoId": "UmRuVav12FA"
     },
     {
-     "artist": "Lex Walton",
-     "track": "For Thee I Sing",
-     "album": "Ultimate Love Forever",
-     "label": "Sub Pop Records",
-     "label_source": "zookeeper album 1156519",
-     "tag": "1156519",
-     "released": "2026-08-26",
-     "type": "album track",
-     "upcoming": "",
-     "duration": "2:01",
-     "priority": "O",
-     "why": "Reviewed rotation, week 2: five stars. Opener of the album. CD and LP out Nov. 20.",
-     "fcc_status": "CLEAN",
-     "fcc_note": "DJ Stace review (Zookeeper, reviewed Oct. 4 to 8, 2026): no FCC flag on this track.",
-     "source": "review rotation",
-     "videoId": "w7PnWZXJwoc"
-    },
-    {
      "artist": "Yard Act",
      "track": "New Beginnings",
      "album": "You're Gonna Need A Little Music",
@@ -205,6 +187,44 @@
      "videoId": "WUmzu_RDflM"
     },
     {
+     "artist": "Westside Cowboy",
+     "track": "Kick Stones (The Boys)",
+     "album": "It Goes On",
+     "label": "Island Records",
+     "label_source": "zookeeper label table 10827 (album not in library)",
+     "tag": "",
+     "released": "2026-08-21 (album; single May 20)",
+     "type": "single",
+     "upcoming": "",
+     "duration": "3:57",
+     "priority": "R",
+     "why": "Last six, placed in Set 1 after Yard Act (British guitar bands). Manchester four-piece, debut album It Goes On out Aug. 21 on Island, lead single, album opener. Uptempo (about 139 BPM), Velvet Underground fuzz sped up. NACC #11. Your review draft is dated Oct. 21 and is not posted, so it is not in the rotation count.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, 300 words; matches your review draft).",
+     "source": "added_by_stace",
+     "videoId": "W51Ik_1noH8",
+     "added_by": "DJ Stace",
+     "source_url": "https://westsidecowboy.bandcamp.com/album/it-goes-on"
+    },
+    {
+     "artist": "Dummy",
+     "track": "Full Spectrum Dominance",
+     "album": "do you love the color of the sky?",
+     "label": "Polyvinyl Record Co.",
+     "label_source": "zookeeper label table",
+     "tag": "",
+     "released": "2026-10-16 (album)",
+     "type": "single",
+     "upcoming": "",
+     "duration": "3:36",
+     "priority": "R",
+     "why": "Album out today (Fri. Oct. 16) on Polyvinyl. Carried over: it did not air Oct. 15.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, 158 words).",
+     "source": "carried from Oct. 15 plan",
+     "videoId": "FEeoIbUM60s"
+    },
+    {
      "artist": "Little Barrie",
      "track": "More Bad Miles Of Road",
      "album": "Gravity Freeze",
@@ -221,12 +241,53 @@
      "fcc_note": "DJ Stace review (Zookeeper, reviewed Oct. 4 to 8, 2026): no FCC flag on this track.",
      "source": "review rotation",
      "videoId": "QXOOzvDc3Nk"
+    },
+    {
+     "artist": "Royal Blood",
+     "track": "Ten Over Ten",
+     "album": "Ten Over Ten",
+     "label": "Warner Records",
+     "label_source": "media: Radio X, DIY (Warner Records); not in ZK label table as spelled",
+     "tag": "",
+     "released": "2026-08-12 (single; album Dead Company out Nov. 13, verify)",
+     "type": "single",
+     "upcoming": "",
+     "duration": "3:18",
+     "priority": "R",
+     "why": "Last six, placed at the end of Set 1 (loud and new, after Little Barrie). New single, first music since Back to the Water Below (2023). Dead Company is due Nov. 13 on Warner Records; sources list Nov. 6, 12 and 13, so verify. Zookeeper has Warner Bros. Records but not Warner Records.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, 275 words).",
+     "source": "added_by_stace",
+     "videoId": "HzkJsKXCjvg",
+     "added_by": "DJ Stace",
+     "source_url": "https://www.radiox.co.uk/artists/royal-blood/announce-details-of-dead-company-album-and-release-ten-over-ten-track/"
     }
    ]
   },
   {
-   "set": "Hour 1, Set 2: Texas punk (Austin and San Antonio)",
+   "set": "Hour 1, Set 2: Texas punk (Austin, San Antonio and Dallas)",
    "tracks": [
+    {
+     "artist": "Nervebreakers",
+     "track": "My Girlfriend is a Rock (Radio Edit)",
+     "album": "Politics EP",
+     "label": "Wild Child Records",
+     "label_source": "wikipedia + Get Hip Bandcamp (original 1978 label; not in ZK); library holds the Bloodstains Across Texas compilation only",
+     "tag": "",
+     "released": "1978 (Politics EP)",
+     "type": "radio edit",
+     "upcoming": "",
+     "duration": "2:59",
+     "priority": "R",
+     "why": "Stace added this to the Air Order (Oct. 22). Dallas punk band; the song is from the 1978 Politics EP on Wild Child Records (Get Hip reissued it in 2021). The library has it only on the compilation Bloodstains Across Texas (Swedish Meathead Products, tag 487829). Label source conflict: one seller lists the EP as self-released.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, 259 words). YTM lists the Radio Edit.",
+     "source": "added_by_stace",
+     "videoId": "NhfruZ2cHZo",
+     "added_by": "DJ Stace",
+     "source_url": "https://en.wikipedia.org/wiki/The_Nervebreakers",
+     "zk_alt": "Bloodstains Across Texas, tag 487829, Swedish Meathead Products"
+    },
     {
      "artist": "Big Boys",
      "track": "Fun Fun Fun",
@@ -303,6 +364,26 @@
      "videoId": "bCt7lZos7pM"
     },
     {
+     "artist": "Loco Gringos",
+     "track": "Ain't No Corndogs",
+     "album": "Loco Gringos",
+     "label": "Existential Vacuum",
+     "label_source": "zookeeper album 1089648",
+     "tag": "1089648",
+     "released": "1992 (posthumous album; reissued 2006 and 2020)",
+     "type": "album track",
+     "upcoming": "",
+     "duration": "2:28",
+     "priority": "R",
+     "why": "Stace added this to the Air Order (Oct. 22). Dallas punk band. Their only album came out after singer Tom Foote died in 1990. In the library. No lyrics posted anywhere checked: listen first.",
+     "fcc_status": "UNVERIFIED",
+     "fcc_note": "UNVERIFIED: no lyrics posted on Genius or the Bandcamp page. Listen first.",
+     "source": "added_by_stace",
+     "videoId": "eF4RiUfPRNs",
+     "added_by": "DJ Stace",
+     "source_url": "https://locogringosdallas.bandcamp.com/album/loco-gringos"
+    },
+    {
      "artist": "Ty Segall",
      "track": "Separation",
      "album": "Chrome",
@@ -345,42 +426,6 @@
    "tracks": [
     {
      "artist": "Fontaines D.C.",
-     "track": "Six Shot Morning",
-     "album": "Dopamine Chamber",
-     "label": "Xl Recordings",
-     "label_source": "zookeeper label table (Xl Recordings); album not in library yet",
-     "tag": "",
-     "released": "2026-10-16",
-     "type": "album track",
-     "upcoming": "",
-     "duration": "4:57",
-     "priority": "R",
-     "why": "Requested by DJ Stace (Oct. 16). Album opener. All Genius lyrics screened Oct. 16 after release.",
-     "fcc_status": "CLEAN",
-     "fcc_note": "CLEAN (Genius, 179 words).",
-     "source": "requested by DJ Stace",
-     "videoId": "00krktruwsM"
-    },
-    {
-     "artist": "Fontaines D.C.",
-     "track": "Mimesis",
-     "album": "Dopamine Chamber",
-     "label": "Xl Recordings",
-     "label_source": "zookeeper label table (Xl Recordings); album not in library yet",
-     "tag": "",
-     "released": "2026-10-16",
-     "type": "album track",
-     "upcoming": "",
-     "duration": "3:52",
-     "priority": "R",
-     "why": "Requested by DJ Stace. Album track 3.",
-     "fcc_status": "CLEAN",
-     "fcc_note": "CLEAN (Genius, 334 words).",
-     "source": "requested by DJ Stace",
-     "videoId": "zXyN6eZjlTg"
-    },
-    {
-     "artist": "Fontaines D.C.",
      "track": "Happy For You",
      "album": "Dopamine Chamber",
      "label": "Xl Recordings",
@@ -391,29 +436,11 @@
      "upcoming": "",
      "duration": "3:49",
      "priority": "R",
-     "why": "Requested by DJ Stace. Debuted live at Leeds Festival Aug. 29.",
+     "why": "Requested by DJ Stace (Oct. 16). She cut the other three Dopamine Chamber tracks from the Air Order on Oct. 22; this one stays. Debuted live at Leeds Festival Aug. 29.",
      "fcc_status": "CLEAN",
      "fcc_note": "CLEAN (Genius, 175 words).",
      "source": "requested by DJ Stace",
      "videoId": "wOkBZA51Z9o"
-    },
-    {
-     "artist": "Fontaines D.C. & ROSALIA",
-     "track": "Where Is Gone?",
-     "album": "Dopamine Chamber",
-     "label": "Xl Recordings",
-     "label_source": "zookeeper label table (Xl Recordings); album not in library yet",
-     "tag": "",
-     "released": "2026-10-16",
-     "type": "album track",
-     "upcoming": "",
-     "duration": "5:17",
-     "priority": "R",
-     "why": "Requested by DJ Stace. Guest spot from Rosalia, the band's first guest on a record. Longest track on the album.",
-     "fcc_status": "CLEAN",
-     "fcc_note": "CLEAN (Genius, 245 words).",
-     "source": "requested by DJ Stace",
-     "videoId": "3mb6YrCabso"
     }
    ]
   },
@@ -473,6 +500,26 @@
      "fcc_note": "DJ Stace review (Zookeeper, reviewed Oct. 4 to 8, 2026): no FCC flag on this track.",
      "source": "review rotation",
      "videoId": "cD_Av64P_qU"
+    },
+    {
+     "artist": "This Is Lorelei & MJ Lenderman",
+     "track": "Dancing in the Club (MJ Lenderman Version) (Radio Edit)",
+     "album": "Box for Buddy, Box for Star (Deluxe)",
+     "label": "Double Double Whammy",
+     "label_source": "zookeeper label table 21310 (album not in library)",
+     "tag": "",
+     "released": "2025-04-25",
+     "type": "radio edit",
+     "upcoming": "",
+     "duration": "4:56",
+     "priority": "R",
+     "why": "Stace added this to the Air Order (Oct. 22). Lenderman's cover of Lorelei's own song, from the 2025 deluxe edition of Box for Buddy, Box for Star. Second Lorelei track tonight (the album track comes just before it). The original has fuck x2 (Verse 4); YTM lists this as the Radio Edit: confirm the edit by ear.",
+     "fcc_status": "UNVERIFIED",
+     "fcc_note": "LISTEN FIRST: original has fuck x2 (Verse 4). YTM version is labeled Radio Edit; confirm the edit covers both.",
+     "source": "added_by_stace",
+     "videoId": "5X718hNafSM",
+     "added_by": "DJ Stace",
+     "source_url": "https://thisislorelei.bandcamp.com/track/dancing-in-the-club-mj-lenderman-version"
     },
     {
      "artist": "Dread Spectre Council",
@@ -746,6 +793,46 @@
      "videoId": "wdyhe8VT6Yg"
     },
     {
+     "artist": "Bauhaus",
+     "track": "The Passion of Lovers",
+     "album": "Mask",
+     "label": "Beggars Banquet",
+     "label_source": "zookeeper album 273046",
+     "tag": "273046",
+     "released": "1981 (single June, album Oct.)",
+     "type": "album track",
+     "upcoming": "",
+     "duration": "3:52",
+     "priority": "R",
+     "why": "Last six, placed in Set 7 after Cabaret Voltaire (1979 to 1981 post-punk). Single came out June 1981 on Beggars Banquet (BEG 59, UK No. 56); the album is Mask. Halloween post-punk is next week.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, 256 words).",
+     "source": "added_by_stace",
+     "videoId": "qSk88IeNUr0",
+     "added_by": "DJ Stace",
+     "source_url": "https://en.wikipedia.org/wiki/The_Passion_of_Lovers"
+    },
+    {
+     "artist": "Consolidated",
+     "track": "Friendly Fascism (Radio Edit)",
+     "album": "Friendly Fascism",
+     "label": "Nettwerk Records",
+     "label_source": "zookeeper album 2866",
+     "tag": "2866",
+     "released": "1991",
+     "type": "radio edit",
+     "upcoming": "",
+     "duration": "5:02",
+     "priority": "R",
+     "why": "Last six, placed in Set 7 after Bauhaus. San Francisco industrial hip-hop; the album was recorded at Razor's Edge in S.F. and released on Nettwerk in 1991. YTM lists a Radio Edit at 5:02, the same length as the album cut: confirm the edit by ear.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, 447 words). YTM lists the Radio Edit.",
+     "source": "added_by_stace",
+     "videoId": "rbI494XYNi4",
+     "added_by": "DJ Stace",
+     "source_url": "https://en.wikipedia.org/wiki/Friendly_Fa$cism"
+    },
+    {
      "artist": "Fujiya & Miyagi",
      "track": "No Green Light",
      "album": "New Shiny Object",
@@ -769,24 +856,6 @@
   {
    "set": "Hour 2, Set 8: Anniversary, new and slow",
    "tracks": [
-    {
-     "artist": "Pulp",
-     "track": "The Trees",
-     "album": "We Love Life",
-     "label": "Sanctuary Records Inc.",
-     "label_source": "zookeeper album 667571",
-     "tag": "667571",
-     "released": "2001-10-22",
-     "type": "album track",
-     "upcoming": "",
-     "duration": "4:53",
-     "priority": "O",
-     "why": "25th anniversary today. We Love Life came out Oct. 22, 2001 on Island, produced by Scott Walker; UK No. 6.",
-     "fcc_status": "CLEAN",
-     "fcc_note": "CLEAN (Genius, 240 words).",
-     "source": "recon",
-     "videoId": "dXyQj36I2Vc"
-    },
     {
      "artist": "The Avalanches",
      "track": "Blue Shadows (feat. Karen O)",
@@ -858,6 +927,26 @@
      "fcc_note": "CLEAN (Genius, 179 words).",
      "source": "weekly playlist (Friday sweep)",
      "videoId": "DD-5_lCEMHY"
+    },
+    {
+     "artist": "Stef Chura",
+     "track": "Sweet Sweet Midnight",
+     "album": "Midnight",
+     "label": "Saddle Creek",
+     "label_source": "zookeeper album 1135774",
+     "tag": "1135774",
+     "released": "2019",
+     "type": "album track",
+     "upcoming": "",
+     "duration": "5:30",
+     "priority": "R",
+     "why": "Last six, placed at the end of Set 8 (new and slow). From Midnight (Saddle Creek, 2019), produced by Will Toledo of Car Seat Headrest, who plays on this duet. Four stars in your 2019 review: the standout track. Midtempo.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, 362 words). Your 2019 review flags FCC on tracks 4 and 7 only.",
+     "source": "added_by_stace",
+     "videoId": "JcEeRS8DDPA",
+     "added_by": "DJ Stace",
+     "source_url": "https://en.wikipedia.org/wiki/Midnight_(Stef_Chura_album)"
     }
    ]
   },
@@ -935,6 +1024,26 @@
      "fcc_note": "CLEAN (Genius, 166 words).",
      "source": "carried from Oct. 15 plan",
      "videoId": "rmd21czLZFw"
+    },
+    {
+     "artist": "Dumb",
+     "track": "Pull Me Up",
+     "album": "Pray 4 Tomorrow",
+     "label": "Mint Records Inc.",
+     "label_source": "zookeeper album 1148228",
+     "tag": "1148228",
+     "released": "2022-11-11 (album; single Aug. 23, 2022)",
+     "type": "album track",
+     "upcoming": "",
+     "duration": "2:57",
+     "priority": "R",
+     "why": "Last six, placed in Set 9 (short, upbeat) before Star Moles. Vancouver post-punk. Four stars in your review: a bouncing rocker with a great hook.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, 200 words). Your review flags FCC on tracks 8 and 9 only.",
+     "source": "added_by_stace",
+     "videoId": "5nt_9kEaokY",
+     "added_by": "DJ Stace",
+     "source_url": "https://dumbband.bandcamp.com/track/pull-me-up"
     },
     {
      "artist": "Star Moles",
@@ -1162,19 +1271,22 @@
  "mic_breaks": {
   "opening": [
    "Punk and post-punk focus, week 2 of 4: Texas punk tonight. Halloween post-punk Oct. 29, D.C. hardcore Nov. 5.",
-   "Fontaines D.C. released Dopamine Chamber last Friday, Oct. 16, on XL. Produced by James Ford, 11 tracks. Set 3 plays four of them.",
+   "Fontaines D.C. released Dopamine Chamber last Friday, Oct. 16, on XL. Produced by James Ford, 11 tracks. Set 3 plays one of them, Happy For You.",
+   "New and loud: Westside Cowboy of Manchester (Island, debut It Goes On out Aug. 21) and Royal Blood, Ten Over Ten, the lead single from Dead Company (Warner, due Nov. 13).",
    "New Rose by The Damned turns 50 tonight. Triple Shot opens Hour 2."
   ],
   "after_texas_set": [
+   "Dallas first: Nervebreakers, My Girlfriend Is a Rock, from the 1978 Politics EP on Wild Child Records. Loco Gringos, also Dallas, released their only album after singer Tom Foote died in 1990.",
    "Scratch Acid formed in Austin. Greatest Gift is from their 1984 self-titled EP, collected on The Greatest Gift (Touch and Go, 1991). David Yow sang for them, then fronted The Jesus Lizard. Monkey Trick is from Goat (Touch and Go, 1991).",
    "Butthole Surfers came out of San Antonio. Pepper is from Electriclarryland (1996). Big Boys were an Austin band; Fun Fun Fun is a 1982 EP."
   ],
   "after_fontaines": [
-   "Dopamine Chamber is the band's fifth album and the second with James Ford. Rosalia is the first guest on a Fontaines record.",
+   "Dopamine Chamber is the band's fifth album and the second with James Ford. Happy For You debuted live at Leeds Festival on Aug. 29.",
    "Two songs from it, Tongue (shit x10) and Japan (fuck x3, shit x3), stay off the air. Their Europe and UK tour started in Lisbon on Oct. 21 (verify)."
   ],
   "end_hour_1": [
    "Reviewed this month and in rotation: Twisted Teens (two albums), Lex Walton, Yard Act, Little Barrie, Palace, Sluice, This Is Lorelei, Dread Spectre Council, Tricky, Ty Segall.",
+   "This Is Lorelei twice: the album track, then MJ Lenderman's version of Dancing in the Club (2025, Double Double Whammy). Radio edit: confirm by ear.",
    "Station ID at the top of the hour."
   ],
   "triple_shot_intro": [
@@ -1186,16 +1298,18 @@
    "Black Flag with Greg Ginn: Fri. Oct. 23 at Felton Music Hall and Sun. Oct. 25 at Cornerstone in Berkeley. Slow Pulp at the Fillmore Wed. Oct. 28."
   ],
   "after_machines": [
-   "Numbers is from Kraftwerk's Computer World (1981). Nag, Nag, Nag is Cabaret Voltaire's 1979 Rough Trade single. Fujiya & Miyagi's New Shiny Object is out Oct. 30."
+   "Numbers is from Kraftwerk's Computer World (1981). Nag, Nag, Nag is Cabaret Voltaire's 1979 Rough Trade single. Bauhaus released The Passion of Lovers in June 1981 on Beggars Banquet; it is on Mask.",
+   "Consolidated are from San Francisco: Friendly Fascism is the title track of their 1991 Nettwerk album, recorded at Razor's Edge in the city. Fujiya & Miyagi's New Shiny Object is out Oct. 30."
   ],
   "anniversary": [
-   "Pulp released We Love Life on Oct. 22, 2001, produced by Scott Walker. It reached No. 6 in the UK.",
-   "The Avalanches' No Bad Memories came out Oct. 16 with Karen O on Blue Shadows."
+   "Pulp released We Love Life on Oct. 22, 2001, produced by Scott Walker (25 years today; no Pulp track tonight, since The Trees came off the Air Order).",
+   "The Avalanches' No Bad Memories came out Oct. 16 with Karen O on Blue Shadows. Stef Chura's Sweet Sweet Midnight is from Midnight (Saddle Creek, 2019); Will Toledo of Car Seat Headrest produced the album and plays on it."
   ],
   "closing": [
    "Next week, Oct. 29: Halloween post-punk."
   ],
   "after_heavy_set": [
+   "Dumb, from Vancouver: Pull Me Up is from Pray 4 Tomorrow (Mint, 2022).",
    "Last stretch is new and loud: Queens of the Stone Age, Insignificant Other, from Perfecth (Matador, out Oct. 30).",
    "Jozef Van Wissem and Jim Jarmusch, Bocca di Lupo and Mouth of the Wolf, Sacred Bones, Nov. 6. Courtney Barnett sings on Never Like You Said.",
    "Eagles of Death Metal cover Careless Whisper on Boots Electric Performing the Best Songs We Never Wrote (2019). Lambrini Girls, Cult of Celebrity, City Slang."
@@ -1638,7 +1752,7 @@
  "review_rotation": {
   "window": "Albums DJ Stace reviewed in the last 10 weeks (Aug. 7 to Oct. 16, 2026). All 13 were posted Oct. 6 to 15.",
   "rule": "Tapering: weeks 1 to 3 after review, one track per album per show; weeks 4 to 6, about half the albums per show; weeks 7 to 10, about one in four. Pick five-star, FCC-clean tracks not aired in the past 21 days.",
-  "this_show": "Week 2 for all 13 albums, one track each (13 tracks).",
+  "this_show": "Week 2 for all 13 albums. Fontaines cuts do not affect the rotation. Lorelei has two tracks tonight (album track plus the Lenderman radio edit, which is from a different release). Westside Cowboy review is a draft, not posted.",
   "albums": [
    "Twisted Teens - Blame the Clown",
    "Twisted Teens - Florida Water Blues",
@@ -1741,19 +1855,77 @@
    "videoId": "4ULEdk2rIkY",
    "cut_on": "2026-10-20",
    "source": "Stace edited Air Order (PLSosF7JAIkaM) between Oct. 16 and Oct. 20: replaced by Greatest Gift"
+  },
+  {
+   "artist": "Fontaines D.C.",
+   "track": "Six Shot Morning",
+   "videoId": "00krktruwsM",
+   "cut_on": "2026-10-22",
+   "source": "Stace edited Air Order (PLSosF7JAIkaM) Oct. 22: cut from Air Order"
+  },
+  {
+   "artist": "Fontaines D.C.",
+   "track": "Mimesis",
+   "videoId": "zXyN6eZjlTg",
+   "cut_on": "2026-10-22",
+   "source": "Stace edited Air Order (PLSosF7JAIkaM) Oct. 22: cut from Air Order"
+  },
+  {
+   "artist": "Fontaines D.C. & ROSALIA",
+   "track": "Where Is Gone?",
+   "videoId": "3mb6YrCabso",
+   "cut_on": "2026-10-22",
+   "source": "Stace edited Air Order (PLSosF7JAIkaM) Oct. 22: cut from Air Order"
+  },
+  {
+   "artist": "Pulp",
+   "track": "The Trees",
+   "videoId": "dXyQj36I2Vc",
+   "cut_on": "2026-10-22",
+   "source": "Stace edited Air Order (PLSosF7JAIkaM) Oct. 22: cut from Air Order"
   }
  ],
  "air_order_note": "Oct. 16: Air Order rewritten by deltas (40 removed, 36 added, 38 moves, 9 kept). YTM stores some Weekly tracks under a different videoId when added: Fontaines D.C. Six Shot Morning, Mimesis and Happy For You, and Cheekface No Fly Zone use the Air Order ids. Oct. 20 (Tuesday sweep): plan synced to her Air Order edits. Greatest Gift replaces Mary Had a Little Drug Problem; Nasty added to the Triple Shot; Van Wissem and Jarmusch, EODM, Lambrini Girls and QOTSA added at the end. Four Fontaines D.C. and Cheekface videoIds updated to the live ids. 9 Tuesday singles added to the bench.",
  "final": {
   "built": "2026-10-21",
+  "updated": "2026-10-22",
   "cull_ticks": [],
   "replace_ticks": [],
-  "air_order_edits": "none since the Oct. 20 sync (YTM read Oct. 21: 50 tracks, same order; four Fontaines D.C. and Cheekface videoIds differ from the snapshot only because the snapshot kept old ids)",
-  "notes_sheet": "unmodified since Oct. 20 deploy (no ticks)",
-  "enrichment": "Zookeeper API read Oct. 21 via API route; labels filled for 7 tracks (see label_source on each track)",
+  "air_order_edits_oct22": {
+   "cut": [
+    "Fontaines D.C., Six Shot Morning",
+    "Fontaines D.C., Mimesis",
+    "Fontaines D.C. & ROSALIA, Where Is Gone?",
+    "Pulp, The Trees"
+   ],
+   "added_inline": [
+    "Nervebreakers My Girlfriend is a Rock (Radio Edit)",
+    "Loco Gringos Ain't No Corndogs",
+    "This Is Lorelei & MJ Lenderman Dancing in the Club (Radio Edit)"
+   ],
+   "last_six_placed": {
+    "Set 1": [
+     "Westside Cowboy",
+     "Royal Blood"
+    ],
+    "Set 7": [
+     "Bauhaus",
+     "Consolidated"
+    ],
+    "Set 8": [
+     "Stef Chura"
+    ],
+    "Set 9": [
+     "Dumb"
+    ]
+   },
+   "reordered": "Set 1 order follows her Air Order (Lex Walton first, Dummy after Yard Act)."
+  },
+  "air_order_note": "YTM Air Order still lists the six tracks at the end (positions 50 to 55). The plan places them in sets; Air Order was not changed.",
   "open_flags": [
-   "Triple Shot has four Damned tracks (Nasty added by Stace). Confirm or cut one.",
-   "Stace's four tail adds sit at the end of Set 9; placement is her call.",
+   "Triple Shot has four Damned tracks (Nasty added Oct. 20). Confirm or cut one.",
+   "Loco Gringos: no lyrics found. Listen first.",
+   "Lorelei and Lenderman, Nervebreakers and Consolidated are radio edits on YTM. Original Lorelei lyrics have fuck x2 (Verse 4). Confirm the edits by ear.",
    "No ticket giveaway placed: no sheet row lists Stace on or after Oct. 22."
   ]
  }

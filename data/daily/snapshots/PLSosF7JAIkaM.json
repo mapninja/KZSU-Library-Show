@@ -1,13 +1,13 @@
 {
  "playlist": "DJ Stace library show Air Order",
  "id": "PLSosF7JAIkaM",
- "snapshot": "2026-10-21",
- "note": "Read from YTM Oct. 21 (50 tracks), identical to the plan order.",
+ "snapshot": "2026-10-22",
+ "note": "Read from YTM Oct. 22 (55 tracks). Order here is the live Air Order; the plan places the last six in sets.",
  "tracks": [
   [
-   "Dummy",
-   "Full Spectrum Dominance",
-   "FEeoIbUM60s"
+   "Lex Walton",
+   "For Thee I Sing",
+   "w7PnWZXJwoc"
   ],
   [
    "Heavens to Betsy",
@@ -25,19 +25,24 @@
    "UmRuVav12FA"
   ],
   [
-   "Lex Walton",
-   "For Thee I Sing",
-   "w7PnWZXJwoc"
-  ],
-  [
    "Yard Act",
    "New Beginnings",
    "WUmzu_RDflM"
   ],
   [
+   "Dummy",
+   "Full Spectrum Dominance",
+   "FEeoIbUM60s"
+  ],
+  [
    "Little Barrie",
    "More Bad Miles Of Road",
    "QXOOzvDc3Nk"
+  ],
+  [
+   "Nervebreakers",
+   "My Girlfriend is a Rock (Radio Edit)",
+   "NhfruZ2cHZo"
   ],
   [
    "Big Boys",
@@ -60,6 +65,11 @@
    "bCt7lZos7pM"
   ],
   [
+   "Loco Gringos",
+   "Ain't No Corndogs",
+   "eF4RiUfPRNs"
+  ],
+  [
    "Ty Segall",
    "Separation",
    "HOWV7yxxp8g"
@@ -71,23 +81,8 @@
   ],
   [
    "Fontaines D.C.",
-   "Six Shot Morning",
-   "00krktruwsM"
-  ],
-  [
-   "Fontaines D.C.",
-   "Mimesis",
-   "zXyN6eZjlTg"
-  ],
-  [
-   "Fontaines D.C.",
    "Happy For You",
    "wOkBZA51Z9o"
-  ],
-  [
-   "Fontaines D.C. & ROSALIA",
-   "Where Is Gone?",
-   "3mb6YrCabso"
   ],
   [
    "Palace",
@@ -103,6 +98,11 @@
    "This Is Lorelei",
    "Don't You Cry in Lonesomeness",
    "cD_Av64P_qU"
+  ],
+  [
+   "This Is Lorelei & MJ Lenderman",
+   "Dancing in the Club (MJ Lenderman Version) (Radio Edit)",
+   "5X718hNafSM"
   ],
   [
    "Dread Spectre Council",
@@ -180,11 +180,6 @@
    "K5l80OdiCzM"
   ],
   [
-   "Pulp",
-   "The Trees",
-   "dXyQj36I2Vc"
-  ],
-  [
    "The Avalanches",
    "Blue Shadows (feat. Karen O)",
    "nybyN7_98zw"
@@ -253,6 +248,36 @@
    "Queens of the Stone Age",
    "Insignificant Other",
    "TVTmQTcV-iE"
+  ],
+  [
+   "Royal Blood",
+   "Ten Over Ten",
+   "HzkJsKXCjvg"
+  ],
+  [
+   "Westside Cowboy",
+   "Kick Stones (The Boys)",
+   "W51Ik_1noH8"
+  ],
+  [
+   "Bauhaus",
+   "The Passion of Lovers",
+   "qSk88IeNUr0"
+  ],
+  [
+   "Stef Chura",
+   "Sweet Sweet Midnight",
+   "JcEeRS8DDPA"
+  ],
+  [
+   "Consolidated",
+   "Friendly Fascism (Radio Edit)",
+   "rbI494XYNi4"
+  ],
+  [
+   "Dumb",
+   "Pull Me Up",
+   "5nt_9kEaokY"
   ]
  ]
 }
