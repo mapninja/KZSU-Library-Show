@@ -211,5 +211,13 @@
   "uri": "gmail:to:md@kzsu.stanford.edu after:2026/10/19",
   "items_extracted": 2,
   "kind": "md_list_promo"
+ },
+ {
+  "date": "2026-10-23",
+  "subject": "md@kzsu promo scan 2026-10-22..2026-10-23 (KZSU Gmail; 2 new emails, 2 new items: Iceberg Black WTF single, Jon Green Blue Hour, both ADDS 10/27 via Vitriol Radio). Outlook: no new Mark or chartman mail since Sept. 3.",
+  "sender": "md@kzsu.stanford.edu",
+  "uri": "gmail threads 1a164ac3d6893d49, 1a164a9d24109ea4",
+  "items_extracted": 2,
+  "kind": "md_list_promo"
  }
 ]

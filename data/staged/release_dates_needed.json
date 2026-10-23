@@ -1,14 +1,5 @@
 [
  {
-  "artist": "GALVEZTON",
-  "title": "Ocean Cabaret",
-  "type": "album",
-  "label": "La Izquierda",
-  "current_date": "2026-04-03",
-  "date_check": "verify",
-  "key": "galvezton|ocean cabaret"
- },
- {
   "artist": "Go Public",
   "title": "You Are Traffic",
   "type": "album",
@@ -31,7 +22,7 @@
   "title": "Mind Disaster",
   "type": "single",
   "label": "Mute Records",
-  "current_date": "2026-03",
+  "current_date": "2026-04-24",
   "date_check": "verify",
   "key": "miss grit|mind disaster"
  },
@@ -63,15 +54,6 @@
   "key": "buddy miller|nothing but a child on the road to bethlehem"
  },
  {
-  "artist": "KÁRYYN",
-  "title": "COLLAPSE PHASE",
-  "type": "single",
-  "label": "Mute",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "karyyn|collapse phase"
- },
- {
   "artist": "lovetempo",
   "title": "Never The Same",
   "type": "single",
@@ -90,69 +72,6 @@
   "key": "lovetempo|by your side"
  },
  {
-  "artist": "Sook-Yin Lee",
-  "title": "72RHR",
-  "type": "album",
-  "label": "Hand Drawn Dracula",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "sook yin lee|72rhr"
- },
- {
-  "artist": "The Orielles",
-  "title": "Only You Left",
-  "type": "album",
-  "label": "Heavenly Recordings",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "orielles|only you left"
- },
- {
-  "artist": "The Olympians",
-  "title": "Strawberry Kiwi",
-  "type": "single",
-  "label": "Daptone",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "olympians|strawberry kiwi"
- },
- {
-  "artist": "The Olympians",
-  "title": "In Search of a Revival",
-  "type": "album",
-  "label": "Daptone Records",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "olympians|in search of a revival"
- },
- {
-  "artist": "Amiture Music",
-  "title": "Amiture Music",
-  "type": "album",
-  "label": "Dots Per Inch",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "amiture music|amiture music"
- },
- {
-  "artist": "Sub*T",
-  "title": "How My Own Voice Sounds",
-  "type": "album",
-  "label": "Self-Released",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "sub t|how my own voice sounds"
- },
- {
-  "artist": "Ken Park",
-  "title": "Ken Park",
-  "type": "album",
-  "label": "TODO",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "ken park|ken park"
- },
- {
   "artist": "Christian Taylor",
   "title": "trust (you)",
   "type": "single",
@@ -160,24 +79,6 @@
   "current_date": "",
   "date_check": "needed",
   "key": "christian taylor|trust you"
- },
- {
-  "artist": "Junior Varsity",
-  "title": "Ready",
-  "type": "album",
-  "label": "Key",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "junior varsity|ready"
- },
- {
-  "artist": "54-40",
-  "title": "Porto",
-  "type": "album",
-  "label": "Smilin' Buddha Enjoyment Complex",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "54 40|porto"
  },
  {
   "artist": "Sawyer Utah",
@@ -189,102 +90,192 @@
   "key": "sawyer utah|when the sun goes down"
  },
  {
-  "artist": "Swapmeet",
-  "title": "I Know!",
-  "type": "single",
-  "label": "Winspear",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "swapmeet|i know"
- },
- {
-  "artist": "The Haunted Youth",
-  "title": "Boys Cry Too",
-  "type": "album",
-  "label": "Play It Again Sam",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "haunted youth|boys cry too"
- },
- {
-  "artist": "Radium Dolls",
-  "title": "Wound Up",
+  "artist": "CorMae",
+  "title": "Everything Is So Great!",
   "type": "album",
   "label": "Self-Released",
   "current_date": "",
   "date_check": "needed",
-  "key": "radium dolls|wound up"
+  "key": "cormae|everything is so great"
  },
  {
-  "artist": "Edwin Raphael",
-  "title": "I Know A Garden",
-  "type": "album",
-  "label": "Favourite Library",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "edwin raphael|i know a garden"
- },
- {
-  "artist": "Mark Adams",
-  "title": "This Is Neo-Soul",
-  "type": "album",
-  "label": "DownJazz Records",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "mark adams|this is neo soul"
- },
- {
-  "artist": "Arctic Monkeys",
-  "title": "Opening Night",
+  "artist": "Arlo Parks",
+  "title": "2SIDED",
   "type": "single",
-  "label": "War Child Records",
+  "label": "Transgressive/PIAS",
   "current_date": "",
   "date_check": "needed",
-  "key": "arctic monkeys|opening night"
+  "key": "arlo parks|2sided"
  },
  {
-  "artist": "beaming",
-  "title": "horseshoe",
+  "artist": "Arlo Parks",
+  "title": "Ambiguous Desire",
   "type": "album",
-  "label": "Rose Garden",
+  "label": "Transgressive/[PIAS]",
   "current_date": "",
   "date_check": "needed",
-  "key": "beaming|horseshoe"
+  "key": "arlo parks|ambiguous desire"
  },
  {
-  "artist": "Various Artists",
-  "title": "Naive Melodies",
+  "artist": "ISMAY",
+  "title": "Half Truth",
   "type": "album",
-  "label": "BBE Music",
+  "label": "Fossil",
   "current_date": "",
   "date_check": "needed",
-  "key": "various artists|naive melodies"
+  "key": "ismay|half truth"
  },
  {
-  "artist": "Cardinals",
-  "title": "Masquerade",
+  "artist": "Anastasia Coope",
+  "title": "DOT",
   "type": "album",
-  "label": "So Young",
+  "label": "Bonzo",
   "current_date": "",
   "date_check": "needed",
-  "key": "cardinals|masquerade"
+  "key": "anastasia coope|dot"
  },
  {
-  "artist": "Pastel Blank",
-  "title": "Unmade In Minutes",
+  "artist": "Jenny on Holiday",
+  "title": "Quicksand Heart",
   "type": "album",
-  "label": "Paper Bag",
+  "label": "Transgressive",
   "current_date": "",
   "date_check": "needed",
-  "key": "pastel blank|unmade in minutes"
+  "key": "jenny on holiday|quicksand heart"
  },
  {
-  "artist": "LAPêCHE",
-  "title": "Autotelic",
+  "artist": "Samm Henshaw",
+  "title": "It Could Be Worse",
   "type": "album",
-  "label": "Tiny Engines",
+  "label": "Dorm Seven / AWAL",
   "current_date": "",
   "date_check": "needed",
-  "key": "lapeche|autotelic"
+  "key": "samm henshaw|it could be worse"
+ },
+ {
+  "artist": "GoldFord",
+  "title": "Only You Do",
+  "type": "single",
+  "label": "GoldFord Music",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "goldford|only you do"
+ },
+ {
+  "artist": "Fcukers",
+  "title": "L.U.C.K.Y.",
+  "type": "single",
+  "label": "Ninja Tune",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "fcukers|l u c k y"
+ },
+ {
+  "artist": "Fcukers",
+  "title": "if you wanna party, come over to my house",
+  "type": "single",
+  "label": "Ninja Tune",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "fcukers|if you wanna party come over to my house"
+ },
+ {
+  "artist": "Holy Fuck",
+  "title": "Event Beat",
+  "type": "album",
+  "label": "Satellite Services",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "holy fuck|event beat"
+ },
+ {
+  "artist": "Fcukers",
+  "title": "Ö",
+  "type": "album",
+  "label": "Ninja Tune",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "fcukers|o"
+ },
+ {
+  "artist": "obli",
+  "title": "He Dreams Of Friends",
+  "type": "single",
+  "label": "Anjunachill",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "obli|he dreams of friends"
+ },
+ {
+  "artist": "obli",
+  "title": "Soft Speak",
+  "type": "album",
+  "label": "Anjunachill",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "obli|soft speak"
+ },
+ {
+  "artist": "Nara's Room",
+  "title": "Tearless, thoughtless",
+  "type": "album",
+  "label": "Mtn. Laurel",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "nara s room|tearless thoughtless"
+ },
+ {
+  "artist": "Tōth",
+  "title": "And The Voice Said",
+  "type": "album",
+  "label": "Egghunt Records/Northern Spy",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "toth|and the voice said"
+ },
+ {
+  "artist": "Trembler",
+  "title": "Total Sorry",
+  "type": "album",
+  "label": "Rite Field",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "trembler|total sorry"
+ },
+ {
+  "artist": "Status/Non-Status",
+  "title": "Big Changes",
+  "type": "album",
+  "label": "You've Changed",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "status non status|big changes"
+ },
+ {
+  "artist": "Magus",
+  "title": "Music For Mandrax",
+  "type": "album",
+  "label": "Language of Stone",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "magus|music for mandrax"
+ },
+ {
+  "artist": "FIGHTMASTER",
+  "title": "Tolerance",
+  "type": "album",
+  "label": "Fightmaster Industries, Inc.",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "fightmaster|tolerance"
+ },
+ {
+  "artist": "sadie",
+  "title": "Better Angels",
+  "type": "album",
+  "label": "bloody knuckles",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "sadie|better angels"
  }
 ]

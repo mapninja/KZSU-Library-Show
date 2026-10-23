@@ -211,17 +211,17 @@
   "checked_on": "2026-10-16"
  },
  "miss grit|mind disaster": {
-  "date": "2026-03",
-  "precision": "month",
+  "date": "2026-04-24",
+  "precision": "day",
   "sources": [
-   "https://www.thelineofbestfit.com/news/miss-grit-new-track-mind-disaster",
+   "https://missgrit.bandcamp.com/track/mind-disaster",
    "https://www.undertheradarmag.com/news/miss_grit_shares_new_song_mind_disaster_and_announces_new_tour_dates_openin"
   ],
   "status": "released",
-  "note": "Press dated Mar. 10 to 12, 2026; no day stated. Album Under My Umbrella (Mute) is Apr. 24, 2026. Verify on Bandcamp or Mute. Rechecked Oct. 22: no new day-precision source.",
+  "note": "Bandcamp track page shows Apr. 24, 2026. Replaces the month-only 2026-03. One day-precision source, so not confirmed.",
   "label": "Mute Records",
   "confirmed": false,
-  "checked_on": "2026-10-22"
+  "checked_on": "2026-10-23"
  },
  "hrishikesh hirway|stray dogs with iron wine": {
   "date": "2026-02-18",
@@ -260,10 +260,10 @@
    "https://newwestrecords.com/products/buddy-miller-nothing-but-a-child-on-the-road-to-bethlehem-7"
   ],
   "status": "released",
-  "note": "Bandcamp gives Sept. 25, 2026. Retailers list Oct. 2 (Amazon) and Nov. 27 (Horizons) for the 7-inch. Verify on the New West page. Rechecked Oct. 22: no new day-precision source.",
+  "note": "Bandcamp shows Sept. 25, 2026 (digital). A UK retailer lists the red 7-inch for Nov. 27, 2026. Likely digital vs vinyl dates, not resolved, so not confirmed.",
   "label": "New West",
   "confirmed": false,
-  "checked_on": "2026-10-22"
+  "checked_on": "2026-10-23"
  },
  "little barrie|gravity freeze": {
   "date": "2026-05-22",
@@ -312,13 +312,14 @@
   "precision": "day",
   "sources": [
    "https://www.thenighttemple.com/post/galvezton-releases-sophomore-album-ocean-cabaret",
-   "https://musicontherox.com/galvezton-ocean-cabaret-album-review/"
+   "https://musicontherox.com/galvezton-ocean-cabaret-album-review/",
+   "https://www.galvnews.com/entertainment/hot-ticket-celebration-of-music-film-and-furry-friends-this-weekend/article_045f854b-5b2e-4490-9275-a9e9c2fc9771.html"
   ],
   "status": "released",
-  "note": "Night Temple and MusicOnTheRox give Apr. 3, 2026 (La Izquierda). KLOF Mag lists May 15, 2026, likely an error. Verify on Bandcamp or label page. Rechecked Oct. 22: no new day-precision source.",
+  "note": "Night Temple, MusicOnTheRox and a Galveston Daily News pre-release notice agree on Apr. 3, 2026. KLOF Mag lists May 15, treated as an outlier.",
   "label": "La Izquierda",
-  "confirmed": false,
-  "checked_on": "2026-10-22"
+  "confirmed": true,
+  "checked_on": "2026-10-23"
  },
  "feeble little horse|bitknot": {
   "date": "2026-05-26",
@@ -825,14 +826,14 @@
   "date": "2026-09-18",
   "precision": "day",
   "sources": [
-   "https://flagpole.com/topstory/2026/09/16/go-public-releases-debut-album-you-are-traffic/",
-   "https://www.herecomestheflood.com/2026/09/go-public-craps-tempo.html"
+   "https://hhbtm.bandcamp.com/album/you-are-traffic",
+   "https://flagpole.com/topstory/2026/09/16/go-public-releases-debut-album-you-are-traffic/"
   ],
   "status": "released",
-  "note": "Flagpole (Sept. 16) and Here Comes The Flood give Sept. 18, 2026 (HHBTM). Moved from July 24; HHBTM Bandcamp page still shows July 24. Verify on the label page. Rechecked Oct. 22: no new day-precision source.",
+  "note": "Bandcamp shows Sept. 18, 2026 (page text and metadata). HHBTM store page listed July 24, 2026, apparently an earlier plan. Flagpole (Sept. 16) is consistent with a mid-September release. Not confirmed: label store conflicts.",
   "label": "Happy Happy Birthday To Me",
   "confirmed": false,
-  "checked_on": "2026-10-22"
+  "checked_on": "2026-10-23"
  },
  "las cruxes|las cruxes": {
   "date": "2026-04-24",
@@ -921,14 +922,13 @@
   "date": "2026-04-23",
   "precision": "day",
   "sources": [
-   "https://littlebarrie.bandcamp.com/track/luggin-hurt",
-   "https://www.shazam.com/en-us/song/1874098778/luggin-hurt"
+   "https://littlebarrie.bandcamp.com/track/luggin-hurt"
   ],
   "status": "single, date unverified",
-  "note": "Standalone single date not found. Bandcamp and Shazam show the album Gravity Freeze (Easy Eye Sound) as May 22, 2026. A YouTube upload suggests about Apr. 22, 2026 (metadata only). Keep as verify. Rechecked Oct. 22: no new day-precision source.",
+  "note": "Bandcamp track page shows May 22, 2026, which is the Gravity Freeze album date (Easy Eye Sound). Single date still not found; 2026-04-23 kept as earlier single date from the prior run, unverified.",
   "label": "Easy Eye Sound / Concord",
   "confirmed": false,
-  "checked_on": "2026-10-22"
+  "checked_on": "2026-10-23"
  },
  "new pornographers|votive": {
   "date": "2026-01-21",
@@ -1241,15 +1241,12 @@
  "imperial teen|all hands up": {
   "date": "2026-09",
   "precision": "month",
-  "sources": [
-   "https://rmas.mx/en/2026/09/17/imperial-teen-release-hands-all-up-new-preview-of-all-over-you/",
-   "https://thefirenote.com/news/fire-tracks/fire-track-imperial-teen-hands-all-up/"
-  ],
+  "sources": [],
   "status": "released",
-  "note": "Song title is 'Hands All Up' in all sources, not 'All Hands Up'. RMAS post dated Sept. 17, 2026; exact single day not stated. Album All Over You (Merge) is Oct. 9, 2026. Rechecked Oct. 22: no new day-precision source.",
+  "note": "Searched Oct. 23: no pages found for the single. indieisnotagenre lists the album All Over You on Oct. 9, 2026. Date stays month-only.",
   "label": "Merge",
   "confirmed": false,
-  "checked_on": "2026-10-22"
+  "checked_on": "2026-10-23"
  },
  "steve earle los lobos|volver a celaya city of immigrants": {
   "date": "2026-08-06",
@@ -2663,18 +2660,17 @@
   "checked_on": "2026-10-22"
  },
  "karyyn|collapse phase": {
-  "date": "",
-  "precision": "none",
+  "date": "2026-01-21",
+  "precision": "day",
   "sources": [
-   "https://karyyn.bandcamp.com/track/collapse-phase",
-   "https://readdork.com/track/karyyn-collapse-phase",
-   "https://acidstag.com/2026/01/karyyn-collapse-phase/"
+   "https://www.hotpress.com/music/karyyn-announces-new-album-physics-universal-love-language-pull-23125832",
+   "https://karyyn.bandcamp.com/track/collapse-phase"
   ],
-  "status": "single, date not found",
-  "note": "Acid Stag covered it in Jan. 2026; Dork track page lists May 28. Day not confirmed. Album Physics Universal Love Language (PULL) is May 29, 2026.",
+  "status": "single, date from announcement coverage",
+  "note": "Hotpress and Yahoo (both Jan. 21, 2026) report the track shared with the album announcement. Album Physics Universal Love Language (PULL) is out May 29, 2026 (Mute); Bandcamp track page shows May 29. NovaFuture dated a single Mar. 16, which conflicts. Not confirmed.",
   "label": "Mute",
   "confirmed": false,
-  "checked_on": "2026-10-22"
+  "checked_on": "2026-10-23"
  },
  "karyyn|physics universal love language pull": {
   "date": "2026-05-29",
@@ -2731,27 +2727,27 @@
  },
  "lovetempo|never the same": {
   "date": "",
-  "precision": "none",
+  "precision": "",
   "sources": [
-   "https://ceconline.co.za/lovetempo-release-never-the-same/"
+   "https://itslovetempo.bandcamp.com/album/there-is-a-light"
   ],
   "status": "single, date not found",
-  "note": "Pre-release single covered Jan. 2026; day not stated. Album There Is A Light is Apr. 17, 2026.",
+  "note": "Both singles are on the album There Is A Light, released Apr. 17, 2026 per Bandcamp. No standalone single date found. A January 2026 article announced the track ahead of the album.",
   "label": "Self-released",
   "confirmed": false,
-  "checked_on": "2026-10-22"
+  "checked_on": "2026-10-23"
  },
  "lovetempo|by your side": {
   "date": "",
-  "precision": "none",
+  "precision": "",
   "sources": [
-   "https://essentialhouse.club/2026/10/lovetempo-there-is-a-light-remixes-on-lovetempo/"
+   "https://itslovetempo.bandcamp.com/album/there-is-a-light"
   ],
   "status": "single, date not found",
-  "note": "Single date not found. LEONG remix listed Aug. 25, 2026. Album There Is A Light is Apr. 17, 2026.",
+  "note": "On the album There Is A Light, released Apr. 17, 2026 per Bandcamp. No standalone single date found.",
   "label": "Self-released",
   "confirmed": false,
-  "checked_on": "2026-10-22"
+  "checked_on": "2026-10-23"
  },
  "selah sue the gallands|movin": {
   "date": "2026-03-20",
@@ -2855,10 +2851,10 @@
   "precision": "month",
   "sources": [],
   "status": "single, date not found",
-  "note": "Promo email (Oct. 15, 2026) lists ADDS 10/20; the single day is not stated and web search found no page. Album You And I Belong is due November 2026. Check the artist Bandcamp page next run.",
+  "note": "Searched Oct. 23: no pages found for this single. Promo email (Oct. 19) lists ADDS 10/20. Date stays month-only.",
   "label": "Vicious Vicious (self-released)",
   "confirmed": false,
-  "checked_on": "2026-10-22"
+  "checked_on": "2026-10-23"
  },
  "jane inc|a rupture a canyon a birth": {
   "date": "2025-10-17",
@@ -2970,5 +2966,318 @@
   "label": "Thrill Jockey",
   "confirmed": true,
   "checked_on": "2026-10-22"
+ },
+ "sook yin lee|72rhr": {
+  "date": "2026-05-29",
+  "precision": "day",
+  "sources": [
+   "https://sook-yinlee.bandcamp.com/album/72rhr",
+   "https://www.handdrawndracula.com/artists/sook-yin-lee/"
+  ],
+  "status": "released",
+  "note": "Hand Drawn Dracula and Bandcamp give May 29, 2026. Rate Your Music lists May 23, so not confirmed. Remix album followed Sept. 4, 2026.",
+  "label": "Hand Drawn Dracula",
+  "confirmed": false,
+  "checked_on": "2026-10-23"
+ },
+ "orielles|only you left": {
+  "date": "2026-03-13",
+  "precision": "day",
+  "sources": [
+   "https://heavenlyrecordings.com/release/only-you-left/",
+   "https://theorielles.bandcamp.com/album/only-you-left"
+  ],
+  "status": "released",
+  "note": "Heavenly release page (HVNLP231) lists Mar. 13, 2026. Retailers list March 2026. One day-precision source, so not confirmed.",
+  "label": "Heavenly Recordings",
+  "confirmed": false,
+  "checked_on": "2026-10-23"
+ },
+ "olympians|strawberry kiwi": {
+  "date": "2026-01-14",
+  "precision": "day",
+  "sources": [
+   "https://audiomack.com/theolympians/song/in-search-of-a-revival-part-1",
+   "https://www.treblezine.com/hear-the-olympians-soulful-new-groove-strawberry-kiwi/"
+  ],
+  "status": "single, one day-precision source",
+  "note": "Audiomack lists Jan. 14, 2026 for the In Search of a Revival Part 1 / Strawberry Kiwi single. Album out Feb. 13, 2026 (Daptone).",
+  "label": "Daptone",
+  "confirmed": false,
+  "checked_on": "2026-10-23"
+ },
+ "olympians|in search of a revival": {
+  "date": "2026-02-13",
+  "precision": "day",
+  "sources": [
+   "https://www.coleminerecords.com/products/the-olympians-in-search-of-revival-relase-date",
+   "https://bleep.com/release/544355-the-olympians-in-search-of-a-revival",
+   "https://music.apple.com/us/album/in-search-of-a-revival/1844745517"
+  ],
+  "status": "released",
+  "note": "Colemine, Bleep, Apple Music and Discogs agree on Feb. 13, 2026 (Daptone Records).",
+  "label": "Daptone Records",
+  "confirmed": true,
+  "checked_on": "2026-10-23"
+ },
+ "amiture music|amiture music": {
+  "date": "2026-03-20",
+  "precision": "day",
+  "sources": [
+   "https://millsrecordcompany.com/UPC/676327278967",
+   "https://amiture.bandcamp.com/album/amiture-music"
+  ],
+  "status": "released",
+  "note": "Mills Record Company CD listing shows Mar. 20, 2026. Label page (Dots Per Inch) gives no day. Not confirmed.",
+  "label": "Dots Per Inch",
+  "confirmed": false,
+  "checked_on": "2026-10-23"
+ },
+ "sub t|how my own voice sounds": {
+  "date": "2026-05-01",
+  "precision": "day",
+  "sources": [
+   "https://subtrules.bandcamp.com/album/how-my-own-voice-sounds",
+   "https://stereogum.com/2490372/subt-announce-debut-album-how-my-own-voice-sounds-hear-overcomplicate/music"
+  ],
+  "status": "released",
+  "note": "Bandcamp and press coverage agree on May 1, 2026.",
+  "label": "Self-Released",
+  "confirmed": true,
+  "checked_on": "2026-10-23"
+ },
+ "ken park|ken park": {
+  "date": "2026-02-26",
+  "precision": "day",
+  "sources": [
+   "https://todorecords.bandcamp.com/album/ken-park",
+   "https://www.godisinthetvzine.co.uk/2026/02/26/news-ken-park-releases-debut-self-titled-ep-and-releases-new-single-crawl/"
+  ],
+  "status": "released",
+  "note": "This is a six-track EP, not an album. TODO Records Bandcamp and God Is In The TV agree on Feb. 26, 2026. One review dates it Feb. 27.",
+  "label": "TODO",
+  "confirmed": true,
+  "checked_on": "2026-10-23"
+ },
+ "christian taylor|trust you": {
+  "date": "",
+  "precision": "",
+  "sources": [],
+  "status": "single, date not found",
+  "note": "Searched Oct. 23: no pages found for this single or the BannerYeer label.",
+  "label": "BannerYeer",
+  "confirmed": false,
+  "checked_on": "2026-10-23"
+ },
+ "junior varsity|ready": {
+  "date": "2026-05-01",
+  "precision": "day",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Junior_Varsity_(band)",
+   "https://stereogum.com/2497673/junior-varsitys-new-ep-is-ready/music"
+  ],
+  "status": "released",
+  "note": "Six-track EP, not an album (Key). Wikipedia and Stereogum agree on May 1, 2026. Side B planned, no date.",
+  "label": "Key",
+  "confirmed": true,
+  "checked_on": "2026-10-23"
+ },
+ "54 40|porto": {
+  "date": "2026-01-23",
+  "precision": "day",
+  "sources": [
+   "https://www.5440.com/announcements/5440-porto",
+   "https://54-40.bandcamp.com/album/porto"
+  ],
+  "status": "released",
+  "note": "Band site and Bandcamp agree on Jan. 23, 2026. Spotify pre-release page shows Jan. 22, likely a time zone offset.",
+  "label": "Smilin' Buddha Enjoyment Complex",
+  "confirmed": true,
+  "checked_on": "2026-10-23"
+ },
+ "sawyer utah|when the sun goes down": {
+  "date": "",
+  "precision": "",
+  "sources": [
+   "https://collegeradiocharts.com/may-6th-2026-unweighted/"
+  ],
+  "status": "EP, day not found",
+  "note": "Second EP on VISCYRL X / The Orchard. A college radio chart dated May 6, 2026 lists it, so it was out by then. No day-precision source found.",
+  "label": "VISCYRL X",
+  "confirmed": false,
+  "checked_on": "2026-10-23"
+ },
+ "swapmeet|i know": {
+  "date": "2026-02-24",
+  "precision": "day",
+  "sources": [
+   "https://stereogum.com/2490136/swapmeet-i-know/music",
+   "https://www.albumoftheyear.org/album/1698389-swapmeet-i-know.php"
+  ],
+  "status": "single, sources differ by a day",
+  "note": "Stereogum posted it Feb. 24, 2026. Album of the Year lists Feb. 25. Likely a time zone offset (Australian band). Album Mount Zero (Winspear) followed in July 2026. Not confirmed.",
+  "label": "Winspear",
+  "confirmed": false,
+  "checked_on": "2026-10-23"
+ },
+ "haunted youth|boys cry too": {
+  "date": "2026-05-08",
+  "precision": "day",
+  "sources": [
+   "https://thehauntedyouthofficial.bandcamp.com/album/boys-cry-too-3",
+   "https://www.frontview-magazine.be/en/news/the-haunted-youth-releases-new-album-boys-cry-too-out-0805",
+   "https://store.pias.com/format/1973285-boys-cry-too"
+  ],
+  "status": "released",
+  "note": "Bandcamp, FrontView, PIAS and retailers agree on May 8, 2026 (Play It Again Sam).",
+  "label": "Play It Again Sam",
+  "confirmed": true,
+  "checked_on": "2026-10-23"
+ },
+ "radium dolls|wound up": {
+  "date": "2026-01-30",
+  "precision": "day",
+  "sources": [
+   "https://radiumdolls.bandcamp.com/album/wound-up",
+   "https://www.albumoftheyear.org/album/1603003-radium-dolls-wound-up.php",
+   "https://rateyourmusic.com/release/album/radium-dolls/wound-up/"
+  ],
+  "status": "released",
+  "note": "Bandcamp, Album of the Year and Rate Your Music agree on Jan. 30, 2026. Spotify pre-release page showed Jan. 29.",
+  "label": "Self-Released",
+  "confirmed": true,
+  "checked_on": "2026-10-23"
+ },
+ "edwin raphael|i know a garden": {
+  "date": "2026-03-20",
+  "precision": "day",
+  "sources": [
+   "https://www.killbeatmusic.com/media-releases/2026/3/20/edwin-raphaels-new-lp-out-today-shares-new-video",
+   "https://montrealrocks.ca/album-review-edwin-raphael-i-know-a-garden/"
+  ],
+  "status": "released",
+  "note": "Killbeat press release (\"out today,\" Mar. 20, 2026) and Montreal Rocks agree. Grokipedia mentions Dine Alone in partnership with Favourite Library; label field left as listed.",
+  "label": "Favourite Library",
+  "confirmed": true,
+  "checked_on": "2026-10-23"
+ },
+ "mark adams|this is neo soul": {
+  "date": "2026-03-20",
+  "precision": "day",
+  "sources": [
+   "https://downjazz.bandcamp.com/",
+   "https://jazzblues.eu/2026/01/29/mark-adams/",
+   "https://tower.com/products/mark-adams-this-is-neo-soul-compact-discs"
+  ],
+  "status": "released",
+  "note": "DownJazz Bandcamp, the artist interview and Tower agree on Mar. 20, 2026. Streaming edition set for Aug. 21, 2026. Tower lists Nublu Records as label.",
+  "label": "DownJazz Records",
+  "confirmed": true,
+  "checked_on": "2026-10-23"
+ },
+ "arctic monkeys|opening night": {
+  "date": "2026-01-22",
+  "precision": "day",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Opening_Night_(song)",
+   "https://music.apple.com/us/album/opening-night-single/1870337567"
+  ],
+  "status": "released",
+  "note": "Wikipedia and Apple Music agree on Jan. 22, 2026 (Domino, with War Child). Appears on the Help(2) compilation, out Mar. 6, 2026.",
+  "label": "War Child Records",
+  "confirmed": true,
+  "checked_on": "2026-10-23"
+ },
+ "beaming|horseshoe": {
+  "date": "2026-04-17",
+  "precision": "day",
+  "sources": [
+   "https://www.rosegardenrecords.com/beaming",
+   "https://music.apple.com/ke/album/horseshoe/1867855950",
+   "https://wildfiremusic.net/2026/02/06/beamings-debut-album-horseshoe-leaves-room-for-a-little-luck-and-magic-in-dark-times/"
+  ],
+  "status": "released",
+  "note": "Wildfire and Apple Music agree on Apr. 17, 2026 (Rose Garden). Tower lists vinyl for May 8.",
+  "label": "Rose Garden",
+  "confirmed": true,
+  "checked_on": "2026-10-23"
+ },
+ "various artists|naive melodies": {
+  "date": "2026-01-23",
+  "precision": "day",
+  "sources": [
+   "https://bbemusic.bandcamp.com/album/naive-melodies",
+   "https://www.deezer.com/en/album/843152442",
+   "https://music.apple.com/ca/album/naive-melodies/1848163559"
+  ],
+  "status": "released",
+  "note": "BBE Bandcamp, Deezer, Apple Music and Resident agree on Jan. 23, 2026. Talking Heads tribute. Earlier announced for Oct. 24, 2025; one retailer lists Feb. 6.",
+  "label": "BBE Music",
+  "confirmed": true,
+  "checked_on": "2026-10-23"
+ },
+ "cardinals|masquerade": {
+  "date": "2026-02-13",
+  "precision": "day",
+  "sources": [
+   "https://cardinals.bandcamp.com/album/masquerade",
+   "https://www.cardinals.band/",
+   "https://music.apple.com/us/album/masquerade/1838995891"
+  ],
+  "status": "released",
+  "note": "Bandcamp, band site and Apple Music agree on Feb. 13, 2026 (So Young, SOYOUNG040).",
+  "label": "So Young",
+  "confirmed": true,
+  "checked_on": "2026-10-23"
+ },
+ "pastel blank|unmade in minutes": {
+  "date": "2026-04-24",
+  "precision": "day",
+  "sources": [
+   "https://pastelblank.bandcamp.com/album/unmade-in-minutes",
+   "https://indiepulsemusic.com/2026/03/17/pastel-blank-shares-new-single-video-sweet-nicunmade-in-minutes-out-4-24-via-paper-bag-records/"
+  ],
+  "status": "released",
+  "note": "Bandcamp and Indie Pulse (\"out 4/24\") agree on digital Apr. 24, 2026. Physical copies Upcoming Vinyl lists May 1.",
+  "label": "Paper Bag",
+  "confirmed": true,
+  "checked_on": "2026-10-23"
+ },
+ "lapeche|autotelic": {
+  "date": "2026-02-06",
+  "precision": "day",
+  "sources": [
+   "https://dyingscene.com/releases/lapeche-autotelic/",
+   "https://thoughtswordsaction.com/2026/01/14/lapeche-release-new-single-double-knotted-new-album-autotelic-out-february-6th-on-tiny-engines/"
+  ],
+  "status": "released",
+  "note": "Dying Scene and Thoughts Words Action give Feb. 6, 2026 (Tiny Engines, TE222). Discogs and Bull City list Feb. 13 (likely vinyl). Not confirmed.",
+  "label": "Tiny Engines",
+  "confirmed": false,
+  "checked_on": "2026-10-23"
+ },
+ "jon green|blue hour": {
+  "date": "2026-10-23",
+  "precision": "day",
+  "sources": [
+   "https://birthdaycakerecords.com/"
+  ],
+  "status": "announced",
+  "note": "Birthday Cake Records homepage lists Oct. 23, 2026. One source. Promo email (Oct. 22) lists ADDS 10/27.",
+  "label": "Birthday Cake",
+  "confirmed": false,
+  "checked_on": "2026-10-23"
+ },
+ "iceberg black|wtf": {
+  "date": "2026-10",
+  "precision": "month",
+  "sources": [
+   "https://babygrande.com/artists/iceberg-black/"
+  ],
+  "status": "single, date not found",
+  "note": "Babygrande calls WTF his latest release. A Qobuz listing shows a Babygrande release dated Oct. 16, 2026 but the title was not shown. Promo email (Oct. 22) lists ADDS 10/27.",
+  "label": "Babygrande",
+  "confirmed": false,
+  "checked_on": "2026-10-23"
  }
 }
