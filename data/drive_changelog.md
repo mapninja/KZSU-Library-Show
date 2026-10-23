@@ -48,3 +48,5 @@
 - Air Order read live: 55 tracks, identical to this morning's snapshot, so no new Stace edits to log. Plan placement of the last six (Air Order positions 50 to 55) kept; Air Order not changed.
 - YTM Working rewritten by deltas: 39 removed, 42 added, 54 moves. Verified by reload: 55 tracks, 2:59, equals plan order reversed.
 - Re-rendered show files from the plan (labels: EODM Ume, Viagra Boys Shrimptech Enterprises; Royal Blood album date Nov. 6; QOTSA single date Aug. 25). Zookeeper CSV and working_playlist md overwritten in place at /KZSU/ top level; Working/ copies refreshed. Final Notes Sheet patched in place (5 cells). Word and PDF script unchanged (built 08:38 from the same plan).
+
+- 2026-10-22 (Thursday night run): Archived Oct. 22 finals to Archive/2026/10-22 (notes sheet pointer, script docx and pdf, Zookeeper CSV, working_playlist.md) plus the Oct. 9 and Oct. 16 review_suggestions. Created Notes Sheet 2026-10-29 in Show Prep (42 rows), working script docx and pdf, draft Zookeeper CSV and review_suggestions_2026-10-22.md.

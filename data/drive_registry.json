@@ -254,6 +254,40 @@
    "deployed": "2026-10-21T20:15Z",
    "working": "Working/library_show_playlist_2026-10-22.csv",
    "note": "Raw CSV at /KZSU/ top level through Drive for desktop. 50 tracks, reversed, 7 mic-break blank rows, 8 labels filled. Oct. 22 Thursday sync: overwritten in place with 55 tracks (labels Ume for EODM, Shrimptech Enterprises for Viagra Boys)."
+  },
+  "notes_sheet_2026-10-29": {
+   "id": "1Oely0Vck1eOk6rqhY5tTDg6hCzFDx_KWX_MuuTh_NAo",
+   "type": "sheet",
+   "folder": "Show Prep",
+   "deployed": "2026-10-23T09:46Z",
+   "working": "Working/notes_sheet_2026-10-29.csv",
+   "retired": [],
+   "note": "Thursday-night draft for the Oct. 29 Halloween show. 42 rows, verified by get_values. No prior sheet for this date, so nothing to harvest."
+  },
+  "working_show_script_2026-10-29": {
+   "id": null,
+   "type": "docx+pdf",
+   "folder": "Show Prep",
+   "deployed": "2026-10-23T09:41Z",
+   "working": "Working/working_show_script_2026-10-29.md; landscape files in Show Prep and outputs/recon/2026-10-29",
+   "retired": []
+  },
+  "zookeeper_csv_2026-10-29": {
+   "id": null,
+   "type": "csv-raw",
+   "folder": "Show Prep",
+   "deployed": "2026-10-23T09:41Z",
+   "working": "Working/library_show_playlist_2026-10-29.csv",
+   "retired": [],
+   "note": "Draft, reversed order, 42 tracks. Placed by Drive for desktop sync."
+  },
+  "review_suggestions_2026-10-22": {
+   "id": null,
+   "type": "md-raw",
+   "folder": "Show Prep",
+   "deployed": "2026-10-23T09:35Z",
+   "working": "outputs/reviews/review_suggestions_2026-10-22.md",
+   "retired": []
   }
  },
  "folders": {
