@@ -527,6 +527,54 @@
    "videoId": "dXyQj36I2Vc",
    "note": "cut from Air Order Oct. 22",
    "cooloff_until": "2026-12-21"
+  },
+  {
+   "date": "2026-10-23",
+   "source_playlist": "New Releases for Review (PLIl7VQi0nzk0)",
+   "artist": "L7",
+   "title": "Loma Linda",
+   "videoId": "_A-qWmdo1n4",
+   "cooloff_until": "2026-12-22"
+  },
+  {
+   "date": "2026-10-23",
+   "source_playlist": "New Releases for Review (PLIl7VQi0nzk0)",
+   "artist": "Clinic",
+   "title": "You and I",
+   "videoId": "czwz__JdcxQ",
+   "cooloff_until": "2026-12-22"
+  },
+  {
+   "date": "2026-10-23",
+   "source_playlist": "New Releases for Review (PLIl7VQi0nzk0)",
+   "artist": "Cursive",
+   "title": "Wounded Animal",
+   "videoId": "Qd1-D5CZI3k",
+   "cooloff_until": "2026-12-22"
+  },
+  {
+   "date": "2026-10-23",
+   "source_playlist": "New Releases for Review (PLIl7VQi0nzk0)",
+   "artist": "Blondie",
+   "title": "Spectral Eyes",
+   "videoId": "_26EsYNmkAc",
+   "cooloff_until": "2026-12-22"
+  },
+  {
+   "date": "2026-10-23",
+   "source_playlist": "New Releases for Review (PLIl7VQi0nzk0)",
+   "artist": "PISS",
+   "title": "Rote Zora. \"Resistance is Possible.\" Emma, no. 6, June 1984, pp. 39-41.",
+   "videoId": "_ownZ_IG9nQ",
+   "cooloff_until": "2026-12-22"
+  },
+  {
+   "date": "2026-10-23",
+   "source_playlist": "New Releases for Review (PLIl7VQi0nzk0)",
+   "artist": "Prize Horse",
+   "title": "The Big Picture",
+   "videoId": "fYaxUMD4pJs",
+   "cooloff_until": "2026-12-22"
   }
  ],
  "added_by_stace": [
@@ -1201,7 +1249,13 @@
   "American Motors": 1,
   "Dummy": 1,
   "Spanish Love Songs": 1,
-  "Scratch Acid": 1
+  "Scratch Acid": 1,
+  "L7": 1,
+  "Clinic": 1,
+  "Cursive": 1,
+  "Blondie": 1,
+  "PISS": 1,
+  "Prize Horse": 1
  },
  "not_aired": [
   {

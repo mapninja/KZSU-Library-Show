@@ -28,7 +28,7 @@
    "id": "PLIl7VQi0nzk0",
    "order": "newest first (set Sort > Newest first so saves land on top)",
    "mode": "Tue and Fri 8:20 a.m. via skills/kzsu-new-releases-review; ADD new singles and lead tracks on top; remove only tracks Claude added once 14 days old; never remove tracks Stace added; log her deletes. Ledger: data/new_releases_review/ledger.json",
-   "last_refresh": "2026-10-20 (19 tracks: 1 deleted by Stace, 2 added; Sort Newest first)"
+   "last_refresh": "2026-10-23 (27 tracks: 6 deleted by Stace, 14 added; Sort Newest first; verified by reload)"
   },
   "fcc_edit_needed": {
    "title": "FCC Edit Needed",
