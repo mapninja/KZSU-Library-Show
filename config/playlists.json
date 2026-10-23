@@ -20,7 +20,8 @@
    "title": "Stace's Weekly Playlist",
    "id": "PLCLF-Tik2UHk",
    "order": "forward",
-   "mode": "ADD only; never clear; Stace deletes stale tracks; log her deletes (60-day cool-off)"
+   "mode": "ADD only; never clear; Stace deletes stale tracks; log her deletes (60-day cool-off)",
+   "last_sweep": "2026-10-23 Friday sweep for Oct. 29: 207 tracks (173 + 33 adds + 1 accidental add, Caroline Rose 'I Took A Ride'); 3 tracks to FCC Edit Needed; notes outputs/weekly/2026-10-29_friday-sweep.md"
   },
   "new_releases_review": {
    "title": "New Releases for Review",

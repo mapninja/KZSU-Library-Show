@@ -50,3 +50,7 @@
 - Re-rendered show files from the plan (labels: EODM Ume, Viagra Boys Shrimptech Enterprises; Royal Blood album date Nov. 6; QOTSA single date Aug. 25). Zookeeper CSV and working_playlist md overwritten in place at /KZSU/ top level; Working/ copies refreshed. Final Notes Sheet patched in place (5 cells). Word and PDF script unchanged (built 08:38 from the same plan).
 
 - 2026-10-22 (Thursday night run): Archived Oct. 22 finals to Archive/2026/10-22 (notes sheet pointer, script docx and pdf, Zookeeper CSV, working_playlist.md) plus the Oct. 9 and Oct. 16 review_suggestions. Created Notes Sheet 2026-10-29 in Show Prep (42 rows), working script docx and pdf, draft Zookeeper CSV and review_suggestions_2026-10-22.md.
+
+- 2026-10-23 (kzsu-daily-mark-email-check): Review Shelf Sheet patched in place (Sheets API): 8 rows inserted (Iceberg Black, Jon Green, Soul Glo, Hot Chip, Fake Names, Disfear, Dis Fig, Mike Reed) and release dates updated for Vicious Vicious and GALVEZTON. No ticks changed; Sheet had no edits since Oct. 19 deploy. Link unchanged.
+
+- 2026-10-23 (Friday sweep): Review Shelf Sheet patched in place, 13 new-release rows at the top (Shabazz Palaces, Axis: Sova, Michael Nau, Claud, HMLTD, Olivia Tremor Control, Sour Widows, The Garden, Lambrini Girls, Panchiko, venturing, Tony Iommi, Josh Rouse). Link unchanged. Working/review_shelf.csv and repo data/staged/review_shelf.csv updated to match. Notes Sheet 2026-10-29 not redeployed (Air Order unchanged, no Stace edits). Weekly notes copied to Show Prep as weekly_notes_2026-10-29_friday-sweep.md.

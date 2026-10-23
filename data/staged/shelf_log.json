@@ -141,6 +141,28 @@
    "source": "Music Dept promo list (Thrill Jockey: Dis Fig, Mike Reed's Separatist Party)",
    "ticked_requests_waiting": "none new",
    "deploy": "Working copy only. Sheet not redeployed (no checked shelf dates changed)."
+  },
+  {
+   "date": "2026-10-23",
+   "trigger": "Friday sweep (kzsu-fri-releases)",
+   "rows_added": 13,
+   "artists": [
+    "Shabazz Palaces",
+    "Axis: Sova",
+    "Michael Nau",
+    "Claud",
+    "HMLTD",
+    "The Olivia Tremor Control",
+    "Sour Widows",
+    "The Garden",
+    "Lambrini Girls",
+    "Panchiko",
+    "venturing (Jane Remover)",
+    "Tony Iommi",
+    "Josh Rouse"
+   ],
+   "deploy": "patched in place with the Sheets API (13 rows inserted at A2:Q14); same file ID, link unchanged; verified by read-back",
+   "ticked_requests_waiting": "not checked"
   }
  ]
 }

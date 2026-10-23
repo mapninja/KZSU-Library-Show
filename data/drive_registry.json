@@ -58,7 +58,7 @@
     "1QNa8uUbiTV5Tr6wzN_xxt5zj_Og9GYRwdLs9iiTBbU0",
     "11QBWd_ZhiASLbcZxtkymc4ZocPaKPa3Q5osApEgoCig"
    ],
-   "note": "Oct. 19 Monday intake: Sheet unmodified since Oct. 17 deploy, so no harvest. Redeployed 132 rows with 29 ticks. +1 row (Vicious Vicious single), Oct. 18 boilerplate dates and 3 template rows (Gilla Band, Calibro 35, Star Moles), release dates synced. Old sheet moved to _to_delete. Working/review_shelf.csv refreshed from the repo copy.",
+   "note": "Oct. 23 (Friday sweep): 13 rows inserted at the top with the Sheets API. Same file ID; link unchanged. Earlier Oct. 23 patch: 8 rows inserted at top, 2 release dates updated.",
    "hash": "58ef580a704b2bc322a1297282cc9d99"
   },
   "review_templates_2026-10-04": {
