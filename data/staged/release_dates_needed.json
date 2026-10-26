@@ -9,6 +9,15 @@
   "key": "go public|you are traffic"
  },
  {
+  "artist": "The Van Pelt",
+  "title": "Remain Obscure",
+  "type": "album",
+  "label": "Ernest Jenning",
+  "current_date": "2026-09-18",
+  "date_check": "verify",
+  "key": "van pelt|remain obscure"
+ },
+ {
   "artist": "Little Barrie",
   "title": "Luggin' Hurt",
   "type": "single",
@@ -36,6 +45,15 @@
   "key": "vicious vicious|all caught up yodel my name across the sweeping sands"
  },
  {
+  "artist": "Lambrini Girls",
+  "title": "The Basement / Spilt (singles)",
+  "type": "single",
+  "label": "City Slang",
+  "current_date": "2026-10-23",
+  "date_check": "verify",
+  "key": "lambrini girls|basement spilt singles"
+ },
+ {
   "artist": "Imperial Teen",
   "title": "All Hands Up",
   "type": "single",
@@ -43,15 +61,6 @@
   "current_date": "2026-09",
   "date_check": "verify",
   "key": "imperial teen|all hands up"
- },
- {
-  "artist": "Buddy Miller",
-  "title": "Nothing But a Child / On The Road to Bethlehem",
-  "type": "single",
-  "label": "New West",
-  "current_date": "2026-09-25",
-  "date_check": "verify",
-  "key": "buddy miller|nothing but a child on the road to bethlehem"
  },
  {
   "artist": "lovetempo",
@@ -81,201 +90,201 @@
   "key": "christian taylor|trust you"
  },
  {
-  "artist": "Sawyer Utah",
-  "title": "WHEN THE SUN GOES DOWN",
+  "artist": "The Notwist",
+  "title": "News from Planet Zombie",
   "type": "album",
-  "label": "VISCYRL X",
+  "label": "Morr Music",
   "current_date": "",
   "date_check": "needed",
-  "key": "sawyer utah|when the sun goes down"
+  "key": "notwist|news from planet zombie"
  },
  {
-  "artist": "CorMae",
-  "title": "Everything Is So Great!",
+  "artist": "The Jack Rubies",
+  "title": "Visions in the Bowling Alley",
+  "type": "album",
+  "label": "Big Stir",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "jack rubies|visions in the bowling alley"
+ },
+ {
+  "artist": "dublon",
+  "title": "Sunrise (feat. jev. and Dana Williams)",
+  "type": "single",
+  "label": "Technicolour",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "dublon|sunrise feat jev and dana williams"
+ },
+ {
+  "artist": "dublon",
+  "title": "Sweet Nothings (feat. Deza)",
+  "type": "single",
+  "label": "Technicolour",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "dublon|sweet nothings feat deza"
+ },
+ {
+  "artist": "Velvet Trip",
+  "title": "Glimmers Continued",
   "type": "album",
   "label": "Self-Released",
   "current_date": "",
   "date_check": "needed",
-  "key": "cormae|everything is so great"
+  "key": "velvet trip|glimmers continued"
  },
  {
-  "artist": "Arlo Parks",
-  "title": "2SIDED",
+  "artist": "Vienna Vienna",
+  "title": "Entertain Me",
+  "type": "album",
+  "label": "PULSE / Concord",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "vienna vienna|entertain me"
+ },
+ {
+  "artist": "A View of Earth From The Moon",
+  "title": "Rolled Over Like A Wave",
+  "type": "album",
+  "label": "Self-Released",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "a view of earth from the moon|rolled over like a wave"
+ },
+ {
+  "artist": "Vienna Vienna",
+  "title": "Grief Is For The Living",
   "type": "single",
-  "label": "Transgressive/PIAS",
+  "label": "PULSE / Concord",
   "current_date": "",
   "date_check": "needed",
-  "key": "arlo parks|2sided"
+  "key": "vienna vienna|grief is for the living"
  },
  {
-  "artist": "Arlo Parks",
-  "title": "Ambiguous Desire",
+  "artist": "Fouk",
+  "title": "Sundays [EP]",
+  "type": "EP",
+  "label": "Boogie Angst",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "fouk|sundays ep"
+ },
+ {
+  "artist": "Ecca Vandal",
+  "title": "LOOKING FOR PEOPLE TO UNFOLLOW",
   "type": "album",
-  "label": "Transgressive/[PIAS]",
+  "label": "Loma Vista/Concord",
   "current_date": "",
   "date_check": "needed",
-  "key": "arlo parks|ambiguous desire"
+  "key": "ecca vandal|looking for people to unfollow"
  },
  {
-  "artist": "ISMAY",
-  "title": "Half Truth",
+  "artist": "Gently Tender",
+  "title": "This Was Once Fields",
   "type": "album",
-  "label": "Fossil",
+  "label": "TODO",
   "current_date": "",
   "date_check": "needed",
-  "key": "ismay|half truth"
+  "key": "gently tender|this was once fields"
  },
  {
-  "artist": "Anastasia Coope",
-  "title": "DOT",
+  "artist": "Jill Blutt",
+  "title": "An Almond Shaped Moon and Four Things I Wish I Never Knew About Myself",
   "type": "album",
-  "label": "Bonzo",
+  "label": "Self-Released",
   "current_date": "",
   "date_check": "needed",
-  "key": "anastasia coope|dot"
+  "key": "jill blutt|an almond shaped moon and four things i wish i never knew about myself"
  },
  {
-  "artist": "Jenny on Holiday",
-  "title": "Quicksand Heart",
+  "artist": "Bird",
+  "title": "Strange As Folk [EP]",
+  "type": "EP",
+  "label": "Bird Music",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "bird|strange as folk ep"
+ },
+ {
+  "artist": "TEEN BLUSH",
+  "title": "2019",
   "type": "album",
-  "label": "Transgressive",
+  "label": "Spirit Goth",
   "current_date": "",
   "date_check": "needed",
-  "key": "jenny on holiday|quicksand heart"
+  "key": "teen blush|2019"
  },
  {
-  "artist": "Samm Henshaw",
-  "title": "It Could Be Worse",
+  "artist": "Makthaverskan",
+  "title": "Glass and Bones",
   "type": "album",
-  "label": "Dorm Seven / AWAL",
+  "label": "Wellfare Sounds & Records",
   "current_date": "",
   "date_check": "needed",
-  "key": "samm henshaw|it could be worse"
+  "key": "makthaverskan|glass and bones"
  },
  {
-  "artist": "GoldFord",
-  "title": "Only You Do",
+  "artist": "Bitter:Sweet",
+  "title": "The One",
   "type": "single",
-  "label": "GoldFord Music",
+  "label": "Self Released",
   "current_date": "",
   "date_check": "needed",
-  "key": "goldford|only you do"
+  "key": "bitter sweet|one"
  },
  {
-  "artist": "Fcukers",
-  "title": "L.U.C.K.Y.",
+  "artist": "Rami Gabriel",
+  "title": "Tunderizer",
+  "type": "album",
+  "label": "Sooper",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "rami gabriel|tunderizer"
+ },
+ {
+  "artist": "Will Roesner",
+  "title": "Fairy Music",
+  "type": "album",
+  "label": "Bam Smack Wham!",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "will roesner|fairy music"
+ },
+ {
+  "artist": "Dottie Andersson",
+  "title": "Andersson Funeral Home",
+  "type": "album",
+  "label": "Royal Mountain",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "dottie andersson|andersson funeral home"
+ },
+ {
+  "artist": "The Sha La Das",
+  "title": "Your Picture",
+  "type": "album",
+  "label": "Diamond West",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "sha la das|your picture"
+ },
+ {
+  "artist": "La Sécurité",
+  "title": "Bingo!",
+  "type": "album",
+  "label": "Mothland",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "la securite|bingo"
+ },
+ {
+  "artist": "Adrian Younge",
+  "title": "Feel the Highlife",
   "type": "single",
-  "label": "Ninja Tune",
+  "label": "Linear Labs",
   "current_date": "",
   "date_check": "needed",
-  "key": "fcukers|l u c k y"
- },
- {
-  "artist": "Fcukers",
-  "title": "if you wanna party, come over to my house",
-  "type": "single",
-  "label": "Ninja Tune",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "fcukers|if you wanna party come over to my house"
- },
- {
-  "artist": "Holy Fuck",
-  "title": "Event Beat",
-  "type": "album",
-  "label": "Satellite Services",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "holy fuck|event beat"
- },
- {
-  "artist": "Fcukers",
-  "title": "Ö",
-  "type": "album",
-  "label": "Ninja Tune",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "fcukers|o"
- },
- {
-  "artist": "obli",
-  "title": "He Dreams Of Friends",
-  "type": "single",
-  "label": "Anjunachill",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "obli|he dreams of friends"
- },
- {
-  "artist": "obli",
-  "title": "Soft Speak",
-  "type": "album",
-  "label": "Anjunachill",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "obli|soft speak"
- },
- {
-  "artist": "Nara's Room",
-  "title": "Tearless, thoughtless",
-  "type": "album",
-  "label": "Mtn. Laurel",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "nara s room|tearless thoughtless"
- },
- {
-  "artist": "Tōth",
-  "title": "And The Voice Said",
-  "type": "album",
-  "label": "Egghunt Records/Northern Spy",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "toth|and the voice said"
- },
- {
-  "artist": "Trembler",
-  "title": "Total Sorry",
-  "type": "album",
-  "label": "Rite Field",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "trembler|total sorry"
- },
- {
-  "artist": "Status/Non-Status",
-  "title": "Big Changes",
-  "type": "album",
-  "label": "You've Changed",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "status non status|big changes"
- },
- {
-  "artist": "Magus",
-  "title": "Music For Mandrax",
-  "type": "album",
-  "label": "Language of Stone",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "magus|music for mandrax"
- },
- {
-  "artist": "FIGHTMASTER",
-  "title": "Tolerance",
-  "type": "album",
-  "label": "Fightmaster Industries, Inc.",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "fightmaster|tolerance"
- },
- {
-  "artist": "sadie",
-  "title": "Better Angels",
-  "type": "album",
-  "label": "bloody knuckles",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "sadie|better angels"
+  "key": "adrian younge|feel the highlife"
  }
 ]

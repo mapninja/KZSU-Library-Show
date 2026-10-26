@@ -218,10 +218,10 @@
    "https://www.undertheradarmag.com/news/miss_grit_shares_new_song_mind_disaster_and_announces_new_tour_dates_openin"
   ],
   "status": "released",
-  "note": "Bandcamp track page shows Apr. 24, 2026. Replaces the month-only 2026-03. One day-precision source, so not confirmed.",
+  "note": "Bandcamp track page shows Apr. 24, 2026. Replaces the month-only 2026-03. One day-precision source, so not confirmed. Oct. 25: press dated Mar. 10 to 12, 2026 covers it as the third single, so the single date is in March. Bandcamp shows the album date Apr. 24. Single day not found.",
   "label": "Mute Records",
   "confirmed": false,
-  "checked_on": "2026-10-23"
+  "checked_on": "2026-10-25"
  },
  "hrishikesh hirway|stray dogs with iron wine": {
   "date": "2026-02-18",
@@ -260,10 +260,10 @@
    "https://newwestrecords.com/products/buddy-miller-nothing-but-a-child-on-the-road-to-bethlehem-7"
   ],
   "status": "released",
-  "note": "Bandcamp shows Sept. 25, 2026 (digital). A UK retailer lists the red 7-inch for Nov. 27, 2026. Likely digital vs vinyl dates, not resolved, so not confirmed.",
+  "note": "Bandcamp shows Sept. 25, 2026 (digital). A UK retailer lists the red 7-inch for Nov. 27, 2026. Likely digital vs vinyl dates, not resolved, so not confirmed. Oct. 25: Bandcamp Sept. 25, 2026 (digital); UK retailer Nov. 27, 2026 (red 7-inch). No New West street date found.",
   "label": "New West",
   "confirmed": false,
-  "checked_on": "2026-10-23"
+  "checked_on": "2026-10-25"
  },
  "little barrie|gravity freeze": {
   "date": "2026-05-22",
@@ -830,10 +830,10 @@
    "https://flagpole.com/topstory/2026/09/16/go-public-releases-debut-album-you-are-traffic/"
   ],
   "status": "released",
-  "note": "Bandcamp shows Sept. 18, 2026 (page text and metadata). HHBTM store page listed July 24, 2026, apparently an earlier plan. Flagpole (Sept. 16) is consistent with a mid-September release. Not confirmed: label store conflicts.",
+  "note": "Bandcamp shows Sept. 18, 2026 (page text and metadata). HHBTM store page listed July 24, 2026, apparently an earlier plan. Flagpole (Sept. 16) is consistent with a mid-September release. Not confirmed: label store conflicts. Oct. 25: HHBTM store and Bandcamp (per search) say July 24, 2026. Side-Line, Flagpole and Here Comes The Flood say Sept. 18, 2026. Unresolved conflict.",
   "label": "Happy Happy Birthday To Me",
   "confirmed": false,
-  "checked_on": "2026-10-23"
+  "checked_on": "2026-10-25"
  },
  "las cruxes|las cruxes": {
   "date": "2026-04-24",
@@ -925,10 +925,10 @@
    "https://littlebarrie.bandcamp.com/track/luggin-hurt"
   ],
   "status": "single, date unverified",
-  "note": "Bandcamp track page shows May 22, 2026, which is the Gravity Freeze album date (Easy Eye Sound). Single date still not found; 2026-04-23 kept as earlier single date from the prior run, unverified.",
+  "note": "Bandcamp track page shows May 22, 2026, which is the Gravity Freeze album date (Easy Eye Sound). Single date still not found; 2026-04-23 kept as earlier single date from the prior run, unverified. Oct. 25: a UMG YouTube upload is dated Apr. 22, 2026, one day before the kept date. Bandcamp and Shazam show the album date May 22, 2026. Still unverified.",
   "label": "Easy Eye Sound / Concord",
   "confirmed": false,
-  "checked_on": "2026-10-23"
+  "checked_on": "2026-10-25"
  },
  "new pornographers|votive": {
   "date": "2026-01-21",
@@ -1241,12 +1241,14 @@
  "imperial teen|all hands up": {
   "date": "2026-09",
   "precision": "month",
-  "sources": [],
+  "sources": [
+   "https://rmas.mx/en/2026/09/17/imperial-teen-release-hands-all-up-new-preview-of-all-over-you/"
+  ],
   "status": "released",
-  "note": "Searched Oct. 23: no pages found for the single. indieisnotagenre lists the album All Over You on Oct. 9, 2026. Date stays month-only.",
+  "note": "Title is \"Hands All Up\", third single from All Over You (Merge, Oct. 9, 2026). Press dated Sept. 17, 2026. No day-precision source found.",
   "label": "Merge",
   "confirmed": false,
-  "checked_on": "2026-10-23"
+  "checked_on": "2026-10-25"
  },
  "steve earle los lobos|volver a celaya city of immigrants": {
   "date": "2026-08-06",
@@ -3064,10 +3066,10 @@
   "precision": "",
   "sources": [],
   "status": "single, date not found",
-  "note": "Searched Oct. 23: no pages found for this single or the BannerYeer label.",
+  "note": "Searched Oct. 23: no pages found for this single or the BannerYeer label. Oct. 25: WebSearch found no pages for this single or BannerYeer.",
   "label": "BannerYeer",
   "confirmed": false,
-  "checked_on": "2026-10-23"
+  "checked_on": "2026-10-25"
  },
  "junior varsity|ready": {
   "date": "2026-05-01",
@@ -3096,16 +3098,17 @@
   "checked_on": "2026-10-23"
  },
  "sawyer utah|when the sun goes down": {
-  "date": "",
-  "precision": "",
+  "date": "2026-03",
+  "precision": "month",
   "sources": [
+   "https://sonicsavor.substack.com/p/when-the-sun-goes-down-interview",
    "https://collegeradiocharts.com/may-6th-2026-unweighted/"
   ],
-  "status": "EP, day not found",
-  "note": "Second EP on VISCYRL X / The Orchard. A college radio chart dated May 6, 2026 lists it, so it was out by then. No day-precision source found.",
+  "status": "released",
+  "note": "Sonic Savor says March 2026. One track dated Mar. 6, 2026 on Shazam may be a single. Day not found.",
   "label": "VISCYRL X",
   "confirmed": false,
-  "checked_on": "2026-10-23"
+  "checked_on": "2026-10-25"
  },
  "swapmeet|i know": {
   "date": "2026-02-24",
@@ -3279,5 +3282,296 @@
   "label": "Babygrande",
   "confirmed": false,
   "checked_on": "2026-10-23"
+ },
+ "arlo parks|ambiguous desire": {
+  "date": "2026-04-03",
+  "precision": "day",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ambiguous_Desire",
+   "https://rateyourmusic.com/release/album/arlo-parks/ambiguous-desire/",
+   "https://www.grimeys.com/records-7/arlo-parks-ambiguous-desire"
+  ],
+  "status": "released",
+  "note": "Wikipedia, Rate Your Music and Grimey's agree on Apr. 3, 2026 (Transgressive). A digital deluxe edition is dated Oct. 9, 2026. Found via WebSearch results.",
+  "label": "Transgressive",
+  "confirmed": true,
+  "checked_on": "2026-10-25"
+ },
+ "arlo parks|2sided": {
+  "date": "2026-01-13",
+  "precision": "day",
+  "sources": [
+   "https://rateyourmusic.com/release/single/arlo-parks/2sided/",
+   "https://www.nme.com/news/music/arlo-parks-announces-new-album-ambiguous-desire-with-nocturnal-single-2sided-i-danced-more-than-ever-as-i-made-this-record-3922981",
+   "https://www.complex.com/music/a/alex-gonzalez/arlo-parks-2-sided-ambiguous-desire-third-album"
+  ],
+  "status": "released",
+  "note": "Rate Your Music, NME and Complex give Jan. 13, 2026. Songfacts says Jan. 12, so not confirmed. Lead single from Ambiguous Desire (Apr. 3, 2026).",
+  "label": "Transgressive",
+  "confirmed": false,
+  "checked_on": "2026-10-25"
+ },
+ "fcukers|o": {
+  "date": "2026-03-27",
+  "precision": "day",
+  "sources": [
+   "https://ninjatune.net/release/fcukers/o",
+   "https://fcukers.bandcamp.com/album/-",
+   "https://rateyourmusic.com/release/album/fcukers/o.p/",
+   "https://en.wikipedia.org/wiki/Fcukers"
+  ],
+  "status": "released",
+  "note": "Ninja Tune, Bandcamp, Rate Your Music and Wikipedia agree on Mar. 27, 2026. One blog said Mar. 26.",
+  "label": "Ninja Tune",
+  "confirmed": true,
+  "checked_on": "2026-10-25"
+ },
+ "fcukers|l u c k y": {
+  "date": "2026-01-13",
+  "precision": "day",
+  "sources": [
+   "https://rateyourmusic.com/release/single/fcukers/l_u_c_k_y/",
+   "https://wruv.wordpress.com/2026/01/28/fcukers-l-u-c-k-y-single/",
+   "https://thedailymusicreport.com/music-news-releases/fcukers-l-u-c-k-y-01132026/"
+  ],
+  "status": "released",
+  "note": "Rate Your Music, WRUV and The Daily Music Report agree on Jan. 13, 2026. Lead single from Ö (Mar. 27, 2026).",
+  "label": "Ninja Tune",
+  "confirmed": true,
+  "checked_on": "2026-10-25"
+ },
+ "fcukers|if you wanna party come over to my house": {
+  "date": "2026-03-27",
+  "precision": "day",
+  "sources": [
+   "https://fcukers.bandcamp.com/track/if-you-wanna-party-come-over-to-my-house",
+   "https://readdork.com/track/fcukers-if-you-wanna-party-come-over-to-my-house"
+  ],
+  "status": "single, date unverified",
+  "note": "Bandcamp and Dork show Mar. 27, 2026, the album Ö date. Press dated Mar. 3, 2026 (Clash, Northern Transmissions, FEMMUSIC) covers it as an earlier single, so the standalone date is likely early March. Not confirmed.",
+  "label": "Ninja Tune",
+  "confirmed": false,
+  "checked_on": "2026-10-25"
+ },
+ "holy fuck|event beat": {
+  "date": "2026-03-27",
+  "precision": "day",
+  "sources": [
+   "https://holyfuck.bandcamp.com/album/event-beat",
+   "https://music.apple.com/us/album/event-beat/1862461368",
+   "https://exclaim.ca/music/article/holy-fuck-announce-new-album-event-beat-share-lead-single-evie"
+  ],
+  "status": "released",
+  "note": "Bandcamp, Apple Music and Exclaim agree on Mar. 27, 2026 (digital). Vinyl retailers list Apr. 3, 2026. One retailer lists Oct. 7, 2026 for a blue vinyl edition.",
+  "label": "Satellite Services",
+  "confirmed": true,
+  "checked_on": "2026-10-25"
+ },
+ "jenny on holiday|quicksand heart": {
+  "date": "2026-01-09",
+  "precision": "day",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Quicksand_Heart",
+   "https://transgressiverecords.com/news/jenny-on-holiday-announces-her-debut-record-quicksand-heart/",
+   "https://jennyonholiday.bandcamp.com/album/quicksand-heart"
+  ],
+  "status": "released",
+  "note": "Wikipedia, Transgressive and retailers agree on Jan. 9, 2026.",
+  "label": "Transgressive",
+  "confirmed": true,
+  "checked_on": "2026-10-25"
+ },
+ "samm henshaw|it could be worse": {
+  "date": "2026-01-19",
+  "precision": "day",
+  "sources": [
+   "https://music.apple.com/us/album/it-could-be-worse/1844968620",
+   "https://ratedrnb.com/2026/02/samm-henshaw-it-could-be-worse-interview/",
+   "https://ratedrnb.com/2025/11/samm-henshaw-new-album-it-could-be-worse-announcement-get-back/"
+  ],
+  "status": "released",
+  "note": "Apple Music and Rated R&B give Jan. 19, 2026 for the full release. A vinyl-only release came first, Nov. 21, 2025. Format dates differ, so not confirmed.",
+  "label": "Dorm Seven / AWAL",
+  "confirmed": false,
+  "checked_on": "2026-10-25"
+ },
+ "ismay|half truth": {
+  "date": "2026-06-12",
+  "precision": "day",
+  "sources": [
+   "https://ismay.bandcamp.com/album/half-truth",
+   "https://music.apple.com/us/album/half-truth/1895960170",
+   "https://fossilrecordsco.substack.com/p/half-truth-by-ismay-is-out-our-third"
+  ],
+  "status": "released",
+  "note": "Apple Music, Fossil Records and the artist site agree on June 12, 2026.",
+  "label": "Fossil",
+  "confirmed": true,
+  "checked_on": "2026-10-25"
+ },
+ "anastasia coope|dot": {
+  "date": "2025-10-31",
+  "precision": "day",
+  "sources": [
+   "https://anastasiacoope.bandcamp.com/album/dot",
+   "https://femmusic.com/2025/09/16/anastasia-coope-oregon/"
+  ],
+  "status": "released",
+  "note": "Bandcamp and a FEMMUSIC preview agree on Oct. 31, 2025. Six tracks, described as an EP. Not a 2026 release.",
+  "label": "Bonzo",
+  "confirmed": true,
+  "checked_on": "2026-10-25"
+ },
+ "obli|soft speak": {
+  "date": "2026-05-28",
+  "precision": "day",
+  "sources": [
+   "https://obli.bandcamp.com/album/soft-speak",
+   "https://www.beatport.com/release/soft-speak/6760265",
+   "https://music.anjunabeats.com/release/585678-obli-soft-speak"
+  ],
+  "status": "released",
+  "note": "Bandcamp, Beatport and the Anjuna store agree on May 28, 2026.",
+  "label": "Anjunachill",
+  "confirmed": true,
+  "checked_on": "2026-10-25"
+ },
+ "obli|he dreams of friends": {
+  "date": "2026-04-16",
+  "precision": "day",
+  "sources": [
+   "https://music.anjunabeats.com/release/586162-obli-sun-sun-sun"
+  ],
+  "status": "single, one source",
+  "note": "Anjuna Music Store listing (ANJCH059D) per search result shows Apr. 16, 2026, video Apr. 17. One source, not confirmed. A Kloyd remix single is separate.",
+  "label": "Anjunachill",
+  "confirmed": false,
+  "checked_on": "2026-10-25"
+ },
+ "toth|and the voice said": {
+  "date": "2026-02-27",
+  "precision": "day",
+  "sources": [
+   "https://music.apple.com/us/album/and-the-voice-said/1846587689",
+   "https://www.bandsintown.com/a/5645138-tth",
+   "https://tothtunes.bandcamp.com/album/and-the-voice-said"
+  ],
+  "status": "released",
+  "note": "Apple Music, Bandsintown and DICE agree on Feb. 27, 2026. One review said the 23rd, treated as an error.",
+  "label": "Egghunt Records/Northern Spy",
+  "confirmed": true,
+  "checked_on": "2026-10-25"
+ },
+ "trembler|total sorry": {
+  "date": "2026-01-29",
+  "precision": "day",
+  "sources": [
+   "https://tremblerhtx.bandcamp.com/album/total-sorry",
+   "https://rateyourmusic.com/release/ep/trembler/total-sorry/",
+   "https://staticsoundsclub.com/2026/02/01/trembler-total-sorry-ep-review/"
+  ],
+  "status": "released",
+  "note": "Bandcamp, Rate Your Music and Static Sounds Club agree on Jan. 29, 2026. Five-track EP. Stereogum printed 2/29, an error.",
+  "label": "Rite Field",
+  "confirmed": true,
+  "checked_on": "2026-10-25"
+ },
+ "nara s room|tearless thoughtless": {
+  "date": "2026-05-15",
+  "precision": "day",
+  "sources": [
+   "https://narasroom.bandcamp.com/album/tearless-thoughtless",
+   "https://music.apple.com/us/album/tearless-thoughtless/1873123366",
+   "https://rateyourmusic.com/artist/naras-room"
+  ],
+  "status": "released",
+  "note": "Bandcamp, Apple Music and Rate Your Music agree on May 15, 2026.",
+  "label": "Mtn. Laurel",
+  "confirmed": true,
+  "checked_on": "2026-10-25"
+ },
+ "status non status|big changes": {
+  "date": "2026-03-06",
+  "precision": "day",
+  "sources": [
+   "https://www.killbeatmusic.com/statusnonstatus/",
+   "https://www.bullcityrecords.com/products/status-non-status-big-changes-lp",
+   "https://statusnonstatus.bandcamp.com/album/big-changes"
+  ],
+  "status": "released",
+  "note": "Killbeat and Bull City Records agree on Mar. 6, 2026. An earlier Feb. 6 digital date was superseded.",
+  "label": "You've Changed",
+  "confirmed": true,
+  "checked_on": "2026-10-25"
+ },
+ "magus|music for mandrax": {
+  "date": "2026-04-17",
+  "precision": "day",
+  "sources": [
+   "https://magus4.bandcamp.com/album/music-for-mandrax-2",
+   "https://tower.com/products/magus-music-for-mandrax-vinyl-lp",
+   "https://www.crashrecords.co.uk/products/magus-music-for-mandrax-pre-order"
+  ],
+  "status": "released",
+  "note": "Crash Records, Tower and Audiomack agree on Apr. 17, 2026.",
+  "label": "Language of Stone",
+  "confirmed": true,
+  "checked_on": "2026-10-25"
+ },
+ "fightmaster|tolerance": {
+  "date": "2026-06-05",
+  "precision": "day",
+  "sources": [
+   "https://fightmaster1.bandcamp.com/album/tolerance",
+   "https://music.apple.com/us/album/tolerance/6773485350",
+   "https://femmusic.com/2026/04/08/fightmaster-tolerance/"
+  ],
+  "status": "released",
+  "note": "Bandcamp, Apple Music, FEMMUSIC and the artist agree on June 5, 2026.",
+  "label": "Fightmaster Industries, Inc.",
+  "confirmed": true,
+  "checked_on": "2026-10-25"
+ },
+ "sadie|better angels": {
+  "date": "2026-05-08",
+  "precision": "day",
+  "sources": [
+   "https://sadie404.bandcamp.com/album/better-angels",
+   "https://www.thelineofbestfit.com/news/sadie-announces-debut-album-better-angels",
+   "https://www.rolltherecord.com/artist/sadie/better-angels"
+  ],
+  "status": "released",
+  "note": "Bandcamp, Line of Best Fit and Roll the Record agree on May 8, 2026. Eight tracks.",
+  "label": "bloody knuckles",
+  "confirmed": true,
+  "checked_on": "2026-10-25"
+ },
+ "goldford|only you do": {
+  "date": "2026-04-29",
+  "precision": "day",
+  "sources": [
+   "https://music.apple.com/us/album/only-you-do-single/1889569184",
+   "https://www.shazam.com/song/1889569189/only-you-do",
+   "https://www.instagram.com/p/DXXjN47DWhe/"
+  ],
+  "status": "released",
+  "note": "Apple Music, Shazam and the artist Instagram agree on Apr. 29, 2026.",
+  "label": "GoldFord Music",
+  "confirmed": true,
+  "checked_on": "2026-10-25"
+ },
+ "cormae|everything is so great": {
+  "date": "2026-06-12",
+  "precision": "day",
+  "sources": [
+   "https://cormae.bandcamp.com/album/everything-is-so-great",
+   "https://www.scenepointblank.com/news/records/2026/06/15/cormae-announces-everything-is-so-great/",
+   "https://music.apple.com/us/album/everything-is-so-great/1896085951"
+  ],
+  "status": "released",
+  "note": "Bandcamp and press agree on June 12, 2026. Seven tracks, called an EP by some outlets. A Oct. 12 article says the band signed with DC-Jam Records, so the label may change.",
+  "label": "Self-Released",
+  "confirmed": true,
+  "checked_on": "2026-10-25"
  }
 }

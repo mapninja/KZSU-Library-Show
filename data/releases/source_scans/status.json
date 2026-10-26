@@ -1,22 +1,22 @@
 {
  "_note": "Weekly scan status per outside source. The weekly run updates this file. Scans land in data/releases/source_scans/<source>_<date>.psv (date|ARTIST|Title|Label) and feed scripts/staged_crossref.py.",
  "indieisnotagenre": {
-  "last_scan": "2026-10-23",
+  "last_scan": "2026-10-25",
   "method": "browser pane, snippet in references/source_scans.md",
   "status": "ok",
-  "rows_saved": 206,
-  "note": "Oct. 23 scan: 206 rows, identical to Oct. 17 (SHA-256 match after trailing-pipe normalization, no new file saved). Saved file is indieisnotagenre_2026-10-17.psv."
+  "rows_saved": 286,
+  "note": "Oct. 25 scan: 286 rows, 81 new (mostly Oct. 30 to Nov. 20 and 2027 upcoming). Saved file is indieisnotagenre_2026-10-25.psv; Oct. 17 file moved to _to_delete."
  },
  "bandcamp": {
-  "last_scan": "2026-10-23",
+  "last_scan": "2026-10-25",
   "method": "browser pane, bandcamp.com/discover/rock+punk?s=new, first 60 items",
   "status": "ok, no taste-profile matches",
-  "note": "Oct. 23: scanned rock+punk and rock+punk+alternative new feeds (60 items each). No matches in taste profile or label watchlist (Pulled Apart By Horses Dopamine Hits appeared again, not in profile). Item selector: [class*=results-grid] li. Label and artist Bandcamp pages are used for dates."
+  "note": "Oct. 25: rescanned both feeds (60 items each), no matches in taste profile artists or watchlist artists; no psv saved. Prior note, Oct. 23: scanned rock+punk and rock+punk+alternative new feeds (60 items each). No matches in taste profile or label watchlist (Pulled Apart By Horses Dopamine Hits appeared again, not in profile). Item selector: [class*=results-grid] li. Label and artist Bandcamp pages are used for dates."
  },
  "pitchfork": {
-  "last_scan": "2026-10-23",
+  "last_scan": "2026-10-25",
   "method": "browser pane, web fetch, WebSearch",
   "status": "blocked",
-  "note": "Blocked. Not retried on Oct. 23."
+  "note": "Blocked. Not retried on Oct. 25."
  }
 }
