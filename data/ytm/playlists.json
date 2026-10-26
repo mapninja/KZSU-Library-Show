@@ -1,6 +1,6 @@
 {
- "scraped": "2026-10-18",
- "note": "DJ Stace's YouTube Music playlists used as taste evidence. Excluded: spoken word, podcasts, and every playlist the assistant builds or that duplicates airplay (Air Order, Working, Weekly, New Releases for Review, Morning ZSU lists, Library Specialty lists, College Radio Top 50, aired-show archives). weight = how much one playlist counts in build_taste_profile.py. Oct. 18, 2026 run: re-scraped FCC Edited, Next Show, Soundbed, To Review and FCC Edit Needed; all others reuse earlier per-artist counts (track totals unchanged; Liked Music within 12 tracks). 'tracks' = total YouTube Music reports; scoring uses the scraped rows.",
+ "scraped": "2026-10-25",
+ "note": "DJ Stace's YouTube Music playlists used as taste evidence. Excluded: spoken word, podcasts, and every playlist the assistant builds or that duplicates airplay (Air Order, Working, Weekly, New Releases for Review, Morning ZSU lists, Library Specialty lists, College Radio Top 50, aired-show archives). weight = how much one playlist counts in build_taste_profile.py. Oct. 25, 2026 run: re-scraped Next Show, To Review, FCC Edit Needed and Soundbed in the signed-in YTM tab (browser.json is invalid); all others reuse the Oct. 18 per-artist counts (API row counts within 1 to 2 of saved totals for Covers, Desert Sessions, Love Songs and Songs 2:00 and less; Liked Music not re-read).",
  "playlists": {
   "a": {
    "title": "Night mix",
@@ -12,7 +12,7 @@
   "b": {
    "title": "Soundbed",
    "id": "PLMduzOohHQLp5hvMvemQXZN9KSMxO9rBv",
-   "tracks": 54,
+   "tracks": 55,
    "weight": 0.3,
    "kind": "utility"
   },
@@ -104,7 +104,7 @@
   "o": {
    "title": "To Review",
    "id": "PLMduzOohHQLoYAPMl9uNRayfpe9uQ3NiA",
-   "tracks": 220,
+   "tracks": 262,
    "weight": 2.0,
    "kind": "review"
   },
@@ -118,14 +118,14 @@
   "q": {
    "title": "DJ Stace - Next Show",
    "id": "PLMduzOohHQLrQzt6w4ep6l2zAwcIzoZVF",
-   "tracks": 58,
+   "tracks": 64,
    "weight": 3.0,
    "kind": "show"
   },
   "r": {
    "title": "FCC Edit Needed",
    "id": "PLMduzOohHQLoN-Bq1XuSpyqe1i5JffIad",
-   "tracks": 2,
+   "tracks": 10,
    "weight": 1.5,
    "kind": "show"
   }
