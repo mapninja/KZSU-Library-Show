@@ -168,6 +168,20 @@
  "log": [
   {
    "date": "2026-10-26",
+   "trigger": "Monday album sweep (kzsu-mon-album-sweep)",
+   "rows_added": 5,
+   "artists": [
+    "Jeshi",
+    "Manic Street Preachers",
+    "Shit and Shine",
+    "Josh Johnson",
+    "Sun Araw"
+   ],
+   "deploy": "patched in place with the Sheets API (5 rows inserted at A2:Q6); same file ID, link unchanged; Album and Label written as HYPERLINK formulas; ticks untouched (read back, 29 ticked requests)",
+   "ticked_requests_waiting": "not checked"
+  },
+  {
+   "date": "2026-10-26",
    "trigger": "Monday intake (kzsu-mon-intake)",
    "rows_added": 0,
    "artists": [],

@@ -195,63 +195,63 @@
    "album": "Gentling the Horse at the Walt Whitman Mall",
    "label": "SUCK Records",
    "release_date": "2026-10-23",
-   "status": "announced",
+   "status": "released",
    "first_reported": "2026-10-16",
-   "last_reported": "2026-10-16"
+   "last_reported": "2026-10-26"
   },
   "shabazz palaces|it's a style sport": {
    "artist": "Shabazz Palaces",
    "album": "It's a Style Sport",
-   "label": "Sub Pop",
+   "label": "Sub Pop Records",
    "release_date": "2026-10-23",
-   "status": "announced",
+   "status": "released",
    "first_reported": "2026-10-16",
-   "last_reported": "2026-10-16"
+   "last_reported": "2026-10-26"
   },
   "axis: sova|flowerage": {
    "artist": "Axis: Sova",
    "album": "Flowerage",
    "label": "Drag City",
    "release_date": "2026-10-23",
-   "status": "announced",
+   "status": "released",
    "first_reported": "2026-10-16",
-   "last_reported": "2026-10-16"
+   "last_reported": "2026-10-26"
   },
   "michael nau|popfly": {
    "artist": "Michael Nau",
    "album": "Popfly",
-   "label": "Suicide Squeeze",
+   "label": "Suicide Squeeze Records",
    "release_date": "2026-10-23",
-   "status": "announced",
+   "status": "released",
    "first_reported": "2026-10-16",
-   "last_reported": "2026-10-16"
+   "last_reported": "2026-10-26"
   },
   "sun araw|rapid response": {
    "artist": "Sun Araw",
    "album": "Rapid Response",
-   "label": "Drag City",
+   "label": "Sun Ark / Drag City",
    "release_date": "2026-10-23",
-   "status": "announced",
+   "status": "released",
    "first_reported": "2026-10-16",
-   "last_reported": "2026-10-16"
+   "last_reported": "2026-10-26"
   },
   "josh rouse|museums and women": {
    "artist": "Josh Rouse",
    "album": "Museums and Women",
-   "label": "New West",
+   "label": "New West Records",
    "release_date": "2026-10-23",
-   "status": "announced",
+   "status": "released",
    "first_reported": "2026-10-16",
-   "last_reported": "2026-10-16"
+   "last_reported": "2026-10-26"
   },
   "josh johnson|animative": {
    "artist": "Josh Johnson",
    "album": "Animative",
    "label": "International Anthem / Nonesuch",
    "release_date": "2026-10-23",
-   "status": "announced",
+   "status": "released",
    "first_reported": "2026-10-16",
-   "last_reported": "2026-10-16"
+   "last_reported": "2026-10-26"
   },
   "the garden|bootleg": {
    "artist": "The Garden",
@@ -267,45 +267,45 @@
    "album": "Sigil",
    "label": "Julia's War",
    "release_date": "2026-10-23",
-   "status": "announced",
+   "status": "released",
    "first_reported": "2026-10-16",
-   "last_reported": "2026-10-16"
+   "last_reported": "2026-10-26"
   },
   "shit and shine|0 aa riot": {
    "artist": "Shit and Shine",
-   "album": "0 aa Riot",
+   "album": "0 aa RIOT",
    "label": "Riot Season",
    "release_date": "2026-10-23",
-   "status": "announced",
+   "status": "released",
    "first_reported": "2026-10-16",
-   "last_reported": "2026-10-16"
+   "last_reported": "2026-10-26"
   },
   "the olivia tremor control|the same place": {
    "artist": "The Olivia Tremor Control",
    "album": "The Same Place",
-   "label": "Elephant 6",
+   "label": "Elephant 6 Recording Co.",
    "release_date": "2026-10-23",
-   "status": "announced",
+   "status": "released",
    "first_reported": "2026-10-16",
-   "last_reported": "2026-10-16"
+   "last_reported": "2026-10-26"
   },
   "claud|me and the music": {
    "artist": "Claud",
    "album": "Me and the Music",
    "label": "Dead Oceans",
    "release_date": "2026-10-23",
-   "status": "announced",
+   "status": "released",
    "first_reported": "2026-10-16",
-   "last_reported": "2026-10-16"
+   "last_reported": "2026-10-26"
   },
   "manic street preachers|the holy bible live": {
    "artist": "Manic Street Preachers",
    "album": "The Holy Bible Live",
    "label": "Sony",
    "release_date": "2026-10-23",
-   "status": "announced",
+   "status": "released",
    "first_reported": "2026-10-16",
-   "last_reported": "2026-10-16"
+   "last_reported": "2026-10-26"
   },
   "clinic|wild in the streets": {
    "artist": "Clinic",
@@ -626,10 +626,10 @@
    "artist": "Jeshi",
    "album": "Headrush (mixtape)",
    "label": "Select Discs / Partisan",
-   "release_date": "2026-10-23",
-   "status": "announced",
+   "release_date": "2026-10-26",
+   "status": "released",
    "first_reported": "2026-10-19",
-   "last_reported": "2026-10-19"
+   "last_reported": "2026-10-26"
   },
   "do nothing|friend world": {
    "artist": "Do Nothing",
@@ -751,11 +751,11 @@
   "michael kiwanuka|fudge": {
    "artist": "Michael Kiwanuka",
    "album": "Fudge",
-   "label": "label unverified",
+   "label": "Polydor",
    "release_date": "2026-10-23",
-   "status": "announced",
+   "status": "released",
    "first_reported": "2026-10-19",
-   "last_reported": "2026-10-19"
+   "last_reported": "2026-10-26"
   },
   "queens of the stone age|perfecth": {
    "artist": "Queens of the Stone Age",
@@ -792,6 +792,105 @@
    "status": "announced",
    "first_reported": "2026-10-19",
    "last_reported": "2026-10-19"
+  },
+  "fake names|punk ruins": {
+   "artist": "Fake Names",
+   "album": "Punk Ruins",
+   "label": "Epitaph Records",
+   "release_date": "2026-10-23",
+   "status": "released",
+   "first_reported": "2026-10-26",
+   "last_reported": "2026-10-26"
+  },
+  "dis fig|what to make of these mortal hands": {
+   "artist": "Dis Fig",
+   "album": "What To Make Of These Mortal Hands",
+   "label": "Thrill Jockey",
+   "release_date": "2026-10-23",
+   "status": "released",
+   "first_reported": "2026-10-26",
+   "last_reported": "2026-10-26"
+  },
+  "dazy|maximumblastsuperloud vol. 2: 24 songs from 2023-2026": {
+   "artist": "Dazy",
+   "album": "MAXIMUMBLASTSUPERLOUD Vol. 2: 24 Songs From 2023-2026",
+   "label": "Lame-O Records",
+   "release_date": "2026-10-23",
+   "status": "released",
+   "first_reported": "2026-10-26",
+   "last_reported": "2026-10-26"
+  },
+  "mike reed's separatist party|sing the color blue": {
+   "artist": "Mike Reed's Separatist Party",
+   "album": "Sing the Color Blue",
+   "label": "Thrill Jockey",
+   "release_date": "2026-10-23",
+   "status": "released",
+   "first_reported": "2026-10-26",
+   "last_reported": "2026-10-26"
+  },
+  "tony iommi & jorn|from the dark": {
+   "artist": "Tony Iommi & Jorn",
+   "album": "From the Dark",
+   "label": "BMG Rights Management",
+   "release_date": "2026-10-23",
+   "status": "released",
+   "first_reported": "2026-10-26",
+   "last_reported": "2026-10-26"
+  },
+  "radio free alice|what's in between": {
+   "artist": "Radio Free Alice",
+   "album": "What's In Between",
+   "label": "Atlantic",
+   "release_date": "2026-10-30",
+   "status": "announced",
+   "first_reported": "2026-10-26",
+   "last_reported": "2026-10-26"
+  },
+  "skinshape|chapman's pool": {
+   "artist": "Skinshape",
+   "album": "Chapman's Pool",
+   "label": "Lewis Recordings",
+   "release_date": "2026-10-30",
+   "status": "announced",
+   "first_reported": "2026-10-26",
+   "last_reported": "2026-10-26"
+  },
+  "emma ogier|fly 1111": {
+   "artist": "Emma Ogier",
+   "album": "Fly 1111",
+   "label": "Lost Highway Records",
+   "release_date": "2026-11-11",
+   "status": "announced",
+   "first_reported": "2026-10-26",
+   "last_reported": "2026-10-26"
+  },
+  "disfear|the last nail": {
+   "artist": "Disfear",
+   "album": "The Last Nail",
+   "label": "Relapse Records",
+   "release_date": "2026-11-20",
+   "status": "announced",
+   "first_reported": "2026-10-26",
+   "last_reported": "2026-10-26"
+  },
+  "bodywash|laughing at noise": {
+   "artist": "Bodywash",
+   "album": "Laughing at Noise",
+   "label": "Light Organ Records",
+   "release_date": "2026-11-20",
+   "status": "announced",
+   "first_reported": "2026-10-26",
+   "last_reported": "2026-10-26"
+  },
+  "warpaint|artifact": {
+   "artist": "Warpaint",
+   "album": "Artifact",
+   "label": "Rough Trade",
+   "release_date": "2026-12-11",
+   "status": "announced",
+   "first_reported": "2026-10-26",
+   "last_reported": "2026-10-26"
   }
  }
 }

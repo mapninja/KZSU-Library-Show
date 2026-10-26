@@ -1,0 +1,21 @@
+{
+ "_note": "Browser screen, Oct. 26, 2026 (LRCLIB search in the built-in browser; sandbox gets 403 on lyric sites). Counts only, no lyrics.",
+ "results": [
+  {"artist": "Radio Free Alice", "track": "Crying With You", "status": "CLEAN", "source": "LRCLIB", "words": 387},
+  {"artist": "Emma Ogier", "track": "Hands Tied", "status": "CLEAN", "source": "LRCLIB", "words": 231},
+  {"artist": "Warpaint", "track": "Billie Holiday", "status": "CLEAN", "source": "LRCLIB", "words": 395},
+  {"artist": "Manic Street Preachers", "track": "Faster", "status": "CLEAN", "source": "LRCLIB", "words": 276},
+  {"artist": "Manic Street Preachers", "track": "Yes", "status": "FCC", "source": "LRCLIB", "words": 395, "hits": "fuck x3, cunt x1, cock x3"},
+  {"artist": "Jeshi & X CLUB.", "track": "headrush", "status": "FCC", "source": "LRCLIB", "words": 511, "hits": "fuck x2"},
+  {"artist": "Michael Kiwanuka", "track": "Summer Clothes", "status": "CLEAN", "source": "LRCLIB", "words": 312},
+  {"artist": "Tony Iommi", "track": "World Alone", "status": "CLEAN", "source": "LRCLIB", "words": 204},
+  {"artist": "Sour Widows", "track": "Her Garden", "status": "CLEAN", "source": "LRCLIB", "words": 168},
+  {"artist": "Skinshape", "track": "The Blade of a Knife", "status": "UNVERIFIED", "source": "none found"},
+  {"artist": "Dis Fig", "track": "Arrival", "status": "UNVERIFIED", "source": "none found"},
+  {"artist": "Fake Names", "track": "Until It's Normal", "status": "UNVERIFIED", "source": "none found"},
+  {"artist": "Dazy", "track": "Unreasonable Person", "status": "UNVERIFIED", "source": "none found"},
+  {"artist": "Bodywash", "track": "Lapsang", "status": "UNVERIFIED", "source": "none found"},
+  {"artist": "Disfear", "track": "Shackled to Our Vice", "status": "UNVERIFIED", "source": "LRCLIB busy"},
+  {"artist": "Josh Rouse", "track": "Museums and Women", "status": "UNVERIFIED", "source": "LRCLIB busy"}
+ ]
+}

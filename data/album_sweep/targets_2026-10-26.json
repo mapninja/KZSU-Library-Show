@@ -1,0 +1,3623 @@
+{
+ "generated": "2026-10-26",
+ "window": {
+  "released_since": "2026-10-12",
+  "upcoming_until": "2026-12-25"
+ },
+ "labels": [
+  {
+   "key": "sub pop",
+   "label": "Sub Pop Records",
+   "tier": 1,
+   "spins": 271,
+   "recent_spins": 45,
+   "top_artists": [
+    "Father John Misty",
+    "Iron & Wine",
+    "Kyle Craft",
+    "King Tuff",
+    "the Grifters",
+    "Frankie Cosmos"
+   ],
+   "url": "https://www.subpop.com/"
+  },
+  {
+   "key": "matador",
+   "label": "Matador Records",
+   "tier": 1,
+   "spins": 400,
+   "recent_spins": 44,
+   "top_artists": [
+    "Guided By Voices",
+    "Car Seat Headrest",
+    "Spoon",
+    "Queens of the Stone Age",
+    "Interpol",
+    "Courtney Barnett & Kurt Vile"
+   ],
+   "url": "https://matadorrecords.com/"
+  },
+  {
+   "key": "drag city",
+   "label": "Drag City Records",
+   "tier": 1,
+   "spins": 154,
+   "recent_spins": 42,
+   "top_artists": [
+    "Segall, Ty",
+    "Callahan, Bill",
+    "Matt Sweeney & Bonnie Prince",
+    "Smog",
+    "Ty Segall & White Fence",
+    "Pratt, Jessica"
+   ],
+   "url": "https://www.dragcity.com/"
+  },
+  {
+   "key": "partisan",
+   "label": "Partisan Records",
+   "tier": 1,
+   "spins": 113,
+   "recent_spins": 26,
+   "top_artists": [
+    "Fontaines D.C.",
+    "IDLES",
+    "Black Angels",
+    "Cigarettes After Sex",
+    "Geese",
+    "Winter, Cameron"
+   ],
+   "url": "https://partisanrecords.com/"
+  },
+  {
+   "key": "what s your rupture",
+   "label": "What's Your Rupture?",
+   "tier": 1,
+   "spins": 58,
+   "recent_spins": 19,
+   "top_artists": [
+    "Bodega",
+    "Savoy Motel"
+   ],
+   "url": "https://whatsyourrupture.com/"
+  },
+  {
+   "key": "4ad",
+   "label": "4AD",
+   "tier": 1,
+   "spins": 117,
+   "recent_spins": 18,
+   "top_artists": [
+    "Beirut",
+    "The National",
+    "the Mountain Goats",
+    "U.S. Girls",
+    "Big Thief",
+    "The Breeders"
+   ],
+   "url": "https://4ad.com/"
+  },
+  {
+   "key": "touch and go",
+   "label": "Touch and Go Records",
+   "tier": 1,
+   "spins": 65,
+   "recent_spins": 15,
+   "top_artists": [
+    "The Jesus Lizard",
+    "Scratch Acid",
+    "Lee Harvey Oswald,The",
+    "Slint",
+    "the Delta 72",
+    "the Lee Harvey Oswald Band"
+   ],
+   "url": "https://www.touchandgorecords.com/"
+  },
+  {
+   "key": "merge",
+   "label": "Merge Records",
+   "tier": 1,
+   "spins": 157,
+   "recent_spins": 12,
+   "top_artists": [
+    "Spoon",
+    "Fruit Bats",
+    "A Giant Dog",
+    "M. Ward",
+    "Ex Hex",
+    "Destroyer"
+   ],
+   "url": "https://www.mergerecords.com/"
+  },
+  {
+   "key": "in the red",
+   "label": "In the Red Records",
+   "tier": 1,
+   "spins": 60,
+   "recent_spins": 12,
+   "top_artists": [
+    "The Dirtbombs",
+    "Boss Hog",
+    "Osees",
+    "Ty Segall",
+    "Reigning Sound",
+    "The C.I.A."
+   ],
+   "url": "https://intheredrecords.com/"
+  },
+  {
+   "key": "chain smoking",
+   "label": "Chain Smoking Records",
+   "tier": 1,
+   "spins": 12,
+   "recent_spins": 12,
+   "top_artists": [
+    "Twisted Teens"
+   ],
+   "url": "https://chainsmokingrecords.com/"
+  },
+  {
+   "key": "new west",
+   "label": "New West Records",
+   "tier": 1,
+   "spins": 122,
+   "recent_spins": 11,
+   "top_artists": [
+    "Caroline Rose",
+    "The Glands",
+    "Nude Party, The",
+    "Seratones",
+    "Gallo, Ron",
+    "All Them Witches"
+   ],
+   "url": "https://www.newwestrecords.com/"
+  },
+  {
+   "key": "polyvinyl",
+   "label": "Polyvinyl Records",
+   "tier": 1,
+   "spins": 47,
+   "recent_spins": 10,
+   "top_artists": [
+    "Jay Som",
+    "Pedro the Lion",
+    "Strfkr",
+    "Deerhoof",
+    "Of Montreal",
+    "Palehound"
+   ],
+   "url": "https://www.polyvinylrecords.com/"
+  },
+  {
+   "key": "domino company",
+   "label": "Domino Recording Company",
+   "tier": 1,
+   "spins": 93,
+   "recent_spins": 9,
+   "top_artists": [
+    "The Kills",
+    "Animal Collective",
+    "Panda Bear & Sonic Boom",
+    "Real Estate",
+    "Alex G",
+    "Wet Leg"
+   ],
+   "url": "https://www.dominorecordco.com/"
+  },
+  {
+   "key": "anti",
+   "label": "Anti-",
+   "tier": 1,
+   "spins": 64,
+   "recent_spins": 9,
+   "top_artists": [
+    "Cass McCombs",
+    "Jeff Tweedy",
+    "The Dream Syndicate",
+    "Elliott Smith",
+    "MJ Lenderman",
+    "Art Moore"
+   ],
+   "url": "https://anti.com/"
+  },
+  {
+   "key": "beggars banquet",
+   "label": "Beggars Banquet Records",
+   "tier": 1,
+   "spins": 50,
+   "recent_spins": 9,
+   "top_artists": [
+    "Bauhaus",
+    "Love and Rockets",
+    "Cult, the",
+    "Tones on Tail",
+    "The Fall",
+    "the Hair & Skin Trading Co."
+   ],
+   "url": "https://www.beggars.com/"
+  },
+  {
+   "key": "nonesuch",
+   "label": "Nonesuch Records Inc.",
+   "tier": 1,
+   "spins": 136,
+   "recent_spins": 8,
+   "top_artists": [
+    "The Arcs",
+    "The Black Keys",
+    "the Magnetic Fields",
+    "Devendra Banhart",
+    "Wilco",
+    "Conor Oberst"
+   ],
+   "url": "https://www.nonesuch.com/"
+  },
+  {
+   "key": "ato",
+   "label": "Ato Records",
+   "tier": 1,
+   "spins": 100,
+   "recent_spins": 8,
+   "top_artists": [
+    "Black Pumas",
+    "My Morning Jacket",
+    "Chicano Batman",
+    "Okkervil River",
+    "Old 97's",
+    "Hurray For The Riff Raff"
+   ],
+   "url": "https://www.atorecords.com/"
+  },
+  {
+   "key": "mom pop",
+   "label": "Mom+Pop Music",
+   "tier": 1,
+   "spins": 60,
+   "recent_spins": 8,
+   "top_artists": [
+    "Courtney Barnett",
+    "Sunflower Bean",
+    "Lucius",
+    "Sleigh Bells",
+    "Underscores",
+    "Hinds"
+   ],
+   "url": "https://www.momandpopmusic.com/"
+  },
+  {
+   "key": "rough trade",
+   "label": "Rough Trade Records",
+   "tier": 1,
+   "spins": 53,
+   "recent_spins": 6,
+   "top_artists": [
+    "Parquet Courts",
+    "Goat Girl",
+    "Warpaint",
+    "Bodega",
+    "Camper Van Beethoven",
+    "Black Midi"
+   ],
+   "url": "https://www.roughtraderecords.com/"
+  },
+  {
+   "key": "jagjaguwar",
+   "label": "Jagjaguwar Records",
+   "tier": 1,
+   "spins": 74,
+   "recent_spins": 5,
+   "top_artists": [
+    "Father John Misty",
+    "Dinosaur Jr.",
+    "Angel Olsen",
+    "Sharon Van Etten",
+    "Foxygen",
+    "Black Mountain"
+   ],
+   "url": "https://jagjaguwar.com/"
+  },
+  {
+   "key": "dirty water",
+   "label": "Dirty Water Records",
+   "tier": 1,
+   "spins": 57,
+   "recent_spins": 0,
+   "top_artists": [
+    "Dirty Fences",
+    "The Scaners",
+    "Playboy Manbaby",
+    "The Routes",
+    "Bee Bee Sea",
+    "Suicide Generation"
+   ],
+   "url": "https://www.dirtywaterrecords.com/"
+  },
+  {
+   "key": "fat possum",
+   "label": "Fat Possum Records",
+   "tier": 2,
+   "spins": 43,
+   "recent_spins": 8,
+   "top_artists": [
+    "the Black Keys",
+    "Thee Shams",
+    "X",
+    "American Wrestlers",
+    "Dehd",
+    "Fat White Family"
+   ],
+   "url": "https://www.fatpossum.com/"
+  },
+  {
+   "key": "dead oceans",
+   "label": "Dead Oceans",
+   "tier": 2,
+   "spins": 40,
+   "recent_spins": 8,
+   "top_artists": [
+    "Mitski",
+    "Better Oblivion Community Center",
+    "Morby, Kevin",
+    "Phosphorescent",
+    "The Tallest Man On Earth",
+    "Bleached"
+   ],
+   "url": "https://deadoceans.com/"
+  },
+  {
+   "key": "tardigrade",
+   "label": "Tardigrade Records",
+   "tier": 2,
+   "spins": 8,
+   "recent_spins": 8,
+   "top_artists": [
+    "Sheldrake, Cosmo"
+   ],
+   "url": "https://tardigraderecords.com/"
+  },
+  {
+   "key": "city slang",
+   "label": "City Slang Records",
+   "tier": 2,
+   "spins": 39,
+   "recent_spins": 7,
+   "top_artists": [
+    "Wives",
+    "Tindersticks",
+    "White Denim",
+    "SPRINTS",
+    "Sola, Vera",
+    "Gold Panda"
+   ],
+   "url": "https://cityslang.com/"
+  },
+  {
+   "key": "thirty tigers",
+   "label": "Thirty Tigers",
+   "tier": 2,
+   "spins": 8,
+   "recent_spins": 6,
+   "top_artists": [
+    "Lizzie No",
+    "Bare, Bobby Jr."
+   ],
+   "url": "https://www.thirtytigers.com/"
+  },
+  {
+   "key": "ourness",
+   "label": "Ourness",
+   "tier": 2,
+   "spins": 6,
+   "recent_spins": 6,
+   "top_artists": [
+    "Royel Otis",
+    "Royal Otis"
+   ],
+   "url": "https://ourness.bandcamp.com/"
+  },
+  {
+   "key": "trouble in mind",
+   "label": "Trouble In Mind Records",
+   "tier": 2,
+   "spins": 6,
+   "recent_spins": 5,
+   "top_artists": [
+    "Facs",
+    "Rays"
+   ],
+   "url": "https://troubleinmindrecs.com/"
+  },
+  {
+   "key": "duophonic ultra high fs",
+   "label": "Duophonic Ultra High Fs",
+   "tier": 2,
+   "spins": 5,
+   "recent_spins": 5,
+   "top_artists": [
+    "Stereolab"
+   ],
+   "url": "https://www.stereolab.co.uk/"
+  },
+  {
+   "key": "light in the attic",
+   "label": "Light in the Attic Records",
+   "tier": 2,
+   "spins": 40,
+   "recent_spins": 4,
+   "top_artists": [
+    "The Black Angels",
+    "Acetone",
+    "Dalton, Karen",
+    "The Toadies"
+   ],
+   "url": "https://lightintheattic.net/"
+  },
+  {
+   "key": "loma vista",
+   "label": "Loma Vista Recordings",
+   "tier": 2,
+   "spins": 39,
+   "recent_spins": 4,
+   "top_artists": [
+    "Andrew Bird",
+    "Iggy Pop",
+    "St. Vincent",
+    "New Constellations & STRFKR",
+    "Sampa the Great",
+    "Sylvan Esso"
+   ],
+   "url": "https://lomavistarecordings.com/"
+  },
+  {
+   "key": "mute",
+   "label": "Mute Records Ltd",
+   "tier": 2,
+   "spins": 30,
+   "recent_spins": 4,
+   "top_artists": [
+    "Nick Cave & The Bad Seeds",
+    "Yeasayer",
+    "Lift To Experience",
+    "Can",
+    "Fad Gadget",
+    "Spencer, Jon Blues Explosion"
+   ],
+   "url": "https://mute.com/"
+  },
+  {
+   "key": "fire",
+   "label": "Fire Records",
+   "tier": 2,
+   "spins": 25,
+   "recent_spins": 4,
+   "top_artists": [
+    "Hater",
+    "Bardo Pond",
+    "Kristin Hersh",
+    "Robert Pollard",
+    "Ulrika Spacek",
+    "Babe Rainbow"
+   ],
+   "url": "https://www.firerecords.com/"
+  },
+  {
+   "key": "young god",
+   "label": "Young God Records",
+   "tier": 2,
+   "spins": 17,
+   "recent_spins": 4,
+   "top_artists": [
+    "Swans",
+    "Devendra Banhart"
+   ],
+   "url": "https://younggodrecords.com/"
+  },
+  {
+   "key": "sacred bones",
+   "label": "Sacred Bones Records",
+   "tier": 2,
+   "spins": 10,
+   "recent_spins": 4,
+   "top_artists": [
+    "Moon Duo",
+    "Mandy, Indiana",
+    "The Holydrug Couple",
+    "Jim Jarmusch and Anika"
+   ],
+   "url": "https://www.sacredbonesrecords.com/"
+  },
+  {
+   "key": "epitaph",
+   "label": "Epitaph Records",
+   "tier": 2,
+   "spins": 9,
+   "recent_spins": 4,
+   "top_artists": [
+    "The Bobby Lees",
+    "The Linda Lindas",
+    "Mannequin Pussy",
+    "Tom Waits",
+    "Teenage Wrist"
+   ],
+   "url": "https://www.epitaph.com/"
+  },
+  {
+   "key": "dirty hit",
+   "label": "Dirty Hit",
+   "tier": 2,
+   "spins": 4,
+   "recent_spins": 4,
+   "top_artists": [
+    "Bleachers",
+    "Lava La Rue"
+   ],
+   "url": "https://dirtyhit.co.uk/"
+  },
+  {
+   "key": "fire talk",
+   "label": "Fire Talk",
+   "tier": 2,
+   "spins": 4,
+   "recent_spins": 4,
+   "top_artists": [
+    "PACKS"
+   ],
+   "url": "https://www.firetalkrecs.com/"
+  },
+  {
+   "key": "suck",
+   "label": "SUCK Records",
+   "tier": 2,
+   "spins": 4,
+   "recent_spins": 4,
+   "top_artists": [
+    "Caroline Rose"
+   ],
+   "url": "https://www.carolinerose.com/"
+  },
+  {
+   "key": "secretly canadian",
+   "label": "Secretly Canadian Records",
+   "tier": 2,
+   "spins": 48,
+   "recent_spins": 3,
+   "top_artists": [
+    "Cherry Glazerr",
+    "Whitney",
+    "Yeah Yeah Yeahs",
+    "Damien Jurado",
+    "Songs: Ohia",
+    "Cherry Glazer"
+   ],
+   "url": "https://secretlycanadian.com/"
+  },
+  {
+   "key": "innovative leisure",
+   "label": "Innovative Leisure Records",
+   "tier": 2,
+   "spins": 41,
+   "recent_spins": 3,
+   "top_artists": [
+    "Hanni El Khatib",
+    "The Buttertones",
+    "Hanni el Khatib & Rudy de Anda",
+    "Geli Haha",
+    "Gelli Haha",
+    "Iguana Death Cult"
+   ],
+   "url": "https://innovativeleisure.net/"
+  },
+  {
+   "key": "carpark",
+   "label": "Carpark Records",
+   "tier": 2,
+   "spins": 19,
+   "recent_spins": 3,
+   "top_artists": [
+    "Beths, The",
+    "Cloud Nothings",
+    "Speedy Ortiz",
+    "Palm",
+    "Ducks Ltd.",
+    "Greys"
+   ],
+   "url": "https://carparkrecords.com/"
+  },
+  {
+   "key": "clouds hill",
+   "label": "Clouds Hill Ltd.",
+   "tier": 2,
+   "spins": 13,
+   "recent_spins": 3,
+   "top_artists": [
+    "Johnston, James",
+    "The Mars Volta"
+   ],
+   "url": "https://www.cloudshill.de/"
+  },
+  {
+   "key": "uni distribution corp",
+   "label": "Uni Distribution Corp.",
+   "tier": 2,
+   "spins": 10,
+   "recent_spins": 3,
+   "top_artists": [
+    "Swans"
+   ],
+   "url": ""
+  },
+  {
+   "key": "perishable",
+   "label": "Perishable",
+   "tier": 2,
+   "spins": 9,
+   "recent_spins": 3,
+   "top_artists": [
+    "Sin Ropas",
+    "Fruit Bats"
+   ],
+   "url": ""
+  },
+  {
+   "key": "kill rock stars",
+   "label": "Kill Rock Stars",
+   "tier": 2,
+   "spins": 8,
+   "recent_spins": 3,
+   "top_artists": [
+    "Elliott Smith",
+    "Stern, Marnie",
+    "Elliot Smith",
+    "Low",
+    "Wimps"
+   ],
+   "url": ""
+  },
+  {
+   "key": "warp",
+   "label": "Warp Records",
+   "tier": 2,
+   "spins": 7,
+   "recent_spins": 3,
+   "top_artists": [
+    "Nightmares On Wax",
+    "Aphex Twin",
+    "Battles"
+   ],
+   "url": ""
+  },
+  {
+   "key": "forever living originals",
+   "label": "Forever Living Originals",
+   "tier": 2,
+   "spins": 6,
+   "recent_spins": 3,
+   "top_artists": [
+    "SAULT"
+   ],
+   "url": ""
+  },
+  {
+   "key": "warner",
+   "label": "Warner Records",
+   "tier": 2,
+   "spins": 5,
+   "recent_spins": 3,
+   "top_artists": [
+    "Portugal, The Man",
+    "Orville Peck",
+    "Royal Blood",
+    "The Smiths",
+    "Son Volt"
+   ],
+   "url": "https://www.warnerrecords.com/"
+  },
+  {
+   "key": "confidence river island",
+   "label": "Confidence River, Inc. / Island Records",
+   "tier": 2,
+   "spins": 3,
+   "recent_spins": 3,
+   "top_artists": [
+    "Suki Waterhouse"
+   ],
+   "url": ""
+  },
+  {
+   "key": "geocities",
+   "label": "Geocities",
+   "tier": 2,
+   "spins": 3,
+   "recent_spins": 3,
+   "top_artists": [
+    "Cindy Lee"
+   ],
+   "url": ""
+  },
+  {
+   "key": "hometown fantasy",
+   "label": "Hometown Fantasy",
+   "tier": 2,
+   "spins": 3,
+   "recent_spins": 3,
+   "top_artists": [
+    "The American Analog Set"
+   ],
+   "url": ""
+  },
+  {
+   "key": "jazz life",
+   "label": "Jazz Life",
+   "tier": 2,
+   "spins": 3,
+   "recent_spins": 3,
+   "top_artists": [
+    "Twisted Teens"
+   ],
+   "url": ""
+  },
+  {
+   "key": "k",
+   "label": "K Records",
+   "tier": 2,
+   "spins": 3,
+   "recent_spins": 3,
+   "top_artists": [
+    "Sharp Pins"
+   ],
+   "url": "https://www.krecs.com/"
+  },
+  {
+   "key": "parlophone",
+   "label": "Parlophone Records",
+   "tier": 2,
+   "spins": 3,
+   "recent_spins": 3,
+   "top_artists": [
+    "Bowie, David",
+    "The Beatles"
+   ],
+   "url": ""
+  },
+  {
+   "key": "psychic hotline",
+   "label": "Psychic Hotline",
+   "tier": 2,
+   "spins": 3,
+   "recent_spins": 3,
+   "top_artists": [
+    "Esso, Sylvan",
+    "Helado Tropical, Helado Negro & Reyna Tropical"
+   ],
+   "url": ""
+  },
+  {
+   "key": "radicalis gmbh",
+   "label": "Radicalis Music Gmbh",
+   "tier": 2,
+   "spins": 3,
+   "recent_spins": 3,
+   "top_artists": [
+    "Erhard, Anna"
+   ],
+   "url": ""
+  },
+  {
+   "key": "rca victor",
+   "label": "RCA Victor",
+   "tier": 2,
+   "spins": 3,
+   "recent_spins": 3,
+   "top_artists": [
+    "Dolly Parton"
+   ],
+   "url": ""
+  },
+  {
+   "key": "shrimptech enterprises",
+   "label": "Shrimptech Enterprises",
+   "tier": 2,
+   "spins": 3,
+   "recent_spins": 3,
+   "top_artists": [
+    "Viagra Boys"
+   ],
+   "url": ""
+  },
+  {
+   "key": "so young",
+   "label": "So Young Records!",
+   "tier": 2,
+   "spins": 3,
+   "recent_spins": 3,
+   "top_artists": [
+    "Folly Group"
+   ],
+   "url": ""
+  },
+  {
+   "key": "todo",
+   "label": "TODO Records",
+   "tier": 2,
+   "spins": 3,
+   "recent_spins": 3,
+   "top_artists": [
+    "Annabelle Chairlegs"
+   ],
+   "url": ""
+  },
+  {
+   "key": "turbo disco",
+   "label": "Turbo Disco",
+   "tier": 2,
+   "spins": 3,
+   "recent_spins": 3,
+   "top_artists": [
+    "Twisted Teens"
+   ],
+   "url": ""
+  },
+  {
+   "key": "war child",
+   "label": "War Child Records",
+   "tier": 2,
+   "spins": 3,
+   "recent_spins": 3,
+   "top_artists": [
+    "Fontaines D.C.",
+    "Fontaines D.C. & War Child Records",
+    "Fontaines DC"
+   ],
+   "url": ""
+  },
+  {
+   "key": "saddle creek",
+   "label": "Saddle Creek Records",
+   "tier": 2,
+   "spins": 47,
+   "recent_spins": 2,
+   "top_artists": [
+    "Big Thief",
+    "Stef Chura",
+    "Bright Eyes",
+    "The Faint",
+    "The Mynabirds",
+    "Young Jesus"
+   ],
+   "url": "https://saddle-creek.com/"
+  },
+  {
+   "key": "man s ruin",
+   "label": "man's ruin",
+   "tier": 2,
+   "spins": 31,
+   "recent_spins": 2,
+   "top_artists": [
+    "Bjork, Brant",
+    "Desert Sessions",
+    "Earthlings?",
+    "Fu Manchu",
+    "Delta 72",
+    "Earthings?"
+   ],
+   "url": "https://www.mansruinrecords.com/"
+  },
+  {
+   "key": "rykodisc",
+   "label": "Rykodisc",
+   "tier": 2,
+   "spins": 28,
+   "recent_spins": 2,
+   "top_artists": [
+    "David Bowie",
+    "Weiss, Chuck E.",
+    "Big Star",
+    "Galaxie 500",
+    "Gallon Drunk",
+    "Morphine"
+   ],
+   "url": "https://www.rykodisc.com/"
+  },
+  {
+   "key": "captured tracks",
+   "label": "Captured Tracks",
+   "tier": 2,
+   "spins": 27,
+   "recent_spins": 2,
+   "top_artists": [
+    "Naomi Punk",
+    "Diiv",
+    "Widowspeak",
+    "Capital Punishment",
+    "Drahla",
+    "Wild Nothing"
+   ],
+   "url": "https://capturedtracks.com/"
+  },
+  {
+   "key": "easy eye sound",
+   "label": "Easy Eye Sound",
+   "tier": 2,
+   "spins": 24,
+   "recent_spins": 2,
+   "top_artists": [
+    "Auerbach, Dan",
+    "Robert Finley",
+    "The Arcs",
+    "Link Wray",
+    "Little Barrie"
+   ],
+   "url": "https://www.easyeyesound.com/"
+  },
+  {
+   "key": "shangri la",
+   "label": "Shangri-La Records",
+   "tier": 2,
+   "spins": 21,
+   "recent_spins": 2,
+   "top_artists": [
+    "Grifters",
+    "Band of Skulls"
+   ],
+   "url": "https://www.shangri-la.com/"
+  },
+  {
+   "key": "ipecac",
+   "label": "Ipecac Records",
+   "tier": 2,
+   "spins": 20,
+   "recent_spins": 2,
+   "top_artists": [
+    "Melvins",
+    "the Desert Sessions",
+    "Eagles of Death Metal"
+   ],
+   "url": "https://ipecac.com/"
+  },
+  {
+   "key": "bella union",
+   "label": "Bella Union",
+   "tier": 2,
+   "spins": 19,
+   "recent_spins": 2,
+   "top_artists": [
+    "Ezra Furman",
+    "Lanterns On The Lake",
+    "Nell Smith & The Flaming Lips"
+   ],
+   "url": "https://www.bellaunion.com/"
+  },
+  {
+   "key": "dirtnap",
+   "label": "Dirtnap Records",
+   "tier": 2,
+   "spins": 15,
+   "recent_spins": 2,
+   "top_artists": [
+    "Martha",
+    "Sonic Avenues"
+   ],
+   "url": "https://www.dirtnaprecords.com/"
+  },
+  {
+   "key": "heavenly",
+   "label": "Heavenly Recordings",
+   "tier": 2,
+   "spins": 15,
+   "recent_spins": 2,
+   "top_artists": [
+    "Pip Blom"
+   ],
+   "url": "https://www.heavenlyrecordings.com/"
+  },
+  {
+   "key": "loosegroove",
+   "label": "Loosegroove Records",
+   "tier": 2,
+   "spins": 13,
+   "recent_spins": 2,
+   "top_artists": [
+    "Queens of the Stone Age"
+   ],
+   "url": "https://loosegrooverecords.com/"
+  },
+  {
+   "key": "xl",
+   "label": "Xl Recordings",
+   "tier": 2,
+   "spins": 35,
+   "recent_spins": 1,
+   "top_artists": [
+    "Radiohead",
+    "Devendra Banhart",
+    "The Avalanches",
+    "Electric Six",
+    "Fontaines D.C.",
+    "Låpsley"
+   ],
+   "url": "https://www.xlrecordings.com/"
+  },
+  {
+   "key": "yep roc",
+   "label": "Yep Roc Records",
+   "tier": 2,
+   "spins": 24,
+   "recent_spins": 1,
+   "top_artists": [
+    "The Felice Brothers",
+    "The Fleshtones",
+    "Nick Lowe",
+    "Sloan"
+   ],
+   "url": "https://www.yeproc.com/"
+  },
+  {
+   "key": "third man",
+   "label": "Third Man Records",
+   "tier": 2,
+   "spins": 22,
+   "recent_spins": 1,
+   "top_artists": [
+    "The Raconteurs",
+    "Jack White",
+    "Olivia Jean",
+    "Courtney Barnett",
+    "The Dead Weather",
+    "Jaan Pehechaan Ho"
+   ],
+   "url": "https://thirdmanrecords.com/"
+  },
+  {
+   "key": "wichita",
+   "label": "Wichita Recordings",
+   "tier": 2,
+   "spins": 19,
+   "recent_spins": 1,
+   "top_artists": [
+    "Froth",
+    "Ride"
+   ],
+   "url": "https://www.wichita-recordings.com/"
+  },
+  {
+   "key": "darla",
+   "label": "Darla Records",
+   "tier": 2,
+   "spins": 14,
+   "recent_spins": 1,
+   "top_artists": [
+    "Those Bastard Souls"
+   ],
+   "url": "https://www.darla.com/"
+  },
+  {
+   "key": "norton",
+   "label": "Norton Records",
+   "tier": 2,
+   "spins": 13,
+   "recent_spins": 1,
+   "top_artists": [
+    "The Sonics"
+   ],
+   "url": "https://nortonrecords.com/"
+  },
+  {
+   "key": "dangerbird",
+   "label": "Dangerbird Records",
+   "tier": 2,
+   "spins": 12,
+   "recent_spins": 1,
+   "top_artists": [
+    "Sebadoh",
+    "Swervedriver",
+    "Silversun Pickups"
+   ],
+   "url": "https://dangerbirdrecords.com/"
+  },
+  {
+   "key": "suicide squeeze",
+   "label": "Suicide Squeeze Records",
+   "tier": 2,
+   "spins": 46,
+   "recent_spins": 0,
+   "top_artists": [
+    "The Coathangers",
+    "L.A. Witch",
+    "Hinds",
+    "Los Nastys",
+    "Ty Segall"
+   ],
+   "url": "https://suicidesqueeze.net/"
+  },
+  {
+   "key": "castle face",
+   "label": "Castle Face Records",
+   "tier": 2,
+   "spins": 45,
+   "recent_spins": 0,
+   "top_artists": [
+    "Thee Oh Sees",
+    "Mountains & Rainbows",
+    "Oh Sees",
+    "Once & Future Band",
+    "The Zig Zags",
+    "Prettiest Eyes"
+   ],
+   "url": "https://castlefacerecords.com/"
+  },
+  {
+   "key": "hardly art",
+   "label": "Hardly Art",
+   "tier": 2,
+   "spins": 35,
+   "recent_spins": 0,
+   "top_artists": [
+    "La Luz",
+    "Chastity Belt",
+    "Lala Lala",
+    "Shana Cleveland",
+    "Tacocat",
+    "The Julie Ruin"
+   ],
+   "url": "https://www.hardlyart.com/"
+  },
+  {
+   "key": "dbpm",
+   "label": "dBpm Records",
+   "tier": 2,
+   "spins": 33,
+   "recent_spins": 0,
+   "top_artists": [
+    "Wilco",
+    "Jeff Tweedy"
+   ],
+   "url": "https://www.dbpmrecords.com/"
+  },
+  {
+   "key": "dine alone",
+   "label": "Dine Alone Records",
+   "tier": 2,
+   "spins": 29,
+   "recent_spins": 0,
+   "top_artists": [
+    "Dead Heavens",
+    "Dave Catching",
+    "City and Colour",
+    "The Dandy Warhols"
+   ],
+   "url": "https://dinealonerecords.com/"
+  },
+  {
+   "key": "a v club",
+   "label": "A.V. Club",
+   "tier": 2,
+   "spins": 25,
+   "recent_spins": 0,
+   "top_artists": [
+    "Screaming Females",
+    "Father John Misty"
+   ],
+   "url": ""
+  },
+  {
+   "key": "barsuk",
+   "label": "Barsuk Records",
+   "tier": 2,
+   "spins": 25,
+   "recent_spins": 0,
+   "top_artists": [
+    "Lo Tom",
+    "Ra Ra Riot",
+    "Phantogram"
+   ],
+   "url": "https://www.barsuk.com/"
+  },
+  {
+   "key": "vagrant",
+   "label": "Vagrant Records",
+   "tier": 2,
+   "spins": 21,
+   "recent_spins": 0,
+   "top_artists": [
+    "PJ Harvey",
+    "Black Rebel Motorcycle Club",
+    "City and Colour",
+    "Edward Sharpe & The Magnetic Zeros"
+   ],
+   "url": "https://www.vagrant.com/"
+  },
+  {
+   "key": "wharf cat",
+   "label": "Wharf Cat Records",
+   "tier": 2,
+   "spins": 21,
+   "recent_spins": 0,
+   "top_artists": [
+    "Honey",
+    "Big French",
+    "Joey Agresta",
+    "Wall",
+    "Public Practice",
+    "Wet Hair"
+   ],
+   "url": "https://wharfcatrecords.com/"
+  },
+  {
+   "key": "burger",
+   "label": "Burger Records",
+   "tier": 2,
+   "spins": 20,
+   "recent_spins": 0,
+   "top_artists": [
+    "Pink Mexico",
+    "Gap Dream",
+    "Faux Ferocious",
+    "Outrageous Cherry",
+    "Prefab Messiahs",
+    "Beechwood"
+   ],
+   "url": "https://burgerrecords.org/"
+  },
+  {
+   "key": "thrill jockey",
+   "label": "Thrill Jockey Records",
+   "tier": 2,
+   "spins": 20,
+   "recent_spins": 0,
+   "top_artists": [
+    "Wooden Shjips",
+    "Alexander Tucker",
+    "Dommengang",
+    "Trans Am",
+    "The Body",
+    "Dan Friel"
+   ],
+   "url": "https://thrilljockey.com/"
+  },
+  {
+   "key": "slovenly",
+   "label": "Slovenly Recordings",
+   "tier": 2,
+   "spins": 18,
+   "recent_spins": 0,
+   "top_artists": [
+    "Ladrones",
+    "Priors",
+    "Haxxan",
+    "The Monsieurs",
+    "The Rippers",
+    "Tandoori Knights"
+   ],
+   "url": "https://slovenly.com/"
+  },
+  {
+   "key": "joyful noise",
+   "label": "Joyful Noise Records",
+   "tier": 2,
+   "spins": 14,
+   "recent_spins": 0,
+   "top_artists": [
+    "Big Business",
+    "Tropical Fuck Storm",
+    "Eerie Wanda",
+    "Helvetia"
+   ],
+   "url": "https://www.joyfulnoiserecordings.com/"
+  },
+  {
+   "key": "bloodshot",
+   "label": "Bloodshot Records",
+   "tier": 2,
+   "spins": 13,
+   "recent_spins": 0,
+   "top_artists": [
+    "Old 97'S",
+    "Andre Williams"
+   ],
+   "url": "https://www.bloodshotrecords.com/"
+  },
+  {
+   "key": "goner",
+   "label": "Goner Records",
+   "tier": 2,
+   "spins": 13,
+   "recent_spins": 0,
+   "top_artists": [
+    "Aquarian Blood",
+    "Carbonas",
+    "Golden Pelicans",
+    "Nots",
+    "Bad Times",
+    "The Blind Shake"
+   ],
+   "url": "https://goner-records.com/"
+  },
+  {
+   "key": "tiny engines",
+   "label": "Tiny Engines",
+   "tier": 2,
+   "spins": 13,
+   "recent_spins": 0,
+   "top_artists": [
+    "Adult Mom",
+    "Strange Ranger"
+   ],
+   "url": "https://tinyengines.net/"
+  },
+  {
+   "key": "leaf label",
+   "label": "Leaf Label",
+   "tier": 2,
+   "spins": 12,
+   "recent_spins": 0,
+   "top_artists": [
+    "Snapped Ankles"
+   ],
+   "url": "https://www.theleaflabel.com/"
+  },
+  {
+   "key": "single lock",
+   "label": "Single Lock Records",
+   "tier": 2,
+   "spins": 12,
+   "recent_spins": 0,
+   "top_artists": [
+    "Lera Lynn",
+    "Lera Lyn",
+    "St. Paul & the Broken Bones"
+   ],
+   "url": "https://singlelock.com/"
+  },
+  {
+   "key": "ba da bing",
+   "label": "Ba Da Bing!",
+   "tier": 2,
+   "spins": 0,
+   "recent_spins": 0,
+   "top_artists": [],
+   "url": "https://badabingrecords.com/"
+  },
+  {
+   "key": "canvasback atl",
+   "label": "Canvasback/atl",
+   "tier": 2,
+   "spins": 0,
+   "recent_spins": 0,
+   "top_artists": [],
+   "url": ""
+  },
+  {
+   "key": "chapter",
+   "label": "Chapter",
+   "tier": 2,
+   "spins": 0,
+   "recent_spins": 0,
+   "top_artists": [],
+   "url": ""
+  },
+  {
+   "key": "fiction",
+   "label": "Fiction Records",
+   "tier": 2,
+   "spins": 0,
+   "recent_spins": 0,
+   "top_artists": [],
+   "url": "https://www.fictionrecords.co.uk/"
+  },
+  {
+   "key": "harvest",
+   "label": "Harvest Records",
+   "tier": 2,
+   "spins": 0,
+   "recent_spins": 0,
+   "top_artists": [],
+   "url": ""
+  },
+  {
+   "key": "mint",
+   "label": "Mint Records Inc.",
+   "tier": 2,
+   "spins": 0,
+   "recent_spins": 0,
+   "top_artists": [],
+   "url": "https://www.mintrecs.com/"
+  },
+  {
+   "key": "plum",
+   "label": "Plum Records",
+   "tier": 2,
+   "spins": 0,
+   "recent_spins": 0,
+   "top_artists": [],
+   "url": ""
+  },
+  {
+   "key": "rhyme reason",
+   "label": "Rhyme & Reason",
+   "tier": 2,
+   "spins": 0,
+   "recent_spins": 0,
+   "top_artists": [],
+   "url": ""
+  },
+  {
+   "key": "spacebomb",
+   "label": "Spacebomb",
+   "tier": 2,
+   "spins": 0,
+   "recent_spins": 0,
+   "top_artists": [],
+   "url": "https://spacebombrecords.com/"
+  },
+  {
+   "key": "stargazer",
+   "label": "Stargazer Records",
+   "tier": 2,
+   "spins": 0,
+   "recent_spins": 0,
+   "top_artists": [],
+   "url": "https://stargazerrecords.com/"
+  },
+  {
+   "key": "the sign",
+   "label": "The Sign Records",
+   "tier": 2,
+   "spins": 0,
+   "recent_spins": 0,
+   "top_artists": [],
+   "url": ""
+  },
+  {
+   "key": "sire records",
+   "label": "Sire Records",
+   "tier": 2,
+   "spins": 0,
+   "recent_spins": 0,
+   "top_artists": [],
+   "url": "https://www.sirerecords.com/"
+  },
+  {
+   "key": "no more heroes",
+   "label": "No More Heroes",
+   "tier": 2,
+   "spins": 0,
+   "recent_spins": 0,
+   "top_artists": [],
+   "url": "https://www.nomoreheroes.co.uk/"
+  },
+  {
+   "key": "exploding in sound",
+   "label": "Exploding In Sound",
+   "tier": 2,
+   "spins": 0,
+   "recent_spins": 0,
+   "top_artists": [],
+   "url": "https://explodinginsound.com/"
+  },
+  {
+   "key": "julia s war",
+   "label": "Julia S War",
+   "tier": 2,
+   "spins": 0,
+   "recent_spins": 0,
+   "top_artists": [],
+   "url": "https://juliaswar.com/"
+  },
+  {
+   "key": "perennial",
+   "label": "Perennial",
+   "tier": 2,
+   "spins": 0,
+   "recent_spins": 0,
+   "top_artists": [],
+   "url": "https://perennialrecords.bandcamp.com/"
+  },
+  {
+   "key": "speedy wunderground",
+   "label": "Speedy Wunderground",
+   "tier": 2,
+   "spins": 0,
+   "recent_spins": 0,
+   "top_artists": [],
+   "url": "https://www.speedywunderground.co.uk/"
+  },
+  {
+   "key": "kartel",
+   "label": "Kartel",
+   "tier": 2,
+   "spins": 0,
+   "recent_spins": 0,
+   "top_artists": [],
+   "url": "https://kartelmusicgroup.com/"
+  },
+  {
+   "key": "big scary monsters",
+   "label": "Big Scary Monsters",
+   "tier": 2,
+   "spins": 0,
+   "recent_spins": 0,
+   "top_artists": [],
+   "url": "https://bsmrocks.com/"
+  },
+  {
+   "key": "memphis industries",
+   "label": "Memphis Industries",
+   "tier": 2,
+   "spins": 0,
+   "recent_spins": 0,
+   "top_artists": [],
+   "url": "https://memphis-industries.com/"
+  },
+  {
+   "key": "bayonet",
+   "label": "Bayonet",
+   "tier": 2,
+   "spins": 0,
+   "recent_spins": 0,
+   "top_artists": [],
+   "url": "https://www.bayonetrecords.com/"
+  },
+  {
+   "key": "numero group",
+   "label": "Numero Group",
+   "tier": 2,
+   "spins": 0,
+   "recent_spins": 0,
+   "top_artists": [],
+   "url": "https://numerogroup.com/"
+  },
+  {
+   "key": "daptone",
+   "label": "Daptone",
+   "tier": 2,
+   "spins": 0,
+   "recent_spins": 0,
+   "top_artists": [],
+   "url": "https://daptonerecords.com/"
+  },
+  {
+   "key": "big crown",
+   "label": "Big Crown",
+   "tier": 2,
+   "spins": 0,
+   "recent_spins": 0,
+   "top_artists": [],
+   "url": "https://bigcrownrecords.com/"
+  },
+  {
+   "key": "riding easy",
+   "label": "Riding Easy",
+   "tier": 2,
+   "spins": 0,
+   "recent_spins": 0,
+   "top_artists": [],
+   "url": "https://ridingeasyrecords.com/"
+  },
+  {
+   "key": "heavy psych sounds",
+   "label": "Heavy Psych Sounds",
+   "tier": 2,
+   "spins": 0,
+   "recent_spins": 0,
+   "top_artists": [],
+   "url": "https://www.heavypsychsounds.com/"
+  },
+  {
+   "key": "god unknown",
+   "label": "God Unknown",
+   "tier": 2,
+   "spins": 0,
+   "recent_spins": 0,
+   "top_artists": [],
+   "url": "https://www.godunknownrecords.co.uk/"
+  },
+  {
+   "key": "rocket recordings",
+   "label": "Rocket Recordings",
+   "tier": 2,
+   "spins": 0,
+   "recent_spins": 0,
+   "top_artists": [],
+   "url": "https://www.rocketrecordings.com/"
+  },
+  {
+   "key": "mexican summer",
+   "label": "Mexican Summer",
+   "tier": 2,
+   "spins": 0,
+   "recent_spins": 0,
+   "top_artists": [],
+   "url": "https://mexicansummer.com/"
+  },
+  {
+   "key": "ghostly international",
+   "label": "Ghostly International",
+   "tier": 2,
+   "spins": 0,
+   "recent_spins": 0,
+   "top_artists": [],
+   "url": "https://ghostly.com/"
+  },
+  {
+   "key": "sinderlyn",
+   "label": "Sinderlyn",
+   "tier": 2,
+   "spins": 0,
+   "recent_spins": 0,
+   "top_artists": [],
+   "url": "https://sinderlyn.com/"
+  },
+  {
+   "key": "full time hobby",
+   "label": "Full Time Hobby",
+   "tier": 2,
+   "spins": 0,
+   "recent_spins": 0,
+   "top_artists": [],
+   "url": "https://fulltimehobby.co.uk/"
+  },
+  {
+   "key": "pias",
+   "label": "Pias",
+   "tier": 2,
+   "spins": 0,
+   "recent_spins": 0,
+   "top_artists": [],
+   "url": "https://www.pias.com/"
+  },
+  {
+   "key": "bandcamp self release",
+   "label": "Bandcamp Self Release",
+   "tier": 2,
+   "spins": 0,
+   "recent_spins": 0,
+   "top_artists": [],
+   "url": "https://bandcamp.com/discover/rock?s=new"
+  }
+ ],
+ "playlist_artists": [
+  {
+   "artist": "13th Floor Elevators",
+   "tracks": [
+    "You're Gonna Miss Me (QFPS Version)"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "@",
+   "tracks": [
+    "Autosmile",
+    "I Know You Are (But What Am I Thinking)",
+    "Autosmile"
+   ],
+   "playlists": [
+    "New Releases for Review",
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Aldous Harding",
+   "tracks": [
+    "The Barrel"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Allah-Las",
+   "tracks": [
+    "Sandy"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "alt-J",
+   "tracks": [
+    "Left Hand Free"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "ameokama",
+   "tracks": [
+    "energy vampire"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "American Motors",
+   "tracks": [
+    "marlboro miles"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Angine de Poitrine",
+   "tracks": [
+    "Fabienk"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Antioch Arrow",
+   "tracks": [
+    "The Fixed Orbit"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Avengers",
+   "tracks": [
+    "We Are the One"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Awning",
+   "tracks": [
+    "Little Green Book"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Axis: Sova",
+   "tracks": [
+    "Fever Days",
+    "Monterey",
+    "Fever Days"
+   ],
+   "playlists": [
+    "New Releases for Review",
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Beth Orton",
+   "tracks": [
+    "Waiting"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Big Brother & The Holding Company & Janis Joplin",
+   "tracks": [
+    "Down On Me"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Big Thief",
+   "tracks": [
+    "Not"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Black Groove",
+   "tracks": [
+    "Sloggers"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Black Pumas",
+   "tracks": [
+    "Colors (Live In Studio)"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Blondie",
+   "tracks": [
+    "Spectral Eyes"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Blondshell",
+   "tracks": [
+    "Heart Has To Work So Hard"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "BODEGA",
+   "tracks": [
+    "All Inside Aquarium",
+    "Olivia",
+    "Combustible",
+    "Territorial Call of the Female"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Bodywash",
+   "tracks": [
+    "La Renommée"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Brother Wallace",
+   "tracks": [
+    "Who Do You Love?"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Caroline Rose",
+   "tracks": [
+    "Hello Again, Jim",
+    "Notes to Teenage Self",
+    "RIDE (!!!)",
+    "I Took A Ride"
+   ],
+   "playlists": [
+    "New Releases for Review",
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Cate Le Bon",
+   "tracks": [
+    "Home to You"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Chalk, Phantogram & cosign",
+   "tracks": [
+    "Heaven"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Cheekface",
+   "tracks": [
+    "No Fly Zone"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Chinese American Bear",
+   "tracks": [
+    "Turn Up The Radio"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "claire rousay & Zander Raymond",
+   "tracks": [
+    "can't we have both"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Claud",
+   "tracks": [
+    "She Doesn't Love Me",
+    "She Doesn't Love Me"
+   ],
+   "playlists": [
+    "New Releases for Review",
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Clinic",
+   "tracks": [
+    "You and I"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Cold Cave",
+   "tracks": [
+    "The Great Pan Is Dead"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Colleen Green",
+   "tracks": [
+    "Whatever I Want"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Courtney Barnett",
+   "tracks": [
+    "Avant Gardener"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Cursive",
+   "tracks": [
+    "Wounded Animal"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "D.D Dumbo",
+   "tracks": [
+    "Satan"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "David Byrne & Daniel Pemberton",
+   "tracks": [
+    "Let Me Sell You A Dream"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Dazy",
+   "tracks": [
+    "Ugly",
+    "Unreasonable Person",
+    "Ugly"
+   ],
+   "playlists": [
+    "New Releases for Review",
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Dead Meadow",
+   "tracks": [
+    "Everything's Goin On"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Death Valley Girls",
+   "tracks": [
+    "Message From the Venus Flower",
+    "Welcome to Earth",
+    "Welcome to Earth"
+   ],
+   "playlists": [
+    "New Releases for Review",
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Devendra Banhart",
+   "tracks": [
+    "Carmensita"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "DIIV",
+   "tracks": [
+    "Trillions"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Dinosaur Jr",
+   "tracks": [
+    "Blowin' Up"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Dis Fig",
+   "tracks": [
+    "Arrival",
+    "Arrival"
+   ],
+   "playlists": [
+    "New Releases for Review",
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Disfear",
+   "tracks": [
+    "Shackled To Our Vice"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Dread Spectre Council",
+   "tracks": [
+    "Hex's Up"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Dummy",
+   "tracks": [
+    "Full Spectrum Dominance",
+    "Squeaky Wheel",
+    "April Limousine",
+    "Omen Globe"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Duster",
+   "tracks": [
+    "Inside Out"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Eagles Of Death Metal",
+   "tracks": [
+    "Careless Whisper"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Eels",
+   "tracks": [
+    "Cap In Hand"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Emma Ogier",
+   "tracks": [
+    "Hands Tied"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Eric McEntee",
+   "tracks": [
+    "I'm Not Bothered By The Rain"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Fake Names",
+   "tracks": [
+    "Punk Ruins",
+    "Cover The Distance",
+    "Punk Ruins"
+   ],
+   "playlists": [
+    "New Releases for Review",
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Father John Misty",
+   "tracks": [
+    "The X-panded Universe"
+   ],
+   "playlists": [
+    "New Releases for Review"
+   ]
+  },
+  {
+   "artist": "feeble little horse",
+   "tracks": [
+    "Doorway"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Flipper",
+   "tracks": [
+    "Sex Bomb (7\")"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Fontaines D.C.",
+   "tracks": [
+    "Marianne",
+    "Tongue",
+    "Six Shot Morning",
+    "Mimesis"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Fontaines D.C. & ROSALIA",
+   "tracks": [
+    "Where Is Gone?"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Frankie and the Witch Fingers",
+   "tracks": [
+    "Burn Me Down"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Frightwig",
+   "tracks": [
+    "Hot Air Rising (Official Video)"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Fugazi",
+   "tracks": [
+    "Full Disclosure"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Fujiya & Miyagi",
+   "tracks": [
+    "No Green Light",
+    "No Green Light"
+   ],
+   "playlists": [
+    "New Releases for Review",
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Funkadelic",
+   "tracks": [
+    "Hit It and Quit It"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Galaxie 500",
+   "tracks": [
+    "Tugboat"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Gelli Haha",
+   "tracks": [
+    "Klouds Will Carry Me To Sleep"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Gilla Band",
+   "tracks": [
+    "The Gum"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Goat",
+   "tracks": [
+    "I Sing In Silence"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Grateful Dead",
+   "tracks": [
+    "Cream Puff War (Full Length Version)"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Greg Freeman",
+   "tracks": [
+    "Cahokia",
+    "Cahokia"
+   ],
+   "playlists": [
+    "New Releases for Review",
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Guided By Voices",
+   "tracks": [
+    "Lost In The Sun",
+    "Out With A Theory"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Hannah Frances",
+   "tracks": [
+    "Circadian Heart",
+    "Circadian Heart"
+   ],
+   "playlists": [
+    "New Releases for Review",
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Heavens to Betsy",
+   "tracks": [
+    "Calculated",
+    "baby’s gone",
+    "ain't never goin' back",
+    "stay dead"
+   ],
+   "playlists": [
+    "New Releases for Review",
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "High Vis",
+   "tracks": [
+    "Guided Tour"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "HMLTD",
+   "tracks": [
+    "Chateau Vamp Freestyle",
+    "Chateau Vamp Freestyle"
+   ],
+   "playlists": [
+    "New Releases for Review",
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Hot Chip",
+   "tracks": [
+    "Random Violence",
+    "Random Violence"
+   ],
+   "playlists": [
+    "New Releases for Review",
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Hovvdy",
+   "tracks": [
+    "Try Try Try"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Hrishikesh Hirway",
+   "tracks": [
+    "Stray Dogs (feat. Iron & Wine)"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "IDLES",
+   "tracks": [
+    "Damaged Goods (feat. Gang of Four)"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Imperial Teen",
+   "tracks": [
+    "Overdrive",
+    "All Over You",
+    "All Over You"
+   ],
+   "playlists": [
+    "New Releases for Review",
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Interpol",
+   "tracks": [
+    "This Mirror Weighs a Ton"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Jamie T",
+   "tracks": [
+    "All I Wanna See Is Now"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Jess Williamson",
+   "tracks": [
+    "Goodbye to All That",
+    "High Heels and Blue Jeans",
+    "A Mile South of Heaven"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Jesse Welles",
+   "tracks": [
+    "The Nerd Reich"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "John Lennon",
+   "tracks": [
+    "Watching The Wheels"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Johnny Marr",
+   "tracks": [
+    "Spin"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Josh Rouse",
+   "tracks": [
+    "Museums and Women"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Jozef Van Wissem & Jim Jarmusch",
+   "tracks": [
+    "Never Like You Said (feat. Courtney Barnett)"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Julia Jacklin",
+   "tracks": [
+    "Get Away From Me (I Think I'll Love You Soon)"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Justice, Tame Impala, SZA & Grand Theft Auto VI",
+   "tracks": [
+    "Flower In A Hurricane [from GTAVI] (feat. King Gizzard & the Lizard Wizard)"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Kings of Leon",
+   "tracks": [
+    "Cold Blue Dawn"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "L7",
+   "tracks": [
+    "Loma Linda"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Lambrini Girls",
+   "tracks": [
+    "Cult of Celebrity",
+    "The Basement",
+    "Spilt",
+    "Spilt"
+   ],
+   "playlists": [
+    "New Releases for Review",
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "LCD Soundsystem",
+   "tracks": [
+    "All My Friends"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Link Wray & His Wray Men",
+   "tracks": [
+    "Rumble"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Mdou Moctar",
+   "tracks": [
+    "Funeral for Justice"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Michael Kiwanuka",
+   "tracks": [
+    "Summer Clothes"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Michael Nau",
+   "tracks": [
+    "Popfly",
+    "Popfly"
+   ],
+   "playlists": [
+    "New Releases for Review",
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Mike Reed's Separatist Party",
+   "tracks": [
+    "Ben’s New Hit"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Miss Grit",
+   "tracks": [
+    "Mind Disaster"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "My Morning Jacket",
+   "tracks": [
+    "Wordless Chorus"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Nick Cave & The Bad Seeds",
+   "tracks": [
+    "Jubilee Street"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Nick Drake",
+   "tracks": [
+    "Pink Moon"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Nilüfer Yanya",
+   "tracks": [
+    "midnight sun"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Now, Now",
+   "tracks": [
+    "Slide"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Panchiko",
+   "tracks": [
+    "One Car Hits Another (feat. Mei Semones)"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Patrick Wolf",
+   "tracks": [
+    "The Night Safari"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Perfume Genius",
+   "tracks": [
+    "Queen"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Phoebe Bridgers",
+   "tracks": [
+    "On Video"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "PISS",
+   "tracks": [
+    "time loop at hot slit",
+    "Rote Zora. \"Resistance is Possible.\" Emma, no. 6, June 1984, pp. 39-41."
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Pretenders",
+   "tracks": [
+    "Don't Get Me Wrong"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Protomartyr",
+   "tracks": [
+    "Sounds We Cannot Hear"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Queens of the Stone Age",
+   "tracks": [
+    "Insignificant Other",
+    "Where The Goth Girls At?"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "R.E.M.",
+   "tracks": [
+    "Imitation Of Life"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "R.M.F.C.",
+   "tracks": [
+    "The Clue",
+    "Mirror",
+    "School",
+    "Mud"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Radie Peat",
+   "tracks": [
+    "Hares on The Mountain"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Radio Free Alice",
+   "tracks": [
+    "Lunch Money"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Ramones",
+   "tracks": [
+    "Judy Is a Punk (40th Anniversary Mono Mix)"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Renny Conti",
+   "tracks": [
+    "Mona Lisa"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Roy Orbison",
+   "tracks": [
+    "Blue Angel"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "sadie",
+   "tracks": [
+    "Little Things"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Sampa the Great",
+   "tracks": [
+    "Can't Hold Us (feat. Mwanje)"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Sex Pistols",
+   "tracks": [
+    "Anarchy in the U.K."
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Shabazz Palaces",
+   "tracks": [
+    "Jheri Curl Jump",
+    "Jheri Curl Jump"
+   ],
+   "playlists": [
+    "New Releases for Review",
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Shiner",
+   "tracks": [
+    "Only Shallow"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Shovels & Rope & Felice County Fair",
+   "tracks": [
+    "Ballad of Lou the Welterweight"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Skinshape",
+   "tracks": [
+    "I Didn't Know"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Sleepy Sun",
+   "tracks": [
+    "New Age"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Soul Glo",
+   "tracks": [
+    "Ppl Worried",
+    "Ppl Worried"
+   ],
+   "playlists": [
+    "New Releases for Review",
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Soundgarden",
+   "tracks": [
+    "Into The Void (Sealth)"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Sour Widows",
+   "tracks": [
+    "Sigil",
+    "Sigil"
+   ],
+   "playlists": [
+    "New Releases for Review",
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Spanish Love Songs",
+   "tracks": [
+    "Doom Tripping"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Spiral XP",
+   "tracks": [
+    "Faith Electric"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Spirit Ghost",
+   "tracks": [
+    "Dungeon Crawler"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "SRSQ",
+   "tracks": [
+    "It Always Rains"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Star Moles",
+   "tracks": [
+    "The End"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Stef Chura",
+   "tracks": [
+    "Danny",
+    "Leadweight"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Sweeping Promises",
+   "tracks": [
+    "Cocoon",
+    "Pain Without a Touch"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Team Dresch",
+   "tracks": [
+    "Hand Grenade"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Teenage Fanclub",
+   "tracks": [
+    "There Was You",
+    "Be With You Tonight",
+    "Tomorrow People"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Teens in Trouble",
+   "tracks": [
+    "I Do",
+    "I Do"
+   ],
+   "playlists": [
+    "New Releases for Review",
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "The Avalanches",
+   "tracks": [
+    "Can't Get Over Losing You (feat. Portraits Of Tracy)",
+    "Blue Shadows (feat. Karen O)",
+    "Blue Shadows (feat. Karen O)"
+   ],
+   "playlists": [
+    "New Releases for Review",
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "The Beach Boys",
+   "tracks": [
+    "Good Vibrations (Remastered 2001)"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "The Cramps",
+   "tracks": [
+    "Human Fly"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "The Damned",
+   "tracks": [
+    "New Rose",
+    "Neat Neat Neat"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "The Fall",
+   "tracks": [
+    "30 Degrees"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "The Garden",
+   "tracks": [
+    "Bootleg",
+    "Banned from Paradise",
+    "Bootleg"
+   ],
+   "playlists": [
+    "New Releases for Review",
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "The New Pornographers",
+   "tracks": [
+    "Votive"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "The Olivia Tremor Control",
+   "tracks": [
+    "The Same Place",
+    "The Same Place"
+   ],
+   "playlists": [
+    "New Releases for Review",
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "The Smashing Pumpkins",
+   "tracks": [
+    "Black Stars",
+    "Black Stars"
+   ],
+   "playlists": [
+    "New Releases for Review",
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Thee Sacred Souls",
+   "tracks": [
+    "Any Old Fool"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Them Crooked Vultures",
+   "tracks": [
+    "Mind Eraser, No Chaser"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "This Is Lorelei",
+   "tracks": [
+    "Billy Came Back"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "This Mortal Coil",
+   "tracks": [
+    "Song To The Siren"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Tony Iommi & Jorn",
+   "tracks": [
+    "World Alone"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "TTSSFU",
+   "tracks": [
+    "Upstairs"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Tune-Yards",
+   "tracks": [
+    "Bizness"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "TV Priest",
+   "tracks": [
+    "Cartoons"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Twin Peaks",
+   "tracks": [
+    "Walk to the One You Love"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Twisted Teens",
+   "tracks": [
+    "When We First Met",
+    "Stalks",
+    "Stalks"
+   ],
+   "playlists": [
+    "New Releases for Review",
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Ty Segall",
+   "tracks": [
+    "Black Paint"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Uncle Tupelo",
+   "tracks": [
+    "Graveyard Shift"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "venturing",
+   "tracks": [
+    "Believe"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Westside Cowboy",
+   "tracks": [
+    "Kick Stones (The Boys)"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Wild Pink",
+   "tracks": [
+    "Box Store"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Wishy",
+   "tracks": [
+    "Lovesick"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  },
+  {
+   "artist": "Yeah Yeah Yeahs",
+   "tracks": [
+    "Maps (Live at the Royal Albert Hall)"
+   ],
+   "playlists": [
+    "Stace's Weekly Playlist"
+   ]
+  }
+ ],
+ "lead_singles": [
+  {
+   "artist": "Big Boys",
+   "track": "Fun Fun Fun",
+   "aired": [
+    "2026-10-22"
+   ],
+   "label": "Moment Records",
+   "reasons": [
+    "album name equals track name"
+   ],
+   "times_aired": 1,
+   "last_aired": "2026-10-22"
+  },
+  {
+   "artist": "Julia Jacklin",
+   "track": "Get Away From Me (I Think I'll Love You Soon)",
+   "aired": [
+    "2026-10-22"
+   ],
+   "label": "4AD",
+   "reasons": [
+    "listed in upcoming_releases.csv"
+   ],
+   "known_album": "The Gem",
+   "known_status": "just_out",
+   "times_aired": 1,
+   "last_aired": "2026-10-22"
+  },
+  {
+   "artist": "TV Priest",
+   "track": "Just So You Know",
+   "aired": [
+    "2026-09-10",
+    "2026-09-17",
+    "2026-10-15"
+   ],
+   "label": "AMK / Kartel Music Group",
+   "reasons": [
+    "listed in upcoming_releases.csv"
+   ],
+   "known_album": "Cartoons",
+   "known_status": "announced",
+   "times_aired": 3,
+   "last_aired": "2026-10-15"
+  },
+  {
+   "artist": "Fontaines D.C.",
+   "track": "Marianne",
+   "aired": [
+    "2026-10-01",
+    "2026-10-07",
+    "2026-10-15"
+   ],
+   "label": "Xl Recordings",
+   "reasons": [
+    "album name equals track name",
+    "listed in upcoming_releases.csv"
+   ],
+   "known_album": "Dopamine Chamber",
+   "known_status": "announced",
+   "times_aired": 3,
+   "last_aired": "2026-10-15"
+  },
+  {
+   "artist": "Lambrini Girls",
+   "track": "Cult of Celebrity",
+   "aired": [
+    "2026-10-15"
+   ],
+   "label": "City Slang",
+   "reasons": [
+    "album name equals track name"
+   ],
+   "times_aired": 1,
+   "last_aired": "2026-10-15"
+  },
+  {
+   "artist": "Twisted Teens",
+   "track": "When We First Met",
+   "aired": [
+    "2026-09-10",
+    "2026-09-24",
+    "2026-10-08"
+   ],
+   "label": "Going Underground Records",
+   "reasons": [
+    "album name equals track name",
+    "listed in upcoming_releases.csv"
+   ],
+   "known_album": "The Holy Cross Tigers",
+   "known_status": "announced",
+   "times_aired": 3,
+   "last_aired": "2026-10-08"
+  },
+  {
+   "artist": "Morphine",
+   "track": "Cocoon",
+   "aired": [
+    "2026-10-08"
+   ],
+   "label": "Partisan Records",
+   "reasons": [
+    "album name equals track name",
+    "listed in upcoming_releases.csv"
+   ],
+   "known_album": "Cocoon",
+   "known_status": "announced",
+   "times_aired": 1,
+   "last_aired": "2026-10-08"
+  },
+  {
+   "artist": "Lex Walton",
+   "track": "Ultimate Love 4Ever",
+   "aired": [
+    "2026-09-24",
+    "2026-10-07"
+   ],
+   "label": "",
+   "reasons": [
+    "listed in upcoming_releases.csv"
+   ],
+   "known_album": "ULTIMATE LOVE FOREVER",
+   "known_status": "announced",
+   "times_aired": 2,
+   "last_aired": "2026-10-07"
+  },
+  {
+   "artist": "Joy Division",
+   "track": "Transmission",
+   "aired": [
+    "2026-10-07"
+   ],
+   "label": "Factory Records",
+   "reasons": [
+    "album name equals track name"
+   ],
+   "times_aired": 1,
+   "last_aired": "2026-10-07"
+  },
+  {
+   "artist": "Ty Segall",
+   "track": "Chrome",
+   "aired": [
+    "2026-10-07"
+   ],
+   "label": "Drag City",
+   "reasons": [
+    "album name equals track name"
+   ],
+   "times_aired": 1,
+   "last_aired": "2026-10-07"
+  },
+  {
+   "artist": "Teens in Trouble",
+   "track": "I Do",
+   "aired": [
+    "2026-10-07"
+   ],
+   "label": "Lauren Records",
+   "reasons": [
+    "album name equals track name"
+   ],
+   "times_aired": 1,
+   "last_aired": "2026-10-07"
+  },
+  {
+   "artist": "Queens of the Stone Age",
+   "track": "Where the Goth Girls At?",
+   "aired": [
+    "2026-10-01"
+   ],
+   "label": "Matador Records",
+   "reasons": [
+    "listed in upcoming_releases.csv"
+   ],
+   "known_album": "Perfecth",
+   "known_status": "announced",
+   "times_aired": 1,
+   "last_aired": "2026-10-01"
+  },
+  {
+   "artist": "Gurriers",
+   "track": "Nobody's Coming to Save You",
+   "aired": [
+    "2026-10-01"
+   ],
+   "label": "Pias Recordings",
+   "reasons": [
+    "album name equals track name"
+   ],
+   "times_aired": 1,
+   "last_aired": "2026-10-01"
+  },
+  {
+   "artist": "Krill",
+   "track": "Dominate",
+   "aired": [
+    "2026-10-01"
+   ],
+   "label": "Exploding In Sound",
+   "reasons": [
+    "listed in upcoming_releases.csv"
+   ],
+   "known_album": "Secret Language",
+   "known_status": "announced",
+   "times_aired": 1,
+   "last_aired": "2026-10-01"
+  },
+  {
+   "artist": "Hermanos Gutiérrez",
+   "track": "Los Ojos Del Cóndor",
+   "aired": [
+    "2026-10-01"
+   ],
+   "label": "Easy Eye Sound",
+   "reasons": [
+    "album name equals track name"
+   ],
+   "times_aired": 1,
+   "last_aired": "2026-10-01"
+  },
+  {
+   "artist": "Richard Hell & The Voidoids",
+   "track": "Blank Generation",
+   "aired": [
+    "2026-10-01"
+   ],
+   "label": "Sire Records",
+   "reasons": [
+    "album name equals track name"
+   ],
+   "times_aired": 1,
+   "last_aired": "2026-10-01"
+  },
+  {
+   "artist": "BODEGA",
+   "track": "Literary World",
+   "aired": [
+    "2026-09-10",
+    "2026-09-24"
+   ],
+   "label": "Chrysalis Records",
+   "reasons": [
+    "listed in upcoming_releases.csv"
+   ],
+   "known_album": "All Inside Aquarium",
+   "known_status": "announced",
+   "times_aired": 2,
+   "last_aired": "2026-09-24"
+  },
+  {
+   "artist": "Rostam Hamilton Leithauser",
+   "track": "In A Black Out (Piano Version)",
+   "aired": [
+    "2026-09-24"
+   ],
+   "label": "",
+   "reasons": [
+    "album name equals track name"
+   ],
+   "times_aired": 1,
+   "last_aired": "2026-09-24"
+  },
+  {
+   "artist": "Mr. Gnome",
+   "track": "Fader",
+   "aired": [
+    "2026-09-24"
+   ],
+   "label": "",
+   "reasons": [
+    "album name equals track name"
+   ],
+   "times_aired": 1,
+   "last_aired": "2026-09-24"
+  },
+  {
+   "artist": "Dinosaur Jr.",
+   "track": "Blowin' Up",
+   "aired": [
+    "2026-09-10"
+   ],
+   "label": "Jagjaguwar",
+   "reasons": [
+    "album name equals track name"
+   ],
+   "times_aired": 1,
+   "last_aired": "2026-09-10"
+  },
+  {
+   "artist": "Adam & The Ants",
+   "track": "Kings of the Wild Frontier",
+   "aired": [
+    "2026-09-10"
+   ],
+   "label": "Epic",
+   "reasons": [
+    "album name equals track name"
+   ],
+   "times_aired": 1,
+   "last_aired": "2026-09-10"
+  },
+  {
+   "artist": "Concrete Blonde",
+   "track": "Still in Hollywood",
+   "aired": [
+    "2026-09-10"
+   ],
+   "label": "I.R.S. (Metal)",
+   "reasons": [
+    "album name equals track name"
+   ],
+   "times_aired": 1,
+   "last_aired": "2026-09-10"
+  },
+  {
+   "artist": "Jesse Welles",
+   "track": "The Nerd Reich",
+   "aired": [
+    "2026-09-03"
+   ],
+   "label": "",
+   "reasons": [
+    "blank album"
+   ],
+   "times_aired": 1,
+   "last_aired": "2026-09-03"
+  },
+  {
+   "artist": "Ron Gallo",
+   "track": "Peter Thiel",
+   "aired": [
+    "2026-09-03"
+   ],
+   "label": "",
+   "reasons": [
+    "blank album"
+   ],
+   "times_aired": 1,
+   "last_aired": "2026-09-03"
+  },
+  {
+   "artist": "The Mountain Goats",
+   "track": "Charlie Sheen Reaches Out to the Feds",
+   "aired": [
+    "2026-09-03"
+   ],
+   "label": "",
+   "reasons": [
+    "blank album"
+   ],
+   "times_aired": 1,
+   "last_aired": "2026-09-03"
+  },
+  {
+   "artist": "Big Audio Dynamite",
+   "track": "V. Thirteen",
+   "aired": [
+    "2026-09-03"
+   ],
+   "label": "",
+   "reasons": [
+    "blank album"
+   ],
+   "times_aired": 1,
+   "last_aired": "2026-09-03"
+  }
+ ]
+}
