@@ -60,7 +60,7 @@
    "id": "PLAuYzGJw8qFE",
    "order": "forward",
    "mode": "refresh weekly from indie/rock/alt charts",
-   "last_refresh": "2026-10-19 (NACC 200, week ending Oct. 13; +11 new entrants, -5 dropped; 40 tracks)"
+   "last_refresh": "2026-10-26 (NACC 200, week ending Oct. 20; +12 new entrants, -11 dropped; 41 tracks; verified by reload; Remi Wolf lead swapped to Moon So High after FCC screen)"
   },
   "archive_pattern": {
    "title": "The Library Show on KZSU 90.1 Stanford, CA with DJ Stace ({Month} {d}, {yyyy} Show)",

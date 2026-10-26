@@ -164,5 +164,16 @@
    "deploy": "patched in place with the Sheets API (13 rows inserted at A2:Q14); same file ID, link unchanged; verified by read-back",
    "ticked_requests_waiting": "not checked"
   }
+ ],
+ "log": [
+  {
+   "date": "2026-10-26",
+   "trigger": "Monday intake (kzsu-mon-intake)",
+   "rows_added": 0,
+   "artists": [],
+   "deploy": "no Sheet change; Sheet read back (153 rows, 29 ticked requests)",
+   "note": "Today's 7:07 daily run already covered email and scans. NACC entrants not added: no taste-profile fit beyond rows already on the shelf.",
+   "ticked_requests_waiting": 0
+  }
  ]
 }
