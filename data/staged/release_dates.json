@@ -3573,5 +3573,293 @@
   "label": "Self-Released",
   "confirmed": true,
   "checked_on": "2026-10-25"
+ },
+ "van pelt|remain obscure": {
+  "date": "2026-09-18",
+  "precision": "day",
+  "sources": [
+   "https://thevanpelt.bandcamp.com/album/remain-obscure",
+   "https://www.scenepointblank.com/news/records/2026/08/08/the-van-pelt-remain-obscure-in-2026/",
+   "https://magnetmagazine.com/2026/09/17/magnet-exclusive-full-album-premiere-of-the-van-pelts-remain-obscure/"
+  ],
+  "status": "released",
+  "note": "Bandcamp and press agree on Sept. 18, 2026 (WebSearch result text). Ernest Jenning in the US, La Tempesta in Italy, Wrong Speed in UK/EU.",
+  "label": "Ernest Jenning",
+  "confirmed": true,
+  "checked_on": "2026-10-26"
+ },
+ "notwist|news from planet zombie": {
+  "date": "2026-03-13",
+  "precision": "day",
+  "sources": [
+   "https://thenotwist.bandcamp.com/album/news-from-planet-zombie",
+   "https://www.music-tracker.com/release/news-from-planet-zombie",
+   "https://music.apple.com/us/album/news-from-planet-zombie/1872527079",
+   "https://www.discogs.com/release/36723364-The-Notwist-News-From-Planet-Zombie"
+  ],
+  "status": "released",
+  "note": "Bandcamp, Music Tracker, Apple Music and Discogs agree on Mar. 13, 2026 (WebSearch result text). Morr Music MM207.",
+  "label": "Morr Music",
+  "confirmed": true,
+  "checked_on": "2026-10-26"
+ },
+ "makthaverskan|glass and bones": {
+  "date": "2026-04-03",
+  "precision": "day",
+  "sources": [
+   "https://makthaverskan.bandcamp.com/album/glass-and-bones",
+   "https://www.godisinthetvzine.co.uk/2026/04/03/makthaverskan-glass-and-bones-welfare-sounds-records/",
+   "https://music.apple.com/us/album/glass-and-bones/1853457041"
+  ],
+  "status": "released",
+  "note": "Bandcamp, God Is In The TV and Apple Music agree on Apr. 3, 2026 (WebSearch result text). Label is spelled Welfare Sounds & Records (WSR190).",
+  "label": "Welfare Sounds & Records",
+  "confirmed": true,
+  "checked_on": "2026-10-26"
+ },
+ "ecca vandal|looking for people to unfollow": {
+  "date": "2026-05-22",
+  "precision": "day",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Looking_for_People_to_Unfollow",
+   "https://eccavandal.bandcamp.com/album/looking-for-people-to-unfollow",
+   "https://www.beatport.com/release/looking-for-people-to-unfollow/6969238"
+  ],
+  "status": "released",
+  "note": "Wikipedia, Bandcamp and Beatport agree on May 22, 2026 (WebSearch result text). Vinyl LP shipped Sept. 4, 2026.",
+  "label": "Loma Vista Recordings",
+  "confirmed": true,
+  "checked_on": "2026-10-26"
+ },
+ "la securite|bingo": {
+  "date": "2026-06-12",
+  "precision": "day",
+  "sources": [
+   "https://lasecurite.bandcamp.com/album/bingo",
+   "https://www.mothland.com/shop/la-securite-bingo",
+   "https://www.albumoftheyear.org/album/1689024-la-securite-bingo.php"
+  ],
+  "status": "released",
+  "note": "Bandcamp, Mothland and Album of the Year agree on June 12, 2026 (WebSearch result text). Mothland in North America, Bella Union in UK/EU.",
+  "label": "Mothland",
+  "confirmed": true,
+  "checked_on": "2026-10-26"
+ },
+ "dottie andersson|andersson funeral home": {
+  "date": "2026-09-04",
+  "precision": "day",
+  "sources": [
+   "https://www.royalmountainrecords.com/dottie-andersson",
+   "https://www.crashrecords.co.uk/products/dottie-andersson-andersson-funeral-home-pre-order"
+  ],
+  "status": "released",
+  "note": "Royal Mountain and Crash Records list Sept. 4, 2026. iMusic (Ireland) lists Oct. 2, 2026, which conflicts. Not confirmed.",
+  "label": "Royal Mountain Records",
+  "confirmed": false,
+  "checked_on": "2026-10-26"
+ },
+ "vienna vienna|entertain me": {
+  "date": "2026-01-16",
+  "precision": "day",
+  "sources": [
+   "https://viennaviennamusic.bandcamp.com/album/entertain-me",
+   "https://music.apple.com/gb/album/entertain-me-ep/1853893204",
+   "https://www.amazon.com/Entertain-Me-Explicit-Vienna/dp/B0G2T4R8FZ"
+  ],
+  "status": "released",
+  "note": "Bandcamp, Apple Music and Amazon agree on Jan. 16, 2026 (WebSearch result text). Six-track EP, not an album. A CD listing shows May 8, 2026 (physical).",
+  "label": "PULSE Records / Concord",
+  "confirmed": true,
+  "checked_on": "2026-10-26"
+ },
+ "jack rubies|visions in the bowling alley": {
+  "date": "2026-01-23",
+  "precision": "day",
+  "sources": [
+   "https://bigstirrecords.bandcamp.com/album/visions-in-the-bowling-alley",
+   "https://music.apple.com/ca/album/visions-in-the-bowling-alley/1849799518",
+   "https://www.herecomestheflood.com/2026/01/the-jack-rubies-visions-in-bowling-alley.html",
+   "https://www.newreleasesnow.com/album/the-jack-rubies-visions-in-the-bowling-alley"
+  ],
+  "status": "released",
+  "note": "Bandcamp, Apple Music, Here Comes The Flood and New Releases Now agree on Jan. 23, 2026 (WebSearch result text). First vinyl since 1990.",
+  "label": "Big Stir Records",
+  "confirmed": true,
+  "checked_on": "2026-10-26"
+ },
+ "teen blush|2019": {
+  "date": "2026-05-20",
+  "precision": "day",
+  "sources": [
+   "https://teenblush.bandcamp.com/album/2019",
+   "https://spiritgoth.com/blogs/news/sg86-teen-blush-2019-lp"
+  ],
+  "status": "released",
+  "note": "Bandcamp and Spirit Goth (SG86) agree on May 20, 2026 (WebSearch result text). Collection of demos, B-sides and rarities.",
+  "label": "Spirit Goth",
+  "confirmed": true,
+  "checked_on": "2026-10-26"
+ },
+ "adrian younge|feel the highlife": {
+  "date": "2026-05",
+  "precision": "month",
+  "sources": [
+   "https://www.linearlabsmusic.com/news/feel-the-high-life-out-now",
+   "https://wruv.wordpress.com/2026/05/26/adrian-younge-feel-the-highlife-single/"
+  ],
+  "status": "released",
+  "note": "Linear Labs news post (May 29, 2026) says the single is out now. WRUV (May 26) says the album is due July 17. Single day not found. Album Afro-Disco Makossa: July 17, 2026 (Bandcamp).",
+  "label": "Linear Labs",
+  "confirmed": false,
+  "checked_on": "2026-10-26"
+ },
+ "sha la das|your picture": {
+  "date": "2026-01-16",
+  "precision": "day",
+  "sources": [
+   "https://music.apple.com/pg/album/your-picture/1839248213",
+   "https://bororecords.com/products/yourpicture"
+  ],
+  "status": "released",
+  "note": "Apple Music and Boro Records list Jan. 16, 2026. Diamond West site and Drift Records still show Dec. 5, 2025 (the earlier plan). Not confirmed.",
+  "label": "Diamond West Records",
+  "confirmed": false,
+  "checked_on": "2026-10-26"
+ },
+ "rami gabriel|tunderizer": {
+  "date": "2026-03-27",
+  "precision": "day",
+  "sources": [
+   "https://tower.com/products/rami-gabriel-tunderizer-compact-discs",
+   "https://www.sooperrecords.com/artists/rami-gabriel",
+   "https://open.spotify.com/artist/6MbJytcVWWwSviMbzVO9JA",
+   "https://bleep.com/release/443397-rami-gabriel-too-high-to-die?lang=en_US"
+  ],
+  "status": "released",
+  "note": "Tower, Spotify artist page and Sooper agree on Mar. 27, 2026 (WebSearch result text). Amazon shows availability Mar. 26 15:00 UTC (time zone).",
+  "label": "Sooper Records",
+  "confirmed": true,
+  "checked_on": "2026-10-26"
+ },
+ "will roesner|fairy music": {
+  "date": "2025",
+  "precision": "year",
+  "sources": [
+   "https://willroesner.bandcamp.com/album/fairy-music",
+   "https://music.apple.com/cl/album/fairy-music/1790054085"
+  ],
+  "status": "released",
+  "note": "Bandcamp and Apple Music show Jan. 1, 2025, which looks like a placeholder date. Day not confirmed.",
+  "label": "Bam! Smack! Wham! Records",
+  "confirmed": false,
+  "checked_on": "2026-10-26"
+ },
+ "fouk|sundays ep": {
+  "date": "2026-03-27",
+  "precision": "day",
+  "sources": [
+   "https://www.beatport.com/release/sundays-ep/6393648",
+   "https://muzbeat.info/the-phenomenal-handclap-band-fouk-sundays-ep-ba144/",
+   "https://justsayfouk.bandcamp.com/album/sundays-ep"
+  ],
+  "status": "released",
+  "note": "Beatport and Muzbeat agree on Mar. 27, 2026 (WebSearch result text). Three-track EP (BA144) with Archil & Leon, The Phenomenal Handclap Band and 79.5.",
+  "label": "Boogie Angst",
+  "confirmed": true,
+  "checked_on": "2026-10-26"
+ },
+ "gently tender|this was once fields": {
+  "date": "2026-10-16",
+  "precision": "day",
+  "sources": [
+   "https://music.apple.com/us/album/this-was-once-fields/6788164005",
+   "https://hmv.com/store/music/vinyl/this-was-once-fields",
+   "https://www.broadwayworld.com/bwwmusic/article/Gently-Tender-to-Release-THIS-WAS-ONCE-FIELDS-Tour-UK-and-Ireland-November-20261014"
+  ],
+  "status": "released",
+  "note": "Apple Music, HMV and BroadwayWorld agree on Oct. 16, 2026 (WebSearch result text). Second studio album. An earlier plan called it an EP due May 22 (DIY Magazine, March 2026).",
+  "label": "TODO Records",
+  "confirmed": true,
+  "checked_on": "2026-10-26"
+ },
+ "lambrini girls|basement spilt singles": {
+  "date": "2026-10-20",
+  "precision": "day",
+  "sources": [
+   "https://femmusic.com/2026/10/20/lambrini-girls-the-basement-split/",
+   "https://readdork.com/news/lambrini-girls-the-basement-spilt-double-single-b14d5200d4",
+   "https://www.stilllisteningmagazine.com/news/lambrini-girls-share-new-singles-the-basement-and-spilt"
+  ],
+  "status": "released",
+  "note": "Press coverage dated Oct. 20, 2026 says the double single is out. Date inferred from article dates, not stated. Album No Refunds is due Jan. 15, 2027 on City Slang.",
+  "label": "City Slang",
+  "confirmed": false,
+  "checked_on": "2026-10-26"
+ },
+ "bird|strange as folk ep": {
+  "date": "2026-06",
+  "precision": "month",
+  "sources": [
+   "https://birdofficial.bandcamp.com/album/held-here-together"
+  ],
+  "status": "released",
+  "note": "Bird Bandcamp page (Held Here Together, June 26, 2026) calls Strange As Folk a recent EP, so it was out by mid-June 2026. Day not found.",
+  "label": "Bird Music",
+  "confirmed": false,
+  "checked_on": "2026-10-26"
+ },
+ "a view of earth from the moon|rolled over like a wave": {
+  "date": "2026-04",
+  "precision": "month",
+  "sources": [
+   "https://aviewofearthfromthemoon.bandcamp.com/",
+   "https://magnetmagazine.com/2026/04/21/magnet-exclusive-full-album-premiere-of-a-view-of-earth-from-the-moons-rolled-over-like-a-wave/"
+  ],
+  "status": "released",
+  "note": "Bandcamp shows Apr. 2026. Magnet album premiere ran Apr. 21, 2026. Day not found.",
+  "label": "Self-Released",
+  "confirmed": false,
+  "checked_on": "2026-10-26"
+ },
+ "jill blutt|an almond shaped moon and four things i wish i never knew about myself": {
+  "date": "2025-11-30",
+  "precision": "day",
+  "sources": [
+   "https://whoisjillblutt.bandcamp.com/album/an-almond-shaped-moon-and-four-things-i-wish-i-never-knew-about-myself",
+   "https://alfitude.com/2025/11/30/jill-blutt-swansea/"
+  ],
+  "status": "released",
+  "note": "Bandcamp and Amazon Music agree on Nov. 30, 2025 (WebSearch result text). Five-track EP, not an album.",
+  "label": "Self-Released",
+  "confirmed": true,
+  "checked_on": "2026-10-26"
+ },
+ "velvet trip|glimmers continued": {
+  "date": "2026-01-30",
+  "precision": "day",
+  "sources": [
+   "https://velvettrip.bandcamp.com/album/glimmers-continued",
+   "https://www.thenote.com.au/news/velvet-trip-glimmers-continued-australian-tour"
+  ],
+  "status": "released",
+  "note": "Bandcamp and The Note agree on Jan. 30, 2026 (WebSearch result text). Spotify pre-release page showed Jan. 29 (time zone).",
+  "label": "Self-Released",
+  "confirmed": true,
+  "checked_on": "2026-10-26"
+ },
+ "dublon|sunrise feat jev and dana williams": {
+  "date": "2026-02-09",
+  "precision": "day",
+  "sources": [
+   "https://ninjatune.net/release/dublon-dana-williams-and-jev/sunrise",
+   "https://www.traxsource.com/title/2718145/sunrise",
+   "https://music.apple.com/gb/song/sunrise/1869378843",
+   "https://bleep.com/release/138183-yu-su-watermelon-woman?lang=en_US"
+  ],
+  "status": "released",
+  "note": "Traxsource (TCLRDNL068W), Apple Music and Ninja Tune agree on Feb. 9, 2026 (WebSearch result text). Beatport shows Apr. 16 for a later listing.",
+  "label": "Technicolour",
+  "confirmed": true,
+  "checked_on": "2026-10-26"
  }
 }

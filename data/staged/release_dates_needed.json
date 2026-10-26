@@ -9,13 +9,13 @@
   "key": "go public|you are traffic"
  },
  {
-  "artist": "The Van Pelt",
-  "title": "Remain Obscure",
+  "artist": "Palace",
+  "title": "Ox",
   "type": "album",
-  "label": "Ernest Jenning",
+  "label": "Palace Presents/Awal",
   "current_date": "2026-09-18",
   "date_check": "verify",
-  "key": "van pelt|remain obscure"
+  "key": "palace|ox"
  },
  {
   "artist": "Little Barrie",
@@ -49,7 +49,7 @@
   "title": "The Basement / Spilt (singles)",
   "type": "single",
   "label": "City Slang",
-  "current_date": "2026-10-23",
+  "current_date": "2026-10-20",
   "date_check": "verify",
   "key": "lambrini girls|basement spilt singles"
  },
@@ -90,33 +90,6 @@
   "key": "christian taylor|trust you"
  },
  {
-  "artist": "The Notwist",
-  "title": "News from Planet Zombie",
-  "type": "album",
-  "label": "Morr Music",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "notwist|news from planet zombie"
- },
- {
-  "artist": "The Jack Rubies",
-  "title": "Visions in the Bowling Alley",
-  "type": "album",
-  "label": "Big Stir",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "jack rubies|visions in the bowling alley"
- },
- {
-  "artist": "dublon",
-  "title": "Sunrise (feat. jev. and Dana Williams)",
-  "type": "single",
-  "label": "Technicolour",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "dublon|sunrise feat jev and dana williams"
- },
- {
   "artist": "dublon",
   "title": "Sweet Nothings (feat. Deza)",
   "type": "single",
@@ -124,33 +97,6 @@
   "current_date": "",
   "date_check": "needed",
   "key": "dublon|sweet nothings feat deza"
- },
- {
-  "artist": "Velvet Trip",
-  "title": "Glimmers Continued",
-  "type": "album",
-  "label": "Self-Released",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "velvet trip|glimmers continued"
- },
- {
-  "artist": "Vienna Vienna",
-  "title": "Entertain Me",
-  "type": "album",
-  "label": "PULSE / Concord",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "vienna vienna|entertain me"
- },
- {
-  "artist": "A View of Earth From The Moon",
-  "title": "Rolled Over Like A Wave",
-  "type": "album",
-  "label": "Self-Released",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "a view of earth from the moon|rolled over like a wave"
  },
  {
   "artist": "Vienna Vienna",
@@ -162,69 +108,6 @@
   "key": "vienna vienna|grief is for the living"
  },
  {
-  "artist": "Fouk",
-  "title": "Sundays [EP]",
-  "type": "EP",
-  "label": "Boogie Angst",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "fouk|sundays ep"
- },
- {
-  "artist": "Ecca Vandal",
-  "title": "LOOKING FOR PEOPLE TO UNFOLLOW",
-  "type": "album",
-  "label": "Loma Vista/Concord",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "ecca vandal|looking for people to unfollow"
- },
- {
-  "artist": "Gently Tender",
-  "title": "This Was Once Fields",
-  "type": "album",
-  "label": "TODO",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "gently tender|this was once fields"
- },
- {
-  "artist": "Jill Blutt",
-  "title": "An Almond Shaped Moon and Four Things I Wish I Never Knew About Myself",
-  "type": "album",
-  "label": "Self-Released",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "jill blutt|an almond shaped moon and four things i wish i never knew about myself"
- },
- {
-  "artist": "Bird",
-  "title": "Strange As Folk [EP]",
-  "type": "EP",
-  "label": "Bird Music",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "bird|strange as folk ep"
- },
- {
-  "artist": "TEEN BLUSH",
-  "title": "2019",
-  "type": "album",
-  "label": "Spirit Goth",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "teen blush|2019"
- },
- {
-  "artist": "Makthaverskan",
-  "title": "Glass and Bones",
-  "type": "album",
-  "label": "Wellfare Sounds & Records",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "makthaverskan|glass and bones"
- },
- {
   "artist": "Bitter:Sweet",
   "title": "The One",
   "type": "single",
@@ -234,57 +117,174 @@
   "key": "bitter sweet|one"
  },
  {
-  "artist": "Rami Gabriel",
-  "title": "Tunderizer",
+  "artist": "Sis and the Lower Wisdom",
+  "title": "Saints and Aliens",
   "type": "album",
-  "label": "Sooper",
+  "label": "Native Cat",
   "current_date": "",
   "date_check": "needed",
-  "key": "rami gabriel|tunderizer"
+  "key": "sis and the lower wisdom|saints and aliens"
  },
  {
-  "artist": "Will Roesner",
-  "title": "Fairy Music",
+  "artist": "Beatrix",
+  "title": "We Swallowed The Sky",
   "type": "album",
-  "label": "Bam Smack Wham!",
+  "label": "Nice Life Recording",
   "current_date": "",
   "date_check": "needed",
-  "key": "will roesner|fairy music"
+  "key": "beatrix|we swallowed the sky"
  },
  {
-  "artist": "Dottie Andersson",
-  "title": "Andersson Funeral Home",
+  "artist": "Charlotte Day Wilson",
+  "title": "Patchwork",
   "type": "album",
-  "label": "Royal Mountain",
+  "label": "Stone Woman Music/XL Recordings",
   "current_date": "",
   "date_check": "needed",
-  "key": "dottie andersson|andersson funeral home"
+  "key": "charlotte day wilson|patchwork"
  },
  {
-  "artist": "The Sha La Das",
-  "title": "Your Picture",
+  "artist": "Otracami",
+  "title": "Runoff",
   "type": "album",
-  "label": "Diamond West",
+  "label": "Figure & Ground",
   "current_date": "",
   "date_check": "needed",
-  "key": "sha la das|your picture"
+  "key": "otracami|runoff"
  },
  {
-  "artist": "La Sécurité",
-  "title": "Bingo!",
+  "artist": "Deadbeat Beat",
+  "title": "From Here to Ohio",
   "type": "album",
-  "label": "Mothland",
+  "label": "We Are Time",
   "current_date": "",
   "date_check": "needed",
-  "key": "la securite|bingo"
+  "key": "deadbeat beat|from here to ohio"
  },
  {
-  "artist": "Adrian Younge",
-  "title": "Feel the Highlife",
+  "artist": "L'Rain",
+  "title": "soulless cycle",
   "type": "single",
-  "label": "Linear Labs",
+  "label": "Mexican Summer",
   "current_date": "",
   "date_check": "needed",
-  "key": "adrian younge|feel the highlife"
+  "key": "l rain|soulless cycle"
+ },
+ {
+  "artist": "Perennial",
+  "title": "Modernism",
+  "type": "album",
+  "label": "Ernest Jenning",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "perennial|modernism"
+ },
+ {
+  "artist": "Ramsey Thornton",
+  "title": "I Called It!",
+  "type": "album",
+  "label": "Gar Hole",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "ramsey thornton|i called it"
+ },
+ {
+  "artist": "The Messthetics and James Brandon Lewis",
+  "title": "Deface The Currency",
+  "type": "album",
+  "label": "Impulse!",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "messthetics and james brandon lewis|deface the currency"
+ },
+ {
+  "artist": "Daði Freyr (Pronounced Dah-thi Fray-er)",
+  "title": "Too Much Is Not Enough",
+  "type": "album",
+  "label": "Samlist/AWAL",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "dai freyr pronounced dah thi fray er|too much is not enough"
+ },
+ {
+  "artist": "ear",
+  "title": "Rumspringa",
+  "type": "album",
+  "label": "A24 Music/Virgin",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "ear|rumspringa"
+ },
+ {
+  "artist": "Dexys Midnight Runners",
+  "title": "My Life in England Pt. 1",
+  "type": "single",
+  "label": "Heavenly Recordings",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "dexys midnight runners|my life in england pt 1"
+ },
+ {
+  "artist": "ear",
+  "title": "Ne Plus Ultra",
+  "type": "single",
+  "label": "A24 Music/Virgin",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "ear|ne plus ultra"
+ },
+ {
+  "artist": "Puma Blue",
+  "title": "Croak Dream",
+  "type": "album",
+  "label": "Play It Again Sam",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "puma blue|croak dream"
+ },
+ {
+  "artist": "DDK",
+  "title": "Verona: Prelude",
+  "type": "album",
+  "label": "The Media Music",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "ddk|verona prelude"
+ },
+ {
+  "artist": "Vince Staples",
+  "title": "Cry Baby",
+  "type": "album",
+  "label": "Loma Vista / Concord",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "vince staples|cry baby"
+ },
+ {
+  "artist": "zzzahara",
+  "title": "I Can Be Yours (feat. Winter)",
+  "type": "single",
+  "label": "Lex Records",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "zzzahara|i can be yours feat winter"
+ },
+ {
+  "artist": "Gem Club",
+  "title": "Emerald Press",
+  "type": "album",
+  "label": "Self-Released",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "gem club|emerald press"
+ },
+ {
+  "artist": "zzzahara",
+  "title": "Distant Lands",
+  "type": "album",
+  "label": "Lex",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "zzzahara|distant lands"
  }
 ]
