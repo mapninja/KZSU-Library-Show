@@ -211,17 +211,18 @@
   "checked_on": "2026-10-16"
  },
  "miss grit|mind disaster": {
-  "date": "2026-04-24",
+  "date": "2026-03-10",
   "precision": "day",
   "sources": [
-   "https://missgrit.bandcamp.com/track/mind-disaster",
-   "https://www.undertheradarmag.com/news/miss_grit_shares_new_song_mind_disaster_and_announces_new_tour_dates_openin"
+   "https://www.thelineofbestfit.com/news/miss-grit-new-track-mind-disaster",
+   "https://northerntransmissions.com/miss-grit-shares-new-track-mind-disaster/",
+   "https://missgrit.bandcamp.com/track/mind-disaster"
   ],
-  "status": "released",
-  "note": "Bandcamp track page shows Apr. 24, 2026. Replaces the month-only 2026-03. One day-precision source, so not confirmed. Oct. 25: press dated Mar. 10 to 12, 2026 covers it as the third single, so the single date is in March. Bandcamp shows the album date Apr. 24. Single day not found.",
+  "status": "single, date unverified",
+  "note": "Single date: Line of Best Fit story dated Mar. 10, 2026 (third single from Under My Umbrella). Northern Transmissions posted Mar. 11 (Pacific). Not confirmed by the label or Bandcamp. Bandcamp track page shows Apr. 24, 2026, the album date (Mute).",
   "label": "Mute Records",
   "confirmed": false,
-  "checked_on": "2026-10-25"
+  "checked_on": "2026-10-27"
  },
  "hrishikesh hirway|stray dogs with iron wine": {
   "date": "2026-02-18",
@@ -827,13 +828,14 @@
   "precision": "day",
   "sources": [
    "https://hhbtm.bandcamp.com/album/you-are-traffic",
-   "https://flagpole.com/topstory/2026/09/16/go-public-releases-debut-album-you-are-traffic/"
+   "https://flagpole.com/topstory/2026/09/16/go-public-releases-debut-album-you-are-traffic/",
+   "https://www.side-line.com/go-public-dream-over/"
   ],
   "status": "released",
-  "note": "Bandcamp shows Sept. 18, 2026 (page text and metadata). HHBTM store page listed July 24, 2026, apparently an earlier plan. Flagpole (Sept. 16) is consistent with a mid-September release. Not confirmed: label store conflicts. Oct. 25: HHBTM store and Bandcamp (per search) say July 24, 2026. Side-Line, Flagpole and Here Comes The Flood say Sept. 18, 2026. Unresolved conflict.",
+  "note": "Bandcamp page text and metadata show Sept. 18, 2026. Flagpole (Sept. 16) and Side-line agree. HHBTM store page listed July 24, 2026, an earlier plan.",
   "label": "Happy Happy Birthday To Me",
-  "confirmed": false,
-  "checked_on": "2026-10-25"
+  "confirmed": true,
+  "checked_on": "2026-10-27"
  },
  "las cruxes|las cruxes": {
   "date": "2026-04-24",
@@ -925,10 +927,10 @@
    "https://littlebarrie.bandcamp.com/track/luggin-hurt"
   ],
   "status": "single, date unverified",
-  "note": "Bandcamp track page shows May 22, 2026, which is the Gravity Freeze album date (Easy Eye Sound). Single date still not found; 2026-04-23 kept as earlier single date from the prior run, unverified. Oct. 25: a UMG YouTube upload is dated Apr. 22, 2026, one day before the kept date. Bandcamp and Shazam show the album date May 22, 2026. Still unverified.",
+  "note": "Bandcamp track page shows May 22, 2026, which is the Gravity Freeze album date (Easy Eye Sound). Single date still not found; 2026-04-23 kept as earlier single date from the prior run, unverified. Oct. 25: a UMG YouTube upload is dated Apr. 22, 2026, one day before the kept date. Bandcamp and Shazam show the album date May 22, 2026. Still unverified. Oct. 27 recheck: still only the video and audio uploads (Apr. 22 to 23) as evidence; Bandcamp shows May 22 album date.",
   "label": "Easy Eye Sound / Concord",
   "confirmed": false,
-  "checked_on": "2026-10-25"
+  "checked_on": "2026-10-27"
  },
  "new pornographers|votive": {
   "date": "2026-01-21",
@@ -1245,10 +1247,10 @@
    "https://rmas.mx/en/2026/09/17/imperial-teen-release-hands-all-up-new-preview-of-all-over-you/"
   ],
   "status": "released",
-  "note": "Title is \"Hands All Up\", third single from All Over You (Merge, Oct. 9, 2026). Press dated Sept. 17, 2026. No day-precision source found.",
+  "note": "Title is \"Hands All Up\", third single from All Over You (Merge, Oct. 9, 2026). Press dated Sept. 17, 2026. No day-precision source found. Oct. 27: searches for \"All Hands Up\" returned nothing; single is \"Hands All Up\" (Sept. 17 press). Still no day-precision source.",
   "label": "Merge",
   "confirmed": false,
-  "checked_on": "2026-10-25"
+  "checked_on": "2026-10-27"
  },
  "steve earle los lobos|volver a celaya city of immigrants": {
   "date": "2026-08-06",
@@ -2853,10 +2855,10 @@
   "precision": "month",
   "sources": [],
   "status": "single, date not found",
-  "note": "Searched Oct. 23: no pages found for this single. Promo email (Oct. 19) lists ADDS 10/20. Date stays month-only.",
+  "note": "Searched Oct. 23: no pages found for this single. Promo email (Oct. 19) lists ADDS 10/20. Date stays month-only. Oct. 27: only an Apple Music artist page (year 2026). No day-precision source.",
   "label": "Vicious Vicious (self-released)",
   "confirmed": false,
-  "checked_on": "2026-10-23"
+  "checked_on": "2026-10-27"
  },
  "jane inc|a rupture a canyon a birth": {
   "date": "2025-10-17",
@@ -3786,15 +3788,15 @@
   "date": "2026-10-20",
   "precision": "day",
   "sources": [
+   "https://www.thelineofbestfit.com/news/lambrini-girls-unveil-new-double-single-the-basement-spilt",
    "https://femmusic.com/2026/10/20/lambrini-girls-the-basement-split/",
-   "https://readdork.com/news/lambrini-girls-the-basement-spilt-double-single-b14d5200d4",
-   "https://www.stilllisteningmagazine.com/news/lambrini-girls-share-new-singles-the-basement-and-spilt"
+   "https://www.kerrang.com/lambrini-girls-drop-two-contrasting-singles-the-basement-and-spilt"
   ],
   "status": "released",
-  "note": "Press coverage dated Oct. 20, 2026 says the double single is out. Date inferred from article dates, not stated. Album No Refunds is due Jan. 15, 2027 on City Slang.",
+  "note": "Line of Best Fit (Oct. 20, 17:10) says \"have released\"; FEMMUSIC and other press dated Oct. 20. Album No Refunds is due Jan. 15, 2027 (City Slang).",
   "label": "City Slang",
-  "confirmed": false,
-  "checked_on": "2026-10-26"
+  "confirmed": true,
+  "checked_on": "2026-10-27"
  },
  "bird|strange as folk ep": {
   "date": "2026-06",
@@ -3861,5 +3863,253 @@
   "label": "Technicolour",
   "confirmed": true,
   "checked_on": "2026-10-26"
+ },
+ "palace|ox": {
+  "date": "2026-09-18",
+  "precision": "day",
+  "sources": [
+   "https://diymag.com/news/palace-return-with-new-single-dream-on-and-announce-5th-album-ox",
+   "https://music.apple.com/us/album/ox/6779600294",
+   "https://palace.bandcamp.com/album/ox"
+  ],
+  "status": "released",
+  "note": "DIY (July 22 announcement), Apple Music and retailers agree on Sept. 18, 2026 (Palace Presents/AWAL). One Plaid Room URL says 2027, a typo.",
+  "label": "Palace Presents/AWAL",
+  "confirmed": true,
+  "checked_on": "2026-10-27"
+ },
+ "sis and the lower wisdom|saints and aliens": {
+  "date": "2026-01-09",
+  "precision": "day",
+  "sources": [
+   "https://sisandthelowerwisdom.bandcamp.com/album/saints-and-aliens-2",
+   "http://www.nativecatrecs.com/news-1/2025/11/10/saints-and-aliens-by-sis-and-the-lower-wisdom-out-1926",
+   "https://femmusic.com/2026/01/09/sis-and-the-lower-wisdom-saints-and-aliens/"
+  ],
+  "status": "released",
+  "note": "Native Cat announcement (\"out 1/9/26\"), Bandcamp, Apple Music and FEMMUSIC agree.",
+  "label": "Native Cat",
+  "confirmed": true,
+  "checked_on": "2026-10-27"
+ },
+ "beatrix|we swallowed the sky": {
+  "date": "2026-04-24",
+  "precision": "day",
+  "sources": [
+   "https://beatrixkasnetz.bandcamp.com/album/we-swallowed-the-sky",
+   "https://music.apple.com/us/album/we-swallowed-the-sky/1876698281",
+   "https://www.frontview-magazine.be/en/news/beatrix-announces-her-haunting-off-kilter-sophomore-album-we-swallowed-the-sky"
+  ],
+  "status": "released",
+  "note": "Bandcamp (vinyl), Apple Music and Spotify list Apr. 24, 2026 (Nice Life Recording Company). Bonus edition exists only per download sites; ignored.",
+  "label": "Nice Life Recording",
+  "confirmed": true,
+  "checked_on": "2026-10-27"
+ },
+ "charlotte day wilson|patchwork": {
+  "date": "2026-02-06",
+  "precision": "day",
+  "sources": [
+   "https://www.xlrecordings.com/releases/patchwork",
+   "https://www.noise11.com/news/charlotte-day-wilson-patchwork-release-20260206",
+   "https://spillmagazine.com/spill-new-music-charlotte-day-wilson-announces-new-project-patchwork-out-february-6-new-single-if-only-out-now/"
+  ],
+  "status": "released",
+  "note": "XL page, Noise11 and Spill agree on Feb. 6, 2026. Seven tracks, billed as a project; Line of Best Fit and RYM call it an EP.",
+  "label": "Stone Woman Music/XL Recordings",
+  "confirmed": true,
+  "checked_on": "2026-10-27"
+ },
+ "otracami|runoff": {
+  "date": "2026-03-20",
+  "precision": "day",
+  "sources": [
+   "https://otracami.bandcamp.com/album/runoff",
+   "https://ourculturemag.com/2026/01/15/otracami-announces-new-album-runoff-unveils-new-single-please/",
+   "https://femmusic.com/2026/03/20/otracami-runoff/"
+  ],
+  "status": "released",
+  "note": "Bandcamp, Our Culture (Jan. 15 announcement) and FEMMUSIC (Mar. 20) agree.",
+  "label": "Figure & Ground",
+  "confirmed": true,
+  "checked_on": "2026-10-27"
+ },
+ "deadbeat beat|from here to ohio": {
+  "date": "2026-06-12",
+  "precision": "day",
+  "sources": [
+   "https://deadbeatbeat.bandcamp.com/album/from-here-to-ohio-2",
+   "https://www.punknews.org/article/88434/deadbeat-beat-break-down-every-track-on-from-here-to-ohio",
+   "https://radioamor.substack.com/p/deadbeat-beat-seize-the-moment-on"
+  ],
+  "status": "released",
+  "note": "Bandcamp, Punknews and Radio Amor agree on June 12, 2026 (We Are Time). Release show June 12, Paris Bar, Detroit.",
+  "label": "We Are Time",
+  "confirmed": true,
+  "checked_on": "2026-10-27"
+ },
+ "l rain|soulless cycle": {
+  "date": "2026-06-10",
+  "precision": "day",
+  "sources": [
+   "https://www.albumoftheyear.org/album/1863069-lrain-soulless-cycle.php",
+   "https://ourculturemag.com/2026/06/10/lrain-announces-new-album-shares-new-single-soulless-cycle/",
+   "https://www.brooklynvegan.com/lrain-announces-new-album-shares-searing-soulless-cycle/"
+  ],
+  "status": "released",
+  "note": "Single: June 10, 2026 (Album of the Year; YouTube label upload; Our Culture post same day). Album fata morgana: Aug. 14, 2026 (Mexican Summer). Bandcamp track page shows the album date.",
+  "label": "Mexican Summer",
+  "confirmed": true,
+  "checked_on": "2026-10-27"
+ },
+ "perennial|modernism": {
+  "date": "2026-09-18",
+  "precision": "day",
+  "sources": [
+   "https://perennialtheband.bandcamp.com/album/modernism",
+   "https://circuitsweet.co.uk/2026/07/perennial-share-new-single-modernism-title-track-from-forthcoming-album-due-18th-september-via-safe-suburban-home-uk-ernest-jenning-record-co-us-release-feature/",
+   "https://www.ernestjenning.com/discography"
+  ],
+  "status": "released",
+  "note": "Bandcamp, Circuit Sweet and Ernest Jenning discography (EJRC244) agree. Safe Suburban Home in the UK.",
+  "label": "Ernest Jenning",
+  "confirmed": true,
+  "checked_on": "2026-10-27"
+ },
+ "ramsey thornton|i called it": {
+  "date": "2026-05-15",
+  "precision": "day",
+  "sources": [
+   "https://ramseythornton.bandcamp.com/album/i-called-it",
+   "https://www.crashrecords.co.uk/products/ramsey-thornton-i-called-it-pre-order",
+   "https://garholerecords.com/collections/i-called-it"
+  ],
+  "status": "released",
+  "note": "Bandcamp and Crash Records agree on May 15, 2026 (Gar Hole). Single \"Rocking\" was Mar. 10, 2026.",
+  "label": "Gar Hole",
+  "confirmed": true,
+  "checked_on": "2026-10-27"
+ },
+ "messthetics and james brandon lewis|deface the currency": {
+  "date": "2026-02-20",
+  "precision": "day",
+  "sources": [
+   "https://themessthetics.bandcamp.com/album/deface-the-currency",
+   "https://www.discogs.com/release/36559615-The-Messthetics-And-James-Brandon-Lewis-Deface-The-Currency",
+   "https://www.universalmusic.ca/press-releases/the-messthetics-james-brandon-lewis-share-deface-the-currency-new-album-out-now/"
+  ],
+  "status": "released",
+  "note": "Bandcamp and a retailer listing give Feb. 20, 2026 (Impulse!). Universal Canada release says \"out now\" on Feb. 21.",
+  "label": "Impulse!",
+  "confirmed": true,
+  "checked_on": "2026-10-27"
+ },
+ "ear|rumspringa": {
+  "date": "2026-05-29",
+  "precision": "day",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rumspringa_(album)",
+   "https://rateyourmusic.com/release/album/ear/rumspringa.p/",
+   "https://www.brooklynvegan.com/ear-announce-new-album-rumspringa/"
+  ],
+  "status": "released",
+  "note": "Wikipedia, RYM and May 2026 announcements agree on May 29, 2026 (A24 Music). Retailers list Oct. 2, 2026 for coloured vinyl and CD editions.",
+  "label": "A24 Music/Virgin",
+  "confirmed": true,
+  "checked_on": "2026-10-27"
+ },
+ "dexys midnight runners|my life in england pt 1": {
+  "date": "2026-05-20",
+  "precision": "day",
+  "sources": [
+   "https://dexysofficial.bandcamp.com/track/my-life-in-england-pt-1-2",
+   "https://en.wikipedia.org/wiki/Love_(Dexys_Midnight_Runners_album)",
+   "https://heavenlyrecordings.com/dexys-midnight-runners-announce-new-album-love-the-first-single-and-video-my-life-in-england-pt-1-is-out-now/"
+  ],
+  "status": "released",
+  "note": "Single: May 20, 2026 (Bandcamp, Wikipedia, Heavenly). Album LOVE: Sept. 4, 2026. Re-recording of a 2003 song.",
+  "label": "Heavenly Recordings",
+  "confirmed": true,
+  "checked_on": "2026-10-27"
+ },
+ "puma blue|croak dream": {
+  "date": "2026-02-06",
+  "precision": "day",
+  "sources": [
+   "https://pumabluemusic.bandcamp.com/album/croak-dream",
+   "https://music.apple.com/pg/album/croak-dream/1841629444",
+   "https://dancewax.net/2026/02/09/puma-blue-releases-new-album-croak-dream/"
+  ],
+  "status": "released",
+  "note": "Label shop (PIASR1623), Apple Music and Dancewax agree on Feb. 6, 2026. Deluxe \"Croak Deluxe\" is due Nov. 13, 2026. Deezer shows a 2025 placeholder date.",
+  "label": "Play It Again Sam",
+  "confirmed": true,
+  "checked_on": "2026-10-27"
+ },
+ "ddk|verona prelude": {
+  "date": "2026-05-01",
+  "precision": "day",
+  "sources": [
+   "https://wruv.wordpress.com/2026/05/05/ddk-verona-prelude/",
+   "https://audiomack.com/ddkdontplay/song/stay-wit-u",
+   "https://www.amazon.com/Verona-Prelude-Explicit-Ddk/dp/B0GX6GZ18W"
+  ],
+  "status": "released",
+  "note": "Audiomack, Shazam and Amazon track listings give May 1, 2026; WRUV review dated May 5. Billed as an EP by WRUV, album by Apple and Amazon.",
+  "label": "The Media Music",
+  "confirmed": true,
+  "checked_on": "2026-10-27"
+ },
+ "vince staples|cry baby": {
+  "date": "2026-06-05",
+  "precision": "day",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cry_Baby_(Vince_Staples_album)",
+   "https://www.nme.com/reviews/album/vince-staples-cry-baby-review-3949241",
+   "https://thesource.com/2026/06/05/vince-staples-cry-baby-album-release/"
+  ],
+  "status": "released",
+  "note": "Wikipedia, NME and The Source agree on June 5, 2026 (Loma Vista).",
+  "label": "Loma Vista / Concord",
+  "confirmed": true,
+  "checked_on": "2026-10-27"
+ },
+ "zzzahara|distant lands": {
+  "date": "2026-06-05",
+  "precision": "day",
+  "sources": [
+   "https://lexrecords.com/news/zzzahara-announces-distant-lands/",
+   "https://zzzahara.bandcamp.com/album/distant-lands",
+   "https://www.albumoftheyear.org/album/1718907-zzzahara-distant-lands.php"
+  ],
+  "status": "released",
+  "note": "Lex, Bandcamp and Album of the Year agree on June 5, 2026. Tower and Love Vinyl list Aug. 7, 2026 for CD, vinyl and cassette.",
+  "label": "Lex",
+  "confirmed": true,
+  "checked_on": "2026-10-27"
+ },
+ "gem club|emerald press": {
+  "date": "2026-04-17",
+  "precision": "day",
+  "sources": [
+   "https://gemclub.bandcamp.com/album/emerald-press",
+   "https://northerntransmissions.com/swore-emerald-press-by-gem-club/",
+   "https://www.qobuz.com/us-en/album/emerald-press-gem-club/sqggul5y0kzkt"
+  ],
+  "status": "released",
+  "note": "Bandcamp, Northern Transmissions and Qobuz agree on Apr. 17, 2026. Label listed as self-released (Dave Sutton bio) or Mount Desert Isle Music (Qobuz).",
+  "label": "Self-Released",
+  "confirmed": true,
+  "checked_on": "2026-10-27"
+ },
+ "dai freyr pronounced dah thi fray er|too much is not enough": {
+  "date": "",
+  "precision": "",
+  "sources": [],
+  "status": "date not found",
+  "label": "Samlist/AWAL",
+  "confirmed": false,
+  "note": "Oct. 27: search returned no results. Retry next run.",
+  "checked_on": "2026-10-27"
  }
 }

@@ -1,23 +1,5 @@
 [
  {
-  "artist": "Go Public",
-  "title": "You Are Traffic",
-  "type": "album",
-  "label": "Happy Happy Birthday To Me",
-  "current_date": "2026-09-18",
-  "date_check": "verify",
-  "key": "go public|you are traffic"
- },
- {
-  "artist": "Palace",
-  "title": "Ox",
-  "type": "album",
-  "label": "Palace Presents/Awal",
-  "current_date": "2026-09-18",
-  "date_check": "verify",
-  "key": "palace|ox"
- },
- {
   "artist": "Little Barrie",
   "title": "Luggin' Hurt",
   "type": "single",
@@ -31,7 +13,7 @@
   "title": "Mind Disaster",
   "type": "single",
   "label": "Mute Records",
-  "current_date": "2026-04-24",
+  "current_date": "2026-03-10",
   "date_check": "verify",
   "key": "miss grit|mind disaster"
  },
@@ -45,15 +27,6 @@
   "key": "vicious vicious|all caught up yodel my name across the sweeping sands"
  },
  {
-  "artist": "Lambrini Girls",
-  "title": "The Basement / Spilt (singles)",
-  "type": "single",
-  "label": "City Slang",
-  "current_date": "2026-10-20",
-  "date_check": "verify",
-  "key": "lambrini girls|basement spilt singles"
- },
- {
   "artist": "Imperial Teen",
   "title": "All Hands Up",
   "type": "single",
@@ -61,6 +34,15 @@
   "current_date": "2026-09",
   "date_check": "verify",
   "key": "imperial teen|all hands up"
+ },
+ {
+  "artist": "Dead Man's Bones",
+  "title": "Lost In The Night (single)",
+  "type": "single",
+  "label": "Anti-",
+  "current_date": "2026-10-27",
+  "date_check": "verify",
+  "key": "dead man s bones|lost in the night single"
  },
  {
   "artist": "lovetempo",
@@ -117,87 +99,6 @@
   "key": "bitter sweet|one"
  },
  {
-  "artist": "Sis and the Lower Wisdom",
-  "title": "Saints and Aliens",
-  "type": "album",
-  "label": "Native Cat",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "sis and the lower wisdom|saints and aliens"
- },
- {
-  "artist": "Beatrix",
-  "title": "We Swallowed The Sky",
-  "type": "album",
-  "label": "Nice Life Recording",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "beatrix|we swallowed the sky"
- },
- {
-  "artist": "Charlotte Day Wilson",
-  "title": "Patchwork",
-  "type": "album",
-  "label": "Stone Woman Music/XL Recordings",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "charlotte day wilson|patchwork"
- },
- {
-  "artist": "Otracami",
-  "title": "Runoff",
-  "type": "album",
-  "label": "Figure & Ground",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "otracami|runoff"
- },
- {
-  "artist": "Deadbeat Beat",
-  "title": "From Here to Ohio",
-  "type": "album",
-  "label": "We Are Time",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "deadbeat beat|from here to ohio"
- },
- {
-  "artist": "L'Rain",
-  "title": "soulless cycle",
-  "type": "single",
-  "label": "Mexican Summer",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "l rain|soulless cycle"
- },
- {
-  "artist": "Perennial",
-  "title": "Modernism",
-  "type": "album",
-  "label": "Ernest Jenning",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "perennial|modernism"
- },
- {
-  "artist": "Ramsey Thornton",
-  "title": "I Called It!",
-  "type": "album",
-  "label": "Gar Hole",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "ramsey thornton|i called it"
- },
- {
-  "artist": "The Messthetics and James Brandon Lewis",
-  "title": "Deface The Currency",
-  "type": "album",
-  "label": "Impulse!",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "messthetics and james brandon lewis|deface the currency"
- },
- {
   "artist": "Daði Freyr (Pronounced Dah-thi Fray-er)",
   "title": "Too Much Is Not Enough",
   "type": "album",
@@ -205,24 +106,6 @@
   "current_date": "",
   "date_check": "needed",
   "key": "dai freyr pronounced dah thi fray er|too much is not enough"
- },
- {
-  "artist": "ear",
-  "title": "Rumspringa",
-  "type": "album",
-  "label": "A24 Music/Virgin",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "ear|rumspringa"
- },
- {
-  "artist": "Dexys Midnight Runners",
-  "title": "My Life in England Pt. 1",
-  "type": "single",
-  "label": "Heavenly Recordings",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "dexys midnight runners|my life in england pt 1"
  },
  {
   "artist": "ear",
@@ -234,33 +117,6 @@
   "key": "ear|ne plus ultra"
  },
  {
-  "artist": "Puma Blue",
-  "title": "Croak Dream",
-  "type": "album",
-  "label": "Play It Again Sam",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "puma blue|croak dream"
- },
- {
-  "artist": "DDK",
-  "title": "Verona: Prelude",
-  "type": "album",
-  "label": "The Media Music",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "ddk|verona prelude"
- },
- {
-  "artist": "Vince Staples",
-  "title": "Cry Baby",
-  "type": "album",
-  "label": "Loma Vista / Concord",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "vince staples|cry baby"
- },
- {
   "artist": "zzzahara",
   "title": "I Can Be Yours (feat. Winter)",
   "type": "single",
@@ -270,21 +126,147 @@
   "key": "zzzahara|i can be yours feat winter"
  },
  {
-  "artist": "Gem Club",
-  "title": "Emerald Press",
-  "type": "album",
-  "label": "Self-Released",
+  "artist": "zzzahara",
+  "title": "Speed Racer",
+  "type": "single",
+  "label": "Lex Records",
   "current_date": "",
   "date_check": "needed",
-  "key": "gem club|emerald press"
+  "key": "zzzahara|speed racer"
  },
  {
-  "artist": "zzzahara",
-  "title": "Distant Lands",
+  "artist": "Joshua Idehen",
+  "title": "I know you’re hurting, everyone is hurting, everyone is trying, you have got to try",
   "type": "album",
-  "label": "Lex",
+  "label": "Heavenly/PIAS",
   "current_date": "",
   "date_check": "needed",
-  "key": "zzzahara|distant lands"
+  "key": "joshua idehen|i know youre hurting everyone is hurting everyone is trying you have got to try"
+ },
+ {
+  "artist": "Satya",
+  "title": "Project 10 b/w Fruits of My Labor",
+  "type": "single",
+  "label": "Checker Print",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "satya|project 10 b w fruits of my labor"
+ },
+ {
+  "artist": "Rosa Walton",
+  "title": "Tell Me It's A Dream",
+  "type": "album",
+  "label": "Transgressive",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "rosa walton|tell me it s a dream"
+ },
+ {
+  "artist": "Satya",
+  "title": "Yellow House",
+  "type": "album",
+  "label": "Checker Print",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "satya|yellow house"
+ },
+ {
+  "artist": "Born at Midnite",
+  "title": "Every Single Time",
+  "type": "album",
+  "label": "Arbutus",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "born at midnite|every single time"
+ },
+ {
+  "artist": "Lucid Express",
+  "title": "Instant Comfort",
+  "type": "album",
+  "label": "Kanine",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "lucid express|instant comfort"
+ },
+ {
+  "artist": "Robot Slide",
+  "title": "CHIMPS",
+  "type": "album",
+  "label": "Aura Vortex",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "robot slide|chimps"
+ },
+ {
+  "artist": "Full Body 2",
+  "title": "turn so slow",
+  "type": "single",
+  "label": "Self-released",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "full body 2|turn so slow"
+ },
+ {
+  "artist": "Saul Williams",
+  "title": "Conspiracy (feat. Moor Mother & Gonjasufi)",
+  "type": "single",
+  "label": "Big Dada",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "saul williams|conspiracy feat moor mother gonjasufi"
+ },
+ {
+  "artist": "Quadeca",
+  "title": "Dark Magic",
+  "type": "single",
+  "label": "X8 Music",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "quadeca|dark magic"
+ },
+ {
+  "artist": "Dori Valentine",
+  "title": "Songs for Penguin Vol. I EP",
+  "type": "EP",
+  "label": "PULSE / Concord",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "dori valentine|songs for penguin vol i ep"
+ },
+ {
+  "artist": "Remember Sports",
+  "title": "The Refrigerator",
+  "type": "album",
+  "label": "Get Better",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "remember sports|refrigerator"
+ },
+ {
+  "artist": "Dagmar Zuniga",
+  "title": "in filth your mystery is kingdom / far smile peasant in yellow music",
+  "type": "album",
+  "label": "AD93",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "dagmar zuniga|in filth your mystery is kingdom far smile peasant in yellow music"
+ },
+ {
+  "artist": "Robber Robber",
+  "title": "Two Wheels Move the Soul",
+  "type": "album",
+  "label": "Fire Talk",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "robber robber|two wheels move the soul"
+ },
+ {
+  "artist": "Jenny Gillespie Mason",
+  "title": "In the Safety of the Light",
+  "type": "album",
+  "label": "Native Cat",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "jenny gillespie mason|in the safety of the light"
  }
 ]
