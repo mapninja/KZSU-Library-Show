@@ -1,5 +1,5 @@
 {
- "_note": "Ledger for New Releases for Review. status: pending (not yet added), active, expired, deleted_by_stace, stace_added. expires = added + 14 days. Created 2026-10-10. First build 2026-10-10: 17 tracks added, sort Newest first, verified by reload. Fat Dog, Wishy and Greg Freeman stay pending until release dates are verified (add only if inside the 14-day window). Oct. 13: 4 deletes by Stace logged (Jamie T, Jess Williamson, Teenage Fanclub, Michael Kiwanuka; 60-day cool-off to 2026-12-12); 12 adds (expire 2026-10-27); Fat Dog and Greg Freeman pendings resolved, Wishy skipped. 25 tracks verified by reload. Oct. 16: 13 deletes by Stace logged (60-day cool-off to 2026-12-15); 6 adds (expire 2026-10-30); 18 tracks verified by reload. Oct. 20: 1 delete by Stace logged (Spanish Love Songs, cool-off to 2026-12-19); 2 adds (expire 2026-11-03); 19 tracks verified by reload. No expirations (earliest expiry Oct. 24). Oct. 23: 6 deletes by Stace logged (L7, Clinic, Cursive, Blondie, PISS, Prize Horse; 60-day cool-off to 2026-12-22); 14 adds (expire 2026-11-06); no expirations (earliest expiry Oct. 24, handled Oct. 27); 27 tracks verified by reload. Dazy row id remapped by YTM to kgmWHpcDuqM.",
+ "_note": "Ledger for New Releases for Review. status: pending (not yet added), active, expired, deleted_by_stace, stace_added. expires = added + 14 days. Created 2026-10-10. First build 2026-10-10: 17 tracks added, sort Newest first, verified by reload. Fat Dog, Wishy and Greg Freeman stay pending until release dates are verified (add only if inside the 14-day window). Oct. 13: 4 deletes by Stace logged (Jamie T, Jess Williamson, Teenage Fanclub, Michael Kiwanuka; 60-day cool-off to 2026-12-12); 12 adds (expire 2026-10-27); Fat Dog and Greg Freeman pendings resolved, Wishy skipped. 25 tracks verified by reload. Oct. 16: 13 deletes by Stace logged (60-day cool-off to 2026-12-15); 6 adds (expire 2026-10-30); 18 tracks verified by reload. Oct. 20: 1 delete by Stace logged (Spanish Love Songs, cool-off to 2026-12-19); 2 adds (expire 2026-11-03); 19 tracks verified by reload. No expirations (earliest expiry Oct. 24). Oct. 23: 6 deletes by Stace logged (L7, Clinic, Cursive, Blondie, PISS, Prize Horse; 60-day cool-off to 2026-12-22); 14 adds (expire 2026-11-06); no expirations (earliest expiry Oct. 24, handled Oct. 27); 27 tracks verified by reload. Dazy row id remapped by YTM to kgmWHpcDuqM. Oct. 27: 2 deletes by Stace logged (Lambrini Girls, The Garden; cool-off to 2026-12-26) and 1 add by Stace (Flaming Lips); 8 expired and removed (Teens in Trouble, Dazy, Imperial Teen, Death Valley Girls, Father John Misty, Greg Freeman, Fujiya & Miyagi, Twisted Teens); 6 adds (expire 2026-11-10); 24 tracks verified by reload.",
  "playlist_id": "PLIl7VQi0nzk0",
  "entries": [
   {
@@ -46,10 +46,11 @@
    "added": "2026-10-10",
    "expires": "2026-10-24",
    "owner": "claude",
-   "status": "active",
+   "status": "expired",
    "fcc_status": "CLEAN",
    "fcc_note": "",
-   "source": "Oct. 6 and Oct. 9 sweeps"
+   "source": "Oct. 6 and Oct. 9 sweeps",
+   "expired_on": "2026-10-27"
   },
   {
    "videoId": "hfus2KUnWlQ",
@@ -129,10 +130,11 @@
    "added": "2026-10-10",
    "expires": "2026-10-24",
    "owner": "claude",
-   "status": "active",
+   "status": "expired",
    "fcc_status": "UNVERIFIED",
    "fcc_note": "no lyrics found | playlist row now shows videoId kgmWHpcDuqM (YTM remap); ledger id updated Oct. 23",
-   "source": "Oct. 6 and Oct. 9 sweeps"
+   "source": "Oct. 6 and Oct. 9 sweeps",
+   "expired_on": "2026-10-27"
   },
   {
    "videoId": "TmB8o0oPu3M",
@@ -242,10 +244,11 @@
    "added": "2026-10-10",
    "expires": "2026-10-24",
    "owner": "claude",
-   "status": "active",
+   "status": "expired",
    "fcc_status": "UNVERIFIED",
    "fcc_note": "no lyrics found",
-   "source": "Oct. 6 and Oct. 9 sweeps"
+   "source": "Oct. 6 and Oct. 9 sweeps",
+   "expired_on": "2026-10-27"
   },
   {
    "videoId": "qAzvVmyfYuQ",
@@ -257,10 +260,11 @@
    "added": "2026-10-10",
    "expires": "2026-10-24",
    "owner": "claude",
-   "status": "active",
+   "status": "expired",
    "fcc_status": "UNVERIFIED",
    "fcc_note": "no lyrics found; she deleted Basic Witch on Oct. 9",
-   "source": "Oct. 6 and Oct. 9 sweeps"
+   "source": "Oct. 6 and Oct. 9 sweeps",
+   "expired_on": "2026-10-27"
   },
   {
    "videoId": "j_rN2984eG0",
@@ -323,11 +327,12 @@
    "added": "2026-10-13",
    "expires": "2026-10-27",
    "owner": "claude",
-   "status": "active",
+   "status": "expired",
    "fit": "Profile artist, Sub Pop (fit score 96); Sub Pop, Bandcamp and Dork list Sept. 29",
    "fcc_status": "CLEAN",
    "fcc_note": "268 words on Genius",
-   "source": "Oct. 13 run; Oct. 13 Tuesday sweep, Stereogum, Sub Pop, Domino"
+   "source": "Oct. 13 run; Oct. 13 Tuesday sweep, Stereogum, Sub Pop, Domino",
+   "expired_on": "2026-10-27"
   },
   {
    "videoId": "TqtY7mpje2s",
@@ -357,11 +362,12 @@
    "added": "2026-10-13",
    "expires": "2026-10-27",
    "owner": "claude",
-   "status": "active",
+   "status": "expired",
    "fit": "Album out Oct. 2; RIYL MJ Lenderman (on her Next Show list); indie rock lane",
    "fcc_status": "FCC",
    "fcc_note": "fucked x1, shit x1 (Chorus)",
-   "source": "Oct. 13 run; Oct. 13 Tuesday sweep, Stereogum, Sub Pop, Domino"
+   "source": "Oct. 13 run; Oct. 13 Tuesday sweep, Stereogum, Sub Pop, Domino",
+   "expired_on": "2026-10-27"
   },
   {
    "videoId": "K5l80OdiCzM",
@@ -373,11 +379,12 @@
    "added": "2026-10-13",
    "expires": "2026-10-27",
    "owner": "claude",
-   "status": "active",
+   "status": "expired",
    "fit": "Motorik post-punk lane; third single; album Oct. 30; Oct. 13 sweep bench",
    "fcc_status": "UNVERIFIED",
    "fcc_note": "no lyrics found",
-   "source": "Oct. 13 run; Oct. 13 Tuesday sweep, Stereogum, Sub Pop, Domino"
+   "source": "Oct. 13 run; Oct. 13 Tuesday sweep, Stereogum, Sub Pop, Domino",
+   "expired_on": "2026-10-27"
   },
   {
    "videoId": "mDYeisr6Gro",
@@ -389,11 +396,12 @@
    "added": "2026-10-13",
    "expires": "2026-10-27",
    "owner": "claude",
-   "status": "active",
+   "status": "expired",
    "fit": "Sub Pop; she has Twisted Teens in To Review and Weekly; album Nov. 6",
    "fcc_status": "CLEAN",
    "fcc_note": "",
-   "source": "Oct. 13 run; Oct. 13 Tuesday sweep, Stereogum, Sub Pop, Domino"
+   "source": "Oct. 13 run; Oct. 13 Tuesday sweep, Stereogum, Sub Pop, Domino",
+   "expired_on": "2026-10-27"
   },
   {
    "videoId": "GE4EvRJ2AQ8",
@@ -824,10 +832,12 @@
    "added": "2026-10-23",
    "expires": "2026-11-06",
    "owner": "claude",
-   "status": "active",
+   "status": "deleted_by_stace",
    "fcc_status": "CLEAN",
    "fcc_note": "197 words",
-   "source": "Oct. 23 Friday sweep; punk focus"
+   "source": "Oct. 23 Friday sweep; punk focus",
+   "deleted_detected": "2026-10-27",
+   "cooloff_until": "2026-12-26"
   },
   {
    "videoId": "rJrOWYzNC5U",
@@ -854,10 +864,117 @@
    "added": "2026-10-23",
    "expires": "2026-11-06",
    "owner": "claude",
-   "status": "active",
+   "status": "deleted_by_stace",
    "fcc_status": "CLEAN",
    "fcc_note": "229 words",
-   "source": "Oct. 23 Friday sweep; punk focus"
+   "source": "Oct. 23 Friday sweep; punk focus",
+   "deleted_detected": "2026-10-27",
+   "cooloff_until": "2026-12-26"
+  },
+  {
+   "videoId": "AIEU9qKbwQA",
+   "artist": "The Flaming Lips",
+   "title": "God Will Control The Werewolves",
+   "album": "The Teardrop Throbs (January 2027)",
+   "label": "Third Man (verify)",
+   "released": "2026-10-26 (announced; verify)",
+   "added": "2026-10-27 (detected)",
+   "expires": null,
+   "owner": "stace",
+   "status": "stace_added",
+   "fcc_status": "CLEAN",
+   "fcc_note": "155 words (Oct. 27 Tuesday sweep screen)",
+   "source": "Added by Stace since Oct. 23 snapshot; also in Weekly"
+  },
+  {
+   "videoId": "-_A9cJFS094",
+   "artist": "One Step Closer",
+   "title": "Blue Hour",
+   "album": "Zero (announced Oct. 20)",
+   "label": "not confirmed",
+   "released": "2026-10-20 (Stereogum announcement; verify)",
+   "added": "2026-10-27",
+   "expires": "2026-11-10",
+   "owner": "claude",
+   "status": "active",
+   "fcc_status": "CLEAN",
+   "fcc_note": "215 words (screened in the Oct. 27 Tuesday sweep)",
+   "source": "Oct. 27 Tuesday sweep; punk focus (melodic hardcore)"
+  },
+  {
+   "videoId": "r3VyT4wwBI4",
+   "artist": "Cloud Nothings",
+   "title": "Death Keeps Me Alive",
+   "album": "What Kind of Hell Did You Survive? (Jan. 29, 2027)",
+   "label": "Pure Noise (verify)",
+   "released": "2026-10-21 (lead single)",
+   "added": "2026-10-27",
+   "expires": "2026-11-10",
+   "owner": "claude",
+   "status": "active",
+   "fcc_status": "CLEAN",
+   "fcc_note": "209 words (screened in the Oct. 27 Tuesday sweep)",
+   "source": "Oct. 27 Tuesday sweep; artist on release_watchlist"
+  },
+  {
+   "videoId": "Yp4VveGLdFE",
+   "artist": "Being Dead",
+   "title": "Man or Myth",
+   "album": "Man or Myth / Aquarium (single)",
+   "label": "Polyvinyl (verify)",
+   "released": "2026-10-22",
+   "added": "2026-10-27",
+   "expires": "2026-11-10",
+   "owner": "claude",
+   "status": "active",
+   "fcc_status": "UNVERIFIED",
+   "fcc_note": "no Genius page (screened in the Oct. 27 Tuesday sweep)",
+   "source": "Oct. 27 Tuesday sweep; Polyvinyl is a top label; indie rock lane"
+  },
+  {
+   "videoId": "xs3-IxWIVdk",
+   "artist": "Natalie Bergman",
+   "title": "White Oak",
+   "album": "I Killed A North American Songbird (EP, Nov. 6)",
+   "label": "Third Man (verify)",
+   "released": "2026-10-22 (Stereogum post date; verify)",
+   "added": "2026-10-27",
+   "expires": "2026-11-10",
+   "owner": "claude",
+   "status": "active",
+   "fcc_status": "UNVERIFIED",
+   "fcc_note": "no Genius page (screened in the Oct. 27 Tuesday sweep)",
+   "source": "Oct. 27 Tuesday sweep; Third Man is a top label"
+  },
+  {
+   "videoId": "NkhRra7RG-k",
+   "artist": "Philip Frobos",
+   "title": "The Handoff",
+   "album": "Taste For The Unsavory (Jan. 29, 2027)",
+   "label": "Danger Collective (verify)",
+   "released": "2026-10-26 (Stereogum post date; verify)",
+   "added": "2026-10-27",
+   "expires": "2026-11-10",
+   "owner": "claude",
+   "status": "active",
+   "fcc_status": "UNVERIFIED",
+   "fcc_note": "no Genius page (screened in the Oct. 27 Tuesday sweep)",
+   "source": "Oct. 27 Tuesday sweep; Omni member; post-punk lane (punk focus)"
+  },
+  {
+   "videoId": "4ocHrRFqbrs",
+   "artist": "Dead Man's Bones",
+   "title": "Lost In The Night",
+   "album": "single",
+   "label": "Anti- (verify)",
+   "released": "2026-10-27",
+   "added": "2026-10-27",
+   "expires": "2026-11-10",
+   "owner": "claude",
+   "status": "active",
+   "fcc_status": "CLEAN",
+   "fcc_note": "357 words (screened in the Oct. 27 Tuesday sweep)",
+   "source": "Oct. 27 Tuesday sweep; Anti- is a top label; Halloween week fit"
   }
  ]
 }

@@ -1957,6 +1957,10 @@
   {
    "date": "2026-10-27",
    "note": "Weekly: Dazy \"Ugly\" swapped videoId uH5CSB1vpb4 to kgmWHpcDuqM between reads (same song, YTM id change). Not a deletion; not logged as one."
+  },
+  {
+   "date": "2026-10-27",
+   "note": "New Releases for Review run: 8 Claude-added tracks expired and removed (14 days). Her Oct. 27 deletes (Lambrini Girls, The Garden) and her Flaming Lips add were already logged by the Tuesday sweep, so not logged twice. Accidental like: a script click hit the Like button on Teens in Trouble \"I Do\" (Liked Music) while looking for the row menu. The unlike was blocked by the auto-mode check, so Stace can unlike it by hand. Fixed the helper to click only \"Action menu\"."
   }
  ]
 }
