@@ -7,7 +7,7 @@
    "order": "forward",
    "mode": "build draft; Stace edits by hand; her edits win",
    "target_minutes_per_show_hour": 75,
-   "last_sync": "2026-10-22 (Thursday-night draft for Oct. 29 Halloween: 42 adds, 52 removes; verified 42 rows equal to plan)"
+   "last_sync": "2026-10-22 (Thursday-night draft for Oct. 29 Halloween: 42 adds, 52 removes; verified 42 rows equal to plan) | 2026-10-27: read back 51 tracks, Stace appended 9; not rewritten by Claude"
   },
   "working": {
    "title": "DJ Stace library show working",
@@ -21,7 +21,7 @@
    "id": "PLCLF-Tik2UHk",
    "order": "forward",
    "mode": "ADD only; never clear; Stace deletes stale tracks; log her deletes (60-day cool-off)",
-   "last_sweep": "2026-10-23 Friday sweep for Oct. 29: 207 tracks (173 + 33 adds + 1 accidental add, Caroline Rose 'I Took A Ride'); 3 tracks to FCC Edit Needed; notes outputs/weekly/2026-10-29_friday-sweep.md"
+   "last_sweep": "2026-10-27 Tuesday sweep for Oct. 29: 219 tracks (207 + 12 adds); 0 to FCC Edit Needed; notes outputs/weekly/2026-10-29_tuesday-sweep.md"
   },
   "new_releases_review": {
    "title": "New Releases for Review",

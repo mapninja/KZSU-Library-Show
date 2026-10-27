@@ -167,6 +167,23 @@
  ],
  "log": [
   {
+   "date": "2026-10-27",
+   "trigger": "Tuesday sweep (kzsu-tue-releases)",
+   "rows_added": 7,
+   "artists": [
+    "Dead Man's Bones",
+    "Cloud Nothings",
+    "Philip Frobos",
+    "Natalie Bergman",
+    "Peter Gabriel",
+    "Being Dead",
+    "Giant Drag"
+   ],
+   "deploy": "patched in place with the Sheets API (7 rows inserted at A2:Q8); same file ID, link unchanged; Album and Label written as HYPERLINK formulas; ticks untouched (read back)",
+   "not_added": "yeule a+e (label not stated), The Flaming Lips The Teardrop Throbs (January, no day), One Step Closer Zero (label and date not confirmed)",
+   "ticked_requests_waiting": "not checked"
+  },
+  {
    "date": "2026-10-26",
    "trigger": "Monday album sweep (kzsu-mon-album-sweep)",
    "rows_added": 5,

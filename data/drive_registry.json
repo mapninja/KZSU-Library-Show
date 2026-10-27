@@ -58,7 +58,7 @@
     "1QNa8uUbiTV5Tr6wzN_xxt5zj_Og9GYRwdLs9iiTBbU0",
     "11QBWd_ZhiASLbcZxtkymc4ZocPaKPa3Q5osApEgoCig"
    ],
-   "note": "Oct. 23 (Friday sweep): 13 rows inserted at the top with the Sheets API. Same file ID; link unchanged. Earlier Oct. 23 patch: 8 rows inserted at top, 2 release dates updated.",
+   "note": "Oct. 23 (Friday sweep): 13 rows inserted at the top with the Sheets API. Same file ID; link unchanged. Earlier Oct. 23 patch: 8 rows inserted at top, 2 release dates updated. | Oct. 27: 7 rows patched in at the top (Tuesday sweep); link unchanged.",
    "hash": "58ef580a704b2bc322a1297282cc9d99"
   },
   "review_templates_2026-10-04": {
@@ -256,13 +256,15 @@
    "note": "Raw CSV at /KZSU/ top level through Drive for desktop. 50 tracks, reversed, 7 mic-break blank rows, 8 labels filled. Oct. 22 Thursday sync: overwritten in place with 55 tracks (labels Ume for EODM, Shrimptech Enterprises for Viagra Boys)."
   },
   "notes_sheet_2026-10-29": {
-   "id": "1Oely0Vck1eOk6rqhY5tTDg6hCzFDx_KWX_MuuTh_NAo",
+   "id": "12my1phBCX00y-l3EefaD7Cy-AjbwjHNilARe7lx60Yw",
    "type": "sheet",
    "folder": "Show Prep",
-   "deployed": "2026-10-23T09:46Z",
+   "deployed": "2026-10-27T13:47Z",
    "working": "Working/notes_sheet_2026-10-29.csv",
-   "retired": [],
-   "note": "Thursday-night draft for the Oct. 29 Halloween show. 42 rows, verified by get_values. No prior sheet for this date, so nothing to harvest."
+   "retired": [
+    "1Oely0Vck1eOk6rqhY5tTDg6hCzFDx_KWX_MuuTh_NAo"
+   ],
+   "note": "Tuesday sweep Oct. 27 redeploy: 51 rows (Stace appended 9 to the Air Order). Verified by get_values (artist and track columns). Old sheet 1Oely0Vck1eOk6rqhY5tTDg6hCzFDx_KWX_MuuTh_NAo moved to _to_delete. No Stace ticks to harvest (old sheet unmodified since deploy). Last row was patched after a transcription error."
   },
   "working_show_script_2026-10-29": {
    "id": null,
@@ -276,10 +278,10 @@
    "id": null,
    "type": "csv-raw",
    "folder": "Show Prep",
-   "deployed": "2026-10-23T09:41Z",
+   "deployed": "2026-10-27",
    "working": "Working/library_show_playlist_2026-10-29.csv",
    "retired": [],
-   "note": "Draft, reversed order, 42 tracks. Placed by Drive for desktop sync."
+   "note": "Draft, reversed order, 51 tracks. Placed by Drive for desktop sync (Working and Show Prep)."
   },
   "review_suggestions_2026-10-22": {
    "id": null,

@@ -1,0 +1,79 @@
+{
+ "date": "2026-10-27",
+ "run": "Tuesday sweep (kzsu-tue-releases)",
+ "target_show": "2026-10-29",
+ "playlist": "Stace's Weekly Playlist (PLCLF-Tik2UHk)",
+ "before": 207,
+ "after": 219,
+ "adds": [
+  {
+   "artist": "Dead Man's Bones",
+   "title": "Lost In The Night",
+   "videoId": "4ocHrRFqbrs"
+  },
+  {
+   "artist": "Cloud Nothings",
+   "title": "Death Keeps Me Alive",
+   "videoId": "r3VyT4wwBI4"
+  },
+  {
+   "artist": "Philip Frobos",
+   "title": "The Handoff",
+   "videoId": "NkhRra7RG-k"
+  },
+  {
+   "artist": "Natalie Bergman",
+   "title": "White Oak",
+   "videoId": "xs3-IxWIVdk"
+  },
+  {
+   "artist": "yeule",
+   "title": "Hystérique",
+   "videoId": "zknyxx12wFk"
+  },
+  {
+   "artist": "Peter Gabriel",
+   "title": "Who Are We Talking To? (Dark-Side Mix)",
+   "videoId": "b0vg7YXZfr4"
+  },
+  {
+   "artist": "The Flaming Lips",
+   "title": "God Will Control The Werewolves",
+   "videoId": "AIEU9qKbwQA"
+  },
+  {
+   "artist": "BRAT",
+   "title": "Spit on His Grave",
+   "videoId": "BqMz1GMf4Cg"
+  },
+  {
+   "artist": "One Step Closer",
+   "title": "Blue Hour",
+   "videoId": "-_A9cJFS094"
+  },
+  {
+   "artist": "Giant Drag",
+   "title": "Song For My Funeral",
+   "videoId": "Sa64KRJ7aNQ"
+  },
+  {
+   "artist": "Being Dead",
+   "title": "Man or Myth",
+   "videoId": "Yp4VveGLdFE"
+  },
+  {
+   "artist": "W. H. Lung",
+   "title": "Where Will You Go?",
+   "videoId": "zbxoijCEvn8"
+  }
+ ],
+ "fcc_edit_needed_adds": [],
+ "not_added": [
+  "Lazer Bullet \"Angel Shit\" (FCC word in title)",
+  "yeule \"Hystérique\" is in Weekly but flagged FCC (fuck x8); not sent to FCC Edit Needed (eight repeats, hard edit)",
+  "Spanish Love Songs \"Welcome to Hell\" (60-day cool-off)",
+  "Kacey Musgraves, Doechii, Westside Gunn, Zelooperz (outside the profile)",
+  "Panchiko Chimera: no new track on YTM yet"
+ ],
+ "notes": "Add only. Zookeeper tags and labels not checked (Cloudflare). Genius screens via browser tab. Frobos, Bergman, Brat, Giant Drag, Being Dead and W. H. Lung have no Genius page: UNVERIFIED."
+}
