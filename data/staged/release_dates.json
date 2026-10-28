@@ -219,10 +219,10 @@
    "https://missgrit.bandcamp.com/track/mind-disaster"
   ],
   "status": "single, date unverified",
-  "note": "Single date: Line of Best Fit story dated Mar. 10, 2026 (third single from Under My Umbrella). Northern Transmissions posted Mar. 11 (Pacific). Not confirmed by the label or Bandcamp. Bandcamp track page shows Apr. 24, 2026, the album date (Mute).",
+  "note": "Single date: Line of Best Fit story dated Mar. 10, 2026 (third single from Under My Umbrella). Northern Transmissions posted Mar. 11 (Pacific). Not confirmed by the label or Bandcamp. Bandcamp track page shows Apr. 24, 2026, the album date (Mute). Oct. 28 recheck: no new evidence; Line of Best Fit Mar. 10 stays the single date.",
   "label": "Mute Records",
   "confirmed": false,
-  "checked_on": "2026-10-27"
+  "checked_on": "2026-10-28"
  },
  "hrishikesh hirway|stray dogs with iron wine": {
   "date": "2026-02-18",
@@ -927,10 +927,10 @@
    "https://littlebarrie.bandcamp.com/track/luggin-hurt"
   ],
   "status": "single, date unverified",
-  "note": "Bandcamp track page shows May 22, 2026, which is the Gravity Freeze album date (Easy Eye Sound). Single date still not found; 2026-04-23 kept as earlier single date from the prior run, unverified. Oct. 25: a UMG YouTube upload is dated Apr. 22, 2026, one day before the kept date. Bandcamp and Shazam show the album date May 22, 2026. Still unverified. Oct. 27 recheck: still only the video and audio uploads (Apr. 22 to 23) as evidence; Bandcamp shows May 22 album date.",
+  "note": "Bandcamp track page shows May 22, 2026, which is the Gravity Freeze album date (Easy Eye Sound). Single date still not found; 2026-04-23 kept as earlier single date from the prior run, unverified. Oct. 25: a UMG YouTube upload is dated Apr. 22, 2026, one day before the kept date. Bandcamp and Shazam show the album date May 22, 2026. Still unverified. Oct. 27 recheck: still only the video and audio uploads (Apr. 22 to 23) as evidence; Bandcamp shows May 22 album date. Oct. 28 recheck: no single-only date found; album date May 22 (Bandcamp, Shazam).",
   "label": "Easy Eye Sound / Concord",
   "confirmed": false,
-  "checked_on": "2026-10-27"
+  "checked_on": "2026-10-28"
  },
  "new pornographers|votive": {
   "date": "2026-01-21",
@@ -1247,10 +1247,10 @@
    "https://rmas.mx/en/2026/09/17/imperial-teen-release-hands-all-up-new-preview-of-all-over-you/"
   ],
   "status": "released",
-  "note": "Title is \"Hands All Up\", third single from All Over You (Merge, Oct. 9, 2026). Press dated Sept. 17, 2026. No day-precision source found. Oct. 27: searches for \"All Hands Up\" returned nothing; single is \"Hands All Up\" (Sept. 17 press). Still no day-precision source.",
+  "note": "Title is \"Hands All Up\", third single from All Over You (Merge, Oct. 9, 2026). Press dated Sept. 17, 2026. No day-precision source found. Oct. 27: searches for \"All Hands Up\" returned nothing; single is \"Hands All Up\" (Sept. 17 press). Still no day-precision source. Oct. 28 recheck: search returned nothing for \"All Hands Up\"; single is \"Hands All Up\", Sept. 17 press only.",
   "label": "Merge",
   "confirmed": false,
-  "checked_on": "2026-10-27"
+  "checked_on": "2026-10-28"
  },
  "steve earle los lobos|volver a celaya city of immigrants": {
   "date": "2026-08-06",
@@ -2855,10 +2855,10 @@
   "precision": "month",
   "sources": [],
   "status": "single, date not found",
-  "note": "Searched Oct. 23: no pages found for this single. Promo email (Oct. 19) lists ADDS 10/20. Date stays month-only. Oct. 27: only an Apple Music artist page (year 2026). No day-precision source.",
+  "note": "Searched Oct. 23: no pages found for this single. Promo email (Oct. 19) lists ADDS 10/20. Date stays month-only. Oct. 27: only an Apple Music artist page (year 2026). No day-precision source. Oct. 28 recheck: only Apple Music artist page (2026), no day.",
   "label": "Vicious Vicious (self-released)",
   "confirmed": false,
-  "checked_on": "2026-10-27"
+  "checked_on": "2026-10-28"
  },
  "jane inc|a rupture a canyon a birth": {
   "date": "2025-10-17",
@@ -3068,10 +3068,10 @@
   "precision": "",
   "sources": [],
   "status": "single, date not found",
-  "note": "Searched Oct. 23: no pages found for this single or the BannerYeer label. Oct. 25: WebSearch found no pages for this single or BannerYeer.",
+  "note": "Searched Oct. 23: no pages found for this single or the BannerYeer label. Oct. 25: WebSearch found no pages for this single or BannerYeer. Oct. 28: searched again, nothing found.",
   "label": "BannerYeer",
   "confirmed": false,
-  "checked_on": "2026-10-25"
+  "checked_on": "2026-10-28"
  },
  "junior varsity|ready": {
   "date": "2026-05-01",
@@ -4109,7 +4109,303 @@
   "status": "date not found",
   "label": "Samlist/AWAL",
   "confirmed": false,
-  "note": "Oct. 27: search returned no results. Retry next run.",
-  "checked_on": "2026-10-27"
+  "note": "Oct. 27: search returned no results. Retry next run. Oct. 28: searched again, nothing found.",
+  "checked_on": "2026-10-28"
+ },
+ "vienna vienna|grief is for the living": {
+  "date": "2026-05-22",
+  "precision": "day",
+  "sources": [
+   "https://viennaviennamusic.bandcamp.com/album/grief-is-for-the-living",
+   "https://hashtagmagazine.net/home/2026/5/22/vienna-vienna-returns-with-new-singlenbsp-grief-is-for-the-living"
+  ],
+  "status": "released",
+  "note": "Single. Bandcamp and Hashtag Magazine (May 22 press) agree. Prelude Press May 25 says available now. Labels: PULSE Records and DCD2 Records.",
+  "label": "PULSE / Concord",
+  "confirmed": true,
+  "checked_on": "2026-10-28"
+ },
+ "dagmar zuniga|in filth your mystery is kingdom far smile peasant in yellow music": {
+  "date": "2026-03-04",
+  "precision": "day",
+  "sources": [
+   "https://aquariumdrunkard.com/2026/03/06/dagmar-zuniga-in-filth-your-mystery-is-kingdom-far-smile-peasant-in-yellow-music/",
+   "https://lunchboxrecords.com/products/191400680814"
+  ],
+  "status": "reissue, digital date from one source",
+  "note": "AD93 reissue. Digital Mar. 4, 2026 (one source says \"out digitally today, 4 March\"). Vinyl, CD and cassette Apr. 10, 2026 (Lunchbox, Truck). Original self-release was Jan. 2025. Digital day has one source only.",
+  "label": "AD93",
+  "confirmed": false,
+  "checked_on": "2026-10-28"
+ },
+ "robber robber|two wheels move the soul": {
+  "date": "2026-04-03",
+  "precision": "day",
+  "sources": [
+   "https://firetalkrecs.com/robberrobber",
+   "https://robberrobber.bandcamp.com/album/two-wheels-move-the-soul",
+   "https://music.apple.com/us/album/two-wheels-move-the-soul/1852345519"
+  ],
+  "status": "released",
+  "note": "Fire Talk announcement, Bandcamp and Apple Music agree on Apr. 3, 2026. Tower Records lists Apr. 17, which looks like a catalog error.",
+  "label": "Fire Talk",
+  "confirmed": true,
+  "checked_on": "2026-10-28"
+ },
+ "remember sports|refrigerator": {
+  "date": "2026-02-13",
+  "precision": "day",
+  "sources": [
+   "https://remembersports.bandcamp.com/album/the-refrigerator",
+   "https://www.polyvinylrecords.com/products/remember-sports-the-refrigerator",
+   "https://lunchboxrecords.com/products/634457227354"
+  ],
+  "status": "released",
+  "note": "Bandcamp, Polyvinyl and Lunchbox agree on Feb. 13, 2026 (Get Better Records). The Bandcamp ship date of Jul. 24 is for vinyl pre-orders.",
+  "label": "Get Better Records",
+  "confirmed": true,
+  "checked_on": "2026-10-28"
+ },
+ "rosa walton|tell me it s a dream": {
+  "date": "2026-06-05",
+  "precision": "day",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tell_Me_It%27s_a_Dream",
+   "https://www.theskinny.co.uk/music/reviews/albums/rosa-walton-tell-me-it-s-a-dream",
+   "https://www.clashmusic.com/news/rosa-walton-details-debut-solo-album-tell-me-its-a-dream/"
+  ],
+  "status": "released",
+  "note": "Wikipedia, The Skinny, Apple Music and Clash agree on Jun. 5, 2026 (Transgressive).",
+  "label": "Transgressive",
+  "confirmed": true,
+  "checked_on": "2026-10-28"
+ },
+ "lucid express|instant comfort": {
+  "date": "2026-02-20",
+  "precision": "day",
+  "sources": [
+   "https://lucidexpress.bandcamp.com/track/instant-comfort",
+   "https://www.kaninerecords.com/lucid-express-instant-comfort-is-out-today/",
+   "https://lunchboxrecords.com/products/827175039013"
+  ],
+  "status": "released",
+  "note": "Bandcamp, Kanine (\"out today\") and Lunchbox agree on Feb. 20, 2026.",
+  "label": "Kanine",
+  "confirmed": true,
+  "checked_on": "2026-10-28"
+ },
+ "born at midnite|every single time": {
+  "date": "2025-11-14",
+  "precision": "day",
+  "sources": [
+   "https://bornatmidnite.bandcamp.com/album/every-single-time",
+   "https://www.amoeba.com/every-single-time-lp-born-at-midnite/albums/4458121/",
+   "https://music.apple.com/us/album/every-single-time/1854492569"
+  ],
+  "status": "released, sources conflict",
+  "note": "Arbutus LP. Bandcamp and Amoeba say Nov. 14, 2025. Apple Music and a YouTube upload say Nov. 19, 2025. Not new for this season. Follow-up Eternal BAM Nation is dated Jun. 2026 on a Tobira listing.",
+  "label": "Arbutus",
+  "confirmed": false,
+  "checked_on": "2026-10-28"
+ },
+ "jenny gillespie mason|in the safety of the light": {
+  "date": "2026-06-12",
+  "precision": "day",
+  "sources": [
+   "https://jennygillespiemason.bandcamp.com/album/in-the-safety-of-the-light-2",
+   "https://www.prescriptionmusicpruk.com/press-releases/jenny-gillespie-mason-announces-new-album-in-the-safety-of-the-light-and-shares-first-single-rungs-of-love"
+  ],
+  "status": "released",
+  "note": "Bandcamp and Prescription Music press release agree on Jun. 12, 2026 (Native Cat). One headline says Jun. 13, body says Jun. 12.",
+  "label": "Native Cat",
+  "confirmed": true,
+  "checked_on": "2026-10-28"
+ },
+ "dead man s bones|lost in the night single": {
+  "date": "2026-10-27",
+  "precision": "day",
+  "sources": [
+   "https://www.anti.com/releases/lost-in-the-night/",
+   "https://en.wikipedia.org/wiki/Dead_Man%27s_Bones",
+   "https://www.billboard.com/music/music-news/ryan-gosling-dead-mans-bones-lost-in-the-night-video-watch-1236368605/"
+  ],
+  "status": "released, one outlier",
+  "note": "Anti-, Wikipedia and YouTube upload say Oct. 27, 2026. Billboard says Monday Oct. 26. First new song since 2009.",
+  "label": "Anti-",
+  "confirmed": false,
+  "checked_on": "2026-10-28"
+ },
+ "joshua idehen|i know youre hurting everyone is hurting everyone is trying you have got to try": {
+  "date": "2026-03-06",
+  "precision": "day",
+  "sources": [
+   "https://en.wikipedia.org/wiki/I_Know_You%27re_Hurting,_Everyone_Is_Hurting,_Everyone_Is_Trying,_You_Have_Got_to_Try"
+  ],
+  "status": "released, one source",
+  "note": "Debut album Mar. 6, 2026 on Heavenly (licensed to PIAS) per Wikipedia. Second day-precision source not yet found.",
+  "label": "Heavenly/PIAS",
+  "confirmed": false,
+  "checked_on": "2026-10-28"
+ },
+ "saul williams|conspiracy feat moor mother gonjasufi": {
+  "date": "2026-06-17",
+  "precision": "day",
+  "sources": [
+   "https://volumo.com/track/6414551-conspiracy-feat-moor-mother-and-gonjasufi",
+   "https://www.youtube.com/watch?v=UET7S9pII-0",
+   "https://whynow.co.uk/read/saul-williams-leap-life-album-conspiracy-single-2026"
+  ],
+  "status": "released",
+  "note": "Lead single from Leap Life (album Aug. 28, 2026, Big Dada). Volumo and YouTube upload agree on Jun. 17, 2026.",
+  "label": "Big Dada",
+  "confirmed": true,
+  "checked_on": "2026-10-28"
+ },
+ "quadeca|dark magic": {
+  "date": "2026-05-27",
+  "precision": "day",
+  "sources": [
+   "https://music.apple.com/us/album/dark-magic-single/1895929722",
+   "https://en.wikipedia.org/wiki/Life_1",
+   "https://rateyourmusic.com/release/single/quadeca/dark-magic/"
+  ],
+  "status": "released",
+  "note": "Lead single from Life 1 (album Oct. 1, 2026). Apple Music, Wikipedia and RYM agree. A chord site lists May 29, treated as an error.",
+  "label": "X8 Music",
+  "confirmed": true,
+  "checked_on": "2026-10-28"
+ },
+ "zzzahara|speed racer": {
+  "date": "2026-05-07",
+  "precision": "day",
+  "sources": [
+   "https://ghettoblastermagazine.com/videos-2/zzzahara-shares-single-speedracer/",
+   "https://www.youtube.com/watch?v=Educ2_umflc",
+   "https://lexrecords.com/news/zzzahara-speed-racer/"
+  ],
+  "status": "released, date from press and upload",
+  "note": "Third single from Distant Lands (Lex, Jun. 5, 2026). Ghettoblaster coverage and YouTube upload both show May 7. No label or store page states the day. Often spelled \"Speedracer\".",
+  "label": "Lex Records",
+  "confirmed": false,
+  "checked_on": "2026-10-28"
+ },
+ "zzzahara|i can be yours feat winter": {
+  "date": "2026-06-05",
+  "precision": "day",
+  "sources": [
+   "https://zzzahara.bandcamp.com/track/i-can-be-yours-feat-winter",
+   "https://www.shazam.com/song/1881582502/i-can-be-yours",
+   "https://www.ifitbeyourwill.ca/2026/03/zzzahara-i-can-be-yours-feat-winter-2026.html"
+  ],
+  "status": "album date; single date earlier",
+  "note": "Bandcamp and Shazam show Jun. 5, 2026, the Distant Lands album date. It was the lead single, announced in March 2026 (blog post dated 2026/03). Single day not found.",
+  "label": "Lex Records",
+  "confirmed": false,
+  "checked_on": "2026-10-28"
+ },
+ "satya|yellow house": {
+  "date": "2026-06-05",
+  "precision": "day",
+  "sources": [
+   "https://www.melodicmag.com/interviews/a-long-time-coming-satyas-debut-album-yellow-house-set-for-release-on-june-5th/",
+   "https://www.shazam.com/en-us/song/1872502618/yellow-house"
+  ],
+  "status": "released",
+  "note": "Debut album Jun. 5, 2026 per Melodic and Shazam. Title-track single was Feb. 20, 2026 (Audiomack). Melodic credits Giant Music Distribution; queue label is Checker Print.",
+  "label": "Checker Print",
+  "confirmed": true,
+  "checked_on": "2026-10-28"
+ },
+ "robot slide|chimps": {
+  "date": "2026-04-17",
+  "precision": "day",
+  "sources": [
+   "https://www.auravortex.com/releases",
+   "https://robotslide.bandcamp.com/album/chimps"
+  ],
+  "status": "released",
+  "note": "Aura Vortex release list and Bandcamp both show Apr. 17, 2026 (vinyl, CD, cassette, digital).",
+  "label": "Aura Vortex",
+  "confirmed": true,
+  "checked_on": "2026-10-28"
+ },
+ "dori valentine|songs for penguin vol i ep": {
+  "date": "2026-02-27",
+  "precision": "day",
+  "sources": [
+   "https://www.beatport.com/release/songs-for-penguin-vol-i/6009337",
+   "https://www.amazon.es/Songs-Penguin-Vol-I-Explicit/dp/B0GNX8YQ85"
+  ],
+  "status": "released",
+  "note": "Beatport and Amazon Music agree on Feb. 27, 2026 (PULSE Records, four tracks).",
+  "label": "PULSE / Concord",
+  "confirmed": true,
+  "checked_on": "2026-10-28"
+ },
+ "dublon|sweet nothings feat deza": {
+  "date": "2026-06-04",
+  "precision": "day",
+  "sources": [
+   "https://ninjatune.net/release/dublon-and-deza/sweet-nothings",
+   "https://music.apple.com/us/album/sweet-nothings-single/6769099596"
+  ],
+  "status": "released",
+  "note": "Ninja Tune page, Shazam and Apple Music agree on Jun. 4, 2026 (Technicolour). Beatport lists the original mix as Jun. 5.",
+  "label": "Technicolour",
+  "confirmed": true,
+  "checked_on": "2026-10-28"
+ },
+ "full body 2|turn so slow": {
+  "date": "2026-03-04",
+  "precision": "day",
+  "sources": [
+   "https://music.apple.com/us/album/turn-so-slow-single/1879534205",
+   "https://stereogum.com/2491168/full-body-2-turn-so-slow/music"
+  ],
+  "status": "released",
+  "note": "Self-released. Apple Music, Spotify and Amazon show Mar. 4, 2026, the first song from the upcoming debut LP.",
+  "label": "Self-released",
+  "confirmed": true,
+  "checked_on": "2026-10-28"
+ },
+ "ear|ne plus ultra": {
+  "date": "2026-05-08",
+  "precision": "day",
+  "sources": [
+   "https://x.com/A24/status/2052736831649706472",
+   "https://music.apple.com/us/album/ne-plus-ultra-single/1895982136",
+   "https://www.deezer.com/en/album/975643201"
+  ],
+  "status": "released",
+  "note": "A24 post (\"out now\"), Apple Music, Deezer and Audiomack show May 8, 2026. Shazam and Grimy Goods show May 29, the Rumspringa album date.",
+  "label": "A24 Music/Virgin",
+  "confirmed": true,
+  "checked_on": "2026-10-28"
+ },
+ "bitter sweet|one": {
+  "date": "2026-06-18",
+  "precision": "day",
+  "sources": [
+   "https://www.youtube.com/watch?v=BeOwXDMvyAA",
+   "https://femmusic.com/2026/06/18/bitter-sweet-the-one/"
+  ],
+  "status": "released",
+  "note": "Lead single and title track. YouTube upload and FEMMUSIC post (Jun. 18) agree. Album date moved from Aug. 28, 2026 to spring 2027 per mxdwn (Sept. 28).",
+  "label": "Self Released",
+  "confirmed": true,
+  "checked_on": "2026-10-28"
+ },
+ "satya|project 10 b w fruits of my labor": {
+  "date": "2026-04-30",
+  "precision": "day",
+  "sources": [
+   "https://www.musicconnection.com/satya-releases-fruits-of-my-labor-ahead-of-debut-album-yellow-house/",
+   "https://music.apple.com/us/artist/satya/1441182030"
+  ],
+  "status": "partial, one source",
+  "note": "Fruits of My Labor (Lucinda Williams cover) single dated Apr. 30, 2026 on her site. Apple Music lists \"Project 10\" as a separate 2026 single. No source ties the two as a pair. Verify.",
+  "label": "Checker Print",
+  "confirmed": false,
+  "checked_on": "2026-10-28"
  }
 }

@@ -72,33 +72,6 @@
   "key": "christian taylor|trust you"
  },
  {
-  "artist": "dublon",
-  "title": "Sweet Nothings (feat. Deza)",
-  "type": "single",
-  "label": "Technicolour",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "dublon|sweet nothings feat deza"
- },
- {
-  "artist": "Vienna Vienna",
-  "title": "Grief Is For The Living",
-  "type": "single",
-  "label": "PULSE / Concord",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "vienna vienna|grief is for the living"
- },
- {
-  "artist": "Bitter:Sweet",
-  "title": "The One",
-  "type": "single",
-  "label": "Self Released",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "bitter sweet|one"
- },
- {
   "artist": "Daði Freyr (Pronounced Dah-thi Fray-er)",
   "title": "Too Much Is Not Enough",
   "type": "album",
@@ -108,165 +81,192 @@
   "key": "dai freyr pronounced dah thi fray er|too much is not enough"
  },
  {
-  "artist": "ear",
-  "title": "Ne Plus Ultra",
-  "type": "single",
-  "label": "A24 Music/Virgin",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "ear|ne plus ultra"
- },
- {
-  "artist": "zzzahara",
-  "title": "I Can Be Yours (feat. Winter)",
-  "type": "single",
-  "label": "Lex Records",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "zzzahara|i can be yours feat winter"
- },
- {
-  "artist": "zzzahara",
-  "title": "Speed Racer",
-  "type": "single",
-  "label": "Lex Records",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "zzzahara|speed racer"
- },
- {
-  "artist": "Joshua Idehen",
-  "title": "I know you’re hurting, everyone is hurting, everyone is trying, you have got to try",
-  "type": "album",
-  "label": "Heavenly/PIAS",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "joshua idehen|i know youre hurting everyone is hurting everyone is trying you have got to try"
- },
- {
-  "artist": "Satya",
-  "title": "Project 10 b/w Fruits of My Labor",
-  "type": "single",
-  "label": "Checker Print",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "satya|project 10 b w fruits of my labor"
- },
- {
-  "artist": "Rosa Walton",
-  "title": "Tell Me It's A Dream",
-  "type": "album",
-  "label": "Transgressive",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "rosa walton|tell me it s a dream"
- },
- {
-  "artist": "Satya",
-  "title": "Yellow House",
-  "type": "album",
-  "label": "Checker Print",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "satya|yellow house"
- },
- {
-  "artist": "Born at Midnite",
-  "title": "Every Single Time",
-  "type": "album",
-  "label": "Arbutus",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "born at midnite|every single time"
- },
- {
-  "artist": "Lucid Express",
-  "title": "Instant Comfort",
-  "type": "album",
-  "label": "Kanine",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "lucid express|instant comfort"
- },
- {
-  "artist": "Robot Slide",
-  "title": "CHIMPS",
-  "type": "album",
-  "label": "Aura Vortex",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "robot slide|chimps"
- },
- {
-  "artist": "Full Body 2",
-  "title": "turn so slow",
-  "type": "single",
-  "label": "Self-released",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "full body 2|turn so slow"
- },
- {
-  "artist": "Saul Williams",
-  "title": "Conspiracy (feat. Moor Mother & Gonjasufi)",
-  "type": "single",
-  "label": "Big Dada",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "saul williams|conspiracy feat moor mother gonjasufi"
- },
- {
-  "artist": "Quadeca",
-  "title": "Dark Magic",
-  "type": "single",
-  "label": "X8 Music",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "quadeca|dark magic"
- },
- {
-  "artist": "Dori Valentine",
-  "title": "Songs for Penguin Vol. I EP",
+  "artist": "TIGRA & SPNCR",
+  "title": "Black Rice EP",
   "type": "EP",
-  "label": "PULSE / Concord",
+  "label": "[PIAS] Electronique",
   "current_date": "",
   "date_check": "needed",
-  "key": "dori valentine|songs for penguin vol i ep"
+  "key": "tigra spncr|black rice ep"
  },
  {
-  "artist": "Remember Sports",
-  "title": "The Refrigerator",
+  "artist": "Lennie Rayen",
+  "title": "Entertain The Space",
   "type": "album",
-  "label": "Get Better",
+  "label": "Self-Released",
   "current_date": "",
   "date_check": "needed",
-  "key": "remember sports|refrigerator"
+  "key": "lennie rayen|entertain the space"
  },
  {
-  "artist": "Dagmar Zuniga",
-  "title": "in filth your mystery is kingdom / far smile peasant in yellow music",
-  "type": "album",
-  "label": "AD93",
+  "artist": "Brooklyn Funk Essentials",
+  "title": "Bust The Bus Stop",
+  "type": "single",
+  "label": "Dorado Records",
   "current_date": "",
   "date_check": "needed",
-  "key": "dagmar zuniga|in filth your mystery is kingdom far smile peasant in yellow music"
+  "key": "brooklyn funk essentials|bust the bus stop"
  },
  {
-  "artist": "Robber Robber",
-  "title": "Two Wheels Move the Soul",
+  "artist": "Yael Naim",
+  "title": "SOLAIRE",
   "type": "album",
-  "label": "Fire Talk",
+  "label": "Mouselephant",
   "current_date": "",
   "date_check": "needed",
-  "key": "robber robber|two wheels move the soul"
+  "key": "yael naim|solaire"
  },
  {
-  "artist": "Jenny Gillespie Mason",
-  "title": "In the Safety of the Light",
-  "type": "album",
-  "label": "Native Cat",
+  "artist": "Jalen Ngonda",
+  "title": "Doctrine of Love",
+  "type": "single",
+  "label": "Daptone Records",
   "current_date": "",
   "date_check": "needed",
-  "key": "jenny gillespie mason|in the safety of the light"
+  "key": "jalen ngonda|doctrine of love"
+ },
+ {
+  "artist": "Kumail",
+  "title": "Mudbrown",
+  "type": "album",
+  "label": "Tru Thoughts",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "kumail|mudbrown"
+ },
+ {
+  "artist": "Brooklyn Funk Essentials",
+  "title": "Black Butterfly",
+  "type": "single",
+  "label": "Dorado Records",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "brooklyn funk essentials|black butterfly"
+ },
+ {
+  "artist": "Mamas Gun",
+  "title": "DIG!",
+  "type": "album",
+  "label": "Blue Elan",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "mamas gun|dig"
+ },
+ {
+  "artist": "Julianna Barwick & Mary Lattimore",
+  "title": "Tragic Magic",
+  "type": "album",
+  "label": "Infiné",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "julianna barwick mary lattimore|tragic magic"
+ },
+ {
+  "artist": "M83",
+  "title": "Resurrection",
+  "type": "album",
+  "label": "Other Suns",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "m83|resurrection"
+ },
+ {
+  "artist": "E.VAX",
+  "title": "When I'm Gone",
+  "type": "single",
+  "label": "Because Music",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "e vax|when i m gone"
+ },
+ {
+  "artist": "Edging",
+  "title": "Unload Your Shame",
+  "type": "album",
+  "label": "Hex Records",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "edging|unload your shame"
+ },
+ {
+  "artist": "Nutritious",
+  "title": "The Soft Dark",
+  "type": "album",
+  "label": "Liquid Culture",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "nutritious|soft dark"
+ },
+ {
+  "artist": "Adrian Younge",
+  "title": "Portschute",
+  "type": "single",
+  "label": "Linear Labs",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "adrian younge|portschute"
+ },
+ {
+  "artist": "Inner Wave",
+  "title": "SEE YOU WHEN I GET BACK",
+  "type": "album",
+  "label": "Nettwerk",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "inner wave|see you when i get back"
+ },
+ {
+  "artist": "Adrian Younge",
+  "title": "Respond to Sound",
+  "type": "single",
+  "label": "Linear Labs",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "adrian younge|respond to sound"
+ },
+ {
+  "artist": "Adrian Younge",
+  "title": "Younge",
+  "type": "album",
+  "label": "Linear Labs",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "adrian younge|younge"
+ },
+ {
+  "artist": "DJ Shadow",
+  "title": "Nobody Speak Part 2 (Feat. Run The Jewels, Denzel Curry & TiaCorine)",
+  "type": "single",
+  "label": "Mass Appeal",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "dj shadow|nobody speak part 2 feat run the jewels denzel curry tiacorine"
+ },
+ {
+  "artist": "Avril Jensen",
+  "title": "Parfois, les jours de vent",
+  "type": "album",
+  "label": "Coop Les Faux-Monnayeurs",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "avril jensen|parfois les jours de vent"
+ },
+ {
+  "artist": "Blood Wizard",
+  "title": "Lucky Life",
+  "type": "album",
+  "label": "Sad Club",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "blood wizard|lucky life"
+ },
+ {
+  "artist": "TOKiMONSTA",
+  "title": "Joy without Sound",
+  "type": "single",
+  "label": "Young Art Records",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "tokimonsta|joy without sound"
  }
 ]

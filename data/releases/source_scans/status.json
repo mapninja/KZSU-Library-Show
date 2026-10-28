@@ -1,22 +1,22 @@
 {
  "_note": "Weekly scan status per outside source. The weekly run updates this file. Scans land in data/releases/source_scans/<source>_<date>.psv (date|ARTIST|Title|Label) and feed scripts/staged_crossref.py.",
  "indieisnotagenre": {
-  "last_scan": "2026-10-27",
+  "last_scan": "2026-10-28",
   "method": "browser pane, snippet in references/source_scans.md",
   "status": "ok",
-  "rows_saved": 287,
-  "note": "Oct. 27 rescan: 287 rows, one new row (Glasvegas, Airy Fairy, Modern Sky, 2027-04-02). Saved as indieisnotagenre_2026-10-27.psv; Oct. 25 file moved to _to_delete."
+  "rows_saved": 288,
+  "note": "Oct. 28 rescan: 288 rows, one new row (The Flaming Lips, The Teardrop Throbs, Third Man, 2027-01-22). Saved as indieisnotagenre_2026-10-28.psv; Oct. 27 file moved to _to_delete."
  },
  "bandcamp": {
-  "last_scan": "2026-10-27",
+  "last_scan": "2026-10-28",
   "method": "browser pane, bandcamp.com/discover/rock+punk?s=new, first 60 items",
   "status": "ok, no taste-profile matches",
-  "note": "Oct. 27: rescanned rock+punk and rock+punk+alternative new feeds (60 items each), no matches in taste profile or watchlist artists; no psv saved. Item selector: [class*=results-grid] li. Label and artist Bandcamp pages are used for dates. Earlier: Oct. 25: rescanned both feeds (60 items each), no matches in taste profile artists or watchlist artists; no psv saved. Prior note, Oct. 23: scanned rock+punk and rock+punk+alternative new feeds (60 items each). No matches in taste profile or label watchlist (Pulled Apart By Horses Dopamine Hits appe"
+  "note": "Oct. 28: rescanned rock+punk and rock+punk+alternative new feeds (24 items each), no matches in taste profile or watchlist artists; no psv saved. Earlier: Oct. 27: rescanned rock+punk and rock+punk+alternative new feeds (60 items each), no matches in taste profile or watchlist artists; no psv saved. Item selector: [class*=results-grid] li. Label and artist Bandcamp pages are used for dates. Earlier: Oct. 25: rescanned both feeds (60 items each), no ma"
  },
  "pitchfork": {
-  "last_scan": "2026-10-27",
+  "last_scan": "2026-10-28",
   "method": "browser pane, web fetch, WebSearch",
   "status": "blocked",
-  "note": "Blocked. Not retried on Oct. 27."
+  "note": "Blocked. Not retried on Oct. 28."
  }
 }
