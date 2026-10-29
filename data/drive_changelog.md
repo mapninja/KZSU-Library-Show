@@ -69,3 +69,4 @@
 
 - 2026-10-29 (Thursday, one-hour show): Stanford Sports preempts half the show. Built from Stace's picks in the One-Hour Picker Google Sheet (moved from My Drive root to /KZSU/; id 1B6AfvTlmC5sM4mNHhc8pBT_iKaKRtvT-m8bt0fsJzrU): 15 tracks, 65:50. New YTM playlists Air Order and Working (1 hr). Zookeeper CSV library_show_playlist_2026-10-29_1hr.csv (reversed, blank rows between sets) at /KZSU/ top level; list in Working/one_hour_list_2026-10-29.md. The full 35-track files are unchanged.
 - 2026-10-29 (one-hour show): One-Hour Show Script (landscape Word and PDF, 5 pages, 15 tracks, 1:05:50) added at /KZSU/ top level. Picks unchanged on re-read, so the 1-hr playlists and CSV were verified, not rewritten.
+- 2026-10-29 (one-hour show): Stace asked to reverse the 1-hr Zookeeper CSV. It is now in FORWARD air order (first row Screamin' Jay Hawkins, last row Black Sabbath), blank mic-break rows kept between sets. The full 35-track CSV stays reversed.
