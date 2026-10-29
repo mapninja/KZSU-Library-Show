@@ -2280,5 +2280,12 @@
   "built": "2026-10-22",
   "verified": "Oct. 22 (late): rewritten by deltas (42 added, 55 removed in three edit_playlist calls); verified by page reload: 42 tracks, 2:34, order equals the plan. | Oct. 27: read back 51 tracks; Stace appended 9 (Sonics alt, Bauhaus, Talking Heads, Nick Cave, Skinny Puppy, Stones, Kills, Alien Sex Fiend, Andy Shauf); no removals. Runtime now about 3:18. | Oct. 28: read back 52 tracks; one new add (Coil, #45); no removals; not rewritten by Claude. | Oct. 29: read back 40 tracks; 8 reviewed Halloween tracks appended; 48 tracks verified by reload. | Oct. 29 later: appended 3 Queens options; she added 4 more; 55 tracks verified by reload."
  },
- "air_order_note": "Oct. 22: the Oct. 22 show list was replaced by the Oct. 29 draft. Adds went in forward air order, then the old rows were removed; no moves needed. Bench tracks are not in the Air Order. Oct. 27: Stace appended 9 tracks at the bottom of the Air Order. They are placed in Sets 1, 3 and 5 in the plan (the playlist order is hers to arrange). The Sonics \"The Witch\" now appears twice."
+ "air_order_note": "Oct. 22: the Oct. 22 show list was replaced by the Oct. 29 draft. Adds went in forward air order, then the old rows were removed; no moves needed. Bench tracks are not in the Air Order. Oct. 27: Stace appended 9 tracks at the bottom of the Air Order. They are placed in Sets 1, 3 and 5 in the plan (the playlist order is hers to arrange). The Sonics \"The Witch\" now appears twice.",
+ "ytm_playlist": {
+  "name": "DJ Stace library show working",
+  "id": "PLLXFGCRcu_qc",
+  "order": "reversed",
+  "tracks": 55,
+  "verified": "2026-10-29 9 a.m. sync: reload shows plan order reversed, 55 tracks, 3:42"
+ }
 }
