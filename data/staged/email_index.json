@@ -219,5 +219,14 @@
   "uri": "gmail threads 1a164ac3d6893d49, 1a164a9d24109ea4",
   "items_extracted": 2,
   "kind": "md_list_promo"
+ },
+ {
+  "date": "2026-10-29",
+  "subject": "New Music Filtering -- back for fall quarter (!)",
+  "sender": "bufordsharkley@gmail.com",
+  "uri": "mail:///messages/AAMkADM5NmY3NjdhLTA5NGUtNDI3Ny05NWZhLTM1MjZmNGEwYTgyYgBGAAAAAACb7FnNMoosTa0CZeouidjJBwB7GGtAB8DVSK0eNVqJJmzrAAAO6O6CAACTAKQ1eZmsQI5qFl55rjpJAAjpDAWYAAA%3D",
+  "items_extracted": 0,
+  "kind": "new_music_filtering",
+  "note": "89 albums and singles listed, all already in filtering_albums.json (matched on artist and title), so nothing appended. Fall quarter restart; includes the claim form link."
  }
 ]
