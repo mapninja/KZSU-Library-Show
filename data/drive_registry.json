@@ -264,7 +264,7 @@
    "retired": [
     "1Oely0Vck1eOk6rqhY5tTDg6hCzFDx_KWX_MuuTh_NAo"
    ],
-   "note": "Tuesday sweep Oct. 27 redeploy: 51 rows (Stace appended 9 to the Air Order). Verified by get_values (artist and track columns). Old sheet 1Oely0Vck1eOk6rqhY5tTDg6hCzFDx_KWX_MuuTh_NAo moved to _to_delete. No Stace ticks to harvest (old sheet unmodified since deploy). Last row was patched after a transcription error."
+   "note": "Tuesday sweep Oct. 27 redeploy: 51 rows (Stace appended 9 to the Air Order). Verified by get_values (artist and track columns). Old sheet 1Oely0Vck1eOk6rqhY5tTDg6hCzFDx_KWX_MuuTh_NAo moved to _to_delete. No Stace ticks to harvest (old sheet unmodified since deploy). Last row was patched after a transcription error. | Superseded by final_notes_sheet_2026-10-29 (same file, moved to top level Oct. 28)."
   },
   "working_show_script_2026-10-29": {
    "id": null,
@@ -290,6 +290,35 @@
    "deployed": "2026-10-23T09:35Z",
    "working": "outputs/reviews/review_suggestions_2026-10-22.md",
    "retired": []
+  },
+  "final_notes_sheet_2026-10-29": {
+   "id": "12my1phBCX00y-l3EefaD7Cy-AjbwjHNilARe7lx60Yw",
+   "type": "sheet",
+   "folder": "KZSU top",
+   "deployed": "2026-10-29T03:32Z",
+   "working": "Working/notes_sheet_2026-10-29.csv",
+   "retired": [],
+   "hash": "8526a5bbd922c530f8b989290ae7f090",
+   "title": "Library Show Final Playlist Notes Sheet 2026-10-29",
+   "note": "Wed. Oct. 28 final build: same Sheet as the Show Prep draft, patched in place (inserted Coil row, 52 rows, labels and tags for 10 Air Order adds) and moved to /KZSU/ top level. Link unchanged. No ticks to harvest (Cull and Replace empty, read 8 p.m.)."
+  },
+  "final_show_script_2026-10-29": {
+   "id": null,
+   "type": "docx+pdf (raw files)",
+   "folder": "KZSU top",
+   "deployed": "2026-10-29T03:30Z",
+   "working": "Working/final_show_script_2026-10-29.md (data record); Word and PDF at /KZSU/ top level and repo outputs/recon/2026-10-29/",
+   "retired": [],
+   "note": "Landscape tables, 14 pages, 52 tracks, 3:21:50. Working Show Script Word and PDF moved to _to_delete."
+  },
+  "zookeeper_csv_2026-10-29_final": {
+   "id": null,
+   "type": "csv-raw",
+   "folder": "KZSU top",
+   "deployed": "2026-10-29T03:30Z",
+   "working": "Working/library_show_playlist_2026-10-29.csv",
+   "retired": [],
+   "note": "Raw CSV at /KZSU/ top level through Drive for desktop. 52 tracks, reversed, blank rows for mic breaks. Show Prep draft copy moved to _to_delete."
   }
  },
  "folders": {

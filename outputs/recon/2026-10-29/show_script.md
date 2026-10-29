@@ -12,8 +12,8 @@
 6. **Misfits, "Night of the Living Dead"** (1:58) Ruby Records. Tag 933858. Single 1979; on Walk Among Us (1982). FCC: CLEAN (LRCLIB).
 7. **Roky Erickson, "I Walked with a Zombie"** (2:47) 415 Records. Sets up the Lemonheads tribute. FCC: CLEAN (LRCLIB).
 8. **The Lemonheads, "Roky (feat. The Bevis Frond)"** (3:03) Fire Records. New: 12-inch out Oct. 16 on Fire Records. FCC: CLEAN (LRCLIB).
-9. **The Sonics, "The Witch"** (2:48) unverified. Added to the Air Order by DJ Stace. Second version of a song already at track 4 (HGBsxpnRhMk). Pick one. FCC: CLEAN (Genius, 176 words).
-10. **The Kills, "I Put a Spell on You"** (2:17) unverified. Added to the Air Order by DJ Stace. Cover; pairs with Screamin' Jay Hawkins at track 3. Original: Screamin' Jay Hawkins (1956). FCC: CLEAN (Genius, 98 words).
+9. **The Sonics, "The Witch"** (2:48) Norton Records. Tag 1081730. Added to the Air Order by DJ Stace. Second version of a song already at track 4 (HGBsxpnRhMk). Pick one. YTM plays the Maintaining My Cool version; library tag 1081730 is the Norton single. FCC: CLEAN (Genius, 176 words).
+10. **The Kills, "I Put a Spell on You"** (2:17) Domino Recording Company. Added to the Air Order by DJ Stace. Cover; pairs with Screamin' Jay Hawkins at track 3. Original: Screamin' Jay Hawkins (1956). FCC: CLEAN (Genius, 98 words).
 
 ### Hour 1, Set 2: Garage, psych and fuzz, plus reviews in rotation
 
@@ -35,8 +35,8 @@
 23. **The Fall, "Retro Song"** (4:10) Cog Sinister. Tag 1156531. Reviewed rotation, week 2: four stars. Post Script out Oct. 2 on Cog Sinister. FCC: DJ Stace review (Zookeeper, reviewed Oct. 4 to 15, 2026): no FCC flag on this track.
 24. **Pixies, "Dead"** (2:22) 4AD. Tag 943354.  FCC: CLEAN (LRCLIB).
 25. **Bauhaus, "Bela Lugosi's Dead (Official Version)"** (9:37) Small Wonder Records. Tag 1084070. Added to the Air Order by DJ Stace. Moved up from the bench. FCC: CLEAN (Genius, 111 words).
-26. **Alien Sex Fiend, "Now I'm Feeling Zombiefied"** (7:58) unverified. Added to the Air Order by DJ Stace. Goth. Long track. FCC: CLEAN (Genius, 249 words).
-27. **Talking Heads, "Psycho Killer"** (4:21) unverified. Added to the Air Order by DJ Stace. Halloween title. FCC: CLEAN (Genius, 247 words).
+26. **Alien Sex Fiend, "Now I'm Feeling Zombiefied"** (7:58) Anagram Records. Added to the Air Order by DJ Stace. Goth. Long track. Label not in the Zookeeper label table (Discogs spelling); original 1987 12-inch (verify). FCC: CLEAN (Genius, 249 words).
+27. **Talking Heads, "Psycho Killer"** (4:21) Sire Records. Tag 826769. Added to the Air Order by DJ Stace. Halloween title. FCC: CLEAN (Genius, 247 words).
 
 ### Hour 2, Thursday Triple Shot: Queens of the Stone Age
 
@@ -52,30 +52,27 @@ Intro: New single Where the Goth Girls At? from Perfecth (out Fri. Oct. 30, Mata
 32. **The Horrors, "Who Can Say"** (3:42) Xl Recordings. Tag 895046.  FCC: CLEAN (LRCLIB).
 33. **Bambara, "Steel Dust Ocean"** (2:58) Wharf Cat.  FCC: CLEAN (LRCLIB).
 34. **Nick Cave & The Bad Seeds, "Red Right Hand"** (6:11) Mute Records. Core artist. FCC: CLEAN (LRCLIB).
-35. **Black Sabbath, "Black Sabbath"** (9:26) Warner Bros. Records. Tag 937537. Long. Fits the Oct. 30, 1998 reunion fact (verify; thisdayinmusic only). FCC: CLEAN (Genius, 98 words).
-36. **Nick Cave and The Bad Seeds, "Up Jumped the Devil"** (5:17) unverified. Added to the Air Order by DJ Stace. Dark classic. FCC: CLEAN (Genius, 438 words).
-37. **The Rolling Stones, "Sympathy For The Devil (50th Anniversary Edition)"** (6:19) unverified. Added to the Air Order by DJ Stace. Halloween standard. FCC: CLEAN (Genius, 489 words).
-38. **Skinny Puppy, "Love"** (1:52) unverified. Added to the Air Order by DJ Stace. Industrial; pairs with Ministry in Set 1. FCC: CLEAN (Genius, 40 words).
-39. **Andy Shauf, "Satan"** (3:17) unverified. Added to the Air Order by DJ Stace. Modern shadows. FCC: CLEAN (Genius, 126 words).
+35. **Black Sabbath, "Black Sabbath"** (9:26) Warner Bros. Records. Tag 937537. Long. Fits the Oct. 30, 1998 reunion on Letterman (confirmed: IMDb episode listing, Louder, Black Sabbath Online). FCC: CLEAN (Genius, 98 words).
+36. **Nick Cave and The Bad Seeds, "Up Jumped the Devil"** (5:17) Mute Records. Added to the Air Order by DJ Stace. Dark classic. FCC: CLEAN (Genius, 438 words).
+37. **The Rolling Stones, "Sympathy For The Devil (50th Anniversary Edition)"** (6:19) London Records. Tag 871242. Added to the Air Order by DJ Stace. Halloween standard. FCC: CLEAN (Genius, 489 words).
+38. **Skinny Puppy, "Love"** (1:52) Nettwerk Records. Added to the Air Order by DJ Stace. Industrial; pairs with Ministry in Set 1. FCC: CLEAN (Genius, 40 words).
+39. **Coil, "Where Even the Darkness Is Something to See"** (3:05) !K7 Records. Tag 870689. Added to the Air Order by DJ Stace (Oct. 28). Industrial, didgeridoo-led; pairs with Skinny Puppy at the end of Set 5. Library tag is the !K7 issue of Love's Secret Domain. FCC: UNVERIFIED: no lyrics posted on LRCLIB or Genius; mostly instrumental with a sample. Listen first.
+40. **Andy Shauf, "Satan"** (3:17) Anti-. Added to the Air Order by DJ Stace. Modern shadows. FCC: CLEAN (Genius, 126 words).
 
 ### Hour 2, Set 6: Reviewed albums in rotation
 
-40. **This Is Lorelei, "Billy Came Back"** (3:10) Matador Records. Tag 1156441. Reviewed rotation, week 3: four stars. NACC No. 12 the week of Oct. 1. FCC: DJ Stace review (Zookeeper, reviewed Oct. 4 to 15, 2026): no FCC flag on this track.
-41. **Sluice, "Overhead"** (3:57) Mtn Laurel Recording Co. Tag 1156485. Reviewed rotation, week 3: five stars. Beadie and Zillow already aired. FCC: DJ Stace review (Zookeeper, reviewed Oct. 4 to 15, 2026): no FCC flag on this track.
-42. **Palace, "Dream On"** (4:23) Awal. Tag 1156463. Reviewed rotation, week 3: four stars. Lead single from Ox. Library lists the label as Awal (Palace Presents is the band's own label). FCC: DJ Stace review (Zookeeper, reviewed Oct. 4 to 15, 2026): no FCC flag on this track.
-43. **Lex Walton, "Ultimate Love 4Ever"** (3:06) Sub Pop Records. Tag 1156519. Reviewed rotation, week 3: five stars. CD and LP out Nov. 20 on Sub Pop. FCC: DJ Stace review (Zookeeper, reviewed Oct. 4 to 15, 2026): no FCC flag on this track.
-44. **Sylvan Esso, "Flood Season"** (2:24) Psychic Hotline. Tag 1156542. Reviewed rotation, week 2: four stars. FCC: DJ Stace review (Zookeeper, reviewed Oct. 4 to 15, 2026): no FCC flag on this track.
-45. **Twisted Teens, "Hand Me A Cigarette"** (3:26) Chain Smoking Records. Tag 1156430. Reviewed rotation, week 3: five stars. FCC: DJ Stace review (Zookeeper, reviewed Oct. 4 to 15, 2026): no FCC flag on this track.
-46. **Tricky, "I Still See Me There"** (3:39) False Idols. Tag 1156496. Reviewed rotation, week 3: four stars. Described in the review as sinister and hypnotic. FCC: DJ Stace review (Zookeeper, reviewed Oct. 4 to 15, 2026): no FCC flag on this track.
-47. **Yard Act, "You're Gonna Need A Little Music"** (4:41) Republic Records. Tag 1156564. Reviewed rotation, week 2: five stars. FCC: DJ Stace review (Zookeeper, reviewed Oct. 4 to 15, 2026): no FCC flag on this track.
+41. **This Is Lorelei, "Billy Came Back"** (3:10) Matador Records. Tag 1156441. Reviewed rotation, week 3: four stars. NACC No. 12 the week of Oct. 1. FCC: DJ Stace review (Zookeeper, reviewed Oct. 4 to 15, 2026): no FCC flag on this track.
+42. **Sluice, "Overhead"** (3:57) Mtn Laurel Recording Co. Tag 1156485. Reviewed rotation, week 3: five stars. Beadie and Zillow already aired. FCC: DJ Stace review (Zookeeper, reviewed Oct. 4 to 15, 2026): no FCC flag on this track.
+43. **Palace, "Dream On"** (4:23) Awal. Tag 1156463. Reviewed rotation, week 3: four stars. Lead single from Ox. Library lists the label as Awal (Palace Presents is the band's own label). FCC: DJ Stace review (Zookeeper, reviewed Oct. 4 to 15, 2026): no FCC flag on this track.
+44. **Lex Walton, "Ultimate Love 4Ever"** (3:06) Sub Pop Records. Tag 1156519. Reviewed rotation, week 3: five stars. CD and LP out Nov. 20 on Sub Pop. FCC: DJ Stace review (Zookeeper, reviewed Oct. 4 to 15, 2026): no FCC flag on this track.
+45. **Sylvan Esso, "Flood Season"** (2:24) Psychic Hotline. Tag 1156542. Reviewed rotation, week 2: four stars. FCC: DJ Stace review (Zookeeper, reviewed Oct. 4 to 15, 2026): no FCC flag on this track.
+46. **Twisted Teens, "Hand Me A Cigarette"** (3:26) Chain Smoking Records. Tag 1156430. Reviewed rotation, week 3: five stars. FCC: DJ Stace review (Zookeeper, reviewed Oct. 4 to 15, 2026): no FCC flag on this track.
+47. **Tricky, "I Still See Me There"** (3:39) False Idols. Tag 1156496. Reviewed rotation, week 3: four stars. Described in the review as sinister and hypnotic. FCC: DJ Stace review (Zookeeper, reviewed Oct. 4 to 15, 2026): no FCC flag on this track.
+48. **Yard Act, "You're Gonna Need A Little Music"** (4:41) Republic Records. Tag 1156564. Reviewed rotation, week 2: five stars. FCC: DJ Stace review (Zookeeper, reviewed Oct. 4 to 15, 2026): no FCC flag on this track.
 
 ### Hour 2, Set 7: New, anniversary and novelty
 
-48. **Fake Names, "Punk Ruins"** (2:37) Epitaph Records. New: third album out Fri. Oct. 23 on Epitaph. Brian Baker, Michael Hampton, Dennis Lyxzen, Johnny Temple, Mario Rubalcaba. Punk focus. FCC: CLEAN (Genius, short; check by ear).
-49. **Mitski, "Your Best American Girl"** (3:33) Dead Oceans. Tag 1094475. Puberty 2 10th Anniversary Edition out Fri. Oct. 30 (Dead Oceans). FCC: CLEAN (LRCLIB).
-50. **Lera Lynn & Shovels & Rope, "Wolf Like Me (ft. Shovels & Rope)"** (4:06) Label: fill in at the studio. DJ Stace added it to Next Show Oct. 20 to 22. Cover of the TV on the Radio song; werewolf theme fits Halloween. Shovels & Rope are on her Weekly Playlist. FCC: CLEAN (Genius, 396 words).
-51. **Bobby "Boris" Pickett, "Monster Mash"** (3:13) Garpax. Novelty closer. FCC: CLEAN (LRCLIB).
-
-## Fill in at the studio
-
-- Lera Lynn & Shovels & Rope, "Wolf Like Me (ft. Shovels & Rope)"
+49. **Fake Names, "Punk Ruins"** (2:37) Epitaph Records. New: third album out Fri. Oct. 23 on Epitaph. Brian Baker, Michael Hampton, Dennis Lyxzen, Johnny Temple, Mario Rubalcaba. Punk focus. FCC: CLEAN (Genius, short; check by ear).
+50. **Mitski, "Your Best American Girl"** (3:33) Dead Oceans. Tag 1094475. Puberty 2 10th Anniversary Edition out Fri. Oct. 30 (Dead Oceans). FCC: CLEAN (LRCLIB).
+51. **Lera Lynn & Shovels & Rope, "Wolf Like Me (ft. Shovels & Rope)"** (4:06) Single Lock. DJ Stace added it to Next Show Oct. 20 to 22. Cover of the TV on the Radio song; werewolf theme fits Halloween. Shovels & Rope are on her Weekly Playlist. FCC: CLEAN (Genius, 396 words).
+52. **Bobby "Boris" Pickett, "Monster Mash"** (3:13) Garpax. Novelty closer. FCC: CLEAN (LRCLIB).
