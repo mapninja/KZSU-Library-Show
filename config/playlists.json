@@ -124,6 +124,18 @@
    "2026-10-08": "PLTkYqE8jtpXg",
    "2026-10-15": "PLa4ZjzLjQBsM",
    "2026-10-22": "PLY-VzuWmkIv8"
+  },
+  "one_hour_air_order_2026-10-29": {
+   "title": "DJ Stace library show Air Order (1 hr, Oct. 29)",
+   "id": "PLfydhmcD-HG8",
+   "order": "forward",
+   "mode": "one-off 1-hour show Oct. 29, 2026 (Stanford Sports preempts half the show); 15 tracks, 1:05:50; unlisted; picks from the One-Hour Picker sheet; do not overwrite the standard Air Order"
+  },
+  "one_hour_working_2026-10-29": {
+   "title": "DJ Stace library show working (1 hr, Oct. 29)",
+   "id": "PLWH3Pu97qBEg",
+   "order": "reversed",
+   "mode": "mirror of the 1-hour Air Order, reversed (play bottom-up); unlisted"
   }
  },
  "read_only_taste_sources": "see data/ytm/playlists.json",

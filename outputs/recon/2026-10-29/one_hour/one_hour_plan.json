@@ -1,0 +1,125 @@
+{
+ "show_date": "2026-10-29",
+ "note": "One-hour show (Stanford Sports preempts half the show). Picks from the One-Hour Picker Google Sheet 1B6AfvTlmC5sM4mNHhc8pBT_iKaKRtvT-m8bt0fsJzrU, read Oct. 29 ~4:10 p.m.",
+ "air_order": {
+  "id": "PLfydhmcD-HG8",
+  "title": "DJ Stace library show Air Order (1 hr, Oct. 29)",
+  "privacy": "UNLISTED"
+ },
+ "working": {
+  "id": "PLWH3Pu97qBEg",
+  "title": "DJ Stace library show working (1 hr, Oct. 29)",
+  "privacy": "UNLISTED",
+  "order": "reversed"
+ },
+ "picks_plan_positions": [
+  5,
+  7,
+  8,
+  11,
+  14,
+  15,
+  16,
+  20,
+  22,
+  27,
+  29,
+  31,
+  32,
+  33,
+  35
+ ],
+ "tracks": [
+  {
+   "artist": "Screamin' Jay Hawkins",
+   "track": "I Put a Spell on You",
+   "videoId": "JD-qp1HMMIc",
+   "duration": "2:25"
+  },
+  {
+   "artist": "Lera Lynn & Shovels & Rope",
+   "track": "Wolf Like Me (ft. Shovels & Rope)",
+   "videoId": "Lmyd9LTkpfk",
+   "duration": "4:06"
+  },
+  {
+   "artist": "The Flaming Lips",
+   "track": "God Will Control The Werewolves",
+   "videoId": "AIEU9qKbwQA",
+   "duration": "4:22"
+  },
+  {
+   "artist": "Lambrini Girls",
+   "track": "Cult of Celebrity",
+   "videoId": "qjf8SsATw84",
+   "duration": "2:14"
+  },
+  {
+   "artist": "Dread Spectre Council",
+   "track": "Raven",
+   "videoId": "KZkx50Y-Cyg",
+   "duration": "4:54"
+  },
+  {
+   "artist": "The Black Angels",
+   "track": "Young Men Dead",
+   "videoId": "gvLJZKdrDZ4",
+   "duration": "5:33"
+  },
+  {
+   "artist": "Black Rebel Motorcycle Club",
+   "track": "Beat the Devil's Tattoo",
+   "videoId": "Ay3Izb6sGAo",
+   "duration": "3:46"
+  },
+  {
+   "artist": "Andy Shauf",
+   "track": "Satan",
+   "videoId": "-VdWLfjBknk",
+   "duration": "3:17"
+  },
+  {
+   "artist": "Queens of the Stone Age",
+   "track": "Where the Goth Girls At?",
+   "videoId": "9jA_Bg_r_cw",
+   "duration": "3:29"
+  },
+  {
+   "artist": "Siouxsie and the Banshees",
+   "track": "Spellbound",
+   "videoId": "n_bXdEA6nSM",
+   "duration": "3:18"
+  },
+  {
+   "artist": "Interpol",
+   "track": "Evil",
+   "videoId": "uUOMQzQdU34",
+   "duration": "3:36"
+  },
+  {
+   "artist": "Talking Heads",
+   "track": "Psycho Killer",
+   "videoId": "NyaOYfpq9Fc",
+   "duration": "4:21"
+  },
+  {
+   "artist": "Coil",
+   "track": "Where Even the Darkness Is Something to See",
+   "videoId": "4DUkHIl7D1E",
+   "duration": "3:05"
+  },
+  {
+   "artist": "Alien Sex Fiend",
+   "track": "Now I'm Feeling Zombiefied",
+   "videoId": "yJ6LaqDDEHU",
+   "duration": "7:58"
+  },
+  {
+   "artist": "Black Sabbath",
+   "track": "Black Sabbath",
+   "videoId": "MOefQyJumI8",
+   "duration": "9:26"
+  }
+ ],
+ "total": "65:50"
+}
