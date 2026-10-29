@@ -96,7 +96,7 @@ function setTable(set, startNum, cumStart) {
     const changed = !!t.final_change;
     const fill = held ? RED_BG : changed ? CHANGE_BG : ri % 2 ? ZEBRA : undefined;
     const extra = held ? " FCC: " + t.fcc_note : (f.t === "CLEAN, check ear" ? " " + (t.fcc_note || "Check by ear.") : "");
-    const notes = (held ? "HELD OUT of Zookeeper CSV. " : "") + (changed ? "NEW (" + t.final_change + "). " : "") + (t.why || "") + extra;
+    const notes = (held ? "HELD OUT of Zookeeper CSV. " : "") + (changed ? "[" + t.final_change + "] " : "") + (t.why || "") + extra;
     return new TableRow({ cantSplit: true, children: [
       cell(num, W[0], { fill, bold: true, keepNext: kn }), cell(t.artist, W[1], { fill, bold: true, keepNext: kn }),
       cell(t.track, W[2], { fill, bold: true, size: 20, keepNext: kn }), cell(t.album || "-", W[3], { fill, keepNext: kn }),
@@ -109,52 +109,59 @@ function setTable(set, startNum, cumStart) {
 }
 
 
+
 // ---- build body ----
 const kids = [];
+const fmtMin = (s) => fmt(s);
 kids.push(new Paragraph({ spacing: { after: 40 }, children: [run("The Library with DJ Stace: Final Show Script", { size: 36, bold: true, color: NAVY })] }));
-kids.push(para("Thursday, Oct. 29, 2026  |  KZSU 90.1 FM  |  6-8 p.m. PT  |  Final built Wed. Oct. 28, 8 p.m.  |  Halloween specialty show (punk and post-punk arc, week 3 of 4)  |  Landscape table version  |  Request changes Thursday before air", { size: 18, color: "555555", after: 120 }));
+kids.push(para("Thursday, Oct. 29, 2026  |  KZSU 90.1 FM  |  6-8 p.m. PT  |  Rebuilt Thu. Oct. 29 after your Air Order edits  |  Halloween specialty show (punk and post-punk arc, week 3 of 4)  |  Landscape table version", { size: 18, color: "555555", after: 120 }));
 
 let num = 1, cum = 0; const built = [];
 for (const set of plan.sets) { const b = setTable(set, num, cum); num = b.nextNum; cum = b.cumEnd; built.push({ set, ...b }); }
 const total = cum;
 const h1 = built.filter((b) => /^Hour 1/.test(b.set.set)).reduce((a, b) => a + b.setSecs, 0);
+const ALL = plan.sets.flatMap((s) => s.tracks);
+const newTracks = ALL.filter((t) => t.source === "your_review_halloween");
+const newSecs = newTracks.reduce((a, t) => a + secs(t.duration), 0);
+const numOf = (t) => "#" + NN(t.artist, t.track.slice(0, 12));
+const listNew = newTracks.map((t) => `${numOf(t)} ${t.artist}, ${t.track}`).join("; ");
 
 kids.push(heading("Run of show", 26));
 kids.push(simpleTable([6200, 1500, 1800, 2400, 2500], ["Set", "Tracks", "Set time", "Track numbers", "Running total"],
   built.map((b) => { const first = b.nextNum - b.count, last = b.nextNum - 1; return [b.set.set, String(b.count), fmt(b.setSecs), `${first}-${last}`, fmt(b.cumEnd)]; })
     .concat([[{ t: "Total (airable)", bold: true }, { t: String(built.reduce((a, b) => a + b.count, 0)), bold: true }, { t: fmt(total), bold: true }, `Hour 1 ${fmt(h1)}, Hour 2 ${fmt(total - h1)}`, { t: "Target 2:30:00", bold: true }]])));
-kids.push(note("FCC column: green CLEAN, amber means listen first or check by ear, red means hold out. Tag is the KZSU library tag; a dash means not in the library. The list runs " + fmt(Math.max(0, total - 9000)) + " over the 2:30 target. Bench tracks (back page) are not in the Air Order."));
+kids.push(note(`FCC column: green CLEAN, amber means listen first or check by ear, red means hold out. Tag is the KZSU library tag; a dash means not in the library. Light blue rows are new since the Oct. 28 final. The list runs ${fmt(total)}. Without the ${newTracks.length} new tracks from your reviews it runs ${fmt(total - newSecs)}. Bench tracks (back pages) are not in the Air Order.`));
 
-kids.push(heading("What changed since the Oct. 27 draft", 24, 160));
+kids.push(heading("What changed since the Oct. 28 final", 24, 160));
 kids.push(simpleTable([2600, 11800], ["Change", "Detail"], [
-  [{ t: "Culled", bold: true }, "None. No Cull ticks in the Notes Sheet."],
+  [{ t: "Air Order read", bold: true }, "Read Thu. Oct. 29: 40 tracks (52 on Oct. 28). Your cuts and adds win. The Air Order keeps your order; this script groups the same tracks into themed sets."],
+  [{ t: "Culled by you (13)", bold: true, fill: RED_BG }, { t: "The Fall Retro Song; Queens of the Stone Age No One Knows; Bambara Steel Dust Ocean; Mitski Your Best American Girl; Bobby Pickett Monster Mash; and eight reviewed-rotation tracks: This Is Lorelei Billy Came Back, Sluice Overhead, Palace Dream On, Lex Walton Ultimate Love 4Ever, Sylvan Esso Flood Season, Twisted Teens Hand Me A Cigarette, Tricky I Still See Me There, Yard Act You're Gonna Need A Little Music. Out of the script, the Zookeeper CSV and the sheet.", fill: RED_BG }],
   [{ t: "Replaced", bold: true }, "None. No Replace ticks in the Notes Sheet."],
-  [{ t: "Added", bold: true, fill: CHANGE_BG }, { t: `${N("Coil", "Where")} Coil, Where Even the Darkness Is Something to See (3:05), added to your Air Order (#45) after the Oct. 27 sync. Placed in Set 5 after Skinny Puppy. FCC: no lyrics posted, so LISTEN FIRST.`, fill: CHANGE_BG }],
-  [{ t: "Placed", bold: true }, `Your ten tracks at the bottom of the Air Order (#43-52) sit in the sets that fit: Set 1 (${Nth("The Sonics", "The Witch", 1)} Sonics, ${N("The Kills", "I Put")} Kills), Set 3 (${N("Bauhaus", "Bela")} to ${N("Talking Heads", "Psycho")}), Set 5 (${N("Nick Cave and The Bad Seeds", "Up")} to ${N("Andy Shauf", "Satan")}). Reorder on the Air Order if you want a different run; your order wins.`],
-  [{ t: "Kept as is", bold: true }, `Both Sonics versions of The Witch stay in (${Nth("The Sonics", "The Witch", 0)} at 2:41 and ${Nth("The Sonics", "The Witch", 1)} at 2:48). Cut one on air if you want only one.`],
-  [{ t: "Labels and tags", bold: true }, "Filled from Zookeeper Oct. 28 for all ten added tracks. Library tags: Talking Heads 77, Rolling Stones Beggars Banquet (the library copy of the original LP), Sonics The Witch single, Coil Love's Secret Domain (!K7 issue). Not in the library: Kills, Nick Cave Tender Prey, Skinny Puppy Bites, Andy Shauf, Lera Lynn. Alien Sex Fiend label (Anagram Records) is not in the Zookeeper label table."],
-  [{ t: "Facts fixed", bold: true }, "Black Sabbath on Letterman Oct. 30, 1998 is confirmed (IMDb episode listing, Louder, Black Sabbath Online). Fake Names mic line now says Punk Ruins came out Oct. 23, not today."],
+  [{ t: "Added by you", bold: true, fill: CHANGE_BG }, { t: `${N("The Sisters Of Mercy", "This")} The Sisters of Mercy, This Corrosion (9:31). Goth set, Industrial and long-dark closer. Library copy is the compilation A Slight Case of Overbombing (tag 127022); label per Zookeeper is Elektra Records (Local). FCC: CLEAN (LRCLIB).`, fill: CHANGE_BG }],
+  [{ t: `New from your reviews (${newTracks.length})`, bold: true, fill: CHANGE_BG }, { t: `Halloween-themed tracks you already reviewed: ${listNew}. All are in the library with a tag. FCC status comes from your review. Added to the bottom of your Air Order so you can preview them.`, fill: CHANGE_BG }],
+  [{ t: "Rearranged", bold: true }, "Eight themed sets: horror-punk anthems, haunted covers, black and cats and fuzz, the devil's set (closes Hour 1), the Triple Shot, ghosts and graveyards, goth and post-punk, and an industrial and long-dark closer ending on Black Sabbath."],
+  [{ t: "Triple Shot", bold: true }, "Two songs after your cut of No One Knows. Third slot is open: put No One Knows back, or use Phantom Limb from Perfecth (FCC unverified, no lyrics posted)."],
+  [{ t: "Length", bold: true }, `All tracks: ${fmt(total)}. Without the new review picks: ${fmt(total - newSecs)}. You cull on air; the first cuts are the new picks, then the long closers (Bauhaus 9:37, Sabbath 9:26, This Corrosion 9:31, Alien Sex Fiend 7:58).`],
+  [{ t: "Kept as is", bold: true }, `Both Sonics versions of The Witch (${NN("The Sonics", "The Witch")} and the second one). Cut one on air if you want only one.`],
 ]));
 
 kids.push(heading("What is in this show", 24, 200));
 kids.push(simpleTable([2600, 11800], ["Item", "Detail"], [
   [{ t: "Theme", bold: true }, "Halloween specialty show. Punk and post-punk arc, week 3 of 4. The Triple Shot opens Hour 2."],
-  [{ t: "Length", bold: true }, `The list runs ${fmt(total)}, ${fmt(Math.max(0, total - 9000))} over the 2:30 target. You cull on Thursday. Bench tracks (back page) are the replacement pool.`],
-  [{ t: "Reviewed albums in rotation", bold: true }, "13 albums, one track each. Ten albums are in week 3 (posted Oct. 4 to 8); The Fall, Sylvan Esso and Yard Act are in week 2. Next show (Nov. 5) is week 4 for the first ten: about half. Table below."],
+  [{ t: "Your reviews on air", bold: true }, "12 reviewed tracks: Ty Segall, Dread Spectre Council, Twisted Teens and Little Barrie from the October rotation, plus the eight new picks. Table below. One track per album."],
   [{ t: "Triple Shot", bold: true }, `Queens of the Stone Age (${N("Queens of the Stone Age", "Where")}-${N("Queens of the Stone Age", "Burn")}). New single from Perfecth, out Fri. Oct. 30 on Matador. Easy Street stays out (cool-off to Dec. 8).`],
-  [{ t: "Punk and post-punk focus", bold: true }, `Set 3 (${N("Siouxsie and the Banshees", "Spell")}-${N("Talking Heads", "Psycho")}) plus Fake Names, Punk Ruins (${N("Fake Names", "Punk")}), out Oct. 23 on Epitaph. Killing Joke and Iceage are in cool-off.`],
+  [{ t: "Punk and post-punk focus", bold: true }, `Fuzz and punk in Set 3 (${N("Fake Names", "Punk")} Fake Names, ${N("So Pitted", "cat")} So Pitted), goth and post-punk in Set 7 (${N("Siouxsie and the Banshees", "Spell")}-${N("Talking Heads", "Psycho")}). Killing Joke and Iceage are in cool-off.`],
   [{ t: "Dropped", bold: true }, { t: "Death Valley Girls, Basic Witch: you deleted it from Weekly Oct. 9 (60-day cool-off to Dec. 8). Ministry Burned Out (shit x1), Black Lips Bad Kids (shit x1) and Tropical Fuck Storm stay out for FCC.", color: RED }],
   [{ t: "Ticket giveaway", bold: true }, "None placed. No sheet row lists Stace with a give-by date on or after Oct. 29. Katie Pruitt (Chapel, Oct. 29, listed DJ Mr Bones) gave by 10/28. Send a current row if you want one."],
-  [{ t: "Release timing", bold: true }, "Queens of the Stone Age, Ministry and Mitski (anniversary edition) all land Fri. Oct. 30, one day after the show. Say \"out tomorrow.\""],
+  [{ t: "Release timing", bold: true }, "Queens of the Stone Age and Ministry land Fri. Oct. 30, one day after the show. Say \"out tomorrow.\""],
 ]));
 
 kids.push(heading("Talk break: Today in music", 24, 200));
 kids.push(simpleTable([2600, 3300, 6000, 2500], ["Artist or place", "Item", "Fact", "In tonight's set"], [
-  ["Orson Welles", "War of the Worlds (Oct. 30, 1938)", "CBS aired it at 8 p.m. ET on The Mercury Theatre on the Air, Howard Koch script. The FCC investigated and found no law was broken. A radio story for a radio show.", "Intro for Set 5"],
-  ["Black Sabbath", "Reunion on Letterman (Oct. 30, 1998)", "All four original members played Paranoid on the Late Show. Confirmed by IMDb episode listing, Louder and Black Sabbath Online.", N("Black Sabbath", "Black Sabbath") + " Black Sabbath"],
+  ["Orson Welles", "War of the Worlds (Oct. 30, 1938)", "CBS aired it at 8 p.m. ET on The Mercury Theatre on the Air, Howard Koch script. The FCC investigated and found no law was broken. A radio story for a radio show.", "After the Triple Shot"],
+  ["Black Sabbath", "Reunion on Letterman (Oct. 30, 1998)", "All four original members played Paranoid on the Late Show. Confirmed by IMDb episode listing, Louder and Black Sabbath Online.", N("Black Sabbath", "Black Sabbath") + " Black Sabbath (closer)"],
   ["The Cure", "Roger O'Donnell birthday", "Born Oct. 29, 1955. Keyboards on Disintegration (1989). The library holds the Lullaby single.", N("The Cure", "Lullaby") + " Lullaby"],
   ["The Who", "My Generation (UK single, Oct. 29, 1965)", "Not in the set. Mention if you need filler.", "--"],
-  ["Mitski", "Puberty 2 turns 10", "10th Anniversary Edition out Fri. Oct. 30 on Dead Oceans.", N("Mitski", "Your") + " Your Best American Girl"],
 ]));
 kids.push(note("Focus calendar: goth and post-punk tonight, D.C. hardcore Nov. 5."));
 
@@ -162,27 +169,21 @@ kids.push(heading("Talk break: new and coming up", 24, 200));
 kids.push(simpleTable([2300, 3600, 2200, 2100, 4200], ["Artist", "Release", "Label", "Date", "In tonight's set"], [
   ["Queens of the Stone Age", "Perfecth (ninth album; Josh Homme and Michael Shuman produced)", "Matador", { t: "Fri. Oct. 30", bold: true }, `${N("Queens of the Stone Age", "Where")} Where the Goth Girls At? (Triple Shot)`],
   ["Ministry", "Hate to Go (Take Out or Delivery), final album", "Cleopatra", { t: "Fri. Oct. 30", bold: true }, `${N("Ministry", "Every")} Every Day Is Halloween`],
-  ["Mitski", "Puberty 2 10th Anniversary Edition", "Dead Oceans", { t: "Fri. Oct. 30", bold: true }, `${N("Mitski", "Your")} Your Best American Girl`],
   ["Fake Names", "Punk Ruins (third album)", "Epitaph", { t: "Fri. Oct. 23", bold: true }, `${N("Fake Names", "Punk")} Punk Ruins`],
   ["The Lemonheads with The Bevis Frond", "Roky (12-inch)", "Fire Records", { t: "Fri. Oct. 16", bold: true }, `${N("The Lemonheads", "Roky")} Roky`],
-  ["Twisted Teens", "The Holy Cross Tigers", "Sub Pop", { t: "Fri. Nov. 6", bold: true }, `${N("Twisted Teens", "Circus")} and ${N("Twisted Teens", "Hand")} (reviewed albums)`],
-  ["Lex Walton", "Ultimate Love Forever (CD and LP)", "Sub Pop", { t: "Fri. Nov. 20", bold: true }, `${N("Lex Walton", "Ultimate")} Ultimate Love 4Ever`],
+  ["Twisted Teens", "The Holy Cross Tigers", "Sub Pop", { t: "Fri. Nov. 6", bold: true }, `${N("Twisted Teens", "Circus")} Circus Clown (from Blame the Clown)`],
 ]));
 kids.push(spacer());
 
-kids.push(heading("Reviewed albums in rotation (last 10 weeks)", 24, 120));
-const REV = [
-  ["Ty Segall", "Chrome", "Oct. 8", "Black Paint", "5", "Black"], ["Dread Spectre Council", "Thetans", "Oct. 8", "Raven", "5", "Raven"],
-  ["Twisted Teens", "Blame the Clown", "Oct. 6", "Circus Clown", "4", "Circus"], ["Little Barrie", "Gravity Freeze", "Oct. 8", "It Isn't Soul", "3", "It Isn"],
-  ["The Fall", "Post Script", "Oct. 15", "Retro Song", "4", "Retro"], ["This Is Lorelei", "The Singer in My Band", "Oct. 8", "Billy Came Back", "4", "Billy"],
-  ["Sluice", "Companion", "Oct. 8", "Overhead", "5", "Overhead"], ["Palace", "Ox", "Oct. 8", "Dream On", "4", "Dream"],
-  ["Lex Walton", "Ultimate Love Forever", "Oct. 8", "Ultimate Love 4Ever", "5", "Ultimate"], ["Sylvan Esso", "Ow ∞", "Oct. 15", "Flood Season", "4", "Flood"],
-  ["Twisted Teens", "Florida Water Blues", "Oct. 8", "Hand Me A Cigarette", "5", "Hand"], ["Tricky", "Different When It's Silent", "Oct. 8", "I Still See Me There", "4", "I Still"],
-  ["Yard Act", "You're Gonna Need A Little Music", "Oct. 15", "You're Gonna Need A Little Music", "5", "You're"],
-];
-kids.push(simpleTable([2600, 3600, 1500, 3700, 1000, 2000], ["Artist", "Album", "Posted", "Track tonight", "Stars", "On air"],
-  REV.map((r) => [r[0], r[1], r[2], r[3], r[4], N(r[0], r[5])])));
-kids.push(note("Posted = date the review went into Zookeeper. Tracks aired in October were skipped: Play Cowboys, Separation, Hex's Up, Hooves & Cloves, More Bad Miles Of Road, Luggin' Hurt, Peekaboo Hand, Top Of The World Hwy No. 2, Oh No Now My, Hey Sarah, Don't You Cry in Lonesomeness, Beadie, Zillow, Made My Bed, Denny's, For Thee I Sing, Adrian Borland, Because I Don't Know, Concrete Glen, New Beginnings, Over The Barrel, 30 Degrees, A Caveat."));
+kids.push(heading("Your reviews on air tonight", 24, 120));
+const REVROWS = [
+  ["Ty Segall", "Chrome", "Oct. 8, 2026", "Black Paint", "5", N("Ty Segall", "Black")],
+  ["Dread Spectre Council", "Thetans", "Oct. 8, 2026", "Raven", "5", N("Dread Spectre Council", "Raven")],
+  ["Twisted Teens", "Blame the Clown", "Oct. 6, 2026", "Circus Clown", "4", N("Twisted Teens", "Circus")],
+  ["Little Barrie", "Gravity Freeze", "Oct. 8, 2026", "It Isn't Soul", "3", N("Little Barrie", "It Isn")],
+].concat(newTracks.map((t) => { const m = /^(\S+) stars? reviewed (.+)$/.exec(t.review || "") || []; return [t.artist, t.album, m[2] || "", t.track, m[1] === "unrated" ? "-" : (m[1] || "-"), numOf(t)]; }));
+kids.push(simpleTable([2600, 3600, 1700, 3400, 900, 2200], ["Artist", "Album", "Reviewed", "Track tonight", "Stars", "On air"], REVROWS));
+kids.push(note("Stars are your track-level stars from the review. So Pitted cat scratch has no star rating in the review. Cut from the rotation by you: Lorelei, Sluice, Palace, Lex Walton, Sylvan Esso, Twisted Teens Florida Water Blues, Tricky, Yard Act, The Fall."));
 kids.push(spacer());
 kids.push(micBreak("MIC BREAK: OPENING", mb("opening")));
 
@@ -191,7 +192,9 @@ kids.push(heading("HOUR 1", 30, 0, true));
 built.filter((b) => /^Hour 1/.test(b.set.set)).forEach((b) => {
   kids.push(b.table); kids.push(spacer());
   if (/Set 1/.test(b.set.set)) { kids.push(micBreak("MIC BREAK: AFTER SET 1 (HORROR-PUNK)", mb("after_set_1"))); kids.push(spacer()); }
-  if (/Set 3/.test(b.set.set)) { kids.push(micBreak("MIC BREAK: END OF HOUR 1", mb("end_hour_1").concat(["Tease: Thursday Triple Shot opens Hour 2: Queens of the Stone Age."]))); }
+  if (/Set 2/.test(b.set.set)) { kids.push(micBreak("MIC BREAK: AFTER SET 2 (COVERS)", mb("after_set_2"))); kids.push(spacer()); }
+  if (/Set 3/.test(b.set.set)) { kids.push(micBreak("MIC BREAK: AFTER SET 3 (FUZZ)", mb("after_set_3"))); kids.push(spacer()); }
+  if (/Set 4/.test(b.set.set)) { kids.push(micBreak("MIC BREAK: END OF HOUR 1", mb("end_hour_1"))); }
 });
 
 // ---- Hour 2 ----
@@ -210,7 +213,7 @@ built.filter((b) => !/^Hour 1/.test(b.set.set)).forEach((b) => {
     kids.push(micBreak("MIC BREAK: BAY AREA", mb("bay_area_break")));
     kids.push(spacer());
   }
-  if (/Set 7/.test(b.set.set)) { kids.push(micBreak("MIC BREAK: AFTER SET 7 (NEW, ANNIVERSARY AND NOVELTY)", mb("anniversary"))); kids.push(spacer()); }
+  if (/Set 7/.test(b.set.set)) { kids.push(micBreak("MIC BREAK: AFTER SET 7 (GOTH AND POST-PUNK)", mb("after_goth"))); kids.push(spacer()); }
 });
 kids.push(micBreak("MIC BREAK: CLOSING", mb("closing")));
 
@@ -218,11 +221,13 @@ kids.push(micBreak("MIC BREAK: CLOSING", mb("closing")));
 kids.push(heading("FCC watch list", 28, 0, true));
 const AMB = (t) => ({ t, color: AMBER, bold: true });
 kids.push(simpleTable([3200, 2400, 1500, 7300], ["Artist and track", "Status", "Where", "Action"], [
+  [{ t: "Coil, Where Even the Darkness Is Something to See", bold: true }, { t: "LISTEN FIRST", color: AMBER, bold: true }, N("Coil", "Where"), "No lyrics on LRCLIB or Genius. Mostly instrumental with a sample; confirm by ear."],
   [{ t: "Fake Names, Punk Ruins", bold: true }, AMB("CLEAN, check by ear"), N("Fake Names", "Punk"), "Genius lyrics are short. Confirm by ear."],
-  [{ t: "Coil, Where Even the Darkness Is Something to See", bold: true }, { t: "LISTEN FIRST", color: AMBER, bold: true }, N("Coil", "Where"), "New add. No lyrics on LRCLIB or Genius. Mostly instrumental with a sample; confirm by ear."],
-  [{ t: "Misfits, Halloween", bold: true }, AMB("CLEAN"), N("Misfits", "Halloween"), "Screened Oct. 15 (LRCLIB). 1:53."],
-  ["Your Air Order adds (10 tracks)", AMB("CLEAN (Genius)"), "Sets 1, 3, 5, 7", "Screened earlier by Genius word counts. No hits. Skinny Puppy Love is 40 words: confirm by ear."],
-  ["Reviewed-album tracks (13)", AMB("Per your review"), "Sets 2, 3, 6", "Your Zookeeper reviews list FCC words per track; none of these 13 has a flag."],
+  ["Skinny Puppy, Love", AMB("CLEAN, check by ear"), N("Skinny Puppy", "Love"), "Genius posts 40 words. Confirm by ear."],
+  [{ t: "Review picks with no lyrics posted", bold: true }, AMB("Per your review"), `${N("Angélica Garcia", "Lucifer")}, ${N("The Mars Volta", "Graveyard")}, ${N("A Giant Dog", "Black")}, ${N("So Pitted", "cat")}`, "Your reviews flag FCC words by track number; none of these four tracks is flagged. Confirm by ear if you have not played them in a while."],
+  ["Other new review picks (4)", AMB("CLEAN (LRCLIB)"), `${N("Adia Victoria", "Devil")}, ${N("L’epée", "Ghost")}, ${N("Black Pumas", "Black")}, ${N("Stef Chura", "Eyes")}`, "LRCLIB lyrics show no flagged words."],
+  ["The Sisters of Mercy, This Corrosion", AMB("CLEAN"), N("The Sisters Of Mercy", "This"), "LRCLIB, 662 words, no hits."],
+  ["Your other Air Order adds", AMB("CLEAN (Genius)"), "Sets 1, 2, 3, 4, 7, 8", "Screened earlier by Genius word counts. No hits."],
   ["Lera Lynn & Shovels & Rope, Wolf Like Me", AMB("CLEAN"), N("Lera Lynn & Shovels & Rope", "Wolf"), "Genius, 396 words, no hits."],
   ["Public Image Ltd., Swan Lake (Death Disco)", AMB("CLEAN"), N("Public Image Ltd.", "Swan"), "Genius, 142 words, no hits."],
   [{ t: "Ministry, Burned Out", bold: true }, { t: "shit x1", color: RED }, "Held out", "Every Day Is Halloween stands in."],
@@ -230,6 +235,19 @@ kids.push(simpleTable([3200, 2400, 1500, 7300], ["Artist and track", "Status", "
   ["Tropical Fuck Storm", { t: "fuck in the band name", color: RED }, "Held out", "Do not announce the name on air."],
   ["Queens of the Stone Age, Easy Street", { t: "Cool-off to Dec. 8", color: RED }, "Held out", "Deleted from Weekly Oct. 9. Not an FCC issue."],
   ["Death Valley Girls, Basic Witch", { t: "Cool-off to Dec. 8", color: RED }, "Dropped", "Deleted from Weekly Oct. 9. Not an FCC issue."],
+]));
+
+kids.push(heading("More Halloween picks from your reviews (not in the Air Order)", 28, 240));
+kids.push(note("Swap-ins if you want more. FCC comes from the flagged track numbers in your reviews; none of these tracks is flagged (the Death Song review lists no FCC line at all, so confirm Death March by ear). Dread Spectre Council tracks are the same album as Raven, so use one per show."));
+kids.push(simpleTable([2300, 3000, 3000, 2300, 1100, 1700, 1000], ["Artist", "Track", "Album", "Label", "Tag", "Reviewed", "Time"], [
+  ["Built to Spill", "Spiderweb", "When the Wind Forgets Your Name", "Sub Pop Records", "1148307", "Jan. 15, 2023", "5:24"],
+  ["The Black Angels", "Death March", "Death Song", "Partisan Records", "1107032", "May 8, 2017", "3:25"],
+  ["Dread Spectre Council", "Spiderette", "Thetans", "Handmade Records", "1156474", "Oct. 8, 2026", "4:21"],
+  ["Dread Spectre Council", "Evil Incarnate", "Thetans", "Handmade Records", "1156474", "Oct. 8, 2026", "2:37"],
+  ["L’epée", "La Brigade des Maléfices", "Diabolique", "A Recordings", "1139464", "Oct. 12, 2019", "-"],
+  ["The Mars Volta", "Blacklight Shine", "The Mars Volta", "Clouds Hill", "1148251", "Jan. 8, 2023", "-"],
+  ["Stef Chura", "Sweet Sweet Midnight", "Midnight", "Saddle Creek", "1135774", "July 5, 2019", "5:29"],
+  ["Twisted Teens", "Corpse Pose", "Blame the Clown", "Chain Smoking Records", "1156418", "Oct. 6, 2026", "1:02"],
 ]));
 
 kids.push(heading("Bench: extra tracks not in the Air Order", 28, 240));

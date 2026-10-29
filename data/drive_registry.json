@@ -300,16 +300,16 @@
    "retired": [],
    "hash": "8526a5bbd922c530f8b989290ae7f090",
    "title": "Library Show Final Playlist Notes Sheet 2026-10-29",
-   "note": "Wed. Oct. 28 final build: same Sheet as the Show Prep draft, patched in place (inserted Coil row, 52 rows, labels and tags for 10 Air Order adds) and moved to /KZSU/ top level. Link unchanged. No ticks to harvest (Cull and Replace empty, read 8 p.m.)."
+   "note": "Wed. Oct. 28 final build: same Sheet as the Show Prep draft, patched in place (inserted Coil row, 52 rows, labels and tags for 10 Air Order adds) and moved to /KZSU/ top level. Link unchanged. No ticks to harvest (Cull and Replace empty, read 8 p.m.). | Oct. 29: rows rewritten in place via Sheets API (48 rows, new set names, 8 new review picks, 13 culled rows removed). No ticks. Link unchanged."
   },
   "final_show_script_2026-10-29": {
    "id": null,
    "type": "docx+pdf (raw files)",
    "folder": "KZSU top",
-   "deployed": "2026-10-29T03:30Z",
+   "deployed": "2026-10-29T17:00Z",
    "working": "Working/final_show_script_2026-10-29.md (data record); Word and PDF at /KZSU/ top level and repo outputs/recon/2026-10-29/",
    "retired": [],
-   "note": "Landscape tables, 14 pages, 52 tracks, 3:21:50. Working Show Script Word and PDF moved to _to_delete."
+   "note": "Rebuilt Thu. Oct. 29 after Stace's Air Order cuts and adds: landscape tables, 15 pages, 48 tracks, 3:15:28, eight Halloween sets, eight reviewed Halloween picks. Replaced in place at /KZSU/ top level."
   },
   "zookeeper_csv_2026-10-29_final": {
    "id": null,
@@ -318,7 +318,7 @@
    "deployed": "2026-10-29T03:30Z",
    "working": "Working/library_show_playlist_2026-10-29.csv",
    "retired": [],
-   "note": "Raw CSV at /KZSU/ top level through Drive for desktop. 52 tracks, reversed, blank rows for mic breaks. Show Prep draft copy moved to _to_delete."
+   "note": "Rebuilt Oct. 29: 48 tracks, reversed (first row Black Sabbath, last row Every Day Is Halloween)."
   }
  },
  "folders": {
