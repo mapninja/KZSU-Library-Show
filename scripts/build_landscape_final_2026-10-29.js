@@ -114,7 +114,7 @@ function setTable(set, startNum, cumStart) {
 const kids = [];
 const fmtMin = (s) => fmt(s);
 kids.push(new Paragraph({ spacing: { after: 40 }, children: [run("The Library with DJ Stace: Final Show Script", { size: 36, bold: true, color: NAVY })] }));
-kids.push(para("Thursday, Oct. 29, 2026  |  KZSU 90.1 FM  |  6-8 p.m. PT  |  Rebuilt Thu. Oct. 29 after your Air Order edits  |  Halloween specialty show (punk and post-punk arc, week 3 of 4)  |  Landscape table version", { size: 18, color: "555555", after: 120 }));
+kids.push(para("Thursday, Oct. 29, 2026  |  KZSU 90.1 FM  |  6-8 p.m. PT  |  Rebuilt Thu. Oct. 29 after your Air Order edits (55 tracks)  |  Halloween specialty show (punk and post-punk arc, week 3 of 4)  |  Landscape table version", { size: 18, color: "555555", after: 120 }));
 
 let num = 1, cum = 0; const built = [];
 for (const set of plan.sets) { const b = setTable(set, num, cum); num = b.nextNum; cum = b.cumEnd; built.push({ set, ...b }); }
@@ -137,10 +137,11 @@ kids.push(simpleTable([2600, 11800], ["Change", "Detail"], [
   [{ t: "Air Order read", bold: true }, "Read Thu. Oct. 29: 40 tracks (52 on Oct. 28). Your cuts and adds win. The Air Order keeps your order; this script groups the same tracks into themed sets."],
   [{ t: "Culled by you (13)", bold: true, fill: RED_BG }, { t: "The Fall Retro Song; Queens of the Stone Age No One Knows; Bambara Steel Dust Ocean; Mitski Your Best American Girl; Bobby Pickett Monster Mash; and eight reviewed-rotation tracks: This Is Lorelei Billy Came Back, Sluice Overhead, Palace Dream On, Lex Walton Ultimate Love 4Ever, Sylvan Esso Flood Season, Twisted Teens Hand Me A Cigarette, Tricky I Still See Me There, Yard Act You're Gonna Need A Little Music. Out of the script, the Zookeeper CSV and the sheet.", fill: RED_BG }],
   [{ t: "Replaced", bold: true }, "None. No Replace ticks in the Notes Sheet."],
-  [{ t: "Added by you", bold: true, fill: CHANGE_BG }, { t: `${N("The Sisters Of Mercy", "This")} The Sisters of Mercy, This Corrosion (9:31). Goth set, Industrial and long-dark closer. Library copy is the compilation A Slight Case of Overbombing (tag 127022); label per Zookeeper is Elektra Records (Local). FCC: CLEAN (LRCLIB).`, fill: CHANGE_BG }],
+  [{ t: "Added by you", bold: true, fill: CHANGE_BG }, { t: `${N("The Sisters Of Mercy", "This")} The Sisters of Mercy, This Corrosion (9:31; library copy is the compilation A Slight Case of Overbombing, tag 127022). Added Oct. 29 after the first rebuild: ${N("Dread Spectre Council", "Hex")} Dread Spectre Council, Hex's Up; ${N("The Flaming Lips", "God")} The Flaming Lips, God Will Control The Werewolves (Third Man, not in the library); ${N("BODEGA", "Fear")} Bodega, Fear not the Fear (listen first, no lyrics posted); ${N("Lambrini Girls", "Cult")} Lambrini Girls, Cult of Celebrity (City Slang, not in the library).`, fill: CHANGE_BG }],
+  [{ t: "Triple Shot options", bold: true, fill: CHANGE_BG }, { t: `You asked for the Queens options. All three are in the Air Order and the Triple Shot set: ${N("Queens of the Stone Age", "Monsters")} Monsters in the Parasol (Rated R, 2000), ${N("Queens of the Stone Age", "If I")} If I Had a Tail (...Like Clockwork, 2013), ${N("Queens of the Stone Age", "Hangin")} Hangin' Tree (Songs for the Deaf, 2002). LRCLIB shows no flagged words in any of them. Pick one for the third song and cut the other two; the totals below count all three.`, fill: CHANGE_BG }],
   [{ t: `New from your reviews (${newTracks.length})`, bold: true, fill: CHANGE_BG }, { t: `Halloween-themed tracks you already reviewed: ${listNew}. All are in the library with a tag. FCC status comes from your review. Added to the bottom of your Air Order so you can preview them.`, fill: CHANGE_BG }],
   [{ t: "Rearranged", bold: true }, "Eight themed sets: horror-punk anthems, haunted covers, black and cats and fuzz, the devil's set (closes Hour 1), the Triple Shot, ghosts and graveyards, goth and post-punk, and an industrial and long-dark closer ending on Black Sabbath."],
-  [{ t: "Triple Shot", bold: true }, "Two songs after your cut of No One Knows. Third slot is open: put No One Knows back, or use Phantom Limb from Perfecth (FCC unverified, no lyrics posted)."],
+  [{ t: "Triple Shot", bold: true }, `${N("Queens of the Stone Age", "Where")} Where the Goth Girls At? and ${N("Queens of the Stone Age", "Burn")} Burn the Witch are set. The third song is your pick from the three options above (${N("Queens of the Stone Age", "Monsters")}, ${N("Queens of the Stone Age", "If I")}, ${N("Queens of the Stone Age", "Hangin")}).`],
   [{ t: "Length", bold: true }, `All tracks: ${fmt(total)}. Without the new review picks: ${fmt(total - newSecs)}. You cull on air; the first cuts are the new picks, then the long closers (Bauhaus 9:37, Sabbath 9:26, This Corrosion 9:31, Alien Sex Fiend 7:58).`],
   [{ t: "Kept as is", bold: true }, `Both Sonics versions of The Witch (${NN("The Sonics", "The Witch")} and the second one). Cut one on air if you want only one.`],
 ]));
@@ -148,8 +149,8 @@ kids.push(simpleTable([2600, 11800], ["Change", "Detail"], [
 kids.push(heading("What is in this show", 24, 200));
 kids.push(simpleTable([2600, 11800], ["Item", "Detail"], [
   [{ t: "Theme", bold: true }, "Halloween specialty show. Punk and post-punk arc, week 3 of 4. The Triple Shot opens Hour 2."],
-  [{ t: "Your reviews on air", bold: true }, "12 reviewed tracks: Ty Segall, Dread Spectre Council, Twisted Teens and Little Barrie from the October rotation, plus the eight new picks. Table below. One track per album."],
-  [{ t: "Triple Shot", bold: true }, `Queens of the Stone Age (${N("Queens of the Stone Age", "Where")}-${N("Queens of the Stone Age", "Burn")}). New single from Perfecth, out Fri. Oct. 30 on Matador. Easy Street stays out (cool-off to Dec. 8).`],
+  [{ t: "Your reviews on air", bold: true }, "13 reviewed tracks: Ty Segall, Dread Spectre Council (Raven and your add Hex's Up), Twisted Teens and Little Barrie from the October rotation, plus the eight new picks. Table below."],
+  [{ t: "Triple Shot", bold: true }, `Queens of the Stone Age (${N("Queens of the Stone Age", "Where")}-${N("Queens of the Stone Age", "Hangin")}). New single from Perfecth, out Fri. Oct. 30 on Matador. Third song is your pick of three options. Easy Street stays out (cool-off to Dec. 8).`],
   [{ t: "Punk and post-punk focus", bold: true }, `Fuzz and punk in Set 3 (${N("Fake Names", "Punk")} Fake Names, ${N("So Pitted", "cat")} So Pitted), goth and post-punk in Set 7 (${N("Siouxsie and the Banshees", "Spell")}-${N("Talking Heads", "Psycho")}). Killing Joke and Iceage are in cool-off.`],
   [{ t: "Dropped", bold: true }, { t: "Death Valley Girls, Basic Witch: you deleted it from Weekly Oct. 9 (60-day cool-off to Dec. 8). Ministry Burned Out (shit x1), Black Lips Bad Kids (shit x1) and Tropical Fuck Storm stay out for FCC.", color: RED }],
   [{ t: "Ticket giveaway", bold: true }, "None placed. No sheet row lists Stace with a give-by date on or after Oct. 29. Katie Pruitt (Chapel, Oct. 29, listed DJ Mr Bones) gave by 10/28. Send a current row if you want one."],
@@ -179,6 +180,7 @@ kids.push(heading("Your reviews on air tonight", 24, 120));
 const REVROWS = [
   ["Ty Segall", "Chrome", "Oct. 8, 2026", "Black Paint", "5", N("Ty Segall", "Black")],
   ["Dread Spectre Council", "Thetans", "Oct. 8, 2026", "Raven", "5", N("Dread Spectre Council", "Raven")],
+  ["Dread Spectre Council", "Thetans", "Oct. 8, 2026", "Hex's Up (your add; two tracks from one album)", "5", N("Dread Spectre Council", "Hex")],
   ["Twisted Teens", "Blame the Clown", "Oct. 6, 2026", "Circus Clown", "4", N("Twisted Teens", "Circus")],
   ["Little Barrie", "Gravity Freeze", "Oct. 8, 2026", "It Isn't Soul", "3", N("Little Barrie", "It Isn")],
 ].concat(newTracks.map((t) => { const m = /^(\S+) stars? reviewed (.+)$/.exec(t.review || "") || []; return [t.artist, t.album, m[2] || "", t.track, m[1] === "unrated" ? "-" : (m[1] || "-"), numOf(t)]; }));
@@ -227,6 +229,10 @@ kids.push(simpleTable([3200, 2400, 1500, 7300], ["Artist and track", "Status", "
   [{ t: "Review picks with no lyrics posted", bold: true }, AMB("Per your review"), `${N("Angélica Garcia", "Lucifer")}, ${N("The Mars Volta", "Graveyard")}, ${N("A Giant Dog", "Black")}, ${N("So Pitted", "cat")}`, "Your reviews flag FCC words by track number; none of these four tracks is flagged. Confirm by ear if you have not played them in a while."],
   ["Other new review picks (4)", AMB("CLEAN (LRCLIB)"), `${N("Adia Victoria", "Devil")}, ${N("L’epée", "Ghost")}, ${N("Black Pumas", "Black")}, ${N("Stef Chura", "Eyes")}`, "LRCLIB lyrics show no flagged words."],
   ["The Sisters of Mercy, This Corrosion", AMB("CLEAN"), N("The Sisters Of Mercy", "This"), "LRCLIB, 662 words, no hits."],
+  [{ t: "Bodega, Fear not the Fear", bold: true }, { t: "LISTEN FIRST", color: AMBER, bold: true }, N("BODEGA", "Fear"), "New add. No lyrics posted. The review template flags FCC words only on the title track (fuck x2), which is not in the set. Confirm this one by ear."],
+  ["Queens Triple Shot options (3)", AMB("CLEAN (LRCLIB)"), `${N("Queens of the Stone Age", "Monsters")}, ${N("Queens of the Stone Age", "If I")}, ${N("Queens of the Stone Age", "Hangin")}`, "LRCLIB: 191, 201 and 123 words, no flagged words."],
+  ["Lambrini Girls, Cult of Celebrity", AMB("CLEAN (LRCLIB)"), N("Lambrini Girls", "Cult"), "LRCLIB, 224 words, no hits. Band is known for strong language; the earlier single The Basement has shit x3."],
+  ["Flaming Lips, God Will Control The Werewolves", AMB("CLEAN (Genius)"), N("The Flaming Lips", "God"), "Genius, 155 words, no hits."],
   ["Your other Air Order adds", AMB("CLEAN (Genius)"), "Sets 1, 2, 3, 4, 7, 8", "Screened earlier by Genius word counts. No hits."],
   ["Lera Lynn & Shovels & Rope, Wolf Like Me", AMB("CLEAN"), N("Lera Lynn & Shovels & Rope", "Wolf"), "Genius, 396 words, no hits."],
   ["Public Image Ltd., Swan Lake (Death Disco)", AMB("CLEAN"), N("Public Image Ltd.", "Swan"), "Genius, 142 words, no hits."],

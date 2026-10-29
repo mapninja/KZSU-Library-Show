@@ -233,6 +233,24 @@
      "zk_checked": "2026-10-28"
     },
     {
+     "artist": "The Flaming Lips",
+     "track": "God Will Control The Werewolves",
+     "album": "The Teardrop Throbs",
+     "label": "Third Man Records",
+     "label_source": "zookeeper label table (Third Man Records); album not in library",
+     "tag": "",
+     "released": "2026-10-26 (verify)",
+     "why": "Added to the Air Order by DJ Stace (Oct. 29). Werewolf title. Album announced Oct. 26, due in January on Third Man (verify), the first without Steven Drozd. Not in the library yet.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, 155 words)",
+     "priority": "O",
+     "source": "added_by_stace",
+     "added_by": "DJ Stace",
+     "final_change": "ADDED Oct. 29",
+     "videoId": "AIEU9qKbwQA",
+     "duration": "4:22"
+    },
+    {
      "artist": "Stef Chura",
      "track": "Eyes Without a Face",
      "album": "Midnight",
@@ -331,6 +349,24 @@
      "videoId": "D4S-TxPpaI8"
     },
     {
+     "artist": "Lambrini Girls",
+     "track": "Cult of Celebrity",
+     "album": "Cult of Celebrity (single)",
+     "label": "City Slang",
+     "label_source": "zookeeper label table (City Slang); single not in library",
+     "tag": "",
+     "released": "2026-03-31",
+     "why": "Added to the Air Order by DJ Stace (Oct. 29). UK punk single, first new music since the 2025 album Who Let The Dogs Out. Not in the library yet. Date and label: Bandcamp, Apple Music, Qobuz.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (LRCLIB, 224 words)",
+     "priority": "O",
+     "source": "added_by_stace",
+     "added_by": "DJ Stace",
+     "final_change": "ADDED Oct. 29",
+     "videoId": "qjf8SsATw84",
+     "duration": "2:14"
+    },
+    {
      "artist": "Thee Oh Sees",
      "track": "Dead Man's Gun",
      "album": "A Weird Exits",
@@ -397,6 +433,24 @@
      "fcc_note": "DJ Stace review (Zookeeper, reviewed Oct. 4 to 15, 2026): no FCC flag on this track.",
      "source": "review rotation",
      "videoId": "KZkx50Y-Cyg"
+    },
+    {
+     "artist": "Dread Spectre Council",
+     "track": "Hex's Up",
+     "album": "Thetans",
+     "label": "Handmade Records",
+     "label_source": "zookeeper album",
+     "tag": "1156474",
+     "released": "2026-03-29",
+     "why": "Added to the Air Order by DJ Stace (Oct. 29). Your review: 5 stars, 'play this one,' heir to Swervedriver. Aired earlier in October. Same album as Raven.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "DJ Stace review (Zookeeper, reviewed Oct. 8, 2026): no FCC flag on this track.",
+     "priority": "O",
+     "source": "added_by_stace",
+     "added_by": "DJ Stace",
+     "final_change": "ADDED Oct. 29",
+     "videoId": "500HxYQej8I",
+     "duration": "3:50"
     },
     {
      "artist": "The Black Angels",
@@ -600,6 +654,60 @@
      "source": "specialty/halloween",
      "videoId": "ZYydAkq6nTc",
      "duration": "3:36"
+    },
+    {
+     "artist": "Queens of the Stone Age",
+     "track": "Monsters in the Parasol",
+     "album": "R",
+     "label": "Interscope Records",
+     "label_source": "zookeeper album",
+     "tag": "555656",
+     "released": "2000",
+     "why": "Triple Shot option A (pick one for the third song). From Rated R (2000); the library lists the album as R. The monsters track.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (LRCLIB, 191 words)",
+     "priority": "O",
+     "source": "triple_shot_option",
+     "added_by": "Claude (DJ Stace request, Oct. 29)",
+     "final_change": "TRIPLE SHOT OPTION A",
+     "videoId": "LRRPeOBygG8",
+     "duration": "3:28"
+    },
+    {
+     "artist": "Queens of the Stone Age",
+     "track": "If I Had a Tail",
+     "album": "...Like Clockwork",
+     "label": "Matador Records",
+     "label_source": "zookeeper album",
+     "tag": "1038181",
+     "released": "2013",
+     "why": "Triple Shot option B (pick one for the third song). From ...Like Clockwork (2013, Matador).",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (LRCLIB, 201 words)",
+     "priority": "O",
+     "source": "triple_shot_option",
+     "added_by": "Claude (DJ Stace request, Oct. 29)",
+     "final_change": "TRIPLE SHOT OPTION B",
+     "videoId": "Ymnwa6RX5F4",
+     "duration": "4:56"
+    },
+    {
+     "artist": "Queens of the Stone Age",
+     "track": "Hangin' Tree",
+     "album": "Songs for the Deaf",
+     "label": "Interscope Records",
+     "label_source": "zookeeper album",
+     "tag": "670294",
+     "released": "2002",
+     "why": "Triple Shot option C (pick one for the third song). From Songs for the Deaf (2002), the same album as No One Knows. YTM lists it as Hanging Tree.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (LRCLIB, 123 words)",
+     "priority": "O",
+     "source": "triple_shot_option",
+     "added_by": "Claude (DJ Stace request, Oct. 29)",
+     "final_change": "TRIPLE SHOT OPTION C",
+     "videoId": "473wEdL_GzU",
+     "duration": "3:07"
     }
    ]
   },
@@ -784,6 +892,24 @@
      "duration": "3:42"
     },
     {
+     "artist": "BODEGA",
+     "track": "Fear not the Fear",
+     "album": "All Inside Aquarium",
+     "label": "Chrysalis Records (not in ZK)",
+     "label_source": "review shelf (Chrysalis Records); not in Zookeeper label table",
+     "tag": "",
+     "released": "2026-10-09",
+     "why": "Added to the Air Order by DJ Stace (Oct. 29). Reverbed, shimmering guitars that grow more psychedelic (Glide, SPIN, per the review template). Album out Oct. 9. Not in the library yet.",
+     "fcc_status": "UNVERIFIED",
+     "fcc_note": "UNVERIFIED: no lyrics posted. The review template flags FCC words only on the title track (fuck x2). Listen first.",
+     "priority": "O",
+     "source": "added_by_stace",
+     "added_by": "DJ Stace",
+     "final_change": "ADDED Oct. 29",
+     "videoId": "u-OCkJD78Ec",
+     "duration": "4:48"
+    },
+    {
      "artist": "Talking Heads",
      "track": "Psycho Killer",
      "album": "Talking Heads: 77",
@@ -922,7 +1048,7 @@
  ],
  "triple_shot": {
   "artist": "Queens of the Stone Age",
-  "angle": "New single Where the Goth Girls At? from Perfecth (out Fri. Oct. 30, Matador; nine tracks, produced by Josh Homme and Michael Shuman) and the Halloween-titled Burn the Witch. You cut No One Knows, so this is a two-song run; the third slot is open (No One Knows or Phantom Limb from Perfecth). Easy Street stays out (cool-off to Dec. 8).",
+  "angle": "Where the Goth Girls At? (new single from Perfecth, out Fri. Oct. 30, Matador; nine tracks, produced by Josh Homme and Michael Shuman) and Burn the Witch are set. Pick ONE of three options for the third song: A Monsters in the Parasol (Rated R, 2000), B If I Had a Tail (...Like Clockwork, 2013), C Hangin' Tree (Songs for the Deaf, 2002). All are in your Air Order. Easy Street stays out (cool-off to Dec. 8).",
   "tracks": [
    {
     "artist": "Queens of the Stone Age",
@@ -933,6 +1059,21 @@
     "artist": "Queens of the Stone Age",
     "track": "Burn the Witch",
     "videoId": "ZYydAkq6nTc"
+   },
+   {
+    "artist": "Queens of the Stone Age",
+    "track": "Monsters in the Parasol",
+    "videoId": "LRRPeOBygG8"
+   },
+   {
+    "artist": "Queens of the Stone Age",
+    "track": "If I Had a Tail",
+    "videoId": "Ymnwa6RX5F4"
+   },
+   {
+    "artist": "Queens of the Stone Age",
+    "track": "Hangin' Tree",
+    "videoId": "473wEdL_GzU"
    }
   ],
   "history_check": "Not in the last 8 Triple Shot artists (Teenage Fanclub Oct. 8, Fontaines D.C. Oct. 15, The Damned Oct. 22)."
@@ -1075,12 +1216,14 @@
   ],
   "after_set_2": [
    "Screamin' Jay Hawkins recorded I Put a Spell on You in 1956. The Kills' version was recorded in 2009 and came out in 2020 on Domino.",
-   "Wolf Like Me is a TV on the Radio song; Lera Lynn and Shovels & Rope cover it. Eyes Without a Face is a Billy Idol song, named for a 1960 French horror film; Stef Chura covers it on Midnight (Saddle Creek). Black Mirror is an Arcade Fire song, covered by A Giant Dog."
+   "Wolf Like Me is a TV on the Radio song; Lera Lynn and Shovels & Rope cover it. Eyes Without a Face is a Billy Idol song, named for a 1960 French horror film; Stef Chura covers it on Midnight (Saddle Creek). Black Mirror is an Arcade Fire song, covered by A Giant Dog.",
+   "The Flaming Lips announced The Teardrop Throbs Oct. 26, due in January on Third Man (verify). It is the first Lips album without Steven Drozd. God Will Control the Werewolves is the first track out."
   ],
   "after_set_3": [
    "Black Paint is from Ty Segall's Chrome (Drag City). So Pitted's cat scratch is from Neo on Sub Pop (2016).",
    "Fake Names released Punk Ruins Oct. 23 on Epitaph. Recorded in five days at Electrical Audio in Chicago.",
-   "Twisted Teens: The Holy Cross Tigers is out Nov. 6 on Sub Pop."
+   "Twisted Teens: The Holy Cross Tigers is out Nov. 6 on Sub Pop.",
+   "Lambrini Girls released Cult of Celebrity Mar. 31 on City Slang, their first new music since the 2025 album Who Let The Dogs Out."
   ],
   "end_hour_1": [
    "Adia Victoria, Angelica Garcia, Andy Shauf, Nick Cave and the Stones, all talking to the devil.",
@@ -1088,7 +1231,7 @@
   ],
   "triple_shot_intro": [
    "Thursday Triple Shot: Queens of the Stone Age. Perfecth, the band's ninth album, is out Fri. Oct. 30 on Matador. Josh Homme and Michael Shuman produced it.",
-   "Where the Goth Girls At? is the new single. Burn the Witch is from Lullabies to Paralyze (2005)."
+   "Where the Goth Girls At? is the new single. Burn the Witch is from Lullabies to Paralyze (2005). Third song: Monsters in the Parasol (Rated R, 2000), If I Had a Tail (...Like Clockwork, 2013) or Hangin' Tree (Songs for the Deaf, 2002)."
   ],
   "after_triple_shot": [
    "On Oct. 30, 1938, CBS aired Orson Welles' War of the Worlds on The Mercury Theatre on the Air. The FCC investigated afterward and found no law was broken."
@@ -2126,16 +2269,16 @@
   "built": "2026-10-29",
   "cull_ticks": [],
   "replace_ticks": [],
-  "notes": "Thu. Oct. 29 rebuild at Stace's request. Air Order read back: 40 tracks (was 52). She cut 13: The Fall Retro Song, QOTSA No One Knows, Bambara, the eight reviewed-rotation tracks (Billy Came Back, Overhead, Dream On, Ultimate Love 4Ever, Flood Season, Hand Me A Cigarette, I Still See Me There, You're Gonna Need A Little Music), Mitski and Monster Mash. She added The Sisters Of Mercy, This Corrosion, and reordered the bottom of the list. Plan rebuilt into eight Halloween sets and eight Halloween-themed tracks from her reviews added at the bottom of the Air Order."
+  "notes": "Thu. Oct. 29 rebuild at Stace's request. Air Order read back: 40 tracks (was 52). She cut 13: The Fall Retro Song, QOTSA No One Knows, Bambara, the eight reviewed-rotation tracks (Billy Came Back, Overhead, Dream On, Ultimate Love 4Ever, Flood Season, Hand Me A Cigarette, I Still See Me There, You're Gonna Need A Little Music), Mitski and Monster Mash. She added The Sisters Of Mercy, This Corrosion, and reordered the bottom of the list. Plan rebuilt into eight Halloween sets and eight Halloween-themed tracks from her reviews added at the bottom of the Air Order. | Oct. 29 later: she asked for Queens options. Added Monsters in the Parasol, If I Had a Tail and Hangin' Tree to the Air Order and the Triple Shot set (pick one). She also added Hex's Up, God Will Control the Werewolves, Fear not the Fear and Cult of Celebrity to the Air Order; placed in Sets 2, 3 and 7. Air Order now 55 tracks."
  },
  "ytm_air_order": {
   "name": "DJ Stace library show Air Order",
   "id": "PLSosF7JAIkaM",
   "url": "https://music.youtube.com/playlist?list=PLSosF7JAIkaM",
   "order": "forward",
-  "tracks": 48,
+  "tracks": 55,
   "built": "2026-10-22",
-  "verified": "Oct. 22 (late): rewritten by deltas (42 added, 55 removed in three edit_playlist calls); verified by page reload: 42 tracks, 2:34, order equals the plan. | Oct. 27: read back 51 tracks; Stace appended 9 (Sonics alt, Bauhaus, Talking Heads, Nick Cave, Skinny Puppy, Stones, Kills, Alien Sex Fiend, Andy Shauf); no removals. Runtime now about 3:18. | Oct. 28: read back 52 tracks; one new add (Coil, #45); no removals; not rewritten by Claude. | Oct. 29: read back 40 tracks; 8 reviewed Halloween tracks appended; 48 tracks verified by reload."
+  "verified": "Oct. 22 (late): rewritten by deltas (42 added, 55 removed in three edit_playlist calls); verified by page reload: 42 tracks, 2:34, order equals the plan. | Oct. 27: read back 51 tracks; Stace appended 9 (Sonics alt, Bauhaus, Talking Heads, Nick Cave, Skinny Puppy, Stones, Kills, Alien Sex Fiend, Andy Shauf); no removals. Runtime now about 3:18. | Oct. 28: read back 52 tracks; one new add (Coil, #45); no removals; not rewritten by Claude. | Oct. 29: read back 40 tracks; 8 reviewed Halloween tracks appended; 48 tracks verified by reload. | Oct. 29 later: appended 3 Queens options; she added 4 more; 55 tracks verified by reload."
  },
  "air_order_note": "Oct. 22: the Oct. 22 show list was replaced by the Oct. 29 draft. Adds went in forward air order, then the old rows were removed; no moves needed. Bench tracks are not in the Air Order. Oct. 27: Stace appended 9 tracks at the bottom of the Air Order. They are placed in Sets 1, 3 and 5 in the plan (the playlist order is hers to arrange). The Sonics \"The Witch\" now appears twice."
 }
