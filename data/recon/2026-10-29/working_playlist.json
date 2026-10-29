@@ -82,10 +82,11 @@
      "why": "Single 1979; on Walk Among Us (1982).",
      "fcc_status": "CLEAN",
      "fcc_note": "CLEAN (LRCLIB)",
-     "priority": "R",
+     "priority": "CUT",
      "source": "specialty/halloween",
      "videoId": "2cDvymU9D-M",
-     "duration": "1:58"
+     "duration": "1:58",
+     "cut_by": "DJ Stace (Working playlist, read Oct. 29)"
     },
     {
      "artist": "The Cramps",
@@ -112,7 +113,7 @@
      "label_source": "zookeeper label table",
      "tag": "",
      "released": "1981",
-     "why": "Sets up the Lemonheads tribute.",
+     "why": "",
      "fcc_status": "CLEAN",
      "fcc_note": "CLEAN (LRCLIB)",
      "priority": "R",
@@ -131,10 +132,11 @@
      "why": "New: 12-inch out Oct. 16 on Fire Records.",
      "fcc_status": "CLEAN",
      "fcc_note": "CLEAN (LRCLIB)",
-     "priority": "R",
+     "priority": "CUT",
      "source": "specialty/halloween",
      "videoId": "hfY_ED9xAnw",
-     "duration": "3:03"
+     "duration": "3:03",
+     "cut_by": "DJ Stace (Working playlist, read Oct. 29)"
     }
    ]
   },
@@ -188,10 +190,11 @@
      "why": "Tacoma garage, 1965.",
      "fcc_status": "CLEAN",
      "fcc_note": "CLEAN (LRCLIB)",
-     "priority": "R",
+     "priority": "CUT",
      "source": "specialty/halloween",
      "videoId": "HGBsxpnRhMk",
-     "duration": "2:41"
+     "duration": "2:41",
+     "cut_by": "DJ Stace (Working playlist, read Oct. 29)"
     },
     {
      "artist": "The Sonics",
@@ -204,13 +207,14 @@
      "why": "Second version of The Witch (YTM plays the Maintaining My Cool recording). Both versions are in your Air Order; cut one on air if you want only one.",
      "fcc_status": "CLEAN",
      "fcc_note": "CLEAN (Genius, 176 words)",
-     "priority": "O",
+     "priority": "CUT",
      "source": "added_by_stace",
      "added_by": "DJ Stace",
      "videoId": "6C4YDg14Wxo",
      "duration": "2:48",
      "source_url": "Zookeeper album 1081730",
-     "zk_checked": "2026-10-28"
+     "zk_checked": "2026-10-28",
+     "cut_by": "DJ Stace (Working playlist, read Oct. 29)"
     },
     {
      "artist": "Lera Lynn & Shovels & Rope",
@@ -280,18 +284,19 @@
      "why": "Your review: 4 stars; cover of the Arcade Fire opener, 'more urgent and serrated than the original.'",
      "fcc_status": "CLEAN",
      "fcc_note": "No FCC flag in your review. (Your review lists none; no lyrics posted.)",
-     "priority": "O",
+     "priority": "CUT",
      "source": "your_review_halloween",
      "added_by": "Claude (from DJ Stace's reviews, Oct. 29)",
      "final_change": "NEW from your reviews",
      "videoId": "QjnBCWMZLo4",
      "duration": "3:07",
-     "review": "4 stars reviewed Oct. 12, 2019"
+     "review": "4 stars reviewed Oct. 12, 2019",
+     "cut_by": "DJ Stace (Working playlist, read Oct. 29)"
     }
    ]
   },
   {
-   "set": "Hour 1, Set 3: Black, cats and fuzz",
+   "set": "Hour 1, Set 3: Black and fuzz",
    "tracks": [
     {
      "artist": "Ty Segall",
@@ -322,13 +327,14 @@
      "why": "Your review: fast, driving, overwhelming noise punk. The cat track. Album is Neo on Sub Pop.",
      "fcc_status": "CLEAN",
      "fcc_note": "No FCC flag in your review. (Your review flags track 4 only; no lyrics posted.)",
-     "priority": "O",
+     "priority": "CUT",
      "source": "your_review_halloween",
      "added_by": "Claude (from DJ Stace's reviews, Oct. 29)",
      "final_change": "NEW from your reviews",
      "videoId": "NFs07lWw4l4",
      "duration": "2:40",
-     "review": "unrated reviewed Apr. 4, 2016"
+     "review": "unrated reviewed Apr. 4, 2016",
+     "cut_by": "DJ Stace (Working playlist, read Oct. 29)"
     },
     {
      "artist": "Fake Names",
@@ -341,12 +347,13 @@
      "type": "album track (title track)",
      "upcoming": "",
      "duration": "2:37",
-     "priority": "R",
+     "priority": "CUT",
      "why": "New: third album out Fri. Oct. 23 on Epitaph. Brian Baker, Michael Hampton, Dennis Lyxzen, Johnny Temple, Mario Rubalcaba. Punk focus.",
      "fcc_status": "CLEAN",
      "fcc_note": "CLEAN (Genius, short; check by ear).",
      "source": "recon",
-     "videoId": "D4S-TxPpaI8"
+     "videoId": "D4S-TxPpaI8",
+     "cut_by": "DJ Stace (Working playlist, read Oct. 29)"
     },
     {
      "artist": "Lambrini Girls",
@@ -393,10 +400,11 @@
      "why": "",
      "fcc_status": "CLEAN",
      "fcc_note": "CLEAN (LRCLIB)",
-     "priority": "R",
+     "priority": "CUT",
      "source": "specialty/halloween",
      "videoId": "SWGkfg396yo",
-     "duration": "2:49"
+     "duration": "2:49",
+     "cut_by": "DJ Stace (Working playlist, read Oct. 29)"
     },
     {
      "artist": "Twisted Teens",
@@ -445,12 +453,13 @@
      "why": "Added to the Air Order by DJ Stace (Oct. 29). Your review: 5 stars, 'play this one,' heir to Swervedriver. Aired earlier in October. Same album as Raven.",
      "fcc_status": "CLEAN",
      "fcc_note": "DJ Stace review (Zookeeper, reviewed Oct. 8, 2026): no FCC flag on this track.",
-     "priority": "O",
+     "priority": "CUT",
      "source": "added_by_stace",
      "added_by": "DJ Stace",
      "final_change": "ADDED Oct. 29",
      "videoId": "500HxYQej8I",
-     "duration": "3:50"
+     "duration": "3:50",
+     "cut_by": "DJ Stace (Working playlist, read Oct. 29)"
     },
     {
      "artist": "The Black Angels",
@@ -594,10 +603,11 @@
      "why": "Core artist.",
      "fcc_status": "CLEAN",
      "fcc_note": "CLEAN (LRCLIB)",
-     "priority": "R",
+     "priority": "CUT",
      "source": "specialty/halloween",
      "videoId": "lBVFdSFV2lQ",
-     "duration": "6:11"
+     "duration": "6:11",
+     "cut_by": "DJ Stace (Working playlist, read Oct. 29)"
     },
     {
      "artist": "The Rolling Stones",
@@ -610,13 +620,14 @@
      "why": "Added to the Air Order by DJ Stace. Halloween standard.",
      "fcc_status": "CLEAN",
      "fcc_note": "CLEAN (Genius, 489 words)",
-     "priority": "O",
+     "priority": "CUT",
      "source": "added_by_stace",
      "added_by": "DJ Stace",
      "videoId": "uWepTCBBnLo",
      "duration": "6:19",
      "source_url": "Zookeeper album 871242",
-     "zk_checked": "2026-10-28"
+     "zk_checked": "2026-10-28",
+     "cut_by": "DJ Stace (Working playlist, read Oct. 29)"
     }
    ]
   },
@@ -631,7 +642,7 @@
      "label_source": "zookeeper label table",
      "tag": "",
      "released": "2026",
-     "why": "Triple Shot 1 of 2. New single from Perfecth (out Fri. Oct. 30, Matador). Aired Oct. 1.",
+     "why": "Triple Shot 1 of 3. New single from Perfecth (out Fri. Oct. 30, Matador). Aired Oct. 1.",
      "fcc_status": "CLEAN",
      "fcc_note": "CLEAN (Genius)",
      "priority": "R",
@@ -650,10 +661,11 @@
      "why": "Triple Shot 2 of 2. Lullabies to Paralyze (2005). Halloween title.",
      "fcc_status": "CLEAN",
      "fcc_note": "CLEAN (LRCLIB)",
-     "priority": "R",
+     "priority": "CUT",
      "source": "specialty/halloween",
      "videoId": "ZYydAkq6nTc",
-     "duration": "3:36"
+     "duration": "3:36",
+     "cut_by": "DJ Stace (Working playlist, read Oct. 29)"
     },
     {
      "artist": "Queens of the Stone Age",
@@ -663,7 +675,7 @@
      "label_source": "zookeeper album",
      "tag": "555656",
      "released": "2000",
-     "why": "Triple Shot option A (pick one for the third song). From Rated R (2000); the library lists the album as R. The monsters track.",
+     "why": "Triple Shot 2 of 3. From Rated R (2000); the library lists the album as R. The monsters track.",
      "fcc_status": "CLEAN",
      "fcc_note": "CLEAN (LRCLIB, 191 words)",
      "priority": "O",
@@ -681,7 +693,7 @@
      "label_source": "zookeeper album",
      "tag": "1038181",
      "released": "2013",
-     "why": "Triple Shot option B (pick one for the third song). From ...Like Clockwork (2013, Matador).",
+     "why": "Triple Shot 3 of 3. From ...Like Clockwork (2013, Matador).",
      "fcc_status": "CLEAN",
      "fcc_note": "CLEAN (LRCLIB, 201 words)",
      "priority": "O",
@@ -702,17 +714,18 @@
      "why": "Triple Shot option C (pick one for the third song). From Songs for the Deaf (2002), the same album as No One Knows. YTM lists it as Hanging Tree.",
      "fcc_status": "CLEAN",
      "fcc_note": "CLEAN (LRCLIB, 123 words)",
-     "priority": "O",
+     "priority": "CUT",
      "source": "triple_shot_option",
      "added_by": "Claude (DJ Stace request, Oct. 29)",
      "final_change": "TRIPLE SHOT OPTION C",
      "videoId": "473wEdL_GzU",
-     "duration": "3:07"
+     "duration": "3:07",
+     "cut_by": "DJ Stace (Working playlist, read Oct. 29)"
     }
    ]
   },
   {
-   "set": "Hour 2, Set 6: Ghosts, graveyards and black moons",
+   "set": "Hour 2, Set 6: Ghosts and graveyards",
    "tracks": [
     {
      "artist": "L’epée",
@@ -763,13 +776,14 @@
      "why": "Your review: 4 stars; opens with a drum roll, midtempo head-nodder, falsetto riffs.",
      "fcc_status": "CLEAN",
      "fcc_note": "CLEAN (LRCLIB, 241 words). Your review lists no FCC words.",
-     "priority": "O",
+     "priority": "CUT",
      "source": "your_review_halloween",
      "added_by": "Claude (from DJ Stace's reviews, Oct. 29)",
      "final_change": "NEW from your reviews",
      "videoId": "6-oBy2GGL6k",
      "duration": "3:42",
-     "review": "4 stars reviewed Oct. 8, 2019"
+     "review": "4 stars reviewed Oct. 8, 2019",
+     "cut_by": "DJ Stace (Working playlist, read Oct. 29)"
     }
    ]
   },
@@ -804,10 +818,11 @@
      "why": "Roger O'Donnell (keyboards) was born Oct. 29, 1955. Library holds the single.",
      "fcc_status": "CLEAN",
      "fcc_note": "CLEAN (LRCLIB)",
-     "priority": "R",
+     "priority": "CUT",
      "source": "specialty/halloween",
      "videoId": "CXHz_6qmHFg",
-     "duration": "4:11"
+     "duration": "4:11",
+     "cut_by": "DJ Stace (Working playlist, read Oct. 29)"
     },
     {
      "artist": "Joy Division",
@@ -836,12 +851,13 @@
      "type": "single",
      "upcoming": "",
      "duration": "4:14",
-     "priority": "R",
+     "priority": "CUT",
      "why": "Post-punk arc, week 3. Single titled Death Disco (July 1979); YTM lists the studio cut as Swan Lake. Last PiL spin Sept. 10.",
      "fcc_status": "CLEAN",
      "fcc_note": "CLEAN (Genius, 142 words).",
      "source": "recon",
-     "videoId": "fiQk5hy54oE"
+     "videoId": "fiQk5hy54oE",
+     "cut_by": "DJ Stace (Working playlist, read Oct. 29)"
     },
     {
      "artist": "Pixies",
@@ -854,10 +870,11 @@
      "why": "",
      "fcc_status": "CLEAN",
      "fcc_note": "CLEAN (LRCLIB)",
-     "priority": "R",
+     "priority": "CUT",
      "source": "specialty/halloween",
      "videoId": "UgWgDWgNBzQ",
-     "duration": "2:22"
+     "duration": "2:22",
+     "cut_by": "DJ Stace (Working playlist, read Oct. 29)"
     },
     {
      "artist": "Interpol",
@@ -902,12 +919,13 @@
      "why": "Added to the Air Order by DJ Stace (Oct. 29). Reverbed, shimmering guitars that grow more psychedelic (Glide, SPIN, per the review template). Album out Oct. 9. Not in the library yet.",
      "fcc_status": "UNVERIFIED",
      "fcc_note": "UNVERIFIED: no lyrics posted. The review template flags FCC words only on the title track (fuck x2). Listen first.",
-     "priority": "O",
+     "priority": "CUT",
      "source": "added_by_stace",
      "added_by": "DJ Stace",
      "final_change": "ADDED Oct. 29",
      "videoId": "u-OCkJD78Ec",
-     "duration": "4:48"
+     "duration": "4:48",
+     "cut_by": "DJ Stace (Working playlist, read Oct. 29)"
     },
     {
      "artist": "Talking Heads",
@@ -944,13 +962,14 @@
      "why": "Added to the Air Order by DJ Stace. Industrial; opens Set 8 (pairs with Ministry in Set 1).",
      "fcc_status": "CLEAN",
      "fcc_note": "CLEAN (Genius, 40 words)",
-     "priority": "O",
+     "priority": "CUT",
      "source": "added_by_stace",
      "added_by": "DJ Stace",
      "videoId": "Q0lzvB3Hnb8",
      "duration": "1:52",
      "source_url": "https://en.wikipedia.org/wiki/Bites_(album)",
-     "zk_checked": "2026-10-28"
+     "zk_checked": "2026-10-28",
+     "cut_by": "DJ Stace (Working playlist, read Oct. 29)"
     },
     {
      "artist": "Coil",
@@ -960,7 +979,7 @@
      "tag": "870689",
      "label_source": "zookeeper album (library copy is the !K7 issue; original 1991 Torso and Wax Trax!)",
      "released": "1991",
-     "why": "Added to the Air Order by DJ Stace (Oct. 28). Industrial, didgeridoo-led; pairs with Skinny Puppy at the start of Set 8. Library tag is the !K7 issue of Love's Secret Domain.",
+     "why": "Added to the Air Order by DJ Stace (Oct. 28). Industrial, didgeridoo-led at the start of Set 8. Library tag is the !K7 issue of Love's Secret Domain.",
      "fcc_status": "UNVERIFIED",
      "fcc_note": "UNVERIFIED: no lyrics posted on LRCLIB or Genius; mostly instrumental with a sample. Listen first.",
      "priority": "O",
@@ -1002,12 +1021,13 @@
      "why": "Added to the Air Order by DJ Stace (Oct. 28 to 29). Goth landmark, produced by Jim Steinman. Long (9:31). Library copy is the Overbombing compilation (tag 127022).",
      "fcc_status": "CLEAN",
      "fcc_note": "CLEAN (LRCLIB, 662 words)",
-     "priority": "O",
+     "priority": "CUT",
      "source": "added_by_stace",
      "added_by": "DJ Stace",
      "videoId": "dWkSkvMi_28",
      "duration": "9:31",
-     "final_change": "ADDED Oct. 29"
+     "final_change": "ADDED Oct. 29",
+     "cut_by": "DJ Stace (Working playlist, read Oct. 29)"
     },
     {
      "artist": "Bauhaus",
@@ -1048,17 +1068,12 @@
  ],
  "triple_shot": {
   "artist": "Queens of the Stone Age",
-  "angle": "Where the Goth Girls At? (new single from Perfecth, out Fri. Oct. 30, Matador; nine tracks, produced by Josh Homme and Michael Shuman) and Burn the Witch are set. Pick ONE of three options for the third song: A Monsters in the Parasol (Rated R, 2000), B If I Had a Tail (...Like Clockwork, 2013), C Hangin' Tree (Songs for the Deaf, 2002). All are in your Air Order. Easy Street stays out (cool-off to Dec. 8).",
+  "angle": "Where the Goth Girls At? (new single from Perfecth, out Fri. Oct. 30, Matador; nine tracks, produced by Josh Homme and Michael Shuman), Monsters in the Parasol (Rated R, 2000) and If I Had a Tail (...Like Clockwork, 2013). Easy Street stays out (cool-off to Dec. 8).",
   "tracks": [
    {
     "artist": "Queens of the Stone Age",
     "track": "Where the Goth Girls At?",
     "videoId": "9jA_Bg_r_cw"
-   },
-   {
-    "artist": "Queens of the Stone Age",
-    "track": "Burn the Witch",
-    "videoId": "ZYydAkq6nTc"
    },
    {
     "artist": "Queens of the Stone Age",
@@ -1069,11 +1084,6 @@
     "artist": "Queens of the Stone Age",
     "track": "If I Had a Tail",
     "videoId": "Ymnwa6RX5F4"
-   },
-   {
-    "artist": "Queens of the Stone Age",
-    "track": "Hangin' Tree",
-    "videoId": "473wEdL_GzU"
    }
   ],
   "history_check": "Not in the last 8 Triple Shot artists (Teenage Fanclub Oct. 8, Fontaines D.C. Oct. 15, The Damned Oct. 22)."
@@ -1207,31 +1217,29 @@
   "opening": [
    "Halloween show. Punk and post-punk focus, week 3 of 4: goth and post-punk tonight. D.C. hardcore Nov. 5.",
    "Tonight: Ministry, Misfits, The Cramps, a run of spells and covers, a devil's set to close Hour 1, then a Queens of the Stone Age run to open Hour 2.",
-   "New this week from the library reviews: Adia Victoria, L'Epee, Angelica Garcia, The Mars Volta, Black Pumas, A Giant Dog, So Pitted and Stef Chura."
+   "New this week from the library reviews: Adia Victoria, L'Epee, Angelica Garcia, The Mars Volta and Stef Chura."
   ],
   "after_set_1": [
    "Misfits released Halloween as a single in 1981. The Cramps' Goo Goo Muck is from Psychedelic Jungle (1981). Roky Erickson's I Walked with a Zombie is from 1981.",
-   "The Lemonheads released a 12-inch of Roky, with The Bevis Frond, on Oct. 16 on Fire Records.",
    "Ministry's final album, Hate to Go (Take Out or Delivery), is out Fri. Oct. 30 on Cleopatra. Closing track features former bassist Paul Barker. Farewell tour starts April 2, 2027 in Utrecht."
   ],
   "after_set_2": [
    "Screamin' Jay Hawkins recorded I Put a Spell on You in 1956. The Kills' version was recorded in 2009 and came out in 2020 on Domino.",
-   "Wolf Like Me is a TV on the Radio song; Lera Lynn and Shovels & Rope cover it. Eyes Without a Face is a Billy Idol song, named for a 1960 French horror film; Stef Chura covers it on Midnight (Saddle Creek). Black Mirror is an Arcade Fire song, covered by A Giant Dog.",
+   "Wolf Like Me is a TV on the Radio song; Lera Lynn and Shovels & Rope cover it. Eyes Without a Face is a Billy Idol song, named for a 1960 French horror film; Stef Chura covers it on Midnight (Saddle Creek).",
    "The Flaming Lips announced The Teardrop Throbs Oct. 26, due in January on Third Man (verify). It is the first Lips album without Steven Drozd. God Will Control the Werewolves is the first track out."
   ],
   "after_set_3": [
-   "Black Paint is from Ty Segall's Chrome (Drag City). So Pitted's cat scratch is from Neo on Sub Pop (2016).",
-   "Fake Names released Punk Ruins Oct. 23 on Epitaph. Recorded in five days at Electrical Audio in Chicago.",
+   "Black Paint is from Ty Segall's Chrome (Drag City).",
    "Twisted Teens: The Holy Cross Tigers is out Nov. 6 on Sub Pop.",
    "Lambrini Girls released Cult of Celebrity Mar. 31 on City Slang, their first new music since the 2025 album Who Let The Dogs Out."
   ],
   "end_hour_1": [
-   "Adia Victoria, Angelica Garcia, Andy Shauf, Nick Cave and the Stones, all talking to the devil.",
+   "Adia Victoria, Angelica Garcia, Andy Shauf and Nick Cave, all talking to the devil.",
    "Station ID at the top of the hour. Next: the Thursday Triple Shot, Queens of the Stone Age."
   ],
   "triple_shot_intro": [
    "Thursday Triple Shot: Queens of the Stone Age. Perfecth, the band's ninth album, is out Fri. Oct. 30 on Matador. Josh Homme and Michael Shuman produced it.",
-   "Where the Goth Girls At? is the new single. Burn the Witch is from Lullabies to Paralyze (2005). Third song: Monsters in the Parasol (Rated R, 2000), If I Had a Tail (...Like Clockwork, 2013) or Hangin' Tree (Songs for the Deaf, 2002)."
+   "Where the Goth Girls At? is the new single. Then Monsters in the Parasol (Rated R, 2000) and If I Had a Tail (...Like Clockwork, 2013)."
   ],
   "after_triple_shot": [
    "On Oct. 30, 1938, CBS aired Orson Welles' War of the Worlds on The Mercury Theatre on the Air. The FCC investigated afterward and found no law was broken."
@@ -1241,7 +1249,6 @@
    "Fri. Oct. 30: Cold Cave, SRSQ and Houses of Heaven at Great American Music Hall. Sat. Oct. 31: Halloween tribute bands at Thee Stork Club and Rocky Horror with a live cast at the UC Theater in Berkeley. Sun. Nov. 1: Frankie And The Witch Fingers at Great American Music Hall."
   ],
   "after_goth": [
-   "Roger O'Donnell of The Cure was born Oct. 29, 1955. Public Image Ltd. released Death Disco in July 1979; YouTube Music lists the studio cut as Swan Lake.",
    "Queens of the Stone Age, Ministry and Mitski's Puberty 2 anniversary edition are all out Fri. Oct. 30."
   ],
   "closing": [
@@ -2263,13 +2270,153 @@
    "videoId": "bRLML36HnzU",
    "cut_by": "DJ Stace (Air Order, read Oct. 29)",
    "from_set": "Hour 2, Set 7: New, anniversary and novelty"
+  },
+  {
+   "artist": "Misfits",
+   "track": "Night of the Living Dead",
+   "videoId": "2cDvymU9D-M",
+   "cut_by": "DJ Stace (deleted from Working, Oct. 29 show-day cull)",
+   "from_set": "Hour 1, Set 1: Halloween anthems and horror-punk"
+  },
+  {
+   "artist": "The Lemonheads",
+   "track": "Roky (feat. The Bevis Frond)",
+   "videoId": "hfY_ED9xAnw",
+   "cut_by": "DJ Stace (deleted from Working, Oct. 29 show-day cull)",
+   "from_set": "Hour 1, Set 1: Halloween anthems and horror-punk"
+  },
+  {
+   "artist": "The Sonics",
+   "track": "The Witch",
+   "videoId": "HGBsxpnRhMk",
+   "cut_by": "DJ Stace (deleted from Working, Oct. 29 show-day cull)",
+   "from_set": "Hour 1, Set 2: Spells, wolves and haunted covers"
+  },
+  {
+   "artist": "The Sonics",
+   "track": "The Witch",
+   "videoId": "6C4YDg14Wxo",
+   "cut_by": "DJ Stace (deleted from Working, Oct. 29 show-day cull)",
+   "from_set": "Hour 1, Set 2: Spells, wolves and haunted covers"
+  },
+  {
+   "artist": "A Giant Dog",
+   "track": "Black Mirror",
+   "videoId": "QjnBCWMZLo4",
+   "cut_by": "DJ Stace (deleted from Working, Oct. 29 show-day cull)",
+   "from_set": "Hour 1, Set 2: Spells, wolves and haunted covers"
+  },
+  {
+   "artist": "So Pitted",
+   "track": "cat scratch",
+   "videoId": "NFs07lWw4l4",
+   "cut_by": "DJ Stace (deleted from Working, Oct. 29 show-day cull)",
+   "from_set": "Hour 1, Set 3: Black, cats and fuzz"
+  },
+  {
+   "artist": "Fake Names",
+   "track": "Punk Ruins",
+   "videoId": "D4S-TxPpaI8",
+   "cut_by": "DJ Stace (deleted from Working, Oct. 29 show-day cull)",
+   "from_set": "Hour 1, Set 3: Black, cats and fuzz"
+  },
+  {
+   "artist": "The Wytches",
+   "track": "Gravedweller",
+   "videoId": "SWGkfg396yo",
+   "cut_by": "DJ Stace (deleted from Working, Oct. 29 show-day cull)",
+   "from_set": "Hour 1, Set 3: Black, cats and fuzz"
+  },
+  {
+   "artist": "Dread Spectre Council",
+   "track": "Hex's Up",
+   "videoId": "500HxYQej8I",
+   "cut_by": "DJ Stace (deleted from Working, Oct. 29 show-day cull)",
+   "from_set": "Hour 1, Set 3: Black, cats and fuzz"
+  },
+  {
+   "artist": "Nick Cave & The Bad Seeds",
+   "track": "Red Right Hand",
+   "videoId": "lBVFdSFV2lQ",
+   "cut_by": "DJ Stace (deleted from Working, Oct. 29 show-day cull)",
+   "from_set": "Hour 1, Set 4: The devil's set"
+  },
+  {
+   "artist": "The Rolling Stones",
+   "track": "Sympathy For The Devil (50th Anniversary Edition)",
+   "videoId": "uWepTCBBnLo",
+   "cut_by": "DJ Stace (deleted from Working, Oct. 29 show-day cull)",
+   "from_set": "Hour 1, Set 4: The devil's set"
+  },
+  {
+   "artist": "Queens of the Stone Age",
+   "track": "Burn the Witch",
+   "videoId": "ZYydAkq6nTc",
+   "cut_by": "DJ Stace (deleted from Working, Oct. 29 show-day cull)",
+   "from_set": "Hour 2, Thursday Triple Shot: Queens of the Stone Age"
+  },
+  {
+   "artist": "Queens of the Stone Age",
+   "track": "Hangin' Tree",
+   "videoId": "473wEdL_GzU",
+   "cut_by": "DJ Stace (deleted from Working, Oct. 29 show-day cull)",
+   "from_set": "Hour 2, Thursday Triple Shot: Queens of the Stone Age"
+  },
+  {
+   "artist": "Black Pumas",
+   "track": "Black Moon Rising",
+   "videoId": "6-oBy2GGL6k",
+   "cut_by": "DJ Stace (deleted from Working, Oct. 29 show-day cull)",
+   "from_set": "Hour 2, Set 6: Ghosts, graveyards and black moons"
+  },
+  {
+   "artist": "The Cure",
+   "track": "Lullaby",
+   "videoId": "CXHz_6qmHFg",
+   "cut_by": "DJ Stace (deleted from Working, Oct. 29 show-day cull)",
+   "from_set": "Hour 2, Set 7: Goth and post-punk"
+  },
+  {
+   "artist": "Public Image Ltd.",
+   "track": "Swan Lake (Death Disco)",
+   "videoId": "fiQk5hy54oE",
+   "cut_by": "DJ Stace (deleted from Working, Oct. 29 show-day cull)",
+   "from_set": "Hour 2, Set 7: Goth and post-punk"
+  },
+  {
+   "artist": "Pixies",
+   "track": "Dead",
+   "videoId": "UgWgDWgNBzQ",
+   "cut_by": "DJ Stace (deleted from Working, Oct. 29 show-day cull)",
+   "from_set": "Hour 2, Set 7: Goth and post-punk"
+  },
+  {
+   "artist": "BODEGA",
+   "track": "Fear not the Fear",
+   "videoId": "u-OCkJD78Ec",
+   "cut_by": "DJ Stace (deleted from Working, Oct. 29 show-day cull)",
+   "from_set": "Hour 2, Set 7: Goth and post-punk"
+  },
+  {
+   "artist": "Skinny Puppy",
+   "track": "Love",
+   "videoId": "Q0lzvB3Hnb8",
+   "cut_by": "DJ Stace (deleted from Working, Oct. 29 show-day cull)",
+   "from_set": "Hour 2, Set 8: Industrial, the long dark and the closer"
+  },
+  {
+   "artist": "The Sisters Of Mercy",
+   "track": "This Corrosion",
+   "videoId": "dWkSkvMi_28",
+   "cut_by": "DJ Stace (deleted from Working, Oct. 29 show-day cull)",
+   "from_set": "Hour 2, Set 8: Industrial, the long dark and the closer"
   }
  ],
  "final": {
   "built": "2026-10-29",
   "cull_ticks": [],
   "replace_ticks": [],
-  "notes": "Thu. Oct. 29 rebuild at Stace's request. Air Order read back: 40 tracks (was 52). She cut 13: The Fall Retro Song, QOTSA No One Knows, Bambara, the eight reviewed-rotation tracks (Billy Came Back, Overhead, Dream On, Ultimate Love 4Ever, Flood Season, Hand Me A Cigarette, I Still See Me There, You're Gonna Need A Little Music), Mitski and Monster Mash. She added The Sisters Of Mercy, This Corrosion, and reordered the bottom of the list. Plan rebuilt into eight Halloween sets and eight Halloween-themed tracks from her reviews added at the bottom of the Air Order. | Oct. 29 later: she asked for Queens options. Added Monsters in the Parasol, If I Had a Tail and Hangin' Tree to the Air Order and the Triple Shot set (pick one). She also added Hex's Up, God Will Control the Werewolves, Fear not the Fear and Cult of Celebrity to the Air Order; placed in Sets 2, 3 and 7. Air Order now 55 tracks."
+  "notes": "Thu. Oct. 29 rebuild at Stace's request. Air Order read back: 40 tracks (was 52). She cut 13: The Fall Retro Song, QOTSA No One Knows, Bambara, the eight reviewed-rotation tracks (Billy Came Back, Overhead, Dream On, Ultimate Love 4Ever, Flood Season, Hand Me A Cigarette, I Still See Me There, You're Gonna Need A Little Music), Mitski and Monster Mash. She added The Sisters Of Mercy, This Corrosion, and reordered the bottom of the list. Plan rebuilt into eight Halloween sets and eight Halloween-themed tracks from her reviews added at the bottom of the Air Order. | Oct. 29 later: she asked for Queens options. Added Monsters in the Parasol, If I Had a Tail and Hangin' Tree to the Air Order and the Triple Shot set (pick one). She also added Hex's Up, God Will Control the Werewolves, Fear not the Fear and Cult of Celebrity to the Air Order; placed in Sets 2, 3 and 7. Air Order now 55 tracks. | Oct. 29 show-day cull: Stace deleted 20 tracks from Working (55 to 35, 2:23). Marked CUT in the plan: Misfits Night of the Living Dead; The Lemonheads Roky (feat. The Bevis Frond); The Sonics The Witch; The Sonics The Witch; A Giant Dog Black Mirror; So Pitted cat scratch; Fake Names Punk Ruins; The Wytches Gravedweller; Dread Spectre Council Hex's Up; Nick Cave & The Bad Seeds Red Right Hand; The Rolling Stones Sympathy For The Devil (50th Anniversary Edition); Queens of the Stone Age Burn the Witch; Queens of the Stone Age Hangin' Tree; Black Pumas Black Moon Rising; The Cure Lullaby; Public Image Ltd. Swan Lake (Death Disco); Pixies Dead; BODEGA Fear not the Fear; Skinny Puppy Love; The Sisters Of Mercy This Corrosion. Air Order reordered into set order (moves only, nothing removed); cut tracks remain in Air Order in their sets. | Air Order then synced to Working: the 20 cut tracks removed from Air Order (35 tracks, set order, equals Working reversed). Sets 3 and 6 renamed; talk breaks rewritten around the cuts."
  },
  "ytm_air_order": {
   "name": "DJ Stace library show Air Order",

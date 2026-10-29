@@ -1961,6 +1961,10 @@
   {
    "date": "2026-10-27",
    "note": "New Releases for Review run: 8 Claude-added tracks expired and removed (14 days). Her Oct. 27 deletes (Lambrini Girls, The Garden) and her Flaming Lips add were already logged by the Tuesday sweep, so not logged twice. Accidental like: a script click hit the Like button on Teens in Trouble \"I Do\" (Liked Music) while looking for the row menu. The unlike was blocked by the auto-mode check, so Stace can unlike it by hand. Fixed the helper to click only \"Action menu\"."
+  },
+  {
+   "date": "2026-10-29",
+   "note": "Stace deleted 20 tracks from the Working playlist as a show-day cull (55 to 35, 2:23): Misfits Night of the Living Dead, Lemonheads Roky, both Sonics The Witch, A Giant Dog Black Mirror, So Pitted cat scratch, Fake Names Punk Ruins, The Wytches Gravedweller, Dread Spectre Council Hex's Up, Nick Cave Red Right Hand, Rolling Stones Sympathy For The Devil, QOTSA Burn the Witch and Hangin' Tree, Black Pumas Black Moon Rising, The Cure Lullaby, PiL Swan Lake, Pixies Dead, BODEGA Fear not the Fear, Skinny Puppy Love, Sisters of Mercy This Corrosion. Treated as show-length and flow cuts, not taste signals: no 60-day cool-off, no artist_removals increment. Air Order synced to Working (cuts removed, set order)."
   }
  ]
 }

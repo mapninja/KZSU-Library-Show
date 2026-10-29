@@ -7,14 +7,14 @@
    "order": "forward",
    "mode": "build draft; Stace edits by hand; her edits win",
    "target_minutes_per_show_hour": 75,
-   "last_sync": "2026-10-22 (Thursday-night draft for Oct. 29 Halloween: 42 adds, 52 removes; verified 42 rows equal to plan) | 2026-10-27: read back 51 tracks, Stace appended 9; not rewritten by Claude | 2026-10-28 (Wednesday final): read back 52 tracks, one new add (Coil #45), no removals; not rewritten by Claude | 2026-10-29: read back 40 tracks (Stace cut 13, added This Corrosion); Claude appended 8 Halloween tracks from her reviews via edit_playlist (add-only); verified by reload: 48 tracks | 2026-10-29 later: Claude appended 3 Queens Triple Shot options (add-only); Stace added 4 more; verified by reload: 55 tracks"
+   "last_sync": "2026-10-22 (Thursday-night draft for Oct. 29 Halloween: 42 adds, 52 removes; verified 42 rows equal to plan) | 2026-10-27: read back 51 tracks, Stace appended 9; not rewritten by Claude | 2026-10-28 (Wednesday final): read back 52 tracks, one new add (Coil #45), no removals; not rewritten by Claude | 2026-10-29: read back 40 tracks (Stace cut 13, added This Corrosion); Claude appended 8 Halloween tracks from her reviews via edit_playlist (add-only); verified by reload: 48 tracks | 2026-10-29 later: Claude appended 3 Queens Triple Shot options (add-only); Stace added 4 more; verified by reload: 55 tracks | 2026-10-29 10 a.m.: reordered into set order with moves (55 tracks), then 20 tracks Stace cut from Working removed; 35 tracks, verified by reload: equals Working reversed (YTM header runtime lagged at 3:32)"
   },
   "working": {
    "title": "DJ Stace library show working",
    "id": "PLLXFGCRcu_qc",
    "order": "reversed",
    "mode": "mirror Air Order reversed; deltas only; flip with Sort > Newest first",
-   "last_sync": "2026-10-29 (Thursday 9 a.m. sync for the Halloween show: 51 removed via edit_playlist, 54 added, 3 Stace-uploaded radio edits from the Oct. 22 show removed, 54 moves; 55 tracks, 3:42; verified by reload in Manual ordering: equals plan order reversed; first row Black Sabbath, last row Ministry Every Day Is Halloween. Note: the saved Sort resets to Manual on reload, so the order is stored as manual positions. Plan order differs from Air Order sequence; Air Order not touched)"
+   "last_sync": "2026-10-29 (Thursday 9 a.m. sync for the Halloween show: 51 removed via edit_playlist, 54 added, 3 Stace-uploaded radio edits from the Oct. 22 show removed, 54 moves; 55 tracks, 3:42; verified by reload in Manual ordering: equals plan order reversed; first row Black Sabbath, last row Ministry Every Day Is Halloween. Note: the saved Sort resets to Manual on reload, so the order is stored as manual positions. Plan order differs from Air Order sequence; Air Order not touched) | 2026-10-29 10 a.m.: Stace deleted 20 tracks by hand (35 left, 2:23); order still plan order reversed; Air Order now mirrors it"
   },
   "weekly": {
    "title": "Stace's Weekly Playlist",
