@@ -1,0 +1,133 @@
+{
+ "show_date": "2026-10-29",
+ "zookeeper_playlist_id": 58539,
+ "zookeeper_show": "The Library, DJ Stace, 1800-1905 (13 spins, 4 breaks, 5 log events)",
+ "pulled": "2026-10-29 21:02 PT; re-pulled 2026-10-30 via /api/v2/playlist/58539/events (unchanged: 13 spins, last log event LID 19:00:00)",
+ "spins": [
+  {
+   "n": 1,
+   "artist": "Screamin' Jay Hawkins",
+   "track": "I Put a Spell on You",
+   "album": "At Home with Screamin' Jay Hawkins",
+   "label": "Okeh",
+   "videoId": "JD-qp1HMMIc"
+  },
+  {
+   "n": 2,
+   "artist": "Lera Lynn & Shovels & Rope",
+   "track": "Wolf Like Me (ft. Shovels & Rope)",
+   "album": "Plays Well With Others",
+   "label": "Single Lock",
+   "videoId": "Lmyd9LTkpfk"
+  },
+  {
+   "n": 3,
+   "artist": "The Flaming Lips",
+   "track": "God Will Control The Werewolves",
+   "album": "The Teardrop Throbs",
+   "label": "Third Man Records",
+   "videoId": "AIEU9qKbwQA"
+  },
+  {
+   "n": 4,
+   "artist": "Lambrini Girls",
+   "track": "Cult of Celebrity",
+   "album": "Cult of Celebrity (single)",
+   "label": "City Slang",
+   "videoId": "qjf8SsATw84"
+  },
+  {
+   "n": 5,
+   "artist": "Dread Spectre Council",
+   "track": "Raven",
+   "album": "Thetans",
+   "label": "Handmade Records",
+   "videoId": "KZkx50Y-Cyg"
+  },
+  {
+   "n": 6,
+   "artist": "Black Angels, The",
+   "track": "Young Men Dead",
+   "album": "Passover",
+   "label": "Light In The Attic Records",
+   "videoId": "gvLJZKdrDZ4"
+  },
+  {
+   "n": 7,
+   "artist": "Black Rebel Motorcycle Club",
+   "track": "Beat the Devil's Tattoo",
+   "album": "Beat The Devil's Tattoo",
+   "label": "Vagrant Records",
+   "videoId": "Ay3Izb6sGAo"
+  },
+  {
+   "n": 8,
+   "artist": "Andy Shauf",
+   "track": "Satan",
+   "album": "Satan / Jacob Rose (single)",
+   "label": "Anti-",
+   "videoId": "-VdWLfjBknk"
+  },
+  {
+   "n": 9,
+   "artist": "Queens of the Stone Age",
+   "track": "Where the Goth Girls At?",
+   "album": "Perfecth",
+   "label": "Matador Records",
+   "videoId": "9jA_Bg_r_cw"
+  },
+  {
+   "n": 10,
+   "artist": "Interpol",
+   "track": "Evil",
+   "album": "Antics",
+   "label": "Matador Records",
+   "videoId": "uUOMQzQdU34"
+  },
+  {
+   "n": 11,
+   "artist": "Talking Heads",
+   "track": "Psycho Killer",
+   "album": "77",
+   "label": "Sire Records",
+   "videoId": "NyaOYfpq9Fc"
+  },
+  {
+   "n": 12,
+   "artist": "Alien Sex Fiend",
+   "track": "Now I'm Feeling Zombiefied",
+   "album": "Alien Sex Fiend Halloween",
+   "label": "Anagram Records",
+   "videoId": "yJ6LaqDDEHU"
+  },
+  {
+   "n": 13,
+   "artist": "Black Sabbath",
+   "track": "Black Sabbath",
+   "album": "Black Sabbath",
+   "label": "Warner Bros. Records",
+   "videoId": "MOefQyJumI8"
+  }
+ ],
+ "ytm_playlist": {
+  "title": "The Library Show on KZSU 90.1 Stanford, CA with DJ Stace (October 29, 2026 Show)",
+  "id": "PLcI9annovA9c",
+  "tracks": 13,
+  "missing": [],
+  "privacy": "Public",
+  "description_set": "2026-10-30",
+  "description": "Archive of The Library with DJ Stace on KZSU 90.1 FM Stanford, Thursday, Oct. 29, 2026, 6-7 p.m. PT. 13 tracks in air order, pulled from the official KZSU Zookeeper playlist, so it includes on-air changes and requests. A one-hour show because Stanford Sports preempted the second hour. New and recent music: Queens of the Stone Age, Lambrini Girls, Andy Shauf, Dread Spectre Council, Lera Lynn & Shovels & Rope. Also in the mix: Screamin' Jay Hawkins, The Flaming Lips, The Black Angels, Black Rebel Motorcycle Club, Interpol, Talking Heads, Alien Sex Fiend, Black Sabbath. Theme: Halloween. Today in Music: none aired. Listen live Thursdays 6-8 p.m. PT at kzsu.stanford.edu. Archive built Oct. 30, 2026.",
+  "account": "Stacey Maples (KZSU)"
+ },
+ "compare_to_plan": {
+  "plan": "data/recon/2026-10-29/one_hour_sets.json (15 tracks, 1:05:50)",
+  "plan_tracks": 15,
+  "aired_from_plan": 13,
+  "added_on_air": [],
+  "not_aired": [
+   "Siouxsie and the Banshees - Spellbound",
+   "Coil - Where Even the Darkness Is Something to See"
+  ],
+  "note": "Show was a one-hour show (Stanford Sports preempted the rest), so the log is final at 13 spins even though the skill floor is 15 tracks. Friday retry confirmed the log is unchanged, then built the archive. All 13 aired spins matched the one-hour plan by artist and title; videoIds from the plan. No on-air additions. Playlist created with one youtubei playlist/create call (ids and description), description corrected once via edit_playlist, verified by page reload: 13 rows in air order, Public, description present. Zookeeper spelling kept in spins. Ordering within the plan held, except Siouxsie and Coil were dropped. The longer Working playlist (35 tracks) was not used for air."
+ }
+}

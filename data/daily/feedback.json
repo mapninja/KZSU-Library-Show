@@ -1913,6 +1913,20 @@
    "show": "The Library",
    "item": "Lambrini Girls - Cult of Celebrity",
    "strength": "weak"
+  },
+  {
+   "date": "2026-10-29",
+   "show": "The Library",
+   "item": "Siouxsie and the Banshees - Spellbound",
+   "strength": "weak",
+   "note": "one-hour show; dropped for time"
+  },
+  {
+   "date": "2026-10-29",
+   "show": "The Library",
+   "item": "Coil - Where Even the Darkness Is Something to See",
+   "strength": "weak",
+   "note": "one-hour show; dropped for time"
   }
  ],
  "moved_by_stace": [
