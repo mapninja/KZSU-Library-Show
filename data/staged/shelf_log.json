@@ -230,6 +230,16 @@
    ],
    "deploy": "patched in place with the Sheets API (16 rows inserted at A2:Q17); same file ID, link unchanged; Album and Label written as HYPERLINK formulas; ticks moved down with their rows (read back). Drive Working copy not updated (Drive folder not connected).",
    "ticked_requests_waiting": "not checked"
+  },
+  {
+   "date": "2026-10-30",
+   "trigger": "daily Mark email check (kzsu-daily-mark-email-check)",
+   "rows_added": 1,
+   "artists": [
+    "Autumn Luz"
+   ],
+   "deploy": "patched in place with the Sheets API (1 row inserted at A2:Q2, Album and Label as HYPERLINK formulas); same file ID, link unchanged; read back OK.",
+   "ticked_requests_waiting": "not checked"
   }
  ]
 }

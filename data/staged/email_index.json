@@ -228,5 +228,13 @@
   "items_extracted": 0,
   "kind": "new_music_filtering",
   "note": "89 albums and singles listed, all already in filtering_albums.json (matched on artist and title), so nothing appended. Fall quarter restart; includes the claim form link."
+ },
+ {
+  "date": "2026-10-30",
+  "subject": "md@kzsu promo scan 2026-10-23..2026-10-30 (KZSU Gmail; 1 new item: Autumn Luz Moments LP, ADDS 11/3). Outlook: no new Mark or chartman mail since Oct. 29. Skipped Vitriol Radio PRIOS digests and station admin mail.",
+  "sender": "md@kzsu.stanford.edu",
+  "uri": "gmail thread 1a188dbc6d3b470f",
+  "items_extracted": 1,
+  "kind": "md_list_promo"
  }
 ]

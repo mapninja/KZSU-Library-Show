@@ -10977,5 +10977,24 @@
   "blurb": "Toronto. Vitriol Radio promo. Label Birthday Cake Records (Begonia, Fontine).",
   "also_in": [],
   "source": "md_list_promo"
+ },
+ {
+  "email_date": "2026-10-29",
+  "email_subject": "[ADDS 11/3]: AUTUMN LUZ Moments LP [Self-Released] :: RIYL: Fiona Apple, Hope Sandoval, Mitski, midori jaeger",
+  "artist": "Autumn Luz",
+  "title": "Moments",
+  "type": "album",
+  "label": "Self-Released",
+  "riyl": [
+   "Fiona Apple",
+   "Hope Sandoval",
+   "Mitski",
+   "midori jaeger"
+  ],
+  "format_tags": "FCC edited: track 5",
+  "flags": "GOING FOR ADDS 11/3 (Vitriol Radio promo); FCC edited track 5 per promo (verify)",
+  "blurb": "Philadelphia. Debut LP, seven songs, mixed by Samantha Rosen. Desert blues guitar and 90s alt-rock. Single \"Cobalt\" came first.",
+  "also_in": [],
+  "source": "md_list_promo"
  }
 ]

@@ -45,6 +45,15 @@
   "key": "dead man s bones|lost in the night single"
  },
  {
+  "artist": "Autumn Luz",
+  "title": "Moments",
+  "type": "album",
+  "label": "Self-Released",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "autumn luz|moments"
+ },
+ {
   "artist": "lovetempo",
   "title": "Never The Same",
   "type": "single",
@@ -81,192 +90,183 @@
   "key": "dai freyr pronounced dah thi fray er|too much is not enough"
  },
  {
-  "artist": "Alexis Taylor",
-  "title": "Out Of Phase (feat. Lola Kirke)",
+  "artist": "runo plum",
+  "title": "Bloom Again",
+  "type": "album",
+  "label": "Winspear",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "runo plum|bloom again"
+ },
+ {
+  "artist": "Alex Krawczyk",
+  "title": "Wonders Await",
+  "type": "album",
+  "label": "MTS",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "alex krawczyk|wonders await"
+ },
+ {
+  "artist": "Spaceport",
+  "title": "Cut The Cake",
+  "type": "album",
+  "label": "Aura Vortex",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "spaceport|cut the cake"
+ },
+ {
+  "artist": "District Five",
+  "title": "Place Your Bet",
   "type": "single",
-  "label": "Night Time Stories",
+  "label": "Stone Pixels",
   "current_date": "",
   "date_check": "needed",
-  "key": "alexis taylor|out of phase feat lola kirke"
+  "key": "district five|place your bet"
  },
  {
-  "artist": "DRAMA",
-  "title": "Platonic Romance",
-  "type": "album",
-  "label": "AWAL",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "drama|platonic romance"
- },
- {
-  "artist": "Owelu Dreamhouse",
-  "title": "Owelu Dreamhouse",
-  "type": "album",
-  "label": "Hopestreet Records",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "owelu dreamhouse|owelu dreamhouse"
- },
- {
-  "artist": "Beverly Glenn-Copeland",
-  "title": "Laughter In Summer",
-  "type": "album",
-  "label": "Transgressive / [PIAS]",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "beverly glenn copeland|laughter in summer"
- },
- {
-  "artist": "Tom Misch",
-  "title": "Days Of Us (feat. Kaidi Akinnibi)",
+  "artist": "District Five",
+  "title": "Push (feat. Saul Williams)",
   "type": "single",
-  "label": "Beyond The Groove / AWAL",
+  "label": "Stone Pixels",
   "current_date": "",
   "date_check": "needed",
-  "key": "tom misch|days of us feat kaidi akinnibi"
+  "key": "district five|push feat saul williams"
  },
  {
-  "artist": "Alexis Taylor",
-  "title": "Paris In The Spring",
+  "artist": "Hiding Places",
+  "title": "The Secret to Good Living",
   "type": "album",
-  "label": "Night Time Stories",
+  "label": "Keeled Scales",
   "current_date": "",
   "date_check": "needed",
-  "key": "alexis taylor|paris in the spring"
+  "key": "hiding places|secret to good living"
  },
  {
-  "artist": "Alexis Taylor",
-  "title": "I Can Feel Your Love",
+  "artist": "District Five",
+  "title": "Somewhere In Between",
   "type": "single",
-  "label": "Night Time Stories",
+  "label": "Stone Pixels",
   "current_date": "",
   "date_check": "needed",
-  "key": "alexis taylor|i can feel your love"
+  "key": "district five|somewhere in between"
  },
  {
-  "artist": "Wendy Eisenberg",
-  "title": "Wendy Eisenberg",
+  "artist": "Marika Che",
+  "title": "Bright Flame",
   "type": "album",
-  "label": "Joyful Noise",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "wendy eisenberg|wendy eisenberg"
- },
- {
-  "artist": "Tom Misch",
-  "title": "Full Circle",
-  "type": "album",
-  "label": "Beyond The Groove / AWAL",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "tom misch|full circle"
- },
- {
-  "artist": "Accessory",
-  "title": "Dust",
-  "type": "album",
-  "label": "ACX",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "accessory|dust"
- },
- {
-  "artist": "Bye Parula",
-  "title": "Something Out Of Nothing",
-  "type": "album",
-  "label": "Secret City",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "bye parula|something out of nothing"
- },
- {
-  "artist": "Vacations",
-  "title": "Holy Grail",
-  "type": "single",
-  "label": "Nettwerk",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "vacations|holy grail"
- },
- {
-  "artist": "The Tullamarines",
-  "title": "Safety Blanket EP",
-  "type": "EP",
   "label": "Self-Released",
   "current_date": "",
   "date_check": "needed",
-  "key": "tullamarines|safety blanket ep"
+  "key": "marika che|bright flame"
  },
  {
-  "artist": "Ages and Ages",
-  "title": "Fine Thanks and You",
+  "artist": "District Five",
+  "title": "GLUT",
   "type": "album",
-  "label": "Needle and Thread",
+  "label": "Stone Pixels",
   "current_date": "",
   "date_check": "needed",
-  "key": "ages and ages|fine thanks and you"
+  "key": "district five|glut"
  },
  {
-  "artist": "Marlon Magnee",
-  "title": "Dark Star",
+  "artist": "villagerrr",
+  "title": "Carousel",
   "type": "album",
-  "label": "Disque Pointu",
+  "label": "Winspear",
   "current_date": "",
   "date_check": "needed",
-  "key": "marlon magnee|dark star"
+  "key": "villagerrr|carousel"
  },
  {
-  "artist": "Maria BC",
-  "title": "Marathon",
+  "artist": "Wormy",
+  "title": "Shark River",
   "type": "album",
-  "label": "Sacred Bones",
+  "label": "Rose Garden",
   "current_date": "",
   "date_check": "needed",
-  "key": "maria bc|marathon"
+  "key": "wormy|shark river"
  },
  {
-  "artist": "Yumi Zouma",
-  "title": "No Love Lost to Kindness",
+  "artist": "Shabaka",
+  "title": "A Future Untold b/w Marwah The Mountain",
+  "type": "single",
+  "label": "Shabaka Records",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "shabaka|a future untold b w marwah the mountain"
+ },
+ {
+  "artist": "Glom",
+  "title": "Below",
   "type": "album",
   "label": "Nettwerk",
   "current_date": "",
   "date_check": "needed",
-  "key": "yumi zouma|no love lost to kindness"
+  "key": "glom|below"
  },
  {
-  "artist": "Allison Russell",
-  "title": "No Springtime (feat Joy Oladokun & Julie Williams)",
-  "type": "single",
-  "label": "Concord Records",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "allison russell|no springtime feat joy oladokun julie williams"
- },
- {
-  "artist": "Lucky",
-  "title": "Biting Heels",
+  "artist": "Charlie Needs Braces",
+  "title": "NYAA WA",
   "type": "album",
-  "label": "Community Music / Unified",
+  "label": "Self-Released",
   "current_date": "",
   "date_check": "needed",
-  "key": "lucky|biting heels"
+  "key": "charlie needs braces|nyaa wa"
  },
  {
-  "artist": "Allison Russell",
-  "title": "Black Lavender",
+  "artist": "Robyn",
+  "title": "Talk To Me b/w Sexistential",
   "type": "single",
-  "label": "Fantasy / Concord Recordings",
+  "label": "Young",
   "current_date": "",
   "date_check": "needed",
-  "key": "allison russell|black lavender"
+  "key": "robyn|talk to me b w sexistential"
  },
  {
-  "artist": "Brockhoff",
-  "title": "Easy Peeler",
-  "type": "album",
-  "label": "[PIAS]",
+  "artist": "DJ Seinfeld",
+  "title": "Plush",
+  "type": "single",
+  "label": "Ninja Tune",
   "current_date": "",
   "date_check": "needed",
-  "key": "brockhoff|easy peeler"
+  "key": "dj seinfeld|plush"
+ },
+ {
+  "artist": "Samm Henshaw",
+  "title": "Hair Down",
+  "type": "single",
+  "label": "Dorm Seven / AWAL",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "samm henshaw|hair down"
+ },
+ {
+  "artist": "49th & Main",
+  "title": "LIVE 4 THE WEEKEND",
+  "type": "single",
+  "label": "Counter Records",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "49th main|live 4 the weekend"
+ },
+ {
+  "artist": "River Tiber",
+  "title": "Spirals",
+  "type": "album",
+  "label": "Self-Released",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "river tiber|spirals"
+ },
+ {
+  "artist": "GUV",
+  "title": "Warmer Than Gold",
+  "type": "album",
+  "label": "Run For Cover",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "guv|warmer than gold"
  }
 ]

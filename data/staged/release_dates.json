@@ -4684,5 +4684,292 @@
   "label": "Because Music",
   "confirmed": false,
   "checked_on": "2026-10-29"
+ },
+ "alexis taylor|paris in the spring": {
+  "date": "2026-03-13",
+  "precision": "day",
+  "sources": [
+   "https://alexistaylor.bandcamp.com/album/paris-in-the-spring",
+   "https://open.spotify.com/album/0doGfyxVBHG9nPvQoq9LhT",
+   "https://music.apple.com/us/album/paris-in-the-spring/1846611438",
+   "https://stereogum.com/2485096/alexis-taylor-announces-new-album-paris-in-the-spring-feat-the-avalanches-airs-nicolas-godin-scritti-polittis-green-gartside-more/music"
+  ],
+  "status": "released",
+  "note": "Bandcamp, Spotify, Apple Music and Stereogum agree: Mar. 13, 2026 (Night Time Stories).",
+  "label": "",
+  "confirmed": true,
+  "checked_on": "2026-10-30"
+ },
+ "alexis taylor|out of phase feat lola kirke": {
+  "date": "2026-01",
+  "precision": "month",
+  "sources": [
+   "https://www.theransomnote.com/music/news/alexis-taylor-announces-new-album-paris-in-the-spring/"
+  ],
+  "status": "single, day not found",
+  "note": "Lead single from Paris In The Spring (album Mar. 13, 2026), announced mid-January 2026 per Ransom Note. Single day not found.",
+  "label": "",
+  "confirmed": false,
+  "checked_on": "2026-10-30"
+ },
+ "alexis taylor|i can feel your love": {
+  "date": "2026-03",
+  "precision": "month",
+  "sources": [
+   "https://stereogum.com/2491019/alexis-taylor-i-can-feel-your-love-prod-the-avalanches/music",
+   "https://www.clashmusic.com/news/alexis-taylor-shares-avalanches-produced-i-can-feel-your-love/"
+  ],
+  "status": "single, day not found",
+  "note": "Stereogum and Clash coverage in early March 2026, about Mar. 3 per search summary. Album Mar. 13, 2026. Apple Music page shows Nov. 11, 2025 (conflict). Day not confirmed.",
+  "label": "",
+  "confirmed": false,
+  "checked_on": "2026-10-30"
+ },
+ "drama|platonic romance": {
+  "date": "2026-01-09",
+  "precision": "day",
+  "sources": [
+   "https://thedramaduo.bandcamp.com/album/platonic-romance",
+   "https://www.allmusic.com/album/platonic-romance-mw0004749960",
+   "https://sheldonangmedia.com/press-release/drama-unveils-new-album-platonic-romance/"
+  ],
+  "status": "released",
+  "note": "Bandcamp and AllMusic agree: Jan. 9, 2026 (AWAL). Press release Jan. 19 says out now.",
+  "label": "",
+  "confirmed": true,
+  "checked_on": "2026-10-30"
+ },
+ "owelu dreamhouse|owelu dreamhouse": {
+  "date": "2026-02-06",
+  "precision": "day",
+  "sources": [
+   "https://oweludreamhouse.bandcamp.com/album/owelu-dreamhouse",
+   "https://music.apple.com/us/album/owelu-dreamhouse/1866474040"
+  ],
+  "status": "released",
+  "note": "Bandcamp and Apple Music agree: Feb. 6, 2026 (Hopestreet Recordings). GrooveSpin lists a Mar. 13 vinyl edition.",
+  "label": "",
+  "confirmed": true,
+  "checked_on": "2026-10-30"
+ },
+ "beverly glenn copeland|laughter in summer": {
+  "date": "2026-02-06",
+  "precision": "day",
+  "sources": [
+   "https://transgressiverecords.com/news/beverly-glenn-copeland-announces-a-new-album-laughter-in-summer/",
+   "https://en.wikipedia.org/wiki/Laughter_in_Summer",
+   "https://beverlyglenn-copeland.bandcamp.com/album/laughter-in-summer"
+  ],
+  "status": "released",
+  "note": "Transgressive, Wikipedia and Bandcamp agree: Feb. 6, 2026. One Transgressive single post says Feb. 2 (outlier).",
+  "label": "",
+  "confirmed": true,
+  "checked_on": "2026-10-30"
+ },
+ "tom misch|full circle": {
+  "date": "2026-03-27",
+  "precision": "day",
+  "sources": [
+   "https://music.apple.com/us/album/full-circle/1868437787",
+   "https://www.billboard.com/music/pop/tom-misch-new-album-full-circle-release-date-1236166616/",
+   "https://www.thelineofbestfit.com/news/tom-misch-to-return-with-second-album-full-circle"
+  ],
+  "status": "released",
+  "note": "Apple Music and press agree: Mar. 27, 2026 (Beyond The Groove / AWAL).",
+  "label": "",
+  "confirmed": true,
+  "checked_on": "2026-10-30"
+ },
+ "tom misch|days of us feat kaidi akinnibi": {
+  "date": "2026-03-27",
+  "precision": "day",
+  "sources": [
+   "https://tommisch.bandcamp.com/track/days-of-us-feat-kaidi-akinnibi",
+   "https://www.thenote.com.au/news/tom-misch-drops-new-single-slow-tonight-37g8x"
+  ],
+  "status": "single, date unverified",
+  "note": "Bandcamp says Mar. 27, 2026, same day as the album Full Circle. Final preview single per The Note. Apple Music listing shows Mar. 13. Not confirmed.",
+  "label": "",
+  "confirmed": false,
+  "checked_on": "2026-10-30"
+ },
+ "wendy eisenberg|wendy eisenberg": {
+  "date": "2026-04-03",
+  "precision": "day",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wendy_Eisenberg",
+   "https://www.allmusic.com/album/release/wendy-eisenberg-mr0006991742",
+   "https://readdork.com/album/wendy-eisenberg-wendy-eisenberg"
+  ],
+  "status": "released",
+  "note": "Wikipedia, AllMusic and Dork agree: Apr. 3, 2026 (Joyful Noise, JNR514).",
+  "label": "",
+  "confirmed": true,
+  "checked_on": "2026-10-30"
+ },
+ "accessory|dust": {
+  "date": "2026-04-17",
+  "precision": "day",
+  "sources": [
+   "https://accessoryy.bandcamp.com/album/dust",
+   "https://music.apple.com/us/album/dust/1868732102",
+   "https://open.spotify.com/album/1CI1CjKwlBCH3zVlzolNwY"
+  ],
+  "status": "released",
+  "note": "Bandcamp, Apple Music and Spotify agree: Apr. 17, 2026. Label ACX per Spotify; Lunchbox lists Love Song Dance for the LP.",
+  "label": "",
+  "confirmed": true,
+  "checked_on": "2026-10-30"
+ },
+ "bye parula|something out of nothing": {
+  "date": "2026-06-05",
+  "precision": "day",
+  "sources": [
+   "https://byeparula.bandcamp.com/album/something-out-of-nothing",
+   "https://www.killbeatmusic.com/media-releases/2026/6/5/bye-parulas-new-album-something-out-of-nothing-out-today",
+   "https://music.apple.com/us/album/something-out-of-nothing/1870322662"
+  ],
+  "status": "released",
+  "note": "Killbeat release (out today, Jun. 5), Apple Music and retailers agree: Jun. 5, 2026 (Secret City).",
+  "label": "",
+  "confirmed": true,
+  "checked_on": "2026-10-30"
+ },
+ "vacations|holy grail": {
+  "date": "2026-05",
+  "precision": "month",
+  "sources": [
+   "https://thedailymusicreport.com/music-news-releases/vacations-holy-grail-05122026/",
+   "https://www.lionheartv.net/2026/05/vacations-share-introspective-new-single-video-holy-grail-announce-new-album-pursuit-of-anything-out-2-oct/"
+  ],
+  "status": "single, day not found",
+  "note": "Lead single from Pursuit of Anything (Oct. 2, 2026). Coverage dated May 12 to 14, 2026. Exact release day not stated in sources found.",
+  "label": "",
+  "confirmed": false,
+  "checked_on": "2026-10-30"
+ },
+ "tullamarines|safety blanket ep": {
+  "date": "2025-09",
+  "precision": "month",
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Tullamarines",
+   "https://www.thenote.com.au/news/the-tullamarines-new-ep-safety-blanket-2025-national-tour",
+   "https://www.discogs.com/release/35352466-The-Tullamarines-Safety-Blanket"
+  ],
+  "status": "date unclear",
+  "note": "Wikipedia says September 2025. The Note ran the EP story Sept. 25, 2025. Discogs lists the vinyl as Oct. 10, 2025. Digital day not confirmed.",
+  "label": "",
+  "confirmed": false,
+  "checked_on": "2026-10-30"
+ },
+ "ages and ages|fine thanks and you": {
+  "date": "2026-03-06",
+  "precision": "day",
+  "sources": [
+   "https://agesandages.bandcamp.com/album/fine-thanks-and-you",
+   "https://www.shazam.com/en-us/song/1848621812/wild-ride",
+   "https://music.apple.com/us/album/fine-thanks-and-you/1848621809"
+  ],
+  "status": "released",
+  "note": "Bandcamp and Shazam (Needle and Thread Records) agree: Mar. 6, 2026.",
+  "label": "",
+  "confirmed": true,
+  "checked_on": "2026-10-30"
+ },
+ "marlon magnee|dark star": {
+  "date": "2026-03-06",
+  "precision": "day",
+  "sources": [
+   "https://music.apple.com/us/album/dark-star/1858982242",
+   "https://www.amoeba.com/dark-star-lp-marlon-magn-e/albums/4468373/",
+   "https://levitation.fm/products/marlon-magnee-dark-star-vinyl"
+  ],
+  "status": "released",
+  "note": "Apple Music, Amoeba and Levitation agree: Mar. 6, 2026 (Disque Pointu).",
+  "label": "",
+  "confirmed": true,
+  "checked_on": "2026-10-30"
+ },
+ "maria bc|marathon": {
+  "date": "2026-02-27",
+  "precision": "day",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marathon_(Maria_BC_album)",
+   "https://circuitsweet.co.uk/2026/01/maria-bc-announces-new-album-marathon-out-february-27th-via-sacred-bones-records-shares-title-track/",
+   "https://mariabc.bandcamp.com/album/marathon"
+  ],
+  "status": "released",
+  "note": "Wikipedia and Circuit Sweet agree: Feb. 27, 2026 (Sacred Bones, SBR-378).",
+  "label": "",
+  "confirmed": true,
+  "checked_on": "2026-10-30"
+ },
+ "yumi zouma|no love lost to kindness": {
+  "date": "2026-01-30",
+  "precision": "day",
+  "sources": [
+   "https://yumizouma.bandcamp.com/album/no-love-lost-to-kindness",
+   "https://nettwerk.com/news/yumi-zouma-announces-new-lp-no-love-lost-to-kindness-out-january-30-2026-via-nettwerk",
+   "https://13thfloor.co.nz/yumi-zouma-no-love-lost-to-kindness-nettwerk-13th-floor-album-review/"
+  ],
+  "status": "released",
+  "note": "Bandcamp, Nettwerk and 13th Floor agree: Jan. 30, 2026.",
+  "label": "",
+  "confirmed": true,
+  "checked_on": "2026-10-30"
+ },
+ "allison russell|no springtime feat joy oladokun julie williams": {
+  "date": "2026-04-10",
+  "precision": "day",
+  "sources": [
+   "https://www.concordrecords.com/blogs/news/allison-russell-releases-the-single-no-springtime-featuring-joy-oladokun-julie-williams",
+   "https://music.apple.com/us/album/no-springtime-single/1886538744",
+   "https://www.broadwayworld.com/article/Listen-Allison-Russell-Shares-No-Springtime-Single-Feat-Joy-Oladokun-Julie-Williams-20260410"
+  ],
+  "status": "released",
+  "note": "Concord, Apple Music and BroadwayWorld agree: Apr. 10, 2026. Album In the Hour of Chaos is Jul. 10, 2026 (Fantasy).",
+  "label": "",
+  "confirmed": true,
+  "checked_on": "2026-10-30"
+ },
+ "allison russell|black lavender": {
+  "date": "2026-06-19",
+  "precision": "day",
+  "sources": [
+   "https://www.killbeatmusic.com/media-releases/2026/6/19/allison-russell-shares-black-lavender-ft-brittney-spencer-for-juneteenth",
+   "https://femmusic.com/2026/06/19/allison-russell-ft-brittney-spencer-black-lavender/"
+  ],
+  "status": "released",
+  "note": "Killbeat and FEMMUSIC agree: Jun. 19, 2026 (Juneteenth), feat. Brittney Spencer. Album Jul. 10, 2026.",
+  "label": "",
+  "confirmed": true,
+  "checked_on": "2026-10-30"
+ },
+ "lucky|biting heels": {
+  "date": "2026-04-10",
+  "precision": "day",
+  "sources": [
+   "https://music.apple.com/au/album/biting-heels/1872910699",
+   "https://www.shazam.com/en-us/song/1872910945/biting-heels"
+  ],
+  "status": "released",
+  "note": "Apple Music and Shazam agree: Apr. 10, 2026 (Community Music). Format: Apple lists album, RYM and Broken8 call it a debut EP (9 tracks, 26 min).",
+  "label": "",
+  "confirmed": true,
+  "checked_on": "2026-10-30"
+ },
+ "brockhoff|easy peeler": {
+  "date": "2026-06-05",
+  "precision": "day",
+  "sources": [
+   "https://brockhoff.bandcamp.com/album/easy-peeler-debut-album-june-5th-2026",
+   "https://music.apple.com/za/album/easy-peeler/1839964057",
+   "https://www.mixeduprecords.com/products/brockhoff-easy-peeler"
+  ],
+  "status": "released",
+  "note": "Bandcamp, Apple Music and Mixed Up agree: Jun. 5, 2026 ([PIAS] Germany).",
+  "label": "",
+  "confirmed": true,
+  "checked_on": "2026-10-30"
  }
 }
