@@ -1,151 +1,151 @@
 {
- "_note": "Single registry of every playlist. id=null means the playlist must be created on first run, then the id saved here. Order: 'forward' or 'reversed'. mode: how automation may touch it.",
- "playlists": {
-  "air_order": {
-   "title": "DJ Stace library show Air Order",
-   "id": "PLSosF7JAIkaM",
-   "order": "forward",
-   "mode": "build draft; Stace edits by hand; her edits win",
-   "target_minutes_per_show_hour": 75,
-   "last_sync": "2026-10-22 (Thursday-night draft for Oct. 29 Halloween: 42 adds, 52 removes; verified 42 rows equal to plan) | 2026-10-27: read back 51 tracks, Stace appended 9; not rewritten by Claude | 2026-10-28 (Wednesday final): read back 52 tracks, one new add (Coil #45), no removals; not rewritten by Claude | 2026-10-29: read back 40 tracks (Stace cut 13, added This Corrosion); Claude appended 8 Halloween tracks from her reviews via edit_playlist (add-only); verified by reload: 48 tracks | 2026-10-29 later: Claude appended 3 Queens Triple Shot options (add-only); Stace added 4 more; verified by reload: 55 tracks | 2026-10-29 10 a.m.: reordered into set order with moves (55 tracks), then 20 tracks Stace cut from Working removed; 35 tracks, verified by reload: equals Working reversed (YTM header runtime lagged at 3:32)"
+  "_note": "Single registry of every playlist. id=null means the playlist must be created on first run, then the id saved here. Order: 'forward' or 'reversed'. mode: how automation may touch it.",
+  "playlists": {
+    "air_order": {
+      "title": "DJ Stace library show Air Order",
+      "id": "PLSosF7JAIkaM",
+      "order": "forward",
+      "mode": "build draft; Stace edits by hand; her edits win",
+      "target_minutes_per_show_hour": 75,
+      "last_sync": "2026-10-22 (Thursday-night draft for Oct. 29 Halloween: 42 adds, 52 removes; verified 42 rows equal to plan) | 2026-10-27: read back 51 tracks, Stace appended 9; not rewritten by Claude | 2026-10-28 (Wednesday final): read back 52 tracks, one new add (Coil #45), no removals; not rewritten by Claude | 2026-10-29: read back 40 tracks (Stace cut 13, added This Corrosion); Claude appended 8 Halloween tracks from her reviews via edit_playlist (add-only); verified by reload: 48 tracks | 2026-10-29 later: Claude appended 3 Queens Triple Shot options (add-only); Stace added 4 more; verified by reload: 55 tracks | 2026-10-29 10 a.m.: reordered into set order with moves (55 tracks), then 20 tracks Stace cut from Working removed; 35 tracks, verified by reload: equals Working reversed (YTM header runtime lagged at 3:32) | 2026-10-29 10 p.m. (Thursday-night draft for Nov. 5): deltas only, 43 tracks, verified by reload: equals data/recon/2026-11-05/working_playlist.json ytm_air_order"
+    },
+    "working": {
+      "title": "DJ Stace library show working",
+      "id": "PLLXFGCRcu_qc",
+      "order": "reversed",
+      "mode": "mirror Air Order reversed; deltas only; flip with Sort > Newest first",
+      "last_sync": "2026-10-29 (Thursday 9 a.m. sync for the Halloween show: 51 removed via edit_playlist, 54 added, 3 Stace-uploaded radio edits from the Oct. 22 show removed, 54 moves; 55 tracks, 3:42; verified by reload in Manual ordering: equals plan order reversed; first row Black Sabbath, last row Ministry Every Day Is Halloween. Note: the saved Sort resets to Manual on reload, so the order is stored as manual positions. Plan order differs from Air Order sequence; Air Order not touched) | 2026-10-29 10 a.m.: Stace deleted 20 tracks by hand (35 left, 2:23); order still plan order reversed; Air Order now mirrors it"
+    },
+    "weekly": {
+      "title": "Stace's Weekly Playlist",
+      "id": "PLCLF-Tik2UHk",
+      "order": "forward",
+      "mode": "ADD only; never clear; Stace deletes stale tracks; log her deletes (60-day cool-off)",
+      "last_sweep": "2026-10-27 Tuesday sweep for Oct. 29: 219 tracks (207 + 12 adds); 0 to FCC Edit Needed; notes outputs/weekly/2026-10-29_tuesday-sweep.md | 2026-10-29 night: no writes; snapshot refreshed"
+    },
+    "new_releases_review": {
+      "title": "New Releases for Review",
+      "id": "PLIl7VQi0nzk0",
+      "order": "newest first (set Sort > Newest first so saves land on top)",
+      "mode": "Tue and Fri 8:20 a.m. via skills/kzsu-new-releases-review; ADD new singles and lead tracks on top; remove only tracks Claude added once 14 days old; never remove tracks Stace added; log her deletes. Ledger: data/new_releases_review/ledger.json",
+      "last_refresh": "2026-10-27 (24 tracks: 2 deleted by Stace, 1 added by Stace, 8 expired and removed, 6 added; Sort Newest first; verified by reload)"
+    },
+    "fcc_edit_needed": {
+      "title": "FCC Edit Needed",
+      "id": "PLMduzOohHQLoN-Bq1XuSpyqe1i5JffIad",
+      "order": "forward",
+      "mode": "add strong tracks with FCC hits; label not airable 6am-10pm"
+    },
+    "next_show": {
+      "title": "DJ Stace - Next Show",
+      "id": "PLMduzOohHQLrQzt6w4ep6l2zAwcIzoZVF",
+      "order": "forward",
+      "mode": "READ ONLY; snapshot and diff for new interests"
+    },
+    "to_review": {
+      "title": "To Review",
+      "id": "PLMduzOohHQLoYAPMl9uNRayfpe9uQ3NiA",
+      "order": "forward",
+      "mode": "repopulate: albums with boilerplate requested (one-time reset of stale list needs Stace OK)"
+    },
+    "kzsu_current_adds": {
+      "title": "KZSU Current Adds (filtered for DJ Stace)",
+      "id": "PLSOHIL9I5GUo",
+      "order": "forward",
+      "mode": "refresh weekly from Zookeeper Current Adds, filtered by taste profile",
+      "last_refresh": "2026-10-04 from data/zookeeper/current_adds_2026-10-04.json"
+    },
+    "college_top50": {
+      "title": "College Radio Top 50",
+      "id": "PLAuYzGJw8qFE",
+      "order": "forward",
+      "mode": "refresh weekly from indie/rock/alt charts",
+      "last_refresh": "2026-10-26 (NACC 200, week ending Oct. 20; +12 new entrants, -11 dropped; 41 tracks; verified by reload; Remi Wolf lead swapped to Moon So High after FCC screen)"
+    },
+    "archive_pattern": {
+      "title": "The Library Show on KZSU 90.1 Stanford, CA with DJ Stace ({Month} {d}, {yyyy} Show)",
+      "id": null,
+      "order": "forward",
+      "mode": "one new playlist per aired show, from Zookeeper log; always set a description (see kzsu-archive-playlist)"
+    },
+    "specialty_pattern": {
+      "title": "Library Specialty: {name} {yyyy}",
+      "id": null,
+      "order": "forward",
+      "mode": "2.5 hr suggestion playlist per seasonal or topical show"
+    },
+    "specialty_halloween_2026": {
+      "title": "Library Specialty: Halloween 2026",
+      "id": "PLPKWMgnm3SDs",
+      "order": "forward",
+      "mode": "suggestion playlist for Oct. 29, 2026 show; Stace culls",
+      "tracks": 47,
+      "last_refresh": "2026-10-15 (Black Sabbath and QOTSA No One Knows added (47 tracks); plan JSON has videoIds, tags, labels. Note: the YTM playlist API returns 7 extra Suggestions rows after the tracks; ignore them)"
+    },
+    "specialty_thanksgiving_2026": {
+      "title": "Library Specialty: Thanksgiving 2026",
+      "id": "PLayCr-iEi4UA",
+      "order": "forward",
+      "mode": "suggestion playlist for Nov. 26, 2026 show; Stace culls; built Oct. 15, 2026 by kzsu-monthly-specialty; refresh Nov. 12",
+      "tracks": 40
+    },
+    "morning_zsu_air_order_2026-10-07": {
+      "title": "DJ Stace - KZSU Morning ZSU Show Air Order",
+      "id": "PLZV1b74jeRUQ",
+      "order": "forward",
+      "mode": "one-off Morning ZSU show, Oct. 7, 2026, 7-9 a.m.; 43 tracks; KZSU account (Stacey Maples); plan in data/morning/2026-10-07/plan.json",
+      "tracks": 43
+    },
+    "morning_zsu_working_2026-10-07": {
+      "title": "DJ Stace - KZSU Morning ZSU Show Working",
+      "id": "PLfNtAq8pn2cM",
+      "order": "reversed",
+      "mode": "mirror of the Morning ZSU Air Order, reversed (play bottom-up); KZSU account",
+      "tracks": 43
+    },
+    "morning_zsu_archive_2026-10-07": {
+      "title": "Morning ZSU on KZSU 90.1 Stanford, CA with DJ Stace (October 7, 2026 Show)",
+      "id": "PLSM27v5w-ZEM",
+      "order": "forward",
+      "mode": "archive from Zookeeper show 58312; 29 spins; KZSU account",
+      "tracks": 29
+    },
+    "_wrong_account_to_delete": {
+      "note": "Created Oct. 7 while Chrome was signed in to the stanford.edu account. Stace can delete: PLWCBTcviELTQ (Air Order), PLYPnsX9gp6mU (Working)."
+    },
+    "_duplicate_to_delete": {
+      "title": "ZZ DUPLICATE Halloween (merge then delete)",
+      "id": "PLOz3GHSbvBi8",
+      "mode": "duplicate created by a double click; all tracks merged into the main playlist; Stace deletes it"
+    },
+    "archives": {
+      "2026-10-01": "PLTqLTSGi_8aY",
+      "2026-10-07-morning-zsu": "PLSM27v5w-ZEM",
+      "2026-10-08": "PLTkYqE8jtpXg",
+      "2026-10-15": "PLa4ZjzLjQBsM",
+      "2026-10-22": "PLY-VzuWmkIv8"
+    },
+    "one_hour_air_order_2026-10-29": {
+      "title": "DJ Stace library show Air Order (1 hr, Oct. 29)",
+      "id": "PLfydhmcD-HG8",
+      "order": "forward",
+      "mode": "one-off 1-hour show Oct. 29, 2026 (Stanford Sports preempts half the show); 15 tracks, 1:05:50; unlisted; picks from the One-Hour Picker sheet; do not overwrite the standard Air Order"
+    },
+    "one_hour_working_2026-10-29": {
+      "title": "DJ Stace library show working (1 hr, Oct. 29)",
+      "id": "PLWH3Pu97qBEg",
+      "order": "reversed",
+      "mode": "mirror of the 1-hour Air Order, reversed (play bottom-up); unlisted"
+    }
   },
-  "working": {
-   "title": "DJ Stace library show working",
-   "id": "PLLXFGCRcu_qc",
-   "order": "reversed",
-   "mode": "mirror Air Order reversed; deltas only; flip with Sort > Newest first",
-   "last_sync": "2026-10-29 (Thursday 9 a.m. sync for the Halloween show: 51 removed via edit_playlist, 54 added, 3 Stace-uploaded radio edits from the Oct. 22 show removed, 54 moves; 55 tracks, 3:42; verified by reload in Manual ordering: equals plan order reversed; first row Black Sabbath, last row Ministry Every Day Is Halloween. Note: the saved Sort resets to Manual on reload, so the order is stored as manual positions. Plan order differs from Air Order sequence; Air Order not touched) | 2026-10-29 10 a.m.: Stace deleted 20 tracks by hand (35 left, 2:23); order still plan order reversed; Air Order now mirrors it"
-  },
-  "weekly": {
-   "title": "Stace's Weekly Playlist",
-   "id": "PLCLF-Tik2UHk",
-   "order": "forward",
-   "mode": "ADD only; never clear; Stace deletes stale tracks; log her deletes (60-day cool-off)",
-   "last_sweep": "2026-10-27 Tuesday sweep for Oct. 29: 219 tracks (207 + 12 adds); 0 to FCC Edit Needed; notes outputs/weekly/2026-10-29_tuesday-sweep.md"
-  },
-  "new_releases_review": {
-   "title": "New Releases for Review",
-   "id": "PLIl7VQi0nzk0",
-   "order": "newest first (set Sort > Newest first so saves land on top)",
-   "mode": "Tue and Fri 8:20 a.m. via skills/kzsu-new-releases-review; ADD new singles and lead tracks on top; remove only tracks Claude added once 14 days old; never remove tracks Stace added; log her deletes. Ledger: data/new_releases_review/ledger.json",
-   "last_refresh": "2026-10-27 (24 tracks: 2 deleted by Stace, 1 added by Stace, 8 expired and removed, 6 added; Sort Newest first; verified by reload)"
-  },
-  "fcc_edit_needed": {
-   "title": "FCC Edit Needed",
-   "id": "PLMduzOohHQLoN-Bq1XuSpyqe1i5JffIad",
-   "order": "forward",
-   "mode": "add strong tracks with FCC hits; label not airable 6am-10pm"
-  },
-  "next_show": {
-   "title": "DJ Stace - Next Show",
-   "id": "PLMduzOohHQLrQzt6w4ep6l2zAwcIzoZVF",
-   "order": "forward",
-   "mode": "READ ONLY; snapshot and diff for new interests"
-  },
-  "to_review": {
-   "title": "To Review",
-   "id": "PLMduzOohHQLoYAPMl9uNRayfpe9uQ3NiA",
-   "order": "forward",
-   "mode": "repopulate: albums with boilerplate requested (one-time reset of stale list needs Stace OK)"
-  },
-  "kzsu_current_adds": {
-   "title": "KZSU Current Adds (filtered for DJ Stace)",
-   "id": "PLSOHIL9I5GUo",
-   "order": "forward",
-   "mode": "refresh weekly from Zookeeper Current Adds, filtered by taste profile",
-   "last_refresh": "2026-10-04 from data/zookeeper/current_adds_2026-10-04.json"
-  },
-  "college_top50": {
-   "title": "College Radio Top 50",
-   "id": "PLAuYzGJw8qFE",
-   "order": "forward",
-   "mode": "refresh weekly from indie/rock/alt charts",
-   "last_refresh": "2026-10-26 (NACC 200, week ending Oct. 20; +12 new entrants, -11 dropped; 41 tracks; verified by reload; Remi Wolf lead swapped to Moon So High after FCC screen)"
-  },
-  "archive_pattern": {
-   "title": "The Library Show on KZSU 90.1 Stanford, CA with DJ Stace ({Month} {d}, {yyyy} Show)",
-   "id": null,
-   "order": "forward",
-   "mode": "one new playlist per aired show, from Zookeeper log; always set a description (see kzsu-archive-playlist)"
-  },
-  "specialty_pattern": {
-   "title": "Library Specialty: {name} {yyyy}",
-   "id": null,
-   "order": "forward",
-   "mode": "2.5 hr suggestion playlist per seasonal or topical show"
-  },
-  "specialty_halloween_2026": {
-   "title": "Library Specialty: Halloween 2026",
-   "id": "PLPKWMgnm3SDs",
-   "order": "forward",
-   "mode": "suggestion playlist for Oct. 29, 2026 show; Stace culls",
-   "tracks": 47,
-   "last_refresh": "2026-10-15 (Black Sabbath and QOTSA No One Knows added (47 tracks); plan JSON has videoIds, tags, labels. Note: the YTM playlist API returns 7 extra Suggestions rows after the tracks; ignore them)"
-  },
-  "specialty_thanksgiving_2026": {
-   "title": "Library Specialty: Thanksgiving 2026",
-   "id": "PLayCr-iEi4UA",
-   "order": "forward",
-   "mode": "suggestion playlist for Nov. 26, 2026 show; Stace culls; built Oct. 15, 2026 by kzsu-monthly-specialty; refresh Nov. 12",
-   "tracks": 40
-  },
-  "morning_zsu_air_order_2026-10-07": {
-   "title": "DJ Stace - KZSU Morning ZSU Show Air Order",
-   "id": "PLZV1b74jeRUQ",
-   "order": "forward",
-   "mode": "one-off Morning ZSU show, Oct. 7, 2026, 7-9 a.m.; 43 tracks; KZSU account (Stacey Maples); plan in data/morning/2026-10-07/plan.json",
-   "tracks": 43
-  },
-  "morning_zsu_working_2026-10-07": {
-   "title": "DJ Stace - KZSU Morning ZSU Show Working",
-   "id": "PLfNtAq8pn2cM",
-   "order": "reversed",
-   "mode": "mirror of the Morning ZSU Air Order, reversed (play bottom-up); KZSU account",
-   "tracks": 43
-  },
-  "morning_zsu_archive_2026-10-07": {
-   "title": "Morning ZSU on KZSU 90.1 Stanford, CA with DJ Stace (October 7, 2026 Show)",
-   "id": "PLSM27v5w-ZEM",
-   "order": "forward",
-   "mode": "archive from Zookeeper show 58312; 29 spins; KZSU account",
-   "tracks": 29
-  },
-  "_wrong_account_to_delete": {
-   "note": "Created Oct. 7 while Chrome was signed in to the stanford.edu account. Stace can delete: PLWCBTcviELTQ (Air Order), PLYPnsX9gp6mU (Working)."
-  },
-  "_duplicate_to_delete": {
-   "title": "ZZ DUPLICATE Halloween (merge then delete)",
-   "id": "PLOz3GHSbvBi8",
-   "mode": "duplicate created by a double click; all tracks merged into the main playlist; Stace deletes it"
-  },
-  "archives": {
-   "2026-10-01": "PLTqLTSGi_8aY",
-   "2026-10-07-morning-zsu": "PLSM27v5w-ZEM",
-   "2026-10-08": "PLTkYqE8jtpXg",
-   "2026-10-15": "PLa4ZjzLjQBsM",
-   "2026-10-22": "PLY-VzuWmkIv8"
-  },
-  "one_hour_air_order_2026-10-29": {
-   "title": "DJ Stace library show Air Order (1 hr, Oct. 29)",
-   "id": "PLfydhmcD-HG8",
-   "order": "forward",
-   "mode": "one-off 1-hour show Oct. 29, 2026 (Stanford Sports preempts half the show); 15 tracks, 1:05:50; unlisted; picks from the One-Hour Picker sheet; do not overwrite the standard Air Order"
-  },
-  "one_hour_working_2026-10-29": {
-   "title": "DJ Stace library show working (1 hr, Oct. 29)",
-   "id": "PLWH3Pu97qBEg",
-   "order": "reversed",
-   "mode": "mirror of the 1-hour Air Order, reversed (play bottom-up); unlisted"
-  }
- },
- "read_only_taste_sources": "see data/ytm/playlists.json",
- "excluded_from_taste": [
-  "air_order",
-  "working",
-  "weekly",
-  "college_top50",
-  "kzsu_current_adds",
-  "archive_pattern",
-  "specialty_pattern"
- ]
+  "read_only_taste_sources": "see data/ytm/playlists.json",
+  "excluded_from_taste": [
+    "air_order",
+    "working",
+    "weekly",
+    "college_top50",
+    "kzsu_current_adds",
+    "archive_pattern",
+    "specialty_pattern"
+  ]
 }

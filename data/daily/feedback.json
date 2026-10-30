@@ -1965,6 +1965,10 @@
   {
    "date": "2026-10-29",
    "note": "Stace deleted 20 tracks from the Working playlist as a show-day cull (55 to 35, 2:23): Misfits Night of the Living Dead, Lemonheads Roky, both Sonics The Witch, A Giant Dog Black Mirror, So Pitted cat scratch, Fake Names Punk Ruins, The Wytches Gravedweller, Dread Spectre Council Hex's Up, Nick Cave Red Right Hand, Rolling Stones Sympathy For The Devil, QOTSA Burn the Witch and Hangin' Tree, Black Pumas Black Moon Rising, The Cure Lullaby, PiL Swan Lake, Pixies Dead, BODEGA Fear not the Fear, Skinny Puppy Love, Sisters of Mercy This Corrosion. Treated as show-length and flow cuts, not taste signals: no 60-day cool-off, no artist_removals increment. Air Order synced to Working (cuts removed, set order)."
+  },
+  {
+   "date": "2026-10-29",
+   "note": "Thursday-night draft (kzsu-thu-night-draft) for Nov. 5. Weekly Playlist unchanged since Oct. 27 (219 tracks, same ids). Next Show (read only) 61 tracks: Chris Cornell Seasons added; Avalanches Blue Shadows, Sharp Pins Live Without Her Love and Lucy Dacus Planting Tomatoes gone (not logged as removals). Air Order rewritten by deltas for the Nov. 5 plan (33 removed, 42 added, 1 kept, 1 move; 43 tracks verified). The Oct. 29 show-length cuts were avoided anyway for the same albums where another track fit."
   }
  ]
 }

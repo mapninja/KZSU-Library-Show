@@ -1,1 +1,313 @@
-{"playlist": "DJ Stace - Next Show", "id": "PLMduzOohHQLrQzt6w4ep6l2zAwcIzoZVF", "snapshot": "2026-10-27", "note": "Read Oct. 27 (read only): 63 tracks via API (library shows 72). 6 new since Oct. 23, no removals.", "tracks": [["The Avalanches", "Blue Shadows (feat. Karen O)", "nybyN7_98zw"], ["TV Priest", "Love Song (A Good Kind of Weapon)", "3vTgbvA1qVA"], ["Tricky & Mitch Sanders", "Because I Don’t Know", "kB06zmFKTQ0"], ["Royal Blood", "Ten Over Ten", "HzkJsKXCjvg"], ["TV Priest", "Just So You Know", "kKMhS5zhcnc"], ["Ty Segall", "Play Cowboys", "pirkuE2Edgc"], ["Twisted Teens", "Peekaboo Hand", "8bBhApxb_QQ"], ["Twisted Teens", "Riding", "qyMXk41TU7Y"], ["Sharp Pins", "Live Without Her Love", "zyqwnc29348"], ["Westside Cowboy", "You Could Have Died There On The Dancefloor", "fVuyZ-Wp7Ng"], ["Lucy Dacus", "Planting Tomatoes", "Kemyow8A4XY"], ["This Is Lorelei", "Hey Sarah Is It Gonna Rain Forever", "LHPybTFbWAA"], ["Hamilton Leithauser & Rostam", "In A Black Out (Piano Version)", "gexqEtgfLt8"], ["Lex Walton", "Ultimate Love 4Ever", "uan9YB7O8nU"], ["Palace", "Made My Bed", "MR-dh4FTavQ"], ["Palace", "Denny's", "vEL9U3Z1cvo"], ["Funkadelic", "Can You Get To That", "yl3fIXaAXow"], ["Sprints", "Little Fix", "TybCMKD_vU4"], ["Father John Misty", "The X-panded Universe", "9kBigVxK7PY"], ["Bootsy Collins", "Funk Can Save U Revibed (feat. Buckethead)", "EHN2WZ1HS5E"], ["Aldous Harding & H. Hawkline", "Venus in the Zinnia", "aQJbcuVBNUk"], ["Guided By Voices", "Lost In The Sun", "dfiR6XtYdzY"], ["Dread Spectre Council", "Hex's Up", "bSbNyNFLQT8"], ["Twisted Teens", "When We First Met", "ElPskynxhTA"], ["Cut Worms", "Evil Twin", "jMlssW90uwg"], ["Westside Cowboy", "Kick Stones (The Boys)", "W51Ik_1noH8"], ["Sampa the Great", "Location", "6AK9bbwsK7s"], ["The Fall", "30 Degrees", "9mebsxe970U"], ["MJ Lenderman", "She's Leaving You", "m1suappFvag"], ["BODEGA", "Slow Train", "4TnhLA3yQaU"], ["Sluice", "Beadie", "elKyn7L-Ddw"], ["Sluice", "Zillow", "x2THUYupEt8"], ["Firewater", "Another Perfect Catastrophe", "9_K08CnbR7E"], ["BODEGA", "Fear not the Fear", "u-OCkJD78Ec"], ["SAULT", "Wildfires", "GRC4Ac6IB1w"], ["Cameron Winter", "Love Takes Miles (Live at Carnegie Hall)", "i4J2mM3DY1Q"], ["The Tallest Man On Earth", "Just Beyond Endless Mountain", "OYtELuCAQ0Q"], ["Fontaines D.C.", "Chequeless Reckless (Darklands Version)", "Y-dA3yt8m8s"], ["Fontaines D.C.", "Marianne", "ikKBcZg9jUc"], ["IDLES", "The Beachland Ballroom", "VJ7esiIHMp8"], ["Twisted Teens", "Stalks", "mDYeisr6Gro"], ["Fujiya & Miyagi", "No Green Light", "K5l80OdiCzM"], ["John Lennon", "Watching The Wheels", "2Kx2PbA8bCI"], ["BODEGA", "Combustible", "Ug5BfWJiZJA"], ["Soundgarden", "Into The Void (Sealth)", "gtG5d3Zd6I4"], ["Father John Misty", "Trouble", "O6a7lfozvEY"], ["Bauhaus", "The Passion of Lovers", "qSk88IeNUr0"], ["TV Priest", "The Big Curve", "Ex__KGYw5LE"], ["TV Priest", "Decoration", "tKcbUTCGY3Q"], ["Star Moles", "Born Again", "37Fx9UDWTFI"], ["Hot Chip", "Random Violence", "FEQJgTFfS9k"], ["The Linda Lindas", "Gotta Get Out", "Qe7aq1VcuxE"], ["Stef Chura", "Sweet Sweet Midnight", "JcEeRS8DDPA"], ["Lera Lynn & Shovels & Rope", "Wolf Like Me ft. Shovels & Rope", "Lmyd9LTkpfk"], ["Dumb", "Pull Me Up", "5nt_9kEaokY"], ["Sonic Youth", "Bull In The Heather", "PGPOcQ14Eo0"], ["Loco Gringos", "Ain't No Corndogs", "eF4RiUfPRNs"], ["matt proxy, Current Joys, never goodbye & Elijah Walker", "i cannot hear what you're saying (feat. Edward Skeletrix)", "YnksTz6gxI0"], ["Current Joys & YOUR ANGEL", "Walk Away as the Door Slams", "HaZgydb_qv0"], ["Jesse Welles", "Middle", "Xd2qNhtyyW0"], ["Car Seat Headrest", "Drunk Drivers/Killer Whales (Single Version)", "xWRUeNhDwMA"], ["J Mascis", "Fade Into You", "iBapsQ14yhc"], ["Caroline Rose", "Cry!", "s1tdCxkduZI"]]}
+{
+ "playlist": "DJ Stace - Next Show",
+ "id": "PLMduzOohHQLrQzt6w4ep6l2zAwcIzoZVF",
+ "snapshot": "2026-10-29",
+ "note": "Thursday-night read Oct. 29: 61 tracks. Since Oct. 27: Chris Cornell Seasons added; Avalanches Blue Shadows, Sharp Pins Live Without Her Love and Lucy Dacus Planting Tomatoes gone.",
+ "tracks": [
+  [
+   "TV Priest",
+   "Love Song (A Good Kind of Weapon)",
+   "3vTgbvA1qVA"
+  ],
+  [
+   "Tricky & Mitch Sanders",
+   "Because I Don’t Know",
+   "kB06zmFKTQ0"
+  ],
+  [
+   "Royal Blood",
+   "Ten Over Ten",
+   "HzkJsKXCjvg"
+  ],
+  [
+   "TV Priest",
+   "Just So You Know",
+   "kKMhS5zhcnc"
+  ],
+  [
+   "Ty Segall",
+   "Play Cowboys",
+   "pirkuE2Edgc"
+  ],
+  [
+   "Twisted Teens",
+   "Peekaboo Hand",
+   "8bBhApxb_QQ"
+  ],
+  [
+   "Twisted Teens",
+   "Riding",
+   "qyMXk41TU7Y"
+  ],
+  [
+   "Westside Cowboy",
+   "You Could Have Died There On The Dancefloor",
+   "fVuyZ-Wp7Ng"
+  ],
+  [
+   "This Is Lorelei",
+   "Hey Sarah Is It Gonna Rain Forever",
+   "LHPybTFbWAA"
+  ],
+  [
+   "Hamilton Leithauser & Rostam",
+   "In A Black Out (Piano Version)",
+   "gexqEtgfLt8"
+  ],
+  [
+   "Lex Walton",
+   "Ultimate Love 4Ever",
+   "uan9YB7O8nU"
+  ],
+  [
+   "Palace",
+   "Made My Bed",
+   "MR-dh4FTavQ"
+  ],
+  [
+   "Palace",
+   "Denny's",
+   "vEL9U3Z1cvo"
+  ],
+  [
+   "Funkadelic",
+   "Can You Get To That",
+   "yl3fIXaAXow"
+  ],
+  [
+   "Sprints",
+   "Little Fix",
+   "TybCMKD_vU4"
+  ],
+  [
+   "Father John Misty",
+   "The X-panded Universe",
+   "9kBigVxK7PY"
+  ],
+  [
+   "Bootsy Collins",
+   "Funk Can Save U Revibed (feat. Buckethead)",
+   "EHN2WZ1HS5E"
+  ],
+  [
+   "Aldous Harding & H. Hawkline",
+   "Venus in the Zinnia",
+   "aQJbcuVBNUk"
+  ],
+  [
+   "Guided By Voices",
+   "Lost In The Sun",
+   "dfiR6XtYdzY"
+  ],
+  [
+   "Dread Spectre Council",
+   "Hex's Up",
+   "bSbNyNFLQT8"
+  ],
+  [
+   "Twisted Teens",
+   "When We First Met",
+   "ElPskynxhTA"
+  ],
+  [
+   "Cut Worms",
+   "Evil Twin",
+   "jMlssW90uwg"
+  ],
+  [
+   "Westside Cowboy",
+   "Kick Stones (The Boys)",
+   "W51Ik_1noH8"
+  ],
+  [
+   "Sampa the Great",
+   "Location",
+   "6AK9bbwsK7s"
+  ],
+  [
+   "The Fall",
+   "30 Degrees",
+   "9mebsxe970U"
+  ],
+  [
+   "MJ Lenderman",
+   "She's Leaving You",
+   "m1suappFvag"
+  ],
+  [
+   "BODEGA",
+   "Slow Train",
+   "4TnhLA3yQaU"
+  ],
+  [
+   "Sluice",
+   "Beadie",
+   "elKyn7L-Ddw"
+  ],
+  [
+   "Sluice",
+   "Zillow",
+   "x2THUYupEt8"
+  ],
+  [
+   "Firewater",
+   "Another Perfect Catastrophe",
+   "9_K08CnbR7E"
+  ],
+  [
+   "BODEGA",
+   "Fear not the Fear",
+   "u-OCkJD78Ec"
+  ],
+  [
+   "SAULT",
+   "Wildfires",
+   "GRC4Ac6IB1w"
+  ],
+  [
+   "Cameron Winter",
+   "Love Takes Miles (Live at Carnegie Hall)",
+   "i4J2mM3DY1Q"
+  ],
+  [
+   "The Tallest Man On Earth",
+   "Just Beyond Endless Mountain",
+   "OYtELuCAQ0Q"
+  ],
+  [
+   "Fontaines D.C.",
+   "Chequeless Reckless (Darklands Version)",
+   "Y-dA3yt8m8s"
+  ],
+  [
+   "Fontaines D.C.",
+   "Marianne",
+   "ikKBcZg9jUc"
+  ],
+  [
+   "IDLES",
+   "The Beachland Ballroom",
+   "VJ7esiIHMp8"
+  ],
+  [
+   "Twisted Teens",
+   "Stalks",
+   "mDYeisr6Gro"
+  ],
+  [
+   "Fujiya & Miyagi",
+   "No Green Light",
+   "K5l80OdiCzM"
+  ],
+  [
+   "John Lennon",
+   "Watching The Wheels",
+   "2Kx2PbA8bCI"
+  ],
+  [
+   "BODEGA",
+   "Combustible",
+   "Ug5BfWJiZJA"
+  ],
+  [
+   "Soundgarden",
+   "Into The Void (Sealth)",
+   "gtG5d3Zd6I4"
+  ],
+  [
+   "Father John Misty",
+   "Trouble",
+   "O6a7lfozvEY"
+  ],
+  [
+   "Bauhaus",
+   "The Passion of Lovers",
+   "qSk88IeNUr0"
+  ],
+  [
+   "TV Priest",
+   "The Big Curve",
+   "Ex__KGYw5LE"
+  ],
+  [
+   "TV Priest",
+   "Decoration",
+   "tKcbUTCGY3Q"
+  ],
+  [
+   "Star Moles",
+   "Born Again",
+   "37Fx9UDWTFI"
+  ],
+  [
+   "Hot Chip",
+   "Random Violence",
+   "FEQJgTFfS9k"
+  ],
+  [
+   "The Linda Lindas",
+   "Gotta Get Out",
+   "Qe7aq1VcuxE"
+  ],
+  [
+   "Stef Chura",
+   "Sweet Sweet Midnight",
+   "JcEeRS8DDPA"
+  ],
+  [
+   "Lera Lynn & Shovels & Rope",
+   "Wolf Like Me ft. Shovels & Rope",
+   "Lmyd9LTkpfk"
+  ],
+  [
+   "Dumb",
+   "Pull Me Up",
+   "5nt_9kEaokY"
+  ],
+  [
+   "Sonic Youth",
+   "Bull In The Heather",
+   "PGPOcQ14Eo0"
+  ],
+  [
+   "Loco Gringos",
+   "Ain't No Corndogs",
+   "eF4RiUfPRNs"
+  ],
+  [
+   "matt proxy, Current Joys, never goodbye & Elijah Walker",
+   "i cannot hear what you're saying (feat. Edward Skeletrix)",
+   "YnksTz6gxI0"
+  ],
+  [
+   "Current Joys & YOUR ANGEL",
+   "Walk Away as the Door Slams",
+   "HaZgydb_qv0"
+  ],
+  [
+   "Jesse Welles",
+   "Middle",
+   "Xd2qNhtyyW0"
+  ],
+  [
+   "Car Seat Headrest",
+   "Drunk Drivers/Killer Whales (Single Version)",
+   "xWRUeNhDwMA"
+  ],
+  [
+   "J Mascis",
+   "Fade Into You",
+   "iBapsQ14yhc"
+  ],
+  [
+   "Caroline Rose",
+   "Cry!",
+   "s1tdCxkduZI"
+  ],
+  [
+   "Chris Cornell",
+   "Seasons",
+   "1DnSiznUrVI"
+  ]
+ ]
+}

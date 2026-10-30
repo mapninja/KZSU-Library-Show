@@ -1,331 +1,369 @@
 {
- "note": "Artifact key -> Drive file. Updated by kzsu-drive-deploy.",
- "artifacts": {
-  "working_show_script_2026-10-08": {
-   "id": null,
-   "type": "doc",
-   "folder": "Show Prep",
-   "deployed": "2026-10-06T13:52Z",
-   "working": "Working/working_show_script_2026-10-08.md (repo outputs/recon/2026-10-08/show_script.md)",
-   "retired": [
-    "1z13BmF-56bP98Iyv7cqD0BJ_megFbuxENKg6kzYeoC8",
-    "1ukySYvvTnd7SE_Zqs8r2bw580rofGKH_t2s6IIdvLSY",
-    "1N227XKEJHf9PLXUUxv7W1k_36PG4TE0dvVg1g9Zb6rs",
-    "131Soxv7Tq0EWOrdd-J2L2qwM_Ak4WA8y2Dy-nKcrVvk"
-   ],
-   "note": "Retired to _to_delete Oct. 7 when the final script was published."
+  "note": "Artifact key -> Drive file. Updated by kzsu-drive-deploy.",
+  "artifacts": {
+    "working_show_script_2026-10-08": {
+      "id": null,
+      "type": "doc",
+      "folder": "Show Prep",
+      "deployed": "2026-10-06T13:52Z",
+      "working": "Working/working_show_script_2026-10-08.md (repo outputs/recon/2026-10-08/show_script.md)",
+      "retired": [
+        "1z13BmF-56bP98Iyv7cqD0BJ_megFbuxENKg6kzYeoC8",
+        "1ukySYvvTnd7SE_Zqs8r2bw580rofGKH_t2s6IIdvLSY",
+        "1N227XKEJHf9PLXUUxv7W1k_36PG4TE0dvVg1g9Zb6rs",
+        "131Soxv7Tq0EWOrdd-J2L2qwM_Ak4WA8y2Dy-nKcrVvk"
+      ],
+      "note": "Retired to _to_delete Oct. 7 when the final script was published."
+    },
+    "notes_sheet_2026-10-08": {
+      "id": "1v9--CvT-p9c8HZvB9Gq-_pcangbeRTmNHjCV_x0z8yE",
+      "type": "sheet",
+      "folder": "Show Prep",
+      "deployed": "2026-10-06T13:51Z",
+      "working": "Working/notes_sheet_2026-10-08.csv",
+      "retired": [
+        "12Ts38awTlZl9E4TuQEFZfPu_lh-HBZ8N6Wz339gi1FY",
+        "1oQ6riHDzAg3qlaSecc6PSaEu8ESQ7RAb_138fF5MpVQ",
+        "1dgj77H0z-L4CJ09MdIjL8IN63adoYzj1lVJb0MWOxTE"
+      ]
+    },
+    "zookeeper_csv_2026-10-08": {
+      "id": "1XWYE3N4m5FMUXoian3Ieh-89lTv4HmeM",
+      "type": "csv-raw",
+      "folder": "Show Prep",
+      "deployed": "2026-10-06T13:52Z",
+      "working": "Working/library_show_playlist_2026-10-08.csv",
+      "retired": [
+        "18DKr7pbnRW9wXUdvpUUeJ5LOmfJ-zAwy",
+        "1qdrsapOIewzKBuBnIjS_BHGNQ9rGVrfs",
+        "1KP0t2naEl2g6yRD9DYVvJsMCxS44a_kA"
+      ]
+    },
+    "review_shelf": {
+      "id": "1oOidwykAZb93nTEzERXCfLMSMyPT3TiLVTbpXJ60RGE",
+      "type": "sheet",
+      "folder": "KZSU top",
+      "deployed": "2026-10-19T14:49Z",
+      "working": "Working/review_shelf.csv (mirror: repo data/staged/review_shelf.csv)",
+      "retired": [
+        "1UcRkOD4jJSE4zoI_bbR1dLDVT9wm3cGIWFBWQ2bRt5k",
+        "1kf7hrafz2HY_qZlXOB7xppGphJqfflaUx58C8nh4BUQ",
+        "16_hzYARZ0LKts80BexBgNqDA-4a4UU7EEfxo1Ux0BCQ",
+        "1c8HLi0BfdVMuR52yx6KJVuIrb6AVieJSJ7s1G2Lqdww",
+        "1_JNWDpkk3QIIUERXNMeptA6szTzrxvulXhr2v69ihM8",
+        "1dzVYPNUWrSQ9SBTPEs676fOu9xwuRt-GJzTOqsnrV6M",
+        "1rY7PatGmSGFQg5LdbdesnwTJKfjH6xaCH85lPvmYve4",
+        "1fPvv_v64PVn3_SswismkW1qPQlSJQJvkq5S3ffpteWU",
+        "1PRb9eZB9lsh3GIbV6yB6bW_A1xuqPE9de7FO4OMWqgY",
+        "1QNa8uUbiTV5Tr6wzN_xxt5zj_Og9GYRwdLs9iiTBbU0",
+        "11QBWd_ZhiASLbcZxtkymc4ZocPaKPa3Q5osApEgoCig"
+      ],
+      "note": "Oct. 23 (Friday sweep): 13 rows inserted at the top with the Sheets API. Same file ID; link unchanged. Earlier Oct. 23 patch: 8 rows inserted at top, 2 release dates updated. | Oct. 27: 7 rows patched in at the top (Tuesday sweep); link unchanged.",
+      "hash": "58ef580a704b2bc322a1297282cc9d99"
+    },
+    "review_templates_2026-10-04": {
+      "folder": "Staged Reviews/Review Templates (1tHnkXsNSidy9BDtjnYBXwxibyqWl6een)",
+      "deployed": "2026-10-05T00:10Z",
+      "docs": {
+        "Twisted Teens - Blame the Clown": "1HQ3lAxkV-HR7WHCKAJVQumT1Pgjep66JuLs3liz0ZPM",
+        "Twisted Teens - Florida Water Blues": "1nut8CJNkWuG-RGJkVTGpSfeEg3vyVqpqXkntycU2KIQ",
+        "This Is Lorelei - The Singer in My Band": "1o1auc4gQyPiRJOufY69jrMcPr4VuU-rN1In2l7K8S5U",
+        "Yard Act - You're Gonna Need A Little Music": "1_xOUtQZyWpPUjGIifaGc9nXae06BaDXNxC71615KkNU",
+        "Sylvan Esso - Ow Infinity": "1zZy9Tg-28T-4jgELv9PUrlsn-A_lXgDZmvyH2jBdcHs",
+        "Guided By Voices - Crawlspace of the Pantheon": "1MRb_scujdmAxXpEKXQLXEc7s-tZdsxcY2fwd7CtwNUM",
+        "Little Barrie - Gravity Freeze": "1myGAWbTOJJC1gYyRlqEcJ0OBcvDi0BWozjcojkvilE4",
+        "Dread Spectre Council - Thetans": "1QI92WK7LL15J7xBmXRKunRo8Z7cXa5A3EFvMMGp_dlo",
+        "Sluice - Companion": "15UOGddOzcdXMiRaMbeYkPk4KdrC8Cza47o5XogoKEHk",
+        "Tricky - Different When It's Silent": "1PlCAGtgt796YoaYdZX7ySGyVDpfh3onRy8JZBctMP4M",
+        "Ty Segall - Chrome": "1JMnEW-DGAMR6OVfNyQAopLlfi75FOTfMnkBZSOEHiVA",
+        "Sharp Pins - Mod Mayday 23": "1HaOuZM5BRhwmXqh_vo7ACIXx0FBb2K4gk7OK9DGKUcQ",
+        "Palace - Ox": "1a9Wq3fnul1ITzeQk3JWf2vKiMFgUG8yo5JKke4KcNgc",
+        "Lex Walton - Ultimate Love Forever": "1ApggA6DvzNnf6sdS-JpH3Dy_XY-sjk7QQs7HLkB2Y4M",
+        "Cut Worms - Transmitter": "18nhVzPLxHFmUJQTRXgyu1KEaJDuXvoI46gsO4kwwfpc"
+      },
+      "stace_edits_carried": [
+        "Blame the Clown: removed unverified note on Peekaboo Hand",
+        "Thetans: Sources heading, dropped Spotify link"
+      ],
+      "working": "KZSU-Album-Reviews repo"
+    },
+    "final_show_script_2026-10-08": {
+      "id": "1PxJCrGyNjE7f7rszKXHpL9P7PPxZ4cIHMx62h_tXMtc",
+      "type": "doc",
+      "folder": "KZSU top",
+      "deployed": "2026-10-08T04:11Z",
+      "working": "Working/final_show_script_2026-10-08.md (repo outputs/recon/2026-10-08/final_show_script_2026-10-08.md)",
+      "retired": [],
+      "note": "Prose Google Doc not updated Oct. 8 (still lists Autumn Sweater at #29). Landscape docx and PDF at /KZSU/ top level are the on-air copy, replaced in place Oct. 8 09:10 PT. Oct. 8 afternoon: md mirror updated in Working/; prose Doc still not updated. Landscape docx and PDF replaced at /KZSU/ top level (old copies in _to_delete)."
+    },
+    "final_notes_sheet_2026-10-08": {
+      "id": "1yHF1YtPOgXomvm-J3IWAq8XDZg_REi14lX_l_q6IVAA",
+      "type": "sheet",
+      "folder": "KZSU top",
+      "deployed": "2026-10-08T21:47Z",
+      "working": "Working/notes_sheet_2026-10-08.csv",
+      "retired": [
+        "1v9--CvT-p9c8HZvB9Gq-_pcangbeRTmNHjCV_x0z8yE",
+        "1kyHIplkBUTlVdclvKzA7S_JWa1X0rpPBwf16vxJTQok",
+        "1NsR9rgUUqcePraLxtkw2XNxxDW7Jf9gllFw99MMr7XU"
+      ]
+    },
+    "zookeeper_csv_2026-10-08_final": {
+      "id": "1zas21mES7tPCJTuVQ0dAA8pTWNqU21z8",
+      "type": "csv-raw",
+      "folder": "KZSU top",
+      "deployed": "2026-10-08T21:47Z",
+      "working": "Working/library_show_playlist_2026-10-08.csv",
+      "retired": [
+        "1XWYE3N4m5FMUXoian3Ieh-89lTv4HmeM",
+        "1ksLeqJt2CUae1Lh6U6CZJqbuA3oafz3t",
+        "1gWlQJ4gSrIpEGXss-pfWGBvOSwCgiDha"
+      ]
+    },
+    "notes_sheet_2026-10-15": {
+      "id": null,
+      "type": "sheet",
+      "folder": "Show Prep",
+      "deployed": "2026-10-13T13:47Z",
+      "working": "Working/notes_sheet_2026-10-15.csv (repo outputs/recon/2026-10-15/notes_sheet_2026-10-15.csv)",
+      "retired": [
+        "1gg9R14Xz7Ab4ERIn2cY_tIYeyGuYSYxrHYJeJd-rg3o",
+        "1we63PTQy03BAGG33pQ_1C-V39v1QmewwKnRmWD4saMg",
+        "1pKLlJiLXXoQsWq3TPZevxnU8QsC0Snx2owHxsyX6Hwc"
+      ],
+      "note": "Show Prep Working Notes Sheet retired Oct. 14 night when the final sheet was published at /KZSU/ top level.",
+      "hash": "c1215e9c945258d59af19fca00b5d92c"
+    },
+    "working_show_script_2026-10-15": {
+      "id": null,
+      "type": "docx+pdf (raw files)",
+      "folder": "Show Prep",
+      "deployed": "2026-10-09T14:18Z",
+      "working": "Working/working_show_script_2026-10-15.md (data record); Word and PDF in Show Prep and repo outputs/recon/2026-10-15/",
+      "retired": [],
+      "note": "Word and PDF moved to _to_delete Oct. 14 (replaced by the final script)."
+    },
+    "review_suggestions_2026-10-09": {
+      "id": null,
+      "type": "md (raw file)",
+      "folder": "Show Prep",
+      "deployed": "2026-10-09T14:18Z",
+      "working": "outputs/reviews/review_suggestions_2026-10-09.md",
+      "retired": []
+    },
+    "review_templates_2026-10-09": {
+      "folder": "Staged Reviews/Review Templates (1tHnkXsNSidy9BDtjnYBXwxibyqWl6een)",
+      "deployed": "2026-10-09T16:16Z",
+      "docs": {
+        "Death Valley Girls - Welcome to Earth": "1wgiimd-P-K4Demw-zbjqhFwOo3i8QuA1t7MHhiwUeTg",
+        "Stef Chura - Dancing Alone on the Concrete": "1dk3ifv-R1W4_7oCQT1ZeJL7NqJ3ppImgL6oR0wNrkJ8",
+        "Fontaines D.C. - Dopamine Chamber": "1AZtFJqo61sRASX71q8XByR6PqV0FGhTcv3gTBWSqnJE",
+        "Teenage Fanclub - Do Not Dare To Dream": "1s66tbge4KzWv79WSKvD4trscDBY4ArWhEoxA16n_qHA",
+        "L7 - Loma Linda": "1mH5iPGLW1Wiq4_XGWjX-ew-gOh3TOR53eZZMsHZxetU",
+        "Little Barrie - Luggin' Hurt": "1_9PgEkU6UDIcFy8M69CP85smBsuvzMwITEp22Nj7WrQ"
+      },
+      "retired": [
+        "147cO4XsjF5paSLFC0zJQB1Cxu6C3MxEO4DIWnfJzxEY"
+      ]
+    },
+    "final_notes_sheet_2026-10-15": {
+      "id": "1rmMJtcZCjd1Fhn1hlyETE--pPD_oMOB6DACuu0m4FU8",
+      "type": "sheet",
+      "folder": "KZSU top",
+      "deployed": "2026-10-15T22:36Z",
+      "working": "Working/notes_sheet_2026-10-15.csv",
+      "retired": [
+        "1L4FLmjiFCKZCC_wLPkU9haQtqEdSN_KxcV_BIhjqoQ0"
+      ],
+      "hash": "762bc1b18dffabfa30783158a5a7a90e",
+      "note": "Thu. Oct. 15 afternoon sync: 51 rows (Air Order edits, tail tracks placed in sets, Kraftwerk and Cabaret Voltaire added). No ticks to harvest (old sheet unmodified since deploy). Old sheet moved to _to_delete."
+    },
+    "final_show_script_2026-10-15": {
+      "id": null,
+      "type": "docx+pdf (raw files)",
+      "folder": "KZSU top",
+      "deployed": "2026-10-15T03:35Z",
+      "working": "Working/final_show_script_2026-10-15.md (data record); Word and PDF at /KZSU/ top level and repo outputs/recon/2026-10-15/",
+      "retired": [],
+      "note": "Landscape tables, 10 pages. Old Working Word and PDF moved to _to_delete."
+    },
+    "zookeeper_csv_2026-10-15_final": {
+      "id": null,
+      "type": "csv-raw",
+      "folder": "KZSU top",
+      "deployed": "2026-10-15T03:35Z",
+      "working": "Working/library_show_playlist_2026-10-15.csv",
+      "note": "Raw CSV placed at /KZSU/ top level through Drive for desktop. Unchanged content from the Oct. 13 build (44 tracks, reversed)."
+    },
+    "notes_sheet_2026-10-22": {
+      "id": null,
+      "type": "sheet",
+      "folder": "Show Prep",
+      "deployed": "2026-10-20T15:50Z",
+      "working": "Working/notes_sheet_2026-10-22.csv (repo outputs/recon/2026-10-22/notes_sheet_2026-10-22.csv)",
+      "retired": [
+        "1YMM5u25pE3ufVbWf291Y3rCvgr19Df0H1WMaG8yu-hY",
+        "1JLExeCfzBIJARuEk5CC26fFSDY04fa1R-dyFTTUGFEM"
+      ],
+      "hash": "9ffa6a3ff17a127080c94f680b31c0d3",
+      "note": "Show Prep Working Notes Sheet retired Oct. 21 night when the final sheet was published at /KZSU/ top level."
+    },
+    "working_show_script_2026-10-22": {
+      "id": null,
+      "type": "docx+pdf (local files)",
+      "folder": "Show Prep",
+      "deployed": "2026-10-16T16:47Z",
+      "working": "Working/working_show_script_2026-10-22.md (data record); Word and PDF in Show Prep and repo outputs/recon/2026-10-22/",
+      "retired": [],
+      "note": "Landscape table draft, 11 pages. Word and PDF moved to _to_delete Oct. 21 (replaced by the final script)."
+    },
+    "review_suggestions_2026-10-16": {
+      "id": null,
+      "type": "md (local file)",
+      "folder": "Show Prep",
+      "deployed": "2026-10-16T16:47Z",
+      "working": "repo outputs/reviews/review_suggestions_2026-10-16.md",
+      "retired": []
+    },
+    "final_notes_sheet_2026-10-22": {
+      "id": "1LMSudxpKtKG0vC8O6VX6U83kkppug84SHu8z937bqDI",
+      "type": "sheet",
+      "folder": "KZSU top",
+      "deployed": "2026-10-22T15:24Z",
+      "working": "Working/notes_sheet_2026-10-22.csv",
+      "retired": [
+        "1JLExeCfzBIJARuEk5CC26fFSDY04fa1R-dyFTTUGFEM",
+        "1BV0bM8nyq8JaWEHb6AFzZCg4uLnDDMqwEe1xEKrgTds"
+      ],
+      "hash": "dd53b1da06e77113a6202d3fd7748d4a",
+      "note": "Thu. Oct. 22 update: 55 rows after Stace's Oct. 22 Air Order edits (4 cuts, 3 inline adds, last six placed). Old sheet unmodified since its Oct. 21 deploy, so no ticks to harvest. Oct. 22 Thursday sync: patched 5 cells in place (Royal Blood date and note, Viagra Boys label, EODM label, QOTSA date) to match the plan; link unchanged."
+    },
+    "final_show_script_2026-10-22": {
+      "id": null,
+      "type": "docx+pdf (raw files)",
+      "folder": "KZSU top",
+      "deployed": "2026-10-21T20:15Z",
+      "working": "Working/final_show_script_2026-10-22.md (data record); Word and PDF at /KZSU/ top level and repo outputs/recon/2026-10-22/",
+      "retired": [],
+      "note": "Landscape tables, 18 pages, 55 tracks, 3:12:15. Rebuilt Oct. 22 for Stace's Air Order edits, then revised 08:40 (Track history column, bold release dates with years, LIVE show highlights, booked-shows table); prior versions moved to _to_delete."
+    },
+    "zookeeper_csv_2026-10-22_final": {
+      "id": null,
+      "type": "csv-raw",
+      "folder": "KZSU top",
+      "deployed": "2026-10-21T20:15Z",
+      "working": "Working/library_show_playlist_2026-10-22.csv",
+      "note": "Raw CSV at /KZSU/ top level through Drive for desktop. 50 tracks, reversed, 7 mic-break blank rows, 8 labels filled. Oct. 22 Thursday sync: overwritten in place with 55 tracks (labels Ume for EODM, Shrimptech Enterprises for Viagra Boys)."
+    },
+    "notes_sheet_2026-10-29": {
+      "id": "12my1phBCX00y-l3EefaD7Cy-AjbwjHNilARe7lx60Yw",
+      "type": "sheet",
+      "folder": "Show Prep",
+      "deployed": "2026-10-27T13:47Z",
+      "working": "Working/notes_sheet_2026-10-29.csv",
+      "retired": [
+        "1Oely0Vck1eOk6rqhY5tTDg6hCzFDx_KWX_MuuTh_NAo"
+      ],
+      "note": "Tuesday sweep Oct. 27 redeploy: 51 rows (Stace appended 9 to the Air Order). Verified by get_values (artist and track columns). Old sheet 1Oely0Vck1eOk6rqhY5tTDg6hCzFDx_KWX_MuuTh_NAo moved to _to_delete. No Stace ticks to harvest (old sheet unmodified since deploy). Last row was patched after a transcription error. | Superseded by final_notes_sheet_2026-10-29 (same file, moved to top level Oct. 28)."
+    },
+    "working_show_script_2026-10-29": {
+      "id": null,
+      "type": "docx+pdf",
+      "folder": "Show Prep",
+      "deployed": "2026-10-23T09:41Z",
+      "working": "Working/working_show_script_2026-10-29.md; landscape files in Show Prep and outputs/recon/2026-10-29",
+      "retired": []
+    },
+    "zookeeper_csv_2026-10-29": {
+      "id": null,
+      "type": "csv-raw",
+      "folder": "Show Prep",
+      "deployed": "2026-10-27",
+      "working": "Working/library_show_playlist_2026-10-29.csv",
+      "retired": [],
+      "note": "Draft, reversed order, 51 tracks. Placed by Drive for desktop sync (Working and Show Prep)."
+    },
+    "review_suggestions_2026-10-22": {
+      "id": null,
+      "type": "md-raw",
+      "folder": "Show Prep",
+      "deployed": "2026-10-23T09:35Z",
+      "working": "outputs/reviews/review_suggestions_2026-10-22.md",
+      "retired": []
+    },
+    "final_notes_sheet_2026-10-29": {
+      "id": "12my1phBCX00y-l3EefaD7Cy-AjbwjHNilARe7lx60Yw",
+      "type": "sheet",
+      "folder": "KZSU top",
+      "deployed": "2026-10-29T03:32Z",
+      "working": "Working/notes_sheet_2026-10-29.csv",
+      "retired": [],
+      "hash": "8526a5bbd922c530f8b989290ae7f090",
+      "title": "Library Show Final Playlist Notes Sheet 2026-10-29",
+      "note": "Wed. Oct. 28 final build: same Sheet as the Show Prep draft, patched in place (inserted Coil row, 52 rows, labels and tags for 10 Air Order adds) and moved to /KZSU/ top level. Link unchanged. No ticks to harvest (Cull and Replace empty, read 8 p.m.). | Oct. 29: rows rewritten in place via Sheets API (48 rows, new set names, 8 new review picks, 13 culled rows removed). No ticks. Link unchanged."
+    },
+    "final_show_script_2026-10-29": {
+      "id": null,
+      "type": "docx+pdf (raw files)",
+      "folder": "KZSU top",
+      "deployed": "2026-10-29T17:00Z",
+      "working": "Working/final_show_script_2026-10-29.md (data record); Word and PDF at /KZSU/ top level and repo outputs/recon/2026-10-29/",
+      "retired": [],
+      "note": "Rebuilt Thu. Oct. 29 after Stace's Air Order cuts and adds: landscape tables, 15 pages, 48 tracks, 3:15:28, eight Halloween sets, eight reviewed Halloween picks. Replaced in place at /KZSU/ top level."
+    },
+    "zookeeper_csv_2026-10-29_final": {
+      "id": null,
+      "type": "csv-raw",
+      "folder": "KZSU top",
+      "deployed": "2026-10-29T03:30Z",
+      "working": "Working/library_show_playlist_2026-10-29.csv",
+      "retired": [],
+      "note": "Rebuilt Oct. 29: 48 tracks, reversed (first row Black Sabbath, last row Every Day Is Halloween)."
+    },
+    "draft_notes_sheet_2026-11-05": {
+      "id": "1DK2jEdKczERhpPqYnlI_58xVoQBm2SEc6XLsSeaEaNA",
+      "type": "sheet",
+      "folder": "Show Prep",
+      "deployed": "2026-10-30T05:28Z",
+      "working": "Working/notes_sheet_2026-11-05.csv",
+      "retired": [],
+      "hash": "b76a8e7196a86374258d939b0e5f036c",
+      "title": "Library Show Working Playlist Notes Sheet 2026-11-05",
+      "note": "Thu. Oct. 29 night draft for the Nov. 5 show: 44 tracks, 2:36:03. Created as native Sheet from CSV. Cull and Replace empty."
+    },
+    "working_show_script_2026-11-05": {
+      "id": null,
+      "type": "docx+pdf (raw files)",
+      "folder": "Show Prep",
+      "deployed": "2026-10-30T05:20Z",
+      "working": "Word and PDF in /KZSU/Show Prep/ and repo outputs/recon/2026-11-05/",
+      "retired": [],
+      "note": "Landscape tables, 13 pages, 44 tracks, 2:36:03. Draft for Nov. 5."
+    },
+    "zookeeper_csv_2026-11-05_draft": {
+      "id": null,
+      "type": "csv-raw",
+      "folder": "Working",
+      "deployed": "2026-10-30T05:20Z",
+      "working": "Working/library_show_playlist_2026-11-05.csv",
+      "retired": [],
+      "note": "Draft, reversed order. Not final: rebuilt by kzsu-show-build on Nov. 5."
+    },
+    "review_suggestions_2026-10-29": {
+      "id": null,
+      "type": "md (raw file)",
+      "folder": "Show Prep",
+      "deployed": "2026-10-30T05:15Z",
+      "working": "outputs/reviews/review_suggestions_2026-10-29.md",
+      "retired": [],
+      "note": "Draft picks for Nov. 5."
+    }
   },
-  "notes_sheet_2026-10-08": {
-   "id": "1v9--CvT-p9c8HZvB9Gq-_pcangbeRTmNHjCV_x0z8yE",
-   "type": "sheet",
-   "folder": "Show Prep",
-   "deployed": "2026-10-06T13:51Z",
-   "working": "Working/notes_sheet_2026-10-08.csv",
-   "retired": [
-    "12Ts38awTlZl9E4TuQEFZfPu_lh-HBZ8N6Wz339gi1FY",
-    "1oQ6riHDzAg3qlaSecc6PSaEu8ESQ7RAb_138fF5MpVQ",
-    "1dgj77H0z-L4CJ09MdIjL8IN63adoYzj1lVJb0MWOxTE"
-   ]
-  },
-  "zookeeper_csv_2026-10-08": {
-   "id": "1XWYE3N4m5FMUXoian3Ieh-89lTv4HmeM",
-   "type": "csv-raw",
-   "folder": "Show Prep",
-   "deployed": "2026-10-06T13:52Z",
-   "working": "Working/library_show_playlist_2026-10-08.csv",
-   "retired": [
-    "18DKr7pbnRW9wXUdvpUUeJ5LOmfJ-zAwy",
-    "1qdrsapOIewzKBuBnIjS_BHGNQ9rGVrfs",
-    "1KP0t2naEl2g6yRD9DYVvJsMCxS44a_kA"
-   ]
-  },
-  "review_shelf": {
-   "id": "1oOidwykAZb93nTEzERXCfLMSMyPT3TiLVTbpXJ60RGE",
-   "type": "sheet",
-   "folder": "KZSU top",
-   "deployed": "2026-10-19T14:49Z",
-   "working": "Working/review_shelf.csv (mirror: repo data/staged/review_shelf.csv)",
-   "retired": [
-    "1UcRkOD4jJSE4zoI_bbR1dLDVT9wm3cGIWFBWQ2bRt5k",
-    "1kf7hrafz2HY_qZlXOB7xppGphJqfflaUx58C8nh4BUQ",
-    "16_hzYARZ0LKts80BexBgNqDA-4a4UU7EEfxo1Ux0BCQ",
-    "1c8HLi0BfdVMuR52yx6KJVuIrb6AVieJSJ7s1G2Lqdww",
-    "1_JNWDpkk3QIIUERXNMeptA6szTzrxvulXhr2v69ihM8",
-    "1dzVYPNUWrSQ9SBTPEs676fOu9xwuRt-GJzTOqsnrV6M",
-    "1rY7PatGmSGFQg5LdbdesnwTJKfjH6xaCH85lPvmYve4",
-    "1fPvv_v64PVn3_SswismkW1qPQlSJQJvkq5S3ffpteWU",
-    "1PRb9eZB9lsh3GIbV6yB6bW_A1xuqPE9de7FO4OMWqgY",
-    "1QNa8uUbiTV5Tr6wzN_xxt5zj_Og9GYRwdLs9iiTBbU0",
-    "11QBWd_ZhiASLbcZxtkymc4ZocPaKPa3Q5osApEgoCig"
-   ],
-   "note": "Oct. 23 (Friday sweep): 13 rows inserted at the top with the Sheets API. Same file ID; link unchanged. Earlier Oct. 23 patch: 8 rows inserted at top, 2 release dates updated. | Oct. 27: 7 rows patched in at the top (Tuesday sweep); link unchanged.",
-   "hash": "58ef580a704b2bc322a1297282cc9d99"
-  },
-  "review_templates_2026-10-04": {
-   "folder": "Staged Reviews/Review Templates (1tHnkXsNSidy9BDtjnYBXwxibyqWl6een)",
-   "deployed": "2026-10-05T00:10Z",
-   "docs": {
-    "Twisted Teens - Blame the Clown": "1HQ3lAxkV-HR7WHCKAJVQumT1Pgjep66JuLs3liz0ZPM",
-    "Twisted Teens - Florida Water Blues": "1nut8CJNkWuG-RGJkVTGpSfeEg3vyVqpqXkntycU2KIQ",
-    "This Is Lorelei - The Singer in My Band": "1o1auc4gQyPiRJOufY69jrMcPr4VuU-rN1In2l7K8S5U",
-    "Yard Act - You're Gonna Need A Little Music": "1_xOUtQZyWpPUjGIifaGc9nXae06BaDXNxC71615KkNU",
-    "Sylvan Esso - Ow Infinity": "1zZy9Tg-28T-4jgELv9PUrlsn-A_lXgDZmvyH2jBdcHs",
-    "Guided By Voices - Crawlspace of the Pantheon": "1MRb_scujdmAxXpEKXQLXEc7s-tZdsxcY2fwd7CtwNUM",
-    "Little Barrie - Gravity Freeze": "1myGAWbTOJJC1gYyRlqEcJ0OBcvDi0BWozjcojkvilE4",
-    "Dread Spectre Council - Thetans": "1QI92WK7LL15J7xBmXRKunRo8Z7cXa5A3EFvMMGp_dlo",
-    "Sluice - Companion": "15UOGddOzcdXMiRaMbeYkPk4KdrC8Cza47o5XogoKEHk",
-    "Tricky - Different When It's Silent": "1PlCAGtgt796YoaYdZX7ySGyVDpfh3onRy8JZBctMP4M",
-    "Ty Segall - Chrome": "1JMnEW-DGAMR6OVfNyQAopLlfi75FOTfMnkBZSOEHiVA",
-    "Sharp Pins - Mod Mayday 23": "1HaOuZM5BRhwmXqh_vo7ACIXx0FBb2K4gk7OK9DGKUcQ",
-    "Palace - Ox": "1a9Wq3fnul1ITzeQk3JWf2vKiMFgUG8yo5JKke4KcNgc",
-    "Lex Walton - Ultimate Love Forever": "1ApggA6DvzNnf6sdS-JpH3Dy_XY-sjk7QQs7HLkB2Y4M",
-    "Cut Worms - Transmitter": "18nhVzPLxHFmUJQTRXgyu1KEaJDuXvoI46gsO4kwwfpc"
-   },
-   "stace_edits_carried": [
-    "Blame the Clown: removed unverified note on Peekaboo Hand",
-    "Thetans: Sources heading, dropped Spotify link"
-   ],
-   "working": "KZSU-Album-Reviews repo"
-  },
-  "final_show_script_2026-10-08": {
-   "id": "1PxJCrGyNjE7f7rszKXHpL9P7PPxZ4cIHMx62h_tXMtc",
-   "type": "doc",
-   "folder": "KZSU top",
-   "deployed": "2026-10-08T04:11Z",
-   "working": "Working/final_show_script_2026-10-08.md (repo outputs/recon/2026-10-08/final_show_script_2026-10-08.md)",
-   "retired": [],
-   "note": "Prose Google Doc not updated Oct. 8 (still lists Autumn Sweater at #29). Landscape docx and PDF at /KZSU/ top level are the on-air copy, replaced in place Oct. 8 09:10 PT. Oct. 8 afternoon: md mirror updated in Working/; prose Doc still not updated. Landscape docx and PDF replaced at /KZSU/ top level (old copies in _to_delete)."
-  },
-  "final_notes_sheet_2026-10-08": {
-   "id": "1yHF1YtPOgXomvm-J3IWAq8XDZg_REi14lX_l_q6IVAA",
-   "type": "sheet",
-   "folder": "KZSU top",
-   "deployed": "2026-10-08T21:47Z",
-   "working": "Working/notes_sheet_2026-10-08.csv",
-   "retired": [
-    "1v9--CvT-p9c8HZvB9Gq-_pcangbeRTmNHjCV_x0z8yE",
-    "1kyHIplkBUTlVdclvKzA7S_JWa1X0rpPBwf16vxJTQok",
-    "1NsR9rgUUqcePraLxtkw2XNxxDW7Jf9gllFw99MMr7XU"
-   ]
-  },
-  "zookeeper_csv_2026-10-08_final": {
-   "id": "1zas21mES7tPCJTuVQ0dAA8pTWNqU21z8",
-   "type": "csv-raw",
-   "folder": "KZSU top",
-   "deployed": "2026-10-08T21:47Z",
-   "working": "Working/library_show_playlist_2026-10-08.csv",
-   "retired": [
-    "1XWYE3N4m5FMUXoian3Ieh-89lTv4HmeM",
-    "1ksLeqJt2CUae1Lh6U6CZJqbuA3oafz3t",
-    "1gWlQJ4gSrIpEGXss-pfWGBvOSwCgiDha"
-   ]
-  },
-  "notes_sheet_2026-10-15": {
-   "id": null,
-   "type": "sheet",
-   "folder": "Show Prep",
-   "deployed": "2026-10-13T13:47Z",
-   "working": "Working/notes_sheet_2026-10-15.csv (repo outputs/recon/2026-10-15/notes_sheet_2026-10-15.csv)",
-   "retired": [
-    "1gg9R14Xz7Ab4ERIn2cY_tIYeyGuYSYxrHYJeJd-rg3o",
-    "1we63PTQy03BAGG33pQ_1C-V39v1QmewwKnRmWD4saMg",
-    "1pKLlJiLXXoQsWq3TPZevxnU8QsC0Snx2owHxsyX6Hwc"
-   ],
-   "note": "Show Prep Working Notes Sheet retired Oct. 14 night when the final sheet was published at /KZSU/ top level.",
-   "hash": "c1215e9c945258d59af19fca00b5d92c"
-  },
-  "working_show_script_2026-10-15": {
-   "id": null,
-   "type": "docx+pdf (raw files)",
-   "folder": "Show Prep",
-   "deployed": "2026-10-09T14:18Z",
-   "working": "Working/working_show_script_2026-10-15.md (data record); Word and PDF in Show Prep and repo outputs/recon/2026-10-15/",
-   "retired": [],
-   "note": "Word and PDF moved to _to_delete Oct. 14 (replaced by the final script)."
-  },
-  "review_suggestions_2026-10-09": {
-   "id": null,
-   "type": "md (raw file)",
-   "folder": "Show Prep",
-   "deployed": "2026-10-09T14:18Z",
-   "working": "outputs/reviews/review_suggestions_2026-10-09.md",
-   "retired": []
-  },
-  "review_templates_2026-10-09": {
-   "folder": "Staged Reviews/Review Templates (1tHnkXsNSidy9BDtjnYBXwxibyqWl6een)",
-   "deployed": "2026-10-09T16:16Z",
-   "docs": {
-    "Death Valley Girls - Welcome to Earth": "1wgiimd-P-K4Demw-zbjqhFwOo3i8QuA1t7MHhiwUeTg",
-    "Stef Chura - Dancing Alone on the Concrete": "1dk3ifv-R1W4_7oCQT1ZeJL7NqJ3ppImgL6oR0wNrkJ8",
-    "Fontaines D.C. - Dopamine Chamber": "1AZtFJqo61sRASX71q8XByR6PqV0FGhTcv3gTBWSqnJE",
-    "Teenage Fanclub - Do Not Dare To Dream": "1s66tbge4KzWv79WSKvD4trscDBY4ArWhEoxA16n_qHA",
-    "L7 - Loma Linda": "1mH5iPGLW1Wiq4_XGWjX-ew-gOh3TOR53eZZMsHZxetU",
-    "Little Barrie - Luggin' Hurt": "1_9PgEkU6UDIcFy8M69CP85smBsuvzMwITEp22Nj7WrQ"
-   },
-   "retired": [
-    "147cO4XsjF5paSLFC0zJQB1Cxu6C3MxEO4DIWnfJzxEY"
-   ]
-  },
-  "final_notes_sheet_2026-10-15": {
-   "id": "1rmMJtcZCjd1Fhn1hlyETE--pPD_oMOB6DACuu0m4FU8",
-   "type": "sheet",
-   "folder": "KZSU top",
-   "deployed": "2026-10-15T22:36Z",
-   "working": "Working/notes_sheet_2026-10-15.csv",
-   "retired": [
-    "1L4FLmjiFCKZCC_wLPkU9haQtqEdSN_KxcV_BIhjqoQ0"
-   ],
-   "hash": "762bc1b18dffabfa30783158a5a7a90e",
-   "note": "Thu. Oct. 15 afternoon sync: 51 rows (Air Order edits, tail tracks placed in sets, Kraftwerk and Cabaret Voltaire added). No ticks to harvest (old sheet unmodified since deploy). Old sheet moved to _to_delete."
-  },
-  "final_show_script_2026-10-15": {
-   "id": null,
-   "type": "docx+pdf (raw files)",
-   "folder": "KZSU top",
-   "deployed": "2026-10-15T03:35Z",
-   "working": "Working/final_show_script_2026-10-15.md (data record); Word and PDF at /KZSU/ top level and repo outputs/recon/2026-10-15/",
-   "retired": [],
-   "note": "Landscape tables, 10 pages. Old Working Word and PDF moved to _to_delete."
-  },
-  "zookeeper_csv_2026-10-15_final": {
-   "id": null,
-   "type": "csv-raw",
-   "folder": "KZSU top",
-   "deployed": "2026-10-15T03:35Z",
-   "working": "Working/library_show_playlist_2026-10-15.csv",
-   "note": "Raw CSV placed at /KZSU/ top level through Drive for desktop. Unchanged content from the Oct. 13 build (44 tracks, reversed)."
-  },
-  "notes_sheet_2026-10-22": {
-   "id": null,
-   "type": "sheet",
-   "folder": "Show Prep",
-   "deployed": "2026-10-20T15:50Z",
-   "working": "Working/notes_sheet_2026-10-22.csv (repo outputs/recon/2026-10-22/notes_sheet_2026-10-22.csv)",
-   "retired": [
-    "1YMM5u25pE3ufVbWf291Y3rCvgr19Df0H1WMaG8yu-hY",
-    "1JLExeCfzBIJARuEk5CC26fFSDY04fa1R-dyFTTUGFEM"
-   ],
-   "hash": "9ffa6a3ff17a127080c94f680b31c0d3",
-   "note": "Show Prep Working Notes Sheet retired Oct. 21 night when the final sheet was published at /KZSU/ top level."
-  },
-  "working_show_script_2026-10-22": {
-   "id": null,
-   "type": "docx+pdf (local files)",
-   "folder": "Show Prep",
-   "deployed": "2026-10-16T16:47Z",
-   "working": "Working/working_show_script_2026-10-22.md (data record); Word and PDF in Show Prep and repo outputs/recon/2026-10-22/",
-   "retired": [],
-   "note": "Landscape table draft, 11 pages. Word and PDF moved to _to_delete Oct. 21 (replaced by the final script)."
-  },
-  "review_suggestions_2026-10-16": {
-   "id": null,
-   "type": "md (local file)",
-   "folder": "Show Prep",
-   "deployed": "2026-10-16T16:47Z",
-   "working": "repo outputs/reviews/review_suggestions_2026-10-16.md",
-   "retired": []
-  },
-  "final_notes_sheet_2026-10-22": {
-   "id": "1LMSudxpKtKG0vC8O6VX6U83kkppug84SHu8z937bqDI",
-   "type": "sheet",
-   "folder": "KZSU top",
-   "deployed": "2026-10-22T15:24Z",
-   "working": "Working/notes_sheet_2026-10-22.csv",
-   "retired": [
-    "1JLExeCfzBIJARuEk5CC26fFSDY04fa1R-dyFTTUGFEM",
-    "1BV0bM8nyq8JaWEHb6AFzZCg4uLnDDMqwEe1xEKrgTds"
-   ],
-   "hash": "dd53b1da06e77113a6202d3fd7748d4a",
-   "note": "Thu. Oct. 22 update: 55 rows after Stace's Oct. 22 Air Order edits (4 cuts, 3 inline adds, last six placed). Old sheet unmodified since its Oct. 21 deploy, so no ticks to harvest. Oct. 22 Thursday sync: patched 5 cells in place (Royal Blood date and note, Viagra Boys label, EODM label, QOTSA date) to match the plan; link unchanged."
-  },
-  "final_show_script_2026-10-22": {
-   "id": null,
-   "type": "docx+pdf (raw files)",
-   "folder": "KZSU top",
-   "deployed": "2026-10-21T20:15Z",
-   "working": "Working/final_show_script_2026-10-22.md (data record); Word and PDF at /KZSU/ top level and repo outputs/recon/2026-10-22/",
-   "retired": [],
-   "note": "Landscape tables, 18 pages, 55 tracks, 3:12:15. Rebuilt Oct. 22 for Stace's Air Order edits, then revised 08:40 (Track history column, bold release dates with years, LIVE show highlights, booked-shows table); prior versions moved to _to_delete."
-  },
-  "zookeeper_csv_2026-10-22_final": {
-   "id": null,
-   "type": "csv-raw",
-   "folder": "KZSU top",
-   "deployed": "2026-10-21T20:15Z",
-   "working": "Working/library_show_playlist_2026-10-22.csv",
-   "note": "Raw CSV at /KZSU/ top level through Drive for desktop. 50 tracks, reversed, 7 mic-break blank rows, 8 labels filled. Oct. 22 Thursday sync: overwritten in place with 55 tracks (labels Ume for EODM, Shrimptech Enterprises for Viagra Boys)."
-  },
-  "notes_sheet_2026-10-29": {
-   "id": "12my1phBCX00y-l3EefaD7Cy-AjbwjHNilARe7lx60Yw",
-   "type": "sheet",
-   "folder": "Show Prep",
-   "deployed": "2026-10-27T13:47Z",
-   "working": "Working/notes_sheet_2026-10-29.csv",
-   "retired": [
-    "1Oely0Vck1eOk6rqhY5tTDg6hCzFDx_KWX_MuuTh_NAo"
-   ],
-   "note": "Tuesday sweep Oct. 27 redeploy: 51 rows (Stace appended 9 to the Air Order). Verified by get_values (artist and track columns). Old sheet 1Oely0Vck1eOk6rqhY5tTDg6hCzFDx_KWX_MuuTh_NAo moved to _to_delete. No Stace ticks to harvest (old sheet unmodified since deploy). Last row was patched after a transcription error. | Superseded by final_notes_sheet_2026-10-29 (same file, moved to top level Oct. 28)."
-  },
-  "working_show_script_2026-10-29": {
-   "id": null,
-   "type": "docx+pdf",
-   "folder": "Show Prep",
-   "deployed": "2026-10-23T09:41Z",
-   "working": "Working/working_show_script_2026-10-29.md; landscape files in Show Prep and outputs/recon/2026-10-29",
-   "retired": []
-  },
-  "zookeeper_csv_2026-10-29": {
-   "id": null,
-   "type": "csv-raw",
-   "folder": "Show Prep",
-   "deployed": "2026-10-27",
-   "working": "Working/library_show_playlist_2026-10-29.csv",
-   "retired": [],
-   "note": "Draft, reversed order, 51 tracks. Placed by Drive for desktop sync (Working and Show Prep)."
-  },
-  "review_suggestions_2026-10-22": {
-   "id": null,
-   "type": "md-raw",
-   "folder": "Show Prep",
-   "deployed": "2026-10-23T09:35Z",
-   "working": "outputs/reviews/review_suggestions_2026-10-22.md",
-   "retired": []
-  },
-  "final_notes_sheet_2026-10-29": {
-   "id": "12my1phBCX00y-l3EefaD7Cy-AjbwjHNilARe7lx60Yw",
-   "type": "sheet",
-   "folder": "KZSU top",
-   "deployed": "2026-10-29T03:32Z",
-   "working": "Working/notes_sheet_2026-10-29.csv",
-   "retired": [],
-   "hash": "8526a5bbd922c530f8b989290ae7f090",
-   "title": "Library Show Final Playlist Notes Sheet 2026-10-29",
-   "note": "Wed. Oct. 28 final build: same Sheet as the Show Prep draft, patched in place (inserted Coil row, 52 rows, labels and tags for 10 Air Order adds) and moved to /KZSU/ top level. Link unchanged. No ticks to harvest (Cull and Replace empty, read 8 p.m.). | Oct. 29: rows rewritten in place via Sheets API (48 rows, new set names, 8 new review picks, 13 culled rows removed). No ticks. Link unchanged."
-  },
-  "final_show_script_2026-10-29": {
-   "id": null,
-   "type": "docx+pdf (raw files)",
-   "folder": "KZSU top",
-   "deployed": "2026-10-29T17:00Z",
-   "working": "Working/final_show_script_2026-10-29.md (data record); Word and PDF at /KZSU/ top level and repo outputs/recon/2026-10-29/",
-   "retired": [],
-   "note": "Rebuilt Thu. Oct. 29 after Stace's Air Order cuts and adds: landscape tables, 15 pages, 48 tracks, 3:15:28, eight Halloween sets, eight reviewed Halloween picks. Replaced in place at /KZSU/ top level."
-  },
-  "zookeeper_csv_2026-10-29_final": {
-   "id": null,
-   "type": "csv-raw",
-   "folder": "KZSU top",
-   "deployed": "2026-10-29T03:30Z",
-   "working": "Working/library_show_playlist_2026-10-29.csv",
-   "retired": [],
-   "note": "Rebuilt Oct. 29: 48 tracks, reversed (first row Black Sabbath, last row Every Day Is Halloween)."
+  "folders": {
+    "working": "125cSy5-B4lrFYk66p-mnbXMLjBYAVKBL",
+    "show_prep": "1JAlfQc-r7_rnDewKVedUYIr3F_OM4vkQ",
+    "archive": "1Wrb9Ah5q_RM7lCIPYbOhcv59LK7pSeZu",
+    "archive_2026": "1mvdsgChz9JdmRnULsbfmkY2WocSzlNjw",
+    "to_delete": "1b2cmq-T--n7Ge2iQL3K5ajwDMK53zPMC"
   }
- },
- "folders": {
-  "working": "125cSy5-B4lrFYk66p-mnbXMLjBYAVKBL",
-  "show_prep": "1JAlfQc-r7_rnDewKVedUYIr3F_OM4vkQ",
-  "archive": "1Wrb9Ah5q_RM7lCIPYbOhcv59LK7pSeZu",
-  "archive_2026": "1mvdsgChz9JdmRnULsbfmkY2WocSzlNjw",
-  "to_delete": "1b2cmq-T--n7Ge2iQL3K5ajwDMK53zPMC"
- }
 }
