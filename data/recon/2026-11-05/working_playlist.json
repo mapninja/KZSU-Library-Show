@@ -1108,10 +1108,26 @@
   {
    "date": "Sat. Nov. 7",
    "venue": "Chapel, S.F.",
-   "act": "Alex Cameron, Joss Da Costa",
+   "act": "Alex Cameron, Josh da Costa",
    "detail": "$33.40, doors 8 p.m., show 9 p.m.",
-   "what": "Alex Cameron, Joss Da Costa. $33.40, doors 8 p.m., show 9 p.m.",
-   "note": "From foopee Oct. 30."
+   "what": "Alex Cameron, Josh da Costa. $33.40, doors 8 p.m., show 9 p.m.",
+   "note": "Chapel calendar lists Josh da Costa."
+  },
+  {
+   "date": "Fri. Nov. 13",
+   "venue": "Bottom of the Hill, S.F.",
+   "act": "Jon Spencer, Genre Is Death, Fuckwolf",
+   "detail": "$30/$35, doors 8 p.m., music 8:30 p.m.",
+   "what": "Jon Spencer, Genre Is Death, Fuckwolf. $30/$35, doors 8 p.m., music 8:30 p.m. 21+",
+   "note": "FCC: the opener's name contains an FCC word. Do not read it on air. Name Jon Spencer and Genre Is Death only."
+  },
+  {
+   "date": "Sat. Nov. 14",
+   "venue": "Bottom of the Hill, S.F.",
+   "act": "The Avengers, Pansy Division, Damage Party",
+   "detail": "$25, doors 8:30 p.m., music 9:30 p.m.",
+   "what": "The Avengers, Pansy Division, Damage Party. $25, doors 8:30 p.m., music 9:30 p.m. 21+",
+   "note": "Ties to the Avengers track in tonight's punk set."
   }
  ],
  "mic_breaks": {
