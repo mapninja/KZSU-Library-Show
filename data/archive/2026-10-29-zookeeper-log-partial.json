@@ -1,0 +1,23 @@
+{
+ "show_date": "2026-10-29",
+ "zookeeper_playlist_id": 58539,
+ "zookeeper_show": "The Library, DJ Stace, 1800-1905 (13 spins, 4 breaks, 5 log events)",
+ "pulled": "2026-10-29 21:02 PT via /api/v2/playlist/58539/events",
+ "status": "below_15_track_minimum_archive_not_built",
+ "spins": [
+  {"n": 1, "artist": "Screamin' Jay Hawkins", "track": "I Put a Spell on You", "album": "At Home with Screamin' Jay Hawkins", "label": "Okeh"},
+  {"n": 2, "artist": "Lera Lynn & Shovels & Rope", "track": "Wolf Like Me (ft. Shovels & Rope)", "album": "Plays Well With Others", "label": "Single Lock"},
+  {"n": 3, "artist": "The Flaming Lips", "track": "God Will Control The Werewolves", "album": "The Teardrop Throbs", "label": "Third Man Records"},
+  {"n": 4, "artist": "Lambrini Girls", "track": "Cult of Celebrity", "album": "Cult of Celebrity (single)", "label": "City Slang"},
+  {"n": 5, "artist": "Dread Spectre Council", "track": "Raven", "album": "Thetans", "label": "Handmade Records"},
+  {"n": 6, "artist": "Black Angels, The", "track": "Young Men Dead", "album": "Passover", "label": "Light In The Attic Records"},
+  {"n": 7, "artist": "Black Rebel Motorcycle Club", "track": "Beat the Devil's Tattoo", "album": "Beat The Devil's Tattoo", "label": "Vagrant Records"},
+  {"n": 8, "artist": "Andy Shauf", "track": "Satan", "album": "Satan / Jacob Rose (single)", "label": "Anti-"},
+  {"n": 9, "artist": "Queens of the Stone Age", "track": "Where the Goth Girls At?", "album": "Perfecth", "label": "Matador Records"},
+  {"n": 10, "artist": "Interpol", "track": "Evil", "album": "Antics", "label": "Matador Records"},
+  {"n": 11, "artist": "Talking Heads", "track": "Psycho Killer", "album": "77", "label": "Sire Records"},
+  {"n": 12, "artist": "Alien Sex Fiend", "track": "Now I'm Feeling Zombiefied", "album": "Alien Sex Fiend Halloween", "label": "Anagram Records"},
+  {"n": 13, "artist": "Black Sabbath", "track": "Black Sabbath", "album": "Black Sabbath", "label": "Warner Bros. Records"}
+ ],
+ "note": "Zookeeper listed the show as 1800-1905, a one-hour show (Stanford Sports preempted the rest). The plan had 15 tracks. The log may be complete, but it is under the skill's 15-track floor, so the build stopped for the Friday retry."
+}
