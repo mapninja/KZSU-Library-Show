@@ -1,5 +1,5 @@
 {
- "_note": "Ledger for New Releases for Review. status: pending (not yet added), active, expired, deleted_by_stace, stace_added. expires = added + 14 days. Created 2026-10-10. First build 2026-10-10: 17 tracks added, sort Newest first, verified by reload. Fat Dog, Wishy and Greg Freeman stay pending until release dates are verified (add only if inside the 14-day window). Oct. 13: 4 deletes by Stace logged (Jamie T, Jess Williamson, Teenage Fanclub, Michael Kiwanuka; 60-day cool-off to 2026-12-12); 12 adds (expire 2026-10-27); Fat Dog and Greg Freeman pendings resolved, Wishy skipped. 25 tracks verified by reload. Oct. 16: 13 deletes by Stace logged (60-day cool-off to 2026-12-15); 6 adds (expire 2026-10-30); 18 tracks verified by reload. Oct. 20: 1 delete by Stace logged (Spanish Love Songs, cool-off to 2026-12-19); 2 adds (expire 2026-11-03); 19 tracks verified by reload. No expirations (earliest expiry Oct. 24). Oct. 23: 6 deletes by Stace logged (L7, Clinic, Cursive, Blondie, PISS, Prize Horse; 60-day cool-off to 2026-12-22); 14 adds (expire 2026-11-06); no expirations (earliest expiry Oct. 24, handled Oct. 27); 27 tracks verified by reload. Dazy row id remapped by YTM to kgmWHpcDuqM. Oct. 27: 2 deletes by Stace logged (Lambrini Girls, The Garden; cool-off to 2026-12-26) and 1 add by Stace (Flaming Lips); 8 expired and removed (Teens in Trouble, Dazy, Imperial Teen, Death Valley Girls, Father John Misty, Greg Freeman, Fujiya & Miyagi, Twisted Teens); 6 adds (expire 2026-11-10); 24 tracks verified by reload.",
+ "_note": "Ledger for New Releases for Review. status: pending (not yet added), active, expired, deleted_by_stace, stace_added. expires = added + 14 days. Created 2026-10-10. First build 2026-10-10: 17 tracks added, sort Newest first, verified by reload. Fat Dog, Wishy and Greg Freeman stay pending until release dates are verified (add only if inside the 14-day window). Oct. 13: 4 deletes by Stace logged (Jamie T, Jess Williamson, Teenage Fanclub, Michael Kiwanuka; 60-day cool-off to 2026-12-12); 12 adds (expire 2026-10-27); Fat Dog and Greg Freeman pendings resolved, Wishy skipped. 25 tracks verified by reload. Oct. 16: 13 deletes by Stace logged (60-day cool-off to 2026-12-15); 6 adds (expire 2026-10-30); 18 tracks verified by reload. Oct. 20: 1 delete by Stace logged (Spanish Love Songs, cool-off to 2026-12-19); 2 adds (expire 2026-11-03); 19 tracks verified by reload. No expirations (earliest expiry Oct. 24). Oct. 23: 6 deletes by Stace logged (L7, Clinic, Cursive, Blondie, PISS, Prize Horse; 60-day cool-off to 2026-12-22); 14 adds (expire 2026-11-06); no expirations (earliest expiry Oct. 24, handled Oct. 27); 27 tracks verified by reload. Dazy row id remapped by YTM to kgmWHpcDuqM. Oct. 27: 2 deletes by Stace logged (Lambrini Girls, The Garden; cool-off to 2026-12-26) and 1 add by Stace (Flaming Lips); 8 expired and removed (Teens in Trouble, Dazy, Imperial Teen, Death Valley Girls, Father John Misty, Greg Freeman, Fujiya & Miyagi, Twisted Teens); 6 adds (expire 2026-11-10); 24 tracks verified by reload. Oct. 30: no deletes or adds by Stace since Oct. 27 (24 tracks matched the ledger); 4 expired and removed (Smashing Pumpkins Black Stars, The Avalanches Blue Shadows, @ Autosmile, Heavens to Betsy ain't never goin' back); 8 adds (expire 2026-11-13); 28 tracks verified by reload.",
  "playlist_id": "PLIl7VQi0nzk0",
  "entries": [
   {
@@ -556,10 +556,11 @@
    "added": "2026-10-16",
    "expires": "2026-10-30",
    "owner": "claude",
-   "status": "active",
+   "status": "expired",
    "fcc_status": "CLEAN",
    "fcc_note": "198 words on Genius",
-   "source": "Oct. 16 run: Profile artist (332 YTM plays, last spin May 2024)"
+   "source": "Oct. 16 run: Profile artist (332 YTM plays, last spin May 2024)",
+   "expired_on": "2026-10-30"
   },
   {
    "videoId": "nybyN7_98zw",
@@ -571,10 +572,11 @@
    "added": "2026-10-16",
    "expires": "2026-10-30",
    "owner": "claude",
-   "status": "active",
+   "status": "expired",
    "fcc_status": "CLEAN",
    "fcc_note": "156 words on Genius",
-   "source": "Oct. 16 run: Profile artist (2 shows in 12 months); watchlist"
+   "source": "Oct. 16 run: Profile artist (2 shows in 12 months); watchlist",
+   "expired_on": "2026-10-30"
   },
   {
    "videoId": "45uEwi_dFU8",
@@ -586,10 +588,11 @@
    "added": "2026-10-16",
    "expires": "2026-10-30",
    "owner": "claude",
-   "status": "active",
+   "status": "expired",
    "fcc_status": "CLEAN",
    "fcc_note": "442 words on Genius",
-   "source": "Oct. 16 run: 4AD is a top-10 label (120 spins); Stereogum album of the week coverage"
+   "source": "Oct. 16 run: 4AD is a top-10 label (120 spins); Stereogum album of the week coverage",
+   "expired_on": "2026-10-30"
   },
   {
    "videoId": "_ownZ_IG9nQ",
@@ -618,10 +621,11 @@
    "added": "2026-10-16",
    "expires": "2026-10-30",
    "owner": "claude",
-   "status": "active",
+   "status": "expired",
    "fcc_status": "CLEAN",
    "fcc_note": "145 words (Friday sweep screen)",
-   "source": "Oct. 16 run: Punk focus (riot grrrl); Bay Area shows Oct. 17 and 18"
+   "source": "Oct. 16 run: Punk focus (riot grrrl); Bay Area shows Oct. 17 and 18",
+   "expired_on": "2026-10-30"
   },
   {
    "videoId": "fYaxUMD4pJs",
@@ -975,6 +979,126 @@
    "fcc_status": "CLEAN",
    "fcc_note": "357 words (screened in the Oct. 27 Tuesday sweep)",
    "source": "Oct. 27 Tuesday sweep; Anti- is a top label; Halloween week fit"
+  },
+  {
+   "videoId": "zikRXmDO7mk",
+   "artist": "Sennen",
+   "title": "Something Made Me Think Of You",
+   "album": "New Quiet",
+   "label": "Sonic Cathedral (verify)",
+   "released": "2026-10-30 (indieisnotagenre only; verify)",
+   "added": "2026-10-30",
+   "expires": "2026-11-13",
+   "owner": "claude",
+   "status": "active",
+   "fcc_status": "CLEAN",
+   "fcc_note": "Genius, 159 words (Oct. 30 Friday sweep)",
+   "source": "Shoegaze lane; Oct. 30 Friday sweep"
+  },
+  {
+   "videoId": "oTQgagKGhds",
+   "artist": "Rocketship",
+   "title": "Hurt Feelings",
+   "album": "Hurt Feelings",
+   "label": "Darla Records",
+   "released": "2026-10-30 (indieisnotagenre only; verify)",
+   "added": "2026-10-30",
+   "expires": "2026-11-13",
+   "owner": "claude",
+   "status": "active",
+   "fcc_status": "UNVERIFIED",
+   "fcc_note": "Genius page has no lyrics (Oct. 30 Friday sweep)",
+   "source": "Darla is a watchlist label; Oct. 30 Friday sweep"
+  },
+  {
+   "videoId": "uRawjI1x6Bg",
+   "artist": "The Big Moon",
+   "title": "F.O.R.E.V.E.R",
+   "album": "Forever",
+   "label": "Fiction Records",
+   "released": "2026-10-30 (indieisnotagenre only; verify)",
+   "added": "2026-10-30",
+   "expires": "2026-11-13",
+   "owner": "claude",
+   "status": "active",
+   "fcc_status": "CLEAN",
+   "fcc_note": "Genius, 196 words (Oct. 30 Friday sweep)",
+   "source": "Seven past spins on the show; Oct. 30 Friday sweep"
+  },
+  {
+   "videoId": "I4Q0kEAEYgE",
+   "artist": "Sam Burton",
+   "title": "Fairweather Friend",
+   "album": "Fairweather Friend",
+   "label": "Captured Tracks",
+   "released": "2026-10-30 (indieisnotagenre only; verify)",
+   "added": "2026-10-30",
+   "expires": "2026-11-13",
+   "owner": "claude",
+   "status": "active",
+   "fcc_status": "UNVERIFIED",
+   "fcc_note": "no Genius page (Oct. 30 Friday sweep)",
+   "source": "Captured Tracks is a watchlist label; Oct. 30 Friday sweep"
+  },
+  {
+   "videoId": "fdfS5LDO_Wg",
+   "artist": "2nd Grade",
+   "title": "Anywhere Girls",
+   "album": "Girls and Boys",
+   "label": "Lame-O Records",
+   "released": "2026-10-30 (indieisnotagenre only; verify)",
+   "added": "2026-10-30",
+   "expires": "2026-11-13",
+   "owner": "claude",
+   "status": "active",
+   "fcc_status": "CLEAN",
+   "fcc_note": "Genius, 218 words (Oct. 30 Friday sweep)",
+   "source": "Punk focus; Oct. 30 Friday sweep"
+  },
+  {
+   "videoId": "9tUu9SjKj7w",
+   "artist": "Editors",
+   "title": "The Hills We Died Upon",
+   "album": "Surface, Echo & Sound",
+   "label": "[PIAS] (verify)",
+   "released": "2026-10-30 (indieisnotagenre only; verify)",
+   "added": "2026-10-30",
+   "expires": "2026-11-13",
+   "owner": "claude",
+   "status": "active",
+   "fcc_status": "CLEAN",
+   "fcc_note": "Genius, 379 words (Oct. 30 Friday sweep)",
+   "source": "[PIAS] is a watchlist label; post-punk lane; Oct. 30 Friday sweep"
+  },
+  {
+   "videoId": "yTqUC98zqNU",
+   "artist": "Ex:Re",
+   "title": "Frozen Aisle",
+   "album": "Save As",
+   "label": "4AD",
+   "released": "2026-10-30 (indieisnotagenre only; verify)",
+   "added": "2026-10-30",
+   "expires": "2026-11-13",
+   "owner": "claude",
+   "status": "active",
+   "fcc_status": "CLEAN",
+   "fcc_note": "Genius, 158 words (Oct. 30 Friday sweep)",
+   "source": "4AD is a tier 1 label; Oct. 30 Friday sweep"
+  },
+  {
+   "videoId": "cVVxhTEoDTg",
+   "artist": "THAO",
+   "title": "Show Me",
+   "album": "Show Me",
+   "label": "Kill Rock Stars (verify)",
+   "released": "2026-10-30 (indieisnotagenre only; verify)",
+   "added": "2026-10-30",
+   "expires": "2026-11-13",
+   "owner": "claude",
+   "status": "active",
+   "fcc_status": "UNVERIFIED",
+   "fcc_note": "Genius page has no lyrics (Oct. 30 Friday sweep)",
+   "source": "Kill Rock Stars is a watchlist label; Bay Area release show Nov. 8; Oct. 30 Friday sweep"
   }
  ]
 }

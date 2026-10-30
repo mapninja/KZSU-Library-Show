@@ -1,9 +1,49 @@
 {
  "playlist": "New Releases for Review",
  "id": "PLIl7VQi0nzk0",
- "snapshot": "2026-10-27",
- "note": "After the Oct. 27 run: 24 tracks (26 before). 8 expired and removed, 6 added, verified by reload. Order is newest first.",
+ "snapshot": "2026-10-30",
+ "note": "After the Oct. 30 run: 28 tracks (24 before). 4 expired and removed, 8 added, verified by reload. Order is newest first.",
  "tracks": [
+  [
+   "THAO",
+   "Show Me",
+   "cVVxhTEoDTg"
+  ],
+  [
+   "Ex:Re",
+   "Frozen Aisle",
+   "yTqUC98zqNU"
+  ],
+  [
+   "Editors",
+   "The Hills We Died Upon",
+   "9tUu9SjKj7w"
+  ],
+  [
+   "2nd Grade",
+   "Anywhere Girls",
+   "fdfS5LDO_Wg"
+  ],
+  [
+   "Sam Burton",
+   "Fairweather Friend",
+   "I4Q0kEAEYgE"
+  ],
+  [
+   "The Big Moon",
+   "F.O.R.E.V.E.R",
+   "uRawjI1x6Bg"
+  ],
+  [
+   "Rocketship",
+   "Hurt Feelings",
+   "oTQgagKGhds"
+  ],
+  [
+   "Sennen",
+   "Something Made Me Think Of You",
+   "zikRXmDO7mk"
+  ],
   [
    "Dead Man's Bones",
    "Lost In The Night",
@@ -103,26 +143,6 @@
    "Hot Chip",
    "Random Violence",
    "FEQJgTFfS9k"
-  ],
-  [
-   "Heavens to Betsy",
-   "ain't never goin' back",
-   "7oGmnzdsvis"
-  ],
-  [
-   "@",
-   "Autosmile",
-   "45uEwi_dFU8"
-  ],
-  [
-   "The Avalanches",
-   "Blue Shadows (feat. Karen O)",
-   "nybyN7_98zw"
-  ],
-  [
-   "The Smashing Pumpkins",
-   "Black Stars",
-   "IRmEiyYV7H0"
   ]
  ]
 }
