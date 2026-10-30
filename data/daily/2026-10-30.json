@@ -1,0 +1,198 @@
+{
+ "date": "2026-10-30",
+ "task": "kzsu-fri-releases",
+ "target_show": "2026-11-05",
+ "weekly_before": 219,
+ "weekly_after": 246,
+ "adds": [
+  {
+   "artist": "Rocketship",
+   "track": "Hurt Feelings",
+   "videoId": "oTQgagKGhds",
+   "bucket": "New Oct. 30",
+   "fcc": "UNVERIFIED"
+  },
+  {
+   "artist": "Sam Burton",
+   "track": "Fairweather Friend",
+   "videoId": "I4Q0kEAEYgE",
+   "bucket": "New Oct. 30",
+   "fcc": "UNVERIFIED"
+  },
+  {
+   "artist": "Editors",
+   "track": "The Hills We Died Upon",
+   "videoId": "9tUu9SjKj7w",
+   "bucket": "New Oct. 30",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Editors",
+   "track": "Surface, Echo & Sound",
+   "videoId": "sHlg7rg5Iqw",
+   "bucket": "New Oct. 30",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Ex:Re",
+   "track": "Frozen Aisle",
+   "videoId": "yTqUC98zqNU",
+   "bucket": "New Oct. 30",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Sennen",
+   "track": "Something Made Me Think Of You",
+   "videoId": "zikRXmDO7mk",
+   "bucket": "New Oct. 30",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "2nd Grade",
+   "track": "Anywhere Girls",
+   "videoId": "fdfS5LDO_Wg",
+   "bucket": "New Oct. 30",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "WHY?",
+   "track": "Not Really Stranger",
+   "videoId": "5c8IwzsC91o",
+   "bucket": "New Oct. 30",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Stephen Steinbrink",
+   "track": "I'm a Swimming Pool",
+   "videoId": "c-Omr6HmuhM",
+   "bucket": "New Oct. 30",
+   "fcc": "UNVERIFIED"
+  },
+  {
+   "artist": "Disgusting Sisters",
+   "track": "Killing It",
+   "videoId": "OfodEPilzvw",
+   "bucket": "New Oct. 30",
+   "fcc": "UNVERIFIED"
+  },
+  {
+   "artist": "The Big Moon",
+   "track": "F.O.R.E.V.E.R",
+   "videoId": "uRawjI1x6Bg",
+   "bucket": "New Oct. 30",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Toner",
+   "track": "Slidin' Down the Razor",
+   "videoId": "NdTZKjWVLgE",
+   "bucket": "New Oct. 30",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Juice Webster",
+   "track": "Kind of Fantasy",
+   "videoId": "t5TOGqmy7nY",
+   "bucket": "New Oct. 30",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "DIIV",
+   "track": "When The Glow Came For Us",
+   "videoId": "8r5FOvgLsiE",
+   "bucket": "New Oct. 30",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Clinic",
+   "track": "Back to Nature",
+   "videoId": "_nOFUUqzzXk",
+   "bucket": "New Oct. 30",
+   "fcc": "UNVERIFIED"
+  },
+  {
+   "artist": "THAO",
+   "track": "Show Me",
+   "videoId": "cVVxhTEoDTg",
+   "bucket": "New Oct. 30",
+   "fcc": "UNVERIFIED"
+  },
+  {
+   "artist": "THAO",
+   "track": "Jeans/Genes",
+   "videoId": "zuS0YwLXCTw",
+   "bucket": "New Oct. 30",
+   "fcc": "UNVERIFIED"
+  },
+  {
+   "artist": "TV Priest",
+   "track": "Love Song (A Good Kind of Weapon)",
+   "videoId": "3vTgbvA1qVA",
+   "bucket": "Out Nov. 6",
+   "fcc": "UNVERIFIED"
+  },
+  {
+   "artist": "Do Nothing",
+   "track": "Stars",
+   "videoId": "L9-rw6st42U",
+   "bucket": "Out Nov. 6",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Hudson Freeman",
+   "track": "I-40",
+   "videoId": "BJTHwRbdBTM",
+   "bucket": "Out Nov. 6",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Chastity Belt",
+   "track": "To Decide",
+   "videoId": "YVpbWLsBsp8",
+   "bucket": "Out Nov. 6",
+   "fcc": "UNVERIFIED"
+  },
+  {
+   "artist": "Squirrel Flower",
+   "track": "i don’t use a trash can",
+   "videoId": "ad_jbZQAEkE",
+   "bucket": "Bay Area",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Alex Cameron",
+   "track": "Runnin' Outta Luck (feat. Brandon Flowers)",
+   "videoId": "j1DqBFYgDzc",
+   "bucket": "Bay Area",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Aphex Twin",
+   "track": "Girl/Boy Song",
+   "videoId": "6yy-Es6rp3U",
+   "bucket": "Anniversary",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Nick Cave & The Bad Seeds",
+   "track": "The Carny",
+   "videoId": "dt8TykotuoM",
+   "bucket": "Anniversary",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "They Might Be Giants",
+   "track": "Don't Let's Start",
+   "videoId": "UNLqGTSRln8",
+   "bucket": "Anniversary",
+   "fcc": "CLEAN"
+  },
+  {
+   "artist": "Pretenders",
+   "track": "My Baby (2007 Remaster)",
+   "videoId": "Ju-eHbKHr1k",
+   "bucket": "Anniversary",
+   "fcc": "CLEAN"
+  }
+ ]
+}

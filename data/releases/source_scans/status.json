@@ -1,11 +1,11 @@
 {
  "_note": "Weekly scan status per outside source. The weekly run updates this file. Scans land in data/releases/source_scans/<source>_<date>.psv (date|ARTIST|Title|Label) and feed scripts/staged_crossref.py.",
  "indieisnotagenre": {
-  "last_scan": "2026-10-29",
+  "last_scan": "2026-10-30",
   "method": "browser pane, snippet in references/source_scans.md",
   "status": "ok",
-  "rows_saved": 288,
-  "note": "Oct. 29 rescan: 288 rows, same as Oct. 28 except one label edit (Johnny Marr, The Age of Everything: now \"New Voodoo\"). No new rows, so no new psv saved; indieisnotagenre_2026-10-28.psv stays the newest file."
+  "rows_saved": 297,
+  "note": "Oct. 30 rescan (Friday sweep): 422 rows on page. Oct. 30 release rows are new; saved only the new rows to indieisnotagenre_2026-10-30.psv. Keep indieisnotagenre_2026-10-28.psv too (full window). | Oct. 29 rescan: 288 rows, same as Oct. 28 except one label edit (Johnny Marr, The Age of Everything: now \"New Voodoo\"). No new rows, so no new psv saved; indieisnotagenre_2026-10-28.psv stays the newest file."
  },
  "bandcamp": {
   "last_scan": "2026-10-29",

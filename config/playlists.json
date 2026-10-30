@@ -21,7 +21,7 @@
       "id": "PLCLF-Tik2UHk",
       "order": "forward",
       "mode": "ADD only; never clear; Stace deletes stale tracks; log her deletes (60-day cool-off)",
-      "last_sweep": "2026-10-27 Tuesday sweep for Oct. 29: 219 tracks (207 + 12 adds); 0 to FCC Edit Needed; notes outputs/weekly/2026-10-29_tuesday-sweep.md | 2026-10-29 night: no writes; snapshot refreshed"
+      "last_sweep": "2026-10-30 Friday sweep for Nov. 5: 246 tracks (219 + 27 adds), verified by reload; 0 to FCC Edit Needed; notes outputs/weekly/2026-11-05_friday-sweep.md | 2026-10-27 Tuesday sweep for Oct. 29: 219 tracks (207 + 12 adds); 0 to FCC Edit Needed; notes outputs/weekly/2026-10-29_tuesday-sweep.md | 2026-10-29 night: no writes; snapshot refreshed"
     },
     "new_releases_review": {
       "title": "New Releases for Review",

@@ -205,6 +205,31 @@
    "deploy": "no Sheet change; Sheet read back (153 rows, 29 ticked requests)",
    "note": "Today's 7:07 daily run already covered email and scans. NACC entrants not added: no taste-profile fit beyond rows already on the shelf.",
    "ticked_requests_waiting": 0
+  },
+  {
+   "date": "2026-10-30",
+   "trigger": "Friday sweep (kzsu-fri-releases)",
+   "rows_added": 16,
+   "artists": [
+    "Thao",
+    "Editors",
+    "Ex:Re",
+    "Sennen",
+    "WHY?",
+    "Rocketship",
+    "Sam Burton",
+    "2nd Grade",
+    "Disgusting Sisters",
+    "The Big Moon",
+    "Stephen Steinbrink",
+    "Toner",
+    "Juice Webster",
+    "Do Nothing",
+    "Hudson Freeman",
+    "Chastity Belt"
+   ],
+   "deploy": "patched in place with the Sheets API (16 rows inserted at A2:Q17); same file ID, link unchanged; Album and Label written as HYPERLINK formulas; ticks moved down with their rows (read back). Drive Working copy not updated (Drive folder not connected).",
+   "ticked_requests_waiting": "not checked"
   }
  ]
 }
