@@ -357,6 +357,14 @@
       "working": "outputs/reviews/review_suggestions_2026-10-29.md",
       "retired": [],
       "note": "Draft picks for Nov. 5."
+    },
+    "bay_area_shows_sheet": {
+      "id": "1CKd20f34OPRswvb8mPRCXQDGUfwIAD2WBR2BTz_GE9k",
+      "title": "Bay Area Shows (running tracker)",
+      "folder": "KZSU (top level)",
+      "working_copy": "data/shows/bay_area_shows.csv",
+      "created": "2026-10-30",
+      "note": "patch in place weekly; never redeploy"
     }
   },
   "folders": {

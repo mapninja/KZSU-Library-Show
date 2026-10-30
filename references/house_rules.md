@@ -20,6 +20,7 @@
 - Tag only if the album really contains the track. Missing label = `unverified` and listed in the script.
 
 ## Playlists
+- Naming (Oct. 30, 2026): `01 KZSU - ` = every list Claude manages (Working, Air Order, Next Show, Weekly, New Releases for Review, To Review, FCC lists, specialty, Top 50). `02 Personal - ` = lists Stace creates and manages. `03 Archive - ` = aired-show archives. Ids never change; use `config/playlists.json`. Archive titles never say "Air Order".
 - music.youtube.com only. Never youtube.com.
 - Prefer ytmusicapi for playlist work when the shell can reach YTM. Sandbox currently gets 403, so the signed-in browser is the working route. Verify every edit by reload.
 - Deltas only. Never remove and re-add tracks already in place.
@@ -40,7 +41,7 @@
 - Only delete files Claude created. Move others to `_to_delete/`.
 - Drive layout:
   - `/KZSU/` top level: this week's FINAL show artifacts only (Final Show Script, final Notes Sheet, Zookeeper CSV, working_playlist.md).
-  - `/KZSU/Archive/YYYY/MM-DD/`: the previous week's finals. Move them here when the new week's finals are published (Wednesday night build).
+  - `/KZSU/Archive/YYYY/MM-DD/`: the previous week's finals. Move them here when the new week's finals are published (Thursday 1:30 p.m. final run).
   - `/KZSU/Show Prep/`: next week's staged materials (drafts, Working Show Script, Notes Sheet draft, recon, review suggestions, specialty plans). Promote to top level when final.
   - Never write to the Drive root. Never delete; move to `/KZSU/_to_delete/`.
 - Reviews live in the KZSU-Album-Reviews repo. KZSU-Album-Reviews pushes go to branch `master` (not main). Add only your own files there; Stace keeps uncommitted work in that repo.
@@ -52,6 +53,7 @@
 - Do not invent contest rules, call-in numbers or show times; flag them as "confirm before air."
 
 ## Show script format
+- Built by `scripts/build_show_script.sh <date> <draft|final>`. TRACKLIST FIRST (columns: #, Artist, Track, Album, Orig. release, FCC, ZK tag, Time, Notes with production and related bands), general show info last. Landscape Word plus PDF. Do not write new dated builders.
 - All show scripts (Working, Final, specialty) are landscape, table-based Word + PDF files, not prose Docs. Stace's standing preference (Oct. 7, 2026): she scans them on air. Layout and build steps: `references/show_script_landscape.md`.
 
 ## Style

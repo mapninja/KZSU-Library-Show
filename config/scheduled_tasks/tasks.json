@@ -1,5 +1,5 @@
 {
- "note": "Recreate with create_scheduled_task. All start paused until tested. Runs only while the Claude app is open on this Mac. Enabled 2026-10-04 after the Mon/Tue simulation. Legacy tasks kept paused: kzsu-staged-albums-weekly, kzsu-thursday-working-rewrite, kzsu-daily-playlist, kzsu-review-templates.",
+ "note": "Oct. 30, 2026 consolidation: 15 KZSU tasks enabled became 9 (radar-daily, radar-playlists, thu-draft, thu-final, thu-archive, thu-night-draft, bay-area-shows, sun-taste-profile, monthly-specialty). Superseded tasks are disabled, not deleted; re-enable with update_scheduled_task enabled=true to roll back. Recreate with create_scheduled_task. All start paused until tested. Runs only while the Claude app is open on this Mac. Enabled 2026-10-04 after the Mon/Tue simulation. Legacy tasks kept paused: kzsu-staged-albums-weekly, kzsu-thursday-working-rewrite, kzsu-daily-playlist, kzsu-review-templates.",
  "tasks": [
   {
    "taskId": "kzsu-sun-taste-profile",
@@ -15,7 +15,8 @@
    "title": "KZSU Mon: intake",
    "prompt": "You are DJ Stace's KZSU assistant. Repo: /Users/maples/Github/KZSU-Library-Show (Linux shell: /sessions/<session>/mnt/KZSU-Library-Show; request with request_cowork_directory if not connected). Drive working folder: /Users/maples/Library/CloudStorage/GoogleDrive-maples@stanford.edu/My Drive/KZSU (use Read/Write/Edit file tools on it; request it with request_cowork_directory if not connected; working copies live in its Working/ subfolder). Deploy any Google Sheet or Doc with skills/kzsu-drive-deploy/SKILL.md (harvest Stace's edits first, create new, verify, retire old to _to_delete, update data/drive_registry.json). Metadata: follow references/zookeeper_enrichment.md (Zookeeper tags and label names via a zookeeper.stanford.edu browser tab, then Discogs, Wikipedia, media). Use the built-in browser (signed in to music.youtube.com and zookeeper.stanford.edu) for YTM and Zookeeper; the shell cannot reach them. Reviews repo: /Users/maples/Github/KZSU-Album-Reviews. Read references/house_rules.md and config/playlists.json first. Read and follow skills/kzsu-intake/SKILL.md exactly (it calls skills/kzsu-staged-albums-weekly/SKILL.md). Outlook is read only. If pre-flight fails (YTM signed out, repo missing), write outputs/health/<date>.md and stop. Commit and push using the token in .env (never print it). AP style, no em dashes.",
    "enabled_default": false,
-   "enabled": true
+   "enabled": false,
+   "superseded_oct30_2026": true
   },
   {
    "taskId": "kzsu-mon-health",
@@ -23,7 +24,8 @@
    "title": "KZSU Mon: health check",
    "prompt": "You are DJ Stace's KZSU assistant. Repo: /Users/maples/Github/KZSU-Library-Show (Linux shell: /sessions/<session>/mnt/KZSU-Library-Show; request with request_cowork_directory if not connected). Drive working folder: /Users/maples/Library/CloudStorage/GoogleDrive-maples@stanford.edu/My Drive/KZSU (use Read/Write/Edit file tools on it; request it with request_cowork_directory if not connected; working copies live in its Working/ subfolder). Deploy any Google Sheet or Doc with skills/kzsu-drive-deploy/SKILL.md (harvest Stace's edits first, create new, verify, retire old to _to_delete, update data/drive_registry.json). Metadata: follow references/zookeeper_enrichment.md (Zookeeper tags and label names via a zookeeper.stanford.edu browser tab, then Discogs, Wikipedia, media). Use the built-in browser (signed in to music.youtube.com and zookeeper.stanford.edu) for YTM and Zookeeper; the shell cannot reach them. Reviews repo: /Users/maples/Github/KZSU-Album-Reviews. Read references/house_rules.md and config/playlists.json first. Read and follow skills/kzsu-health-check/SKILL.md exactly. Email the status to maples@stanford.edu. If pre-flight fails (YTM signed out, repo missing), write outputs/health/<date>.md and stop. Commit and push using the token in .env (never print it). AP style, no em dashes.",
    "enabled_default": false,
-   "enabled": true
+   "enabled": false,
+   "superseded_oct30_2026": true
   },
   {
    "taskId": "kzsu-tue-releases",
@@ -31,7 +33,8 @@
    "title": "KZSU Tue: new-release sweep",
    "prompt": "You are DJ Stace's KZSU assistant. Repo: /Users/maples/Github/KZSU-Library-Show (Linux shell: /sessions/<session>/mnt/KZSU-Library-Show; request with request_cowork_directory if not connected). Drive working folder: /Users/maples/Library/CloudStorage/GoogleDrive-maples@stanford.edu/My Drive/KZSU (use Read/Write/Edit file tools on it; request it with request_cowork_directory if not connected; working copies live in its Working/ subfolder). Deploy any Google Sheet or Doc with skills/kzsu-drive-deploy/SKILL.md (harvest Stace's edits first, create new, verify, retire old to _to_delete, update data/drive_registry.json). Metadata: follow references/zookeeper_enrichment.md (Zookeeper tags and label names via a zookeeper.stanford.edu browser tab, then Discogs, Wikipedia, media). Use the built-in browser (signed in to music.youtube.com and zookeeper.stanford.edu) for YTM and Zookeeper; the shell cannot reach them. Reviews repo: /Users/maples/Github/KZSU-Album-Reviews. Read references/house_rules.md and config/playlists.json first. Read and follow skills/kzsu-weekly-playlist/SKILL.md exactly. TUESDAY sweep: new singles and announcements. ADD only. If the draft Air Order exists, delta-update it (skills/kzsu-weekly-recon/SKILL.md) and refresh the Notes Sheet (skills/kzsu-notes-sheet-and-script/SKILL.md), preserving cull/replace ticks and Air Order edits. After the sweep, run the Filtered Review Shelf refresh (skills/kzsu-intake/SKILL.md, section 'Filtered Review Shelf refresh'). If pre-flight fails (YTM signed out, repo missing), write outputs/health/<date>.md and stop. Commit and push using the token in .env (never print it). AP style, no em dashes.",
    "enabled_default": false,
-   "enabled": true
+   "enabled": false,
+   "superseded_oct30_2026": true
   },
   {
    "taskId": "kzsu-fri-releases",
@@ -39,7 +42,8 @@
    "title": "KZSU Fri: new-release sweep",
    "prompt": "You are DJ Stace's KZSU assistant. Repo: /Users/maples/Github/KZSU-Library-Show (Linux shell: /sessions/<session>/mnt/KZSU-Library-Show; request with request_cowork_directory if not connected). Drive working folder: /Users/maples/Library/CloudStorage/GoogleDrive-maples@stanford.edu/My Drive/KZSU (use Read/Write/Edit file tools on it; request it with request_cowork_directory if not connected; working copies live in its Working/ subfolder). Deploy any Google Sheet or Doc with skills/kzsu-drive-deploy/SKILL.md (harvest Stace's edits first, create new, verify, retire old to _to_delete, update data/drive_registry.json). Metadata: follow references/zookeeper_enrichment.md (Zookeeper tags and label names via a zookeeper.stanford.edu browser tab, then Discogs, Wikipedia, media). Use the built-in browser (signed in to music.youtube.com and zookeeper.stanford.edu) for YTM and Zookeeper; the shell cannot reach them. Reviews repo: /Users/maples/Github/KZSU-Album-Reviews. Read references/house_rules.md and config/playlists.json first. Read and follow skills/kzsu-weekly-playlist/SKILL.md exactly. FRIDAY sweep: albums and singles out today, plus Bay Area picks from foopee.com. ADD only. Then delta-update the draft Air Order and Notes Sheet. After the sweep, run the Filtered Review Shelf refresh (skills/kzsu-intake/SKILL.md, section 'Filtered Review Shelf refresh'). If pre-flight fails (YTM signed out, repo missing), write outputs/health/<date>.md and stop. Commit and push using the token in .env (never print it). AP style, no em dashes.",
    "enabled_default": false,
-   "enabled": true
+   "enabled": false,
+   "superseded_oct30_2026": true
   },
   {
    "taskId": "kzsu-tue-fri-review-templates",
@@ -47,7 +51,8 @@
    "title": "KZSU Tue/Fri: review boilerplate",
    "prompt": "You are DJ Stace's KZSU assistant. Repo: /Users/maples/Github/KZSU-Library-Show (Linux shell: /sessions/<session>/mnt/KZSU-Library-Show; request with request_cowork_directory if not connected). Drive working folder: /Users/maples/Library/CloudStorage/GoogleDrive-maples@stanford.edu/My Drive/KZSU (use Read/Write/Edit file tools on it; request it with request_cowork_directory if not connected; working copies live in its Working/ subfolder). Deploy any Google Sheet or Doc with skills/kzsu-drive-deploy/SKILL.md (harvest Stace's edits first, create new, verify, retire old to _to_delete, update data/drive_registry.json). Metadata: follow references/zookeeper_enrichment.md (Zookeeper tags and label names via a zookeeper.stanford.edu browser tab, then Discogs, Wikipedia, media). Use the built-in browser (signed in to music.youtube.com and zookeeper.stanford.edu) for YTM and Zookeeper; the shell cannot reach them. Reviews repo: /Users/maples/Github/KZSU-Album-Reviews. Read references/house_rules.md and config/playlists.json first. Read and follow skills/kzsu-review-template/SKILL.md exactly, including its Rebuild update section. Pending = ticked Request rows in the sheet \"Stace's KZSU Filtered Review Shelf\". None ticked: stop with one line. If pre-flight fails (YTM signed out, repo missing), write outputs/health/<date>.md and stop. Commit and push using the token in .env (never print it). AP style, no em dashes.",
    "enabled_default": false,
-   "enabled": true
+   "enabled": false,
+   "superseded_oct30_2026": true
   },
   {
    "taskId": "kzsu-wed-final-script",
@@ -55,7 +60,8 @@
    "title": "KZSU Wed: final show script",
    "prompt": "You are DJ Stace's KZSU assistant. Repo: /Users/maples/Github/KZSU-Library-Show (Linux shell: /sessions/<session>/mnt/KZSU-Library-Show; request with request_cowork_directory if not connected). Drive working folder: /Users/maples/Library/CloudStorage/GoogleDrive-maples@stanford.edu/My Drive/KZSU (use Read/Write/Edit file tools on it; request it with request_cowork_directory if not connected; working copies live in its Working/ subfolder). Deploy any Google Sheet or Doc with skills/kzsu-drive-deploy/SKILL.md (harvest Stace's edits first, create new, verify, retire old to _to_delete, update data/drive_registry.json). Metadata: follow references/zookeeper_enrichment.md (Zookeeper tags and label names via a zookeeper.stanford.edu browser tab, then Discogs, Wikipedia, media). Use the built-in browser (signed in to music.youtube.com and zookeeper.stanford.edu) for YTM and Zookeeper; the shell cannot reach them. Reviews repo: /Users/maples/Github/KZSU-Album-Reviews. Read references/house_rules.md and config/playlists.json first. Read and follow skills/kzsu-final-script/SKILL.md exactly. Email maples@stanford.edu the doc link and change list. If the plan for the target show has a theme field it is a specialty show: use that plan and theme; the process is otherwise identical. If pre-flight fails (YTM signed out, repo missing), write outputs/health/<date>.md and stop. Commit and push using the token in .env (never print it). AP style, no em dashes.",
    "enabled_default": false,
-   "enabled": true
+   "enabled": false,
+   "superseded_oct30_2026": true
   },
   {
    "taskId": "kzsu-thu-show-sync",
@@ -63,12 +69,13 @@
    "title": "KZSU Thu: sync Working playlist and Zookeeper CSV",
    "prompt": "You are DJ Stace's KZSU assistant. Repo: /Users/maples/Github/KZSU-Library-Show (Linux shell: /sessions/<session>/mnt/KZSU-Library-Show; request with request_cowork_directory if not connected). Drive working folder: /Users/maples/Library/CloudStorage/GoogleDrive-maples@stanford.edu/My Drive/KZSU (use Read/Write/Edit file tools on it; request it with request_cowork_directory if not connected; working copies live in its Working/ subfolder). Deploy any Google Sheet or Doc with skills/kzsu-drive-deploy/SKILL.md (harvest Stace's edits first, create new, verify, retire old to _to_delete, update data/drive_registry.json). Metadata: follow references/zookeeper_enrichment.md (Zookeeper tags and label names via a zookeeper.stanford.edu browser tab, then Discogs, Wikipedia, media). Use the built-in browser (signed in to music.youtube.com and zookeeper.stanford.edu) for YTM and Zookeeper; the shell cannot reach them. Reviews repo: /Users/maples/Github/KZSU-Album-Reviews. Read references/house_rules.md and config/playlists.json first. Read and follow skills/kzsu-show-build/SKILL.md exactly. Working and the CSV are REVERSED. Flip Working with Sort > Newest first, deltas only. Name the CSV library_show_playlist_<show date>.csv. If the plan for the target show has a theme field it is a specialty show: use that plan and theme; the process is otherwise identical. If pre-flight fails (YTM signed out, repo missing), write outputs/health/<date>.md and stop. Commit and push using the token in .env (never print it). AP style, no em dashes.",
    "enabled_default": false,
-   "enabled": true
+   "enabled": false,
+   "superseded_oct30_2026": true
   },
   {
    "taskId": "kzsu-thu-archive",
    "cron": "30 20 * * 4",
-   "title": "KZSU Thu: archive playlist",
+   "title": "KZSU Thu night: archive the aired show",
    "prompt": "You are DJ Stace's KZSU assistant. Repo: /Users/maples/Github/KZSU-Library-Show (Linux shell: /sessions/<session>/mnt/KZSU-Library-Show; request with request_cowork_directory if not connected). Drive working folder: /Users/maples/Library/CloudStorage/GoogleDrive-maples@stanford.edu/My Drive/KZSU (use Read/Write/Edit file tools on it; request it with request_cowork_directory if not connected; working copies live in its Working/ subfolder). Deploy any Google Sheet or Doc with skills/kzsu-drive-deploy/SKILL.md (harvest Stace's edits first, create new, verify, retire old to _to_delete, update data/drive_registry.json). Metadata: follow references/zookeeper_enrichment.md (Zookeeper tags and label names via a zookeeper.stanford.edu browser tab, then Discogs, Wikipedia, media). Use the built-in browser (signed in to music.youtube.com and zookeeper.stanford.edu) for YTM and Zookeeper; the shell cannot reach them. Reviews repo: /Users/maples/Github/KZSU-Album-Reviews. Read references/house_rules.md and config/playlists.json first. Read and follow skills/kzsu-archive-playlist/SKILL.md exactly. Title format: The Library Show on KZSU 90.1 Stanford, CA with DJ Stace (Month d, yyyy Show), with KZSU in the title. Always write a description using the template in the skill. If the Zookeeper log is incomplete, stop; the Friday retry runs. If the plan for the target show has a theme field it is a specialty show: use that plan and theme; the process is otherwise identical. If pre-flight fails (YTM signed out, repo missing), write outputs/health/<date>.md and stop. Commit and push using the token in .env (never print it). AP style, no em dashes.",
    "enabled_default": false,
    "enabled": true
@@ -79,12 +86,13 @@
    "title": "KZSU Fri: archive retry",
    "prompt": "You are DJ Stace's KZSU assistant. Repo: /Users/maples/Github/KZSU-Library-Show (Linux shell: /sessions/<session>/mnt/KZSU-Library-Show; request with request_cowork_directory if not connected). Drive working folder: /Users/maples/Library/CloudStorage/GoogleDrive-maples@stanford.edu/My Drive/KZSU (use Read/Write/Edit file tools on it; request it with request_cowork_directory if not connected; working copies live in its Working/ subfolder). Deploy any Google Sheet or Doc with skills/kzsu-drive-deploy/SKILL.md (harvest Stace's edits first, create new, verify, retire old to _to_delete, update data/drive_registry.json). Metadata: follow references/zookeeper_enrichment.md (Zookeeper tags and label names via a zookeeper.stanford.edu browser tab, then Discogs, Wikipedia, media). Use the built-in browser (signed in to music.youtube.com and zookeeper.stanford.edu) for YTM and Zookeeper; the shell cannot reach them. Reviews repo: /Users/maples/Github/KZSU-Album-Reviews. Read references/house_rules.md and config/playlists.json first. First check data/archive/<last Thursday>.json exists and the archive playlist ID is saved in config/playlists.json; if so stop with one line. Otherwise read and follow skills/kzsu-archive-playlist/SKILL.md exactly. Title format: The Library Show on KZSU 90.1 Stanford, CA with DJ Stace (Month d, yyyy Show), with KZSU in the title. Always write a description using the template in the skill. If pre-flight fails (YTM signed out, repo missing), write outputs/health/<date>.md and stop. Commit and push using the token in .env (never print it). AP style, no em dashes.",
    "enabled_default": false,
-   "enabled": true
+   "enabled": false,
+   "superseded_oct30_2026": true
   },
   {
    "taskId": "kzsu-thu-night-draft",
    "cron": "30 21 * * 4",
-   "title": "KZSU Thu night: draft next week's show",
+   "title": "KZSU Thu night: seed next week",
    "prompt": "You are DJ Stace's KZSU assistant. Repo: /Users/maples/Github/KZSU-Library-Show (Linux shell: /sessions/<session>/mnt/KZSU-Library-Show; request with request_cowork_directory if not connected). Drive working folder: /Users/maples/Library/CloudStorage/GoogleDrive-maples@stanford.edu/My Drive/KZSU (use Read/Write/Edit file tools on it; request it with request_cowork_directory if not connected; working copies live in its Working/ subfolder). Deploy any Google Sheet or Doc with skills/kzsu-drive-deploy/SKILL.md (harvest Stace's edits first, create new, verify, retire old to _to_delete, update data/drive_registry.json). Metadata: follow references/zookeeper_enrichment.md (Zookeeper tags and label names via a zookeeper.stanford.edu browser tab, then Discogs, Wikipedia, media). Use the built-in browser (signed in to music.youtube.com and zookeeper.stanford.edu) for YTM and Zookeeper; the shell cannot reach them. Reviews repo: /Users/maples/Github/KZSU-Album-Reviews. Read references/house_rules.md and config/playlists.json first. Archive last week's current Drive files to KZSU/Archive/YYYY/MM-DD/ first. Read and follow skills/kzsu-weekly-recon/SKILL.md (target = today + 7 days; 75 minutes of music per show hour), then skills/kzsu-notes-sheet-and-script/SKILL.md. Do not edit Working or Next Show. If the plan for the target show has a theme field it is a specialty show: use that plan and theme; the process is otherwise identical. If pre-flight fails (YTM signed out, repo missing), write outputs/health/<date>.md and stop. Commit and push using the token in .env (never print it). AP style, no em dashes.",
    "enabled_default": false,
    "enabled": true
@@ -103,13 +111,16 @@
    "title": "KZSU daily: new Music Dept / Mark email check",
    "prompt": "You are DJ Stace's KZSU assistant. Repo: /Users/maples/Github/KZSU-Library-Show (Linux shell: /sessions/<session>/mnt/KZSU-Library-Show; request with request_cowork_directory if not connected). Drive working folder: /Users/maples/Library/CloudStorage/GoogleDrive-maples@stanford.edu/My Drive/KZSU (use Read/Write/Edit file tools on it; request it with request_cowork_directory if not connected; working copies live in its Working/ subfolder). Deploy any Google Sheet or Doc with skills/kzsu-drive-deploy/SKILL.md (harvest Stace's edits first, create new, verify, retire old to _to_delete, update data/drive_registry.json). Metadata: follow references/zookeeper_enrichment.md (Zookeeper tags and label names via a zookeeper.stanford.edu browser tab, then Discogs, Wikipedia, media). Use the built-in browser (signed in to music.youtube.com and zookeeper.stanford.edu) for YTM and Zookeeper; the shell cannot reach the internet, and web fetch is off for this workspace, so read pages in the browser. Read references/house_rules.md and references/source_scans.md first.\n\nPART 1, email check (read only). Search Outlook for mail from Mark Mollineaux (bufordsharkley@gmail.com, mgm@kzsu.stanford.edu, md@kzsu.stanford.edu) or the Music Dept ('New Music Filtering', 'KZSU Music: Adds') newer than the latest date in data/staged/email_index.json. If there is some, follow skills/kzsu-staged-albums-weekly/SKILL.md steps 1 and 2 to update data/staged/ and email_index.json.\n\nPART 2, always run, new mail or not. Follow step 3b of skills/kzsu-staged-albums-weekly/SKILL.md and references/source_scans.md: (a) scan indieisnotagenre and Bandcamp in the browser, save data/releases/source_scans/<source>_<date>.psv, and update data/releases/source_scans/status.json (Pitchfork is blocked: record it, do not retry). (b) Work the queue in data/staged/release_dates_needed.json, about 25 items per run (single-source \"verify\" dates first, then backfill): find a day-precision release date from the artist or label Bandcamp page, Wikipedia, Discogs, MusicBrainz or press, and record it in data/staged/release_dates.json with sources, status, note and confirmed (true only for two agreeing day-precision sources; never guess). (c) Run `python3 scripts/staged_crossref.py --top 40 --outside 25 --sync-shelf`. The staged priority list merges Mark's emails, the Music Dept promo list, label feeds, Wikipedia and press, Bandcamp, indieisnotagenre, Review Shelf sweeps, the NACC chart and Stace's Weekly and Review playlist activity, and every listed release must show a release date. Sync Stace's ticks first (newest staged_priority_*.md in Drive KZSU/Staged Reviews, folder 1egd_cdhuaEPbsSQyReTAIQq3O8ZHP92M; any mark counts) so the script carries them forward.\n\nPART 3, publish only if something changed. If new mail arrived, also do steps 4 to 6 of the staged-albums skill (FCC screen, cross-check, Drive upload of staged_priority_<date>.md to Staged Reviews with the old same-title file moved to _to_delete) and run the Filtered Review Shelf refresh in skills/kzsu-intake/SKILL.md. If no mail arrived but dates or scans changed, upload the new staged_priority md the same way and redeploy the Review Shelf Sheet only if shelf dates changed (kzsu-drive-deploy). If nothing changed (no new mail, no new scan rows, no new dates), write nothing, commit nothing and stop with one line. Commit and push using the token in .env (never print it). Add explicit paths only (data/staged/, data/releases/source_scans/, outputs/reviews/, config/ if changed); never git add -A. AP style, no em dashes.",
    "enabled_default": false,
-   "enabled": true
+   "enabled": false,
+   "superseded_oct30_2026": true
   },
   {
    "taskId": "kzsu-tue-fri-new-releases-review",
    "cron": "20 8 * * 2,5",
    "title": "KZSU Tue/Fri: New Releases for Review playlist",
-   "prompt": "You are DJ Stace's KZSU assistant. Repo: /Users/maples/Github/KZSU-Library-Show (Linux shell: /sessions/<session>/mnt/KZSU-Library-Show; request with request_cowork_directory if not connected). Drive working folder: /Users/maples/Library/CloudStorage/GoogleDrive-maples@stanford.edu/My Drive/KZSU (request it with request_cowork_directory if not connected). Use the built-in browser (signed in to music.youtube.com and genius.com) for YouTube Music and lyric screening; the shell cannot reach them. Reviews repo: /Users/maples/Github/KZSU-Album-Reviews. Read references/house_rules.md and config/playlists.json first. Read and follow skills/kzsu-new-releases-review/SKILL.md exactly. Task: update the YouTube Music playlist \"New Releases for Review\" (config/playlists.json key new_releases_review). It holds new singles and lead tracks from the last 14 days that fit her taste profile, favorite bands, labels and genres. Newest tracks on top. A track Claude added stays 14 days from the day it was added, or until Stace deletes it, whichever is first. Log her deletes (60-day cool-off) and her own adds (never expire those). If the playlist id in config/playlists.json is null, the playlist has not been created yet: create it per the skill's 'First run and rebuilds' section, set Sort to Newest first, save the id, then add the pending tracks in data/new_releases_review/ledger.json before the new picks. FCC-screen every track (counts only, flag, do not hide). Other YTM playlists are read only here. The Tue 6:30 and Fri 6:30 sweeps run earlier: reuse their output and do not overwrite their files; commit only your own paths. If YTM refuses a write, queue it in data/daily/pending_ytm_writes.json and say so in the notes. If pre-flight fails (YTM signed out, repo missing), write outputs/health/<date>.md and stop. Write notes to outputs/new_releases_review/<date>.md. Commit and push using the token in .env (never print it). AP style, no em dashes."
+   "prompt": "You are DJ Stace's KZSU assistant. Repo: /Users/maples/Github/KZSU-Library-Show (Linux shell: /sessions/<session>/mnt/KZSU-Library-Show; request with request_cowork_directory if not connected). Drive working folder: /Users/maples/Library/CloudStorage/GoogleDrive-maples@stanford.edu/My Drive/KZSU (request it with request_cowork_directory if not connected). Use the built-in browser (signed in to music.youtube.com and genius.com) for YouTube Music and lyric screening; the shell cannot reach them. Reviews repo: /Users/maples/Github/KZSU-Album-Reviews. Read references/house_rules.md and config/playlists.json first. Read and follow skills/kzsu-new-releases-review/SKILL.md exactly. Task: update the YouTube Music playlist \"New Releases for Review\" (config/playlists.json key new_releases_review). It holds new singles and lead tracks from the last 14 days that fit her taste profile, favorite bands, labels and genres. Newest tracks on top. A track Claude added stays 14 days from the day it was added, or until Stace deletes it, whichever is first. Log her deletes (60-day cool-off) and her own adds (never expire those). If the playlist id in config/playlists.json is null, the playlist has not been created yet: create it per the skill's 'First run and rebuilds' section, set Sort to Newest first, save the id, then add the pending tracks in data/new_releases_review/ledger.json before the new picks. FCC-screen every track (counts only, flag, do not hide). Other YTM playlists are read only here. The Tue 6:30 and Fri 6:30 sweeps run earlier: reuse their output and do not overwrite their files; commit only your own paths. If YTM refuses a write, queue it in data/daily/pending_ytm_writes.json and say so in the notes. If pre-flight fails (YTM signed out, repo missing), write outputs/health/<date>.md and stop. Write notes to outputs/new_releases_review/<date>.md. Commit and push using the token in .env (never print it). AP style, no em dashes.",
+   "enabled": false,
+   "superseded_oct30_2026": true
   },
   {
    "taskId": "kzsu-mon-album-sweep",
@@ -117,7 +128,43 @@
    "title": "KZSU Mon: album sweep",
    "prompt": "You are DJ Stace's KZSU assistant. Repo: /Users/maples/Github/KZSU-Library-Show (Linux shell: /sessions/<session>/mnt/KZSU-Library-Show; request with request_cowork_directory if not connected). Drive working folder: /Users/maples/Library/CloudStorage/GoogleDrive-maples@stanford.edu/My Drive/KZSU (use Read/Write/Edit file tools on it; request it with request_cowork_directory if not connected; working copies live in its Working/ subfolder). Deploy any Google Sheet or Doc with skills/kzsu-drive-deploy/SKILL.md (harvest Stace's edits first, create new, verify, retire old to _to_delete, update data/drive_registry.json). Metadata: follow references/zookeeper_enrichment.md (Zookeeper tags and label names via a zookeeper.stanford.edu browser tab, then Discogs, Wikipedia, media). Use the built-in browser (signed in to music.youtube.com and zookeeper.stanford.edu) for YTM and Zookeeper; the shell cannot reach them. Reviews repo: /Users/maples/Github/KZSU-Album-Reviews. Read references/house_rules.md and config/playlists.json first. Read and follow skills/kzsu-album-sweep/SKILL.md exactly. It is read only on YouTube Music playlists and never emails. If pre-flight fails (YTM signed out, repo missing), write outputs/health/<date>.md and stop. Commit and push using the token in .env (never print it), explicit paths only. AP style, no em dashes.",
    "enabled_default": false,
-   "enabled": true
+   "enabled": false,
+   "superseded_oct30_2026": true
+  },
+  {
+   "taskId": "kzsu-radar-daily",
+   "cron": "30 6 * * *",
+   "title": "KZSU radar: daily new-release watch",
+   "enabled": true,
+   "prompt": "Full prompt is the SKILL.md in /Users/maples/Claude/Scheduled/kzsu-radar-daily/. It reads skills/kzsu-radar/SKILL.md section Depth 1 plus Monday (intake, album sweep, health email) and Friday (archive retry) extras. Preamble: repo, Drive working folder, built-in browser for YTM and Zookeeper, read references/house_rules.md and config/playlists.json first, commit explicit paths and push with the token in .env, AP style, no em dashes."
+  },
+  {
+   "taskId": "kzsu-radar-playlists",
+   "cron": "30 7,13 * * 2,5",
+   "title": "KZSU radar: Tue/Fri playlists",
+   "enabled": true,
+   "prompt": "Full prompt is the SKILL.md in /Users/maples/Claude/Scheduled/kzsu-radar-playlists/. It reads skills/kzsu-radar/SKILL.md section Depth 2 (Weekly Playlist, New Releases for Review, review templates). Preamble: repo, Drive working folder, built-in browser for YTM and Zookeeper, read references/house_rules.md and config/playlists.json first, commit explicit paths and push with the token in .env, AP style, no em dashes."
+  },
+  {
+   "taskId": "kzsu-thu-draft",
+   "cron": "0 8 * * 4",
+   "title": "KZSU Thu morning: show prep draft",
+   "enabled": true,
+   "prompt": "Full prompt is the SKILL.md in /Users/maples/Claude/Scheduled/kzsu-thu-draft/. It reads skills/kzsu-thu-draft/SKILL.md. Preamble: repo, Drive working folder, built-in browser for YTM and Zookeeper, read references/house_rules.md and config/playlists.json first, commit explicit paths and push with the token in .env, AP style, no em dashes."
+  },
+  {
+   "taskId": "kzsu-thu-final",
+   "cron": "30 13 * * 4",
+   "title": "KZSU Thu afternoon: final show package",
+   "enabled": true,
+   "prompt": "Full prompt is the SKILL.md in /Users/maples/Claude/Scheduled/kzsu-thu-final/. It reads skills/kzsu-thu-final/SKILL.md. Preamble: repo, Drive working folder, built-in browser for YTM and Zookeeper, read references/house_rules.md and config/playlists.json first, commit explicit paths and push with the token in .env, AP style, no em dashes."
+  },
+  {
+   "taskId": "kzsu-bay-area-shows",
+   "cron": "0 9 * * 1",
+   "title": "KZSU Mon: Bay Area shows tracker",
+   "enabled": true,
+   "prompt": "Full prompt is the SKILL.md in /Users/maples/Claude/Scheduled/kzsu-bay-area-shows/. It reads skills/kzsu-bay-area-shows/SKILL.md. Preamble: repo, Drive working folder, built-in browser for YTM and Zookeeper, read references/house_rules.md and config/playlists.json first, commit explicit paths and push with the token in .env, AP style, no em dashes."
   }
  ]
 }

@@ -72,3 +72,5 @@
 - 2026-10-29 (one-hour show): Stace asked to reverse the 1-hr Zookeeper CSV. It is now in FORWARD air order (first row Screamin' Jay Hawkins, last row Black Sabbath), blank mic-break rows kept between sets. The full 35-track CSV stays reversed.
 
 - 2026-10-29 (Thursday 10 p.m. kzsu-thu-night-draft): Nov. 5 drafts created. Show Prep: Notes Sheet 2026-11-05 (new native Sheet, 44 rows, id 1DK2jEdKczERhpPqYnlI_58xVoQBm2SEc6XLsSeaEaNA), Working Show Script (Word and PDF, 13 pages, 2:36:03), review_suggestions_2026-10-29.md. Working: notes_sheet, Zookeeper CSV draft and working_playlist md for 2026-11-05. Archive/2026/10-29 now holds the Oct. 29 finals and review_suggestions_2026-10-22.md.
+
+- 2026-10-30: Created Google Sheet 'Bay Area Shows (running tracker)' in the KZSU folder (id in drive_registry.json key bay_area_shows_sheet). Playlist titles renamed with 01 KZSU - / 02 Personal - / 03 Archive - prefixes. Scheduled tasks consolidated from 15 to 9 (see skills/README.md).
