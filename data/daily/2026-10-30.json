@@ -194,5 +194,37 @@
    "bucket": "Anniversary",
    "fcc": "CLEAN"
   }
- ]
+ ],
+ "catch_up_1330": {
+  "weekly_removed_by_stace": 87,
+  "weekly_after": 163,
+  "adds": [
+   [
+    "Wavves",
+    "We Get Around",
+    "TvDQUohO7_c"
+   ],
+   [
+    "Trinket",
+    "If Not Soon Then Now",
+    "iyOr8YBUxrA"
+   ],
+   [
+    "Factory Floor",
+    "Continuation",
+    "V3LEMJalvpk"
+   ],
+   [
+    "nowhere else to be",
+    "r1 (ripples)",
+    "xSUVUCmqUOU"
+   ]
+  ],
+  "new_releases_review_adds": [
+   "TvDQUohO7_c",
+   "iyOr8YBUxrA",
+   "V3LEMJalvpk"
+  ],
+  "new_releases_review_after": 31
+ }
 }

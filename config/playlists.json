@@ -21,14 +21,14 @@
       "id": "PLCLF-Tik2UHk",
       "order": "forward",
       "mode": "ADD only; never clear; Stace deletes stale tracks; log her deletes (60-day cool-off)",
-      "last_sweep": "2026-10-30 Friday sweep for Nov. 5: 246 tracks (219 + 27 adds), verified by reload; 0 to FCC Edit Needed; notes outputs/weekly/2026-11-05_friday-sweep.md | 2026-10-27 Tuesday sweep for Oct. 29: 219 tracks (207 + 12 adds); 0 to FCC Edit Needed; notes outputs/weekly/2026-10-29_tuesday-sweep.md | 2026-10-29 night: no writes; snapshot refreshed"
+      "last_sweep": "2026-10-30 1:30 p.m. catch-up: Stace removed 87 tracks after the morning sweep (246 to 159, logged as 60-day cool-offs); 4 adds (Wavves, Trinket, Factory Floor, nowhere else to be); 163 tracks, verified by reload; notes outputs/daily/2026-10-30.md | 2026-10-30 Friday sweep for Nov. 5: 246 tracks (219 + 27 adds), verified by reload; 0 to FCC Edit Needed; notes outputs/weekly/2026-11-05_friday-sweep.md | 2026-10-27 Tuesday sweep for Oct. 29: 219 tracks (207 + 12 adds); 0 to FCC Edit Needed; notes outputs/weekly/2026-10-29_tuesday-sweep.md | 2026-10-29 night: no writes; snapshot refreshed"
     },
     "new_releases_review": {
       "title": "01 KZSU - New Releases for Review",
       "id": "PLIl7VQi0nzk0",
       "order": "newest first (set Sort > Newest first so saves land on top)",
       "mode": "Tue and Fri 8:20 a.m. via skills/kzsu-new-releases-review; ADD new singles and lead tracks on top; remove only tracks Claude added once 14 days old; never remove tracks Stace added; log her deletes. Ledger: data/new_releases_review/ledger.json",
-      "last_refresh": "2026-10-30 (28 tracks: 0 deleted by Stace, 0 added by Stace, 4 expired and removed, 8 added; Sort Newest first; verified by reload) | 2026-10-27 (24 tracks: 2 deleted by Stace, 1 added by Stace, 8 expired and removed, 6 added; Sort Newest first; verified by reload)"
+      "last_refresh": "2026-10-30 1:30 p.m. catch-up (31 tracks: 0 deleted by Stace, 0 added by Stace, 0 expired, 3 added: Wavves, Trinket, Factory Floor; verified by reload) | 2026-10-30 (28 tracks: 0 deleted by Stace, 0 added by Stace, 4 expired and removed, 8 added; Sort Newest first; verified by reload) | 2026-10-27 (24 tracks: 2 deleted by Stace, 1 added by Stace, 8 expired and removed, 6 added; Sort Newest first; verified by reload)"
     },
     "fcc_edit_needed": {
       "title": "01 KZSU - FCC Edit Needed",
