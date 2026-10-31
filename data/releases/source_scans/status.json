@@ -1,20 +1,20 @@
 {
  "_note": "Weekly scan status per outside source. The weekly run updates this file. Scans land in data/releases/source_scans/<source>_<date>.psv (date|ARTIST|Title|Label) and feed scripts/staged_crossref.py.",
  "indieisnotagenre": {
-  "last_scan": "2026-10-30",
+  "last_scan": "2026-10-31",
   "method": "browser pane, snippet in references/source_scans.md",
   "status": "ok",
   "rows_saved": 297,
-  "note": "Oct. 30 (daily check): rescanned, 289 rows from Sept. 1, identical to indieisnotagenre_2026-10-28.psv plus indieisnotagenre_2026-10-30.psv; no new rows, no psv saved. | Oct. 30 rescan (Friday sweep): 422 rows on page. Oct. 30 release rows are new; saved only the new rows to indieisnotagenre_2026-10-30.psv. Keep indieisnotagenre_2026-10-28.psv too (full window). | Oct. 29 rescan: 288 rows, same as Oct. 28 except one label edit (Johnny Marr, The Age of Everything: now \"New Voodoo\"). No new rows, so no new psv saved; indieisnotagenre_2026-10-28.psv stays the newest file."
+  "note": "Oct. 31 (daily check): rescanned, 289 rows from Sept. 1, no new rows, no psv saved. | Oct. 30 (daily check): rescanned, 289 rows from Sept. 1, identical to indieisnotagenre_2026-10-28.psv plus indieisnotagenre_2026-10-30.psv; no new rows, no psv saved. | Oct. 30 rescan (Friday sweep): 422 rows on page. Oct. 30 release rows are new; saved only the new rows to indieisnotagenre_2026-10-30.psv. Keep indieisnotagenre_2026-10-28.psv too (full window). | Oct. 29 rescan: 288 rows, same as Oct. 28 except one label edit (Johnny Marr, The Age of Everything: now \"New Voodoo\"). No new rows, so no new psv saved; indieisnotagenre_2026-10-28.psv stays the newest file."
  },
  "bandcamp": {
-  "last_scan": "2026-10-30",
+  "last_scan": "2026-10-31",
   "method": "browser pane, bandcamp.com/discover/rock+punk?s=new, first 60 items",
   "status": "ok, no taste-profile matches",
-  "note": "Oct. 30: rescanned rock+punk and rock+punk+alternative new feeds (24 items each), no matches in taste profile or watchlist artists; no psv saved. Earlier: Oct. 29: rescanned rock+punk new feed (24 items), no matches in taste profile or watchlist artists; no psv saved. Earlier: Oct. 28: rescanned rock+punk and rock+punk+alternative new feeds (24 items each), no matches in taste profile or watchlist artists; no psv saved. Earlier: Oct. 27: rescanned rock+punk and rock+punk+alternative new feeds (60 items each), no matches in taste profile or watchlist artists; no psv saved. Item selector: [class*=results-grid] li. Label and artist Bandcamp pages are used for dates. Earlier: Oct. 25: rescanned both feeds (60 items each), no ma"
+  "note": "Oct. 31: rescanned rock+punk new feed (24 items), no matches in taste profile or watchlist artists; no psv saved. Earlier: Oct. 30: rescanned rock+punk and rock+punk+alternative new feeds (24 items each), no matches in taste profile or watchlist artists; no psv saved. Earlier: Oct. 29: rescanned rock+punk new feed (24 items), no matches in taste profile or watchlist artists; no psv saved. Earlier: Oct. 28: rescanned rock+punk and rock+punk+alternative new feeds (24 items each), no matches in taste profile or watchlist artists; no psv saved. Earlier: Oct. 27: rescanned rock+punk and rock+punk+alternative new feeds (60 items each), no matches in taste profile or watchlist artists; no psv saved. Item selector: [class*=results-grid] li. Label and artist Bandcamp pages are used for dates. Earlier: Oct. 25: rescanned both feeds (60 items each), no ma"
  },
  "pitchfork": {
-  "last_scan": "2026-10-30",
+  "last_scan": "2026-10-31",
   "method": "browser pane, web fetch, WebSearch",
   "status": "blocked",
   "note": "Blocked. Not retried on Oct. 30."

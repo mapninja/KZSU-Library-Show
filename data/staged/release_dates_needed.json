@@ -1,5 +1,14 @@
 [
  {
+  "artist": "The Flaming Lips",
+  "title": "The Teardrop Throbs",
+  "type": "album",
+  "label": "Third Man",
+  "current_date": "2027-01-22",
+  "date_check": "verify",
+  "key": "flaming lips|teardrop throbs"
+ },
+ {
   "artist": "Little Barrie",
   "title": "Luggin' Hurt",
   "type": "single",
@@ -34,15 +43,6 @@
   "current_date": "2026-09",
   "date_check": "verify",
   "key": "imperial teen|all hands up"
- },
- {
-  "artist": "Dead Man's Bones",
-  "title": "Lost In The Night (single)",
-  "type": "single",
-  "label": "Anti-",
-  "current_date": "2026-10-27",
-  "date_check": "verify",
-  "key": "dead man s bones|lost in the night single"
  },
  {
   "artist": "Autumn Luz",
@@ -189,24 +189,6 @@
   "key": "wormy|shark river"
  },
  {
-  "artist": "Shabaka",
-  "title": "A Future Untold b/w Marwah The Mountain",
-  "type": "single",
-  "label": "Shabaka Records",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "shabaka|a future untold b w marwah the mountain"
- },
- {
-  "artist": "Glom",
-  "title": "Below",
-  "type": "album",
-  "label": "Nettwerk",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "glom|below"
- },
- {
   "artist": "Charlie Needs Braces",
   "title": "NYAA WA",
   "type": "album",
@@ -214,24 +196,6 @@
   "current_date": "",
   "date_check": "needed",
   "key": "charlie needs braces|nyaa wa"
- },
- {
-  "artist": "Robyn",
-  "title": "Talk To Me b/w Sexistential",
-  "type": "single",
-  "label": "Young",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "robyn|talk to me b w sexistential"
- },
- {
-  "artist": "DJ Seinfeld",
-  "title": "Plush",
-  "type": "single",
-  "label": "Ninja Tune",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "dj seinfeld|plush"
  },
  {
   "artist": "Samm Henshaw",
@@ -261,12 +225,48 @@
   "key": "river tiber|spirals"
  },
  {
-  "artist": "GUV",
-  "title": "Warmer Than Gold",
+  "artist": "Silver Liz",
+  "title": "III",
   "type": "album",
-  "label": "Run For Cover",
+  "label": "Extremely Pure",
   "current_date": "",
   "date_check": "needed",
-  "key": "guv|warmer than gold"
+  "key": "silver liz|iii"
+ },
+ {
+  "artist": "Sam Quealy",
+  "title": "Jawbreaker",
+  "type": "album",
+  "label": "Unity Records",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "sam quealy|jawbreaker"
+ },
+ {
+  "artist": "SAMSARA.",
+  "title": "whatever helps you sleep at night",
+  "type": "album",
+  "label": "Self-Released",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "samsara|whatever helps you sleep at night"
+ },
+ {
+  "artist": "Indira Paganotto",
+  "title": "Arte Como Amante",
+  "type": "album",
+  "label": "[PIAS] Electonique",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "indira paganotto|arte como amante"
+ },
+ {
+  "artist": "Sébastien Tellier",
+  "title": "Kiss The Beast",
+  "type": "album",
+  "label": "Because Music",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "sebastien tellier|kiss the beast"
  }
 ]

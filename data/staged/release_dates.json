@@ -4225,18 +4225,15 @@
   "date": "2026-10-27",
   "precision": "day",
   "sources": [
-   "https://audiomack.com/dead-mans-bones/song/lost-in-the-night",
-   "https://deadmansbones.bandcamp.com/album/lost-in-the-night",
-   "https://en.wikipedia.org/wiki/Dead_Man%27s_Bones",
    "https://www.anti.com/releases/lost-in-the-night/",
-   "https://www.billboard.com/music/music-news/ryan-gosling-dead-mans-bones-lost-in-the-night-video-watch-1236368605/",
-   "https://www.showbiz411.com/2026/10/27/hes-not-just-ken-ryan-gosling-releases-a-single-called-lost-in-the-night-under-name-dead-mans-bones-first-new-music-since-2009"
+   "https://deadmansbones.bandcamp.com/album/lost-in-the-night",
+   "https://en.wikipedia.org/wiki/Dead_Man%27s_Bones"
   ],
-  "status": "released, one outlier",
-  "note": "Anti-, Wikipedia and YouTube upload say Oct. 27, 2026. Billboard says Monday Oct. 26. First new song since 2009. Oct. 29: Bandcamp, Audiomack and a Showbiz411 post dated Oct. 27 also say Oct. 27. Billboard (Oct. 26) is the lone outlier, so confirmed stays false.",
+  "status": "released",
+  "note": "Anti- release page, Bandcamp and Wikipedia agree via search snippets: Oct. 27, 2026. First new song since the 2009 debut. No album announced.",
   "label": "Anti-",
-  "confirmed": false,
-  "checked_on": "2026-10-29"
+  "confirmed": true,
+  "checked_on": "2026-10-31"
  },
  "joshua idehen|i know youre hurting everyone is hurting everyone is trying you have got to try": {
   "date": "2026-03-06",
@@ -4971,5 +4968,74 @@
   "label": "",
   "confirmed": true,
   "checked_on": "2026-10-30"
+ },
+ "robyn|talk to me b w sexistential": {
+  "date": "2026-01-07",
+  "precision": "day",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Talk_to_Me_(Robyn_song)",
+   "https://music.apple.com/us/album/sexistential-talk-to-me-single/1858618339",
+   "https://rateyourmusic.com/release/single/robyn/sexistential-talk-to-me/"
+  ],
+  "status": "released",
+  "note": "Double A-side single released Jan. 7, 2026 (Konichiwa / Young). Album Sexistential: Mar. 27, 2026.",
+  "label": "Young",
+  "confirmed": true,
+  "checked_on": "2026-10-31"
+ },
+ "guv|warmer than gold": {
+  "date": "2026-01-30",
+  "precision": "day",
+  "sources": [
+   "https://guvofficial.bandcamp.com/album/warmer-than-gold",
+   "https://music.apple.com/ca/album/warmer-than-gold/1843178090",
+   "https://www.clickrollboom.co.uk/news/guv-announces-new-album-warmer-than-gold-hear-lead-single-let-your-hands-go-warmer-than-gold-out-30th-jan-via-run-for-cover-records"
+  ],
+  "status": "released",
+  "note": "Bandcamp, Apple Music and Click Roll Boom agree: Jan. 30, 2026 (Run For Cover). 12 tracks.",
+  "label": "Run For Cover",
+  "confirmed": true,
+  "checked_on": "2026-10-31"
+ },
+ "glom|below": {
+  "date": "2026-01-09",
+  "precision": "day",
+  "sources": [
+   "https://nettwerk.com/news/glom-announces-new-album-below-out-january-9-2026",
+   "https://music.apple.com/us/album/below/1826825319",
+   "https://newyorkglom.bandcamp.com/album/below-2"
+  ],
+  "status": "released",
+  "note": "Nettwerk, Apple Music and Bandcamp agree: Jan. 9, 2026.",
+  "label": "Nettwerk",
+  "confirmed": true,
+  "checked_on": "2026-10-31"
+ },
+ "dj seinfeld|plush": {
+  "date": "2026-01-06",
+  "precision": "day",
+  "sources": [
+   "https://djseinfeld.bandcamp.com/album/plush",
+   "https://ninjatune.com/release/dj-seinfeld/plush",
+   "https://www.beatport.com/track/plush/23131808"
+  ],
+  "status": "released",
+  "note": "Bandcamp, Ninja Tune and Beatport agree: Jan. 6, 2026. A Stereogum page stamp of Aug. 25, 2026 looks like a display date.",
+  "label": "Ninja Tune",
+  "confirmed": true,
+  "checked_on": "2026-10-31"
+ },
+ "shabaka|a future untold b w marwah the mountain": {
+  "date": "2026-01-14",
+  "precision": "day",
+  "sources": [
+   "https://www.treblezine.com/shabaka-announces-new-album-of-the-earth/",
+   "https://stereogum.com/2485253/shabaka-announces-new-album-of-the-earth-hear-a-future-untold-marwa-the-mountain/music"
+  ],
+  "status": "released",
+  "note": "Double single shared Jan. 14, 2026 with the album announcement (date from article dates, no explicit release line). Album Of The Earth: Mar. 6, 2026.",
+  "label": "Shabaka Records",
+  "confirmed": false,
+  "checked_on": "2026-10-31"
  }
 }
