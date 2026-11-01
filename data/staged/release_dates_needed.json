@@ -1,14 +1,5 @@
 [
  {
-  "artist": "The Flaming Lips",
-  "title": "The Teardrop Throbs",
-  "type": "album",
-  "label": "Third Man",
-  "current_date": "2027-01-22",
-  "date_check": "verify",
-  "key": "flaming lips|teardrop throbs"
- },
- {
   "artist": "Little Barrie",
   "title": "Luggin' Hurt",
   "type": "single",
@@ -135,15 +126,6 @@
   "key": "district five|push feat saul williams"
  },
  {
-  "artist": "Hiding Places",
-  "title": "The Secret to Good Living",
-  "type": "album",
-  "label": "Keeled Scales",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "hiding places|secret to good living"
- },
- {
   "artist": "District Five",
   "title": "Somewhere In Between",
   "type": "single",
@@ -180,15 +162,6 @@
   "key": "villagerrr|carousel"
  },
  {
-  "artist": "Wormy",
-  "title": "Shark River",
-  "type": "album",
-  "label": "Rose Garden",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "wormy|shark river"
- },
- {
   "artist": "Charlie Needs Braces",
   "title": "NYAA WA",
   "type": "album",
@@ -196,51 +169,6 @@
   "current_date": "",
   "date_check": "needed",
   "key": "charlie needs braces|nyaa wa"
- },
- {
-  "artist": "Samm Henshaw",
-  "title": "Hair Down",
-  "type": "single",
-  "label": "Dorm Seven / AWAL",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "samm henshaw|hair down"
- },
- {
-  "artist": "49th & Main",
-  "title": "LIVE 4 THE WEEKEND",
-  "type": "single",
-  "label": "Counter Records",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "49th main|live 4 the weekend"
- },
- {
-  "artist": "River Tiber",
-  "title": "Spirals",
-  "type": "album",
-  "label": "Self-Released",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "river tiber|spirals"
- },
- {
-  "artist": "Silver Liz",
-  "title": "III",
-  "type": "album",
-  "label": "Extremely Pure",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "silver liz|iii"
- },
- {
-  "artist": "Sam Quealy",
-  "title": "Jawbreaker",
-  "type": "album",
-  "label": "Unity Records",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "sam quealy|jawbreaker"
  },
  {
   "artist": "SAMSARA.",
@@ -252,21 +180,84 @@
   "key": "samsara|whatever helps you sleep at night"
  },
  {
-  "artist": "Indira Paganotto",
-  "title": "Arte Como Amante",
+  "artist": "By Storm",
+  "title": "My Ghosts Go Ghost",
   "type": "album",
-  "label": "[PIAS] Electonique",
+  "label": "deadAir",
   "current_date": "",
   "date_check": "needed",
-  "key": "indira paganotto|arte como amante"
+  "key": "by storm|my ghosts go ghost"
  },
  {
-  "artist": "Sébastien Tellier",
-  "title": "Kiss The Beast",
+  "artist": "Lord Jah-Monte Ogbon",
+  "title": "As Of Now",
   "type": "album",
+  "label": "Lex Records",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "lord jah monte ogbon|as of now"
+ },
+ {
+  "artist": "Thundercat",
+  "title": "I Did This To Myself (feat. Lil Yachty)",
+  "type": "single",
+  "label": "Brainfeeder",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "thundercat|i did this to myself feat lil yachty"
+ },
+ {
+  "artist": "James Blake",
+  "title": "Death of Love",
+  "type": "single",
+  "label": "Good Boy",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "james blake|death of love"
+ },
+ {
+  "artist": "Tom Misch",
+  "title": "Sisters With Me",
+  "type": "single",
+  "label": "Beyond the Groove / AWAL",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "tom misch|sisters with me"
+ },
+ {
+  "artist": "Christine and the Queens",
+  "title": "Ah Ya (feat. Thee Diane)",
+  "type": "single",
   "label": "Because Music",
   "current_date": "",
   "date_check": "needed",
-  "key": "sebastien tellier|kiss the beast"
+  "key": "christine and the queens|ah ya feat thee diane"
+ },
+ {
+  "artist": "LB aka LABAT",
+  "title": "Feel So Good Around U (feat. Skin on Skin)",
+  "type": "single",
+  "label": "Because Music",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "lb aka labat|feel so good around u feat skin on skin"
+ },
+ {
+  "artist": "Ski Team",
+  "title": "Burnout/Boys",
+  "type": "album",
+  "label": "Self-Released",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "ski team|burnout boys"
+ },
+ {
+  "artist": "Local Weatherman",
+  "title": "Right One",
+  "type": "album",
+  "label": "Karol",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "local weatherman|right one"
  }
 ]

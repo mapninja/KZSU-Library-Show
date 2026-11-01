@@ -4109,8 +4109,8 @@
   "status": "date not found",
   "label": "Samlist/AWAL",
   "confirmed": false,
-  "note": "Oct. 27: search returned no results. Retry next run. Oct. 28: searched again, nothing found. Oct. 29 recheck: two searches returned nothing.",
-  "checked_on": "2026-10-29"
+  "note": "Nov. 1: search returned no results again. Retry later.",
+  "checked_on": "2026-11-01"
  },
  "vienna vienna|grief is for the living": {
   "date": "2026-05-22",
@@ -5037,5 +5037,157 @@
   "label": "Shabaka Records",
   "confirmed": false,
   "checked_on": "2026-10-31"
+ },
+ "flaming lips|teardrop throbs": {
+  "date": "2027-01-22",
+  "precision": "day",
+  "sources": [
+   "https://thirdmanrecords.com/blogs/news/new-album-from-the-flaming-lips",
+   "https://www.billboard.com/music/rock/flaming-lips-third-man-records-teardrop-throbs-single-listen-1236368639/",
+   "https://consequence.net/2026/10/the-flaming-lips-the-teardrop-throbs-new-album-2027-tour-new-song/"
+  ],
+  "status": "announced",
+  "note": "Announced Oct. 26, 2026. Third Man debut. Lead single \"God Will Control The Werewolves\" is out now.",
+  "label": "Third Man",
+  "confirmed": true,
+  "checked_on": "2026-11-01"
+ },
+ "silver liz|iii": {
+  "date": "2026-01-30",
+  "precision": "day",
+  "sources": [
+   "https://silverliz.bandcamp.com/album/iii",
+   "https://www.shazam.com/song/1872157065/she-was-popular",
+   "https://thedailymusicreport.com/reviews/silver-liz-iii-02012026/"
+  ],
+  "status": "released",
+  "note": "Earlier announcements said Jan. 1, 2026; later posts and Bandcamp say Jan. 30.",
+  "label": "Extremely Pure",
+  "confirmed": true,
+  "checked_on": "2026-11-01"
+ },
+ "wormy|shark river": {
+  "date": "2026-01-16",
+  "precision": "day",
+  "sources": [
+   "https://wormy.bandcamp.com/album/shark-river",
+   "https://rateyourmusic.com/release/album/wormy/shark-river/"
+  ],
+  "status": "released",
+  "note": "Digital release Jan. 16, 2026. Vinyl listings show May 7 to 8, 2026.",
+  "label": "Rose Garden",
+  "confirmed": true,
+  "checked_on": "2026-11-01"
+ },
+ "river tiber|spirals": {
+  "date": "2025-12-19",
+  "precision": "day",
+  "sources": [
+   "https://music.apple.com/us/album/spirals-single/1860838459",
+   "https://www.allmusic.com/artist/river-tiber-mn0003456799"
+  ],
+  "status": "released",
+  "note": "Three songs, about 8 minutes; Apple Music lists it as a single, AllMusic treats it as a short EP. Dec. 19, 2025.",
+  "label": "",
+  "confirmed": true,
+  "checked_on": "2026-11-01"
+ },
+ "samm henshaw|hair down": {
+  "date": "2026-01-09",
+  "precision": "day",
+  "sources": [
+   "https://music.apple.com/cg/album/hair-down-single/1859700198",
+   "https://audiomack.com/sammhenshaw/song/hair-down-7198262",
+   "https://artistrack.com/samm-henshaw-hair-down-single-release/"
+  ],
+  "status": "released",
+  "note": "Apple Music and Audiomack say Jan. 9; ArtistRack says Jan. 8. Album It Could Be Worse digital Jan. 19, 2026.",
+  "label": "Dorm Seven / AWAL",
+  "confirmed": false,
+  "checked_on": "2026-11-01"
+ },
+ "sam quealy|jawbreaker": {
+  "date": "2026-01-30",
+  "precision": "day",
+  "sources": [
+   "https://www.withguitars.com/sam-quealy-announces-new-album-jawbreaker-drops-hypnotic-single-video-love-lasso/",
+   "https://www.thelunacollective.co/journal/spotlight-sam-quealy-jawbreaker",
+   "https://open.spotify.com/prerelease/5WmBvhxlvdHDnLBVdHvXsj"
+  ],
+  "status": "released",
+  "note": "Press says Jan. 30, 2026; Spotify pre-release page says Jan. 29. Label unclear (Unity, Nightshade or Music & Craft). Verify.",
+  "label": "Unity Records",
+  "confirmed": false,
+  "checked_on": "2026-11-01"
+ },
+ "indira paganotto|arte como amante": {
+  "date": "2026-01-30",
+  "precision": "day",
+  "sources": [
+   "https://music.apple.com/us/album/arte-como-amante/1844870452",
+   "https://www.shazam.com/album/1844870452/arte-como-amante",
+   "https://upcomingvinyl.com/record/indira-paganotto-arte-como-amante"
+  ],
+  "status": "released",
+  "note": "Digital Jan. 30, 2026 per Apple Music and Shazam (same feed). Vinyl listed June 19, 2026. Needs an independent source.",
+  "label": "[PIAS] Electonique",
+  "confirmed": false,
+  "checked_on": "2026-11-01"
+ },
+ "sebastien tellier|kiss the beast": {
+  "date": "2026-01-30",
+  "precision": "day",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kiss_the_Beast",
+   "https://faroutmagazine.co.uk/sebastien-tellier-kiss-the-beast-album-review/",
+   "https://www.mixeduprecords.com/products/sebastien-tellier-kiss-the-beast"
+  ],
+  "status": "released",
+  "note": "Eighth studio album. Lead single \"Refresh\" Sept. 3, 2025.",
+  "label": "Because Music",
+  "confirmed": true,
+  "checked_on": "2026-11-01"
+ },
+ "hiding places|secret to good living": {
+  "date": "2026-04-03",
+  "precision": "day",
+  "sources": [
+   "https://readdork.com/album/hiding-places-the-secret-to-good-living",
+   "https://keeledscales.com/blogs/news/hiding-places-release-debut-lp-the-secret-to-good-living",
+   "https://hidingplacesnc.bandcamp.com/album/the-secret-to-good-living-2"
+  ],
+  "status": "released",
+  "note": "Debut LP. Vinyl edition May 15, 2026. Lead single \"Dead Dove\".",
+  "label": "Keeled Scales",
+  "confirmed": true,
+  "checked_on": "2026-11-01"
+ },
+ "49th main|live 4 the weekend": {
+  "date": "2026-01-06",
+  "precision": "day",
+  "sources": [
+   "https://www.beatport.com/track/live-4-the-weekend/23306556",
+   "https://music.apple.com/de/album/live-4-the-weekend-single/1856551337",
+   "https://northerntransmissions.com/live-4-the-weekend-by-49th-main/"
+  ],
+  "status": "released",
+  "note": "Single on Counter Records (Ninja Tune imprint). Northern Transmissions coverage dated Jan. 7.",
+  "label": "Counter Records",
+  "confirmed": true,
+  "checked_on": "2026-11-01"
+ },
+ "spaceport|cut the cake": {
+  "note": "Nov. 1: search found only the 1975 Average White Band album. No Spaceport or Aura Vortex page found.",
+  "checked_on": "2026-11-01",
+  "date": "",
+  "status": "date not found",
+  "confirmed": false
+ },
+ "autumn luz|moments": {
+  "note": "Nov. 1: not rechecked; promo lists ADDS 11/3. Still no day-precision release date.",
+  "checked_on": "2026-11-01",
+  "date": "",
+  "status": "date not found",
+  "confirmed": false
  }
 }
