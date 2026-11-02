@@ -1,44 +1,39 @@
-# Artist counts per YouTube Music playlist, 2026-10-25.
+# Artist counts per YouTube Music playlist, 2026-11-01.
 # Format: artist:<code><count> ...  Codes are defined in data/ytm/playlists.json.
-Guided By Voices:g1 h82 i1 n81 o12 p10 q1
-Father John Misty:f6 g4 h29 j1 n12 p8 q2
-BODEGA:d1 h18 l2 n3 o12 p8 q3
-Queens of the Stone Age:c9 d1 h14 j1 k3 n8 p8
+Father John Misty:f6 g4 h29 j1 n12 p8 q1
+Queens of the Stone Age:c9 d1 h14 k3 n8 o9 p8
+BODEGA:d1 h18 l2 n3 o12 p8 q2
 Ty Segall:d1 f2 h12 j2 n10 p9 q1
 Caroline Rose:d2 h4 n4 o11 p1 q1 r2
+Guided By Voices:g1 h82 i1 n81 o12 p10
 Sturgill Simpson:g1 h33 j3 m2 n5 p5
 Car Seat Headrest:f2 h35 j2 n5 p2 q1
 Soundgarden:g1 h13 j2 n13 p14 q1
-Fontaines D.C.:h4 k1 n2 o11 p1 q2
-Elliott Smith:a1 g1 h5 j1 n5 p3
-Lera Lynn & Shovels & Rope:e1 h2 j1 n2 p1 q1
+Fontaines D.C.:h4 k1 n2 o11 p1 q1
+Coil:e32 h35 n35 o16 p3
 Beastie Boys:b13 h39 k1 n16 p3
 Wilco:g1 h41 j2 n10 p3
 Queens Of The Stone Age:c13 h17 j1 n9 p12
 Skinny Puppy:e30 h4 i1 n4 p4
 Cat Power:a23 h4 i1 n4 p6
-Twisted Teens:d1 f4 l22 p5 q4
+Twisted Teens:d1 f4 l22 p5 q3
 Nick Cave & The Bad Seeds:e2 g1 h9 n8 p11
-SAULT:a20 h2 n2 p3 q1
 Mazzy Star:a10 g1 h4 n4 p1
 The Tallest Man On Earth:h2 n2 o11 p1 q1
 Bill Callahan:f1 g1 h1 o12 p1
-Stef Chura:h2 n2 o9 p1 q1
+Elliott Smith:a1 g1 h5 n5 p3
 Eagles Of Death Metal:c2 h4 j2 n4 p1
 Sparklehorse:h3 j1 m1 n3 p1
 TV Priest:d1 h1 n1 p2 q4
 Van Morrison:g1 h3 m1 n2 p2
-IDLES:h1 k1 n1 p4 q1
 Lucius:h3 j1 m1 n2 p1
 Dumb:h1 i1 n1 p3 q1
 Iron & Wine:h2 j1 m1 n2 p1
-Lucy Dacus:h1 j1 n1 p2 q1
-Bedouine , Hurray For The Riff Raff & Waxahatchee:h1 j1 m1 n1 p1
+Lera Lynn & Shovels & Rope:e1 h2 j1 n2 p1
 CBC Music:h1 j1 m1 n1 p1
 Death Cab for Cutie:g1 h1 m1 n1 p1
 beckmangroup:g1 h1 j1 m1 n1
 Bauhaus:e22 h62 n62 q1
-Coil:e32 h35 n35 p3
 The Black Keys:g1 h12 n54 p20
 Nick Drake:a68 h3 n3 p4
 Willie Nelson:g1 h63 n6 p4
@@ -54,18 +49,21 @@ The Brian Jonestown Massacre:h9 i1 n9 p13
 Galaxie 500:h14 j1 n14 p2
 Beck:h8 j10 n7 p4
 Pixies:h20 i1 n2 p4
+SAULT:a20 h2 n2 p3
 Desert Sessions:c3 h11 k3 n9
 Tricky & Martina Topley-Bird:a23 h1 n1 p1
 Stereolab:f1 h17 n4 p1
 Suki Waterhouse:f2 h2 l15 p2
 Fatso Jetson:b1 c6 h8 n3
+Skinshape:d1 l1 o11 p5
 The Dirtbombs:g1 h3 n13 p1
 PJ Harvey:g1 h5 n4 p6
-This Is Lorelei:d1 h10 p4 q1
 Brant Bjork:c3 h6 n3 p3
+Low Cut Connie:h2 n2 o10 p1
 Massive Attack:a12 h1 k1 n1
 Fu Manchu:c3 h5 n4 p2
 James Johnston:a10 h1 n1 p2
+Stef Chura:h2 n2 o9 p1
 The Rolling Stones:e1 h4 n4 p5
 Yeah Yeah Yeahs:g1 h5 n5 p3
 Jack White:f1 h3 n3 p6
@@ -88,6 +86,7 @@ Devo:g1 h1 n1 p5
 Eagles of Death Metal:c1 g1 h1 p5
 Ezra Furman:h3 k1 n3 p1
 Girl and Girl:h2 k1 l1 p3
+IDLES:h1 k1 n1 p4
 Nilüfer Yanya:h1 j1 n1 p4
 Pavement:h2 j1 n2 p2
 Rage Against The Machine:h1 k1 n1 p4
@@ -101,11 +100,13 @@ Eddie Vedder:h2 j2 m1 p1
 Nebula:h2 j1 n2 p1
 The Beatles:g1 h2 n2 p1
 Benjamin Booker:h1 k1 n1 p2
+Lucy Dacus:h1 j1 n1 p2
 She Wants Revenge:h1 k1 n1 p2
 Sleaford Mods:h1 k2 n1 p1
 Sylvan Esso:h1 l1 n1 p2
 The Stone Roses:f1 h2 j1 n1
 Amen Dunes:h1 j1 n1 p1
+Bedouine , Hurray For The Riff Raff & Waxahatchee:h1 m1 n1 p1
 Bon Iver:a1 h1 n1 p1
 Lee Harvey Oswald Band:h1 k1 n1 p1
 Marissa Nadler:h1 j1 n1 p1
@@ -144,14 +145,15 @@ Bob Dylan:h9 n9 p2
 Wu-Tang Clan:h15 n1 p4
 Hanni El Khatib:h6 n6 p7
 Parquet Courts:h15 n1 p3
+Sampa the Great:o16 p2 q1
 Lauryn Hill:h16 n1 p1
-Sharp Pins:o11 p5 q1
 DOPE LEMON:g1 h12 p3
 Jimmy Buffett:h13 n2 p1
 The Murlocs:h2 n12 p2
 Calibro 35:b2 o12 p1
 Cameron Winter:o12 p2 q1
 Funkadelic:h7 n7 q1
+This Is Lorelei:d1 h10 p4
 Tricky:a13 h1 n1
 Courtney Barnett:h5 n5 p4
 Deap Vally:h3 n3 p8
@@ -200,7 +202,6 @@ Kurt Vile:h3 j1 n3
 Laura Marling:h2 n2 p3
 Ron Gallo:d1 h3 n3
 She Keeps Bees:h3 n3 p1
-Skinshape:d1 l1 p5
 Slint:h2 n2 p3
 Sly & The Family Stone:h3 n1 p3
 Stevie Wonder:g1 h3 n3
@@ -214,7 +215,6 @@ Adam & The Ants:h2 n2 p2
 Angel Olsen:h2 n2 p2
 Beirut:h2 n2 p2
 Dinosaur Jr.:h2 n2 p2
-MJ Lenderman:f1 p4 q1
 Mike Oldfield:b2 h2 n2
 Phosphorescent:h2 n2 p2
 Pip Blom:h3 n2 p1
@@ -237,11 +237,11 @@ Built to Spill:h2 n2 p1
 Butthole Surfers:h2 k1 n2
 Hurray for the Riff Raff:h1 k1 p3
 Iggy & The Stooges:h2 n2 p1
+Jesse Welles:o3 p1 q1
 Jolie Holland:h2 n2 p1
 Kae Tempest:h2 n2 p1
 Kyle Craft:h2 n2 p1
 L7:h2 n2 o1
-Low Cut Connie:h2 n2 p1
 Ministry:e1 h2 n2
 Modest Mouse:h2 n2 p1
 Okkervil River:h2 n2 p1
@@ -283,7 +283,6 @@ Steel Beans:h1 n1 p2
 The Clash:h1 n1 p2
 The Last Internationale:h1 n1 p2
 Tones On Tail:h1 n1 p2
-Tricky & Mitch Sanders:d1 l2 q1
 13th Floor Elevators:h1 n1 p1
 35007:h1 n1 p1
 Baaba Maal:b1 h1 n1
@@ -304,13 +303,11 @@ Delta Spirit:h1 n1 p1
 Depeche Mode:h1 n1 p1
 Dry Cleaning:h1 n1 p1
 Duran Duran:h1 n1 p1
-Esso, Sylvan:d1 k1 q1
 Fleet Foxes:h1 n1 p1
 Frank Black and the Catholics:h1 n1 p1
 Franz Ferdinand:h1 n1 p1
 Gillian Welch:h1 n1 p1
 Guided by Voices:h1 n1 p1
-Jesse Welles:o1 p1 q1
 Juliana Hatfield:h1 j1 n1
 Kevin Morby:h1 n1 p1
 Kings Of Leon:h1 n1 p1
@@ -349,7 +346,6 @@ Sugar:h1 n1 p1
 TRAAMS:h1 n1 p1
 TV on the Radio:h1 n1 p1
 Talk Talk:h1 n1 p1
-The Avalanches:h1 n1 q1
 The Cramps:e1 h1 n1
 The Gun Club:h1 n1 p1
 The Little Killers:h1 n1 p1
@@ -376,6 +372,7 @@ Cosmo Sheldrake:h19 p5
 Courtney Barnett & Kurt Vile:h10 n10
 Latin Playboys:h16 n3
 Public Enemy:h17 n1
+Sharp Pins:o11 p5
 Shuggie Otis:h2 n14
 Mandy, Indiana:o10 p5
 Greg Freeman:k1 o13
@@ -405,6 +402,7 @@ Panda Bear & Sonic Boom:h3 n3
 The Nude Party:h3 n3
 Waylon Jennings & Willie Nelson:h4 p2
 George Jones:h4 p1
+MJ Lenderman:f1 p4
 Method Man:h1 p4
 Waxahatchee:h3 p2
 Waylon Jennings:h4 p1
@@ -466,30 +464,30 @@ Little Barrie:o1 p2
 Low:h2 p1
 Mk.gee:h2 p1
 Radio Entropy:b2 i1
-Sampa the Great:p2 q1
 Shellac:h1 p2
 Spiritualized:g1 p2
 Squeeze:h2 n1
 Still Corners:h1 p2
 The English Beat:h1 p2
 The The:h1 p2
+Tricky & Mitch Sanders:d1 l2
 Warpaint:h1 p2
-Westside Cowboy:p1 q2
 XTC:h2 n1
 Andrew Bird & Lucius:h1 j1
 Arcy Drive:h1 p1
 Autobahns:i1 p1
 Black Country, New Road & War Child Records:o1 p1
 Blur:i1 p1
-Bootsy Collins:p1 q1
 Cate Le Bon:o1 p1
 Cut Worms:p1 q1
+Esso, Sylvan:d1 k1
 Everything Everything:h1 p1
 FONTAINES D.C.:i1 p1
 Fine Young Cannibals:j1 p1
 Fontaines D.C. & War Child Records:o1 p1
 Frog:p1 r1
 IDLES & LCD Soundsystem:f1 p1
+J Mascis:j1 q1
 Joe Cocker:h1 m1
 John Prine:g1 p1
 LA Priest:h1 p1
@@ -504,10 +502,12 @@ Royal Blood:d1 q1
 Sex Pistols:k1 p1
 Sun June:h1 p1
 TAD:h1 p1
+The Avalanches:h1 n1
 The Linda Lindas:p1 q1
 The Sonics:e1 p1
 Thundercat:h1 j1
 Ulrika Spacek:h1 n1
+Westside Cowboy:p1 q1
 meija & JAWNY:h1 p1
 The Meters:n116
 Booker T. & the MG's:n79
@@ -525,6 +525,7 @@ Townes Van Zandt:h16
 GZA:h13
 Kanye West:h13
 Gavin Bryars Ensemble:e11
+Spike and the Gimme Gimmes:o11
 Black Moth Super Rainbow:h10
 Dummy:o10
 Laetitia Sadier:h10
@@ -544,6 +545,7 @@ TOOL:p4
 The Birthday Party:p4
 The Lemon Twigs:h4
 The Warlocks:p4
+horsegiirL:o4
 Jessica Pratt:h3
 Kyuss:p3
 Robert Pollard:p3
@@ -611,7 +613,6 @@ Adam and the Ants:p1
 Ajar:p1
 Al Green:p1
 Alan Sparhawk:p1
-Aldous Harding & H. Hawkline:q1
 Alex Chilton:p1
 Alex Izenberg:o1
 Allah-Las:p1
@@ -623,14 +624,14 @@ Andy Boay:o1
 Angine de Poitrine:p1
 Anjimile:p1
 Anna Ash:p1
-Anna Calvi , Nilufer Yanya , Dove Ellis & War Child Records:o1
+Anna Calvi, Nilufer Yanya, Dove Ellis & War Child Records:o1
 Anomie Belle:p1
 Antranik Askarian & Khatchadour Khatchaturian:b1
 Arab Strap:p1
 Arctic Monkeys & War Child Records:o1
 Aretha Franklin:p1
 Arlo Parks & War Child Records:o1
-Arooj Aftab , Beck & War Child Records:o1
+Arooj Aftab, Beck & War Child Records:o1
 Arrested Development:p1
 At The Drive-In:p1
 Atmosphere , Slug & Ant:p1
@@ -645,6 +646,7 @@ Barry Adamson:p1
 Bat For Lashes & War Child Records:o1
 Beabadoobee & War Child Records:o1
 Beans & Fatback:p1
+Bedouine, Hurray For The Riff Raff & Waxahatchee:j1
 Being Dead:p1
 Beth Gibbons & War Child Records:o1
 Big Audio Dynamite:p1
@@ -663,6 +665,7 @@ Bob Forrest:p1
 Bodega:k1
 Boiler Room:p1
 Bonnie "Prince" Billy , Nathan Salsburg & Tyler Trotter:p1
+Bootsy Collins:p1
 Boston Spaceships:p1
 Brand Nubian:p1
 Brian Olive:p1
@@ -680,9 +683,10 @@ Celeste:p1
 Channel Tres:p1
 Cherry Glazerr & Jeffertitti:p1
 Chicuelo/Duquende/Ensemble De Qawwali Faiz Ali Faiz/Miguel Poveda:p1
+Chris Cornell:q1
 Colin Broster:o1
 Cop Shoot Cop:p1
-Corridos Ketamina , Nico Malva & so02:o1
+Corridos Ketamina, Nico Malva & so02:o1
 Crime & the City Solution:p1
 Current Joys & YOUR ANGEL:q1
 Cursive:p1
@@ -691,7 +695,7 @@ DAM:p1
 DAN AUERBACH:p1
 DMX:p1
 Daddy Issues:p1
-Damon Albarn , Grian Chatten , Kae Tempest & War Child Records:o1
+Damon Albarn, Grian Chatten, Kae Tempest & War Child Records:o1
 Dan English:o1
 Danger Mouse:p1
 Danlee Mitchell , Harry Partch , Frank Berberich & Gary Coleman:p1
@@ -716,11 +720,11 @@ Elder Island:p1
 Electric Dreams:p1
 Electric Light Orchestra:p1
 Eleventh Dream Day:p1
-Elton John , P!nk & Logic:j1
+Elton John, P!nk & Logic:j1
 Emanuel Ax , Pamela Frank & Yo-Yo Ma:p1
 English Teacher:p1
-English Teacher , Graham Coxon & War Child Records:o1
-Ezra Collective , Greentea Peng & War Child Records:o1
+English Teacher, Graham Coxon & War Child Records:o1
+Ezra Collective, Greentea Peng & War Child Records:o1
 Fashion Club & Julie Byrne:p1
 Fatala:b1
 Faye Webster:p1
@@ -729,7 +733,6 @@ Fernando Massuyama:p1
 Fever Ray:p1
 Findlay:p1
 Fiona Apple:p1
-Firewater:q1
 Foals & War Child Records:o1
 Font:p1
 Fontaines D.C. & ROSALÍA:o1
@@ -761,7 +764,6 @@ Imperial Teen:p1
 Iris DeMent:p1
 Isobel Campbell & Mark Lanegan:p1
 Israel Kamakawiwo'ole:p1
-J Mascis:q1
 J.R.C.G.:p1
 JD McPherson:p1
 JEFF the Brotherhood:p1
@@ -804,7 +806,6 @@ Liam Bailey:p1
 Library Shift:p1
 Little Hurricane:p1
 Little Simz & Obongjayar:p1
-Loco Gringos:q1
 Lonely Guest & Tricky:p1
 Lord Huron & August Ponthier:p1
 Lou Reed:p1
@@ -955,6 +956,7 @@ ZZ Ward:p1
 almost monday:b1
 boygenius:p1
 clipping. & Cocc Pistol Cree:p1
+horsegiirL & Dylan Brady:o1
 matt proxy , Current Joys , never goodbye & Elijah Walker:q1
 meija & Hand Habits:p1
 sara:p1

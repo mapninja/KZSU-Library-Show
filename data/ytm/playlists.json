@@ -1,39 +1,39 @@
 {
- "scraped": "2026-10-25",
- "note": "DJ Stace's YouTube Music playlists used as taste evidence. Excluded: spoken word, podcasts, and every playlist the assistant builds or that duplicates airplay (Air Order, Working, Weekly, New Releases for Review, Morning ZSU lists, Library Specialty lists, College Radio Top 50, aired-show archives). weight = how much one playlist counts in build_taste_profile.py. Oct. 25, 2026 run: re-scraped Next Show, To Review, FCC Edit Needed and Soundbed in the signed-in YTM tab (browser.json is invalid); all others reuse the Oct. 18 per-artist counts (API row counts within 1 to 2 of saved totals for Covers, Desert Sessions, Love Songs and Songs 2:00 and less; Liked Music not re-read).",
+ "scraped": "2026-11-01",
+ "note": "DJ Stace's YouTube Music playlists used as taste evidence. Excluded: spoken word, podcasts, and every playlist the assistant builds or that duplicates airplay (Air Order, Working, Weekly, New Releases for Review, Morning ZSU lists, Library Specialty lists, College Radio Top 50, aired-show archives). weight = how much one playlist counts in build_taste_profile.py. Nov. 1, 2026 run: browser.json still invalid; re-read Next Show, To Review, Covers and FCC Edit Needed in the signed-in YTM tab with the page's browse API (Next Show header says 52 tracks but the API returns 44 playable rows). All others reuse the Oct. 25 per-artist counts; their library tile track counts are unchanged since Oct. 25. The 'tracks' field is playable rows read from the page, which can run below the tile count (All-Time Favorites 2,682 rows vs 3,032 on the tile). Not in the library tile list this run, so saved counts kept: DJ Stace - 09/10/2026, Your Top 25 Tracks of 2026, June-August Recap, Liked Music (API returned 0 rows). Titles updated to the Oct. 30 naming scheme.",
  "playlists": {
   "a": {
-   "title": "Night mix",
+   "title": "02 Personal - Night mix",
    "id": "PLMduzOohHQLp_oGA6vGyNEwxFGLmolLXF",
-   "tracks": 273,
+   "tracks": 271,
    "weight": 1.0,
    "kind": "mood"
   },
   "b": {
-   "title": "Soundbed",
+   "title": "02 Personal - Soundbed",
    "id": "PLMduzOohHQLp5hvMvemQXZN9KSMxO9rBv",
    "tracks": 55,
    "weight": 0.3,
    "kind": "utility"
   },
   "c": {
-   "title": "Desert Sessions",
+   "title": "02 Personal - Desert Sessions",
    "id": "PLMduzOohHQLoOjXdWj0oajC43_OgDrGhK",
-   "tracks": 56,
+   "tracks": 55,
    "weight": 1.0,
    "kind": "theme"
   },
   "d": {
    "title": "DJ Stace - 09/10/2026",
    "id": "PLUYRLS4I-llU",
-   "tracks": 19,
+   "tracks": 18,
    "weight": 3.0,
    "kind": "show"
   },
   "e": {
-   "title": "Halloweenie music",
+   "title": "02 Personal - Halloweenie music",
    "id": "PLMduzOohHQLpqWjsHt4NoECV6oyJ6kmVx",
-   "tracks": 160,
+   "tracks": 108,
    "weight": 0.3,
    "kind": "seasonal"
   },
@@ -45,85 +45,85 @@
    "kind": "recap"
   },
   "g": {
-   "title": "Love Songs - DJ Stace Library Show",
+   "title": "02 Personal - Love Songs - DJ Stace Library Show",
    "id": "PLMduzOohHQLqg2SX6Bc2weOxwEry1MI2B",
-   "tracks": 44,
+   "tracks": 41,
    "weight": 1.5,
    "kind": "show"
   },
   "h": {
-   "title": "All-Time Favorites",
+   "title": "02 Personal - All-Time Favorites",
    "id": "PLMduzOohHQLr_HRmOlM3KH-ZyCc3dcnaj",
-   "tracks": 3032,
+   "tracks": 2682,
    "weight": 1.0,
    "kind": "favorites"
   },
   "i": {
-   "title": "Songs 2:00 and less",
+   "title": "02 Personal - Songs 2:00 and less",
    "id": "PLMduzOohHQLqH0n8cJxVcqjIo9dPMaPmF",
-   "tracks": 15,
+   "tracks": 13,
    "weight": 1.0,
    "kind": "utility"
   },
   "j": {
-   "title": "Covers",
+   "title": "02 Personal - Covers",
    "id": "PLMduzOohHQLodi1DCB1DBh7maGUUoc47Z",
-   "tracks": 71,
+   "tracks": 70,
    "weight": 1.0,
    "kind": "theme"
   },
   "k": {
-   "title": "FCC Edited",
+   "title": "01 KZSU - FCC Edited",
    "id": "PLMduzOohHQLpMGE2n1qJIGvwRJp4-l0dn",
-   "tracks": 58,
+   "tracks": 46,
    "weight": 1.5,
    "kind": "show"
   },
   "l": {
    "title": "June-August Recap",
    "id": "LRSRIXQ5670Cwzo403jSeQ5u6pdb8ZR1AqYkQ",
-   "tracks": 50,
+   "tracks": 46,
    "weight": 2.0,
    "kind": "recap"
   },
   "m": {
-   "title": "Karaoke",
+   "title": "02 Personal - Karaoke",
    "id": "PLMduzOohHQLqevwBrJiwxpXKwrnc19eEx",
    "tracks": 15,
    "weight": 0.3,
    "kind": "utility"
   },
   "n": {
-   "title": "Crawfish Boil",
+   "title": "02 Personal - Crawfish Boil",
    "id": "PLMduzOohHQLp3_mfth1JarNlaRPZFwKLz",
-   "tracks": 2109,
+   "tracks": 1840,
    "weight": 0.5,
    "kind": "favorites",
    "note": "Mostly overlaps All-Time Favorites, so it counts half."
   },
   "o": {
-   "title": "To Review",
+   "title": "01 KZSU - To Review",
    "id": "PLMduzOohHQLoYAPMl9uNRayfpe9uQ3NiA",
-   "tracks": 262,
+   "tracks": 342,
    "weight": 2.0,
    "kind": "review"
   },
   "p": {
    "title": "Liked Music",
    "id": "LM",
-   "tracks": 1386,
+   "tracks": 1380,
    "weight": 2.0,
    "kind": "likes"
   },
   "q": {
-   "title": "DJ Stace - Next Show",
+   "title": "01 KZSU - Next Show",
    "id": "PLMduzOohHQLrQzt6w4ep6l2zAwcIzoZVF",
-   "tracks": 64,
+   "tracks": 44,
    "weight": 3.0,
    "kind": "show"
   },
   "r": {
-   "title": "FCC Edit Needed",
+   "title": "01 KZSU - FCC Edit Needed",
    "id": "PLMduzOohHQLoN-Bq1XuSpyqe1i5JffIad",
    "tracks": 10,
    "weight": 1.5,
