@@ -219,10 +219,10 @@
    "https://missgrit.bandcamp.com/track/mind-disaster"
   ],
   "status": "single, date unverified",
-  "note": "Single date: Line of Best Fit story dated Mar. 10, 2026 (third single from Under My Umbrella). Northern Transmissions posted Mar. 11 (Pacific). Not confirmed by the label or Bandcamp. Bandcamp track page shows Apr. 24, 2026, the album date (Mute). Oct. 28 recheck: no new evidence; Line of Best Fit Mar. 10 stays the single date. Oct. 29 recheck: Line of Best Fit page read, dated 10 March 2026 and says the single is out from Under My Umbrella (Apr. 24, Mute). Still one day-precision source.",
+  "note": "Single date: Line of Best Fit story dated Mar. 10, 2026 (third single from Under My Umbrella). Northern Transmissions posted Mar. 11 (Pacific). Not confirmed by the label or Bandcamp. Bandcamp track page shows Apr. 24, 2026, the album date (Mute). Oct. 28 recheck: no new evidence; Line of Best Fit Mar. 10 stays the single date. Oct. 29 recheck: Line of Best Fit page read, dated 10 March 2026 and says the single is out from Under My Umbrella (Apr. 24, Mute). Still one day-precision source. | Nov. 2 recheck: Northern Transmissions and Line of Best Fit coverage around Mar. 10; Bandcamp shows Apr. 24 album date. Still one day-precision source.",
   "label": "Mute Records",
   "confirmed": false,
-  "checked_on": "2026-10-29"
+  "checked_on": "2026-11-02"
  },
  "hrishikesh hirway|stray dogs with iron wine": {
   "date": "2026-02-18",
@@ -927,10 +927,10 @@
    "https://littlebarrie.bandcamp.com/track/luggin-hurt"
   ],
   "status": "single, date unverified",
-  "note": "Bandcamp track page shows May 22, 2026, which is the Gravity Freeze album date (Easy Eye Sound). Single date still not found; 2026-04-23 kept as earlier single date from the prior run, unverified. Oct. 25: a UMG YouTube upload is dated Apr. 22, 2026, one day before the kept date. Bandcamp and Shazam show the album date May 22, 2026. Still unverified. Oct. 27 recheck: still only the video and audio uploads (Apr. 22 to 23) as evidence; Bandcamp shows May 22 album date. Oct. 28 recheck: no single-only date found; album date May 22 (Bandcamp, Shazam). Oct. 29 recheck: Bandcamp track page read again, still shows the May 22, 2026 album date. Single-only date not found.",
+  "note": "Bandcamp track page shows May 22, 2026, which is the Gravity Freeze album date (Easy Eye Sound). Single date still not found; 2026-04-23 kept as earlier single date from the prior run, unverified. Oct. 25: a UMG YouTube upload is dated Apr. 22, 2026, one day before the kept date. Bandcamp and Shazam show the album date May 22, 2026. Still unverified. Oct. 27 recheck: still only the video and audio uploads (Apr. 22 to 23) as evidence; Bandcamp shows May 22 album date. Oct. 28 recheck: no single-only date found; album date May 22 (Bandcamp, Shazam). Oct. 29 recheck: Bandcamp track page read again, still shows the May 22, 2026 album date. Single-only date not found. | Nov. 2 recheck: search again finds only the Apr. 22 to 23 video uploads and the May 22 album date (Gravity Freeze, Easy Eye Sound). Still unverified.",
   "label": "Easy Eye Sound / Concord",
   "confirmed": false,
-  "checked_on": "2026-10-29"
+  "checked_on": "2026-11-02"
  },
  "new pornographers|votive": {
   "date": "2026-01-21",
@@ -1247,10 +1247,10 @@
    "https://rmas.mx/en/2026/09/17/imperial-teen-release-hands-all-up-new-preview-of-all-over-you/"
   ],
   "status": "released",
-  "note": "Title is \"Hands All Up\", third single from All Over You (Merge, Oct. 9, 2026). Press dated Sept. 17, 2026. No day-precision source found. Oct. 27: searches for \"All Hands Up\" returned nothing; single is \"Hands All Up\" (Sept. 17 press). Still no day-precision source. Oct. 28 recheck: search returned nothing for \"All Hands Up\"; single is \"Hands All Up\", Sept. 17 press only. Oct. 29 recheck: search for the album shows All Over You out Oct. 9, 2026 (Merge page, Silver PR, Bandcamp). Single date still not found.",
+  "note": "Title is \"Hands All Up\", third single from All Over You (Merge, Oct. 9, 2026). Press dated Sept. 17, 2026. No day-precision source found. Oct. 27: searches for \"All Hands Up\" returned nothing; single is \"Hands All Up\" (Sept. 17 press). Still no day-precision source. Oct. 28 recheck: search returned nothing for \"All Hands Up\"; single is \"Hands All Up\", Sept. 17 press only. Oct. 29 recheck: search for the album shows All Over You out Oct. 9, 2026 (Merge page, Silver PR, Bandcamp). Single date still not found. | Nov. 2: web search returned nothing; still verify.",
   "label": "Merge",
   "confirmed": false,
-  "checked_on": "2026-10-29"
+  "checked_on": "2026-11-02"
  },
  "steve earle los lobos|volver a celaya city of immigrants": {
   "date": "2026-08-06",
@@ -4109,8 +4109,8 @@
   "status": "date not found",
   "label": "Samlist/AWAL",
   "confirmed": false,
-  "note": "Nov. 1: search returned no results again. Retry later.",
-  "checked_on": "2026-11-01"
+  "note": "Nov. 1: search returned no results again. Retry later. | Nov. 2: web search returned nothing; still no date.",
+  "checked_on": "2026-11-02"
  },
  "vienna vienna|grief is for the living": {
   "date": "2026-05-22",
@@ -5189,5 +5189,60 @@
   "date": "",
   "status": "date not found",
   "confirmed": false
+ },
+ "james blake|death of love": {
+  "date": "2026-01-22",
+  "precision": "day",
+  "status": "released",
+  "confirmed": true,
+  "label": "Good Boy",
+  "sources": [
+   "https://www.thefader.com/2026/01/22/james-blake-stares-down-loneliness-on-death-of-love",
+   "https://www.thenote.com.au/news/james-blake-shares-new-single-death-of-love",
+   "https://www.nme.com/news/music/james-blake-announces-new-album-trying-times-and-shares-striking-single-death-of-love-3924994"
+  ],
+  "note": "Nov. 2: FADER (Jan. 22 story) and The Note agree on Jan. 22, 2026. Lead single from Trying Times (Mar. 13, 2026, Good Boy).",
+  "checked_on": "2026-11-02"
+ },
+ "thundercat|i did this to myself feat lil yachty": {
+  "date": "2026-01-29",
+  "precision": "day",
+  "status": "released",
+  "confirmed": true,
+  "label": "Brainfeeder",
+  "sources": [
+   "https://rateyourmusic.com/release/single/thundercat/i-did-this-to-myself/",
+   "https://music.mxdwn.com/2026/01/29/news/thundercat-announces-new-album-distracted-for-april-2026-release-shares-lead-single-i-did-this-to-myself-featuring-lil-yachty/",
+   "https://thedailymusicreport.com/music-news-releases/thundercat-i-did-this-to-myself-featuring-lil-yachty-01292026/"
+  ],
+  "note": "Nov. 2: RYM, mxdwn and Daily Music Report agree on Jan. 29, 2026. Bandcamp track page shows Apr. 3, 2026, the Distracted album date (Brainfeeder). Lead single.",
+  "checked_on": "2026-11-02"
+ },
+ "christine and the queens|ah ya feat thee diane": {
+  "date": "2026-01-29",
+  "precision": "day",
+  "status": "released",
+  "confirmed": true,
+  "label": "Because Music",
+  "sources": [
+   "https://www.nme.com/news/music/christine-the-queens-and-thee-diane-team-up-for-euphoric-new-single-ah-ya-we-still-dare-to-love-in-the-night-of-a-world-so-fragile-3926273",
+   "https://www.frontview-magazine.be/en/news/christine-and-the-queens-thee-diane-ah-ya-out-29-january",
+   "https://music.apple.com/us/album/ah-ya-single/1849681372"
+  ],
+  "note": "Nov. 2: NME, FrontView and Apple Music agree on Jan. 29, 2026.",
+  "checked_on": "2026-11-02"
+ },
+ "tom misch|sisters with me": {
+  "date": "2026-01-28",
+  "precision": "day",
+  "status": "single, one source",
+  "confirmed": false,
+  "label": "Beyond the Groove / AWAL",
+  "sources": [
+   "https://tunebat.com/Info/Sisters-With-Me-Tom-Misch/2ewg31VuWBIamb8f8APqw7",
+   "https://www.frontview-magazine.be/en/article/tom-misch-is-back-sisters-with-me-out-now-full-circle-album-out-on-27th-march"
+  ],
+  "note": "Nov. 2: Tunebat lists Jan. 28, 2026; NME and Skiddle coverage is late January (announces Full Circle, Mar. 27). Bandcamp shows the album date. One day-precision source, so verify.",
+  "checked_on": "2026-11-02"
  }
 }

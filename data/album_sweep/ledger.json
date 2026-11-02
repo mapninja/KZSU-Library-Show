@@ -312,18 +312,18 @@
    "album": "Wild in the Streets",
    "label": "Domino",
    "release_date": "2026-10-30",
-   "status": "announced",
+   "status": "released",
    "first_reported": "2026-10-16",
-   "last_reported": "2026-10-16"
+   "last_reported": "2026-11-02"
   },
   "piss|you made me / skin on linen": {
    "artist": "PISS",
    "album": "you made me / skin on linen",
    "label": "Sub Pop",
    "release_date": "2026-10-30",
-   "status": "announced",
+   "status": "released",
    "first_reported": "2026-10-16",
-   "last_reported": "2026-10-16"
+   "last_reported": "2026-11-02"
   },
   "sampa the great|nu zamrock": {
    "artist": "Sampa the Great",
@@ -357,9 +357,9 @@
    "album": "Save As",
    "label": "4AD",
    "release_date": "2026-10-30",
-   "status": "announced",
+   "status": "released",
    "first_reported": "2026-10-16",
-   "last_reported": "2026-10-16"
+   "last_reported": "2026-11-02"
   },
   "fujiya & miyagi|new shiny object": {
    "artist": "Fujiya & Miyagi",
@@ -411,9 +411,9 @@
    "album": "Oh Golly / Yes Lord",
    "label": "Waterlines",
    "release_date": "2026-10-30",
-   "status": "announced",
+   "status": "released",
    "first_reported": "2026-10-16",
-   "last_reported": "2026-10-16"
+   "last_reported": "2026-11-02"
   },
   "twisted teens|the holy cross tigers": {
    "artist": "Twisted Teens",
@@ -618,9 +618,9 @@
    "album": "Hurt Feelings",
    "label": "Darla Records",
    "release_date": "2026-10-30",
-   "status": "announced",
+   "status": "released",
    "first_reported": "2026-10-19",
-   "last_reported": "2026-10-19"
+   "last_reported": "2026-11-02"
   },
   "jeshi|headrush (mixtape)": {
    "artist": "Jeshi",
@@ -771,9 +771,9 @@
    "album": "Zirp!",
    "label": "Fantasy",
    "release_date": "2026-10-30",
-   "status": "announced",
+   "status": "released",
    "first_reported": "2026-10-19",
-   "last_reported": "2026-10-19"
+   "last_reported": "2026-11-02"
   },
   "tv priest|cartoons": {
    "artist": "TV Priest",
@@ -843,9 +843,9 @@
    "album": "What's In Between",
    "label": "Atlantic",
    "release_date": "2026-10-30",
-   "status": "announced",
+   "status": "released",
    "first_reported": "2026-10-26",
-   "last_reported": "2026-10-26"
+   "last_reported": "2026-11-02"
   },
   "skinshape|chapman's pool": {
    "artist": "Skinshape",
@@ -891,6 +891,114 @@
    "status": "announced",
    "first_reported": "2026-10-26",
    "last_reported": "2026-10-26"
+  },
+  "2nd grade|girls and boys": {
+   "artist": "2nd Grade",
+   "album": "Girls and Boys",
+   "label": "Lame-O",
+   "release_date": "2026-10-30",
+   "status": "released",
+   "first_reported": "2026-11-02",
+   "last_reported": "2026-11-02"
+  },
+  "disgusting sisters|skin & blisters": {
+   "artist": "Disgusting Sisters",
+   "album": "Skin & Blisters",
+   "label": "Source",
+   "release_date": "2026-10-30",
+   "status": "released",
+   "first_reported": "2026-11-02",
+   "last_reported": "2026-11-02"
+  },
+  "editors|surface, echo & sound": {
+   "artist": "Editors",
+   "album": "Surface, Echo & Sound",
+   "label": "[PIAS]",
+   "release_date": "2026-10-30",
+   "status": "released",
+   "first_reported": "2026-11-02",
+   "last_reported": "2026-11-02"
+  },
+  "juice webster|kind of fantasy": {
+   "artist": "Juice Webster",
+   "album": "Kind of Fantasy",
+   "label": "Cohort",
+   "release_date": "2026-10-30",
+   "status": "released",
+   "first_reported": "2026-11-02",
+   "last_reported": "2026-11-02"
+  },
+  "sam burton|fairweather friend": {
+   "artist": "Sam Burton",
+   "album": "Fairweather Friend",
+   "label": "Captured Tracks",
+   "release_date": "2026-10-30",
+   "status": "released",
+   "first_reported": "2026-11-02",
+   "last_reported": "2026-11-02"
+  },
+  "sennen|new quiet": {
+   "artist": "Sennen",
+   "album": "New Quiet",
+   "label": "label unverified",
+   "release_date": "2026-10-30",
+   "status": "released",
+   "first_reported": "2026-11-02",
+   "last_reported": "2026-11-02"
+  },
+  "stephen steinbrink|in a split mirror": {
+   "artist": "Stephen Steinbrink",
+   "album": "In A Split Mirror",
+   "label": "Sedimentary Archive",
+   "release_date": "2026-10-30",
+   "status": "released",
+   "first_reported": "2026-11-02",
+   "last_reported": "2026-11-02"
+  },
+  "the big moon|forever": {
+   "artist": "The Big Moon",
+   "album": "Forever",
+   "label": "Fiction",
+   "release_date": "2026-10-30",
+   "status": "released",
+   "first_reported": "2026-11-02",
+   "last_reported": "2026-11-02"
+  },
+  "toner|dynasty house": {
+   "artist": "Toner",
+   "album": "Dynasty House",
+   "label": "Smoking Room",
+   "release_date": "2026-10-30",
+   "status": "released",
+   "first_reported": "2026-11-02",
+   "last_reported": "2026-11-02"
+  },
+  "hudson freeman|doom country": {
+   "artist": "Hudson Freeman",
+   "album": "Doom Country",
+   "label": "Mom+Pop",
+   "release_date": "2026-11-06",
+   "status": "announced",
+   "first_reported": "2026-11-02",
+   "last_reported": "2026-11-02"
+  },
+  "peter gabriel|o/i": {
+   "artist": "Peter Gabriel",
+   "album": "o/i",
+   "label": "Real World",
+   "release_date": "2026-11-27",
+   "status": "announced",
+   "first_reported": "2026-11-02",
+   "last_reported": "2026-11-02"
+  },
+  "this is the kit|ghost coat": {
+   "artist": "This Is The Kit",
+   "album": "Ghost Coat",
+   "label": "Memphis Industries",
+   "release_date": "2027-01-15",
+   "status": "announced",
+   "first_reported": "2026-11-02",
+   "last_reported": "2026-11-02"
   }
  }
 }

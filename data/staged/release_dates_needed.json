@@ -108,33 +108,6 @@
   "key": "spaceport|cut the cake"
  },
  {
-  "artist": "District Five",
-  "title": "Place Your Bet",
-  "type": "single",
-  "label": "Stone Pixels",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "district five|place your bet"
- },
- {
-  "artist": "District Five",
-  "title": "Push (feat. Saul Williams)",
-  "type": "single",
-  "label": "Stone Pixels",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "district five|push feat saul williams"
- },
- {
-  "artist": "District Five",
-  "title": "Somewhere In Between",
-  "type": "single",
-  "label": "Stone Pixels",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "district five|somewhere in between"
- },
- {
   "artist": "Marika Che",
   "title": "Bright Flame",
   "type": "album",
@@ -142,15 +115,6 @@
   "current_date": "",
   "date_check": "needed",
   "key": "marika che|bright flame"
- },
- {
-  "artist": "District Five",
-  "title": "GLUT",
-  "type": "album",
-  "label": "Stone Pixels",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "district five|glut"
  },
  {
   "artist": "villagerrr",
@@ -198,42 +162,6 @@
   "key": "lord jah monte ogbon|as of now"
  },
  {
-  "artist": "Thundercat",
-  "title": "I Did This To Myself (feat. Lil Yachty)",
-  "type": "single",
-  "label": "Brainfeeder",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "thundercat|i did this to myself feat lil yachty"
- },
- {
-  "artist": "James Blake",
-  "title": "Death of Love",
-  "type": "single",
-  "label": "Good Boy",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "james blake|death of love"
- },
- {
-  "artist": "Tom Misch",
-  "title": "Sisters With Me",
-  "type": "single",
-  "label": "Beyond the Groove / AWAL",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "tom misch|sisters with me"
- },
- {
-  "artist": "Christine and the Queens",
-  "title": "Ah Ya (feat. Thee Diane)",
-  "type": "single",
-  "label": "Because Music",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "christine and the queens|ah ya feat thee diane"
- },
- {
   "artist": "LB aka LABAT",
   "title": "Feel So Good Around U (feat. Skin on Skin)",
   "type": "single",
@@ -259,5 +187,77 @@
   "current_date": "",
   "date_check": "needed",
   "key": "local weatherman|right one"
+ },
+ {
+  "artist": "Cléa Vincent",
+  "title": "Speakeasy",
+  "type": "album",
+  "label": "Midnight Special",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "clea vincent|speakeasy"
+ },
+ {
+  "artist": "YARD",
+  "title": "YARD II [EP]",
+  "type": "EP",
+  "label": "Self-Released",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "yard|yard ii ep"
+ },
+ {
+  "artist": "Shelita",
+  "title": "Into The Depths",
+  "type": "album",
+  "label": "Self-Released",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "shelita|into the depths"
+ },
+ {
+  "artist": ".idk.",
+  "title": "Even The Devil Smiles",
+  "type": "album",
+  "label": "broke",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "idk|even the devil smiles"
+ },
+ {
+  "artist": "Jane Remover",
+  "title": "♡ EP",
+  "type": "EP",
+  "label": "deadAir",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "jane remover|ep"
+ },
+ {
+  "artist": "Tinariwen",
+  "title": "Sagherat Assani (feat. Sulafa Elyas)",
+  "type": "single",
+  "label": "Wedge",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "tinariwen|sagherat assani feat sulafa elyas"
+ },
+ {
+  "artist": "Ana Tijoux",
+  "title": "Vinos y Vinilos",
+  "type": "single",
+  "label": "Victoria Producciones",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "ana tijoux|vinos y vinilos"
+ },
+ {
+  "artist": "Sotomayor",
+  "title": "Si te vas",
+  "type": "single",
+  "label": "Wonderwheel",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "sotomayor|si te vas"
  }
 ]
