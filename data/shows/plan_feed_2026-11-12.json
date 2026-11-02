@@ -1,28 +1,63 @@
 {
  "show_date": "2026-11-12",
- "built": "2026-10-30",
+ "built": "2026-11-02",
  "source": "data/shows/bay_area_shows.csv",
  "bay_area_shows": [
   {
    "date": "Fri. Nov. 13",
    "venue": "Bottom of the Hill, S.F.",
    "act": "Jon Spencer, Genre Is Death, Fuckwolf",
-   "detail": "$30/$35, doors 8 p.m., music 8:30 p.m.",
-   "note": "FCC: opener's name has an FCC word. Do not read it on air."
+   "detail": "$30/$35, doors 8 p.m., music 8:30 p.m. 21+",
+   "what": "Jon Spencer, Genre Is Death, Fuckwolf. $30/$35, doors 8 p.m., music 8:30 p.m. 21+",
+   "note": "FCC: opener's name has an FCC word. Do not read it on air. Name Jon Spencer and Genre Is Death only."
+  },
+  {
+   "date": "Fri. Nov. 13",
+   "venue": "Fillmore, S.F.",
+   "act": "Ceremony",
+   "detail": "Show 8 p.m.",
+   "what": "Ceremony. Show 8 p.m.",
+   "note": ""
+  },
+  {
+   "date": "Fri. Nov. 13",
+   "venue": "Regency Ballroom, S.F.",
+   "act": "L7, Nobro, Buzzed Lightbeer",
+   "detail": "Last Hurrah Tour. Show time not listed.",
+   "what": "L7, Nobro, Buzzed Lightbeer. Last Hurrah Tour. Show time not listed.",
+   "note": "Confirm time before air."
   },
   {
    "date": "Sat. Nov. 14",
    "venue": "Bottom of the Hill, S.F.",
    "act": "The Avengers, Pansy Division, Damage Party",
-   "detail": "$25, doors 8:30 p.m., music 9:30 p.m.",
+   "detail": "$25, doors 8:30 p.m., music 9:30 p.m. 21+",
+   "what": "The Avengers, Pansy Division, Damage Party. $25, doors 8:30 p.m., music 9:30 p.m. 21+",
    "note": ""
+  },
+  {
+   "date": "Sun. Nov. 15 to Sat. Nov. 21",
+   "venue": "Fillmore, S.F.",
+   "act": "The Mountain Goats (six nights: Nov. 15, 16, 18, 19, 20, 21)",
+   "detail": "Show 8 p.m.",
+   "what": "The Mountain Goats (six nights: Nov. 15, 16, 18, 19, 20, 21). Show 8 p.m.",
+   "note": "Mountain Goats are in the taste profile (14 shows)."
   },
   {
    "date": "Sat. Nov. 21",
    "venue": "Bottom of the Hill, S.F.",
    "act": "M.D.C., Frightwig, Class of '77",
    "detail": "$20/$23, doors 8 p.m., music 8:30 p.m.",
-   "note": "Next-next week; use only if the plan has room."
+   "what": "M.D.C., Frightwig, Class of '77. $20/$23, doors 8 p.m., music 8:30 p.m.",
+   "note": "Next week; use only if the plan has room."
+  },
+  {
+   "date": "Mon. Nov. 23",
+   "venue": "Fillmore, S.F.",
+   "act": "CocoRosie",
+   "detail": "Show 8 p.m.",
+   "what": "CocoRosie. Show 8 p.m.",
+   "note": "Use only if the plan has room."
   }
  ]
 }
