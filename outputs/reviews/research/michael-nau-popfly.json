@@ -1,0 +1,103 @@
+{
+ "artist": "Michael Nau",
+ "album": "Popfly",
+ "label": "Suicide Squeeze Records",
+ "release_date": "2026-10-23",
+ "format": "LP/CD",
+ "release_notes": [
+  "Produced by Michael Nau and Benny Yurco, mixed by Graeme Gibson, mastered by Julia Rangle.",
+  "Family sings on it: his kids and wife, Whitney McGraw, plus a few friends on select tracks.",
+  "10 songs, about 33 minutes. Catalog SSQ245.",
+  "Reviewers describe loose-limbed folk and homespun psych-pop with dreamy, porch-side country-folk touches."
+ ],
+ "pull_quotes": [],
+ "draft_comment": "Loose, homespun psych-pop folk, made at home with the family. Easy listening for people who like their folk a little woozy.",
+ "riyl_suggestions": [
+  "Kevin Morby",
+  "Real Estate",
+  "Woods",
+  "Kurt Vile"
+ ],
+ "tracks": [
+  {
+   "num": 1,
+   "title": "Lost Station Hideaway",
+   "runtime": "4:11",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 2,
+   "title": "Hi Beam",
+   "runtime": "3:14",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 3,
+   "title": "Popfly",
+   "runtime": "3:23",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 4,
+   "title": "Both Ends",
+   "runtime": "3:03",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 5,
+   "title": "New Slack",
+   "runtime": "3:37",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 6,
+   "title": "First Drip",
+   "runtime": "4:12",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 7,
+   "title": "Jump Up",
+   "runtime": "2:57",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 8,
+   "title": "And Welcome Back",
+   "runtime": "2:27",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 9,
+   "title": "Even So",
+   "runtime": "2:19",
+   "fcc": "CLEAN",
+   "notes": ""
+  },
+  {
+   "num": 10,
+   "title": "Paper And Glue",
+   "runtime": "3:35",
+   "fcc": "CLEAN",
+   "notes": ""
+  }
+ ],
+ "sources": [
+  "https://michaelnau.bandcamp.com/album/popfly",
+  "https://stereogum.com/2509488/michael-nau-announces-new-album-popfly-hear-the-title-track/music",
+  "https://www.allmusic.com/album/popfly-mw0004879846",
+  "https://www.thelineofbestfit.com/news/michael-nau-reveals-plans-for-new-album-popfly",
+  "https://genius.com (lyric pages checked, all 10 tracks)",
+  "https://music.youtube.com/playlist?list=OLAK5uy_kUWIAYJ_9a9s0RneOl7dHClz0jXEtrODc"
+ ],
+ "links": {},
+ "zookeeper_tag": ""
+}

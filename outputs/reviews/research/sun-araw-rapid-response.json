@@ -1,0 +1,59 @@
+{
+ "artist": "Sun Araw",
+ "album": "Rapid Response",
+ "label": "Sun Ark",
+ "release_date": "2026-10-23",
+ "format": "12-inch EP",
+ "release_notes": [
+  "Cameron Stallones is the sole songwriter. Mixed by Jack Callahan.",
+  "Three long tracks, about 30 minutes. Catalog SA071, announced through Drag City.",
+  "UK retailers list Nov. 6, 2026. Bandcamp and Drag City say Oct. 23, 2026."
+ ],
+ "pull_quotes": [
+  {
+   "text": "Over its nine-and-a-half minutes, it moves like smoke.",
+   "source": "Bandcamp Daily",
+   "url": "https://daily.bandcamp.com/album-of-the-day/sun-araw-rapid-response-review"
+  }
+ ],
+ "draft_comment": "Three long Sun Araw pieces from Cameron Stallones, one an 11-minute closer. Drifting, psychedelic and made for a long set.",
+ "riyl_suggestions": [
+  "Can",
+  "Spacemen 3",
+  "M. Geddes Gengras",
+  "Pharoah Sanders"
+ ],
+ "tracks": [
+  {
+   "num": 1,
+   "title": "Proper",
+   "runtime": "9:26",
+   "fcc": "UNVERIFIED: no lyrics posted yet (check for vocals by ear)",
+   "notes": "Over 9 minutes. Opener."
+  },
+  {
+   "num": 2,
+   "title": "So Far",
+   "runtime": "8:33",
+   "fcc": "UNVERIFIED: no lyrics posted yet (check for vocals by ear)",
+   "notes": "Over 8 minutes."
+  },
+  {
+   "num": 3,
+   "title": "Clear Tint Ether",
+   "runtime": "11:49",
+   "fcc": "UNVERIFIED: no lyrics posted yet (check for vocals by ear)",
+   "notes": "Over 11 minutes. Closer."
+  }
+ ],
+ "sources": [
+  "https://sunaraw.bandcamp.com/album/rapid-response",
+  "https://daily.bandcamp.com/album-of-the-day/sun-araw-rapid-response-review",
+  "https://www.dragcity.com/news/2026-09-02-sun-araw-announce-rapid-response-new-album-out-oct-23rd-on-sun-ark",
+  "https://boomkat.com/artists/sun-araw/releases/s4qjuyyz/rapid-response",
+  "https://genius.com (no lyric pages found)",
+  "https://music.youtube.com/playlist?list=OLAK5uy_mrAyK3JoZuduEMcTueMQnNRL2HF9RuZj0"
+ ],
+ "links": {},
+ "zookeeper_tag": ""
+}

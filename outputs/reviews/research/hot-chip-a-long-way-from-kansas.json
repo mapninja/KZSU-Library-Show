@@ -1,0 +1,110 @@
+{
+ "artist": "Hot Chip",
+ "album": "A Long Way From Kansas",
+ "label": "Domino",
+ "release_date": "2027-01-08",
+ "format": "LP",
+ "release_notes": [
+  "Ninth studio album, following Freakout/Release (2022).",
+  "Recorded at Joe Goddard and Al Doyle's Relax and Enjoy studio in East London.",
+  "Guests: Beth Ditto and Eddie Chacon. 11 songs, about 55 minutes.",
+  "Not out until Jan. 8, 2027. Only \"Random Violence\" is released, so check tracks for FCC once the record is out."
+ ],
+ "pull_quotes": [],
+ "draft_comment": "Hot Chip's ninth, due in January, with Beth Ditto and Eddie Chacon guesting. Dark themes, dance-floor sound.",
+ "riyl_suggestions": [
+  "LCD Soundsystem",
+  "New Order",
+  "Caribou",
+  "!!!"
+ ],
+ "tracks": [
+  {
+   "num": 1,
+   "title": "Stuck Record",
+   "runtime": "4:23",
+   "fcc": "UNVERIFIED: no lyrics posted yet (Genius page exists, lyrics not posted)",
+   "notes": ""
+  },
+  {
+   "num": 2,
+   "title": "Waiting Around",
+   "runtime": "5:08",
+   "fcc": "UNVERIFIED: no lyrics posted yet (Genius page exists, lyrics not posted)",
+   "notes": ""
+  },
+  {
+   "num": 3,
+   "title": "Random Violence",
+   "runtime": "5:16",
+   "fcc": "CLEAN",
+   "notes": "Lead single. Tribute to JD Twitch (Optimo)."
+  },
+  {
+   "num": 4,
+   "title": "The Mask Is Slipping",
+   "runtime": "3:14",
+   "fcc": "UNVERIFIED: no lyrics posted yet (Genius page exists, lyrics not posted)",
+   "notes": ""
+  },
+  {
+   "num": 5,
+   "title": "Splinter",
+   "runtime": "3:38",
+   "fcc": "UNVERIFIED: no lyrics posted yet (Genius page exists, lyrics not posted)",
+   "notes": ""
+  },
+  {
+   "num": 6,
+   "title": "Shortcut To Love",
+   "runtime": "8:28",
+   "fcc": "UNVERIFIED: no lyrics posted yet (Genius page exists, lyrics not posted)",
+   "notes": "Over 8 minutes."
+  },
+  {
+   "num": 7,
+   "title": "Me In Your Head (feat. Beth Ditto)",
+   "runtime": "3:43",
+   "fcc": "UNVERIFIED: no lyrics posted yet (Genius page exists, lyrics not posted)",
+   "notes": "Features Beth Ditto."
+  },
+  {
+   "num": 8,
+   "title": "Hook Me Up",
+   "runtime": "4:15",
+   "fcc": "UNVERIFIED: no lyrics posted yet (Genius page exists, lyrics not posted)",
+   "notes": ""
+  },
+  {
+   "num": 9,
+   "title": "Secular Hymns",
+   "runtime": "5:47",
+   "fcc": "UNVERIFIED: no lyrics posted yet (Genius page exists, lyrics not posted)",
+   "notes": ""
+  },
+  {
+   "num": 10,
+   "title": "The Garden (feat. Eddie Chacon)",
+   "runtime": "4:25",
+   "fcc": "UNVERIFIED: no lyrics posted yet (Genius page exists, lyrics not posted)",
+   "notes": "Features Eddie Chacon."
+  },
+  {
+   "num": 11,
+   "title": "Crushing",
+   "runtime": "7:05",
+   "fcc": "UNVERIFIED: no lyrics posted yet (Genius page exists, lyrics not posted)",
+   "notes": "Over 7 minutes. Closer."
+  }
+ ],
+ "sources": [
+  "https://www.dominomusic.com/news/us/hot-chip-announce-new-album-a-long-way-from-kansas-will-be-released-january-8th-2027",
+  "https://stereogum.com/2514995/hot-chip-announce-new-album-a-long-way-from-kansas-hear-random-violence/music",
+  "https://thequietus.com/news/hot-chip-return-with-new-album-a-long-way-from-kansas/",
+  "https://consequence.net/2026/10/hot-chip-new-album-a-long-way-from-kansas/",
+  "https://genius.com/Hot-chip-random-violence-lyrics (Random Violence clean; other pages without lyrics)",
+  "https://music.youtube.com/playlist?list=OLAK5uy_nCIz44lE6phpWCMlBWqTrmIxngfJCzcSs"
+ ],
+ "links": {},
+ "zookeeper_tag": ""
+}

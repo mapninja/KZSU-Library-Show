@@ -1,0 +1,45 @@
+{
+ "artist": "Lambrini Girls",
+ "album": "The Basement / Spilt (singles)",
+ "label": "City Slang",
+ "release_date": "2026-10-20",
+ "format": "Double single",
+ "release_notes": [
+  "Brighton punk duo. Double single from the second album No Refunds, due Jan. 15, 2027.",
+  "\"The Basement\" deals with online radicalisation. \"Spilt\" is an acoustic song about alcohol dependency (Kerrang!).",
+  "Release date Oct. 20, 2026 comes from one source."
+ ],
+ "pull_quotes": [],
+ "draft_comment": "Lambrini Girls come back with two contrasting singles, one loud and one acoustic, ahead of No Refunds.",
+ "riyl_suggestions": [
+  "IDLES",
+  "Sleater-Kinney",
+  "L7",
+  "Amyl and The Sniffers"
+ ],
+ "tracks": [
+  {
+   "num": 1,
+   "title": "The Basement",
+   "runtime": "3:34",
+   "fcc": "FCC \"shit\" x3 (Chorus)",
+   "notes": "Loud punk single. Needs an edit."
+  },
+  {
+   "num": 2,
+   "title": "Spilt",
+   "runtime": "3:57",
+   "fcc": "CLEAN",
+   "notes": "Acoustic."
+  }
+ ],
+ "sources": [
+  "https://www.kerrang.com/lambrini-girls-drop-two-contrasting-singles-the-basement-and-spilt",
+  "https://www.thelineofbestfit.com/news/lambrini-girls-unveil-new-double-single-the-basement-spilt",
+  "https://femmusic.com/2026/10/20/lambrini-girls-the-basement-split/",
+  "https://genius.com/Lambrini-girls-the-basement-lyrics",
+  "https://genius.com/Lambrini-girls-spilt-lyrics"
+ ],
+ "links": {},
+ "zookeeper_tag": ""
+}
