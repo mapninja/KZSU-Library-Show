@@ -324,7 +324,7 @@
    "id": "1a0GwZeuAQh9K2XBPBaBDPo9XD_K0p-N14fmxxyHRTWM",
    "type": "sheet",
    "folder": "Show Prep",
-   "deployed": "2026-11-05T19:30Z",
+   "deployed": "2026-11-05T21:45Z",
    "working": "Working/notes_sheet_2026-11-05.csv",
    "retired": [
     {
@@ -335,27 +335,27 @@
    ],
    "hash": "cb45e622fc54f1bdde0b82dce1e20fc0",
    "title": "Library Show Working Playlist Notes Sheet 2026-11-05",
-   "note": "Thu. Nov. 5 rerun (11:20 a.m. PT): patched in place with update_values A1:N56, link unchanged. 51 airable tracks, 3:09:00. Stace's Cull/Replace ticks executed in the plan and cleared from the Sheet. UNKLE giveaway added as Hour 2, Set 7."
+   "note": "Nov. 5 3-hour rerun (Stace fills in for Suzi Boneshaker 5 to 6 p.m.): patched in place A1:N68, link unchanged. 67 tracks, 4:11:45 (16 new 5 p.m. tracks in Hour 1, Sets 1 to 5; old sets renumbered 6 to 15). No Stace ticks in the Sheet at patch time."
   },
   "working_show_script_2026-11-05": {
    "id": null,
    "type": "docx+pdf (raw files)",
    "folder": "Show Prep",
-   "deployed": "2026-11-05T19:30Z",
+   "deployed": "2026-11-05T21:45Z",
    "working": "Library Show Script 2026-11-05 (DRAFT).docx and .pdf in /KZSU/Show Prep/ and repo outputs/recon/2026-11-05/",
    "retired": [
     "Library Show Working Show Script 2026-11-05 (Landscape Tables) .docx/.pdf moved to _to_delete"
    ],
-   "note": "Landscape tables, 13 pages, 51 tracks, 3:09:00. Rebuilt Nov. 5 rerun with UNKLE giveaway."
+   "note": "Landscape tables, 16 pages, 67 tracks, 4:11:45, three hours (5 to 8 p.m.). Hour bands at 0:00, 1:02:45, 2:35:51."
   },
   "zookeeper_csv_2026-11-05_draft": {
    "id": null,
    "type": "csv-raw",
    "folder": "Working",
-   "deployed": "2026-11-05T19:30Z",
+   "deployed": "2026-11-05T21:45Z",
    "working": "Working/library_show_playlist_2026-11-05.csv",
    "retired": [],
-   "note": "Draft, reversed order, FCC-held and no-tag rows handled by render_show_files.py. Not final: rebuilt by kzsu-show-build."
+   "note": "Draft, reversed order, 3-hour show. Not final."
   },
   "review_suggestions_2026-10-29": {
    "id": null,

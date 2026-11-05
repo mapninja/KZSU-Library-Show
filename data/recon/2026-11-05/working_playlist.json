@@ -33,6 +33,458 @@
  ],
  "sets": [
   {
+   "set": "Hour 1, Set 1: New this week (out Oct. 30)",
+   "tracks": [
+    {
+     "artist": "Editors",
+     "track": "The Hills We Died Upon",
+     "album": "Surface, Echo & Sound",
+     "label": "Play It Again Sam Records",
+     "label_source": "zookeeper label table (id 2444)",
+     "tag": "",
+     "released": "2026-10-30",
+     "type": "album track",
+     "upcoming": "",
+     "duration": "4:01",
+     "priority": "X",
+     "why": "Out today on [PIAS] (indieisnotagenre). (Friday sweep Oct. 30, New Oct. 30).",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, 379 words).",
+     "source": "Friday sweep Oct. 30",
+     "videoId": "9tUu9SjKj7w",
+     "credits": "Prod: Justin Lockey and Editors (album); recorded at Unit 3, Tetbury, UK; mixed by Craig Silvey; 2026",
+     "related": "",
+     "notes": "Editors made Surface, Echo & Sound with producer Justin Lockey, and \"The Hills We Died Upon\" is the album's final, eleventh track.",
+     "notes_source": "web search summaries (Nov. 5 rerun)",
+     "sources": [
+      "https://editors.bandcamp.com/album/surface-echo-sound",
+      "https://www.qobuz.com/ca-en/album/surface-echo-sound-editors/ge9xvbdge4ahk",
+      "https://www.gigshack.co.uk/albums/editors-surface-echo-sound"
+     ]
+    },
+    {
+     "artist": "WHY?",
+     "track": "Not Really Stranger",
+     "album": "Oh Golly / Yes Lord",
+     "label": "Waterlines",
+     "label_source": "web; not in Zookeeper label table",
+     "tag": "",
+     "released": "2026-10-30",
+     "type": "album track",
+     "upcoming": "",
+     "duration": "3:35",
+     "priority": "X",
+     "why": "Chaos Theory was screened first and has FCC hits, so this track was swapped in. (Friday sweep Oct. 30, New Oct. 30).",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, 181 words).",
+     "source": "Friday sweep Oct. 30",
+     "videoId": "5c8IwzsC91o",
+     "credits": "Prod: Yoni Wolf and Josiah Wolf (co-producer), with Nate Mercereau shaping the Oh Golly half; production consulting by Andrew Broder and Ryan Olson; studio not found; 2026",
+     "related": "Josiah Wolf (co-producer); Andrew Broder; Ryan Olson (production consultants); Nate Mercereau (collaborator)",
+     "notes": "\"Not Really Stranger\" is track five on WHY?'s ninth album, which arrives in two halves, Oh Golly and Yes Lord, with Nate Mercereau on nearly all of the first.",
+     "notes_source": "web search summaries (Nov. 5 rerun)",
+     "sources": [
+      "https://cincymusic.com/blog/2026/08/why-returns-with-introspective-new-album-oh-golly-yes-lord-shares-lead-single-in-spirit",
+      "https://www.broadwayworld.com/bwwmusic/article/WHY-to-Release-New-Album-Oh-Golly-Yes-Lord-20260803",
+      "http://post-trash.com/news/2026/11/4/why-oh-golly-yes-lord-album-review",
+      "https://whywithaquestionmark.bandcamp.com/album/oh-golly-yes-lord"
+     ]
+    },
+    {
+     "artist": "The Big Moon",
+     "track": "F.O.R.E.V.E.R",
+     "album": "Forever",
+     "label": "Fiction Records",
+     "label_source": "zookeeper label table (id 1173)",
+     "tag": "",
+     "released": "2026-10-30",
+     "type": "single",
+     "upcoming": "Album Forever, out Oct. 30",
+     "duration": "4:11",
+     "priority": "X",
+     "why": "Seven past spins on the show. (Friday sweep Oct. 30, New Oct. 30).",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, 196 words).",
+     "source": "Friday sweep Oct. 30",
+     "videoId": "uRawjI1x6Bg",
+     "credits": "Prod: The Big Moon and Sam Cohen; recorded over three weeks at Bam Bam Studios, Norfolk, UK; 2026",
+     "related": "Sam Cohen (co-producer, Kevin Morby collaborator)",
+     "notes": "The Big Moon recorded their fourth album, Forever, in three weeks at Bam Bam Studios in Norfolk, co-produced with Sam Cohen; this title track is song four.",
+     "notes_source": "web search summaries (Nov. 5 rerun)",
+     "sources": [
+      "https://www.godisinthetvzine.co.uk/2026/10/30/the-big-moon-forever-fiction-records/",
+      "https://faroutmagazine.co.uk/the-big-moon-forever-album-review/",
+      "https://www.thelineofbestfit.com/news/the-big-moon-return-with-announcement-of-fourth-album-forever-and-share-lead-single-gravity"
+     ]
+    }
+   ]
+  },
+  {
+   "set": "Hour 1, Set 2: Stace's Next Show adds and 2026 singles",
+   "tracks": [
+    {
+     "artist": "Cut Worms",
+     "track": "Evil Twin",
+     "album": "Transmitter",
+     "label": "Jagjaguwar",
+     "label_source": "zookeeper label table (id 9332); album not in library",
+     "tag": "",
+     "released": "2026-03-13 (album)",
+     "type": "album track",
+     "upcoming": "",
+     "duration": "5:01",
+     "priority": "X",
+     "why": "In Stace's Next Show playlist.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, 216 words).",
+     "source": "Next Show (Stace add)",
+     "videoId": "jMlssW90uwg",
+     "credits": "Prod: Jeff Tweedy; recorded mostly live with Tweedy and Glenn Kotche of Wilco, partly at Wilco's Loft studio, Chicago; single 2025, album 2026",
+     "related": "Jeff Tweedy and Glenn Kotche (Wilco) played on the recording; Cut Worms is Max Clarke",
+     "notes": "Cut Worms' \"Evil Twin\" was produced by Jeff Tweedy, recorded mostly live with Wilco's Tweedy and Glenn Kotche, and appears on the 2026 album Transmitter.",
+     "notes_source": "web search summaries (Nov. 5 rerun)",
+     "sources": [
+      "https://cutworms.bandcamp.com/track/evil-twin-2",
+      "https://www.thelineofbestfit.com/news/cut-worms-announces-jeff-tweedy-produced-fourth-album-transmitter",
+      "https://northerntransmissions.com/cut-worms-debuts-new-single-evil-twin/",
+      "https://www.shazam.com/song/1829471666/evil-twin"
+     ]
+    },
+    {
+     "artist": "Guided By Voices",
+     "track": "Lost in the Sun",
+     "album": "Crawlspace of the Pantheon",
+     "label": "GBV Inc. Records",
+     "label_source": "web; not in Zookeeper label table",
+     "tag": "",
+     "released": "2026-05-29 (album)",
+     "why": "In Stace's Next Show playlist.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN",
+     "priority": "X",
+     "source": "Next Show (Stace add)",
+     "videoId": "dfiR6XtYdzY",
+     "duration": "2:17",
+     "source_url": "https://en.wikipedia.org/wiki/Crawlspace_of_the_Pantheon",
+     "credits": "Prod: Travis Harrison; recorded at Serious Business Music (per Discogs credits); 2026",
+     "related": "Lineup: Robert Pollard, Doug Gillard, Bobby Bare Jr., Mark Shue, Kevin March",
+     "notes": "\"Lost in the Sun\" opens Crawlspace of the Pantheon, produced by Travis Harrison, who has produced every Guided By Voices album since 2017.",
+     "notes_source": "web search summaries (Nov. 5 rerun)",
+     "sources": [
+      "https://en.wikipedia.org/wiki/Crawlspace_of_the_Pantheon",
+      "https://northerntransmissions.com/crawlspace-of-the-pantheon-review/",
+      "https://thefirenote.com/reviews/guided-by-voices-crawlspace-of-the-pantheon-album-review/",
+      "https://www.discogs.com/release/37479696-Guided-By-Voices-Crawlspace-Of-The-Pantheon"
+     ]
+    },
+    {
+     "artist": "Jozef Van Wissem & Jim Jarmusch",
+     "track": "Never Like You Said (feat. Courtney Barnett)",
+     "album": "Bocca di Lupo / Mouth of the Wolf",
+     "label": "Sacred Bones Records",
+     "label_source": "zookeeper label table (id 17966)",
+     "tag": "",
+     "released": "2026-09-09 (single)",
+     "type": "single",
+     "upcoming": "Double album, Nov. 6",
+     "duration": "5:24",
+     "priority": "X",
+     "why": "Single Sept. 9; album Nov. 6 on Sacred Bones (verify).",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, Oct. 13 screen).",
+     "source": "carried from an earlier plan",
+     "videoId": "3GytZtSR-lw",
+     "notes": "Jozef van Wissem and Jim Jarmusch, with Courtney Barnett guesting. Single dated Sept. 9, 2026 (one source; verify).",
+     "credits": "",
+     "related": "Courtney Barnett (guest vocals)",
+     "notes_source": "bench data only; no new research"
+    }
+   ]
+  },
+  {
+   "set": "Hour 1, Set 3: Punk and kin",
+   "tracks": [
+    {
+     "artist": "2nd Grade",
+     "track": "Anywhere Girls",
+     "album": "Girls and Boys",
+     "label": "Lame-O Records",
+     "label_source": "zookeeper label table (id 20915)",
+     "tag": "",
+     "released": "2026 (album Oct. 30)",
+     "type": "single",
+     "upcoming": "Album Girls and Boys, out Oct. 30",
+     "duration": "1:50",
+     "priority": "X",
+     "why": "Punk focus pick. Under two minutes. (Friday sweep Oct. 30, New Oct. 30).",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, 218 words).",
+     "source": "Friday sweep Oct. 30",
+     "videoId": "fdfS5LDO_Wg",
+     "credits": "Producer and studio not found; 2026",
+     "related": "",
+     "notes": "\"Anywhere Girls\" is track four of 20 on Girls and Boys, 2nd Grade's first Lame-O album, and guitarist Catherine Dwyer sings lead on it.",
+     "notes_source": "web search summaries (Nov. 5 rerun)",
+     "sources": [
+      "https://stereogum.com/2509289/2nd-grade-announce-new-album-girls-and-boys-hear-anywhere-girls/music",
+      "https://2ndgrade.bandcamp.com/album/girls-and-boys",
+      "https://lameorecords.com/products/2nd-grade-girls-and-boys",
+      "https://northerntransmissions.com/anywhere-girls-by-2nd-grade/"
+     ]
+    },
+    {
+     "artist": "BODEGA",
+     "track": "Slow Train",
+     "album": "All Inside Aquarium",
+     "label": "Chrysalis Records",
+     "label_source": "web; not in Zookeeper label table",
+     "tag": "",
+     "released": "2026-10-06 (single; album All Inside Aquarium Oct. 9)",
+     "type": "single",
+     "upcoming": "",
+     "duration": "3:52",
+     "priority": "X",
+     "why": "Cover of Bob Dylan's 1979 song (original: Bob Dylan, Slow Train Coming).",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, 239 words).",
+     "source": "Next Show (Stace add)",
+     "videoId": "4TnhLA3yQaU",
+     "credits": "Prod: Matt Peel; recorded at The Nave, Leeds (a deconsecrated church); mixed in Brighton with Theo Verney; 2026",
+     "related": "",
+     "notes": "BODEGA's \"Slow Train\" reworks Bob Dylan's 1979 song and was the first track the band recorded with producer Matt Peel at The Nave in Leeds.",
+     "notes_source": "web search summaries (Nov. 5 rerun)",
+     "sources": [
+      "https://www.beatport.com/track/slow-train/29344579",
+      "https://audiomack.com/bodega-11/song/slow-train-1",
+      "https://northerntransmissions.com/bodega-cover-bob-dylans-slow-train/",
+      "https://www.discogs.com/release/38801895-Bodega-All-Inside-Aquarium"
+     ]
+    },
+    {
+     "artist": "Fugazi",
+     "track": "Full Disclosure",
+     "album": "The Argument",
+     "label": "Dischord",
+     "label_source": "zookeeper album 640684",
+     "tag": "640684",
+     "released": "2001-10 (25th anniversary; listed Oct. 11, verify)",
+     "type": "single",
+     "upcoming": "",
+     "duration": "3:54",
+     "priority": "X",
+     "why": "Punk focus alternate. Fugazi, Washington D.C. hardcore arc.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, 223 words).",
+     "source": "carried from an earlier plan",
+     "videoId": "V9WCjEsPP0U",
+     "notes": "Full Disclosure is from The Argument (Dischord, 2001), Fugazi's last studio album. Release day not confirmed; verify.",
+     "credits": "",
+     "related": "",
+     "notes_source": "bench data and general knowledge; verify"
+    }
+   ]
+  },
+  {
+   "set": "Hour 1, Set 4: Bay Area ties and albums out Nov. 6",
+   "tracks": [
+    {
+     "artist": "Squirrel Flower",
+     "track": "i don’t use a trash can",
+     "album": "Tomorrow's Fire",
+     "label": "Polyvinyl Record Co.",
+     "label_source": "zookeeper label table (id 11217)",
+     "tag": "",
+     "released": "2023-10-13 (album)",
+     "type": "single/album track",
+     "upcoming": "",
+     "duration": "2:58",
+     "priority": "X",
+     "why": "Chapel, S.F., Thu. Nov. 5, with Sour Widows. (Friday sweep Oct. 30, Bay Area).",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, 105 words).",
+     "source": "Friday sweep Oct. 30",
+     "videoId": "ad_jbZQAEkE",
+     "credits": "Prod: Ella Williams and Alex Farrar; recorded at Drop of Sun Studios, Asheville, NC; 2023",
+     "related": "Studio band: Matt McCaughan (Bon Iver), Seth Kauffman (Angel Olsen band), Jake Lenderman (MJ Lenderman), Dave Hartley (The War on Drugs)",
+     "notes": "\"i don't use a trash can\" opens Tomorrow's Fire and re-imagines the first Squirrel Flower song; Alex Farrar co-produced the album at Drop of Sun in Asheville.",
+     "notes_source": "web search summaries (Nov. 5 rerun)",
+     "sources": [
+      "https://en.wikipedia.org/wiki/Tomorrow's_Fire",
+      "https://www.polyvinylrecords.com/products/squirrel-flower-tomorrows-fire",
+      "https://www.pastemagazine.com/music/squirrel-flower/tomorrows-fire-signals-a-new-era-of-squirrel-flower"
+     ]
+    },
+    {
+     "artist": "Grant-Lee Phillips",
+     "track": "Mobilize",
+     "album": "Mobilize",
+     "label": "Zoe Records",
+     "label_source": "zookeeper label table (id 10538); album not in library",
+     "tag": "",
+     "released": "2001 (album)",
+     "type": "album track",
+     "upcoming": "",
+     "duration": "4:08",
+     "priority": "X",
+     "why": "Fri. Nov. 6, Hopmonk Tavern, Novato.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, 256 words).",
+     "source": "recon",
+     "videoId": "mKfRt3Yt0HE",
+     "credits": "Prod: Grant-Lee Phillips and Carmen Rizzo (per Amoeba credits); studio not found; 2001",
+     "related": "Grant Lee Buffalo (his earlier band; not in the fetched snippets, verify)",
+     "notes": "Mobilize is Grant-Lee Phillips' second solo album, released in 2001 on Zoe, with Phillips playing nearly everything and using a drum machine on most tracks.",
+     "notes_source": "web search summaries (Nov. 5 rerun)",
+     "sources": [
+      "https://en.wikipedia.org/wiki/Mobilize_(Grant-Lee_Phillips_album)",
+      "https://www.amoeba.com/mobilize-cd-grant-lee-phillips/albums/610458/",
+      "https://music.apple.com/us/album/mobilize/1463822573",
+      "https://www.discogs.com/release/14566042-Grant-Lee-Phillips-Mobilize"
+     ]
+    },
+    {
+     "artist": "Do Nothing",
+     "track": "Stars",
+     "album": "Friend World",
+     "label": "Submarine Cat Records",
+     "label_source": "web; not in Zookeeper label table",
+     "tag": "",
+     "released": "2026 (single; album Nov. 6, 2026)",
+     "type": "single",
+     "upcoming": "Album Friend World, Nov. 6",
+     "duration": "2:53",
+     "priority": "X",
+     "why": "Album out the day after the show (indieisnotagenre). (Friday sweep Oct. 30, Out Nov. 6).",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, 195 words).",
+     "source": "Friday sweep Oct. 30",
+     "videoId": "L9-rw6st42U",
+     "credits": "Prod: Louis Milburn (also mixed); recorded in Nottingham at JT Soar; 2026",
+     "related": "Louis Milburn of Folly Group (producer)",
+     "notes": "\"Stars\" is the lead single from Friend World, the Nottingham band's second album, produced and mixed by Louis Milburn of Folly Group.",
+     "notes_source": "web search summaries (Nov. 5 rerun)",
+     "sources": [
+      "https://diymag.com/news/do-nothing-new-album-friend-world-stars",
+      "https://www.clashmusic.com/news/do-nothing-announce-second-album-friend-world/",
+      "https://www.nme.com/news/music/do-nothing-announce-new-album-friend-world-with-melancholic-single-stars-3950359"
+     ]
+    },
+    {
+     "artist": "Hudson Freeman",
+     "track": "I-40",
+     "album": "Doom Country",
+     "label": "Mom + Pop",
+     "label_source": "zookeeper label table (id 17539)",
+     "tag": "",
+     "released": "2026 (single; album Nov. 6, 2026)",
+     "type": "single",
+     "upcoming": "Album Doom Country, Nov. 6",
+     "duration": "3:55",
+     "priority": "X",
+     "why": "Album out the day after the show (indieisnotagenre). (Friday sweep Oct. 30, Out Nov. 6).",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, 86 words).",
+     "source": "Friday sweep Oct. 30",
+     "videoId": "BJTHwRbdBTM",
+     "credits": "Producer and studio not found in sources; 2026",
+     "related": "Sophie Brown (wife, duets on \"Fell Ass Backwards\")",
+     "notes": "\"I-40\" was released as a single ahead of Doom Country, Hudson Freeman's first album for Mom + Pop and the follow-up to 2025's is a Folk Artist.",
+     "notes_source": "web search summaries (Nov. 5 rerun)",
+     "sources": [
+      "https://stereogum.com/2513258/hudson-freeman-announces-new-album-doom-country-hear-fell-ass-backwards/music",
+      "https://www.pastemagazine.com/music/hudson-freeman/hudson-freeman-announces-new-album-doom-country",
+      "https://www.jambase.com/article/hudson-freeman-new-album-doom-country-fell-ass-backwards-single"
+     ]
+    }
+   ]
+  },
+  {
+   "set": "Hour 1, Set 5: 1986, 40 years: Nov. 3 and 4",
+   "tracks": [
+    {
+     "artist": "They Might Be Giants",
+     "track": "Don't Let's Start",
+     "album": "They Might Be Giants",
+     "label": "Bar/None Records",
+     "label_source": "zookeeper album 979971",
+     "tag": "979971",
+     "released": "1986-11-04 (verify)",
+     "type": "album track",
+     "upcoming": "",
+     "duration": "2:37",
+     "priority": "X",
+     "why": "40th anniversary of the debut, Nov. 4, 1986 (thestupidweb.com, from Wikidata; one source). (Friday sweep Oct. 30, Anniversary).",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, 312 words).",
+     "source": "Friday sweep Oct. 30",
+     "videoId": "UNLqGTSRln8",
+     "credits": "Producer and studio not found; 1986",
+     "related": "",
+     "notes": "\"Don't Let's Start\" was a single from They Might Be Giants' 1986 self-titled debut on Bar/None, and its music video was directed by Adam Bernstein.",
+     "notes_source": "web search summaries (Nov. 5 rerun)",
+     "sources": [
+      "https://en.wikipedia.org/wiki/They_Might_Be_Giants_(album)",
+      "https://rateyourmusic.com/release/album/they-might-be-giants/they-might-be-giants/",
+      "https://tmbw.net/wiki/They_Might_Be_Giants_(Album)/Release_Details"
+     ]
+    },
+    {
+     "artist": "Pretenders",
+     "track": "My Baby (2007 Remaster)",
+     "album": "Get Close",
+     "label": "Sire Records",
+     "label_source": "zookeeper label table (id 10047); original UK label Real Records",
+     "tag": "",
+     "released": "1986 (US Nov. 4)",
+     "type": "album track",
+     "upcoming": "",
+     "duration": "4:08",
+     "priority": "X",
+     "why": "40th anniversary of Get Close, Nov. 4, 1986 (thestupidweb.com, from Wikidata; one source). YTM lists the 2007 remaster. (Friday sweep Oct. 30, Anniversary).",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, 161 words).",
+     "source": "Friday sweep Oct. 30",
+     "videoId": "Ju-eHbKHr1k",
+     "credits": "Prod: Bob Clearmountain and Jimmy Iovine (Steve Lillywhite produced only \"Room Full of Mirrors\"); studio not found; 1986",
+     "related": "",
+     "notes": "\"My Baby\" opens Get Close, which came out in the UK on Oct. 20, 1986; Bob Clearmountain and Jimmy Iovine produced all but one track.",
+     "notes_source": "web search summaries (Nov. 5 rerun)",
+     "sources": [
+      "https://en.wikipedia.org/wiki/Get_Close",
+      "https://www.thecurrent.org/feature/2026/11/04/nov-4-in-music-history-the-pretenders-released-get-close",
+      "https://www.allmusic.com/album/get-close-mw0000195344"
+     ]
+    },
+    {
+     "artist": "Nick Cave & The Bad Seeds",
+     "track": "The Carny",
+     "album": "Your Funeral... My Trial",
+     "label": "Mute",
+     "label_source": "zookeeper label table (id 22067); album not checked",
+     "tag": "",
+     "released": "1986-11-03",
+     "type": "album track",
+     "upcoming": "",
+     "duration": "8:01",
+     "priority": "X",
+     "why": "40th anniversary of Your Funeral... My Trial, Nov. 3, 1986 (thestupidweb.com, from Wikidata). YTM lists the 2009 remaster. (Friday sweep Oct. 30, Anniversary).",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, 453 words).",
+     "source": "Friday sweep Oct. 30",
+     "videoId": "dt8TykotuoM",
+     "credits": "Prod: The Bad Seeds with Flood and Tony Cohen; recorded at Hansa Tonstudio, West Berlin, with sessions at Strongroom, London; July to Aug. 1986",
+     "related": "Flood (engineer, co-producer); Tony Cohen (engineer, co-producer); Mick Harvey (Bad Seeds, brought in the old grand piano parts)",
+     "notes": "\"The Carny\" was among the first tracks cut for Your Funeral... My Trial, recorded at Hansa Studios in West Berlin and co-produced with Flood and Tony Cohen.",
+     "notes_source": "web search summaries (Nov. 5 rerun)",
+     "sources": [
+      "https://en.wikipedia.org/wiki/Your_Funeral..._My_Trial",
+      "https://en.wikipedia.org/wiki/The_Carny",
+      "https://www.discogs.com/release/683287-Nick-Cave-The-Bad-Seeds-Your-Funeral--My-Trial"
+     ]
+    }
+   ]
+  },
+  {
    "set": "Hour 1, Set 1: New this week (out Oct. 30) and Twisted Teens",
    "tracks": [
     {
@@ -1358,7 +1810,7 @@
   "default_rule_result": "No November ticket sheet in the repo. UNKLE giveaway added at Stace's request (Nov. 5); show details from the Bay Area list and search listings.",
   "proposed": "UNKLE, Mon. Nov. 30, 2026, The Independent, 628 Divisadero St., S.F. Show 8 p.m., doors 7:30 p.m., 21+. Tickets from $55.64 on TicketWeb (verify). Opener not found. Play Restless (feat. Josh Homme) and give away after it (Hour 2, Set 7).",
   "flag": "Confirm before air: number of tickets, which DJ gives them, give-by date, rules, call-in number. None of these were supplied.",
-  "placement": "Hour 2, after the Bay Area set (Set 6) and UNKLE Restless; promos on the opening break, end of Hour 1 and after the Triple Shot."
+  "placement": "7 p.m. hour, after the Bay Area set (Set 11) and UNKLE Restless (Set 12); promos on the opening break, the 6 p.m. open, end of the 6 p.m. hour and after the Triple Shot."
  },
  "bay_area_shows": [
   {
@@ -1484,27 +1936,46 @@
  ],
  "mic_breaks": {
   "opening": [
+   "Filling in for Suzi Boneshaker, 5 to 6 p.m. (adjust to her usual open). Then The Library with DJ Stace, 6 to 8 p.m.",
+   "Tonight: albums out Oct. 30 (Editors, WHY?, The Big Moon), 40 years of Nov. 3 and 4, 1986 releases, Bay Area shows tonight and this weekend.",
+   "PROMO: UNKLE tickets to give away in the 7 p.m. hour."
+  ],
+  "after_set_1": [
+   "Editors' Surface, Echo & Sound is out Oct. 30 on Play It Again Sam. WHY?'s Oh Golly / Yes Lord is out Oct. 30 on Waterlines. The Big Moon's Forever is out Oct. 30 on Fiction."
+  ],
+  "after_set_2": [
+   "Cut Worms' Transmitter, produced by Jeff Tweedy, is out on Jagjaguwar. Guided By Voices' Crawlspace of the Pantheon came out May 29.",
+   "Jozef van Wissem and Jim Jarmusch, with Courtney Barnett."
+  ],
+  "after_set_3": [
+   "BODEGA covered Bob Dylan's Slow Train. 2nd Grade's Girls and Boys is on Lame-O. Fugazi's The Argument came out in 2001 on Dischord."
+  ],
+  "after_set_4": [
+   "Tonight, Thu. Nov. 5: Squirrel Flower with Sour Widows at Chapel in San Francisco. Fri. Nov. 6: Grant-Lee Phillips at Hopmonk Tavern in Novato. Do Nothing's Friend World and Hudson Freeman's Doom Country are both out tomorrow, Nov. 6."
+  ],
+  "after_set_5": [
+   "Station ID at the top of the hour. Intro to The Library with DJ Stace, KZSU 90.1 FM.",
    "Punk and post-punk focus, week 4 of 4 before the Nov. 12 review: Avengers, Bauhaus and TV Priest tonight.",
    "Queens of the Stone Age, Clinic, DIIV, Ex:Re, Sennen and Thao all released albums Oct. 30.",
    "Wilco's Being There turned 30 on Oct. 29. Johnny Cash's Unchained is dated Nov. 5, 1996 by Wikipedia (johnnycash.com lists Oct. 22: verify).",
-   "PROMO: UNKLE tickets to give away later this hour. UNKLE plays the Independent in San Francisco on Mon. Nov. 30."
+   "PROMO: UNKLE tickets to give away in the 7 p.m. hour. UNKLE plays the Independent in San Francisco on Mon. Nov. 30."
   ],
-  "after_set_1": [
+  "after_set_6": [
    "Perfecth is the ninth QOTSA album, on Matador, produced by Josh Homme and Michael Shuman. It has nine tracks and four singles.",
    "Clinic's Wild in the Streets is their tenth album, on Domino. Sennen's New Quiet is their first in ten years, on Sonic Cathedral.",
    "DIIV's ZIRP! was produced by A. G. Cook. Ex:Re is Elena Tonra of Daughter; Save As is out on 4AD."
   ],
-  "after_set_2": [
+  "after_set_7": [
    "Philip Frobos of Omni has a solo album, Taste for the Unsavory, due Jan. 29. Mr. Dinkles, a Los Angeles duo, released Brain on Oct. 30 (one source for that date).",
    "Westside Cowboy's debut album, It Goes On, came out Aug. 21 on Island."
   ],
-  "after_set_3": [
+  "after_set_8": [
    "Reviewed this month and in rotation: Twisted Teens, Palace, Lex Walton, Ty Segall, This Is Lorelei, The Fall, Sylvan Esso and Yard Act.",
    "Lex Walton's Ultimate Love Forever is out as CD and LP Nov. 20 on Sub Pop. Twisted Teens' Holy Cross Tigers is out tomorrow, Nov. 6, on Sub Pop.",
-   "Station ID at the top of the hour.",
-   "PROMO: UNKLE tickets coming up in Hour 2."
+   "PROMO: UNKLE tickets coming up in the 7 p.m. hour."
   ],
-  "after_set_4": [
+  "after_set_9": [
+   "Station ID at the top of the hour (7 p.m.).",
    "My Bloody Valentine's Loveless came out Nov. 4, 1991 on Creation in the UK. Teenage Fanclub's Bandwagonesque came out the same month, also on Creation.",
    "Wilco's Being There: Oct. 29, 1996, Reprise. Johnny Cash's Unchained: Nov. 5, 1996, American Recordings, with Tom Petty and the Heartbreakers. Rusty Cage is a Soundgarden song.",
    "Aphex Twin's Richard D. James Album came out Nov. 4, 1996 on Warp. The National's debut came out Oct. 30, 2001 (verify).",
@@ -1514,20 +1985,20 @@
    "Caroline Rose's new album came out Oct. 23 on SUCK Records, her own label. John Congleton produced it at Animal Rites in Los Angeles.",
    "PROMO: UNKLE tickets after the Bay Area shows."
   ],
-  "after_set_6": [
+  "after_set_11": [
    "Tonight, Thu. Nov. 5: Team Dresch at Bottom of the Hill, The Black Angels at the Regency Ballroom, Squirrel Flower with Sour Widows at Chapel, Colleen Green at the Ivy Room in Albany.",
    "Fri. Nov. 6: King Buffalo with L.A. Witch at the Independent. Sat. Nov. 7: Big Star Quintet at the Fillmore. Sun. Nov. 8: Thao's album release at the Independent.",
    "Coming up: a pair of tickets to see UNKLE at the Independent on Nov. 30."
   ],
-  "after_set_7": [
+  "after_set_12": [
    "TICKET GIVEAWAY: UNKLE at the Independent, 628 Divisadero St., San Francisco, Mon. Nov. 30. Show at 8 p.m., doors 7:30, 21 and over.",
    "Josh Homme sings on Restless, from UNKLE's 2007 album War Stories. Homme's Queens of the Stone Age opened the show tonight.",
    "CONFIRM BEFORE AIR: number of tickets, give-by date, which DJ gives them, rules and call-in number. Not supplied."
   ],
-  "after_set_8": [
+  "after_set_13": [
    "TV Priest's Cartoons is out tomorrow, Nov. 6. Bauhaus's Passion of Lovers came out as a single in 1981, before the Mask album."
   ],
-  "after_set_9": [
+  "after_set_14": [
    "Kraftwerk's Numbers is from Computer World (1981). Cabaret Voltaire's Sensoria came out as a single in October 1984 and is on Micro-Phonies."
   ],
   "closing": [
@@ -1608,42 +2079,6 @@
    "videoId": "yrldgm5LjRc"
   },
   {
-   "artist": "Grant-Lee Phillips",
-   "track": "Mobilize",
-   "album": "Mobilize",
-   "label": "unverified",
-   "label_source": "not checked in zookeeper",
-   "tag": "",
-   "released": "2004",
-   "type": "album track",
-   "upcoming": "",
-   "duration": "4:08",
-   "priority": "X",
-   "why": "Fri. Nov. 6, Hopmonk Tavern, Novato.",
-   "fcc_status": "CLEAN",
-   "fcc_note": "CLEAN (Genius, 256 words).",
-   "source": "recon",
-   "videoId": "mKfRt3Yt0HE"
-  },
-  {
-   "artist": "Cut Worms",
-   "track": "Evil Twin",
-   "album": "",
-   "label": "unverified",
-   "label_source": "not checked in zookeeper",
-   "tag": "",
-   "released": "2026",
-   "type": "single",
-   "upcoming": "",
-   "duration": "5:01",
-   "priority": "X",
-   "why": "In Stace's Next Show playlist.",
-   "fcc_status": "CLEAN",
-   "fcc_note": "CLEAN (Genius, 216 words).",
-   "source": "Next Show (Stace add)",
-   "videoId": "jMlssW90uwg"
-  },
-  {
    "artist": "Father John Misty",
    "track": "Trouble",
    "album": "",
@@ -1678,24 +2113,6 @@
    "fcc_note": "CLEAN (Genius, 348 words).",
    "source": "Next Show (Stace add)",
    "videoId": "yl3fIXaAXow"
-  },
-  {
-   "artist": "BODEGA",
-   "track": "Slow Train",
-   "album": "",
-   "label": "unverified",
-   "label_source": "not checked in zookeeper",
-   "tag": "",
-   "released": "2026",
-   "type": "single",
-   "upcoming": "",
-   "duration": "3:52",
-   "priority": "X",
-   "why": "In Stace's Next Show playlist.",
-   "fcc_status": "CLEAN",
-   "fcc_note": "CLEAN (Genius, 239 words).",
-   "source": "Next Show (Stace add)",
-   "videoId": "4TnhLA3yQaU"
   },
   {
    "artist": "Jesse Welles",
@@ -1797,41 +2214,6 @@
    "research_confidence": "high"
   },
   {
-   "artist": "Fugazi",
-   "track": "Full Disclosure",
-   "album": "The Argument",
-   "label": "Dischord Records",
-   "label_source": "past spin",
-   "tag": "",
-   "released": "2001-10 (25th anniversary; listed Oct. 11, verify)",
-   "type": "single",
-   "upcoming": "",
-   "duration": "3:54",
-   "priority": "X",
-   "why": "Punk focus alternate. Fugazi, Washington D.C. hardcore arc.",
-   "fcc_status": "CLEAN",
-   "fcc_note": "CLEAN (Genius, 223 words).",
-   "source": "carried from an earlier plan",
-   "videoId": "V9WCjEsPP0U"
-  },
-  {
-   "artist": "Guided By Voices",
-   "track": "Lost in the Sun",
-   "album": "Crawlspace of the Pantheon",
-   "label": "GBV Inc. Records",
-   "label_source": "web: Wikipedia, Bandcamp",
-   "tag": "",
-   "released": "2026-05-29 (album)",
-   "why": "In Stace's Next Show playlist.",
-   "fcc_status": "CLEAN",
-   "fcc_note": "CLEAN",
-   "priority": "X",
-   "source": "Next Show (Stace add)",
-   "videoId": "dfiR6XtYdzY",
-   "duration": "2:17",
-   "source_url": "https://en.wikipedia.org/wiki/Crawlspace_of_the_Pantheon"
-  },
-  {
    "artist": "SAULT",
    "track": "Wildfires",
    "album": "Untitled (Black Is)",
@@ -1878,24 +2260,6 @@
    "research_confidence": "high"
   },
   {
-   "artist": "Jozef Van Wissem & Jim Jarmusch",
-   "track": "Never Like You Said (feat. Courtney Barnett)",
-   "album": "Bocca di Lupo / Mouth of the Wolf",
-   "label": "Sacred Bones Records (verify)",
-   "label_source": "unverified",
-   "tag": "",
-   "released": "2026-09-09 (single)",
-   "type": "single",
-   "upcoming": "Double album, Nov. 6",
-   "duration": "5:24",
-   "priority": "X",
-   "why": "Single Sept. 9; album Nov. 6 on Sacred Bones (verify).",
-   "fcc_status": "CLEAN",
-   "fcc_note": "CLEAN (Genius, Oct. 13 screen).",
-   "source": "carried from an earlier plan",
-   "videoId": "3GytZtSR-lw"
-  },
-  {
    "artist": "Rocketship",
    "track": "Hurt Feelings",
    "album": "Hurt Feelings",
@@ -1930,24 +2294,6 @@
    "fcc_note": "UNVERIFIED (no Genius page).",
    "source": "Friday sweep Oct. 30",
    "videoId": "I4Q0kEAEYgE"
-  },
-  {
-   "artist": "Editors",
-   "track": "The Hills We Died Upon",
-   "album": "Surface, Echo & Sound",
-   "label": "[PIAS]",
-   "label_source": "web (indieisnotagenre)",
-   "tag": "",
-   "released": "2026-10-30",
-   "type": "album track",
-   "upcoming": "",
-   "duration": "4:01",
-   "priority": "X",
-   "why": "Out today on [PIAS] (indieisnotagenre). (Friday sweep Oct. 30, New Oct. 30).",
-   "fcc_status": "CLEAN",
-   "fcc_note": "CLEAN (Genius, 379 words).",
-   "source": "Friday sweep Oct. 30",
-   "videoId": "9tUu9SjKj7w"
   },
   {
    "artist": "Editors",
@@ -2004,42 +2350,6 @@
    "videoId": "zikRXmDO7mk"
   },
   {
-   "artist": "2nd Grade",
-   "track": "Anywhere Girls",
-   "album": "Girls and Boys",
-   "label": "Lame-O Records",
-   "label_source": "web (indieisnotagenre); label exists in Zookeeper label table",
-   "tag": "",
-   "released": "2026-10-30",
-   "type": "single",
-   "upcoming": "Album Girls and Boys, out Oct. 30",
-   "duration": "1:50",
-   "priority": "X",
-   "why": "Punk focus pick. Under two minutes. (Friday sweep Oct. 30, New Oct. 30).",
-   "fcc_status": "CLEAN",
-   "fcc_note": "CLEAN (Genius, 218 words).",
-   "source": "Friday sweep Oct. 30",
-   "videoId": "fdfS5LDO_Wg"
-  },
-  {
-   "artist": "WHY?",
-   "track": "Not Really Stranger",
-   "album": "Oh Golly / Yes Lord",
-   "label": "Waterlines",
-   "label_source": "web (indieisnotagenre)",
-   "tag": "",
-   "released": "2026-10-30",
-   "type": "album track",
-   "upcoming": "",
-   "duration": "3:35",
-   "priority": "X",
-   "why": "Chaos Theory was screened first and has FCC hits, so this track was swapped in. (Friday sweep Oct. 30, New Oct. 30).",
-   "fcc_status": "CLEAN",
-   "fcc_note": "CLEAN (Genius, 181 words).",
-   "source": "Friday sweep Oct. 30",
-   "videoId": "5c8IwzsC91o"
-  },
-  {
    "artist": "Stephen Steinbrink",
    "track": "I'm a Swimming Pool",
    "album": "In a Split Mirror",
@@ -2074,24 +2384,6 @@
    "fcc_note": "UNVERIFIED (no Genius page).",
    "source": "Friday sweep Oct. 30",
    "videoId": "OfodEPilzvw"
-  },
-  {
-   "artist": "The Big Moon",
-   "track": "F.O.R.E.V.E.R",
-   "album": "Forever",
-   "label": "Fiction Records",
-   "label_source": "web (indieisnotagenre); label exists in Zookeeper label table",
-   "tag": "",
-   "released": "2026-10-30",
-   "type": "single",
-   "upcoming": "Album Forever, out Oct. 30",
-   "duration": "4:11",
-   "priority": "X",
-   "why": "Seven past spins on the show. (Friday sweep Oct. 30, New Oct. 30).",
-   "fcc_status": "CLEAN",
-   "fcc_note": "CLEAN (Genius, 196 words).",
-   "source": "Friday sweep Oct. 30",
-   "videoId": "uRawjI1x6Bg"
   },
   {
    "artist": "Toner",
@@ -2220,42 +2512,6 @@
    "videoId": "3vTgbvA1qVA"
   },
   {
-   "artist": "Do Nothing",
-   "track": "Stars",
-   "album": "Friend World",
-   "label": "Submarine Cat (verify)",
-   "label_source": "web (indieisnotagenre)",
-   "tag": "",
-   "released": "2026 (single; album Nov. 6, 2026)",
-   "type": "single",
-   "upcoming": "Album Friend World, Nov. 6",
-   "duration": "2:53",
-   "priority": "X",
-   "why": "Album out the day after the show (indieisnotagenre). (Friday sweep Oct. 30, Out Nov. 6).",
-   "fcc_status": "CLEAN",
-   "fcc_note": "CLEAN (Genius, 195 words).",
-   "source": "Friday sweep Oct. 30",
-   "videoId": "L9-rw6st42U"
-  },
-  {
-   "artist": "Hudson Freeman",
-   "track": "I-40",
-   "album": "Doom Country",
-   "label": "Mom + Pop",
-   "label_source": "zookeeper label table (Mom + Pop); web label per indieisnotagenre",
-   "tag": "",
-   "released": "2026 (single; album Nov. 6, 2026)",
-   "type": "single",
-   "upcoming": "Album Doom Country, Nov. 6",
-   "duration": "3:55",
-   "priority": "X",
-   "why": "Album out the day after the show (indieisnotagenre). (Friday sweep Oct. 30, Out Nov. 6).",
-   "fcc_status": "CLEAN",
-   "fcc_note": "CLEAN (Genius, 86 words).",
-   "source": "Friday sweep Oct. 30",
-   "videoId": "BJTHwRbdBTM"
-  },
-  {
    "artist": "Chastity Belt",
    "track": "To Decide",
    "album": "To Decide / Designs",
@@ -2274,24 +2530,6 @@
    "videoId": "YVpbWLsBsp8"
   },
   {
-   "artist": "Squirrel Flower",
-   "track": "i don’t use a trash can",
-   "album": "Tomorrow's Fire",
-   "label": "Polyvinyl (verify)",
-   "label_source": "web (verify)",
-   "tag": "",
-   "released": "",
-   "type": "single/album track",
-   "upcoming": "",
-   "duration": "2:58",
-   "priority": "X",
-   "why": "Chapel, S.F., Thu. Nov. 5, with Sour Widows. (Friday sweep Oct. 30, Bay Area).",
-   "fcc_status": "CLEAN",
-   "fcc_note": "CLEAN (Genius, 105 words).",
-   "source": "Friday sweep Oct. 30",
-   "videoId": "ad_jbZQAEkE"
-  },
-  {
    "artist": "Alex Cameron",
    "track": "Runnin' Outta Luck (feat. Brandon Flowers)",
    "album": "Forced Witness",
@@ -2308,60 +2546,6 @@
    "fcc_note": "CLEAN (Genius, 454 words).",
    "source": "Friday sweep Oct. 30",
    "videoId": "j1DqBFYgDzc"
-  },
-  {
-   "artist": "Nick Cave & The Bad Seeds",
-   "track": "The Carny",
-   "album": "Your Funeral... My Trial",
-   "label": "Mute",
-   "label_source": "zookeeper label table (Mute); album not checked",
-   "tag": "",
-   "released": "1986-11-03",
-   "type": "album track",
-   "upcoming": "",
-   "duration": "8:01",
-   "priority": "X",
-   "why": "40th anniversary of Your Funeral... My Trial, Nov. 3, 1986 (thestupidweb.com, from Wikidata). YTM lists the 2009 remaster. (Friday sweep Oct. 30, Anniversary).",
-   "fcc_status": "CLEAN",
-   "fcc_note": "CLEAN (Genius, 453 words).",
-   "source": "Friday sweep Oct. 30",
-   "videoId": "dt8TykotuoM"
-  },
-  {
-   "artist": "They Might Be Giants",
-   "track": "Don't Let's Start",
-   "album": "They Might Be Giants",
-   "label": "Bar/None Records",
-   "label_source": "zookeeper album 979971 (library title: Don't Let's Start)",
-   "tag": "979971",
-   "released": "1986-11-04",
-   "type": "album track",
-   "upcoming": "",
-   "duration": "2:37",
-   "priority": "X",
-   "why": "40th anniversary of the debut, Nov. 4, 1986 (thestupidweb.com, from Wikidata; one source). (Friday sweep Oct. 30, Anniversary).",
-   "fcc_status": "CLEAN",
-   "fcc_note": "CLEAN (Genius, 312 words).",
-   "source": "Friday sweep Oct. 30",
-   "videoId": "UNLqGTSRln8"
-  },
-  {
-   "artist": "Pretenders",
-   "track": "My Baby (2007 Remaster)",
-   "album": "Get Close",
-   "label": "Sire (verify)",
-   "label_source": "web (verify)",
-   "tag": "",
-   "released": "1986-11-04",
-   "type": "album track",
-   "upcoming": "",
-   "duration": "4:08",
-   "priority": "X",
-   "why": "40th anniversary of Get Close, Nov. 4, 1986 (thestupidweb.com, from Wikidata; one source). YTM lists the 2007 remaster. (Friday sweep Oct. 30, Anniversary).",
-   "fcc_status": "CLEAN",
-   "fcc_note": "CLEAN (Genius, 161 words).",
-   "source": "Friday sweep Oct. 30",
-   "videoId": "Ju-eHbKHr1k"
   },
   {
    "artist": "Star Moles",
@@ -2503,6 +2687,16 @@
    "Galaxie 500 Tugboat -> Ceremony",
    "Thao Triple Shot -> Caroline Rose Triple Shot"
   ],
-  "notes": "Thursday morning draft, updated about 11:20 a.m. after Stace edited the Notes Sheet and Air Order. Air Order read: 56 tracks (4 new adds since 8 a.m.: Westside Cowboy, Car Seat Headrest, Wilco (Was I) In Your Dreams, UNKLE Restless). UNKLE ticket giveaway noted in Set 7. Car Seat Headrest held out for FCC."
- }
+  "notes": "Thursday morning draft, updated about 11:20 a.m. after Stace edited the Notes Sheet and Air Order. Air Order read: 56 tracks (4 new adds since 8 a.m.: Westside Cowboy, Car Seat Headrest, Wilco (Was I) In Your Dreams, UNKLE Restless). UNKLE ticket giveaway noted in Set 7. Car Seat Headrest held out for FCC.",
+  "final_built": "2026-11-05 13:45 PT (kzsu-thu-final)",
+  "final_notes": "Air Order read at 1:30 p.m.: 56 tracks, unchanged since 11:20. Her Notes Sheet culls and replaces applied in the plan (9 cut, Aphex Twin, Sensoria and Ceremony in). Car Seat Headrest held out (FCC on album version). Bench sets (priority X, not on Air Order) moved to bench_sets. Air Order not rewritten, so it still lists the 9 culled tracks and lacks the 3 replacements. Working rewritten as the exact reverse of the final plan: 50 tracks on YTM (Only Shallow is not on YTM), verified by reload. CSV 51 tracks plus 9 mic-break rows."
+ },
+ "hour_labels": {
+  "1": "5 to 6 p.m., fill-in for Suzi Boneshaker",
+  "2": "6 to 7 p.m., The Library",
+  "3": "7 to 8 p.m., The Library"
+ },
+ "target_label": "Target 3:45:00 for a 3-hour show (75 min per hour); the rest is cull room",
+ "show_length": "3 hours, 5 to 8 p.m. PT (Stace fills in for Suzi Boneshaker 5 to 6 p.m.)",
+ "note_3hr": "Nov. 5 rerun for a 3-hour show: five new 5 p.m. sets (16 tracks) built from the bench and Stace's Next Show adds. Existing sets renumbered 6 to 15. Her Notes Sheet ticks still applied."
 }

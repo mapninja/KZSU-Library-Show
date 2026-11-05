@@ -97,12 +97,14 @@ const W = [400, 1600, 2300, 1700, 1100, 950, 800, 600, 4950];
 const COLS = ["#", "Artist", "Track", "Album", "Orig. release", "FCC", "ZK tag", "Time", "Notes"];
 function tracklist() {
   const head = new TableRow({ tableHeader: true, cantSplit: true, children: COLS.map((h, i) => cell(h, W[i], { fill: NAVY, color: "FFFFFF", bold: true, keepNext: true })) });
-  const rows = [head]; let n = 0, cum = 0, hour2Seen = false;
+  const rows = [head]; let n = 0, cum = 0; const hourSeen = {};
   const band = (text, fill, o = {}) => new TableRow({ cantSplit: true, children: [cell(text, PAGE_W, { span: 9, fill, bold: true, size: o.size || 18, color: o.color || NAVY, keepNext: o.keepNext })] });
   const clip = (s, n) => { const x = Array.isArray(s) ? s[0] : String(s); return x.length > n ? x.slice(0, n).replace(/\s+\S*$/, "") + "..." : x; };
   if (MB.opening) rows.push(band("MIC BREAK: opening  |  " + clip(MB.opening, 150) + "  (full text at the back)", GREEN_BG, { color: "000000" }));
   sets.forEach((s, si) => {
-    if (/^Hour 2/.test(s.name) && !hour2Seen) { hour2Seen = true; rows.push(band(`HOUR 2  |  on air from ${fmt(cum)}`, NAVY, { color: "FFFFFF", size: 22 })); }
+    // Hour bands: normal 2-hour shows only band Hour 2. Plans with hour_labels (for example a 3-hour fill-in night) band every hour.
+    const hm = /^Hour (\d+)/.exec(s.name);
+    if (hm && !hourSeen[hm[1]] && (hm[1] !== "1" || plan.hour_labels)) { hourSeen[hm[1]] = true; const lab = (plan.hour_labels || {})[hm[1]]; rows.push(band(`HOUR ${hm[1]}${lab ? "  |  " + lab : ""}  |  on air from ${fmt(cum)}`, NAVY, { color: "FFFFFF", size: 22 })); }
     const secsSet = s.tracks.reduce((a, t) => a + secs(t.duration), 0);
     rows.push(band(`${s.name}  |  ${s.tracks.length} ${s.tracks.length === 1 ? "track" : "tracks"}  |  ${fmt(secsSet)}  |  through ${fmt(cum + secsSet)}`, BAND, { size: 20, keepNext: true }));
     s.tracks.forEach((t, ri) => {
@@ -134,7 +136,7 @@ kids.push(heading("Run of show", 26, 0, true));
 let cum = 0, n = 1;
 kids.push(simpleTable([7000, 1500, 1800, 2400, 1700], ["Set", "Tracks", "Set time", "Track numbers", "Running total"],
   sets.map((s) => { const ss = s.tracks.reduce((a, t) => a + secs(t.duration), 0); const first = n; n += s.tracks.length; cum += ss; return [s.name, String(s.tracks.length), fmt(ss), `${first}-${n - 1}`, fmt(cum)]; })
-    .concat([[{ t: "Total", bold: true }, { t: String(all.length), bold: true }, { t: fmt(total), bold: true }, "", { t: "Target 2:30:00 for a full show", bold: true }]])));
+    .concat([[{ t: "Total", bold: true }, { t: String(all.length), bold: true }, { t: fmt(total), bold: true }, "", { t: plan.target_label || "Target 2:30:00 for a full show", bold: true }]])));
 
 if (plan.mic_breaks) {
   kids.push(heading("Talk breaks (full text)", 24, 200));
