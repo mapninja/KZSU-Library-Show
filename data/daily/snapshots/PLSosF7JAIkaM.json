@@ -2,8 +2,93 @@
 "playlist": "01 KZSU - Air Order",
 "id": "PLSosF7JAIkaM",
 "snapshot": "2026-11-05",
-"note": "Nov. 5 morning read: 52 tracks. Stace added 11 (Coil, TV Priest Just So You Know, Fujiya & Miyagi, Bauhaus, Sonic Youth, J Mascis, Caroline Rose x3, Philip Frobos, Mr. Dinkles) and cut 2 (Dicks Hate the Police, The Damned Neat Neat Neat). Not rewritten by Claude. | Nov. 5 11:20 a.m. re-read: 56 tracks. Stace added 4 (Wilco (Was I) In Your Dreams, UNKLE Restless, Cabaret Voltaire Sensoria 7-inch, Galaxie 500 Ceremony). Track list reconstructed from the 52-track read plus these adds. Not rewritten by Claude.",
+"note": "Nov. 5 1:45 p.m. (3-hour show): Claude rewrote Air Order to the plan. Removed 8 tracks Stace culled in the Notes Sheet (Chavez, Thao x3, Team Dresch, Colleen Green, Nag Nag Nag, Tugboat); added 20; 34 moves; verified by reload: 67 tracks (66 plan tracks plus Car Seat Headrest, Stace's add, held out of the plan for FCC and kept at the end). Stace had added Car Seat Headrest, Wilco Was I In Your Dreams, UNKLE and Westside Cowboy since the 52-track read, and deleted Coil.",
 "tracks": [
+[
+"Editors",
+"The Hills We Died Upon",
+"9tUu9SjKj7w"
+],
+[
+"WHY?",
+"Not Really Stranger",
+"5c8IwzsC91o"
+],
+[
+"The Big Moon",
+"F.O.R.E.V.E.R",
+"uRawjI1x6Bg"
+],
+[
+"Cut Worms",
+"Evil Twin",
+"jMlssW90uwg"
+],
+[
+"Father John Misty",
+"Trouble",
+"O6a7lfozvEY"
+],
+[
+"Guided By Voices",
+"Lost in the Sun",
+"dfiR6XtYdzY"
+],
+[
+"Jozef Van Wissem & Jim Jarmusch",
+"Never Like You Said (feat. Courtney Barnett)",
+"3GytZtSR-lw"
+],
+[
+"2nd Grade",
+"Anywhere Girls",
+"fdfS5LDO_Wg"
+],
+[
+"BODEGA",
+"Slow Train",
+"4TnhLA3yQaU"
+],
+[
+"Fugazi",
+"Full Disclosure",
+"V9WCjEsPP0U"
+],
+[
+"Squirrel Flower",
+"i don’t use a trash can",
+"ad_jbZQAEkE"
+],
+[
+"Grant-Lee Phillips",
+"Mobilize",
+"mKfRt3Yt0HE"
+],
+[
+"Do Nothing",
+"Stars",
+"L9-rw6st42U"
+],
+[
+"Hudson Freeman",
+"I-40",
+"BJTHwRbdBTM"
+],
+[
+"They Might Be Giants",
+"Don't Let's Start",
+"UNLqGTSRln8"
+],
+[
+"Pretenders",
+"My Baby (2007 Remaster)",
+"Ju-eHbKHr1k"
+],
+[
+"Nick Cave & The Bad Seeds",
+"The Carny",
+"dt8TykotuoM"
+],
 [
 "Queens of the Stone Age",
 "Run Away From the Mob",
@@ -45,6 +130,21 @@
 "NEGOMO5fajs"
 ],
 [
+"Philip Frobos",
+"The Handoff",
+"NkhRra7RG-k"
+],
+[
+"Mr. Dinkles",
+"Brain",
+"mU8DLpVWDxc"
+],
+[
+"Westside Cowboy",
+"You Could Have Died There On The Dancefloor",
+"fVuyZ-Wp7Ng"
+],
+[
 "Twisted Teens",
 "Circus Clown",
 "FWP2bTeoPTo"
@@ -65,24 +165,19 @@
 "pirkuE2Edgc"
 ],
 [
-"The Fall",
-"A Caveat",
-"BSraSIhC_8A"
-],
-[
 "This Is Lorelei",
 "Hey Sarah Is It Gonna Rain Forever",
 "LHPybTFbWAA"
 ],
 [
+"The Fall",
+"A Caveat",
+"BSraSIhC_8A"
+],
+[
 "Sylvan Esso",
 "Concrete Glen",
 "PVcU0z1zPqk"
-],
-[
-"TV Priest",
-"Decoration",
-"tKcbUTCGY3Q"
 ],
 [
 "Yard Act",
@@ -100,6 +195,11 @@
 "ZasGLLCEwTA"
 ],
 [
+"Wilco",
+"(Was I) In Your Dreams",
+"-1suS_xTVsM"
+],
+[
 "Johnny Cash",
 "Rusty Cage",
 "wMlNxB8dXFM"
@@ -110,9 +210,9 @@
 "U0IgWuSiFDk"
 ],
 [
-"Chavez",
-"Memorize This Face",
-"QoH5KoF9zSQ"
+"Aphex Twin",
+"Girl/Boy Song",
+"6yy-Es6rp3U"
 ],
 [
 "The National",
@@ -120,24 +220,19 @@
 "suEm2nzKVBA"
 ],
 [
-"Thao Nguyen",
-"Bag of Hammers",
-"nusf4Sfl6Wk"
+"Caroline Rose",
+"Cry!",
+"s1tdCxkduZI"
 ],
 [
-"Thao & Mirah",
-"Eleven",
-"LI4g7kT3tS8"
+"Caroline Rose",
+"Conversation with Shiv (AKA liquid k song)",
+"i4Vk64hP1Uo"
 ],
 [
-"THAO & Tune-Yards",
-"Sick of the Times (feat. The Linda Lindas)",
-"l1mT5WQwYPI"
-],
-[
-"Team Dresch",
-"Hand Grenade",
-"tMf78i0mQP8"
+"Caroline Rose",
+"Yip Yip Yow",
+"54xauaaBw7M"
 ],
 [
 "The Black Angels",
@@ -150,12 +245,7 @@
 "neIym9G-0Ss"
 ],
 [
-"Colleen Green",
-"Whatever I Want",
-"oY-ZfipiU7g"
-],
-[
-"L.A. WITCH",
+"L.A. Witch",
 "Kill My Baby Tonight",
 "F_IE7EMjB0U"
 ],
@@ -163,6 +253,11 @@
 "Big Star",
 "September Gurls",
 "IRGdfyrVjlw"
+],
+[
+"UNKLE",
+"Restless (feat. Josh Homme)",
+"QCXhQ2sQgfI"
 ],
 [
 "Avengers",
@@ -180,49 +275,14 @@
 "TybCMKD_vU4"
 ],
 [
-"Kraftwerk",
-"Numbers (2009 Remaster)",
-"fOoCnK5Jza4"
-],
-[
-"Cabaret Voltaire",
-"Nag, Nag, Nag",
-"wdyhe8VT6Yg"
-],
-[
-"Hot Chip",
-"Random Violence",
-"FEQJgTFfS9k"
-],
-[
-"Coil",
-"Where Even the Darkness Is Something to See",
-"4DUkHIl7D1E"
-],
-[
-"Galaxie 500",
-"Tugboat",
-"FUFWkuMY6xM"
-],
-[
-"John Lennon",
-"Watching The Wheels",
-"2Kx2PbA8bCI"
-],
-[
-"Chris Cornell",
-"Seasons",
-"1DnSiznUrVI"
+"TV Priest",
+"Decoration",
+"tKcbUTCGY3Q"
 ],
 [
 "TV Priest",
 "Just So You Know",
 "kKMhS5zhcnc"
-],
-[
-"Fujiya & Miyagi",
-"No Green Light",
-"K5l80OdiCzM"
 ],
 [
 "Bauhaus",
@@ -235,44 +295,9 @@
 "PGPOcQ14Eo0"
 ],
 [
-"J Mascis",
-"Fade Into You",
-"iBapsQ14yhc"
-],
-[
-"Caroline Rose",
-"Cry!",
-"s1tdCxkduZI"
-],
-[
-"Philip Frobos",
-"The Handoff",
-"NkhRra7RG-k"
-],
-[
-"Caroline Rose",
-"Conversation with Shiv (AKA liquid k song)",
-"i4Vk64hP1Uo"
-],
-[
-"Caroline Rose",
-"Yip Yip Yow",
-"54xauaaBw7M"
-],
-[
-"Mr. Dinkles",
-"Brain",
-"mU8DLpVWDxc"
-],
-[
-"Wilco",
-"(Was I) In Your Dreams",
-"-1suS_xTVsM"
-],
-[
-"UNKLE",
-"Restless (feat. Josh Homme)",
-"QCXhQ2sQgfI"
+"Kraftwerk",
+"Numbers (2009 Remaster)",
+"fOoCnK5Jza4"
 ],
 [
 "Cabaret Voltaire",
@@ -280,9 +305,39 @@
 "IN5RRjmQytc"
 ],
 [
+"Hot Chip",
+"Random Violence",
+"FEQJgTFfS9k"
+],
+[
+"Fujiya & Miyagi",
+"No Green Light",
+"K5l80OdiCzM"
+],
+[
 "Galaxie 500",
 "Ceremony",
 "92Nkrav2-Aw"
+],
+[
+"John Lennon",
+"Watching The Wheels",
+"2Kx2PbA8bCI"
+],
+[
+"Chris Cornell",
+"Seasons",
+"1DnSiznUrVI"
+],
+[
+"J Mascis",
+"Fade Into You",
+"iBapsQ14yhc"
+],
+[
+"Car Seat Headrest",
+"Drunk Drivers/Killer Whales (Single Version)",
+"xWRUeNhDwMA"
 ]
 ]
 }

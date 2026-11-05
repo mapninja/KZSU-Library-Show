@@ -151,6 +151,28 @@
      ]
     },
     {
+     "artist": "Father John Misty",
+     "track": "Trouble",
+     "album": "Anthem +3",
+     "label": "Sub Pop Records",
+     "label_source": "web (verify); Sub Pop exists in Zookeeper label table",
+     "tag": "",
+     "released": "2020 (EP Anthem +3)",
+     "type": "cover",
+     "upcoming": "",
+     "duration": "3:13",
+     "priority": "R",
+     "why": "Cover of Cat Stevens' \"Trouble\". Stace's Next Show add.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, 197 words).",
+     "source": "Next Show (Stace add)",
+     "videoId": "O6a7lfozvEY",
+     "credits": "Prod: Jonathan Wilson (EP, per one search summary); 2020",
+     "related": "",
+     "notes": "Father John Misty covers Cat Stevens' \"Trouble\" (Stevens' 1970 song, verify), from his 2020 Anthem +3 EP on Sub Pop.",
+     "notes_source": "web search summary; Stace confirmed it is the Cat Stevens cover"
+    },
+    {
      "artist": "Guided By Voices",
      "track": "Lost in the Sun",
      "album": "Crawlspace of the Pantheon",
@@ -1591,29 +1613,6 @@
      "notes_source": "web (search summaries), Nov. 5 draft"
     },
     {
-     "artist": "Coil",
-     "track": "Where Even the Darkness Is Something to See",
-     "album": "Love's Secret Domain",
-     "label": "!K7 Records",
-     "label_source": "zookeeper album 870689 (2008 reissue)",
-     "tag": "870689",
-     "released": "1991 (library copy is the 2008 !K7 reissue)",
-     "type": "DJ Stace add",
-     "upcoming": "",
-     "duration": "3:05",
-     "priority": "R",
-     "why": "Added to Air Order by DJ Stace.",
-     "fcc_status": "UNVERIFIED",
-     "fcc_note": "UNVERIFIED: Genius lists no lyrics (0 words). Listen first.",
-     "source": "DJ Stace add",
-     "added_by": "DJ Stace",
-     "videoId": "4DUkHIl7D1E",
-     "credits": "Prod. Coil and Danny Hyde; recorded in London, Jan. 1988 to Oct. 1990; album 1991",
-     "related": "Coil is John Balance and Peter Christopherson",
-     "notes": "From Coil's 1991 album Love's Secret Domain, issued by Torso in Europe and Wax Trax! in the U.S. The library copy is a 2008 !K7 reissue.",
-     "notes_source": "web (search summaries), Nov. 5 draft"
-    },
-    {
      "artist": "Fujiya & Miyagi",
      "track": "No Green Light",
      "album": "No Green Light (single)",
@@ -1944,7 +1943,7 @@
    "Editors' Surface, Echo & Sound is out Oct. 30 on Play It Again Sam. WHY?'s Oh Golly / Yes Lord is out Oct. 30 on Waterlines. The Big Moon's Forever is out Oct. 30 on Fiction."
   ],
   "after_set_2": [
-   "Cut Worms' Transmitter, produced by Jeff Tweedy, is out on Jagjaguwar. Guided By Voices' Crawlspace of the Pantheon came out May 29.",
+   "Cut Worms' Transmitter, produced by Jeff Tweedy, is out on Jagjaguwar. Guided By Voices' Crawlspace of the Pantheon came out May 29. Father John Misty covers Cat Stevens' Trouble.",
    "Jozef van Wissem and Jim Jarmusch, with Courtney Barnett."
   ],
   "after_set_3": [
@@ -2077,24 +2076,6 @@
    "fcc_note": "CLEAN (Genius, 283 words).",
    "source": "recon",
    "videoId": "yrldgm5LjRc"
-  },
-  {
-   "artist": "Father John Misty",
-   "track": "Trouble",
-   "album": "",
-   "label": "unverified",
-   "label_source": "not checked in zookeeper",
-   "tag": "",
-   "released": "2026",
-   "type": "single",
-   "upcoming": "",
-   "duration": "3:13",
-   "priority": "X",
-   "why": "In Stace's Next Show playlist.",
-   "fcc_status": "CLEAN",
-   "fcc_note": "CLEAN (Genius, 197 words).",
-   "source": "Next Show (Stace add)",
-   "videoId": "O6a7lfozvEY"
   },
   {
    "artist": "Funkadelic",
@@ -2668,6 +2649,14 @@
    "date": "2026-11-05",
    "reason": "Replace note: \"Ceremony\".",
    "source": "Notes Sheet Replace note"
+  },
+  {
+   "artist": "Coil",
+   "track": "Where Even the Darkness Is Something to See",
+   "cut_by": "DJ Stace",
+   "date": "2026-11-05",
+   "reason": "Removed from Air Order after the 11:20 a.m. read (Stace deleted it). Logged as a 60-day cool-off.",
+   "source": "Air Order delete"
   }
  ],
  "air_order_note": "Nov. 5 11:20 a.m. read: Air Order 56 tracks. Stace's Air Order already holds all her adds; her Notes Sheet culls and replaces are applied in the plan only. Not rewritten by Claude.",

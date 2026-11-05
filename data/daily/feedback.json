@@ -1374,6 +1374,15 @@
    "videoId": "2yYMRd858FM",
    "note": "bulk cull between the 7:30 a.m. and 1:30 p.m. Oct. 30 runs (87 tracks)",
    "cooloff_until": "2026-12-29"
+  },
+  {
+   "date": "2026-11-05",
+   "source_playlist": "01 KZSU - Air Order (PLSosF7JAIkaM)",
+   "artist": "Coil",
+   "title": "Where Even the Darkness Is Something to See",
+   "videoId": "4DUkHIl7D1E",
+   "note": "Stace deleted it from Air Order between the 11:20 a.m. and 1:45 p.m. reads.",
+   "cooloff_until": "2027-01-04"
   }
  ],
  "added_by_stace": [
@@ -2223,15 +2232,23 @@
    "artist": "Cabaret Voltaire",
    "title": "Sensoria (7\" Version)",
    "videoId": "IN5RRjmQytc",
-   "note": "Added by Stace to Air Order (11:20 a.m. read); kept, placed in the plan by angle.",
-   "source_playlist": "01 KZSU - Air Order (PLSosF7JAIkaM)"
+   "note": "Requested in the Notes Sheet Replace column (not an Air Order add); kept in the plan.",
+   "source_playlist": "Notes Sheet"
   },
   {
    "date": "2026-11-05",
    "artist": "Galaxie 500",
    "title": "Ceremony",
    "videoId": "92Nkrav2-Aw",
-   "note": "Added by Stace to Air Order (11:20 a.m. read); kept, placed in the plan by angle.",
+   "note": "Requested in the Notes Sheet Replace column (not an Air Order add); kept in the plan.",
+   "source_playlist": "Notes Sheet"
+  },
+  {
+   "date": "2026-11-05",
+   "artist": "Car Seat Headrest",
+   "title": "Drunk Drivers/Killer Whales (Single Version)",
+   "videoId": "xWRUeNhDwMA",
+   "note": "Added by Stace to Air Order; held out of the plan and CSV for FCC (album version fuck x1 Verse 1, shit x1 Bridge). Confirm the single version is edited before air.",
    "source_playlist": "01 KZSU - Air Order (PLSosF7JAIkaM)"
   }
  ],
@@ -2340,7 +2357,8 @@
   "Fake Names": 1,
   "Axis: Sova": 1,
   "ameokama": 1,
-  "Caroline Rose": 1
+  "Caroline Rose": 1,
+  "Coil": 1
  },
  "not_aired": [
   {
