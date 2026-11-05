@@ -7,7 +7,7 @@
       "order": "forward",
       "mode": "build draft; Stace edits by hand; her edits win",
       "target_minutes_per_show_hour": 75,
-      "last_sync": "2026-10-22 (Thursday-night draft for Oct. 29 Halloween: 42 adds, 52 removes; verified 42 rows equal to plan) | 2026-10-27: read back 51 tracks, Stace appended 9; not rewritten by Claude | 2026-10-28 (Wednesday final): read back 52 tracks, one new add (Coil #45), no removals; not rewritten by Claude | 2026-10-29: read back 40 tracks (Stace cut 13, added This Corrosion); Claude appended 8 Halloween tracks from her reviews via edit_playlist (add-only); verified by reload: 48 tracks | 2026-10-29 later: Claude appended 3 Queens Triple Shot options (add-only); Stace added 4 more; verified by reload: 55 tracks | 2026-10-29 10 a.m.: reordered into set order with moves (55 tracks), then 20 tracks Stace cut from Working removed; 35 tracks, verified by reload: equals Working reversed (YTM header runtime lagged at 3:32) | 2026-10-29 10 p.m. (Thursday-night draft for Nov. 5): deltas only, 43 tracks, verified by reload: equals data/recon/2026-11-05/working_playlist.json ytm_air_order"
+      "last_sync": "2026-10-22 (Thursday-night draft for Oct. 29 Halloween: 42 adds, 52 removes; verified 42 rows equal to plan) | 2026-10-27: read back 51 tracks, Stace appended 9; not rewritten by Claude | 2026-10-28 (Wednesday final): read back 52 tracks, one new add (Coil #45), no removals; not rewritten by Claude | 2026-10-29: read back 40 tracks (Stace cut 13, added This Corrosion); Claude appended 8 Halloween tracks from her reviews via edit_playlist (add-only); verified by reload: 48 tracks | 2026-10-29 later: Claude appended 3 Queens Triple Shot options (add-only); Stace added 4 more; verified by reload: 55 tracks | 2026-10-29 10 a.m.: reordered into set order with moves (55 tracks), then 20 tracks Stace cut from Working removed; 35 tracks, verified by reload: equals Working reversed (YTM header runtime lagged at 3:32) | 2026-10-29 10 p.m. (Thursday-night draft for Nov. 5): deltas only, 43 tracks, verified by reload: equals data/recon/2026-11-05/working_playlist.json ytm_air_order | 2026-11-05 8 a.m. (kzsu-thu-draft): read 52 tracks (Stace added 11, cut 2: Dicks, Damned); not rewritten by Claude"
     },
     "working": {
       "title": "01 KZSU - Working",
@@ -21,7 +21,7 @@
       "id": "PLCLF-Tik2UHk",
       "order": "forward",
       "mode": "ADD only; never clear; Stace deletes stale tracks; log her deletes (60-day cool-off)",
-      "last_sweep": "2026-11-03 Tuesday 10 a.m. sweep: 163 to 171 (8 adds: Oso Oso, 1000 Rabbits, Joshua Idehen, Eric Harm, Dutch Uncles, Her New Knife, Computerwife, Kora Puckett); no Stace edits since Oct. 30; verified by reload; 0 to FCC Edit Needed (all UNVERIFIED, no lyrics yet) | 2026-10-30 1:30 p.m. catch-up: Stace removed 87 tracks after the morning sweep (246 to 159, logged as 60-day cool-offs); 4 adds (Wavves, Trinket, Factory Floor, nowhere else to be); 163 tracks, verified by reload; notes outputs/daily/2026-10-30.md | 2026-10-30 Friday sweep for Nov. 5: 246 tracks (219 + 27 adds), verified by reload; 0 to FCC Edit Needed; notes outputs/weekly/2026-11-05_friday-sweep.md | 2026-10-27 Tuesday sweep for Oct. 29: 219 tracks (207 + 12 adds); 0 to FCC Edit Needed; notes outputs/weekly/2026-10-29_tuesday-sweep.md | 2026-10-29 night: no writes; snapshot refreshed"
+      "last_sweep": "2026-11-05 8 a.m. read: 171 tracks, no Stace edits since Nov. 3 | 2026-11-03 Tuesday 10 a.m. sweep: 163 to 171 (8 adds: Oso Oso, 1000 Rabbits, Joshua Idehen, Eric Harm, Dutch Uncles, Her New Knife, Computerwife, Kora Puckett); no Stace edits since Oct. 30; verified by reload; 0 to FCC Edit Needed (all UNVERIFIED, no lyrics yet) | 2026-10-30 1:30 p.m. catch-up: Stace removed 87 tracks after the morning sweep (246 to 159, logged as 60-day cool-offs); 4 adds (Wavves, Trinket, Factory Floor, nowhere else to be); 163 tracks, verified by reload; notes outputs/daily/2026-10-30.md | 2026-10-30 Friday sweep for Nov. 5: 246 tracks (219 + 27 adds), verified by reload; 0 to FCC Edit Needed; notes outputs/weekly/2026-11-05_friday-sweep.md | 2026-10-27 Tuesday sweep for Oct. 29: 219 tracks (207 + 12 adds); 0 to FCC Edit Needed; notes outputs/weekly/2026-10-29_tuesday-sweep.md | 2026-10-29 night: no writes; snapshot refreshed"
     },
     "new_releases_review": {
       "title": "01 KZSU - New Releases for Review",
@@ -40,7 +40,8 @@
       "title": "01 KZSU - Next Show",
       "id": "PLMduzOohHQLrQzt6w4ep6l2zAwcIzoZVF",
       "order": "forward",
-      "mode": "READ ONLY; snapshot and diff for new interests"
+      "mode": "READ ONLY; snapshot and diff for new interests",
+      "last_read": "2026-11-05: 44 tracks (17 gone since Oct. 30, Star Moles Born Again swapped for the Bonus Track version); read only"
     },
     "to_review": {
       "title": "01 KZSU - To Review",

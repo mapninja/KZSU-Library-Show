@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import re
 """
 render_show_files.py
 ====================
@@ -38,6 +39,17 @@ import json
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent  # repo root (one level above scripts/)
+
+
+
+def note_text(t):
+    """Notes cell: the DJ sentence (notes, else why), then Prod and Related when the plan has them."""
+    parts = [t.get("notes") or t.get("why", "")]
+    if t.get("credits"):
+        parts.append("Prod: " + re.sub(r"^(Prod\.|Produced by|Prod:)\s*", "", t["credits"], flags=re.I))
+    if t.get("related"):
+        parts.append("Related: " + t["related"])
+    return " ".join(p for p in parts if p).strip()
 
 
 def secs(duration):
@@ -106,7 +118,7 @@ def main():
             mark = ticks.get((t["artist"].lower(), t["track"].lower()), {})
             w.writerow([i, set_name, t["artist"], t["track"], t.get("album", ""), t.get("released", ""),
                         t.get("label", ""), t.get("tag", ""), t.get("duration", ""), fcc_text(t), watch(t),
-                        t.get("why", ""), mark.get("Cull", ""), mark.get("Replace", "")])
+                        note_text(t), mark.get("Cull", ""), mark.get("Replace", "")])
 
     # ---- 2. Zookeeper CSV (REVERSED, no header, 6 quoted columns) ----------
     # Columns by position: artist, track, album, tag, label, timestamp (blank)
@@ -136,7 +148,7 @@ def main():
           "|---|---|---|---|---|---|---|---|---|---|"]
     for i, (set_name, t) in enumerate(rows, 1):
         md.append(f"| {i} | {set_name} | {t['artist']} | [{t['track']}]({watch(t)}) | {t.get('album', '')} "
-                  f"| {t.get('label', '')} | {t.get('tag', '')} | {t.get('duration', '')} | {fcc_text(t)} | {t.get('why', '')} |")
+                  f"| {t.get('label', '')} | {t.get('tag', '')} | {t.get('duration', '')} | {fcc_text(t)} | {note_text(t)} |")
     if plan.get("excluded_fcc"):
         md += ["", "## Left out for FCC", ""]
         md += [f"- {x['artist']} \"{x['track']}\": {x['fcc']}. {x['action']}." for x in plan["excluded_fcc"]]
@@ -159,7 +171,7 @@ def main():
         tag = f" Tag {t['tag']}." if t.get("tag") else ""
         label = t.get("label") or "Label: fill in at the studio"
         body.append(f"{i}. **{t['artist']}, \"{t['track']}\"** ({t.get('duration') or 'n/a'}) {label}.{tag} "
-                    f"{t.get('why', '')} FCC: {fcc_text(t)}.")
+                    f"{note_text(t)} FCC: {fcc_text(t)}.")
     missing = [f"- {t['artist']}, \"{t['track']}\"" for _, t in rows if not t.get("label")]
     if missing:
         body += ["", "## Fill in at the studio", ""] + missing

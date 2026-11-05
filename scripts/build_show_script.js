@@ -71,7 +71,7 @@ function fcc(t) {
   if (n.includes("check by ear") || n.includes("partial")) return { t: "CLEAN, check ear", color: AMBER, bold: true, fill: AMBER_BG };
   return { t: "CLEAN", color: GREEN, bold: true };
 }
-const notesText = (t) => { const parts = [t.notes || t.why || ""]; if (t.credits) parts.push("Prod: " + t.credits); if (t.related) parts.push("Related: " + t.related); return parts.filter(Boolean).join(" ").replace(/\s+/g, " ").trim(); };
+const notesText = (t) => { const parts = [t.notes || t.why || ""]; if (t.credits) parts.push("Prod: " + t.credits.replace(/^(Prod\.|Produced by|Prod:)\s*/i, "")); if (t.related) parts.push("Related: " + t.related); return parts.filter(Boolean).join(" ").replace(/\s+/g, " ").trim(); };
 
 // ---- collect airable tracks by set (CUT and SKIP never print) ----
 const sets = plan.sets.map((s) => ({ name: s.set, tracks: s.tracks.filter((t) => t.priority !== "CUT" && t.priority !== "SKIP") })).filter((s) => s.tracks.length);
@@ -93,7 +93,7 @@ function breakKeysAfter(set, idx) {
 }
 
 // ---- the tracklist table (first thing in the file) ----
-const W = [450, 1850, 2600, 2000, 1150, 1100, 900, 650, 3700];
+const W = [400, 1600, 2300, 1700, 1100, 950, 800, 600, 4950];
 const COLS = ["#", "Artist", "Track", "Album", "Orig. release", "FCC", "ZK tag", "Time", "Notes"];
 function tracklist() {
   const head = new TableRow({ tableHeader: true, cantSplit: true, children: COLS.map((h, i) => cell(h, W[i], { fill: NAVY, color: "FFFFFF", bold: true, keepNext: true })) });

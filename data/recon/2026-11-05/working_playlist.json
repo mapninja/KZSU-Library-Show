@@ -47,7 +47,11 @@
      "source": "recon",
      "videoId": "D3pjTpmNo3Q",
      "rel_main": "Oct. 30, 2026",
-     "rel_sub": "album; single earlier"
+     "rel_sub": "album; single earlier",
+     "credits": "Prod. Josh Homme, Michael Shuman; recorded at three studios incl. Marigny Studios, New Orleans; sessions 2024 to 2026",
+     "related": "Josh Homme: Them Crooked Vultures (with Dave Grohl, John Paul Jones)",
+     "notes": "Run Away From the Mob closes Perfecth, and the song dates back to the sessions for ...Like Clockwork.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
     },
     {
      "artist": "Clinic",
@@ -67,7 +71,10 @@
      "source": "recon",
      "videoId": "bkxgZ5tgNKU",
      "rel_main": "Oct. 30, 2026",
-     "rel_sub": "album"
+     "rel_sub": "album",
+     "credits": "Jonathan Hartley (Qobuz credit, not confirmed elsewhere); recording location not found; 2026",
+     "notes": "Wild In The Streets is the tenth album from Clinic, led by Ade Blackburn and Jonathan Hartley.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
     },
     {
      "artist": "Ex:Re",
@@ -87,7 +94,11 @@
      "source": "recon",
      "videoId": "n_cPyY09Dw4",
      "rel_main": "Sept. 15, 2026",
-     "rel_sub": "single; album Oct. 30, 2026"
+     "rel_sub": "single; album Oct. 30, 2026",
+     "credits": "Elena Tonra with producer Fabian Prynn; 2026",
+     "related": "Daughter (Elena Tonra)",
+     "notes": "Ex:Re is Elena Tonra of Daughter, and Save As is the first Ex:Re album in eight years.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
     },
     {
      "artist": "Sennen",
@@ -107,7 +118,11 @@
      "source": "recon",
      "videoId": "06jJKUCkkZE",
      "rel_main": "Oct. 30, 2026",
-     "rel_sub": "album; lead single"
+     "rel_sub": "album; lead single",
+     "credits": "Self-recorded by the band; mixed by James Chapman (Maps); 2026",
+     "related": "Maps (James Chapman, mixer and keys)",
+     "notes": "Sennen is a London shoegaze band, and New Quiet is its first album in over 10 years.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
     },
     {
      "artist": "DIIV",
@@ -127,7 +142,10 @@
      "source": "recon",
      "videoId": "ZO8I_UqFi_E",
      "rel_main": "Oct. 30, 2026",
-     "rel_sub": "album; single earlier"
+     "rel_sub": "album; single earlier",
+     "credits": "Prod. A.G. Cook; live drums tracked before most songs were finished; studio not found; 2026",
+     "notes": "DIIV worked with producer A.G. Cook on ZIRP!, which is named for zero interest rate policy.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
     },
     {
      "artist": "Twisted Teens",
@@ -143,7 +161,11 @@
      "priority": "R",
      "source": "Next Show (Stace add)",
      "videoId": "ElPskynxhTA",
-     "duration": "1:53"
+     "duration": "1:53",
+     "credits": "No outside producer found; home-recorded in New Orleans, mostly by Caspian Hollywell; 2026",
+     "related": "Caspian: Blackbird Raum, CPNPC, Scissorbills. RJ Santos: country and Cajun steel guitar groups",
+     "notes": "Twisted Teens are a New Orleans duo, and The Holy Cross Tigers is their third album of 2026 and Sub Pop debut.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
     },
     {
      "artist": "Michael Nau",
@@ -163,7 +185,10 @@
      "source": "weekly playlist (Friday sweep)",
      "videoId": "C1JkLJzrizE",
      "rel_main": "Aug. 27, 2026",
-     "rel_sub": "single; album Oct. 23, 2026"
+     "rel_sub": "single; album Oct. 23, 2026",
+     "credits": "Prod. Michael Nau, Benny Yurco; recorded at Little Jamaica (Burlington, Vt.), Mar. 2025, and Spilled Treats, Oct. 2025",
+     "notes": "Michael Nau made Popfly with his family, including his wife Whitney McGraw and children Oliver and Beatrice on vocals and sax.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
     },
     {
      "artist": "The Olivia Tremor Control",
@@ -184,12 +209,132 @@
      "videoId": "NEGOMO5fajs",
      "rel_main": "Oct. 23, 2026",
      "rel_sub": "album",
-     "zk_alt": "1153943"
+     "zk_alt": "1153943",
+     "credits": "Prod. Bill Doss, W. Cullen Hart, Derek Almstead, Jason NeSmith; sessions 2002 to 2026",
+     "related": "Elephant 6 Recording Co., Circulatory System (Hart), The Sunshine Fix and Apples in Stereo (Doss), Neutral Milk Hotel (Jeff Mangum, former member)",
+     "notes": "The Same Place is the third and final Olivia Tremor Control album, built from sessions recorded before Bill Doss died in 2012 and Will Cullen Hart died in 2024.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
     }
    ]
   },
   {
-   "set": "Hour 1, Set 2: Reviewed albums in rotation (weeks 3 and 4)",
+   "set": "Hour 1, Set 2: DJ Stace adds, new singles and albums",
+   "tracks": [
+    {
+     "artist": "Caroline Rose",
+     "track": "Cry!",
+     "album": "LONER",
+     "label": "New West Records",
+     "label_source": "zookeeper album 1122725",
+     "tag": "1122725",
+     "released": "2018-02",
+     "type": "DJ Stace add",
+     "upcoming": "",
+     "duration": "3:44",
+     "priority": "R",
+     "why": "Added to Air Order by DJ Stace.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, 144 words).",
+     "source": "DJ Stace add",
+     "added_by": "DJ Stace",
+     "videoId": "s1tdCxkduZI",
+     "credits": "Paul Butler and Caroline Rose (producers); Panoramic Studio, Bolinas, Calif.; mixed by Andrew Sarlo; 2018",
+     "notes": "Caroline Rose co-produced LONER with Paul Butler, who has worked with Devendra Banhart and Michael Kiwanuka. New West released it in February 2018.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
+    },
+    {
+     "artist": "Philip Frobos",
+     "track": "The Handoff",
+     "album": "The Handoff (single)",
+     "label": "Danger Collective Records (verify)",
+     "label_source": "web (verify); not in library",
+     "tag": "",
+     "released": "2026 (single; album Jan. 29, 2027)",
+     "type": "DJ Stace add",
+     "upcoming": "",
+     "duration": "2:51",
+     "priority": "R",
+     "why": "Added to Air Order by DJ Stace.",
+     "fcc_status": "UNVERIFIED",
+     "fcc_note": "UNVERIFIED: no Genius page found. Listen first.",
+     "source": "DJ Stace add",
+     "added_by": "DJ Stace",
+     "videoId": "NkhRra7RG-k",
+     "credits": "Album co-produced by Rodrigo Avendano of Soccer Mommy; single features Lydia Gammill of Gustaf; studio not found",
+     "related": "Omni",
+     "notes": "Philip Frobos of Atlanta band Omni trades verses with Lydia Gammill of Gustaf on this lead single from Taste for the Unsavory, due Jan. 29.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
+    },
+    {
+     "artist": "Caroline Rose",
+     "track": "Conversation with Shiv (AKA liquid k song)",
+     "album": "Gentling the Horse at the Walt Whitman Mall",
+     "label": "SUCK Records",
+     "label_source": "web (verify); own label; not in library",
+     "tag": "",
+     "released": "2026-10-23",
+     "type": "DJ Stace add",
+     "upcoming": "",
+     "duration": "2:58",
+     "priority": "R",
+     "why": "Added to Air Order by DJ Stace.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, 332 words).",
+     "source": "DJ Stace add",
+     "added_by": "DJ Stace",
+     "videoId": "i4Vk64hP1Uo",
+     "credits": "John Congleton (producer, engineer, mixer) at Animal Rites Studio, Los Angeles; 2026",
+     "notes": "Caroline Rose recorded Gentling the Horse at the Walt Whitman Mall with producer John Congleton and released it Oct. 23 on their own label, SUCK Records.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
+    },
+    {
+     "artist": "Caroline Rose",
+     "track": "Yip Yip Yow",
+     "album": "Gentling the Horse at the Walt Whitman Mall",
+     "label": "SUCK Records",
+     "label_source": "web (verify); own label; not in library",
+     "tag": "",
+     "released": "2026-10-23",
+     "type": "DJ Stace add",
+     "upcoming": "",
+     "duration": "2:47",
+     "priority": "R",
+     "why": "Added to Air Order by DJ Stace.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, 272 words).",
+     "source": "DJ Stace add",
+     "added_by": "DJ Stace",
+     "videoId": "54xauaaBw7M",
+     "credits": "John Congleton (producer, engineer, mixer) at Animal Rites Studio, Los Angeles; 2026",
+     "notes": "\"Yip Yip Yow\" opens Gentling the Horse at the Walt Whitman Mall, the first release on Caroline Rose's own SUCK Records.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
+    },
+    {
+     "artist": "Mr. Dinkles",
+     "track": "Brain",
+     "album": "Brain (single)",
+     "label": "Futureless (verify)",
+     "label_source": "web (verify); not in library",
+     "tag": "",
+     "released": "2026-10-30 (one source)",
+     "type": "DJ Stace add",
+     "upcoming": "",
+     "duration": "2:42",
+     "priority": "R",
+     "why": "Added to Air Order by DJ Stace.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, 269 words).",
+     "source": "DJ Stace add",
+     "added_by": "DJ Stace",
+     "videoId": "mU8DLpVWDxc",
+     "related": "Duo of Mac Rettig (vocals, guitar) and Rocco Ramos (drums)",
+     "notes": "Mr. Dinkles, a Los Angeles power punk duo, released \"Brain\" as the first single from their five-song EP REZN, due Jan. 26.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
+    }
+   ]
+  },
+  {
+   "set": "Hour 1, Set 3: Reviewed albums in rotation (weeks 3 and 4)",
    "tracks": [
     {
      "artist": "Twisted Teens",
@@ -207,7 +352,11 @@
      "fcc_status": "CLEAN",
      "fcc_note": "DJ Stace review (Zookeeper, reviewed Oct. 4 to 15, 2026): no FCC flag on this track.",
      "source": "carried from an earlier plan",
-     "videoId": "FWP2bTeoPTo"
+     "videoId": "FWP2bTeoPTo",
+     "credits": "No producer found; home-recorded in New Orleans; limited vinyl run 2025, wide release Feb. 2026",
+     "related": "Caspian: Blackbird Raum, CPNPC, Scissorbills. RJ Santos: country and Cajun steel guitar groups",
+     "notes": "Circus Clown is track 9 on Blame the Clown, the first of three Twisted Teens albums in 2026.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
     },
     {
      "artist": "Palace",
@@ -224,8 +373,13 @@
      "duration": "4:01",
      "videoId": "MR-dh4FTavQ",
      "source": "Next Show (Stace add)",
-     "tag": "",
-     "label_source": "ZK label table; Ox under exclusive license to AWAL Recordings (Bandcamp/Apple)"
+     "tag": "1156463",
+     "label_source": "zookeeper album 1156463",
+     "credits": "Prod. Adam Jaffrey (also recording and mixing engineer); recorded in Deptford; mastered by Matt Colton; 2026",
+     "related": "Skinshape (former member Will Dorey, solo)",
+     "notes": "Ox is the fifth Palace album and the first on the band's own label, Palace Presents, with AWAL.",
+     "notes_source": "web (search summaries), Nov. 5 draft",
+     "label_note": "Research: Palace Presents (own label) with AWAL."
     },
     {
      "artist": "Lex Walton",
@@ -245,7 +399,11 @@
      "source": "review rotation",
      "videoId": "cK6ooeCdXUY",
      "rel_main": "Aug. 26, 2026",
-     "rel_sub": "album; LP and CD Nov. 20, 2026"
+     "rel_sub": "album; LP and CD Nov. 20, 2026",
+     "credits": "Prod. Lex Walton, Dan Boeckner; recorded, mixed, mastered by Ben Greenberg at Thump and Circular Ruin, Williamsburg; 2026",
+     "related": "Dan Boeckner: Wolf Parade, Handsome Furs. Guests: Sarah Neufeld (Arcade Fire), Sam Revaz and Emily Green (Geese)",
+     "notes": "Ultimate Love Forever is the Sub Pop debut for Lex Walton, with seven songs in about 20 minutes, produced with Dan Boeckner of Wolf Parade.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
     },
     {
      "artist": "Ty Segall",
@@ -263,7 +421,11 @@
      "fcc_note": "CLEAN (Genius, Oct. 6)",
      "source": "Next Show (Stace add)",
      "videoId": "pirkuE2Edgc",
-     "duration": "4:59"
+     "duration": "4:59",
+     "credits": "Prod. Ty Segall and Cooper Crain (Crain recorded); band cut it at Sonic Ranch; 2026",
+     "related": "Ty Segall band on Chrome: Ben Boye, Evan Burrows, Mikal Cronin, Emmett Kelly",
+     "notes": "Ty Segall cut Chrome with his band at Sonic Ranch in six days, after a month of rehearsals, with Cooper Crain co-producing.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
     },
     {
      "artist": "This Is Lorelei",
@@ -280,8 +442,12 @@
      "duration": "3:28",
      "videoId": "LHPybTFbWAA",
      "source": "Next Show (Stace add)",
-     "tag": "",
-     "label_source": "ZK label table; your July spins used Matador Records"
+     "tag": "1156441",
+     "label_source": "zookeeper album 1156441",
+     "credits": "Nate Amos (producer, mixer); 2026",
+     "related": "Nate Amos is This Is Lorelei and also records with Water From Your Eyes",
+     "notes": "This Is Lorelei is Nate Amos, and his sister Sarah sings backing vocals on The Singer in My Band, his first album for Matador.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
     },
     {
      "artist": "The Fall",
@@ -308,7 +474,12 @@
       "https://www.noise11.com/news/the-fall-final-album-post-script-september-2026-20260615",
       "https://newreleases.discogs.com/eu/release/769992-the-fall-post-script-the-final-studio-album-from-the-fall"
      ],
-     "research_confidence": "medium"
+     "research_confidence": "medium",
+     "credits": "Prod. Ed Blaney and Simon \"Ding\" Archer; built on unused Mark E. Smith vocals from 2001 to 2014; 2026",
+     "related": "Ed Blaney (guitar) and Simon \"Ding\" Archer (bass) assembled the music",
+     "notes": "Post Script is built from unused Mark E. Smith vocals recorded from 2001 to 2014; Smith's family says it did not approve the release.",
+     "notes_source": "web (search summaries), Nov. 5 draft",
+     "label_note": "Smith family and manager dispute the release; on-air note says so."
     },
     {
      "artist": "Sylvan Esso",
@@ -335,7 +506,11 @@
       "https://shorefire.com/releases/entry/sylvan-esso-embrace-the-pain-on-ow-new-album-out-september-11-via-psychic-hotline",
       "https://sylvanesso.bandcamp.com/track/concrete-glen"
      ],
-     "research_confidence": "medium"
+     "research_confidence": "medium",
+     "credits": "Prod. Amelia Meath and Nick Sanborn; tracked at their studio, Betty's, Chapel Hill, N.C; 2026",
+     "related": "Amelia Meath also sings in Mountain Man",
+     "notes": "Concrete Glen was the lead single from Ow, Sylvan Esso's first album on their own label, Psychic Hotline, and it samples Sigur Ros.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
     },
     {
      "artist": "Yard Act",
@@ -352,13 +527,18 @@
      "duration": "4:33",
      "videoId": "UEjLrx6c38Q",
      "source": "carried from an earlier plan",
-     "tag": "",
-     "label_source": "ZK label table; US release Republic (Island in UK); your New Beginnings spins used Republic"
+     "tag": "1156564",
+     "label_source": "zookeeper album 1156564",
+     "credits": "Prod. Justin Meldal-Johnsen; recorded in Leeds and Los Angeles; 2026",
+     "related": "Producer Justin Meldal-Johnsen has worked with Nine Inch Nails, Beck and St. Vincent",
+     "notes": "Yard Act made this album with producer Justin Meldal-Johnsen, and the band says Over the Barrel was written in an afternoon and nearly forgotten.",
+     "notes_source": "web (search summaries), Nov. 5 draft",
+     "label_note": "Research found Republic (US) and Island (UK) both cited; unresolved."
     }
    ]
   },
   {
-   "set": "Hour 1, Set 3: Anniversaries: 1991, 1996 and 2001",
+   "set": "Hour 1, Set 4: Anniversaries: 1991, 1996 and 2001",
    "tracks": [
     {
      "artist": "my bloody valentine",
@@ -379,7 +559,11 @@
      "videoId": "",
      "ytm_missing": true,
      "rel_main": "Nov. 4, 1991",
-     "rel_sub": "album, 35 years"
+     "rel_sub": "album, 35 years",
+     "credits": "Prod. Kevin Shields; recorded at 19 studios incl. Elephant (Wapping) and Falconer (Kentish Town), London; 1989 to 1991",
+     "related": "Bilinda Butcher and Kevin Shields share vocals; Colm O Cioisoig plays drums",
+     "notes": "Loveless was recorded at 19 studios over about two years, and Colm O Cioisoig played live drums on Only Shallow.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
     },
     {
      "artist": "Teenage Fanclub",
@@ -388,7 +572,7 @@
      "label": "Geffen Records",
      "label_source": "zookeeper album 15387",
      "tag": "15387",
-     "released": "1991-11 (Nov. 4 per Wikipedia list; verify day)",
+     "released": "1991-11 (day unverified)",
      "type": "album track",
      "upcoming": "",
      "duration": "2:01",
@@ -399,7 +583,11 @@
      "source": "recon (anniversary)",
      "videoId": "s0WSG9xD7H0",
      "rel_main": "Nov. 1991",
-     "rel_sub": "album, 35 years (day: verify)"
+     "rel_sub": "album, 35 years (day: verify)",
+     "credits": "Prod. Don Fleming; recorded and mixed at Amazon Studios, Liverpool, Apr. 9 to May 12, 1991",
+     "related": "Formerly the Boy Hairdressers (formed 1989). Norman Blake wrote and sang What You Do to Me",
+     "notes": "Norman Blake wrote and sings What You Do to Me, the third single from Bandwagonesque, which reached No. 19 on Billboard's modern rock chart.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
     },
     {
      "artist": "Wilco",
@@ -419,7 +607,11 @@
      "source": "recon (anniversary)",
      "videoId": "ZasGLLCEwTA",
      "rel_main": "Oct. 29, 1996",
-     "rel_sub": "album, 30 years"
+     "rel_sub": "album, 30 years",
+     "credits": "Prod. Wilco; recorded at Chicago Recording Co. and Warzone Recorders (Chicago), The Studio (Springfield, Mo.), Moonshine (Atlanta); 1996",
+     "related": "Uncle Tupelo (Jeff Tweedy), Son Volt (Jay Farrar, after the Tupelo split). Lineup: Tweedy, Jay Bennett, John Stirratt, Ken Coomer",
+     "notes": "Wilco formed in 1994 after Uncle Tupelo split, and Being There was their second album, a double LP sold at a single-album price.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
     },
     {
      "artist": "Johnny Cash",
@@ -433,13 +625,17 @@
      "upcoming": "",
      "duration": "2:49",
      "priority": "R",
-     "why": "30 years on show day: Unchained (American II) came out Nov. 5, 1996 on American Recordings. Tom Petty and the Heartbreakers back Cash. Rusty Cage covers Soundgarden. Won the Grammy for Best Country Album.",
+     "why": "30 years on show day: Unchained (American II) came out Nov. 5, 1996 on American Recordings per Wikipedia, Last.fm and Rate Your Music. johnnycash.com lists Oct. 22: verify.",
      "fcc_status": "CLEAN",
      "fcc_note": "CLEAN (Genius, 209 words).",
      "source": "recon (anniversary)",
      "videoId": "wMlNxB8dXFM",
      "rel_main": "Nov. 5, 1996",
-     "rel_sub": "album, 30 years today"
+     "rel_sub": "album, 30 years today",
+     "credits": "Rick Rubin (producer); Sylvia Massy (engineer); 1995 to 1996",
+     "related": "Backed by Tom Petty and the Heartbreakers",
+     "notes": "Rick Rubin suggested Rusty Cage, a Soundgarden song, and Cash cut it with Tom Petty and the Heartbreakers; the album won a Grammy for Best Country Album. (johnnycash.com lists Oct. 22; verify the day.)",
+     "notes_source": "web (search summaries), Nov. 5 draft"
     },
     {
      "artist": "Silver Jews",
@@ -448,18 +644,22 @@
      "label": "Drag City",
      "label_source": "zookeeper album 345079",
      "tag": "345079",
-     "released": "1996-10-30 (Wikipedia list; verify)",
+     "released": "1996 (day unverified; Oct. 1 per aggregators, Oct. 30 per Wikipedia list)",
      "type": "album track",
      "upcoming": "",
      "duration": "4:14",
      "priority": "O",
-     "why": "30 years: The Natural Bridge, Oct. 30, 1996 per the Wikipedia 1996 list; one source, verify. Drag City.",
+     "why": "30 years: The Natural Bridge came out in 1996 on Drag City. Release day unverified: sources give Oct. 1 and Oct. 30.",
      "fcc_status": "CLEAN",
      "fcc_note": "CLEAN (Genius, 219 words).",
      "source": "recon (anniversary)",
      "videoId": "U0IgWuSiFDk",
      "rel_main": "Oct. 30, 1996 (verify)",
-     "rel_sub": "album, 30 years"
+     "rel_sub": "album, 30 years",
+     "credits": "Rian Murphy and the Shadwell Cougars (Discogs); mixed by Michael Deming and Thom Monahan; recorded 1996 at Studio .45, Hartford",
+     "related": "David Berman founded the band with Pavement's Stephen Malkmus and Bob Nastanovich",
+     "notes": "Silver Jews recorded The Natural Bridge in summer 1996 at Studio .45 in Hartford, after earlier sessions with Malkmus and Nastanovich were scrapped.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
     },
     {
      "artist": "Chavez",
@@ -479,7 +679,11 @@
      "source": "recon (anniversary)",
      "videoId": "QoH5KoF9zSQ",
      "rel_main": "Nov. 5, 1996 (verify)",
-     "rel_sub": "album, 30 years today"
+     "rel_sub": "album, 30 years today",
+     "credits": "John Agnello and Bryce Goggin (co-producers); 1996",
+     "related": "Matt Sweeney later played in Zwan with Billy Corgan. Members: Matt Sweeney, Clay Tarver, James Lo, Scott Marshall",
+     "notes": "Ride the Fader was the second and final Chavez album, and Matt Sweeney later played in Zwan with Billy Corgan.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
     },
     {
      "artist": "The National",
@@ -499,12 +703,15 @@
      "source": "recon (anniversary)",
      "videoId": "suEm2nzKVBA",
      "rel_main": "Oct. 30, 2001 (verify)",
-     "rel_sub": "debut album, 25 years"
+     "rel_sub": "debut album, 25 years",
+     "credits": "Prod. Nick Lloyd and the band; Lloyd engineered; released 2001",
+     "notes": "The National's debut came out in 2001 on Brassland, the label the band formed with writer Alec Bemis, before the band had played a live show.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
     }
    ]
   },
   {
-   "set": "Hour 2, Thursday Triple Shot: Thao",
+   "set": "Hour 2, Set 5: Thursday Triple Shot: Thao",
    "tracks": [
     {
      "artist": "Thao & The Get Down Stay Down",
@@ -524,7 +731,11 @@
      "source": "triple shot",
      "videoId": "nusf4Sfl6Wk",
      "rel_main": "2008",
-     "rel_sub": "album"
+     "rel_sub": "album",
+     "credits": "Prod. Tucker Martine; recorded at Flora Studios, Seattle and Portland; 2008",
+     "related": "Thao Nguyen also recorded as Thao & Mirah (2011) and as solo act THAO (2026)",
+     "notes": "Thao Nguyen made her first Kill Rock Stars album with producer Tucker Martine in Seattle and Portland.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
     },
     {
      "artist": "Thao & Mirah",
@@ -544,7 +755,11 @@
      "source": "triple shot",
      "videoId": "LI4g7kT3tS8",
      "rel_main": "2011",
-     "rel_sub": "album"
+     "rel_sub": "album",
+     "credits": "Merrill Garbus, Mirah and Thao (co-producers); recorded at Tiny Telephone, San Francisco, Aug.-Sept. 2010; 2011",
+     "related": "Merrill Garbus of tUnE-yArDs wrote Eleven; Mirah solo",
+     "notes": "Merrill Garbus of tUnE-yArDs wrote this opener and co-produced the 2011 album by Thao Nguyen and Mirah.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
     },
     {
      "artist": "THAO",
@@ -564,12 +779,16 @@
      "source": "triple shot",
      "videoId": "l1mT5WQwYPI",
      "rel_main": "Oct. 30, 2026",
-     "rel_sub": "single; album Oct. 30, 2026"
+     "rel_sub": "single; album Oct. 30, 2026",
+     "credits": "Self-produced with Merrill Garbus and Nate Brenner of tUnE-yArDs; 2026",
+     "related": "Guests: Merrill Garbus (tUnE-yArDs), The Linda Lindas, Neko Case, Adrian Quesada (Black Pumas)",
+     "notes": "Thao's first album in six years features Merrill Garbus and the Linda Lindas on this single, written as a protest anthem.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
     }
    ]
   },
   {
-   "set": "Hour 2, Set 5: Bay Area, Nov. 5 to 8 (upcoming shows only)",
+   "set": "Hour 2, Set 6: Bay Area, Nov. 5 to 8 (upcoming shows only)",
    "tracks": [
     {
      "artist": "Team Dresch",
@@ -589,7 +808,11 @@
      "source": "weekly playlist (Friday sweep)",
      "videoId": "tMf78i0mQP8",
      "rel_main": "1990s",
-     "rel_sub": "verify year"
+     "rel_sub": "verify year",
+     "credits": "Kill Rock Stars KRS 227 7-inch, 1994; Scott Plouf of the Spinanes on drums per AllMusic; producer not found",
+     "related": "Jody Bleyle (Hazel, Lovebutt); Kaia Wilson and Melissa York later formed The Butchies",
+     "notes": "Team Dresch released Hand Grenade as a 1994 Kill Rock Stars 7-inch, and the band put out a new album, Furthermore, in September.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
     },
     {
      "artist": "The Black Angels",
@@ -609,7 +832,11 @@
      "source": "recon",
      "videoId": "pWyfwoWaquQ",
      "rel_main": "2017",
-     "rel_sub": "album"
+     "rel_sub": "album",
+     "credits": "Prod. Phil Ek; recorded at Arlyn Studios, Austin and Avast! Studios, Seattle, fall 2016; 2017",
+     "related": "Christian Bland also leads Christian Bland and the Revelators",
+     "notes": "Currency opens Death Song, the fifth album by the Austin band, produced by Phil Ek.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
     },
     {
      "artist": "Sour Widows",
@@ -629,7 +856,11 @@
      "source": "weekly playlist (Friday sweep)",
      "videoId": "neIym9G-0Ss",
      "rel_main": "Oct. 23, 2026",
-     "rel_sub": "album"
+     "rel_sub": "album",
+     "credits": "Prod. Melina Duterte (Jay Som) and Sour Widows; recorded at Seahorse Studios, Los Angeles; 2026",
+     "related": "Duo of Maia Sinaiko and Susanna Thomson, formerly a trio",
+     "notes": "Sour Widows, now a Bay Area duo, made Sigil in Los Angeles with Melina Duterte, who records as Jay Som.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
     },
     {
      "artist": "Colleen Green",
@@ -649,7 +880,10 @@
      "source": "weekly playlist (Friday sweep)",
      "videoId": "oY-ZfipiU7g",
      "rel_main": "Feb. 2015",
-     "rel_sub": "album"
+     "rel_sub": "album",
+     "credits": "Prod. Colleen Green and Jake Orrall; recorded and mixed by Vance Powell at Sputnik Sound, Nashville; 2015",
+     "notes": "Whatever I Want closes I Want to Grow Up, Green's third album and her first recorded in a professional studio.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
     },
     {
      "artist": "L.A. Witch",
@@ -669,7 +903,10 @@
      "source": "recon",
      "videoId": "F_IE7EMjB0U",
      "rel_main": "2017",
-     "rel_sub": "album"
+     "rel_sub": "album",
+     "credits": "Producer not verified; recorded at Hurley Studios, Costa Mesa; mixed in Highland Park, Los Angeles; 2017",
+     "notes": "Kill My Baby Tonight opens the self-titled debut from the Los Angeles trio, recorded in Costa Mesa.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
     },
     {
      "artist": "Big Star",
@@ -689,40 +926,24 @@
      "source": "recon",
      "videoId": "IRGdfyrVjlw",
      "rel_main": "1974",
-     "rel_sub": "album"
+     "rel_sub": "album",
+     "credits": "Credited to Big Star; John Fry executive producer and engineer; Ardent Studios, Memphis; 1974",
+     "related": "Chris Bell left before the sessions",
+     "notes": "Alex Chilton wrote September Gurls, which Big Star recorded at Ardent Studios in Memphis in late 1973 for Radio City.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
     }
    ]
   },
   {
-   "set": "Hour 2, Set 6: Punk and post-punk, Texas to Dublin",
+   "set": "Hour 2, Set 7: Punk and post-punk, San Francisco to New York",
    "tracks": [
-    {
-     "artist": "Dicks",
-     "track": "Hate the Police",
-     "album": "Virus that Would not Die",
-     "label": "Alternative Tentacles Records",
-     "label_source": "zookeeper album 419677",
-     "tag": "419677",
-     "released": "1980 (original single; verify)",
-     "type": "album track",
-     "upcoming": "",
-     "duration": "1:59",
-     "priority": "R",
-     "why": "Texas punk slot (config/show_focus.json). Austin band; Gary Floyd on vocals. The library album is the Alternative Tentacles release.",
-     "fcc_status": "CLEAN",
-     "fcc_note": "CLEAN (Genius, 191 words).",
-     "source": "recon",
-     "videoId": "7a3p69gv1Jg",
-     "rel_main": "1980",
-     "rel_sub": "single (verify)"
-    },
     {
      "artist": "Avengers",
      "track": "We Are the One",
      "album": "Avengers",
-     "label": "Dangerhouse (verify)",
-     "label_source": "web (verify)",
-     "tag": "",
+     "label": "Cd Baby",
+     "label_source": "zookeeper album 979454 (library CD; original single on Dangerhouse)",
+     "tag": "979454",
      "released": "1977 (Dangerhouse single)",
      "type": "single",
      "upcoming": "",
@@ -732,35 +953,13 @@
      "fcc_status": "CLEAN",
      "fcc_note": "CLEAN (Genius, 117 words).",
      "source": "carried from an earlier plan",
-     "videoId": "dJDSyCr4Dz8"
-    },
-    {
-     "artist": "The Damned",
-     "track": "Neat Neat Neat",
-     "album": "Damned Damned Damned",
-     "label": "Frontier",
-     "label_source": "zookeeper album 982492",
-     "tag": "982492",
-     "released": "1977",
-     "type": "album track",
-     "upcoming": "",
-     "duration": "2:41",
-     "priority": "O",
-     "why": "Punk focus. Damned Triple Shot song that did not air Oct. 22 (Neat Neat Neat). From Damned Damned Damned (1977).",
-     "fcc_status": "CLEAN",
-     "fcc_note": "CLEAN (Genius, 356 words).",
-     "source": "carried from an earlier plan",
-     "videoId": "gXKDtkCzSCw",
-     "shows": [
-      "Wed. Nov. 11, Fillmore, S.F., with Flamin' Groovies and Courettes (doors 7 p.m., show 8 p.m.)."
-     ],
-     "research_sources": [
-      "https://en.wikipedia.org/wiki/Neat_Neat_Neat",
-      "https://en.wikipedia.org/wiki/Damned_Damned_Damned",
-      "https://www.dreamdeferred.org.uk/2015/01/the-damned-neat-neat-neat/",
-      "https://www.discogs.com/release/1071649-The-Damned-Neat-Neat-Neat"
-     ],
-     "research_confidence": "high"
+     "videoId": "dJDSyCr4Dz8",
+     "credits": "Rand McNally (single source); engineer Ian Michael Hamilton; recorded Oct. 1977 in Hollywood",
+     "related": "Formed by Greg Ingraham and Danny Furious with singer Penelope Houston and bassist Jimmy Wilsey",
+     "notes": "San Francisco's Avengers released We Are the One on Los Angeles label Dangerhouse in 1977, and opened the Sex Pistols' final show.",
+     "notes_source": "web (search summaries), Nov. 5 draft",
+     "zk_alt": "217538 [coll]: Dangerhouse (Frontier)",
+     "label_note": "Original single: Dangerhouse. Zookeeper spelling wins for the log."
     },
     {
      "artist": "The Linda Lindas",
@@ -780,7 +979,10 @@
      "source": "Next Show (Stace add)",
      "videoId": "Qe7aq1VcuxE",
      "rel_main": "Aug. 28, 2026",
-     "rel_sub": "album"
+     "rel_sub": "album",
+     "credits": "Prod. Carlos de la Garza; 2026",
+     "notes": "The Linda Lindas' third album, Gotta Get Out, came out Aug. 28 on Reprise and was again produced by Carlos de la Garza, father of two band members.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
     },
     {
      "artist": "Sprints",
@@ -800,7 +1002,11 @@
      "source": "Next Show (Stace add)",
      "videoId": "TybCMKD_vU4",
      "rel_main": "Jan. 11, 2022",
-     "rel_sub": "single; EP Mar. 11, 2022"
+     "rel_sub": "single; EP Mar. 11, 2022",
+     "credits": "Prod. Daniel Fox of Gilla Band; 2022",
+     "related": "Producer Daniel Fox is the drummer of Gilla Band, Dublin",
+     "notes": "Sprints are a Dublin garage punk band. Little Fix was produced by Gilla Band drummer Daniel Fox and released in 2022 on Nice Swan Records.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
     },
     {
      "artist": "TV Priest",
@@ -820,12 +1026,85 @@
      "source": "Next Show (Stace add)",
      "videoId": "tKcbUTCGY3Q",
      "rel_main": "Feb. 5, 2021",
-     "rel_sub": "album"
+     "rel_sub": "album",
+     "credits": "Nic Bueth (producer, recorded, mixed); Studio East, London; mastered at Alchemy Mastering, AIR Studios; 2021",
+     "related": "Members have played together since school",
+     "notes": "Decoration was TV Priest's first single for Sub Pop, released Oct. 28, 2020, ahead of debut album Uppers. Bassist Nic Bueth produced it.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
+    },
+    {
+     "artist": "TV Priest",
+     "track": "Just So You Know",
+     "album": "Cartoons",
+     "label": "AMK / Kartel Music Group (verify)",
+     "label_source": "web (verify); not in library",
+     "tag": "",
+     "released": "2026-11-06 (album out tomorrow)",
+     "type": "DJ Stace add",
+     "upcoming": "",
+     "duration": "3:42",
+     "priority": "R",
+     "why": "Added to Air Order by DJ Stace.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, 179 words).",
+     "source": "DJ Stace add",
+     "added_by": "DJ Stace",
+     "videoId": "kKMhS5zhcnc",
+     "related": "Members have played together since school",
+     "notes": "Opens TV Priest's album Cartoons, out tomorrow, Nov. 6. Label comes from press outlets; confirm on the release.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
+    },
+    {
+     "artist": "Bauhaus",
+     "track": "The Passion of Lovers",
+     "album": "Mask",
+     "label": "Beggars Banquet",
+     "label_source": "original release, label spelled per Zookeeper",
+     "tag": "",
+     "released": "1981",
+     "type": "DJ Stace add",
+     "upcoming": "",
+     "duration": "3:52",
+     "priority": "R",
+     "why": "Added to Air Order by DJ Stace.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, 256 words).",
+     "source": "DJ Stace add",
+     "added_by": "DJ Stace",
+     "videoId": "qSk88IeNUr0",
+     "credits": "Bauhaus (producers); recorded 1981 at Playground and Jam studios, London",
+     "related": "Love and Rockets, Tones on Tail, Peter Murphy, Daniel Ash, David J, Kevin Haskins",
+     "notes": "Bauhaus put out \"The Passion of Lovers\" as a single in June 1981, and it reached No. 56 on the UK chart before the Mask album.",
+     "notes_source": "web (search summaries), Nov. 5 draft",
+     "zk_alt": "831 Greatest Hits Vol. I; 937313 Singles 1981-1983, The; 455295 Crackle"
+    },
+    {
+     "artist": "Sonic Youth",
+     "track": "Bull In The Heather",
+     "album": "Experimental Jet Set, Trash and No Star",
+     "label": "Geffen Records",
+     "label_source": "zookeeper album 164089",
+     "tag": "164089",
+     "released": "1994",
+     "type": "DJ Stace add",
+     "upcoming": "",
+     "duration": "3:05",
+     "priority": "R",
+     "why": "Added to Air Order by DJ Stace.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, 165 words).",
+     "source": "DJ Stace add",
+     "added_by": "DJ Stace",
+     "videoId": "PGPOcQ14Eo0",
+     "credits": "Butch Vig with Sonic Youth (producers); Sear Sound, New York City; 1994",
+     "related": "Thurston Moore, Kim Gordon, Lee Ranaldo, Steve Shelley; Free Kitten, Body/Head, Ciccone Youth",
+     "notes": "Butch Vig, who produced Nirvana's Nevermind, produced Sonic Youth's 1994 album Experimental Jet Set, Trash and No Star, which includes this song.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
     }
    ]
   },
   {
-   "set": "Hour 2, Set 7: Machines and motorik",
+   "set": "Hour 2, Set 8: Machines and motorik",
    "tracks": [
     {
      "artist": "Kraftwerk",
@@ -852,7 +1131,11 @@
       "https://www.discogs.com/release/260556-Kraftwerk-Numbers-Computer-Love",
       "https://www.discogs.com/release/2626417-Kraftwerk-Computer-World"
      ],
-     "research_confidence": "medium"
+     "research_confidence": "medium",
+     "credits": "Ralf Hütter, Florian Schneider (producers); recorded at Kling Klang Studio, Düsseldorf; 1981",
+     "related": "Karl Bartos (co-writer of Numbers) later founded Elektric Music",
+     "notes": "Numbers is credited to Hütter, Schneider and Karl Bartos, and was recorded at Kling Klang Studio in Düsseldorf for Computer World.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
     },
     {
      "artist": "Cabaret Voltaire",
@@ -879,7 +1162,11 @@
       "https://www.whosampled.com/Cabaret-Voltaire/Nag-Nag-Nag/",
       "https://en.wikipedia.org/wiki/Cabaret_Voltaire_(band)"
      ],
-     "research_confidence": "medium"
+     "research_confidence": "medium",
+     "credits": "Producer not found; Rough Trade RT 018, 1979; recorded at Western Works, Sheffield per Discogs reissue credit, London per the band",
+     "related": "Chris Watson later co-founded The Hafler Trio; Richard H. Kirk: Sandoz, Sweet Exorcist, XON",
+     "notes": "Nag, Nag, Nag was Cabaret Voltaire's second single, released on Rough Trade in 1979. The Sheffield band formed in 1973.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
     },
     {
      "artist": "Hot Chip",
@@ -897,12 +1184,58 @@
      "fcc_status": "CLEAN",
      "fcc_note": "CLEAN (Genius, 1,693 chars).",
      "source": "Next Show (Stace add)",
-     "videoId": "FEQJgTFfS9k"
+     "videoId": "FEQJgTFfS9k",
+     "notes": "Hot Chip's lead single from A Long Way From Kansas, due Jan. 8 on Domino, pays tribute to Optimo's Keith McIvor, known as JD Twitch.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
+    },
+    {
+     "artist": "Coil",
+     "track": "Where Even the Darkness Is Something to See",
+     "album": "Love's Secret Domain",
+     "label": "!K7 Records",
+     "label_source": "zookeeper album 870689 (2008 reissue)",
+     "tag": "870689",
+     "released": "1991 (library copy is the 2008 !K7 reissue)",
+     "type": "DJ Stace add",
+     "upcoming": "",
+     "duration": "3:05",
+     "priority": "R",
+     "why": "Added to Air Order by DJ Stace.",
+     "fcc_status": "UNVERIFIED",
+     "fcc_note": "UNVERIFIED: Genius lists no lyrics (0 words). Listen first.",
+     "source": "DJ Stace add",
+     "added_by": "DJ Stace",
+     "videoId": "4DUkHIl7D1E",
+     "credits": "Prod. Coil and Danny Hyde; recorded in London, Jan. 1988 to Oct. 1990; album 1991",
+     "related": "Coil is John Balance and Peter Christopherson",
+     "notes": "From Coil's 1991 album Love's Secret Domain, issued by Torso in Europe and Wax Trax! in the U.S. The library copy is a 2008 !K7 reissue.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
+    },
+    {
+     "artist": "Fujiya & Miyagi",
+     "track": "No Green Light",
+     "album": "No Green Light (single)",
+     "label": "Impossible Objects of Desire",
+     "label_source": "web (verify); not in library",
+     "tag": "",
+     "released": "2026-10-06",
+     "type": "DJ Stace add",
+     "upcoming": "",
+     "duration": "5:51",
+     "priority": "R",
+     "why": "Added to Air Order by DJ Stace.",
+     "fcc_status": "UNVERIFIED",
+     "fcc_note": "UNVERIFIED: Genius lists no lyrics (0 words). Listen first.",
+     "source": "DJ Stace add",
+     "added_by": "DJ Stace",
+     "videoId": "K5l80OdiCzM",
+     "notes": "Fujiya & Miyagi of Brighton released \"No Green Light\" on Oct. 6 ahead of their album New Shiny Object, out Oct. 30 on Impossible Objects of Desire.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
     }
    ]
   },
   {
-   "set": "Hour 2, Set 8: Slow closers",
+   "set": "Hour 2, Set 9: Slow closers",
    "tracks": [
     {
      "artist": "Galaxie 500",
@@ -923,7 +1256,11 @@
       "tag": "342425",
       "album": "Selected Galaxie 500",
       "label": "Rykodisc"
-     }
+     },
+     "credits": "Kramer (producer, engineer); recorded at Noise New York; Feb. 1988 sessions; album 1988",
+     "related": "Dean Wareham: Luna, Dean & Britta",
+     "notes": "Kramer produced Tugboat at Noise New York in 1988. Galaxie 500 members went on to form Luna and Damon and Naomi.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
     },
     {
      "artist": "John Lennon",
@@ -943,7 +1280,11 @@
      "source": "Next Show (Stace add)",
      "videoId": "2Kx2PbA8bCI",
      "rel_main": "Nov. 17, 1980 (verify)",
-     "rel_sub": "album"
+     "rel_sub": "album",
+     "credits": "Prod. John & Yoko and Jack Douglas; recorded at the Hit Factory, New York, Aug. 1980; mixed there",
+     "related": "The Beatles; co-billed album with Yoko Ono",
+     "notes": "Lennon recorded Watching the Wheels at the Hit Factory in New York in August 1980. It was the third single from Double Fantasy.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
     },
     {
      "artist": "Chris Cornell",
@@ -963,7 +1304,32 @@
      "source": "Next Show (Stace add)",
      "videoId": "1DnSiznUrVI",
      "rel_main": "1992",
-     "rel_sub": "soundtrack"
+     "rel_sub": "soundtrack",
+     "related": "Soundgarden; Temple of the Dog",
+     "notes": "Cornell contributed Seasons to the Singles soundtrack, released June 30, 1992, on Epic, the year he also put out his first solo EP.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
+    },
+    {
+     "artist": "J Mascis",
+     "track": "Fade Into You",
+     "album": "Fade Into You (7-inch single)",
+     "label": "Sub Pop Records",
+     "label_source": "web (verify); not in library",
+     "tag": "",
+     "released": "2014 (Record Store Day Black Friday single)",
+     "type": "DJ Stace add",
+     "upcoming": "",
+     "duration": "4:36",
+     "priority": "R",
+     "why": "Added to Air Order by DJ Stace.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN, check by ear: Genius has no page for this cover; the Mazzy Star original (192 words) has no flagged words.",
+     "source": "DJ Stace add",
+     "added_by": "DJ Stace",
+     "videoId": "iBapsQ14yhc",
+     "related": "Dinosaur Jr., Witch, Sweet Apple",
+     "notes": "J Mascis covers Mazzy Star, written by Hope Sandoval and David Roback. Sub Pop issued it as a 7-inch for Record Store Day Black Friday 2014.",
+     "notes_source": "web (search summaries), Nov. 5 draft"
     }
    ]
   }
@@ -1035,10 +1401,10 @@
   ]
  },
  "ticket_giveaway": {
-  "default_rule_result": "No November ticket sheet in the repo (data/tickets has only 2026-10, which ends Oct. 29). No giveaway placed.",
+  "default_rule_result": "No November ticket sheet in the repo (data/tickets has only 2026-10). No giveaway placed.",
   "proposed": "None.",
   "flag": "Paste the November rows in chat if there is a giveaway for Nov. 5 or later. Rules, call-in number and show time: confirm before air.",
-  "placement": "Hour 2, after the Bay Area set, if used"
+  "placement": "Hour 2, after the Bay Area set (Set 6), if used"
  },
  "bay_area_shows": [
   {
@@ -1156,37 +1522,42 @@
  ],
  "mic_breaks": {
   "opening": [
-   "Punk and post-punk focus, week 4 of 4 before the Nov. 12 review: Team Dresch, Dicks and Avengers tonight.",
+   "Punk and post-punk focus, week 4 of 4 before the Nov. 12 review: Team Dresch, Avengers, Bauhaus and TV Priest tonight.",
    "Queens of the Stone Age, Clinic, DIIV, Ex:Re, Sennen and Thao all released albums Oct. 30.",
-   "Wilco's Being There turned 30 on Oct. 29. Johnny Cash's Unchained turns 30 tonight."
+   "Wilco's Being There turned 30 on Oct. 29. Johnny Cash's Unchained is dated Nov. 5, 1996 by Wikipedia and Chavez's Ride the Fader the same day (johnnycash.com lists Oct. 22: verify)."
   ],
-  "after_new": [
+  "after_set_1": [
    "Perfecth is the ninth QOTSA album, on Matador, produced by Josh Homme and Michael Shuman. It has nine tracks and four singles.",
    "Clinic's Wild in the Streets is their tenth album, on Domino. Sennen's New Quiet is their first in ten years, on Sonic Cathedral.",
    "DIIV's ZIRP! was produced by A. G. Cook. Ex:Re is Elena Tonra of Daughter; Save As is out on 4AD."
   ],
-  "end_hour_1": [
+  "after_set_2": [
+   "Caroline Rose's Gentling the Horse at the Walt Whitman Mall came out Oct. 23 on her own label, SUCK Records, produced by John Congleton.",
+   "Philip Frobos of Omni has a solo album, Taste for the Unsavory, due Jan. 29. Mr. Dinkles, a Los Angeles duo, released Brain on Oct. 30 (one source for that date)."
+  ],
+  "after_set_3": [
    "Reviewed this month and in rotation: Twisted Teens, Palace, Lex Walton, Ty Segall, This Is Lorelei, The Fall, Sylvan Esso and Yard Act.",
    "Lex Walton's Ultimate Love Forever is out as CD and LP Nov. 20 on Sub Pop. Twisted Teens' Holy Cross Tigers is out tomorrow, Nov. 6, on Sub Pop.",
    "Station ID at the top of the hour."
   ],
-  "anniversary": [
+  "after_set_4": [
    "My Bloody Valentine's Loveless came out Nov. 4, 1991 on Creation in the UK. Teenage Fanclub's Bandwagonesque came out the same month, also on Creation.",
    "Wilco's Being There: Oct. 29, 1996, Reprise. Johnny Cash's Unchained: Nov. 5, 1996, American Recordings, with Tom Petty and the Heartbreakers. Rusty Cage is a Soundgarden song.",
-   "The Fall's Are You Are Missing Winner came out Nov. 5, 2001 on Cog Sinister. The National's debut came out Oct. 30, 2001 (verify)."
-  ],
-  "triple_shot_intro": [
+   "The Fall's Are You Are Missing Winner came out Nov. 5, 2001 on Cog Sinister. The National's debut came out Oct. 30, 2001 (verify).",
    "Thursday Triple Shot: Thao. Three projects: Thao & The Get Down Stay Down, Thao & Mirah, and the new single with Tune-Yards and The Linda Lindas.",
    "Show Me is her first album in six years, out Oct. 30 on Kill Rock Stars. She plays the Independent in San Francisco Sunday, Nov. 8."
   ],
   "after_triple_shot": [
    "Thao & Mirah (2011) was produced by Tune-Yards' Merrill Garbus. Neko Case and Adrian Quesada guest on Show Me."
   ],
-  "bay_area_break": [
+  "after_set_6": [
    "Tonight, Thu. Nov. 5: Team Dresch at Bottom of the Hill, The Black Angels at the Regency Ballroom, Squirrel Flower with Sour Widows at Chapel, Colleen Green at the Ivy Room in Albany.",
    "Fri. Nov. 6: King Buffalo with L.A. Witch at the Independent. Sat. Nov. 7: Big Star Quintet at the Fillmore. Sun. Nov. 8: Thao's album release at the Independent."
   ],
-  "after_machines": [
+  "after_set_7": [
+   "TV Priest's Cartoons is out tomorrow, Nov. 6. Bauhaus's Passion of Lovers came out as a single in 1981, before the Mask album."
+  ],
+  "after_set_8": [
    "Numbers is from Kraftwerk's Computer World (1981). Nag, Nag, Nag is Cabaret Voltaire's 1979 Rough Trade single."
   ],
   "closing": [
@@ -2075,6 +2446,26 @@
    "fcc_note": "CLEAN (Genius, 161 words).",
    "source": "Friday sweep Oct. 30",
    "videoId": "Ju-eHbKHr1k"
+  },
+  {
+   "artist": "Star Moles",
+   "track": "Born Again (Bonus Track)",
+   "album": "Highway to Hell",
+   "label": "Dead Oceans",
+   "label_source": "web (verify); not in library",
+   "tag": "",
+   "released": "2026 (bonus track; vinyl reissue Dec. 4)",
+   "type": "Next Show add",
+   "duration": "3:38",
+   "priority": "X",
+   "why": "Swapped into Stace's Next Show playlist for Born Again.",
+   "fcc_status": "CLEAN",
+   "fcc_note": "CLEAN (Genius, 253 words, the album version).",
+   "source": "Next Show",
+   "videoId": "YEGe1k1fKU4",
+   "notes": "An original, not an AC/DC cover. Bonus track on the Dead Oceans vinyl reissue of Star Moles' Highway to Hell, due Dec. 4.",
+   "credits": "Recorded and mixed by Kevin Basko at his New Jersey studio. Video directed by Lucky Marvel.",
+   "added_by": "DJ Stace"
   }
  ],
  "review_rotation": {
@@ -2099,12 +2490,27 @@
   "config": "config/review_rotation.json"
  },
  "cooloff_note": "Kept out: Oct. 16 New Releases for Review deletes (cool-off to Dec. 15), Oct. 20 Spanish Love Songs (Dec. 19), Oct. 22 Fontaines D.C. and Pulp (Dec. 21), Oct. 23 L7, Clinic You and I, Cursive, Blondie, PISS and Prize Horse (Dec. 22), Oct. 27 Lambrini Girls Spilt and The Garden Bootleg (Dec. 26). Fontaines D.C. has 3 removals, so the artist is down-weighted. Stace's Oct. 29 Air Order cuts (33 tracks) were made for the one-hour show and were not logged as cool-offs; the exact tracks are avoided this week.",
- "cut": [],
- "air_order_note": "Oct. 29 (Thursday-night draft): Air Order rewritten by deltas: 33 Halloween tracks removed, 42 added, 1 kept (Twisted Teens Circus Clown), 1 move. Verified by fresh read: 43 tracks, order equals the plan. Loveless (my bloody valentine) is not on YouTube Music: play the library CD (tag 13666).",
+ "cut": [
+  {
+   "artist": "Dicks",
+   "track": "Hate the Police",
+   "cut_by": "DJ Stace",
+   "date": "2026-11-05",
+   "reason": "Removed from Air Order after the Nov. 3 read. Show-length or flow cut; not logged as a cool-off."
+  },
+  {
+   "artist": "The Damned",
+   "track": "Neat Neat Neat",
+   "cut_by": "DJ Stace",
+   "date": "2026-11-05",
+   "reason": "Removed from Air Order after the Nov. 3 read. Show-length or flow cut; not logged as a cool-off."
+  }
+ ],
+ "air_order_note": "Nov. 5 morning read: Air Order 52 tracks (43 plan tracks, 11 Stace adds, 2 cuts). Her adds sit at the bottom of the YTM list; the plan places them by angle. Not rewritten by Claude.",
  "final": {
-  "built": "2026-10-29",
+  "built": "2026-11-05",
   "cull_ticks": [],
   "replace_ticks": [],
-  "notes": "Draft. No Stace edits to harvest yet."
+  "notes": "Thursday morning draft (Nov. 5). Harvested Air Order edits: 11 adds, 2 cuts (Dicks Hate the Police, The Damned Neat Neat Neat). Next Show lost 17 tracks and swapped Star Moles Born Again for the bonus-track version; not logged as cool-offs. Weekly unchanged since Nov. 3 (171)."
  }
 }

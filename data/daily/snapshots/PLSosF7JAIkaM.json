@@ -1,223 +1,268 @@
 {
- "playlist": "DJ Stace library show Air Order",
- "id": "PLSosF7JAIkaM",
- "snapshot": "2026-10-29",
- "note": "Oct. 29 Thursday-night draft for Nov. 5: 43 tracks, equals the plan. | Oct. 30 read: unchanged, no Stace edits.",
- "tracks": [
-  [
-   "Queens of the Stone Age",
-   "Run Away From the Mob",
-   "D3pjTpmNo3Q"
-  ],
-  [
-   "Clinic",
-   "Wild In The Streets",
-   "bkxgZ5tgNKU"
-  ],
-  [
-   "Ex:Re",
-   "Radio Station",
-   "n_cPyY09Dw4"
-  ],
-  [
-   "Sennen",
-   "Here It Comes",
-   "06jJKUCkkZE"
-  ],
-  [
-   "DIIV",
-   "Dare Me",
-   "ZO8I_UqFi_E"
-  ],
-  [
-   "Twisted Teens",
-   "When We First Met",
-   "ElPskynxhTA"
-  ],
-  [
-   "Michael Nau",
-   "Popfly",
-   "C1JkLJzrizE"
-  ],
-  [
-   "The Olivia Tremor Control",
-   "The Same Place",
-   "NEGOMO5fajs"
-  ],
-  [
-   "Twisted Teens",
-   "Circus Clown",
-   "FWP2bTeoPTo"
-  ],
-  [
-   "Palace",
-   "Made My Bed",
-   "MR-dh4FTavQ"
-  ],
-  [
-   "Lex Walton",
-   "Adrian Borland Will Have His Revenge On London",
-   "cK6ooeCdXUY"
-  ],
-  [
-   "Ty Segall",
-   "Play Cowboys",
-   "pirkuE2Edgc"
-  ],
-  [
-   "This Is Lorelei",
-   "Hey Sarah Is It Gonna Rain Forever",
-   "LHPybTFbWAA"
-  ],
-  [
-   "The Fall",
-   "A Caveat",
-   "BSraSIhC_8A"
-  ],
-  [
-   "Sylvan Esso",
-   "Concrete Glen",
-   "PVcU0z1zPqk"
-  ],
-  [
-   "Yard Act",
-   "Over The Barrel",
-   "UEjLrx6c38Q"
-  ],
-  [
-   "Teenage Fanclub",
-   "What You Do To Me",
-   "s0WSG9xD7H0"
-  ],
-  [
-   "Wilco",
-   "Outtasite (Outta Mind)",
-   "ZasGLLCEwTA"
-  ],
-  [
-   "Johnny Cash",
-   "Rusty Cage",
-   "wMlNxB8dXFM"
-  ],
-  [
-   "Silver Jews",
-   "Dallas",
-   "U0IgWuSiFDk"
-  ],
-  [
-   "Chavez",
-   "Memorize This Face",
-   "QoH5KoF9zSQ"
-  ],
-  [
-   "The National",
-   "American Mary",
-   "suEm2nzKVBA"
-  ],
-  [
-   "Thao & The Get Down Stay Down",
-   "Bag of Hammers",
-   "nusf4Sfl6Wk"
-  ],
-  [
-   "Thao & Mirah",
-   "Eleven",
-   "LI4g7kT3tS8"
-  ],
-  [
-   "THAO",
-   "Sick of the Times (feat. The Linda Lindas)",
-   "l1mT5WQwYPI"
-  ],
-  [
-   "Team Dresch",
-   "Hand Grenade",
-   "tMf78i0mQP8"
-  ],
-  [
-   "The Black Angels",
-   "Currency",
-   "pWyfwoWaquQ"
-  ],
-  [
-   "Sour Widows",
-   "Sigil",
-   "neIym9G-0Ss"
-  ],
-  [
-   "Colleen Green",
-   "Whatever I Want",
-   "oY-ZfipiU7g"
-  ],
-  [
-   "L.A. Witch",
-   "Kill My Baby Tonight",
-   "F_IE7EMjB0U"
-  ],
-  [
-   "Big Star",
-   "September Gurls",
-   "IRGdfyrVjlw"
-  ],
-  [
-   "Dicks",
-   "Hate the Police",
-   "7a3p69gv1Jg"
-  ],
-  [
-   "Avengers",
-   "We Are the One",
-   "dJDSyCr4Dz8"
-  ],
-  [
-   "The Damned",
-   "Neat Neat Neat",
-   "gXKDtkCzSCw"
-  ],
-  [
-   "The Linda Lindas",
-   "Gotta Get Out",
-   "Qe7aq1VcuxE"
-  ],
-  [
-   "Sprints",
-   "Little Fix",
-   "TybCMKD_vU4"
-  ],
-  [
-   "TV Priest",
-   "Decoration",
-   "tKcbUTCGY3Q"
-  ],
-  [
-   "Kraftwerk",
-   "Numbers (2009 Remaster)",
-   "fOoCnK5Jza4"
-  ],
-  [
-   "Cabaret Voltaire",
-   "Nag, Nag, Nag",
-   "wdyhe8VT6Yg"
-  ],
-  [
-   "Hot Chip",
-   "Random Violence",
-   "FEQJgTFfS9k"
-  ],
-  [
-   "Galaxie 500",
-   "Tugboat",
-   "FUFWkuMY6xM"
-  ],
-  [
-   "John Lennon",
-   "Watching The Wheels",
-   "2Kx2PbA8bCI"
-  ],
-  [
-   "Chris Cornell",
-   "Seasons",
-   "1DnSiznUrVI"
-  ]
- ]
+"playlist": "01 KZSU - Air Order",
+"id": "PLSosF7JAIkaM",
+"snapshot": "2026-11-05",
+"note": "Nov. 5 morning read: 52 tracks. Stace added 11 (Coil, TV Priest Just So You Know, Fujiya & Miyagi, Bauhaus, Sonic Youth, J Mascis, Caroline Rose x3, Philip Frobos, Mr. Dinkles) and cut 2 (Dicks Hate the Police, The Damned Neat Neat Neat). Not rewritten by Claude.",
+"tracks": [
+[
+"Queens of the Stone Age",
+"Run Away From the Mob",
+"D3pjTpmNo3Q"
+],
+[
+"Clinic",
+"Wild In The Streets",
+"bkxgZ5tgNKU"
+],
+[
+"Ex:Re",
+"Radio Station",
+"n_cPyY09Dw4"
+],
+[
+"Sennen",
+"Here It Comes",
+"06jJKUCkkZE"
+],
+[
+"DIIV",
+"Dare Me",
+"ZO8I_UqFi_E"
+],
+[
+"Twisted Teens",
+"When We First Met",
+"ElPskynxhTA"
+],
+[
+"Michael Nau",
+"Popfly",
+"C1JkLJzrizE"
+],
+[
+"The Olivia Tremor Control",
+"The Same Place",
+"NEGOMO5fajs"
+],
+[
+"Twisted Teens",
+"Circus Clown",
+"FWP2bTeoPTo"
+],
+[
+"Palace",
+"Made My Bed",
+"MR-dh4FTavQ"
+],
+[
+"Lex Walton",
+"Adrian Borland Will Have His Revenge On London",
+"cK6ooeCdXUY"
+],
+[
+"Ty Segall",
+"Play Cowboys",
+"pirkuE2Edgc"
+],
+[
+"The Fall",
+"A Caveat",
+"BSraSIhC_8A"
+],
+[
+"This Is Lorelei",
+"Hey Sarah Is It Gonna Rain Forever",
+"LHPybTFbWAA"
+],
+[
+"Sylvan Esso",
+"Concrete Glen",
+"PVcU0z1zPqk"
+],
+[
+"TV Priest",
+"Decoration",
+"tKcbUTCGY3Q"
+],
+[
+"Yard Act",
+"Over The Barrel",
+"UEjLrx6c38Q"
+],
+[
+"Teenage Fanclub",
+"What You Do To Me",
+"s0WSG9xD7H0"
+],
+[
+"Wilco",
+"Outtasite (Outta Mind)",
+"ZasGLLCEwTA"
+],
+[
+"Johnny Cash",
+"Rusty Cage",
+"wMlNxB8dXFM"
+],
+[
+"Silver Jews",
+"Dallas",
+"U0IgWuSiFDk"
+],
+[
+"Chavez",
+"Memorize This Face",
+"QoH5KoF9zSQ"
+],
+[
+"The National",
+"American Mary",
+"suEm2nzKVBA"
+],
+[
+"Thao Nguyen",
+"Bag of Hammers",
+"nusf4Sfl6Wk"
+],
+[
+"Thao & Mirah",
+"Eleven",
+"LI4g7kT3tS8"
+],
+[
+"THAO & Tune-Yards",
+"Sick of the Times (feat. The Linda Lindas)",
+"l1mT5WQwYPI"
+],
+[
+"Team Dresch",
+"Hand Grenade",
+"tMf78i0mQP8"
+],
+[
+"The Black Angels",
+"Currency",
+"pWyfwoWaquQ"
+],
+[
+"Sour Widows",
+"Sigil",
+"neIym9G-0Ss"
+],
+[
+"Colleen Green",
+"Whatever I Want",
+"oY-ZfipiU7g"
+],
+[
+"L.A. WITCH",
+"Kill My Baby Tonight",
+"F_IE7EMjB0U"
+],
+[
+"Big Star",
+"September Gurls",
+"IRGdfyrVjlw"
+],
+[
+"Avengers",
+"We Are the One",
+"dJDSyCr4Dz8"
+],
+[
+"The Linda Lindas",
+"Gotta Get Out",
+"Qe7aq1VcuxE"
+],
+[
+"Sprints",
+"Little Fix",
+"TybCMKD_vU4"
+],
+[
+"Kraftwerk",
+"Numbers (2009 Remaster)",
+"fOoCnK5Jza4"
+],
+[
+"Cabaret Voltaire",
+"Nag, Nag, Nag",
+"wdyhe8VT6Yg"
+],
+[
+"Hot Chip",
+"Random Violence",
+"FEQJgTFfS9k"
+],
+[
+"Coil",
+"Where Even the Darkness Is Something to See",
+"4DUkHIl7D1E"
+],
+[
+"Galaxie 500",
+"Tugboat",
+"FUFWkuMY6xM"
+],
+[
+"John Lennon",
+"Watching The Wheels",
+"2Kx2PbA8bCI"
+],
+[
+"Chris Cornell",
+"Seasons",
+"1DnSiznUrVI"
+],
+[
+"TV Priest",
+"Just So You Know",
+"kKMhS5zhcnc"
+],
+[
+"Fujiya & Miyagi",
+"No Green Light",
+"K5l80OdiCzM"
+],
+[
+"Bauhaus",
+"The Passion of Lovers",
+"qSk88IeNUr0"
+],
+[
+"Sonic Youth",
+"Bull In The Heather",
+"PGPOcQ14Eo0"
+],
+[
+"J Mascis",
+"Fade Into You",
+"iBapsQ14yhc"
+],
+[
+"Caroline Rose",
+"Cry!",
+"s1tdCxkduZI"
+],
+[
+"Philip Frobos",
+"The Handoff",
+"NkhRra7RG-k"
+],
+[
+"Caroline Rose",
+"Conversation with Shiv (AKA liquid k song)",
+"i4Vk64hP1Uo"
+],
+[
+"Caroline Rose",
+"Yip Yip Yow",
+"54xauaaBw7M"
+],
+[
+"Mr. Dinkles",
+"Brain",
+"mU8DLpVWDxc"
+]
+]
 }
