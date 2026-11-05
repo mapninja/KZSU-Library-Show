@@ -324,7 +324,7 @@
    "id": "1a0GwZeuAQh9K2XBPBaBDPo9XD_K0p-N14fmxxyHRTWM",
    "type": "sheet",
    "folder": "Show Prep",
-   "deployed": "2026-11-05T17:04Z",
+   "deployed": "2026-11-05T19:30Z",
    "working": "Working/notes_sheet_2026-11-05.csv",
    "retired": [
     {
@@ -333,29 +333,29 @@
      "title": "Library Show Working Playlist Notes Sheet 2026-11-05 (replaced 2026-11-05 0915)"
     }
    ],
-   "hash": "28429a965e6da6ddf890eac975610f0c",
+   "hash": "cb45e622fc54f1bdde0b82dce1e20fc0",
    "title": "Library Show Working Playlist Notes Sheet 2026-11-05",
-   "note": "Thu. Nov. 5 morning draft (kzsu-thu-draft): 53 tracks, 3:10:36; 11 Air Order adds placed by angle, 2 cuts removed, notes/credits/related filled. New native Sheet; link changed."
+   "note": "Thu. Nov. 5 rerun (11:20 a.m. PT): patched in place with update_values A1:N56, link unchanged. 51 airable tracks, 3:09:00. Stace's Cull/Replace ticks executed in the plan and cleared from the Sheet. UNKLE giveaway added as Hour 2, Set 7."
   },
   "working_show_script_2026-11-05": {
    "id": null,
    "type": "docx+pdf (raw files)",
    "folder": "Show Prep",
-   "deployed": "2026-11-05T17:03Z",
+   "deployed": "2026-11-05T19:30Z",
    "working": "Library Show Script 2026-11-05 (DRAFT).docx and .pdf in /KZSU/Show Prep/ and repo outputs/recon/2026-11-05/",
    "retired": [
     "Library Show Working Show Script 2026-11-05 (Landscape Tables) .docx/.pdf moved to _to_delete"
    ],
-   "note": "Landscape tables, 13 pages, 53 tracks, 3:10:36. Draft for Nov. 5."
+   "note": "Landscape tables, 13 pages, 51 tracks, 3:09:00. Rebuilt Nov. 5 rerun with UNKLE giveaway."
   },
   "zookeeper_csv_2026-11-05_draft": {
    "id": null,
    "type": "csv-raw",
    "folder": "Working",
-   "deployed": "2026-11-05T17:03Z",
+   "deployed": "2026-11-05T19:30Z",
    "working": "Working/library_show_playlist_2026-11-05.csv",
    "retired": [],
-   "note": "Draft, reversed order, 53 tracks. Not final: rebuilt by kzsu-show-build on Nov. 5."
+   "note": "Draft, reversed order, FCC-held and no-tag rows handled by render_show_files.py. Not final: rebuilt by kzsu-show-build."
   },
   "review_suggestions_2026-10-29": {
    "id": null,

@@ -23,6 +23,12 @@
    "track": "Cahokia",
    "fcc": "fuck x1 (intro), shit x1 (Chorus)",
    "action": "stays out; he plays the Independent Thu. Nov. 5"
+  },
+  {
+   "artist": "Car Seat Headrest",
+   "track": "Drunk Drivers/Killer Whales (Single Version)",
+   "fcc": "fuck x1 (Verse 1), shit x1 (Bridge) on the album version (Genius); single version not verified",
+   "action": "Stace added it to Air Order Nov. 5. Held out of the script and Zookeeper CSV. Play only if you have an edit; otherwise it belongs on FCC Edit Needed."
   }
  ],
  "sets": [
@@ -221,28 +227,6 @@
    "set": "Hour 1, Set 2: DJ Stace adds, new singles and albums",
    "tracks": [
     {
-     "artist": "Caroline Rose",
-     "track": "Cry!",
-     "album": "LONER",
-     "label": "New West Records",
-     "label_source": "zookeeper album 1122725",
-     "tag": "1122725",
-     "released": "2018-02",
-     "type": "DJ Stace add",
-     "upcoming": "",
-     "duration": "3:44",
-     "priority": "R",
-     "why": "Added to Air Order by DJ Stace.",
-     "fcc_status": "CLEAN",
-     "fcc_note": "CLEAN (Genius, 144 words).",
-     "source": "DJ Stace add",
-     "added_by": "DJ Stace",
-     "videoId": "s1tdCxkduZI",
-     "credits": "Paul Butler and Caroline Rose (producers); Panoramic Studio, Bolinas, Calif.; mixed by Andrew Sarlo; 2018",
-     "notes": "Caroline Rose co-produced LONER with Paul Butler, who has worked with Devendra Banhart and Michael Kiwanuka. New West released it in February 2018.",
-     "notes_source": "web (search summaries), Nov. 5 draft"
-    },
-    {
      "artist": "Philip Frobos",
      "track": "The Handoff",
      "album": "The Handoff (single)",
@@ -266,50 +250,6 @@
      "notes_source": "web (search summaries), Nov. 5 draft"
     },
     {
-     "artist": "Caroline Rose",
-     "track": "Conversation with Shiv (AKA liquid k song)",
-     "album": "Gentling the Horse at the Walt Whitman Mall",
-     "label": "SUCK Records",
-     "label_source": "web (verify); own label; not in library",
-     "tag": "",
-     "released": "2026-10-23",
-     "type": "DJ Stace add",
-     "upcoming": "",
-     "duration": "2:58",
-     "priority": "R",
-     "why": "Added to Air Order by DJ Stace.",
-     "fcc_status": "CLEAN",
-     "fcc_note": "CLEAN (Genius, 332 words).",
-     "source": "DJ Stace add",
-     "added_by": "DJ Stace",
-     "videoId": "i4Vk64hP1Uo",
-     "credits": "John Congleton (producer, engineer, mixer) at Animal Rites Studio, Los Angeles; 2026",
-     "notes": "Caroline Rose recorded Gentling the Horse at the Walt Whitman Mall with producer John Congleton and released it Oct. 23 on their own label, SUCK Records.",
-     "notes_source": "web (search summaries), Nov. 5 draft"
-    },
-    {
-     "artist": "Caroline Rose",
-     "track": "Yip Yip Yow",
-     "album": "Gentling the Horse at the Walt Whitman Mall",
-     "label": "SUCK Records",
-     "label_source": "web (verify); own label; not in library",
-     "tag": "",
-     "released": "2026-10-23",
-     "type": "DJ Stace add",
-     "upcoming": "",
-     "duration": "2:47",
-     "priority": "R",
-     "why": "Added to Air Order by DJ Stace.",
-     "fcc_status": "CLEAN",
-     "fcc_note": "CLEAN (Genius, 272 words).",
-     "source": "DJ Stace add",
-     "added_by": "DJ Stace",
-     "videoId": "54xauaaBw7M",
-     "credits": "John Congleton (producer, engineer, mixer) at Animal Rites Studio, Los Angeles; 2026",
-     "notes": "\"Yip Yip Yow\" opens Gentling the Horse at the Walt Whitman Mall, the first release on Caroline Rose's own SUCK Records.",
-     "notes_source": "web (search summaries), Nov. 5 draft"
-    },
-    {
      "artist": "Mr. Dinkles",
      "track": "Brain",
      "album": "Brain (single)",
@@ -330,6 +270,28 @@
      "related": "Duo of Mac Rettig (vocals, guitar) and Rocco Ramos (drums)",
      "notes": "Mr. Dinkles, a Los Angeles power punk duo, released \"Brain\" as the first single from their five-song EP REZN, due Jan. 26.",
      "notes_source": "web (search summaries), Nov. 5 draft"
+    },
+    {
+     "artist": "Westside Cowboy",
+     "track": "You Could Have Died There On The Dancefloor",
+     "album": "It Goes On",
+     "label": "Island Records",
+     "label_source": "zookeeper label table (Island Records, id 10827); not in library",
+     "tag": "",
+     "released": "2026-08-21 (album)",
+     "type": "DJ Stace add",
+     "upcoming": "",
+     "duration": "2:44",
+     "priority": "R",
+     "why": "Added by DJ Stace.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, 285 words).",
+     "source": "DJ Stace add",
+     "added_by": "DJ Stace",
+     "videoId": "fVuyZ-Wp7Ng",
+     "notes_source": "web (search summaries), Nov. 5 draft",
+     "credits": "Loren Humphrey (producer); Greenmount Studios, Leeds; this take recorded in his living room; 2026",
+     "notes": "The closer on Westside Cowboy's debut album It Goes On, recorded in producer Loren Humphrey's living room."
     }
    ]
   },
@@ -614,6 +576,29 @@
      "notes_source": "web (search summaries), Nov. 5 draft"
     },
     {
+     "artist": "Wilco",
+     "track": "(Was I) In Your Dreams",
+     "album": "Being There",
+     "label": "Reprise Records (Modern)",
+     "label_source": "zookeeper album 350705",
+     "tag": "350705",
+     "released": "1996-10-29",
+     "type": "DJ Stace add",
+     "upcoming": "",
+     "duration": "3:31",
+     "priority": "R",
+     "why": "Added by DJ Stace.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, 148 words).",
+     "source": "DJ Stace add",
+     "added_by": "DJ Stace",
+     "videoId": "-1suS_xTVsM",
+     "notes_source": "web (search summaries), Nov. 5 draft",
+     "credits": "Wilco (producers); Moonshine Studios, Atlanta per Discogs; 1996",
+     "related": "Uncle Tupelo (Jeff Tweedy), Son Volt (Jay Farrar)",
+     "notes": "Track six on disc two of Being There, which turned 30 on Oct. 29."
+    },
+    {
      "artist": "Johnny Cash",
      "track": "Rusty Cage",
      "album": "Unchained",
@@ -662,28 +647,26 @@
      "notes_source": "web (search summaries), Nov. 5 draft"
     },
     {
-     "artist": "Chavez",
-     "track": "Memorize This Face",
-     "album": "Ride the Fader",
-     "label": "Matador Records",
-     "label_source": "zookeeper album 354248",
-     "tag": "354248",
-     "released": "1996-11-05 (Wikipedia list; verify)",
-     "type": "album track",
+     "artist": "Aphex Twin",
+     "track": "Girl/Boy Song",
+     "album": "Richard D. James Album",
+     "label": "Sire Records (Modern)",
+     "label_source": "zookeeper album 362854 (US edition); original Warp Records, Nov. 4, 1996",
+     "tag": "362854",
+     "released": "1996-11-04",
+     "type": "bench",
      "upcoming": "",
-     "duration": "1:45",
-     "priority": "O",
-     "why": "30 years on show day: Ride the Fader on Matador, Nov. 5, 1996 per the Wikipedia 1996 list; one source, verify. A 1:45 track.",
+     "duration": "4:53",
+     "priority": "R",
+     "why": "Replaces Chavez, 1996 anniversary.",
      "fcc_status": "CLEAN",
-     "fcc_note": "CLEAN (Genius, 81 words).",
-     "source": "recon (anniversary)",
-     "videoId": "QoH5KoF9zSQ",
-     "rel_main": "Nov. 5, 1996 (verify)",
-     "rel_sub": "album, 30 years today",
-     "credits": "John Agnello and Bryce Goggin (co-producers); 1996",
-     "related": "Matt Sweeney later played in Zwan with Billy Corgan. Members: Matt Sweeney, Clay Tarver, James Lo, Scott Marshall",
-     "notes": "Ride the Fader was the second and final Chavez album, and Matt Sweeney later played in Zwan with Billy Corgan.",
-     "notes_source": "web (search summaries), Nov. 5 draft"
+     "fcc_note": "CLEAN, check by ear: Genius lists no lyrics (instrumental).",
+     "source": "bench",
+     "added_by": "bench pick for Stace Replace tick",
+     "videoId": "6yy-Es6rp3U",
+     "notes_source": "web (search summaries), Nov. 5 draft",
+     "credits": "Richard D. James (writer, producer); 1996",
+     "notes": "The Richard D. James Album came out Nov. 4, 1996 on Warp, and Girl/Boy Song is track nine. It turned 30 on Nov. 4."
     },
     {
      "artist": "The National",
@@ -711,78 +694,72 @@
    ]
   },
   {
-   "set": "Hour 2, Set 5: Thursday Triple Shot: Thao",
+   "set": "Hour 2, Set 5: Thursday Triple Shot: Caroline Rose",
    "tracks": [
     {
-     "artist": "Thao & The Get Down Stay Down",
-     "track": "Bag of Hammers",
-     "album": "We Brave Bee Stings and All",
-     "label": "Kill Rock Stars",
-     "label_source": "zookeeper label table (Kill Rock Stars, id 1736); album not in library",
-     "tag": "",
-     "released": "2008",
-     "type": "album track",
+     "artist": "Caroline Rose",
+     "track": "Cry!",
+     "album": "LONER",
+     "label": "New West Records",
+     "label_source": "zookeeper album 1122725",
+     "tag": "1122725",
+     "released": "2018-02",
+     "type": "DJ Stace add",
      "upcoming": "",
-     "duration": "2:50",
+     "duration": "3:44",
      "priority": "R",
-     "why": "Triple Shot 1 of 3, 2008: Thao & The Get Down Stay Down, the band that made her name. Kill Rock Stars.",
+     "why": "Triple Shot: Caroline Rose, swapped in by DJ Stace.",
      "fcc_status": "CLEAN",
-     "fcc_note": "CLEAN (Genius, 195 words).",
+     "fcc_note": "CLEAN (Genius, 144 words).",
      "source": "triple shot",
-     "videoId": "nusf4Sfl6Wk",
-     "rel_main": "2008",
-     "rel_sub": "album",
-     "credits": "Prod. Tucker Martine; recorded at Flora Studios, Seattle and Portland; 2008",
-     "related": "Thao Nguyen also recorded as Thao & Mirah (2011) and as solo act THAO (2026)",
-     "notes": "Thao Nguyen made her first Kill Rock Stars album with producer Tucker Martine in Seattle and Portland.",
+     "added_by": "DJ Stace",
+     "videoId": "s1tdCxkduZI",
+     "credits": "Paul Butler and Caroline Rose (producers); Panoramic Studio, Bolinas, Calif.; mixed by Andrew Sarlo; 2018",
+     "notes": "Caroline Rose co-produced LONER with Paul Butler, who has worked with Devendra Banhart and Michael Kiwanuka. New West released it in February 2018.",
      "notes_source": "web (search summaries), Nov. 5 draft"
     },
     {
-     "artist": "Thao & Mirah",
-     "track": "Eleven",
-     "album": "Thao & Mirah",
-     "label": "Kill Rock Stars",
-     "label_source": "zookeeper album 977216",
-     "tag": "977216",
-     "released": "2011",
-     "type": "album track",
+     "artist": "Caroline Rose",
+     "track": "Conversation with Shiv (AKA liquid k song)",
+     "album": "Gentling the Horse at the Walt Whitman Mall",
+     "label": "SUCK Records",
+     "label_source": "web (verify); own label; not in library",
+     "tag": "",
+     "released": "2026-10-23",
+     "type": "DJ Stace add",
      "upcoming": "",
-     "duration": "4:01",
+     "duration": "2:58",
      "priority": "R",
-     "why": "Triple Shot 2 of 3, 2011: the collaboration with Mirah, produced by Tune-Yards' Merrill Garbus. Kill Rock Stars.",
+     "why": "Triple Shot: Caroline Rose, swapped in by DJ Stace.",
      "fcc_status": "CLEAN",
-     "fcc_note": "CLEAN (Genius, 325 words).",
+     "fcc_note": "CLEAN (Genius, 332 words).",
      "source": "triple shot",
-     "videoId": "LI4g7kT3tS8",
-     "rel_main": "2011",
-     "rel_sub": "album",
-     "credits": "Merrill Garbus, Mirah and Thao (co-producers); recorded at Tiny Telephone, San Francisco, Aug.-Sept. 2010; 2011",
-     "related": "Merrill Garbus of tUnE-yArDs wrote Eleven; Mirah solo",
-     "notes": "Merrill Garbus of tUnE-yArDs wrote this opener and co-produced the 2011 album by Thao Nguyen and Mirah.",
+     "added_by": "DJ Stace",
+     "videoId": "i4Vk64hP1Uo",
+     "credits": "John Congleton (producer, engineer, mixer) at Animal Rites Studio, Los Angeles; 2026",
+     "notes": "Caroline Rose recorded Gentling the Horse at the Walt Whitman Mall with producer John Congleton and released it Oct. 23 on their own label, SUCK Records.",
      "notes_source": "web (search summaries), Nov. 5 draft"
     },
     {
-     "artist": "THAO",
-     "track": "Sick of the Times (feat. The Linda Lindas)",
-     "album": "Show Me",
-     "label": "Kill Rock Stars",
-     "label_source": "zookeeper label table (Kill Rock Stars, id 1736); album not in library yet",
+     "artist": "Caroline Rose",
+     "track": "Yip Yip Yow",
+     "album": "Gentling the Horse at the Walt Whitman Mall",
+     "label": "SUCK Records",
+     "label_source": "web (verify); own label; not in library",
      "tag": "",
-     "released": "2026-10-30",
-     "type": "single",
+     "released": "2026-10-23",
+     "type": "DJ Stace add",
      "upcoming": "",
-     "duration": "3:19",
+     "duration": "2:47",
      "priority": "R",
-     "why": "Triple Shot 3 of 3, new: lead single from Show Me, Thao's first album in six years, out Fri. Oct. 30 on Kill Rock Stars. Tune-Yards co-produced and appear on it; The Linda Lindas guest. Listen first: no lyrics posted.",
-     "fcc_status": "UNVERIFIED",
-     "fcc_note": "UNVERIFIED: no lyrics posted (Genius and LRCLIB found nothing). Listen first. Swap: We the Common (CLEAN, 283 words), videoId yrldgm5LjRc.",
+     "why": "Triple Shot: Caroline Rose, swapped in by DJ Stace.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, 272 words).",
      "source": "triple shot",
-     "videoId": "l1mT5WQwYPI",
-     "rel_main": "Oct. 30, 2026",
-     "rel_sub": "single; album Oct. 30, 2026",
-     "credits": "Self-produced with Merrill Garbus and Nate Brenner of tUnE-yArDs; 2026",
-     "related": "Guests: Merrill Garbus (tUnE-yArDs), The Linda Lindas, Neko Case, Adrian Quesada (Black Pumas)",
-     "notes": "Thao's first album in six years features Merrill Garbus and the Linda Lindas on this single, written as a protest anthem.",
+     "added_by": "DJ Stace",
+     "videoId": "54xauaaBw7M",
+     "credits": "John Congleton (producer, engineer, mixer) at Animal Rites Studio, Los Angeles; 2026",
+     "notes": "\"Yip Yip Yow\" opens Gentling the Horse at the Walt Whitman Mall, the first release on Caroline Rose's own SUCK Records.",
      "notes_source": "web (search summaries), Nov. 5 draft"
     }
    ]
@@ -790,30 +767,6 @@
   {
    "set": "Hour 2, Set 6: Bay Area, Nov. 5 to 8 (upcoming shows only)",
    "tracks": [
-    {
-     "artist": "Team Dresch",
-     "track": "Hand Grenade",
-     "album": "Hand Grenade",
-     "label": "Kill Rock Stars",
-     "label_source": "zookeeper album 193575",
-     "tag": "193575",
-     "released": "1990s",
-     "type": "album track",
-     "upcoming": "",
-     "duration": "3:23",
-     "priority": "R",
-     "why": "Thu. Nov. 5, Bottom of the Hill, S.F., with Third Sex and Longstocking. Riot grrrl and queercore; fits the punk focus.",
-     "fcc_status": "CLEAN",
-     "fcc_note": "CLEAN (Genius, 382 words).",
-     "source": "weekly playlist (Friday sweep)",
-     "videoId": "tMf78i0mQP8",
-     "rel_main": "1990s",
-     "rel_sub": "verify year",
-     "credits": "Kill Rock Stars KRS 227 7-inch, 1994; Scott Plouf of the Spinanes on drums per AllMusic; producer not found",
-     "related": "Jody Bleyle (Hazel, Lovebutt); Kaia Wilson and Melissa York later formed The Butchies",
-     "notes": "Team Dresch released Hand Grenade as a 1994 Kill Rock Stars 7-inch, and the band put out a new album, Furthermore, in September.",
-     "notes_source": "web (search summaries), Nov. 5 draft"
-    },
     {
      "artist": "The Black Angels",
      "track": "Currency",
@@ -860,29 +813,6 @@
      "credits": "Prod. Melina Duterte (Jay Som) and Sour Widows; recorded at Seahorse Studios, Los Angeles; 2026",
      "related": "Duo of Maia Sinaiko and Susanna Thomson, formerly a trio",
      "notes": "Sour Widows, now a Bay Area duo, made Sigil in Los Angeles with Melina Duterte, who records as Jay Som.",
-     "notes_source": "web (search summaries), Nov. 5 draft"
-    },
-    {
-     "artist": "Colleen Green",
-     "track": "Whatever I Want",
-     "album": "I Want To Grow Up",
-     "label": "Hardly Art",
-     "label_source": "zookeeper album 1073708",
-     "tag": "1073708",
-     "released": "2015-02",
-     "type": "album track",
-     "upcoming": "",
-     "duration": "3:57",
-     "priority": "O",
-     "why": "Thu. Nov. 5, Ivy Room, Albany, with Still Ruins and Artsick. From her 2015 album on Hardly Art (the Friday sweep listed it as new; it is not).",
-     "fcc_status": "CLEAN",
-     "fcc_note": "CLEAN (Genius, 227 words).",
-     "source": "weekly playlist (Friday sweep)",
-     "videoId": "oY-ZfipiU7g",
-     "rel_main": "Feb. 2015",
-     "rel_sub": "album",
-     "credits": "Prod. Colleen Green and Jake Orrall; recorded and mixed by Vance Powell at Sputnik Sound, Nashville; 2015",
-     "notes": "Whatever I Want closes I Want to Grow Up, Green's third album and her first recorded in a professional studio.",
      "notes_source": "web (search summaries), Nov. 5 draft"
     },
     {
@@ -935,7 +865,35 @@
    ]
   },
   {
-   "set": "Hour 2, Set 7: Punk and post-punk, San Francisco to New York",
+   "set": "Hour 2, Set 7: Ticket giveaway: UNKLE",
+   "tracks": [
+    {
+     "artist": "UNKLE",
+     "track": "Restless (feat. Josh Homme)",
+     "album": "War Stories",
+     "label": "Surrender All",
+     "label_source": "zookeeper label table (Surrender All, id 18171); not in library",
+     "tag": "",
+     "released": "2007-07-24 (N. America)",
+     "type": "DJ Stace add",
+     "upcoming": "",
+     "duration": "5:07",
+     "priority": "R",
+     "why": "Added by DJ Stace.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, 327 words).",
+     "source": "DJ Stace add",
+     "added_by": "DJ Stace",
+     "videoId": "QCXhQ2sQgfI",
+     "notes_source": "web (search summaries), Nov. 5 draft",
+     "credits": "Co-produced with Chris Goss; Joshua Tree, Los Angeles and London sessions, 2005 to 2006; 2007",
+     "related": "Josh Homme (Queens of the Stone Age)",
+     "notes": "TICKET GIVEAWAY after this song: UNKLE, Mon. Nov. 30, The Independent, S.F., show 8 p.m., doors 7:30. Josh Homme sings on Restless. Confirm count and rules before air."
+    }
+   ]
+  },
+  {
+   "set": "Hour 2, Set 8: Punk and post-punk, San Francisco to New York",
    "tracks": [
     {
      "artist": "Avengers",
@@ -1104,7 +1062,7 @@
    ]
   },
   {
-   "set": "Hour 2, Set 8: Machines and motorik",
+   "set": "Hour 2, Set 9: Machines and motorik",
    "tracks": [
     {
      "artist": "Kraftwerk",
@@ -1139,34 +1097,26 @@
     },
     {
      "artist": "Cabaret Voltaire",
-     "track": "Nag, Nag, Nag",
-     "album": "The Living Legends",
-     "label": "Rough Trade Records",
-     "label_source": "zookeeper label table (Rough Trade Records); original 1979 single",
+     "track": "Sensoria (7\" Version)",
+     "album": "Micro-Phonies (single; YTM lists Electropunk to Technopop 1978-1985)",
+     "label": "Virgin Records",
+     "label_source": "zookeeper label table (Virgin Records, id 16413); not in library",
      "tag": "",
-     "released": "1979",
-     "type": "single",
+     "released": "1984-10 (single)",
+     "type": "DJ Stace add",
      "upcoming": "",
-     "duration": "4:40",
+     "duration": "4:02",
      "priority": "R",
-     "why": "Requested back by DJ Stace. It did not air Oct. 15 or Oct. 22. Sheffield, 1979 single on Rough Trade.",
+     "why": "Stace asked for Sensoria in place of Nag, Nag, Nag.",
      "fcc_status": "CLEAN",
-     "fcc_note": "CLEAN (LRCLIB, 108 words).",
-     "source": "carried (Stace request)",
-     "videoId": "wdyhe8VT6Yg",
-     "shows": [],
-     "research_sources": [
-      "https://rateyourmusic.com/release/single/cabaret-voltaire/nag-nag-nag-is-that-me-finding-someone-at-the-door-again/",
-      "https://www.discogs.com/release/54221-Cabaret-Voltaire-Nag-Nag-Nag",
-      "https://www.electronicsound.co.uk/features/landmarks/cabaret-voltaire-nag-nag-nag/",
-      "https://www.whosampled.com/Cabaret-Voltaire/Nag-Nag-Nag/",
-      "https://en.wikipedia.org/wiki/Cabaret_Voltaire_(band)"
-     ],
-     "research_confidence": "medium",
-     "credits": "Producer not found; Rough Trade RT 018, 1979; recorded at Western Works, Sheffield per Discogs reissue credit, London per the band",
-     "related": "Chris Watson later co-founded The Hafler Trio; Richard H. Kirk: Sandoz, Sweet Exorcist, XON",
-     "notes": "Nag, Nag, Nag was Cabaret Voltaire's second single, released on Rough Trade in 1979. The Sheffield band formed in 1973.",
-     "notes_source": "web (search summaries), Nov. 5 draft"
+     "fcc_note": "CLEAN (Genius, 226 words).",
+     "source": "DJ Stace add",
+     "added_by": "DJ Stace",
+     "videoId": "IN5RRjmQytc",
+     "notes_source": "web (search summaries), Nov. 5 draft",
+     "credits": "Virgin/Some Bizzare CVS 312, 1984; 12-inch mix by John Potoker; producer and studio not verified",
+     "related": "Richard H. Kirk, Stephen Mallinder",
+     "notes": "Cabaret Voltaire released Sensoria as a single in October 1984, and it is on Micro-Phonies. This is the 7-inch version; the full 6:17 take is also on YTM."
     },
     {
      "artist": "Hot Chip",
@@ -1235,32 +1185,30 @@
    ]
   },
   {
-   "set": "Hour 2, Set 9: Slow closers",
+   "set": "Hour 2, Set 10: Slow closers",
    "tracks": [
     {
      "artist": "Galaxie 500",
-     "track": "Tugboat",
-     "album": "Today",
+     "track": "Ceremony",
+     "album": "On Fire (reissue bonus track)",
      "label": "Rykodisc",
-     "label_source": "original release (Wikipedia, Discogs), label spelled per Zookeeper",
-     "tag": "378727",
-     "released": "1988 (single May 1988)",
-     "why": "Shoegaze companion to the Loveless anniversary. Galaxie 500, Boston. Carried from the Weekly Playlist.",
+     "label_source": "zookeeper album 378738 (On Fire reissue)",
+     "tag": "378738",
+     "released": "1989 (Blue Thunder EP B-side)",
+     "type": "DJ Stace add",
+     "upcoming": "",
+     "duration": "5:59",
+     "priority": "R",
+     "why": "Stace asked for Ceremony in place of Tugboat.",
      "fcc_status": "CLEAN",
-     "fcc_note": "CLEAN (LRCLIB)",
-     "priority": "O",
-     "source": "carried from an earlier plan",
-     "videoId": "FUFWkuMY6xM",
-     "duration": "3:57",
-     "zk_alt": {
-      "tag": "342425",
-      "album": "Selected Galaxie 500",
-      "label": "Rykodisc"
-     },
-     "credits": "Kramer (producer, engineer); recorded at Noise New York; Feb. 1988 sessions; album 1988",
-     "related": "Dean Wareham: Luna, Dean & Britta",
-     "notes": "Kramer produced Tugboat at Noise New York in 1988. Galaxie 500 members went on to form Luna and Damon and Naomi.",
-     "notes_source": "web (search summaries), Nov. 5 draft"
+     "fcc_note": "CLEAN (Genius, 187 words).",
+     "source": "DJ Stace add",
+     "added_by": "DJ Stace",
+     "videoId": "92Nkrav2-Aw",
+     "notes_source": "web (search summaries), Nov. 5 draft",
+     "credits": "Recorded at Noise New York, 1989 (Blue Thunder sleeve credit); producer for this track not confirmed",
+     "related": "Dean Wareham (Luna), Damon and Naomi",
+     "notes": "Galaxie 500 covers Ceremony, written by Joy Division and first released by New Order in 1981. It first appeared on the Blue Thunder EP."
     },
     {
      "artist": "John Lennon",
@@ -1335,76 +1283,82 @@
   }
  ],
  "triple_shot": {
-  "artist": "THAO",
-  "angle": "Thao's first album in six years, Show Me, is out Fri. Oct. 30 on Kill Rock Stars, with an album release show at the Independent in S.F. on Sun. Nov. 8. Three projects: Thao & The Get Down Stay Down (2008), Thao & Mirah (2011) and the new single with Tune-Yards and The Linda Lindas. Sick of the Times has no lyrics posted: listen first. Alternates: Wilco (Being There turned 30 on Oct. 29; Wilco, Uncle Tupelo and Billy Bragg & Wilco) or Clinic (new album Oct. 30).",
+  "artist": "Caroline Rose",
+  "angle": "Caroline Rose's album Gentling the Horse at the Walt Whitman Mall came out Oct. 23 on her own label, SUCK Records, produced by John Congleton. Range: Cry! from LONER (2018, New West), then two tracks from the new album. Stace swapped her in for Thao in the Notes Sheet (Nov. 5). No Triple Shot repeat in the last 8.",
   "tracks": [
    {
-    "artist": "Thao & The Get Down Stay Down",
-    "track": "Bag of Hammers",
-    "album": "We Brave Bee Stings and All",
-    "label": "Kill Rock Stars",
-    "label_source": "zookeeper label table (Kill Rock Stars, id 1736); album not in library",
-    "tag": "",
-    "released": "2008",
-    "type": "album track",
+    "artist": "Caroline Rose",
+    "track": "Cry!",
+    "album": "LONER",
+    "label": "New West Records",
+    "label_source": "zookeeper album 1122725",
+    "tag": "1122725",
+    "released": "2018-02",
+    "type": "DJ Stace add",
     "upcoming": "",
-    "duration": "2:50",
+    "duration": "3:44",
     "priority": "R",
-    "why": "Triple Shot 1 of 3, 2008: Thao & The Get Down Stay Down, the band that made her name. Kill Rock Stars.",
+    "why": "Triple Shot: Caroline Rose, swapped in by DJ Stace.",
     "fcc_status": "CLEAN",
-    "fcc_note": "CLEAN (Genius, 195 words).",
+    "fcc_note": "CLEAN (Genius, 144 words).",
     "source": "triple shot",
-    "videoId": "nusf4Sfl6Wk",
-    "rel_main": "2008",
-    "rel_sub": "album"
+    "added_by": "DJ Stace",
+    "videoId": "s1tdCxkduZI",
+    "credits": "Paul Butler and Caroline Rose (producers); Panoramic Studio, Bolinas, Calif.; mixed by Andrew Sarlo; 2018",
+    "notes": "Caroline Rose co-produced LONER with Paul Butler, who has worked with Devendra Banhart and Michael Kiwanuka. New West released it in February 2018.",
+    "notes_source": "web (search summaries), Nov. 5 draft"
    },
    {
-    "artist": "Thao & Mirah",
-    "track": "Eleven",
-    "album": "Thao & Mirah",
-    "label": "Kill Rock Stars",
-    "label_source": "zookeeper album 977216",
-    "tag": "977216",
-    "released": "2011",
-    "type": "album track",
+    "artist": "Caroline Rose",
+    "track": "Conversation with Shiv (AKA liquid k song)",
+    "album": "Gentling the Horse at the Walt Whitman Mall",
+    "label": "SUCK Records",
+    "label_source": "web (verify); own label; not in library",
+    "tag": "",
+    "released": "2026-10-23",
+    "type": "DJ Stace add",
     "upcoming": "",
-    "duration": "4:01",
+    "duration": "2:58",
     "priority": "R",
-    "why": "Triple Shot 2 of 3, 2011: the collaboration with Mirah, produced by Tune-Yards' Merrill Garbus. Kill Rock Stars.",
+    "why": "Triple Shot: Caroline Rose, swapped in by DJ Stace.",
     "fcc_status": "CLEAN",
-    "fcc_note": "CLEAN (Genius, 325 words).",
+    "fcc_note": "CLEAN (Genius, 332 words).",
     "source": "triple shot",
-    "videoId": "LI4g7kT3tS8",
-    "rel_main": "2011",
-    "rel_sub": "album"
+    "added_by": "DJ Stace",
+    "videoId": "i4Vk64hP1Uo",
+    "credits": "John Congleton (producer, engineer, mixer) at Animal Rites Studio, Los Angeles; 2026",
+    "notes": "Caroline Rose recorded Gentling the Horse at the Walt Whitman Mall with producer John Congleton and released it Oct. 23 on their own label, SUCK Records.",
+    "notes_source": "web (search summaries), Nov. 5 draft"
    },
    {
-    "artist": "THAO",
-    "track": "Sick of the Times (feat. The Linda Lindas)",
-    "album": "Show Me",
-    "label": "Kill Rock Stars",
-    "label_source": "zookeeper label table (Kill Rock Stars, id 1736); album not in library yet",
+    "artist": "Caroline Rose",
+    "track": "Yip Yip Yow",
+    "album": "Gentling the Horse at the Walt Whitman Mall",
+    "label": "SUCK Records",
+    "label_source": "web (verify); own label; not in library",
     "tag": "",
-    "released": "2026-10-30",
-    "type": "single",
+    "released": "2026-10-23",
+    "type": "DJ Stace add",
     "upcoming": "",
-    "duration": "3:19",
+    "duration": "2:47",
     "priority": "R",
-    "why": "Triple Shot 3 of 3, new: lead single from Show Me, Thao's first album in six years, out Fri. Oct. 30 on Kill Rock Stars. Tune-Yards co-produced and appear on it; The Linda Lindas guest. Listen first: no lyrics posted.",
-    "fcc_status": "UNVERIFIED",
-    "fcc_note": "UNVERIFIED: no lyrics posted (Genius and LRCLIB found nothing). Listen first. Swap: We the Common (CLEAN, 283 words), videoId yrldgm5LjRc.",
+    "why": "Triple Shot: Caroline Rose, swapped in by DJ Stace.",
+    "fcc_status": "CLEAN",
+    "fcc_note": "CLEAN (Genius, 272 words).",
     "source": "triple shot",
-    "videoId": "l1mT5WQwYPI",
-    "rel_main": "Oct. 30, 2026",
-    "rel_sub": "single; album Oct. 30, 2026"
+    "added_by": "DJ Stace",
+    "videoId": "54xauaaBw7M",
+    "credits": "John Congleton (producer, engineer, mixer) at Animal Rites Studio, Los Angeles; 2026",
+    "notes": "\"Yip Yip Yow\" opens Gentling the Horse at the Walt Whitman Mall, the first release on Caroline Rose's own SUCK Records.",
+    "notes_source": "web (search summaries), Nov. 5 draft"
    }
   ]
  },
  "ticket_giveaway": {
-  "default_rule_result": "No November ticket sheet in the repo (data/tickets has only 2026-10). No giveaway placed.",
-  "proposed": "None.",
-  "flag": "Paste the November rows in chat if there is a giveaway for Nov. 5 or later. Rules, call-in number and show time: confirm before air.",
-  "placement": "Hour 2, after the Bay Area set (Set 6), if used"
+  "default_rule_result": "No November ticket sheet in the repo. UNKLE giveaway added at Stace's request (Nov. 5); show details from the Bay Area list and search listings.",
+  "proposed": "UNKLE, Mon. Nov. 30, 2026, The Independent, 628 Divisadero St., S.F. Show 8 p.m., doors 7:30 p.m., 21+. Tickets from $55.64 on TicketWeb (verify). Opener not found. Play Restless (feat. Josh Homme) and give away after it (Hour 2, Set 7).",
+  "flag": "Confirm before air: number of tickets, which DJ gives them, give-by date, rules, call-in number. None of these were supplied.",
+  "placement": "Hour 2, after the Bay Area set (Set 6) and UNKLE Restless; promos on the opening break, end of Hour 1 and after the Triple Shot."
  },
  "bay_area_shows": [
   {
@@ -1518,13 +1472,22 @@
    "detail": "$25, doors 8:30 p.m., music 9:30 p.m.",
    "what": "The Avengers, Pansy Division, Damage Party. $25, doors 8:30 p.m., music 9:30 p.m. 21+",
    "note": "Ties to the Avengers track in tonight's punk set."
+  },
+  {
+   "date": "Mon. Nov. 30",
+   "venue": "The Independent, S.F.",
+   "act": "UNKLE (UNKLE SOUNDS North America Tour 2026)",
+   "detail": "Show 8 p.m., doors 7:30 p.m., 21+. Ticket giveaway tonight.",
+   "what": "UNKLE. Show 8 p.m., doors 7:30 p.m.",
+   "note": "Price from $55.64 per search listing; verify."
   }
  ],
  "mic_breaks": {
   "opening": [
-   "Punk and post-punk focus, week 4 of 4 before the Nov. 12 review: Team Dresch, Avengers, Bauhaus and TV Priest tonight.",
+   "Punk and post-punk focus, week 4 of 4 before the Nov. 12 review: Avengers, Bauhaus and TV Priest tonight.",
    "Queens of the Stone Age, Clinic, DIIV, Ex:Re, Sennen and Thao all released albums Oct. 30.",
-   "Wilco's Being There turned 30 on Oct. 29. Johnny Cash's Unchained is dated Nov. 5, 1996 by Wikipedia and Chavez's Ride the Fader the same day (johnnycash.com lists Oct. 22: verify)."
+   "Wilco's Being There turned 30 on Oct. 29. Johnny Cash's Unchained is dated Nov. 5, 1996 by Wikipedia (johnnycash.com lists Oct. 22: verify).",
+   "PROMO: UNKLE tickets to give away later this hour. UNKLE plays the Independent in San Francisco on Mon. Nov. 30."
   ],
   "after_set_1": [
    "Perfecth is the ninth QOTSA album, on Matador, produced by Josh Homme and Michael Shuman. It has nine tracks and four singles.",
@@ -1532,33 +1495,40 @@
    "DIIV's ZIRP! was produced by A. G. Cook. Ex:Re is Elena Tonra of Daughter; Save As is out on 4AD."
   ],
   "after_set_2": [
-   "Caroline Rose's Gentling the Horse at the Walt Whitman Mall came out Oct. 23 on her own label, SUCK Records, produced by John Congleton.",
-   "Philip Frobos of Omni has a solo album, Taste for the Unsavory, due Jan. 29. Mr. Dinkles, a Los Angeles duo, released Brain on Oct. 30 (one source for that date)."
+   "Philip Frobos of Omni has a solo album, Taste for the Unsavory, due Jan. 29. Mr. Dinkles, a Los Angeles duo, released Brain on Oct. 30 (one source for that date).",
+   "Westside Cowboy's debut album, It Goes On, came out Aug. 21 on Island."
   ],
   "after_set_3": [
    "Reviewed this month and in rotation: Twisted Teens, Palace, Lex Walton, Ty Segall, This Is Lorelei, The Fall, Sylvan Esso and Yard Act.",
    "Lex Walton's Ultimate Love Forever is out as CD and LP Nov. 20 on Sub Pop. Twisted Teens' Holy Cross Tigers is out tomorrow, Nov. 6, on Sub Pop.",
-   "Station ID at the top of the hour."
+   "Station ID at the top of the hour.",
+   "PROMO: UNKLE tickets coming up in Hour 2."
   ],
   "after_set_4": [
    "My Bloody Valentine's Loveless came out Nov. 4, 1991 on Creation in the UK. Teenage Fanclub's Bandwagonesque came out the same month, also on Creation.",
    "Wilco's Being There: Oct. 29, 1996, Reprise. Johnny Cash's Unchained: Nov. 5, 1996, American Recordings, with Tom Petty and the Heartbreakers. Rusty Cage is a Soundgarden song.",
-   "The Fall's Are You Are Missing Winner came out Nov. 5, 2001 on Cog Sinister. The National's debut came out Oct. 30, 2001 (verify).",
-   "Thursday Triple Shot: Thao. Three projects: Thao & The Get Down Stay Down, Thao & Mirah, and the new single with Tune-Yards and The Linda Lindas.",
-   "Show Me is her first album in six years, out Oct. 30 on Kill Rock Stars. She plays the Independent in San Francisco Sunday, Nov. 8."
+   "Aphex Twin's Richard D. James Album came out Nov. 4, 1996 on Warp. The National's debut came out Oct. 30, 2001 (verify).",
+   "Thursday Triple Shot: Caroline Rose. Cry! is from LONER (2018, New West). The next two are from Gentling the Horse at the Walt Whitman Mall, out Oct. 23 on her own label, SUCK Records, produced by John Congleton."
   ],
   "after_triple_shot": [
-   "Thao & Mirah (2011) was produced by Tune-Yards' Merrill Garbus. Neko Case and Adrian Quesada guest on Show Me."
+   "Caroline Rose's new album came out Oct. 23 on SUCK Records, her own label. John Congleton produced it at Animal Rites in Los Angeles.",
+   "PROMO: UNKLE tickets after the Bay Area shows."
   ],
   "after_set_6": [
    "Tonight, Thu. Nov. 5: Team Dresch at Bottom of the Hill, The Black Angels at the Regency Ballroom, Squirrel Flower with Sour Widows at Chapel, Colleen Green at the Ivy Room in Albany.",
-   "Fri. Nov. 6: King Buffalo with L.A. Witch at the Independent. Sat. Nov. 7: Big Star Quintet at the Fillmore. Sun. Nov. 8: Thao's album release at the Independent."
+   "Fri. Nov. 6: King Buffalo with L.A. Witch at the Independent. Sat. Nov. 7: Big Star Quintet at the Fillmore. Sun. Nov. 8: Thao's album release at the Independent.",
+   "Coming up: a pair of tickets to see UNKLE at the Independent on Nov. 30."
   ],
   "after_set_7": [
-   "TV Priest's Cartoons is out tomorrow, Nov. 6. Bauhaus's Passion of Lovers came out as a single in 1981, before the Mask album."
+   "TICKET GIVEAWAY: UNKLE at the Independent, 628 Divisadero St., San Francisco, Mon. Nov. 30. Show at 8 p.m., doors 7:30, 21 and over.",
+   "Josh Homme sings on Restless, from UNKLE's 2007 album War Stories. Homme's Queens of the Stone Age opened the show tonight.",
+   "CONFIRM BEFORE AIR: number of tickets, give-by date, which DJ gives them, rules and call-in number. Not supplied."
   ],
   "after_set_8": [
-   "Numbers is from Kraftwerk's Computer World (1981). Nag, Nag, Nag is Cabaret Voltaire's 1979 Rough Trade single."
+   "TV Priest's Cartoons is out tomorrow, Nov. 6. Bauhaus's Passion of Lovers came out as a single in 1981, before the Mask album."
+  ],
+  "after_set_9": [
+   "Kraftwerk's Numbers is from Computer World (1981). Cabaret Voltaire's Sensoria came out as a single in October 1984 and is on Micro-Phonies."
   ],
   "closing": [
    "Next week, Nov. 12: the last punk and post-punk week before the review."
@@ -1746,24 +1716,6 @@
    "videoId": "Xd2qNhtyyW0"
   },
   {
-   "artist": "Caroline Rose",
-   "track": "Cry!",
-   "album": "Gentling the Horse at the Walt Whitman Mall",
-   "label": "SUCK Records",
-   "label_source": "release DB (verify)",
-   "tag": "",
-   "released": "2026-10-23",
-   "type": "album track",
-   "upcoming": "",
-   "duration": "3:44",
-   "priority": "X",
-   "why": "In Stace's Next Show playlist. Album out Oct. 23 on SUCK Records, Rose's own label.",
-   "fcc_status": "CLEAN",
-   "fcc_note": "CLEAN (Genius, 144 words).",
-   "source": "Next Show (Stace add)",
-   "videoId": "s1tdCxkduZI"
-  },
-  {
    "artist": "Hamilton Leithauser & Rostam",
    "track": "In A Black Out (Piano Version)",
    "album": "",
@@ -1878,24 +1830,6 @@
    "videoId": "dfiR6XtYdzY",
    "duration": "2:17",
    "source_url": "https://en.wikipedia.org/wiki/Crawlspace_of_the_Pantheon"
-  },
-  {
-   "artist": "Westside Cowboy",
-   "track": "You Could Have Died There On The Dancefloor",
-   "album": "It Goes On",
-   "label": "Island Records",
-   "released": "",
-   "type": "rotation",
-   "priority": "X",
-   "why": "In Stace's Next Show playlist.",
-   "fcc_status": "CLEAN",
-   "fcc_note": "none",
-   "explicit_tag": "",
-   "duration": "2:44",
-   "videoId": "fVuyZ-Wp7Ng",
-   "source": "Next Show (Stace add)",
-   "tag": "",
-   "label_source": "ZK label table; your June 25 spin used Island Records"
   },
   {
    "artist": "SAULT",
@@ -2376,24 +2310,6 @@
    "videoId": "j1DqBFYgDzc"
   },
   {
-   "artist": "Aphex Twin",
-   "track": "Girl/Boy Song",
-   "album": "Richard D. James Album",
-   "label": "Sire Records (Modern)",
-   "label_source": "zookeeper album 362854",
-   "tag": "362854",
-   "released": "1996-11-04",
-   "type": "album track",
-   "upcoming": "",
-   "duration": "4:53",
-   "priority": "X",
-   "why": "30th anniversary, Nov. 4, 1996 (thestupidweb.com, from Wikidata). (Friday sweep Oct. 30, Anniversary).",
-   "fcc_status": "CLEAN",
-   "fcc_note": "CLEAN (instrumental, no vocals; Genius page has no lyrics).",
-   "source": "Friday sweep Oct. 30",
-   "videoId": "6yy-Es6rp3U"
-  },
-  {
    "artist": "Nick Cave & The Bad Seeds",
    "track": "The Carny",
    "album": "Your Funeral... My Trial",
@@ -2504,13 +2420,89 @@
    "cut_by": "DJ Stace",
    "date": "2026-11-05",
    "reason": "Removed from Air Order after the Nov. 3 read. Show-length or flow cut; not logged as a cool-off."
+  },
+  {
+   "artist": "Chavez",
+   "track": "Memorize This Face",
+   "cut_by": "DJ Stace",
+   "date": "2026-11-05",
+   "reason": "Cull and Replace ticked in the Notes Sheet. Replaced by Aphex Twin, Girl/Boy Song (1996 anniversary, from the bench).",
+   "source": "Notes Sheet Cull tick"
+  },
+  {
+   "artist": "Thao & The Get Down Stay Down",
+   "track": "Bag of Hammers",
+   "cut_by": "DJ Stace",
+   "date": "2026-11-05",
+   "reason": "Cull ticked; Replace note: \"With Caroline Rose Triple shot\". Triple Shot is now Caroline Rose.",
+   "source": "Notes Sheet Cull tick"
+  },
+  {
+   "artist": "Thao & Mirah",
+   "track": "Eleven",
+   "cut_by": "DJ Stace",
+   "date": "2026-11-05",
+   "reason": "Cull ticked; Replace note: \"With Caroline Rose Triple shot\". Triple Shot is now Caroline Rose.",
+   "source": "Notes Sheet Cull tick"
+  },
+  {
+   "artist": "THAO",
+   "track": "Sick of the Times",
+   "cut_by": "DJ Stace",
+   "date": "2026-11-05",
+   "reason": "Cull ticked; Replace note: \"With Caroline Rose Triple shot\". Triple Shot is now Caroline Rose.",
+   "source": "Notes Sheet Cull tick"
+  },
+  {
+   "artist": "Team Dresch",
+   "track": "Hand Grenade",
+   "cut_by": "DJ Stace",
+   "date": "2026-11-05",
+   "reason": "Cull ticked in the Notes Sheet.",
+   "source": "Notes Sheet Cull tick"
+  },
+  {
+   "artist": "Colleen Green",
+   "track": "Whatever I Want",
+   "cut_by": "DJ Stace",
+   "date": "2026-11-05",
+   "reason": "Cull ticked in the Notes Sheet.",
+   "source": "Notes Sheet Cull tick"
+  },
+  {
+   "artist": "Cabaret Voltaire",
+   "track": "Nag, Nag, Nag",
+   "cut_by": "DJ Stace",
+   "date": "2026-11-05",
+   "reason": "Replace note: \"sensoria\".",
+   "source": "Notes Sheet Replace note"
+  },
+  {
+   "artist": "Galaxie 500",
+   "track": "Tugboat",
+   "cut_by": "DJ Stace",
+   "date": "2026-11-05",
+   "reason": "Replace note: \"Ceremony\".",
+   "source": "Notes Sheet Replace note"
   }
  ],
- "air_order_note": "Nov. 5 morning read: Air Order 52 tracks (43 plan tracks, 11 Stace adds, 2 cuts). Her adds sit at the bottom of the YTM list; the plan places them by angle. Not rewritten by Claude.",
+ "air_order_note": "Nov. 5 11:20 a.m. read: Air Order 56 tracks. Stace's Air Order already holds all her adds; her Notes Sheet culls and replaces are applied in the plan only. Not rewritten by Claude.",
  "final": {
   "built": "2026-11-05",
-  "cull_ticks": [],
-  "replace_ticks": [],
-  "notes": "Thursday morning draft (Nov. 5). Harvested Air Order edits: 11 adds, 2 cuts (Dicks Hate the Police, The Damned Neat Neat Neat). Next Show lost 17 tracks and swapped Star Moles Born Again for the bonus-track version; not logged as cool-offs. Weekly unchanged since Nov. 3 (171)."
+  "cull_ticks": [
+   "Chavez Memorize This Face (also Replace)",
+   "Thao Bag of Hammers",
+   "Thao & Mirah Eleven",
+   "THAO Sick of the Times",
+   "Team Dresch Hand Grenade",
+   "Colleen Green Whatever I Want"
+  ],
+  "replace_ticks": [
+   "Chavez -> Aphex Twin Girl/Boy Song (bench pick, 1996 anniversary)",
+   "Cabaret Voltaire Nag, Nag, Nag -> Sensoria (7-inch version)",
+   "Galaxie 500 Tugboat -> Ceremony",
+   "Thao Triple Shot -> Caroline Rose Triple Shot"
+  ],
+  "notes": "Thursday morning draft, updated about 11:20 a.m. after Stace edited the Notes Sheet and Air Order. Air Order read: 56 tracks (4 new adds since 8 a.m.: Westside Cowboy, Car Seat Headrest, Wilco (Was I) In Your Dreams, UNKLE Restless). UNKLE ticket giveaway noted in Set 7. Car Seat Headrest held out for FCC."
  }
 }

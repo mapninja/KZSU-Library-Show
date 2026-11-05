@@ -2201,6 +2201,38 @@
    "note": "Added by Stace; kept, placed in the plan by angle.",
    "title": "Brain",
    "source_playlist": "01 KZSU - Air Order (PLSosF7JAIkaM)"
+  },
+  {
+   "date": "2026-11-05",
+   "artist": "Wilco",
+   "title": "(Was I) In Your Dreams",
+   "videoId": "-1suS_xTVsM",
+   "note": "Added by Stace to Air Order (11:20 a.m. read); kept, placed in the plan by angle.",
+   "source_playlist": "01 KZSU - Air Order (PLSosF7JAIkaM)"
+  },
+  {
+   "date": "2026-11-05",
+   "artist": "UNKLE",
+   "title": "Restless (feat. Josh Homme)",
+   "videoId": "QCXhQ2sQgfI",
+   "note": "Added by Stace to Air Order (11:20 a.m. read); kept, placed in the plan by angle.",
+   "source_playlist": "01 KZSU - Air Order (PLSosF7JAIkaM)"
+  },
+  {
+   "date": "2026-11-05",
+   "artist": "Cabaret Voltaire",
+   "title": "Sensoria (7\" Version)",
+   "videoId": "IN5RRjmQytc",
+   "note": "Added by Stace to Air Order (11:20 a.m. read); kept, placed in the plan by angle.",
+   "source_playlist": "01 KZSU - Air Order (PLSosF7JAIkaM)"
+  },
+  {
+   "date": "2026-11-05",
+   "artist": "Galaxie 500",
+   "title": "Ceremony",
+   "videoId": "92Nkrav2-Aw",
+   "note": "Added by Stace to Air Order (11:20 a.m. read); kept, placed in the plan by angle.",
+   "source_playlist": "01 KZSU - Air Order (PLSosF7JAIkaM)"
   }
  ],
  "kept": [],
@@ -2901,5 +2933,64 @@
    "date": "2026-11-05",
    "note": "Thursday morning draft (kzsu-thu-draft). Air Order: Stace added 11 tracks and cut Dicks Hate the Police and The Damned Neat Neat Neat (flow or length cuts, not logged as cool-offs). Next Show: 17 tracks gone, Star Moles swapped to the Bonus Track version (read-only list, not logged as removals). Weekly: 171, no edits since Nov. 3."
   }
- ]
+ ],
+ "notes_sheet_ticks": [
+  {
+   "date": "2026-11-05",
+   "artist": "Chavez",
+   "title": "Memorize This Face",
+   "note": "Cull and Replace ticked in the Notes Sheet. Replaced by Aphex Twin, Girl/Boy Song (1996 anniversary, from the bench).",
+   "cooloff": false
+  },
+  {
+   "date": "2026-11-05",
+   "artist": "Thao & The Get Down Stay Down",
+   "title": "Bag of Hammers",
+   "note": "Cull ticked; Replace note: \"With Caroline Rose Triple shot\". Triple Shot is now Caroline Rose.",
+   "cooloff": false
+  },
+  {
+   "date": "2026-11-05",
+   "artist": "Thao & Mirah",
+   "title": "Eleven",
+   "note": "Cull ticked; Replace note: \"With Caroline Rose Triple shot\". Triple Shot is now Caroline Rose.",
+   "cooloff": false
+  },
+  {
+   "date": "2026-11-05",
+   "artist": "THAO",
+   "title": "Sick of the Times",
+   "note": "Cull ticked; Replace note: \"With Caroline Rose Triple shot\". Triple Shot is now Caroline Rose.",
+   "cooloff": false
+  },
+  {
+   "date": "2026-11-05",
+   "artist": "Team Dresch",
+   "title": "Hand Grenade",
+   "note": "Cull ticked in the Notes Sheet.",
+   "cooloff": false
+  },
+  {
+   "date": "2026-11-05",
+   "artist": "Colleen Green",
+   "title": "Whatever I Want",
+   "note": "Cull ticked in the Notes Sheet.",
+   "cooloff": false
+  },
+  {
+   "date": "2026-11-05",
+   "artist": "Cabaret Voltaire",
+   "title": "Nag, Nag, Nag",
+   "note": "Replace note: \"sensoria\".",
+   "cooloff": false
+  },
+  {
+   "date": "2026-11-05",
+   "artist": "Galaxie 500",
+   "title": "Tugboat",
+   "note": "Replace note: \"Ceremony\".",
+   "cooloff": false
+  }
+ ],
+ "notes_sheet_ticks_note": "Cull and Replace ticks in the Notes Sheet are show-length or flow choices, not taste signals. No cool-off, no artist downweight."
 }

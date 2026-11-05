@@ -112,13 +112,14 @@ def main():
     # ---- 1. Notes Sheet CSV (forward order) --------------------------------
     with (out / f"notes_sheet_{a.show_date}.csv").open("w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
-        w.writerow(["#", "Set", "Artist", "Track", "Album", "Orig. release", "Label", "Tag", "Time",
-                    "FCC status", "YTM link", "Notes / talk points", "Cull", "Replace"])
+        # Cull and Replace come first: Stace moved them to the front of the Sheet (Nov. 5, 2026)
+        w.writerow(["Cull", "Replace", "#", "Set", "Artist", "Track", "Album", "Orig. release", "Label", "Tag", "Time",
+                    "FCC status", "YTM link", "Notes / talk points"])
         for i, (set_name, t) in enumerate(rows, 1):
             mark = ticks.get((t["artist"].lower(), t["track"].lower()), {})
-            w.writerow([i, set_name, t["artist"], t["track"], t.get("album", ""), t.get("released", ""),
-                        t.get("label", ""), t.get("tag", ""), t.get("duration", ""), fcc_text(t), watch(t),
-                        note_text(t), mark.get("Cull", ""), mark.get("Replace", "")])
+            w.writerow([mark.get("Cull", ""), mark.get("Replace", ""), i, set_name, t["artist"], t["track"], t.get("album", ""),
+                        t.get("released", ""), t.get("label", ""), t.get("tag", ""), t.get("duration", ""), fcc_text(t), watch(t),
+                        note_text(t)])
 
     # ---- 2. Zookeeper CSV (REVERSED, no header, 6 quoted columns) ----------
     # Columns by position: artist, track, album, tag, label, timestamp (blank)
