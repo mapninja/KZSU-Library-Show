@@ -373,6 +373,27 @@
    "working_copy": "data/shows/bay_area_shows.csv",
    "created": "2026-10-30",
    "note": "patch in place weekly; never redeploy. Oct. 30 run: 16 rows added (25 total) from venue calendars; foopee.com blocked in browser."
+  },
+  "final_show_script_2026-11-05": {
+   "id": null,
+   "type": "docx+pdf (raw files)",
+   "folder": "KZSU top level",
+   "deployed": "2026-11-05T22:25Z",
+   "working": "Library Show Script 2026-11-05 (FINAL).docx and .pdf at /KZSU/ top level and repo outputs/recon/2026-11-05/",
+   "retired": [
+    "Library Show Script 2026-11-05 (DRAFT).docx/.pdf moved to _to_delete",
+    "Library Show Final Show Script 2026-11-05 (Landscape Tables).docx/.pdf (stale 51-track build from a concurrent run) moved to _to_delete"
+   ],
+   "note": "Landscape tables, 15 pages, 67 tracks, 4:11:53, three hours (5 to 8 p.m.): Hour 1 fill-in for Suzi Boneshaker, Hours 2 and 3 The Library."
+  },
+  "zookeeper_csv_2026-11-05_final": {
+   "id": null,
+   "type": "csv-raw",
+   "folder": "KZSU top level",
+   "deployed": "2026-11-05T22:25Z",
+   "working": "library_show_playlist_2026-11-05.csv at /KZSU/ top level and Working/",
+   "retired": [],
+   "note": "Reversed order: 67 tracks plus 14 blank mic-break rows (81 lines). First row Fade Into You, last row The Hills We Died Upon. FCC-held Car Seat Headrest is excluded."
   }
  },
  "folders": {

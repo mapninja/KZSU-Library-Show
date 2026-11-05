@@ -34,7 +34,7 @@
 16. **Pretenders, "My Baby (2007 Remaster)"** (4:08) Sire Records. "My Baby" opens Get Close, which came out in the UK on Oct. 20, 1986; Bob Clearmountain and Jimmy Iovine produced all but one track. Prod: Bob Clearmountain and Jimmy Iovine (Steve Lillywhite produced only "Room Full of Mirrors"); studio not found; 1986 FCC: CLEAN (Genius, 161 words).
 17. **Nick Cave & The Bad Seeds, "The Carny"** (8:01) Mute. "The Carny" was among the first tracks cut for Your Funeral.. My Trial, recorded at Hansa Studios in West Berlin and co-produced with Flood and Tony Cohen. Prod: The Bad Seeds with Flood and Tony Cohen; recorded at Hansa Tonstudio, West Berlin, with sessions at Strongroom, London; July to Aug. 1986 Related: Flood (engineer, co-producer); Tony Cohen (engineer, co-producer); Mick Harvey (Bad Seeds, brought in the old grand piano parts) FCC: CLEAN (Genius, 453 words).
 
-### Hour 1, Set 1: New this week (out Oct. 30) and Twisted Teens
+### Hour 2, Set 6: New this week (out Oct. 30) and Twisted Teens
 
 18. **Queens of the Stone Age, "Run Away From the Mob"** (3:59) Matador Records. Run Away From the Mob closes Perfecth, and the song dates back to the sessions for ..Like Clockwork. Prod: Josh Homme, Michael Shuman; recorded at three studios incl. Marigny Studios, New Orleans; sessions 2024 to 2026 Related: Josh Homme: Them Crooked Vultures (with Dave Grohl, John Paul Jones) FCC: CLEAN (Genius, 235 words).
 19. **Clinic, "Wild In The Streets"** (2:06) Domino Recording Company. Wild In The Streets is the tenth album from Clinic, led by Ade Blackburn and Jonathan Hartley. Prod: Jonathan Hartley (Qobuz credit, not confirmed elsewhere); recording location not found; 2026 FCC: UNVERIFIED: no lyrics posted (Genius and LRCLIB found nothing). Listen first.
@@ -45,13 +45,13 @@
 24. **Michael Nau, "Popfly"** (3:23) Suicide Squeeze Records. Michael Nau made Popfly with his family, including his wife Whitney McGraw and children Oliver and Beatrice on vocals and sax. Prod: Michael Nau, Benny Yurco; recorded at Little Jamaica (Burlington, Vt.), Mar. 2025, and Spilled Treats, Oct. 2025 FCC: CLEAN (Genius, 190 words).
 25. **The Olivia Tremor Control, "The Same Place"** (3:16) Elephant 6 Recording Co. The Same Place is the third and final Olivia Tremor Control album, built from sessions recorded before Bill Doss died in 2012 and Will Cullen Hart died in 2024. Prod: Bill Doss, W. Cullen Hart, Derek Almstead, Jason NeSmith; sessions 2002 to 2026 Related: Elephant 6 Recording Co., Circulatory System (Hart), The Sunshine Fix and Apples in Stereo (Doss), Neutral Milk Hotel (Jeff Mangum, former member) FCC: CLEAN (Genius, 142 words).
 
-### Hour 1, Set 2: DJ Stace adds, new singles and albums
+### Hour 2, Set 7: DJ Stace adds, new singles and albums
 
 26. **Philip Frobos, "The Handoff"** (2:51) Danger Collective Records (verify). Philip Frobos of Atlanta band Omni trades verses with Lydia Gammill of Gustaf on this lead single from Taste for the Unsavory, due Jan. 29. Prod: Album co-produced by Rodrigo Avendano of Soccer Mommy; single features Lydia Gammill of Gustaf; studio not found Related: Omni FCC: UNVERIFIED: no Genius page found. Listen first.
 27. **Mr. Dinkles, "Brain"** (2:42) Futureless (verify). Mr. Dinkles, a Los Angeles power punk duo, released "Brain" as the first single from their five-song EP REZN, due Jan. 26. Related: Duo of Mac Rettig (vocals, guitar) and Rocco Ramos (drums) FCC: CLEAN (Genius, 269 words).
 28. **Westside Cowboy, "You Could Have Died There On The Dancefloor"** (2:44) Island Records. The closer on Westside Cowboy's debut album It Goes On, recorded in producer Loren Humphrey's living room. Prod: Loren Humphrey (producer); Greenmount Studios, Leeds; this take recorded in his living room; 2026 FCC: CLEAN (Genius, 285 words).
 
-### Hour 1, Set 3: Reviewed albums in rotation (weeks 3 and 4)
+### Hour 2, Set 8: Reviewed albums in rotation (weeks 3 and 4)
 
 29. **Twisted Teens, "Circus Clown"** (2:06) Chain Smoking Records. Tag 1156418. Circus Clown is track 9 on Blame the Clown, the first of three Twisted Teens albums in 2026. Prod: No producer found; home-recorded in New Orleans; limited vinyl run 2025, wide release Feb. 2026 Related: Caspian: Blackbird Raum, CPNPC, Scissorbills. RJ Santos: country and Cajun steel guitar groups FCC: DJ Stace review (Zookeeper, reviewed Oct. 4 to 15, 2026): no FCC flag on this track.
 30. **Palace, "Made My Bed"** (4:01) Awal. Tag 1156463. Ox is the fifth Palace album and the first on the band's own label, Palace Presents, with AWAL. Prod: Adam Jaffrey (also recording and mixing engineer); recorded in Deptford; mastered by Matt Colton; 2026 Related: Skinshape (former member Will Dorey, solo) FCC: CLEAN (Genius, 259 words).
@@ -62,7 +62,7 @@
 35. **Sylvan Esso, "Concrete Glen"** (3:30) Psychic Hotline. Tag 1156542. Concrete Glen was the lead single from Ow, Sylvan Esso's first album on their own label, Psychic Hotline, and it samples Sigur Ros. Prod: Amelia Meath and Nick Sanborn; tracked at their studio, Betty's, Chapel Hill, N.C; 2026 Related: Amelia Meath also sings in Mountain Man FCC: DJ Stace review (Zookeeper, reviewed Oct. 4 to 8, 2026): no FCC flag on this track.
 36. **Yard Act, "Over The Barrel"** (4:33) Republic Records. Tag 1156564. Yard Act made this album with producer Justin Meldal-Johnsen, and the band says Over the Barrel was written in an afternoon and nearly forgotten. Prod: Justin Meldal-Johnsen; recorded in Leeds and Los Angeles; 2026 Related: Producer Justin Meldal-Johnsen has worked with Nine Inch Nails, Beck and St. Vincent FCC: CLEAN (Genius, 299 words).
 
-### Hour 1, Set 4: Anniversaries: 1991, 1996 and 2001
+### Hour 2, Set 9: Anniversaries: 1991, 1996 and 2001
 
 37. **my bloody valentine, "Only Shallow"** (3:31) Creation Records Limited. Tag 13666. Loveless was recorded at 19 studios over about two years, and Colm O Cioisoig played live drums on Only Shallow. Prod: Kevin Shields; recorded at 19 studios incl. Elephant (Wapping) and Falconer (Kentish Town), London; 1989 to 1991 Related: Bilinda Butcher and Kevin Shields share vocals; Colm O Cioisoig plays drums FCC: CLEAN (Genius, 86 words).
 38. **Teenage Fanclub, "What You Do To Me"** (2:01) Geffen Records. Tag 15387. Norman Blake wrote and sings What You Do to Me, the third single from Bandwagonesque, which reached No. 19 on Billboard's modern rock chart. Prod: Don Fleming; recorded and mixed at Amazon Studios, Liverpool, Apr. 9 to May 12, 1991 Related: Formerly the Boy Hairdressers (formed 1989). Norman Blake wrote and sang What You Do to Me FCC: CLEAN (Genius, 152 words).
@@ -73,7 +73,7 @@
 43. **Aphex Twin, "Girl/Boy Song"** (4:53) Sire Records (Modern). Tag 362854. The Richard D. James Album came out Nov. 4, 1996 on Warp, and Girl/Boy Song is track nine. It turned 30 on Nov. 4. Prod: Richard D. James (writer, producer); 1996 FCC: CLEAN, check by ear: Genius lists no lyrics (instrumental).
 44. **The National, "American Mary"** (4:03) Brassland. The National's debut came out in 2001 on Brassland, the label the band formed with writer Alec Bemis, before the band had played a live show. Prod: Nick Lloyd and the band; Lloyd engineered; released 2001 FCC: CLEAN (Genius, 200 words).
 
-### Hour 2, Set 5: Thursday Triple Shot: Caroline Rose
+### Hour 3, Set 10: Thursday Triple Shot: Caroline Rose
 
 Intro: Caroline Rose's album Gentling the Horse at the Walt Whitman Mall came out Oct. 23 on her own label, SUCK Records, produced by John Congleton. Range: Cry! from LONER (2018, New West), then two tracks from the new album. Stace swapped her in for Thao in the Notes Sheet (Nov. 5). No Triple Shot repeat in the last 8.
 
@@ -81,18 +81,18 @@ Intro: Caroline Rose's album Gentling the Horse at the Walt Whitman Mall came ou
 46. **Caroline Rose, "Conversation with Shiv (AKA liquid k song)"** (2:58) SUCK Records. Caroline Rose recorded Gentling the Horse at the Walt Whitman Mall with producer John Congleton and released it Oct. 23 on their own label, SUCK Records. Prod: John Congleton (producer, engineer, mixer) at Animal Rites Studio, Los Angeles; 2026 FCC: CLEAN (Genius, 332 words).
 47. **Caroline Rose, "Yip Yip Yow"** (2:47) SUCK Records. "Yip Yip Yow" opens Gentling the Horse at the Walt Whitman Mall, the first release on Caroline Rose's own SUCK Records. Prod: John Congleton (producer, engineer, mixer) at Animal Rites Studio, Los Angeles; 2026 FCC: CLEAN (Genius, 272 words).
 
-### Hour 2, Set 6: Bay Area, Nov. 5 to 8 (upcoming shows only)
+### Hour 3, Set 11: Bay Area, Nov. 5 to 8 (upcoming shows only)
 
 48. **The Black Angels, "Currency"** (5:17) Partisan Records. Tag 1107032. Currency opens Death Song, the fifth album by the Austin band, produced by Phil Ek. Prod: Phil Ek; recorded at Arlyn Studios, Austin and Avast! Studios, Seattle, fall 2016; 2017 Related: Christian Bland also leads Christian Bland and the Revelators FCC: CLEAN (Genius, 224 words).
 49. **Sour Widows, "Sigil"** (4:18) Julia's War. Sour Widows, now a Bay Area duo, made Sigil in Los Angeles with Melina Duterte, who records as Jay Som. Prod: Melina Duterte (Jay Som) and Sour Widows; recorded at Seahorse Studios, Los Angeles; 2026 Related: Duo of Maia Sinaiko and Susanna Thomson, formerly a trio FCC: CLEAN (Genius, 187 words).
 50. **L.A. Witch, "Kill My Baby Tonight"** (3:08) Suicide Squeeze Records. Tag 1113703. Kill My Baby Tonight opens the self-titled debut from the Los Angeles trio, recorded in Costa Mesa. Prod: Producer not verified; recorded at Hurley Studios, Costa Mesa; mixed in Highland Park, Los Angeles; 2017 FCC: CLEAN (Genius, 100 words).
 51. **Big Star, "September Gurls"** (2:49) Ardent Records. Tag 393926. Alex Chilton wrote September Gurls, which Big Star recorded at Ardent Studios in Memphis in late 1973 for Radio City. Prod: Credited to Big Star; John Fry executive producer and engineer; Ardent Studios, Memphis; 1974 Related: Chris Bell left before the sessions FCC: CLEAN (Genius, 148 words).
 
-### Hour 2, Set 7: Ticket giveaway: UNKLE
+### Hour 3, Set 12: Ticket giveaway: UNKLE
 
 52. **UNKLE, "Restless (feat. Josh Homme)"** (5:07) Surrender All. TICKET GIVEAWAY after this song: UNKLE, Mon. Nov. 30, The Independent, S.F., show 8 p.m., doors 7:30. Josh Homme sings on Restless. Confirm count and rules before air. Prod: Co-produced with Chris Goss; Joshua Tree, Los Angeles and London sessions, 2005 to 2006; 2007 Related: Josh Homme (Queens of the Stone Age) FCC: CLEAN (Genius, 327 words).
 
-### Hour 2, Set 8: Punk and post-punk, San Francisco to New York
+### Hour 3, Set 13: Punk and post-punk, San Francisco to New York
 
 53. **Avengers, "We Are the One"** (2:42) Cd Baby. Tag 979454. San Francisco's Avengers released We Are the One on Los Angeles label Dangerhouse in 1977, and opened the Sex Pistols' final show. Prod: Rand McNally (single source); engineer Ian Michael Hamilton; recorded Oct. 1977 in Hollywood Related: Formed by Greg Ingraham and Danny Furious with singer Penelope Houston and bassist Jimmy Wilsey FCC: CLEAN (Genius, 117 words).
 54. **The Linda Lindas, "Gotta Get Out"** (2:42) Reprise Records. The Linda Lindas' third album, Gotta Get Out, came out Aug. 28 on Reprise and was again produced by Carlos de la Garza, father of two band members. Prod: Carlos de la Garza; 2026 FCC: CLEAN (Genius, 289 words).
@@ -102,14 +102,14 @@ Intro: Caroline Rose's album Gentling the Horse at the Walt Whitman Mall came ou
 58. **Bauhaus, "The Passion of Lovers"** (3:52) Beggars Banquet. Bauhaus put out "The Passion of Lovers" as a single in June 1981, and it reached No. 56 on the UK chart before the Mask album. Prod: Bauhaus (producers); recorded 1981 at Playground and Jam studios, London Related: Love and Rockets, Tones on Tail, Peter Murphy, Daniel Ash, David J, Kevin Haskins FCC: CLEAN (Genius, 256 words).
 59. **Sonic Youth, "Bull In The Heather"** (3:05) Geffen Records. Tag 164089. Butch Vig, who produced Nirvana's Nevermind, produced Sonic Youth's 1994 album Experimental Jet Set, Trash and No Star, which includes this song. Prod: Butch Vig with Sonic Youth (producers); Sear Sound, New York City; 1994 Related: Thurston Moore, Kim Gordon, Lee Ranaldo, Steve Shelley; Free Kitten, Body/Head, Ciccone Youth FCC: CLEAN (Genius, 165 words).
 
-### Hour 2, Set 9: Machines and motorik
+### Hour 3, Set 14: Machines and motorik
 
 60. **Kraftwerk, "Numbers (2009 Remaster)"** (3:21) Elektra Classics. Tag 892751. Numbers is credited to Hütter, Schneider and Karl Bartos, and was recorded at Kling Klang Studio in Düsseldorf for Computer World. Prod: Ralf Hütter, Florian Schneider (producers); recorded at Kling Klang Studio, Düsseldorf; 1981 Related: Karl Bartos (co-writer of Numbers) later founded Elektric Music FCC: CLEAN (LRCLIB, 138 words, counting).
 61. **Cabaret Voltaire, "Sensoria (7" Version)"** (4:02) Virgin Records. Cabaret Voltaire released Sensoria as a single in October 1984, and it is on Micro-Phonies. This is the 7-inch version; the full 6:17 take is also on YTM. Prod: Virgin/Some Bizzare CVS 312, 1984; 12-inch mix by John Potoker; producer and studio not verified Related: Richard H. Kirk, Stephen Mallinder FCC: CLEAN (Genius, 226 words).
 62. **Hot Chip, "Random Violence"** (5:16) Domino Recording Company. Hot Chip's lead single from A Long Way From Kansas, due Jan. 8 on Domino, pays tribute to Optimo's Keith McIvor, known as JD Twitch. FCC: CLEAN (Genius, 1,693 chars).
 63. **Fujiya & Miyagi, "No Green Light"** (5:51) Impossible Objects of Desire. Fujiya & Miyagi of Brighton released "No Green Light" on Oct. 6 ahead of their album New Shiny Object, out Oct. 30 on Impossible Objects of Desire. FCC: UNVERIFIED: Genius lists no lyrics (0 words). Listen first.
 
-### Hour 2, Set 10: Slow closers
+### Hour 3, Set 15: Slow closers
 
 64. **Galaxie 500, "Ceremony"** (5:59) Rykodisc. Tag 378738. Galaxie 500 covers Ceremony, written by Joy Division and first released by New Order in 1981. It first appeared on the Blue Thunder EP. Prod: Recorded at Noise New York, 1989 (Blue Thunder sleeve credit); producer for this track not confirmed Related: Dean Wareham (Luna), Damon and Naomi FCC: CLEAN (Genius, 187 words).
 65. **John Lennon, "Watching The Wheels"** (4:00) Geffen Records. Lennon recorded Watching the Wheels at the Hit Factory in New York in August 1980. It was the third single from Double Fantasy. Prod: John & Yoko and Jack Douglas; recorded at the Hit Factory, New York, Aug. 1980; mixed there Related: The Beatles; co-billed album with Yoko Ono FCC: CLEAN (Genius, 224 words).

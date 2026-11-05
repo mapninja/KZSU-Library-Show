@@ -507,7 +507,7 @@
    ]
   },
   {
-   "set": "Hour 1, Set 1: New this week (out Oct. 30) and Twisted Teens",
+   "set": "Hour 2, Set 6: New this week (out Oct. 30) and Twisted Teens",
    "tracks": [
     {
      "artist": "Queens of the Stone Age",
@@ -698,7 +698,7 @@
    ]
   },
   {
-   "set": "Hour 1, Set 2: DJ Stace adds, new singles and albums",
+   "set": "Hour 2, Set 7: DJ Stace adds, new singles and albums",
    "tracks": [
     {
      "artist": "Philip Frobos",
@@ -770,7 +770,7 @@
    ]
   },
   {
-   "set": "Hour 1, Set 3: Reviewed albums in rotation (weeks 3 and 4)",
+   "set": "Hour 2, Set 8: Reviewed albums in rotation (weeks 3 and 4)",
    "tracks": [
     {
      "artist": "Twisted Teens",
@@ -974,7 +974,7 @@
    ]
   },
   {
-   "set": "Hour 1, Set 4: Anniversaries: 1991, 1996 and 2001",
+   "set": "Hour 2, Set 9: Anniversaries: 1991, 1996 and 2001",
    "tracks": [
     {
      "artist": "my bloody valentine",
@@ -1168,7 +1168,7 @@
    ]
   },
   {
-   "set": "Hour 2, Set 5: Thursday Triple Shot: Caroline Rose",
+   "set": "Hour 3, Set 10: Thursday Triple Shot: Caroline Rose",
    "tracks": [
     {
      "artist": "Caroline Rose",
@@ -1239,7 +1239,7 @@
    ]
   },
   {
-   "set": "Hour 2, Set 6: Bay Area, Nov. 5 to 8 (upcoming shows only)",
+   "set": "Hour 3, Set 11: Bay Area, Nov. 5 to 8 (upcoming shows only)",
    "tracks": [
     {
      "artist": "The Black Angels",
@@ -1339,7 +1339,7 @@
    ]
   },
   {
-   "set": "Hour 2, Set 7: Ticket giveaway: UNKLE",
+   "set": "Hour 3, Set 12: Ticket giveaway: UNKLE",
    "tracks": [
     {
      "artist": "UNKLE",
@@ -1367,7 +1367,7 @@
    ]
   },
   {
-   "set": "Hour 2, Set 8: Punk and post-punk, San Francisco to New York",
+   "set": "Hour 3, Set 13: Punk and post-punk, San Francisco to New York",
    "tracks": [
     {
      "artist": "Avengers",
@@ -1536,7 +1536,7 @@
    ]
   },
   {
-   "set": "Hour 2, Set 9: Machines and motorik",
+   "set": "Hour 3, Set 14: Machines and motorik",
    "tracks": [
     {
      "artist": "Kraftwerk",
@@ -1636,7 +1636,7 @@
    ]
   },
   {
-   "set": "Hour 2, Set 10: Slow closers",
+   "set": "Hour 3, Set 15: Slow closers",
    "tracks": [
     {
      "artist": "Galaxie 500",
@@ -1807,7 +1807,7 @@
  },
  "ticket_giveaway": {
   "default_rule_result": "No November ticket sheet in the repo. UNKLE giveaway added at Stace's request (Nov. 5); show details from the Bay Area list and search listings.",
-  "proposed": "UNKLE, Mon. Nov. 30, 2026, The Independent, 628 Divisadero St., S.F. Show 8 p.m., doors 7:30 p.m., 21+. Tickets from $55.64 on TicketWeb (verify). Opener not found. Play Restless (feat. Josh Homme) and give away after it (Hour 2, Set 7).",
+  "proposed": "UNKLE, Mon. Nov. 30, 2026, The Independent, 628 Divisadero St., S.F. Show 8 p.m., doors 7:30 p.m., 21+. Tickets from $55.64 on TicketWeb (verify). Opener not found. Play Restless (feat. Josh Homme) and give away after it (7 p.m. hour, Set 12).",
   "flag": "Confirm before air: number of tickets, which DJ gives them, give-by date, rules, call-in number. None of these were supplied.",
   "placement": "7 p.m. hour, after the Bay Area set (Set 11) and UNKLE Restless (Set 12); promos on the opening break, the 6 p.m. open, end of the 6 p.m. hour and after the Triple Shot."
  },
