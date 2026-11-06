@@ -219,10 +219,10 @@
    "https://missgrit.bandcamp.com/track/mind-disaster"
   ],
   "status": "single, date unverified",
-  "note": "Single date: Line of Best Fit story dated Mar. 10, 2026 (third single from Under My Umbrella). Northern Transmissions posted Mar. 11 (Pacific). Not confirmed by the label or Bandcamp. Bandcamp track page shows Apr. 24, 2026, the album date (Mute). Oct. 28 recheck: no new evidence; Line of Best Fit Mar. 10 stays the single date. Oct. 29 recheck: Line of Best Fit page read, dated 10 March 2026 and says the single is out from Under My Umbrella (Apr. 24, Mute). Still one day-precision source. | Nov. 2 recheck: Northern Transmissions and Line of Best Fit coverage around Mar. 10; Bandcamp shows Apr. 24 album date. Still one day-precision source.",
+  "note": "Single date: Line of Best Fit story dated Mar. 10, 2026 (third single from Under My Umbrella). Northern Transmissions posted Mar. 11 (Pacific). Not confirmed by the label or Bandcamp. Bandcamp track page shows Apr. 24, 2026, the album date (Mute). Oct. 28 recheck: no new evidence; Line of Best Fit Mar. 10 stays the single date. Oct. 29 recheck: Line of Best Fit page read, dated 10 March 2026 and says the single is out from Under My Umbrella (Apr. 24, Mute). Still one day-precision source. | Nov. 2 recheck: Northern Transmissions and Line of Best Fit coverage around Mar. 10; Bandcamp shows Apr. 24 album date. Still one day-precision source. | Nov. 5 recheck: coverage still clusters around Mar. 10 (Under the Radar, Line of Best Fit, Northern Transmissions); Bandcamp track page shows the Apr. 24 album date. Still one day-precision source.",
   "label": "Mute Records",
   "confirmed": false,
-  "checked_on": "2026-11-02"
+  "checked_on": "2026-11-05"
  },
  "hrishikesh hirway|stray dogs with iron wine": {
   "date": "2026-02-18",
@@ -4109,8 +4109,8 @@
   "status": "date not found",
   "label": "Samlist/AWAL",
   "confirmed": false,
-  "note": "Nov. 1: search returned no results again. Retry later. | Nov. 2: web search returned nothing; still no date.",
-  "checked_on": "2026-11-02"
+  "note": "Nov. 5: web search returned no results for the album title. Still needed.",
+  "checked_on": "2026-11-05"
  },
  "vienna vienna|grief is for the living": {
   "date": "2026-05-22",
@@ -5244,5 +5244,175 @@
   ],
   "note": "Nov. 2: Tunebat lists Jan. 28, 2026; NME and Skiddle coverage is late January (announces Full Circle, Mar. 27). Bandcamp shows the album date. One day-precision source, so verify.",
   "checked_on": "2026-11-02"
+ },
+ "runo plum|bloom again": {
+  "date": "2026-05-08",
+  "precision": "day",
+  "status": "released",
+  "confirmed": true,
+  "label": "Winspear",
+  "sources": [
+   "https://runoplum.bandcamp.com/album/bloom-again",
+   "https://music.apple.com/mm/album/bloom-again-ep/1878228434",
+   "https://stereogum.com/2491749/runo-plum-announces-new-ep-bloom-again-hear-butterflies/music"
+  ],
+  "note": "Nov. 5: Bandcamp, Apple Music and Stereogum all give May 8, 2026. Six-track EP (about 17 min), not an album. Lead single \"butterflies\", final single \"pink moon\".",
+  "checked_on": "2026-11-05"
+ },
+ "clea vincent|speakeasy": {
+  "date": "2026-01-23",
+  "precision": "day",
+  "status": "released",
+  "confirmed": true,
+  "label": "Midnight Special",
+  "sources": [
+   "https://cleavincent.bandcamp.com/album/speakeasy",
+   "https://music.apple.com/fr/album/speakeasy-ep/1846594934?l=en-GB",
+   "https://miniwax.club/en-us/products/clea-vincent-speakeasy"
+  ],
+  "note": "Nov. 5: Bandcamp, Apple Music and Amazon Music give Jan. 23, 2026. Six-track EP of instrumental piano pieces (about 16 min), not an album. Apple copyright line says 2025.",
+  "checked_on": "2026-11-05"
+ },
+ "ana tijoux|vinos y vinilos": {
+  "date": "2026-01-22",
+  "precision": "day",
+  "status": "single, released",
+  "confirmed": true,
+  "label": "Victoria Producciones",
+  "sources": [
+   "https://music.apple.com/in/album/vinos-y-vinilos-single/1852058002",
+   "https://open.spotify.com/album/4RnSUfSekNV7gWqGHLeokD",
+   "https://lahora.cl/cultura/2026/01/22/ana-tijoux-estrena-vinos-y-vinilos-primer-adelanto-del-ep-97-junto-a-dj-dacel"
+  ],
+  "note": "Nov. 5: Apple Music, Spotify and La Hora (dated Jan. 22) agree. Credited Ana Tijoux and DJ Dacel; first single from the EP \"97\". A CNN Chile piece dated Apr. 8 says \"this Friday\", which conflicts and is ignored.",
+  "checked_on": "2026-11-05"
+ },
+ "tinariwen|sagherat assani feat sulafa elyas": {
+  "date": "2026-01-21",
+  "precision": "day",
+  "status": "single, date inferred from announcement coverage",
+  "confirmed": false,
+  "label": "Wedge",
+  "sources": [
+   "https://stereogum.com/2486114/tinariwen-announce-new-album-hoggar-hear-sagherat-assani/music",
+   "https://www.brooklynvegan.com/tinariwen-announce-new-album-ft-jose-gonzalez-more-share-sagherat-assani/",
+   "https://klofmag.com/2026/01/tinariwen-new-album-hoggar-video-sagherat-assani/"
+  ],
+  "note": "Nov. 5: Stereogum and BrooklynVegan stories on the single and the Hoggar announcement are dated Jan. 21, 2026. Neither states the single date outright. Album Hoggar (Wedge) is Mar. 13, 2026 (Shazam, Dork). Verify on Bandcamp or a label page.",
+  "checked_on": "2026-11-05"
+ },
+ "jane remover|ep": {
+  "date": "2025-12-05",
+  "precision": "day",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Heart_(EP)",
+   "https://www.polyvinylrecords.com/products/jane-remover-heart",
+   "https://www.albumoftheyear.org/album/1564922-jane-remover-.php",
+   "https://www.altpress.com/jane-remover-heart-ep-stream/"
+  ],
+  "status": "released",
+  "note": "Nov. 6: Dec. 5, 2025 per Wikipedia, Polyvinyl, Album of the Year and Alt Press. Six-track EP released without prior announcement. Dated 2025, so it is not a 2026 release.",
+  "label": "deadAir",
+  "confirmed": true,
+  "checked_on": "2026-11-06"
+ },
+ "mon rovia|bloodline": {
+  "date": "2026-01-09",
+  "precision": "day",
+  "sources": [
+   "https://nettwerk.com/mon-rovia-announces-debut-album-bloodline/",
+   "https://propermusic.com/products/monrovia-bloodline",
+   "https://www.amoeba.com/bloodline-cd-mon-rov-a/albums/4460851/"
+  ],
+  "status": "released",
+  "note": "Nov. 6: Nettwerk announcement, Proper Music and Amoeba all give Jan. 9, 2026. Debut album, 16 tracks.",
+  "label": "Nettwerk",
+  "confirmed": true,
+  "checked_on": "2026-11-06"
+ },
+ "barry can t swim|chala my soul on a loop": {
+  "date": "2026-01-22",
+  "precision": "day",
+  "sources": [
+   "https://djmag.com/news/barry-cant-swim-announces-late-night-tales-mix-album-shares-chala-my-soul-loop",
+   "https://thedailymusicreport.com/music-news-releases/barry-cant-swim-chala-my-soul-is-on-a-loop-01222026/",
+   "https://barrycantswim.bandcamp.com/track/barry-cant-swim-chala-my-soul-is-on-a-loop-exclusive"
+  ],
+  "status": "released",
+  "note": "Nov. 6: Single date Jan. 22, 2026 per DJ Mag and The Daily Music Report. Lead single from Late Night Tales: Barry Can't Swim (Mar. 6, 2026). Sources spell the title \"My Soul Is On A Loop\"; album version is \"(Exclusive)\". Feat. Aster Aweke.",
+  "label": "Ninja Tune / Late Night Tales",
+  "confirmed": true,
+  "checked_on": "2026-11-06"
+ },
+ "sassy 009|dreamer": {
+  "date": "2026-01-16",
+  "precision": "day",
+  "sources": [
+   "https://sassy009.bandcamp.com/album/dreamer-3",
+   "https://music.apple.com/us/album/dreamer/1826114506",
+   "https://www.thelineofbestfit.com/news/sassy-009-details-forthcoming-debut-album-dreamer"
+  ],
+  "status": "released",
+  "note": "Nov. 6: Bandcamp, Apple Music, Deezer and Line of Best Fit give Jan. 16, 2026 (Heaven-Sent / [PIAS]). A deluxe edition followed in Oct. 2026.",
+  "label": "[PIAS] Electronique",
+  "confirmed": true,
+  "checked_on": "2026-11-06"
+ },
+ "lord jah monte ogbon|as of now": {
+  "date": "2026-01-30",
+  "precision": "day",
+  "sources": [
+   "https://lexrecords.com/news/jahmonte-announces-as-of-now/",
+   "https://music.apple.com/gb/album/as-of-now/1840160514",
+   "https://lordjahmonteogon.bandcamp.com/album/as-of-now"
+  ],
+  "status": "released",
+  "note": "Nov. 6: Lex Records announcement, Apple Music and Bandcamp give Jan. 30, 2026. A Bull City Records vinyl listing shows Mar. 27, 2026, treated as a later pressing.",
+  "label": "Lex Records",
+  "confirmed": true,
+  "checked_on": "2026-11-06"
+ },
+ "local weatherman|right one": {
+  "date": "2026-01-16",
+  "precision": "day",
+  "sources": [
+   "https://localweatherman.bandcamp.com/album/right-one",
+   "https://hashtagmagazine.net/home/2026/1/16/local-weatherman-share-new-ep-right-one",
+   "https://topshelfmusicmag.com/reviews/local-weatherman-wants-the-right-one-back-in-new-ep/"
+  ],
+  "status": "released",
+  "note": "Nov. 6: Bandcamp and iHeart interview page give Jan. 16, 2026 (Karol Records). Five-track EP, not an album.",
+  "label": "Karol",
+  "confirmed": true,
+  "checked_on": "2026-11-06"
+ },
+ "lb aka labat|feel so good around u feat skin on skin": {
+  "date": "2026-01-28",
+  "precision": "day",
+  "sources": [
+   "https://www.beatport.com/release/feel-so-good-around-u/5806204",
+   "https://lbakalabat.bandcamp.com/album/feel-so-good-around-u-2",
+   "https://www.sonofmarketing.com/2026/02/02/streaming-lb-aka-labat-feel-so-good-around-u-feat-skin-on-skin/"
+  ],
+  "status": "released",
+  "note": "Nov. 6: Single date Jan. 28, 2026 per Beatport and Bandcamp (exclusive licence to Because Music). Debut album of the same name is Feb. 27, 2026. Remix Jun. 11, 2026.",
+  "label": "Because Music",
+  "confirmed": true,
+  "checked_on": "2026-11-06"
+ },
+ "by storm|my ghosts go ghost": {
+  "date": "2026-01-30",
+  "precision": "day",
+  "sources": [
+   "https://en.wikipedia.org/wiki/My_Ghosts_Go_Ghost",
+   "https://www.deezer.com/en/album/898884552",
+   "https://stereogum.com/2485517/by-storm-announce-debut-album-my-ghosts-go-ghost-hear-and-i-dance/music",
+   "https://www.albumoftheyear.org/album/1616353-by-storm-my-ghosts-go-ghost.php"
+  ],
+  "status": "released",
+  "note": "Nov. 6: Wikipedia, Deezer, Album of the Year and Stereogum give Jan. 30, 2026 (deadAir). Limited vinyl Jan. 26, CD Apr. 1 per Discogs.",
+  "label": "deadAir",
+  "confirmed": true,
+  "checked_on": "2026-11-06"
  }
 }

@@ -81,15 +81,6 @@
   "key": "dai freyr pronounced dah thi fray er|too much is not enough"
  },
  {
-  "artist": "runo plum",
-  "title": "Bloom Again",
-  "type": "album",
-  "label": "Winspear",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "runo plum|bloom again"
- },
- {
   "artist": "Alex Krawczyk",
   "title": "Wonders Await",
   "type": "album",
@@ -144,33 +135,6 @@
   "key": "samsara|whatever helps you sleep at night"
  },
  {
-  "artist": "By Storm",
-  "title": "My Ghosts Go Ghost",
-  "type": "album",
-  "label": "deadAir",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "by storm|my ghosts go ghost"
- },
- {
-  "artist": "Lord Jah-Monte Ogbon",
-  "title": "As Of Now",
-  "type": "album",
-  "label": "Lex Records",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "lord jah monte ogbon|as of now"
- },
- {
-  "artist": "LB aka LABAT",
-  "title": "Feel So Good Around U (feat. Skin on Skin)",
-  "type": "single",
-  "label": "Because Music",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "lb aka labat|feel so good around u feat skin on skin"
- },
- {
   "artist": "Ski Team",
   "title": "Burnout/Boys",
   "type": "album",
@@ -178,24 +142,6 @@
   "current_date": "",
   "date_check": "needed",
   "key": "ski team|burnout boys"
- },
- {
-  "artist": "Local Weatherman",
-  "title": "Right One",
-  "type": "album",
-  "label": "Karol",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "local weatherman|right one"
- },
- {
-  "artist": "Cléa Vincent",
-  "title": "Speakeasy",
-  "type": "album",
-  "label": "Midnight Special",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "clea vincent|speakeasy"
  },
  {
   "artist": "YARD",
@@ -225,33 +171,6 @@
   "key": "idk|even the devil smiles"
  },
  {
-  "artist": "Jane Remover",
-  "title": "♡ EP",
-  "type": "EP",
-  "label": "deadAir",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "jane remover|ep"
- },
- {
-  "artist": "Tinariwen",
-  "title": "Sagherat Assani (feat. Sulafa Elyas)",
-  "type": "single",
-  "label": "Wedge",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "tinariwen|sagherat assani feat sulafa elyas"
- },
- {
-  "artist": "Ana Tijoux",
-  "title": "Vinos y Vinilos",
-  "type": "single",
-  "label": "Victoria Producciones",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "ana tijoux|vinos y vinilos"
- },
- {
   "artist": "Sotomayor",
   "title": "Si te vas",
   "type": "single",
@@ -259,5 +178,86 @@
   "current_date": "",
   "date_check": "needed",
   "key": "sotomayor|si te vas"
+ },
+ {
+  "artist": "Gigi",
+  "title": "Thank You Sam",
+  "type": "album",
+  "label": "Self-Released",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "gigi|thank you sam"
+ },
+ {
+  "artist": "Razteria",
+  "title": "Reflections",
+  "type": "album",
+  "label": "Asteria",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "razteria|reflections"
+ },
+ {
+  "artist": "LMNT 115",
+  "title": "Isotope",
+  "type": "album",
+  "label": "Quassar Music",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "lmnt 115|isotope"
+ },
+ {
+  "artist": "GENA",
+  "title": "The Pleasure Is Yours",
+  "type": "album",
+  "label": "Lex Records",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "gena|pleasure is yours"
+ },
+ {
+  "artist": "LB aka LABAT",
+  "title": "Feel So Good Around You",
+  "type": "album",
+  "label": "Because Music",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "lb aka labat|feel so good around you"
+ },
+ {
+  "artist": "Mexican Institute of Sound & Meridian Brothers",
+  "title": "Cumbia Fantasia",
+  "type": "single",
+  "label": "Ansonia Records",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "mexican institute of sound meridian brothers|cumbia fantasia"
+ },
+ {
+  "artist": "Shabaka",
+  "title": "Dance In Praise",
+  "type": "single",
+  "label": "Shabaka Recordings",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "shabaka|dance in praise"
+ },
+ {
+  "artist": "The Womack Sisters",
+  "title": "You Went Away Too Long",
+  "type": "single",
+  "label": "Daptone Records",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "womack sisters|you went away too long"
+ },
+ {
+  "artist": "Cain Culto",
+  "title": "Chismosa (feat. Jarina De Marco)",
+  "type": "single",
+  "label": "Hive Music",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "cain culto|chismosa feat jarina de marco"
  }
 ]
