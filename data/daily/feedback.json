@@ -2250,6 +2250,22 @@
    "videoId": "xWRUeNhDwMA",
    "note": "Added by Stace to Air Order; held out of the plan and CSV for FCC (album version fuck x1 Verse 1, shit x1 Bridge). Confirm the single version is edited before air.",
    "source_playlist": "01 KZSU - Air Order (PLSosF7JAIkaM)"
+  },
+  {
+   "date": "2026-11-06",
+   "artist": "Guided By Voices",
+   "title": "Designed For Use",
+   "videoId": "aPlSNwX2Rx4",
+   "note": "New in 01 KZSU - Next Show since the Nov. 5 read (read-only list). Positive signal for GBV.",
+   "source_playlist": "01 KZSU - Next Show (PLMduzOohHQLrQzt6w4ep6l2zAwcIzoZVF)"
+  },
+  {
+   "date": "2026-11-06",
+   "artist": "TV Priest",
+   "title": "Cartoons (full album, 8 tracks)",
+   "videoId": "pCHfn8yYhF4",
+   "note": "Whole album added to Next Show between the 9:35 and 10:30 a.m. reads. Newer than her Oct. 13 delete of Cartoons from New Releases for Review (cool-off to Dec. 15); treat TV Priest as a positive signal.",
+   "source_playlist": "01 KZSU - Next Show (PLMduzOohHQLrQzt6w4ep6l2zAwcIzoZVF)"
   }
  ],
  "kept": [],
@@ -2980,7 +2996,8 @@
   {
    "date": "2026-11-05",
    "note": "Thursday morning draft (kzsu-thu-draft). Air Order: Stace added 11 tracks and cut Dicks Hate the Police and The Damned Neat Neat Neat (flow or length cuts, not logged as cool-offs). Next Show: 17 tracks gone, Star Moles swapped to the Bonus Track version (read-only list, not logged as removals). Weekly: 171, no edits since Nov. 3."
-  }
+  },
+  "2026-11-06 Friday full pass (kzsu-radar-playlists): no Stace edits in Weekly (171) or New Releases for Review (35). Air Order 47 at first read, then rewritten to 43 by the Nov. 12 draft run (not by this run). Next Show 45, then 53 (Guided By Voices add; TV Priest Cartoons album). Run note: while testing the row-menu route, a script click briefly hit the Like button on Chastity Belt - Friends for This and the next click unliked it. Verified like-status INDIFFERENT. Helper now targets the Action menu button by aria-label."
  ],
  "notes_sheet_ticks": [
   {

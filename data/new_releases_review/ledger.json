@@ -671,10 +671,11 @@
    "added": "2026-10-23",
    "expires": "2026-11-06",
    "owner": "claude",
-   "status": "active",
+   "status": "expired",
    "fcc_status": "UNVERIFIED",
    "fcc_note": "no Genius page; YTM marks it explicit (E), listen first",
-   "source": "Oct. 20 Tuesday sweep (Stereogum)"
+   "source": "Oct. 20 Tuesday sweep (Stereogum)",
+   "expired_on": "2026-11-06"
   },
   {
    "videoId": "MxJy3S-YkG4",
@@ -686,10 +687,11 @@
    "added": "2026-10-23",
    "expires": "2026-11-06",
    "owner": "claude",
-   "status": "active",
+   "status": "expired",
    "fcc_status": "FCC",
    "fcc_note": "fuck x62 (Refrain 2, Interlude 20, Outro 20, unlabeled 20), shit x1, caution: bitch x1",
-   "source": "Oct. 20 Tuesday sweep; punk focus"
+   "source": "Oct. 20 Tuesday sweep; punk focus",
+   "expired_on": "2026-11-06"
   },
   {
    "videoId": "fvjglC4_AYM",
@@ -701,10 +703,11 @@
    "added": "2026-10-23",
    "expires": "2026-11-06",
    "owner": "claude",
-   "status": "active",
+   "status": "expired",
    "fcc_status": "FCC",
    "fcc_note": "cock x1, fuck x1 (unlabeled), caution: asshole x1",
-   "source": "Oct. 23 Friday sweep"
+   "source": "Oct. 23 Friday sweep",
+   "expired_on": "2026-11-06"
   },
   {
    "videoId": "D4S-TxPpaI8",
@@ -716,10 +719,11 @@
    "added": "2026-10-23",
    "expires": "2026-11-06",
    "owner": "claude",
-   "status": "active",
+   "status": "expired",
    "fcc_status": "CLEAN",
    "fcc_note": "133 words on Genius, no FCC words",
-   "source": "Oct. 20 Tuesday sweep, Punknews"
+   "source": "Oct. 20 Tuesday sweep, Punknews",
+   "expired_on": "2026-11-06"
   },
   {
    "videoId": "nSeCbPz47Ac",
@@ -731,10 +735,11 @@
    "added": "2026-10-23",
    "expires": "2026-11-06",
    "owner": "claude",
-   "status": "active",
+   "status": "expired",
    "fcc_status": "FCC",
    "fcc_note": "fuck x1 (Verse 1), caution: bitch x1 (Verse 2)",
-   "source": "Oct. 23 Friday sweep"
+   "source": "Oct. 23 Friday sweep",
+   "expired_on": "2026-11-06"
   },
   {
    "videoId": "NEGOMO5fajs",
@@ -746,10 +751,11 @@
    "added": "2026-10-23",
    "expires": "2026-11-06",
    "owner": "claude",
-   "status": "active",
+   "status": "expired",
    "fcc_status": "CLEAN",
    "fcc_note": "142 words",
-   "source": "Oct. 23 Friday sweep"
+   "source": "Oct. 23 Friday sweep",
+   "expired_on": "2026-11-06"
   },
   {
    "videoId": "neIym9G-0Ss",
@@ -761,10 +767,11 @@
    "added": "2026-10-23",
    "expires": "2026-11-06",
    "owner": "claude",
-   "status": "active",
+   "status": "expired",
    "fcc_status": "UNVERIFIED",
    "fcc_note": "no Genius page found on Oct. 23 retry",
-   "source": "Oct. 23 Friday sweep"
+   "source": "Oct. 23 Friday sweep",
+   "expired_on": "2026-11-06"
   },
   {
    "videoId": "2BDSEbM8_6w",
@@ -776,10 +783,11 @@
    "added": "2026-10-23",
    "expires": "2026-11-06",
    "owner": "claude",
-   "status": "active",
+   "status": "expired",
    "fcc_status": "UNVERIFIED",
    "fcc_note": "Genius page has no lyrics on Oct. 23 retry",
-   "source": "Oct. 23 Friday sweep"
+   "source": "Oct. 23 Friday sweep",
+   "expired_on": "2026-11-06"
   },
   {
    "videoId": "IQgGZbcWehc",
@@ -791,10 +799,11 @@
    "added": "2026-10-23",
    "expires": "2026-11-06",
    "owner": "claude",
-   "status": "active",
+   "status": "expired",
    "fcc_status": "UNVERIFIED",
    "fcc_note": "Genius page has no lyrics on Oct. 23 retry",
-   "source": "Oct. 23 Friday sweep"
+   "source": "Oct. 23 Friday sweep",
+   "expired_on": "2026-11-06"
   },
   {
    "videoId": "bZhxVTxxGwo",
@@ -806,10 +815,11 @@
    "added": "2026-10-23",
    "expires": "2026-11-06",
    "owner": "claude",
-   "status": "active",
+   "status": "expired",
    "fcc_status": "UNVERIFIED",
    "fcc_note": "Genius page has no lyrics on Oct. 23 retry",
-   "source": "Oct. 23 Friday sweep"
+   "source": "Oct. 23 Friday sweep",
+   "expired_on": "2026-11-06"
   },
   {
    "videoId": "C1JkLJzrizE",
@@ -821,10 +831,11 @@
    "added": "2026-10-23",
    "expires": "2026-11-06",
    "owner": "claude",
-   "status": "active",
+   "status": "expired",
    "fcc_status": "CLEAN",
    "fcc_note": "190 words",
-   "source": "Oct. 23 Friday sweep"
+   "source": "Oct. 23 Friday sweep",
+   "expired_on": "2026-11-06"
   },
   {
    "videoId": "M7EMyU-tJnw",
@@ -853,10 +864,11 @@
    "added": "2026-10-23",
    "expires": "2026-11-06",
    "owner": "claude",
-   "status": "active",
+   "status": "expired",
    "fcc_status": "CLEAN",
    "fcc_note": "165 words",
-   "source": "Oct. 23 Friday sweep"
+   "source": "Oct. 23 Friday sweep",
+   "expired_on": "2026-11-06"
   },
   {
    "videoId": "wSKh4KoXtC8",
@@ -1219,6 +1231,118 @@
    "fcc_status": "UNVERIFIED",
    "fcc_note": "No lyrics on Genius yet (brand-new single); listen first",
    "source": "First release on Feral Twin (Hop Along drummer Mark Quinlan's label). Nov. 3 Tuesday sweep (Stereogum, WebSearch)"
+  },
+  {
+   "videoId": "xstegGr1dWo",
+   "artist": "Land of Talk",
+   "title": "4:44",
+   "album": "LASTS (album track)",
+   "label": "Saddle Creek",
+   "released": "album due 2026-11-13 (indieisnotagenre); single date (verify)",
+   "added": "2026-11-06",
+   "expires": "2026-11-20",
+   "owner": "claude",
+   "status": "active",
+   "fcc_status": "CLEAN",
+   "fcc_note": "Genius, 155 words",
+   "source": "Nov. 6 Friday sweep (indieisnotagenre Nov. 13 list)",
+   "fit": "Saddle Creek is a tier 2 label in the watchlist"
+  },
+  {
+   "videoId": "qW8sxNZcaJw",
+   "artist": "Live Skull",
+   "title": "What Could Go Wrong?",
+   "album": "What Could Go Wrong? (title track)",
+   "label": "Bronson Recordings",
+   "released": "album due 2026-11-13 (indieisnotagenre); single date (verify)",
+   "added": "2026-11-06",
+   "expires": "2026-11-20",
+   "owner": "claude",
+   "status": "active",
+   "fcc_status": "CLEAN",
+   "fcc_note": "Genius, 176 words",
+   "source": "Nov. 6 Friday sweep (indieisnotagenre Nov. 13 list)",
+   "fit": "NYC noise rock, punk focus"
+  },
+  {
+   "videoId": "L9-rw6st42U",
+   "artist": "Do Nothing",
+   "title": "Stars",
+   "album": "Friend World (lead single)",
+   "label": "Submarine Cat",
+   "released": "album 2026-11-06 (indieisnotagenre; one source)",
+   "added": "2026-11-06",
+   "expires": "2026-11-20",
+   "owner": "claude",
+   "status": "active",
+   "fcc_status": "CLEAN",
+   "fcc_note": "Genius, 195 words",
+   "source": "Nov. 6 Friday sweep; Stars already in Weekly",
+   "fit": "Post-punk, UK; on Review Shelf"
+  },
+  {
+   "videoId": "ElPskynxhTA",
+   "artist": "Twisted Teens",
+   "title": "When We First Met",
+   "album": "The Holy Cross Tigers (lead single)",
+   "label": "Sub Pop",
+   "released": "album 2026-11-06 (indieisnotagenre; Review Shelf ticked)",
+   "added": "2026-11-06",
+   "expires": "2026-11-20",
+   "owner": "claude",
+   "status": "active",
+   "fcc_status": "UNVERIFIED",
+   "fcc_note": "Genius page has no lyrics yet; Look In The Mirror is CLEAN (170 words)",
+   "source": "Nov. 6 Friday sweep",
+   "fit": "Top taste score (68.5); Sub Pop tier 1"
+  },
+  {
+   "videoId": "RHp0MaPozzc",
+   "artist": "Computerwife",
+   "title": "Hammered",
+   "album": "Hammered (single)",
+   "label": "Danger Collective",
+   "released": "album Born From A Wish 2026-11-06 (indieisnotagenre); single date (verify)",
+   "added": "2026-11-06",
+   "expires": "2026-11-20",
+   "owner": "claude",
+   "status": "active",
+   "fcc_status": "UNVERIFIED",
+   "fcc_note": "No Genius page",
+   "source": "Nov. 6 Friday sweep",
+   "fit": "Danger Collective punk and post-punk lane; already in Weekly (other video id)"
+  },
+  {
+   "videoId": "dPra67xcS-A",
+   "artist": "Chastity Belt",
+   "title": "Friends for This",
+   "album": "All My Friends (opening track)",
+   "label": "Suicide Squeeze",
+   "released": "2026-11-06 (indieisnotagenre; one source)",
+   "added": "2026-11-06",
+   "expires": "2026-11-20",
+   "owner": "claude",
+   "status": "active",
+   "fcc_status": "UNVERIFIED",
+   "fcc_note": "No Genius page",
+   "source": "Nov. 6 Friday sweep",
+   "fit": "Suicide Squeeze tier 2; Review Shelf ticked; template made"
+  },
+  {
+   "videoId": "1DsC2PZfusk",
+   "artist": "Superchunk",
+   "title": "Snowstorm",
+   "album": "Wintry Mix (surprise EP, Galaxie 500 cover per Stereogum headline)",
+   "label": "Merge (verify)",
+   "released": "2026-11-06 (Stereogum, Nov. 6, one source; verify)",
+   "added": "2026-11-06",
+   "expires": "2026-11-20",
+   "owner": "claude",
+   "status": "active",
+   "fcc_status": "UNVERIFIED",
+   "fcc_note": "Genius page has no lyrics yet",
+   "source": "Nov. 6 Friday sweep (Stereogum)",
+   "fit": "Superchunk in profile (6 shows); Galaxie 500 is a top-ranked favorite"
   }
  ]
 }

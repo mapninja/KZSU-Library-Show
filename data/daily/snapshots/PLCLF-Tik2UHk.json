@@ -1,8 +1,8 @@
 {
 "playlist": "Stace's Weekly Playlist",
 "id": "PLCLF-Tik2UHk",
-"snapshot": "2026-11-05",
-"note": "Oct. 30 1:30 p.m. catch-up: Stace removed 87 tracks after the morning sweep; 4 adds; verified by reload: 163 tracks. | Nov. 5 read: 171 tracks, no adds or deletes by Stace since Nov. 3 (title-format differences only).",
+"snapshot": "2026-11-06",
+"note": "Nov. 6 Friday sweep: read 171 (no Stace edits; Star Moles The End videoId swapped), added 17, verified by reload: 188. | Oct. 30 1:30 p.m. catch-up: Stace removed 87 tracks after the morning sweep; 4 adds; verified by reload: 163 tracks. | Nov. 5 read: 171 tracks, no adds or deletes by Stace since Nov. 3 (title-format differences only).",
 "tracks": [
 [
 "Dread Spectre Council",
@@ -217,7 +217,7 @@
 [
 "Star Moles",
 "The End",
-"C4KZlei2zk8"
+"5mHt9SNCnGI"
 ],
 [
 "Eagles Of Death Metal",
@@ -465,11 +465,6 @@
 "NiADzn8TaTQ"
 ],
 [
-"Caroline Rose",
-"RIDE (!!!)",
-"rJrOWYzNC5U"
-],
-[
 "Shabazz Palaces",
 "Jheri Curl Jump",
 "bZhxVTxxGwo"
@@ -555,11 +550,6 @@
 "N-Q7MM6Oi18"
 ],
 [
-"Josh Rouse",
-"Museums and Women",
-"AnvEfYK7Erc"
-],
-[
 "Fake Names",
 "Cover The Distance",
 "U405ofklVMs"
@@ -603,6 +593,16 @@
 "Colleen Green",
 "Whatever I Want",
 "oY-ZfipiU7g"
+],
+[
+"Caroline Rose",
+"RIDE (!!!)",
+"rJrOWYzNC5U"
+],
+[
+"Josh Rouse",
+"Museums and Women",
+"AnvEfYK7Erc"
 ],
 [
 "Dead Man's Bones",
@@ -858,6 +858,91 @@
 "Kora Puckett",
 "In My Veins",
 "UGmTOVnen80"
+],
+[
+"Chastity Belt",
+"Friends for This",
+"dPra67xcS-A"
+],
+[
+"Do Nothing",
+"Dog 2",
+"qkBq08Eetbg"
+],
+[
+"Computerwife",
+"Thank You",
+"jnxT4CeW9FI"
+],
+[
+"Twisted Teens",
+"Look In The Mirror",
+"Ud1Gn9Rtg4U"
+],
+[
+"Cariño",
+"Heavy Metal",
+"62-rvahZ9ow"
+],
+[
+"Superchunk",
+"Snowstorm",
+"1DsC2PZfusk"
+],
+[
+"Land of Talk",
+"4:44",
+"xstegGr1dWo"
+],
+[
+"Live Skull",
+"What Could Go Wrong?",
+"qW8sxNZcaJw"
+],
+[
+"The Jon Spencer Blues Explosion",
+"Bellbottoms",
+"xCAutUrA5J0"
+],
+[
+"L7",
+"Pretend We're Dead",
+"g-UOTOqtU0M"
+],
+[
+"Ceremony",
+"Hysteria",
+"YPFGJ9rRZFE"
+],
+[
+"Avengers",
+"The American in Me",
+"BQJ4MYEHWSU"
+],
+[
+"Pansy Division",
+"Fem in a Black Leather Jacket",
+"CsxEIpZ6upg"
+],
+[
+"The Mountain Goats",
+"Third Snow Song",
+"2GlrrfIIvVY"
+],
+[
+"NOBRO",
+"Girls Like Us",
+"QeG1BNZ_bYQ"
+],
+[
+"Tom Petty And The Heartbreakers",
+"Breakdown",
+"TmDgfRWBAGc"
+],
+[
+"...And You Will Know Us By The Trail Of Dead",
+"Wasted State Of Mind",
+"HVkxdf6r_28"
 ]
 ]
 }
