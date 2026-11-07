@@ -81,15 +81,6 @@
   "key": "dai freyr pronounced dah thi fray er|too much is not enough"
  },
  {
-  "artist": "Alex Krawczyk",
-  "title": "Wonders Await",
-  "type": "album",
-  "label": "MTS",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "alex krawczyk|wonders await"
- },
- {
   "artist": "Spaceport",
   "title": "Cut The Cake",
   "type": "album",
@@ -99,60 +90,6 @@
   "key": "spaceport|cut the cake"
  },
  {
-  "artist": "Marika Che",
-  "title": "Bright Flame",
-  "type": "album",
-  "label": "Self-Released",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "marika che|bright flame"
- },
- {
-  "artist": "villagerrr",
-  "title": "Carousel",
-  "type": "album",
-  "label": "Winspear",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "villagerrr|carousel"
- },
- {
-  "artist": "Charlie Needs Braces",
-  "title": "NYAA WA",
-  "type": "album",
-  "label": "Self-Released",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "charlie needs braces|nyaa wa"
- },
- {
-  "artist": "SAMSARA.",
-  "title": "whatever helps you sleep at night",
-  "type": "album",
-  "label": "Self-Released",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "samsara|whatever helps you sleep at night"
- },
- {
-  "artist": "Ski Team",
-  "title": "Burnout/Boys",
-  "type": "album",
-  "label": "Self-Released",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "ski team|burnout boys"
- },
- {
-  "artist": "YARD",
-  "title": "YARD II [EP]",
-  "type": "EP",
-  "label": "Self-Released",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "yard|yard ii ep"
- },
- {
   "artist": "Shelita",
   "title": "Into The Depths",
   "type": "album",
@@ -160,33 +97,6 @@
   "current_date": "",
   "date_check": "needed",
   "key": "shelita|into the depths"
- },
- {
-  "artist": ".idk.",
-  "title": "Even The Devil Smiles",
-  "type": "album",
-  "label": "broke",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "idk|even the devil smiles"
- },
- {
-  "artist": "Sotomayor",
-  "title": "Si te vas",
-  "type": "single",
-  "label": "Wonderwheel",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "sotomayor|si te vas"
- },
- {
-  "artist": "Gigi",
-  "title": "Thank You Sam",
-  "type": "album",
-  "label": "Self-Released",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "gigi|thank you sam"
  },
  {
   "artist": "Razteria",
@@ -259,5 +169,95 @@
   "current_date": "",
   "date_check": "needed",
   "key": "cain culto|chismosa feat jarina de marco"
+ },
+ {
+  "artist": "Harry Hayes",
+  "title": "I Did You Wrong",
+  "type": "single",
+  "label": "Technicolour",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "harry hayes|i did you wrong"
+ },
+ {
+  "artist": "Ms* Gloom",
+  "title": "J is for Joon",
+  "type": "album",
+  "label": "BingBong95!",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "ms gloom|j is for joon"
+ },
+ {
+  "artist": "MX Lonely",
+  "title": "ALL MONSTERS",
+  "type": "album",
+  "label": "Julia's War",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "mx lonely|all monsters"
+ },
+ {
+  "artist": "Mariae Cassandra",
+  "title": "Everything In My Backpocket",
+  "type": "album",
+  "label": "Self-Released",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "mariae cassandra|everything in my backpocket"
+ },
+ {
+  "artist": "FOCUS Wales SXSW",
+  "title": "FOCUS Wales Artist Sampler",
+  "type": "album",
+  "label": "FOCUS Wales",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "focus wales sxsw|focus wales artist sampler"
+ },
+ {
+  "artist": "spill tab",
+  "title": "AngieAngieAngie",
+  "type": "album",
+  "label": "Because Music",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "spill tab|angieangieangie"
+ },
+ {
+  "artist": "Tigers In Cairo",
+  "title": "as told by...",
+  "type": "album",
+  "label": "Connection Ecstatic",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "tigers in cairo|as told by"
+ },
+ {
+  "artist": "Denzel Curry & The Scythe",
+  "title": "LIT EFFECT (feat. Bktherula & LAZER DIM 700) b/w THE SCYTHE (feat. TiaCorine, A$AP Ferg)",
+  "type": "single",
+  "label": "Loma Vista / Concord",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "denzel curry the scythe|lit effect feat bktherula lazer dim 700 b w the scythe feat tiacorine a ap ferg"
+ },
+ {
+  "artist": "aja monet",
+  "title": "hollyweird",
+  "type": "single",
+  "label": "drink sum wtr",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "aja monet|hollyweird"
+ },
+ {
+  "artist": "Antonio Carlos & Jocafi, Adrian Younge, & Ali Shaheed Muhammad",
+  "title": "Bacaxá",
+  "type": "single",
+  "label": "Jazz Is Dead",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "antonio carlos jocafi adrian younge ali shaheed muhammad|bacaxa"
  }
 ]

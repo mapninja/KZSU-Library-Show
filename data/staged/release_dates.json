@@ -219,10 +219,10 @@
    "https://missgrit.bandcamp.com/track/mind-disaster"
   ],
   "status": "single, date unverified",
-  "note": "Single date: Line of Best Fit story dated Mar. 10, 2026 (third single from Under My Umbrella). Northern Transmissions posted Mar. 11 (Pacific). Not confirmed by the label or Bandcamp. Bandcamp track page shows Apr. 24, 2026, the album date (Mute). Oct. 28 recheck: no new evidence; Line of Best Fit Mar. 10 stays the single date. Oct. 29 recheck: Line of Best Fit page read, dated 10 March 2026 and says the single is out from Under My Umbrella (Apr. 24, Mute). Still one day-precision source. | Nov. 2 recheck: Northern Transmissions and Line of Best Fit coverage around Mar. 10; Bandcamp shows Apr. 24 album date. Still one day-precision source. | Nov. 5 recheck: coverage still clusters around Mar. 10 (Under the Radar, Line of Best Fit, Northern Transmissions); Bandcamp track page shows the Apr. 24 album date. Still one day-precision source.",
+  "note": "Single date: Line of Best Fit story dated Mar. 10, 2026 (third single from Under My Umbrella). Northern Transmissions posted Mar. 11 (Pacific). Not confirmed by the label or Bandcamp. Bandcamp track page shows Apr. 24, 2026, the album date (Mute). Oct. 28 recheck: no new evidence; Line of Best Fit Mar. 10 stays the single date. Oct. 29 recheck: Line of Best Fit page read, dated 10 March 2026 and says the single is out from Under My Umbrella (Apr. 24, Mute). Still one day-precision source. | Nov. 2 recheck: Northern Transmissions and Line of Best Fit coverage around Mar. 10; Bandcamp shows Apr. 24 album date. Still one day-precision source. | Nov. 5 recheck: coverage still clusters around Mar. 10 (Under the Radar, Line of Best Fit, Northern Transmissions); Bandcamp track page shows the Apr. 24 album date. Still one day-precision source. | Nov. 7: rechecked. Fire Note video post dated Apr. 24, 2026 and Line of Best Fit story dated 10 March 2026 (Northern Transmissions undated in page text). Still press dates, no label confirmation; left as verify.",
   "label": "Mute Records",
   "confirmed": false,
-  "checked_on": "2026-11-05"
+  "checked_on": "2026-11-07"
  },
  "hrishikesh hirway|stray dogs with iron wine": {
   "date": "2026-02-18",
@@ -927,10 +927,10 @@
    "https://littlebarrie.bandcamp.com/track/luggin-hurt"
   ],
   "status": "single, date unverified",
-  "note": "Bandcamp track page shows May 22, 2026, which is the Gravity Freeze album date (Easy Eye Sound). Single date still not found; 2026-04-23 kept as earlier single date from the prior run, unverified. Oct. 25: a UMG YouTube upload is dated Apr. 22, 2026, one day before the kept date. Bandcamp and Shazam show the album date May 22, 2026. Still unverified. Oct. 27 recheck: still only the video and audio uploads (Apr. 22 to 23) as evidence; Bandcamp shows May 22 album date. Oct. 28 recheck: no single-only date found; album date May 22 (Bandcamp, Shazam). Oct. 29 recheck: Bandcamp track page read again, still shows the May 22, 2026 album date. Single-only date not found. | Nov. 2 recheck: search again finds only the Apr. 22 to 23 video uploads and the May 22 album date (Gravity Freeze, Easy Eye Sound). Still unverified.",
+  "note": "Bandcamp track page shows May 22, 2026, which is the Gravity Freeze album date (Easy Eye Sound). Single date still not found; 2026-04-23 kept as earlier single date from the prior run, unverified. Oct. 25: a UMG YouTube upload is dated Apr. 22, 2026, one day before the kept date. Bandcamp and Shazam show the album date May 22, 2026. Still unverified. Oct. 27 recheck: still only the video and audio uploads (Apr. 22 to 23) as evidence; Bandcamp shows May 22 album date. Oct. 28 recheck: no single-only date found; album date May 22 (Bandcamp, Shazam). Oct. 29 recheck: Bandcamp track page read again, still shows the May 22, 2026 album date. Single-only date not found. | Nov. 2 recheck: search again finds only the Apr. 22 to 23 video uploads and the May 22 album date (Gravity Freeze, Easy Eye Sound). Still unverified. | Nov. 7: rechecked. Fire Note video post dated Apr. 24, 2026 and Line of Best Fit story dated 10 March 2026 (Northern Transmissions undated in page text). Still press dates, no label confirmation; left as verify.",
   "label": "Easy Eye Sound / Concord",
   "confirmed": false,
-  "checked_on": "2026-11-02"
+  "checked_on": "2026-11-07"
  },
  "new pornographers|votive": {
   "date": "2026-01-21",
@@ -5414,5 +5414,141 @@
   "label": "deadAir",
   "confirmed": true,
   "checked_on": "2026-11-06"
+ },
+ "alex krawczyk|wonders await": {
+  "date": "2026-01-25",
+  "precision": "day",
+  "sources": [
+   "https://canadianbeats.ca/2026/01/28/alex-krawczyk-wonders-await-album-review/",
+   "https://www.buzzslayers.com/post/alex-krawczyk-1",
+   "https://www.newswire.ca/news-releases/toronto-folk-singer-alex-krawczyk-releases-new-album-wonders-await-854070269.html"
+  ],
+  "status": "released",
+  "note": "Nov. 7: Canadian Beats review and Buzzslayers bio give Jan. 25, 2026 (a Sunday); a CNW release dated Jan. 27 says the album is already out. Left unconfirmed because of the Sunday date. Second album, MTS Records. Old release.",
+  "confirmed": false,
+  "checked_on": "2026-11-07",
+  "label": "MTS Records"
+ },
+ "marika che|bright flame": {
+  "date": "2026-04-08",
+  "precision": "day",
+  "sources": [
+   "https://marikache.bandcamp.com/album/bright-flame",
+   "https://www.thelunacollective.co/journal/qa-marika-che-saint-charles-avenue",
+   "https://music-defined.com/2026/04/08/marika-che-bright-flame/"
+  ],
+  "status": "released",
+  "note": "Nov. 7: Bandcamp, The Luna Collective and a Mood listing agree on Apr. 8, 2026. Debut solo album, 12 tracks. Old release.",
+  "confirmed": true,
+  "checked_on": "2026-11-07"
+ },
+ "villagerrr|carousel": {
+  "date": "2026-05-29",
+  "precision": "day",
+  "sources": [
+   "https://villagerrr.bandcamp.com/album/carousel",
+   "https://www.allmusic.com/album/release/carousel-mr0007014610",
+   "https://www.albumoftheyear.org/album/1710687-villagerrr-carousel.php"
+  ],
+  "status": "released",
+  "note": "Nov. 7: Bandcamp, AllMusic and Album of the Year agree on May 29, 2026 (Winspear). Lead single \"Locket\". Old release.",
+  "confirmed": true,
+  "checked_on": "2026-11-07",
+  "label": "Winspear"
+ },
+ "charlie needs braces|nyaa wa": {
+  "date": "2025-02-20",
+  "precision": "day",
+  "sources": [
+   "https://charlieneedsbraces.bandcamp.com/album/nyaa-wa",
+   "https://audiomack.com/charlie-needs-braces-1/album/nyaa-wa",
+   "https://loudwomen.org/2025/03/06/charlie-needs-braces-releases-refreshingly-danceable-album-nyaa-wa/"
+  ],
+  "status": "released",
+  "note": "Nov. 7: Bandcamp and Audiomack agree on Feb. 20, 2025. Album is from 2025, so not a current release.",
+  "confirmed": true,
+  "checked_on": "2026-11-07"
+ },
+ "samsara|whatever helps you sleep at night": {
+  "date": "2026-01-27",
+  "precision": "day",
+  "sources": [
+   "https://open.spotify.com/album/1gl7NyejpWgmM7wfeYzski",
+   "https://music.amazon.com/artists/B08P8C2JZZ/samsara",
+   "https://www.shazam.com/song/1867077778/so-far-gone"
+  ],
+  "status": "released",
+  "note": "Nov. 7: Spotify, Amazon Music and Shazam metadata agree on Jan. 27, 2026. Band calls it their first album. Streaming metadata only; no Bandcamp date seen. Old release.",
+  "confirmed": true,
+  "checked_on": "2026-11-07"
+ },
+ "ski team|burnout boys": {
+  "date": "2026-01-23",
+  "precision": "day",
+  "sources": [
+   "https://skiteam.bandcamp.com/album/burnout-boys",
+   "https://music.apple.com/ca/album/burnout-boys/1849681548",
+   "https://mp3sandnpcs.com/home/ski-team-announces-debut-album-burnoutboys"
+  ],
+  "status": "released",
+  "note": "Nov. 7: Bandcamp, Apple Music and the announcement agree on Jan. 23, 2026. Debut LP, produced by Philip Weinrobe. Old release.",
+  "confirmed": true,
+  "checked_on": "2026-11-07"
+ },
+ "yard|yard ii ep": {
+  "date": "2025-11-21",
+  "precision": "day",
+  "sources": [
+   "https://yard.bandcamp.com/album/yard-ii",
+   "https://www.albumoftheyear.org/album/1546640-yard-yard-ii.php"
+  ],
+  "status": "released",
+  "note": "Nov. 7: Bandcamp and Album of the Year agree on Nov. 21, 2025. Digital date; double-EP vinyl Jan. 16, 2026. Old release.",
+  "confirmed": true,
+  "checked_on": "2026-11-07"
+ },
+ "idk|even the devil smiles": {
+  "date": "2026-01-23",
+  "precision": "day",
+  "sources": [
+   "https://en.wikipedia.org/wiki/E.T.D.S.",
+   "https://lunchboxrecords.com/collections/new-releases/products/826257046819",
+   "https://www.allmusic.com/album/even-the-devil-smiles-mw0004690259"
+  ],
+  "status": "released",
+  "note": "Nov. 7: Wikipedia, Lunchbox Records and AllMusic agree on Jan. 23, 2026. Mixtape by IDK on Broke Records and Rhymesayers. Old release.",
+  "confirmed": true,
+  "checked_on": "2026-11-07"
+ },
+ "sotomayor|si te vas": {
+  "date": "2026-02-13",
+  "precision": "day",
+  "sources": [
+   "https://sotomayor.bandcamp.com/track/si-te-vas",
+   "https://www.shazam.com/song/1841252442/si-te-vas",
+   "https://newreleases.discogs.com/us/release/727640-sotomayor-wabi-sabi"
+  ],
+  "status": "released",
+  "note": "Nov. 7: Bandcamp, Shazam and Discogs give Feb. 13, 2026, the WABI SABI album date (Wonderwheel). No separate single date found. Treat as album date.",
+  "confirmed": false,
+  "checked_on": "2026-11-07"
+ },
+ "gigi|thank you sam": {
+  "date": "2025-12-31",
+  "precision": "day",
+  "sources": [
+   "https://gigigigigigi.bandcamp.com/album/thank-you-sam",
+   "https://www.qobuz.com/us-en/interpreter/gigi/194213"
+  ],
+  "status": "released",
+  "note": "Nov. 7: Bandcamp and Qobuz agree on Dec. 31, 2025. Spotify lists it as a 3-track single, not an album. Format unclear. Old release.",
+  "confirmed": true,
+  "checked_on": "2026-11-07"
+ },
+ "shelita|into the depths": {
+  "status": "unresolved",
+  "checked_on": "2026-11-07",
+  "confirmed": false,
+  "note": "Nov. 7: sources disagree. Aug. 2025 press gave Aug. 29 for a full album; Nov. 2025 review calls it a 3-track EP (Apple Music: EP, 2025). No day-precision date. Needs Bandcamp or Apple page."
  }
 }

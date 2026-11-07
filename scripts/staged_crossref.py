@@ -89,8 +89,12 @@ def outside_picks() -> set:
     """Artist keys named in this week's recon and the review-suggestion files."""
     keys = set()
     for f in glob.glob(str(ROOT / "data/recon/*/candidates.json")):
-        for s in load_json(f)["sets"]:
+        data = load_json(f)
+        # Older files group tracks into "sets"; the Nov. 12 file uses a flat
+        # "candidates" list. Accept both so one new layout does not crash the run.
+        for s in data.get("sets", []):
             keys |= {artist_key(t["artist"]) for t in s["tracks"]}
+        keys |= {artist_key(t["artist"]) for t in data.get("candidates", [])}
     for f in glob.glob(str(ROOT / "outputs/reviews/review_suggestions_*.md")):
         for m in re.finditer(r"^\| \d+ \| ([^,|]+),", Path(f).read_text(encoding="utf-8"), re.M):
             keys.add(artist_key(m.group(1)))
