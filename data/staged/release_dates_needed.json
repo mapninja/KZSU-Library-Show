@@ -31,7 +31,7 @@
   "title": "All Hands Up",
   "type": "single",
   "label": "Merge",
-  "current_date": "2026-09",
+  "current_date": "2026-09-16",
   "date_check": "verify",
   "key": "imperial teen|all hands up"
  },
@@ -117,15 +117,6 @@
   "key": "lmnt 115|isotope"
  },
  {
-  "artist": "GENA",
-  "title": "The Pleasure Is Yours",
-  "type": "album",
-  "label": "Lex Records",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "gena|pleasure is yours"
- },
- {
   "artist": "LB aka LABAT",
   "title": "Feel So Good Around You",
   "type": "album",
@@ -133,33 +124,6 @@
   "current_date": "",
   "date_check": "needed",
   "key": "lb aka labat|feel so good around you"
- },
- {
-  "artist": "Mexican Institute of Sound & Meridian Brothers",
-  "title": "Cumbia Fantasia",
-  "type": "single",
-  "label": "Ansonia Records",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "mexican institute of sound meridian brothers|cumbia fantasia"
- },
- {
-  "artist": "Shabaka",
-  "title": "Dance In Praise",
-  "type": "single",
-  "label": "Shabaka Recordings",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "shabaka|dance in praise"
- },
- {
-  "artist": "The Womack Sisters",
-  "title": "You Went Away Too Long",
-  "type": "single",
-  "label": "Daptone Records",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "womack sisters|you went away too long"
  },
  {
   "artist": "Cain Culto",
@@ -216,48 +180,84 @@
   "key": "focus wales sxsw|focus wales artist sampler"
  },
  {
-  "artist": "spill tab",
-  "title": "AngieAngieAngie",
+  "artist": "Memblem",
+  "title": "Out Like This (feat. Nia Nadurata)",
+  "type": "single",
+  "label": "Young Art Records",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "memblem|out like this feat nia nadurata"
+ },
+ {
+  "artist": "Rules",
+  "title": "Feeling (Hold On You)",
+  "type": "single",
+  "label": "Counter Records",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "rules|feeling hold on you"
+ },
+ {
+  "artist": "DAMON ALBARN, GRIAN CHATTEN & KAE TEMPEST",
+  "title": "Flags",
+  "type": "single",
+  "label": "War Child Records",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "damon albarn grian chatten kae tempest|flags"
+ },
+ {
+  "artist": "Last Dinosaurs",
+  "title": "Wellnxss",
   "type": "album",
-  "label": "Because Music",
+  "label": "Nettwerk",
   "current_date": "",
   "date_check": "needed",
-  "key": "spill tab|angieangieangie"
+  "key": "last dinosaurs|wellnxss"
  },
  {
-  "artist": "Tigers In Cairo",
-  "title": "as told by...",
+  "artist": "JOSEPH",
+  "title": "Closer to Happy",
   "type": "album",
-  "label": "Connection Ecstatic",
+  "label": "Nettwerk",
   "current_date": "",
   "date_check": "needed",
-  "key": "tigers in cairo|as told by"
+  "key": "joseph|closer to happy"
  },
  {
-  "artist": "Denzel Curry & The Scythe",
-  "title": "LIT EFFECT (feat. Bktherula & LAZER DIM 700) b/w THE SCYTHE (feat. TiaCorine, A$AP Ferg)",
-  "type": "single",
-  "label": "Loma Vista / Concord",
+  "artist": "SIX60",
+  "title": "Right Here Right Now",
+  "type": "album",
+  "label": "Self-Released",
   "current_date": "",
   "date_check": "needed",
-  "key": "denzel curry the scythe|lit effect feat bktherula lazer dim 700 b w the scythe feat tiacorine a ap ferg"
+  "key": "six60|right here right now"
  },
  {
-  "artist": "aja monet",
-  "title": "hollyweird",
-  "type": "single",
-  "label": "drink sum wtr",
+  "artist": "Milune",
+  "title": "Hearts Lust",
+  "type": "album",
+  "label": "Leanza Music",
   "current_date": "",
   "date_check": "needed",
-  "key": "aja monet|hollyweird"
+  "key": "milune|hearts lust"
  },
  {
-  "artist": "Antonio Carlos & Jocafi, Adrian Younge, & Ali Shaheed Muhammad",
-  "title": "Bacaxá",
-  "type": "single",
-  "label": "Jazz Is Dead",
+  "artist": "Sotomayor",
+  "title": "WABI SABI",
+  "type": "album",
+  "label": "Wonderwheel Recordings",
   "current_date": "",
   "date_check": "needed",
-  "key": "antonio carlos jocafi adrian younge ali shaheed muhammad|bacaxa"
+  "key": "sotomayor|wabi sabi"
+ },
+ {
+  "artist": "District Five",
+  "title": "Place Your Bet",
+  "type": "single",
+  "label": "Stone Pixels",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "district five|place your bet"
  }
 ]

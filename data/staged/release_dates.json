@@ -1241,16 +1241,16 @@
   "checked_on": "2026-10-16"
  },
  "imperial teen|all hands up": {
-  "date": "2026-09",
-  "precision": "month",
+  "date": "2026-09-16",
+  "precision": "day",
   "sources": [
-   "https://rmas.mx/en/2026/09/17/imperial-teen-release-hands-all-up-new-preview-of-all-over-you/"
+   "https://jammerzine.com/imperial-teen-bring-the-noise-nerves-and-nasty-pop-hooks-on-hands-all-up/",
+   "https://readdork.com/news/imperial-teen-hands-all-up-single-45cdfd0234"
   ],
-  "status": "released",
-  "note": "Title is \"Hands All Up\", third single from All Over You (Merge, Oct. 9, 2026). Press dated Sept. 17, 2026. No day-precision source found. Oct. 27: searches for \"All Hands Up\" returned nothing; single is \"Hands All Up\" (Sept. 17 press). Still no day-precision source. Oct. 28 recheck: search returned nothing for \"All Hands Up\"; single is \"Hands All Up\", Sept. 17 press only. Oct. 29 recheck: search for the album shows All Over You out Oct. 9, 2026 (Merge page, Silver PR, Bandcamp). Single date still not found. | Nov. 2: web search returned nothing; still verify.",
-  "label": "Merge",
+  "status": "likely",
+  "note": "Nov. 8: Jammerzine and Dork (both dated Sept. 16) say the single is out that day; R+ posted Sept. 17. Title is Hands All Up. Album All Over You is Oct. 9, 2026 (Merge). Left unconfirmed: no label or Bandcamp page with the day.",
   "confirmed": false,
-  "checked_on": "2026-11-02"
+  "checked_on": "2026-11-08"
  },
  "steve earle los lobos|volver a celaya city of immigrants": {
   "date": "2026-08-06",
@@ -5550,5 +5550,165 @@
   "checked_on": "2026-11-07",
   "confirmed": false,
   "note": "Nov. 7: sources disagree. Aug. 2025 press gave Aug. 29 for a full album; Nov. 2025 review calls it a 3-track EP (Apple Music: EP, 2025). No day-precision date. Needs Bandcamp or Apple page."
+ },
+ "shabaka|dance in praise": {
+  "date": "2026-02-25",
+  "precision": "day",
+  "sources": [
+   "https://bleep.com/artist/302297-shabaka",
+   "YouTube upload metadata (Released on 2026-02-25)"
+  ],
+  "status": "released",
+  "note": "Nov. 8: single date Feb. 25, 2026 (Bleep, YouTube metadata). Shazam and Apple list Mar. 6, the Of The Earth album date. Third single from the album.",
+  "confirmed": true,
+  "checked_on": "2026-11-08"
+ },
+ "womack sisters|you went away too long": {
+  "date": "2026-02-25",
+  "precision": "day",
+  "sources": [
+   "https://music.apple.com/gb/album/you-went-away-too-long-single/1864389257",
+   "https://thewomacksisters.bandcamp.com/album/you-went-away-too-long",
+   "YouTube upload (Daptone)"
+  ],
+  "status": "released",
+  "note": "Nov. 8: Apple Music, Bandcamp and YouTube agree on Feb. 25, 2026. Daptone signing announcement. Debut album listed Aug. 14, 2026 (Port Merch).",
+  "confirmed": true,
+  "checked_on": "2026-11-08"
+ },
+ "aja monet|hollyweird": {
+  "date": "2026-02-19",
+  "precision": "day",
+  "sources": [
+   "https://ajamonet.bandcamp.com/track/hollyweird",
+   "https://femmusic.com/2026/02/19/aja-monet-hollyweird/"
+  ],
+  "status": "released",
+  "note": "Nov. 8: Bandcamp and FEMMUSIC (Feb. 19 post) agree. YouTube metadata says Mar. 25 (likely a later upload).",
+  "confirmed": true,
+  "checked_on": "2026-11-08"
+ },
+ "gena|pleasure is yours": {
+  "date": "2026-02-27",
+  "precision": "day",
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Pleasure_Is_Yours",
+   "https://genagenagena.bandcamp.com/album/the-pleasure-is-yours",
+   "https://djmag.com/reviews/gena-pleasure-yours"
+  ],
+  "status": "released",
+  "note": "Nov. 8: Wikipedia, Bandcamp, Rate Your Music and DJ Mag agree on Feb. 27, 2026. Title is The Pleasure Is Yours; Lex LEX202.",
+  "confirmed": true,
+  "checked_on": "2026-11-08"
+ },
+ "spill tab|angieangieangie": {
+  "date": "2026-02-18",
+  "precision": "day",
+  "sources": [
+   "https://spilltab.bandcamp.com/album/angieangieangie",
+   "https://music.apple.com/us/album/angieangieangie/1852775506"
+  ],
+  "status": "released",
+  "note": "Nov. 8: Bandcamp and Apple Music agree. Deluxe edition (16 tracks) of ANGIE, which came out May 16, 2025 on Because Music.",
+  "confirmed": true,
+  "checked_on": "2026-11-08"
+ },
+ "antonio carlos jocafi adrian younge ali shaheed muhammad|bacaxa": {
+  "date": "2026-02-17",
+  "precision": "day",
+  "sources": [
+   "https://www.shazam.com/song/1858302429/bacaxa",
+   "https://bleep.com/label/15887-jazz-is-dead"
+  ],
+  "status": "released",
+  "note": "Nov. 8: Shazam and Bleep agree on Feb. 17, 2026 for the single. Album Jazz Is Dead 026 is Apr. 3, 2026 (Bandcamp).",
+  "confirmed": true,
+  "checked_on": "2026-11-08"
+ },
+ "denzel curry the scythe|lit effect feat bktherula lazer dim 700 b w the scythe feat tiacorine a ap ferg": {
+  "date": "2026-01-22",
+  "precision": "day",
+  "sources": [
+   "https://stereogum.com/2486270/denzel-curry-announces-new-project-the-scythe-hear-lit-effect-feat-bktherula-lazer-dim-700/music",
+   "https://ourculturemag.com/2026/01/22/denzel-curry-announces-new-project-the-scythe-shares-new-single-with-bktherula-and-lazer-dim-700/"
+  ],
+  "status": "likely",
+  "note": "Nov. 8: press dated Jan. 22, 2026 for Lit Effect. Album Strictly 4 The Scythe is Mar. 6, 2026 (Loma Vista). Key lists a double single with the title track; not confirmed which date applies to the pair.",
+  "confirmed": false,
+  "checked_on": "2026-11-08"
+ },
+ "mexican institute of sound meridian brothers|cumbia fantasia": {
+  "date": "2026-02-24",
+  "precision": "day",
+  "sources": [
+   "https://music.apple.com/us/album/cumbia-fantas%C3%ADa-single/1872483062"
+  ],
+  "status": "likely",
+  "note": "Nov. 8: Apple Music lists the single Feb. 24, 2026. Album Ruido Tovar is May 22, 2026 (Bandcamp). One source for the single date.",
+  "confirmed": false,
+  "checked_on": "2026-11-08"
+ },
+ "tigers in cairo|as told by": {
+  "date": "2025-12-16",
+  "precision": "day",
+  "sources": [
+   "https://jammerzine.com/tigers-in-cairo-as-told-by/",
+   "https://magnetmagazine.com/2025/12/16/magnet-exclusive-premiere-of-tigers-in-cairos-covers-of-jawbreakers-do-you-still-hate-me-and-mission-of-burmas-thats-how-i-escaped-my-certain-fate/"
+  ],
+  "status": "likely",
+  "note": "Nov. 8: a 2-song covers release (Jawbreaker, Mission of Burma), not an album. Jammerzine and Magnet coverage dated Dec. 16, 2025. Label Connection Ecstatic not verified. Old release. Left unconfirmed.",
+  "confirmed": false,
+  "checked_on": "2026-11-08"
+ },
+ "queens of the stone age|perfecth": {
+  "date": "2026-10-30",
+  "precision": "day",
+  "sources": [
+   "https://matadorrecords.com/blogs/news/coming-october-30-queens-of-the-stone-age-perfecth",
+   "https://en.wikipedia.org/wiki/Perfecth",
+   "https://qotsa.bandcamp.com/album/perfecth"
+  ],
+  "status": "released",
+  "note": "Nov. 8: Matador, Wikipedia and Kazi Magazine agree on Oct. 30, 2026. Ninth album. Debuted No. 1 on ARIA chart Nov. 6.",
+  "confirmed": true,
+  "checked_on": "2026-11-08"
+ },
+ "twisted teens|the holy cross tigers": {
+  "date": "2026-11-06",
+  "precision": "day",
+  "sources": [
+   "https://www.subpop.com/news/2026/09/10/the_holy_cross_tigers_twisted_teens_third_album_of_2026_is_out_friday_november_6th",
+   "https://twistedteens.bandcamp.com/album/the-holy-cross-tigers",
+   "https://www.slantmagazine.com/music/twisted-teens-the-holy-cross-tigers-album-review/"
+  ],
+  "status": "released",
+  "note": "Nov. 8: Sub Pop, Bandcamp and Slant agree on Nov. 6, 2026. Third Twisted Teens album of 2026.",
+  "confirmed": true,
+  "checked_on": "2026-11-08"
+ },
+ "tv priest|cartoons": {
+  "date": "2026-11-06",
+  "precision": "day",
+  "sources": [
+   "https://tvpriest.bandcamp.com/album/cartoons",
+   "https://www.clickrollboom.co.uk/news/tv-priest-share-new-single-cartoons-new-album-cartoons-out-6th-november-via-amk-kartel-music-group"
+  ],
+  "status": "released",
+  "note": "Nov. 8: Bandcamp and Click Roll Boom agree on Nov. 6, 2026. Clash item says Oct. 6 (typo). Third album.",
+  "confirmed": true,
+  "checked_on": "2026-11-08"
+ },
+ "cameron winter|live at carnegie hall": {
+  "date": "2026-10-09",
+  "precision": "day",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Live_at_Carnegie_Hall_(Cameron_Winter_album)",
+   "https://www.thelineofbestfit.com/news/cameron-winter-to-release-live-at-carnegie-hall-album-in-october-featuring-three-unreleased-songs",
+   "https://cameronwinter.bandcamp.com/album/live-at-carnegie-hall"
+  ],
+  "status": "released",
+  "note": "Nov. 8: Wikipedia and Line of Best Fit agree on Oct. 9, 2026. First live album, recorded Dec. 11, 2025.",
+  "confirmed": true,
+  "checked_on": "2026-11-08"
  }
 }
