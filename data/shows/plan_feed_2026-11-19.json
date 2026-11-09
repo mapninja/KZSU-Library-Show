@@ -2,7 +2,7 @@
  "show_date": "2026-11-19",
  "built": "2026-11-09",
  "source": "data/shows/bay_area_shows.csv",
- "note": "Upcoming only: shows on or after Nov. 19. No Nov. ticket sheet in data/tickets, so no giveaway matches.",
+ "note": "Upcoming only: shows on or after Nov. 19. No Nov. ticket sheet in data/tickets, so no giveaway matches. Cross-checked against The List (foopee.com) Nov. 9.",
  "bay_area_shows": [
   {
    "date": "Thu. Nov. 19 to Sat. Nov. 21",
@@ -11,6 +11,14 @@
    "detail": "Show 8 p.m.",
    "what": "The Mountain Goats (Nights Four to Six: Nov. 19, 20, 21). Show 8 p.m.",
    "note": "Mountain Goats are in the taste profile (14 shows)."
+  },
+  {
+   "date": "Fri. Nov. 20",
+   "venue": "Ivy Room, Albany",
+   "act": "M.D.C., Shattered Faith, Grizzled, Fast Friends",
+   "detail": "$17, doors 8 p.m., show 8:30 p.m. 21+",
+   "what": "M.D.C., Shattered Faith, Grizzled, Fast Friends. $17, doors 8 p.m., show 8:30 p.m. 21+",
+   "note": "Source: The List."
   },
   {
    "date": "Sat. Nov. 21",
@@ -34,7 +42,7 @@
    "act": "Pedro the Lion, Karli Fairbanks",
    "detail": "$30/$35, doors 7:30 p.m., music 8:30 p.m. All ages.",
    "what": "Pedro the Lion, Karli Fairbanks. $30/$35, doors 7:30 p.m., music 8:30 p.m. All ages.",
-   "note": ""
+   "note": "SOLD OUT per The List (Nov. 9): do not promote tickets."
   },
   {
    "date": "Fri. Nov. 27",
@@ -50,7 +58,7 @@
    "act": "The Inciters, A-100s, Txe Fit",
    "detail": "$20, doors 8 p.m., music 8:30 p.m. 21+",
    "what": "The Inciters, A-100s, Txe Fit. $20, doors 8 p.m., music 8:30 p.m. 21+",
-   "note": "A-100s feature Matt Hensley of Flogging Molly."
+   "note": "A-100s feature Matt Hensley of Flogging Molly. Same bill Nov. 27 at Moe's Alley, Santa Cruz."
   },
   {
    "date": "Mon. Nov. 30",
