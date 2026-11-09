@@ -51,6 +51,7 @@
 - Ticket sheet: `data/tickets/ticket_giveaways_<yyyy-mm>.csv` (columns: Genre, Artists, Date, Venue, City, DJs to Give Away Tix, give by, # tix, Show time of tix*). Stace pastes updates in chat.
 - For each show, default to rows where Stace is listed in the DJs column and the give-by date is on or after the show date. She may pick another row (Oct. 7: Hovvdy, listed for Francis); then flag "confirm with the listed DJ." Add one giveaway to Hour 2 (after the Bay Area shows break, or after a set that fits) and promo teasers on earlier mic breaks (opening break, end of Hour 1, after the Triple Shot). Show it in the landscape script as a giveaway table plus MIC BREAK call-outs.
 - Do not invent contest rules, call-in numbers or show times; flag them as "confirm before air."
+- Never request or pick a giveaway for a sold-out or likely sell-out show (Stace, Nov. 9, 2026). Giveaway requests close 2 weeks before the show. The Bay Area shows sheet flags both in `Request status` and shows `Request by`.
 
 ## Show script format
 - Built by `scripts/build_show_script.sh <date> <draft|final>`. TRACKLIST FIRST (columns: #, Artist, Track, Album, Orig. release, FCC, ZK tag, Time, Notes with production and related bands), general show info last. Landscape Word plus PDF. Do not write new dated builders.

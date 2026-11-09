@@ -7,7 +7,7 @@ Source of truth for all KZSU Library Show skills. Each folder has `SKILL.md` and
 | kzsu-radar | Continuous new-release watch: daily light pass, Tue/Fri full pass (replaces intake, album sweep, health, Tue/Fri sweeps) |
 | kzsu-thu-draft | Thursday 8 a.m. draft of show prep from her Next Show and Air Order edits |
 | kzsu-thu-final | Thursday 1:30 p.m. final: Working, Zookeeper CSV, final script PDF |
-| kzsu-bay-area-shows | Monday upkeep of the 4 to 6 month Bay Area shows sheet and giveaway requests |
+| kzsu-bay-area-shows | Monday upkeep of the Bay Area shows sheet (all dates the sources list), sold-out flags and giveaway request-by dates |
 | kzsu-taste-profile-refresh | Rebuild taste profile and dashboard (Sun) |
 | kzsu-intake | Staged albums, Current Adds, Top 50, Filtered Review Shelf (Mon) |
 | kzsu-staged-albums-weekly | Music Dept email ranking (called by intake) |
@@ -17,7 +17,7 @@ Source of truth for all KZSU Library Show skills. Each folder has `SKILL.md` and
 | kzsu-weekly-recon | Thursday-night draft plan and Air Order |
 | kzsu-notes-sheet-and-script | Notes Sheet and Working Show Script |
 | kzsu-final-script | Final Show Script (Wed night) |
-| kzsu-show-build | Working playlist (reversed) and Zookeeper CSV (Thu a.m.) |
+| kzsu-show-build | Working playlist (reversed) and Zookeeper CSV (forward) (Thu a.m.) |
 | kzsu-archive-playlist | Archive playlist of the aired show (Thu night) |
 | kzsu-specialty-show | Holiday and topical 2.5 hr playlists (monthly) |
 | kzsu-fcc-lyrics-check | FCC lyric screen (called by others) |
