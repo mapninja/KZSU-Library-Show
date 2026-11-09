@@ -1,6 +1,6 @@
 {
  "show_date": "2026-11-12",
- "built": "2026-11-02",
+ "built": "2026-11-09",
  "source": "data/shows/bay_area_shows.csv",
  "bay_area_shows": [
   {
@@ -28,12 +28,28 @@
    "note": "Confirm time before air."
   },
   {
+   "date": "Fri. Nov. 13",
+   "venue": "Chapel, S.F.",
+   "act": "Other Lives, Kelcey Ayer",
+   "detail": "Doors 8 p.m., show 9 p.m. All ages.",
+   "what": "Other Lives, Kelcey Ayer. Doors 8 p.m., show 9 p.m. All ages.",
+   "note": "Other Lives' Sheerar Sessions is a Music Dept staged album. Use only if the plan airs it."
+  },
+  {
    "date": "Sat. Nov. 14",
    "venue": "Bottom of the Hill, S.F.",
    "act": "The Avengers, Pansy Division, Damage Party",
-   "detail": "$25, doors 8:30 p.m., music 9:30 p.m. 21+",
-   "what": "The Avengers, Pansy Division, Damage Party. $25, doors 8:30 p.m., music 9:30 p.m. 21+",
+   "detail": "$25, doors 8 p.m., music 9 p.m. 21+",
+   "what": "The Avengers, Pansy Division, Damage Party. $25, doors 8 p.m., music 9 p.m. 21+",
    "note": ""
+  },
+  {
+   "date": "Sat. Nov. 14",
+   "venue": "Fillmore, S.F.",
+   "act": "Allison Russell",
+   "detail": "Show 7:30 p.m.",
+   "what": "Allison Russell. Show 7:30 p.m.",
+   "note": "Music Dept staged singles. Use only if the plan airs one."
   },
   {
    "date": "Sun. Nov. 15 to Sat. Nov. 21",
