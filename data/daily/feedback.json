@@ -2997,7 +2997,8 @@
    "date": "2026-11-05",
    "note": "Thursday morning draft (kzsu-thu-draft). Air Order: Stace added 11 tracks and cut Dicks Hate the Police and The Damned Neat Neat Neat (flow or length cuts, not logged as cool-offs). Next Show: 17 tracks gone, Star Moles swapped to the Bonus Track version (read-only list, not logged as removals). Weekly: 171, no edits since Nov. 3."
   },
-  "2026-11-06 Friday full pass (kzsu-radar-playlists): no Stace edits in Weekly (171) or New Releases for Review (35). Air Order 47 at first read, then rewritten to 43 by the Nov. 12 draft run (not by this run). Next Show 45, then 53 (Guided By Voices add; TV Priest Cartoons album). Run note: while testing the row-menu route, a script click briefly hit the Like button on Chastity Belt - Friends for This and the next click unliked it. Verified like-status INDIFFERENT. Helper now targets the Action menu button by aria-label."
+  "2026-11-06 Friday full pass (kzsu-radar-playlists): no Stace edits in Weekly (171) or New Releases for Review (35). Air Order 47 at first read, then rewritten to 43 by the Nov. 12 draft run (not by this run). Next Show 45, then 53 (Guided By Voices add; TV Priest Cartoons album). Run note: while testing the row-menu route, a script click briefly hit the Like button on Chastity Belt - Friends for This and the next click unliked it. Verified like-status INDIFFERENT. Helper now targets the Action menu button by aria-label.",
+  "2026-11-10 Tuesday full pass (kzsu-radar-playlists): no Stace edits in Weekly (188) or New Releases for Review (30). Next Show read count 67 in the Save-to-playlist dialog (read only). Run note: a stale 'Saved to liked music' toast appeared after a diagnostic click; verified Sorry - Winner like status INDIFFERENT. Helper targets the row Action menu by aria-label."
  ],
  "notes_sheet_ticks": [
   {

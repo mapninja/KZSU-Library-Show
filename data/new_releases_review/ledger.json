@@ -912,10 +912,11 @@
    "added": "2026-10-27",
    "expires": "2026-11-10",
    "owner": "claude",
-   "status": "active",
+   "status": "expired",
    "fcc_status": "CLEAN",
    "fcc_note": "215 words (screened in the Oct. 27 Tuesday sweep)",
-   "source": "Oct. 27 Tuesday sweep; punk focus (melodic hardcore)"
+   "source": "Oct. 27 Tuesday sweep; punk focus (melodic hardcore)",
+   "removed": "2026-11-10"
   },
   {
    "videoId": "r3VyT4wwBI4",
@@ -927,10 +928,11 @@
    "added": "2026-10-27",
    "expires": "2026-11-10",
    "owner": "claude",
-   "status": "active",
+   "status": "expired",
    "fcc_status": "CLEAN",
    "fcc_note": "209 words (screened in the Oct. 27 Tuesday sweep)",
-   "source": "Oct. 27 Tuesday sweep; artist on release_watchlist"
+   "source": "Oct. 27 Tuesday sweep; artist on release_watchlist",
+   "removed": "2026-11-10"
   },
   {
    "videoId": "Yp4VveGLdFE",
@@ -942,10 +944,11 @@
    "added": "2026-10-27",
    "expires": "2026-11-10",
    "owner": "claude",
-   "status": "active",
+   "status": "expired",
    "fcc_status": "UNVERIFIED",
    "fcc_note": "no Genius page (screened in the Oct. 27 Tuesday sweep)",
-   "source": "Oct. 27 Tuesday sweep; Polyvinyl is a top label; indie rock lane"
+   "source": "Oct. 27 Tuesday sweep; Polyvinyl is a top label; indie rock lane",
+   "removed": "2026-11-10"
   },
   {
    "videoId": "xs3-IxWIVdk",
@@ -957,10 +960,11 @@
    "added": "2026-10-27",
    "expires": "2026-11-10",
    "owner": "claude",
-   "status": "active",
+   "status": "expired",
    "fcc_status": "UNVERIFIED",
    "fcc_note": "no Genius page (screened in the Oct. 27 Tuesday sweep)",
-   "source": "Oct. 27 Tuesday sweep; Third Man is a top label"
+   "source": "Oct. 27 Tuesday sweep; Third Man is a top label",
+   "removed": "2026-11-10"
   },
   {
    "videoId": "NkhRra7RG-k",
@@ -972,10 +976,11 @@
    "added": "2026-10-27",
    "expires": "2026-11-10",
    "owner": "claude",
-   "status": "active",
+   "status": "expired",
    "fcc_status": "UNVERIFIED",
    "fcc_note": "no Genius page (screened in the Oct. 27 Tuesday sweep)",
-   "source": "Oct. 27 Tuesday sweep; Omni member; post-punk lane (punk focus)"
+   "source": "Oct. 27 Tuesday sweep; Omni member; post-punk lane (punk focus)",
+   "removed": "2026-11-10"
   },
   {
    "videoId": "4ocHrRFqbrs",
@@ -987,10 +992,11 @@
    "added": "2026-10-27",
    "expires": "2026-11-10",
    "owner": "claude",
-   "status": "active",
+   "status": "expired",
    "fcc_status": "CLEAN",
    "fcc_note": "357 words (screened in the Oct. 27 Tuesday sweep)",
-   "source": "Oct. 27 Tuesday sweep; Anti- is a top label; Halloween week fit"
+   "source": "Oct. 27 Tuesday sweep; Anti- is a top label; Halloween week fit",
+   "removed": "2026-11-10"
   },
   {
    "videoId": "zikRXmDO7mk",
@@ -1343,6 +1349,150 @@
    "fcc_note": "Genius page has no lyrics yet",
    "source": "Nov. 6 Friday sweep (Stereogum)",
    "fit": "Superchunk in profile (6 shows); Galaxie 500 is a top-ranked favorite"
+  },
+  {
+   "videoId": "siBQoStDg9I",
+   "artist": "Cage The Elephant",
+   "title": "Make It Easy",
+   "album": "Dying in Reverse (album Feb. 5, 2027; indieisnotagenre lists Feb. 4, verify)",
+   "label": "Big Loud Rock",
+   "released": "2026-11-05 (single; Consequence, BroadwayWorld, Music Times)",
+   "added": "2026-11-10",
+   "expires": "2026-11-24",
+   "owner": "claude",
+   "status": "active",
+   "fcc_status": "CLEAN",
+   "fcc_note": "Genius, 271 words (screened Nov. 6)",
+   "source": "Nov. 10 Tuesday full pass (Nov. 6 health note, carried over)",
+   "fit": "In taste profile (13 shows, last spin 2022). First album since leaving RCA."
+  },
+  {
+   "videoId": "1M4pcHpuL-g",
+   "artist": "Straw Man Army",
+   "title": "Striking Home",
+   "album": "Earthworks (album)",
+   "label": "True North / La Vida Es Un Mus Discos",
+   "released": "2026-11-06 (Stereogum, one source)",
+   "added": "2026-11-10",
+   "expires": "2026-11-24",
+   "owner": "claude",
+   "status": "active",
+   "fcc_status": "CLEAN",
+   "fcc_note": "Genius, 219 words (screened Nov. 6)",
+   "source": "Nov. 10 Tuesday full pass (Nov. 6 health note, carried over)",
+   "fit": "Acoustic psychedelic post-punk. Not in profile; listen first."
+  },
+  {
+   "videoId": "koyxRpwiCrE",
+   "artist": "Krill",
+   "title": "Secret Language",
+   "album": "Secret Language (album Nov. 13; 3-song single release with Hawaii and Dominate)",
+   "label": "Exploding in Sound",
+   "released": "single date not verified (album 2026-11-13, Bandcamp, Paste, Treble, Stereogum)",
+   "added": "2026-11-10",
+   "expires": "2026-11-24",
+   "owner": "claude",
+   "status": "active",
+   "fcc_status": "UNVERIFIED",
+   "fcc_note": "no lyrics found (Genius, LRCLIB)",
+   "source": "Nov. 10 Tuesday full pass (Stereogum (Album of the Week post, title track article))",
+   "fit": "First Krill album in 10 years. Boston indie rock, Exploding in Sound. Not in profile; indie rock and punk lane."
+  },
+  {
+   "videoId": "bSKBTJUe7ak",
+   "artist": "Sorry",
+   "title": "Winner",
+   "album": "Winner (single)",
+   "label": "Domino (verify)",
+   "released": "2026-11-10 (Stereogum)",
+   "added": "2026-11-10",
+   "expires": "2026-11-24",
+   "owner": "claude",
+   "status": "active",
+   "fcc_status": "CLEAN",
+   "fcc_note": "Genius page 'Winner (rough)', 199 words, no FCC words; confirm against the released version",
+   "source": "Nov. 10 Tuesday full pass (Stereogum, Nov. 10)",
+   "fit": "UK band; COSPLAY was a top album of 2025 per Stereogum. Not in profile; art-rock lane."
+  },
+  {
+   "videoId": "CmEZitXOAvs",
+   "artist": "Kristin Hersh",
+   "title": "Pass Christian",
+   "album": "Downers On Blackstone (EP, announced Nov. 10; release date not found)",
+   "label": "unverified",
+   "released": "2026-11-10 (Stereogum announcement, single out)",
+   "added": "2026-11-10",
+   "expires": "2026-11-24",
+   "owner": "claude",
+   "status": "active",
+   "fcc_status": "UNVERIFIED",
+   "fcc_note": "no lyrics found",
+   "source": "Nov. 10 Tuesday full pass (Stereogum, Nov. 10)",
+   "fit": "In profile (Throwing Muses, 50 Ft Wave). Follows Sugar On Blackstone (2026)."
+  },
+  {
+   "videoId": "anOGOIfnaRw",
+   "artist": "Gatta Morta",
+   "title": "Music For Furbies",
+   "album": "Immaculator (debut album, announced Nov. 10; date not found)",
+   "label": "unverified",
+   "released": "2026-11-10 (Stereogum announcement, lead single)",
+   "added": "2026-11-10",
+   "expires": "2026-11-24",
+   "owner": "claude",
+   "status": "active",
+   "fcc_status": "UNVERIFIED (high risk: heavy rock, no lyrics found)",
+   "fcc_note": "no lyrics found",
+   "source": "Nov. 10 Tuesday full pass (Stereogum, Nov. 10)",
+   "fit": "Melvins (in profile) Buzz Osborne, Butthole Surfers JD Pinkus, Coady Willis, Clinton Jacob. Listen before air."
+  },
+  {
+   "videoId": "BXvzzFfZvaU",
+   "artist": "ira glass",
+   "title": "mister magnanimous",
+   "album": "single",
+   "label": "unverified",
+   "released": "2026-11-10 (Stereogum)",
+   "added": "2026-11-10",
+   "expires": "2026-11-24",
+   "owner": "claude",
+   "status": "active",
+   "fcc_status": "UNVERIFIED (hardcore, no lyrics found)",
+   "fcc_note": "no lyrics found",
+   "source": "Nov. 10 Tuesday full pass (Stereogum, Nov. 10)",
+   "fit": "Chicago post-hardcore. Not in profile; punk focus. Listen first."
+  },
+  {
+   "videoId": "gDEdzSdVefU",
+   "artist": "Dirty Projectors",
+   "title": "Jumbotron",
+   "album": "single",
+   "label": "Joyful Noise Recordings (AudioFuzz)",
+   "released": "2026-11-10 (AudioFuzz)",
+   "added": "2026-11-10",
+   "expires": "2026-11-24",
+   "owner": "claude",
+   "status": "active",
+   "fcc_status": "CLEAN",
+   "fcc_note": "Genius, 121 words",
+   "source": "Nov. 10 Tuesday full pass (Web search (AudioFuzz, Nov. 10))",
+   "fit": "Art pop lane. First new music since early 2025; signed to Joyful Noise."
+  },
+  {
+   "videoId": "kvG-uEHXWVE",
+   "artist": "GracieHorse",
+   "title": "Roadside Assistance",
+   "album": "Breaking And Entering (album, produced by Chris Cohen; date not found)",
+   "label": "unverified",
+   "released": "2026-11-10 (Stereogum)",
+   "added": "2026-11-10",
+   "expires": "2026-11-24",
+   "owner": "claude",
+   "status": "active",
+   "fcc_status": "UNVERIFIED",
+   "fcc_note": "no lyrics found",
+   "source": "Nov. 10 Tuesday full pass (Stereogum, Nov. 10)",
+   "fit": "Country ballad. Chris Cohen is on the release watchlist. Weak fit; listen first."
   }
  ]
 }
