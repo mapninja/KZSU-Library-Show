@@ -1,10 +1,19 @@
 [
  {
+  "artist": "They Might Be Giants",
+  "title": "Eyeball EP",
+  "type": "EP",
+  "label": "Upward Spiral",
+  "current_date": "2026-01-15",
+  "date_check": "verify",
+  "key": "they might be giants|eyeball ep"
+ },
+ {
   "artist": "Little Barrie",
   "title": "Luggin' Hurt",
   "type": "single",
   "label": "Easy Eye Sound / Concord",
-  "current_date": "2026-04-23",
+  "current_date": "2026-05-22",
   "date_check": "verify",
   "key": "little barrie|luggin hurt"
  },
@@ -36,24 +45,6 @@
   "key": "imperial teen|all hands up"
  },
  {
-  "artist": "Autumn Luz",
-  "title": "Moments",
-  "type": "album",
-  "label": "Self-Released",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "autumn luz|moments"
- },
- {
-  "artist": "lovetempo",
-  "title": "Never The Same",
-  "type": "single",
-  "label": "Self-released",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "lovetempo|never the same"
- },
- {
   "artist": "lovetempo",
   "title": "By Your Side",
   "type": "single",
@@ -70,6 +61,15 @@
   "current_date": "",
   "date_check": "needed",
   "key": "christian taylor|trust you"
+ },
+ {
+  "artist": "Autumn Luz",
+  "title": "Moments",
+  "type": "album",
+  "label": "Self-Released",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "autumn luz|moments"
  },
  {
   "artist": "Daði Freyr (Pronounced Dah-thi Fray-er)",
@@ -90,15 +90,6 @@
   "key": "spaceport|cut the cake"
  },
  {
-  "artist": "Shelita",
-  "title": "Into The Depths",
-  "type": "album",
-  "label": "Self-Released",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "shelita|into the depths"
- },
- {
   "artist": "Razteria",
   "title": "Reflections",
   "type": "album",
@@ -106,15 +97,6 @@
   "current_date": "",
   "date_check": "needed",
   "key": "razteria|reflections"
- },
- {
-  "artist": "LMNT 115",
-  "title": "Isotope",
-  "type": "album",
-  "label": "Quassar Music",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "lmnt 115|isotope"
  },
  {
   "artist": "LB aka LABAT",
@@ -126,51 +108,6 @@
   "key": "lb aka labat|feel so good around you"
  },
  {
-  "artist": "Cain Culto",
-  "title": "Chismosa (feat. Jarina De Marco)",
-  "type": "single",
-  "label": "Hive Music",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "cain culto|chismosa feat jarina de marco"
- },
- {
-  "artist": "Harry Hayes",
-  "title": "I Did You Wrong",
-  "type": "single",
-  "label": "Technicolour",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "harry hayes|i did you wrong"
- },
- {
-  "artist": "Ms* Gloom",
-  "title": "J is for Joon",
-  "type": "album",
-  "label": "BingBong95!",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "ms gloom|j is for joon"
- },
- {
-  "artist": "MX Lonely",
-  "title": "ALL MONSTERS",
-  "type": "album",
-  "label": "Julia's War",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "mx lonely|all monsters"
- },
- {
-  "artist": "Mariae Cassandra",
-  "title": "Everything In My Backpocket",
-  "type": "album",
-  "label": "Self-Released",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "mariae cassandra|everything in my backpocket"
- },
- {
   "artist": "FOCUS Wales SXSW",
   "title": "FOCUS Wales Artist Sampler",
   "type": "album",
@@ -180,84 +117,156 @@
   "key": "focus wales sxsw|focus wales artist sampler"
  },
  {
-  "artist": "Memblem",
-  "title": "Out Like This (feat. Nia Nadurata)",
+  "artist": "Moonchild",
+  "title": "Waves",
+  "type": "album",
+  "label": "ONErpm",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "moonchild|waves"
+ },
+ {
+  "artist": "ford.",
+  "title": "Music Lights Color",
+  "type": "album",
+  "label": "ecke",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "ford|music lights color"
+ },
+ {
+  "artist": "DJ Seinfeld",
+  "title": "U Can't Come Home (feat. TS Graye)",
   "type": "single",
+  "label": "Ninja Tune",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "dj seinfeld|u can t come home feat ts graye"
+ },
+ {
+  "artist": "Poolside",
+  "title": "Looking Backwards",
+  "type": "single",
+  "label": "Counter",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "poolside|looking backwards"
+ },
+ {
+  "artist": "Sella",
+  "title": "Well I Mean",
+  "type": "album",
+  "label": "Bar/None",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "sella|well i mean"
+ },
+ {
+  "artist": "Ora Cogan",
+  "title": "Hard Hearted Woman",
+  "type": "album",
+  "label": "Sacred Bones",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "ora cogan|hard hearted woman"
+ },
+ {
+  "artist": "Cashier",
+  "title": "The Weight",
+  "type": "album",
+  "label": "Julia's War",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "cashier|weight"
+ },
+ {
+  "artist": "Pick a Piper",
+  "title": "Dandelion",
+  "type": "album",
+  "label": "Tin Angel",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "pick a piper|dandelion"
+ },
+ {
+  "artist": "Ambalema",
+  "title": "Hiyuyá",
+  "type": "album",
+  "label": "Ñancahuazú",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "ambalema|hiyuya"
+ },
+ {
+  "artist": "James Blake",
+  "title": "Trying Times",
+  "type": "album",
+  "label": "Good Boy / Virgin",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "james blake|trying times"
+ },
+ {
+  "artist": "Tinariwen",
+  "title": "Hoggar",
+  "type": "album",
+  "label": "Wedge",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "tinariwen|hoggar"
+ },
+ {
+  "artist": "Ana Tijoux",
+  "title": "97",
+  "type": "album",
+  "label": "Victoria Producciones",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "ana tijoux|97"
+ },
+ {
+  "artist": "Memblem",
+  "title": "jetlag",
+  "type": "album",
   "label": "Young Art Records",
   "current_date": "",
   "date_check": "needed",
-  "key": "memblem|out like this feat nia nadurata"
+  "key": "memblem|jetlag"
  },
  {
-  "artist": "Rules",
-  "title": "Feeling (Hold On You)",
+  "artist": "Robyn",
+  "title": "Blow My Mind",
+  "type": "single",
+  "label": "Young",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "robyn|blow my mind"
+ },
+ {
+  "artist": "Thundercat",
+  "title": "Thunderwave (feat. WILLOW)",
+  "type": "single",
+  "label": "Brainfeeder",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "thundercat|thunderwave feat willow"
+ },
+ {
+  "artist": "Brother Ali",
+  "title": "Another Country",
+  "type": "single",
+  "label": "Travelers Media",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "brother ali|another country"
+ },
+ {
+  "artist": "49th & Main",
+  "title": "Sleepwalking",
   "type": "single",
   "label": "Counter Records",
   "current_date": "",
   "date_check": "needed",
-  "key": "rules|feeling hold on you"
- },
- {
-  "artist": "DAMON ALBARN, GRIAN CHATTEN & KAE TEMPEST",
-  "title": "Flags",
-  "type": "single",
-  "label": "War Child Records",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "damon albarn grian chatten kae tempest|flags"
- },
- {
-  "artist": "Last Dinosaurs",
-  "title": "Wellnxss",
-  "type": "album",
-  "label": "Nettwerk",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "last dinosaurs|wellnxss"
- },
- {
-  "artist": "JOSEPH",
-  "title": "Closer to Happy",
-  "type": "album",
-  "label": "Nettwerk",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "joseph|closer to happy"
- },
- {
-  "artist": "SIX60",
-  "title": "Right Here Right Now",
-  "type": "album",
-  "label": "Self-Released",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "six60|right here right now"
- },
- {
-  "artist": "Milune",
-  "title": "Hearts Lust",
-  "type": "album",
-  "label": "Leanza Music",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "milune|hearts lust"
- },
- {
-  "artist": "Sotomayor",
-  "title": "WABI SABI",
-  "type": "album",
-  "label": "Wonderwheel Recordings",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "sotomayor|wabi sabi"
- },
- {
-  "artist": "District Five",
-  "title": "Place Your Bet",
-  "type": "single",
-  "label": "Stone Pixels",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "district five|place your bet"
+  "key": "49th main|sleepwalking"
  }
 ]

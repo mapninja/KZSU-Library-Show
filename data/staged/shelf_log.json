@@ -240,6 +240,18 @@
    ],
    "deploy": "patched in place with the Sheets API (1 row inserted at A2:Q2, Album and Label as HYPERLINK formulas); same file ID, link unchanged; read back OK.",
    "ticked_requests_waiting": "not checked"
+  },
+  {
+   "date": "2026-11-09",
+   "trigger": "radar daily Monday (kzsu-radar-daily): Gmail md@ promos and album sweep",
+   "rows_added": 4,
+   "artists": [
+    "The Bird House",
+    "Taylor Ashton",
+    "Computerwife",
+    "Cariño"
+   ],
+   "deploy": "patched in place with the Sheets API (4 rows inserted at A2:Q5, plain text for Album and Label); same file ID, link unchanged; read back OK. Working copy in Drive Working/ not synced this run."
   }
  ]
 }

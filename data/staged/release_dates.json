@@ -212,17 +212,16 @@
  },
  "miss grit|mind disaster": {
   "date": "2026-03-10",
-  "precision": "day",
+  "precision": "approx",
   "sources": [
    "https://www.thelineofbestfit.com/news/miss-grit-new-track-mind-disaster",
    "https://northerntransmissions.com/miss-grit-shares-new-track-mind-disaster/",
    "https://missgrit.bandcamp.com/track/mind-disaster"
   ],
-  "status": "single, date unverified",
-  "note": "Single date: Line of Best Fit story dated Mar. 10, 2026 (third single from Under My Umbrella). Northern Transmissions posted Mar. 11 (Pacific). Not confirmed by the label or Bandcamp. Bandcamp track page shows Apr. 24, 2026, the album date (Mute). Oct. 28 recheck: no new evidence; Line of Best Fit Mar. 10 stays the single date. Oct. 29 recheck: Line of Best Fit page read, dated 10 March 2026 and says the single is out from Under My Umbrella (Apr. 24, Mute). Still one day-precision source. | Nov. 2 recheck: Northern Transmissions and Line of Best Fit coverage around Mar. 10; Bandcamp shows Apr. 24 album date. Still one day-precision source. | Nov. 5 recheck: coverage still clusters around Mar. 10 (Under the Radar, Line of Best Fit, Northern Transmissions); Bandcamp track page shows the Apr. 24 album date. Still one day-precision source. | Nov. 7: rechecked. Fire Note video post dated Apr. 24, 2026 and Line of Best Fit story dated 10 March 2026 (Northern Transmissions undated in page text). Still press dates, no label confirmation; left as verify.",
-  "label": "Mute Records",
+  "status": "released",
+  "note": "Nov. 9: coverage dated Mar. 10 to 12, 2026 calls it out; no page states the day. Third single from Under My Umbrella (Mute, Apr. 24, 2026). Bandcamp track page shows the album date.",
   "confirmed": false,
-  "checked_on": "2026-11-07"
+  "checked_on": "2026-11-09"
  },
  "hrishikesh hirway|stray dogs with iron wine": {
   "date": "2026-02-18",
@@ -921,16 +920,17 @@
   "checked_on": "2026-10-17"
  },
  "little barrie|luggin hurt": {
-  "date": "2026-04-23",
+  "date": "2026-05-22",
   "precision": "day",
   "sources": [
-   "https://littlebarrie.bandcamp.com/track/luggin-hurt"
+   "https://littlebarrie.bandcamp.com/track/luggin-hurt",
+   "https://www.shazam.com/en-us/song/1874098778/luggin-hurt",
+   "https://easyeyesound.com/products/little-barrie-gravity-freeze-standard-black-vinyl"
   ],
-  "status": "single, date unverified",
-  "note": "Bandcamp track page shows May 22, 2026, which is the Gravity Freeze album date (Easy Eye Sound). Single date still not found; 2026-04-23 kept as earlier single date from the prior run, unverified. Oct. 25: a UMG YouTube upload is dated Apr. 22, 2026, one day before the kept date. Bandcamp and Shazam show the album date May 22, 2026. Still unverified. Oct. 27 recheck: still only the video and audio uploads (Apr. 22 to 23) as evidence; Bandcamp shows May 22 album date. Oct. 28 recheck: no single-only date found; album date May 22 (Bandcamp, Shazam). Oct. 29 recheck: Bandcamp track page read again, still shows the May 22, 2026 album date. Single-only date not found. | Nov. 2 recheck: search again finds only the Apr. 22 to 23 video uploads and the May 22 album date (Gravity Freeze, Easy Eye Sound). Still unverified. | Nov. 7: rechecked. Fire Note video post dated Apr. 24, 2026 and Line of Best Fit story dated 10 March 2026 (Northern Transmissions undated in page text). Still press dates, no label confirmation; left as verify.",
-  "label": "Easy Eye Sound / Concord",
+  "status": "released",
+  "note": "Nov. 9: Bandcamp, Shazam and Easy Eye Sound agree on May 22, 2026 for the track on the album Gravity Freeze. No separate single date found; a single edit video exists (The Fire Note). Left unconfirmed as a single date.",
   "confirmed": false,
-  "checked_on": "2026-11-07"
+  "checked_on": "2026-11-09"
  },
  "new pornographers|votive": {
   "date": "2026-01-21",
@@ -2373,10 +2373,10 @@
    "https://tmbg.bandcamp.com/album/eyeball-ep"
   ],
   "status": "released",
-  "note": "Press and Wikipedia snippets give Jan. 15, 2026. Band Bandcamp page lists Apr. 14, 2026, likely the album date or a later listing. Not confirmed until the conflict is read.",
+  "note": "Press and Wikipedia snippets give Jan. 15, 2026. Band Bandcamp page lists Apr. 14, 2026, likely the album date or a later listing. Not confirmed until the conflict is read. | Nov. 11: Wikipedia, TMBW, Consequence and BrooklynVegan all say Jan. 15, 2026. Bandcamp page still shows Apr. 14, 2026 (not opened). Label Upward Spiral not verified. Left unconfirmed.",
   "label": "",
   "confirmed": false,
-  "checked_on": "2026-10-21"
+  "checked_on": "2026-11-11"
  },
  "they might be giants|world is to dig": {
   "date": "2026-04-14",
@@ -2730,16 +2730,17 @@
   "checked_on": "2026-10-22"
  },
  "lovetempo|never the same": {
-  "date": "",
-  "precision": "",
+  "date": "2026-01-20",
+  "precision": "day",
   "sources": [
-   "https://itslovetempo.bandcamp.com/album/there-is-a-light"
+   "https://itslovetempo.substack.com/p/the-single-is-out-the-light-is-coming",
+   "https://www.decodedmagazine.com/lovetempo-drops-never-the-same-single/"
   ],
-  "status": "single, date not found",
-  "note": "Both singles are on the album There Is A Light, released Apr. 17, 2026 per Bandcamp. No standalone single date found. A January 2026 article announced the track ahead of the album. Oct. 29 recheck: no new source.",
-  "label": "Self-released",
-  "confirmed": false,
-  "checked_on": "2026-10-29"
+  "status": "released",
+  "note": "Nov. 11: Artist Substack and Decoded Magazine place the single Jan. 20, 2026. First single from There Is A Light (Apr. 17, 2026). Produced by Mattie Safer and Doug Stuart. A Black Loops remix is tagged July 14, 2026 on Amazon.",
+  "confirmed": true,
+  "checked_on": "2026-11-11",
+  "label": "Self-released"
  },
  "lovetempo|by your side": {
   "date": "",
@@ -2853,12 +2854,14 @@
  "vicious vicious|all caught up yodel my name across the sweeping sands": {
   "date": "2026-10",
   "precision": "month",
-  "sources": [],
-  "status": "single, date not found",
-  "note": "Searched Oct. 23: no pages found for this single. Promo email (Oct. 19) lists ADDS 10/20. Date stays month-only. Oct. 27: only an Apple Music artist page (year 2026). No day-precision source. Oct. 28 recheck: only Apple Music artist page (2026), no day. Oct. 29 recheck: only the Apple Music artist page (2026). No day.",
-  "label": "Vicious Vicious (self-released)",
+  "sources": [
+   "https://music.apple.com/us/artist/vicious-vicious/121576317"
+  ],
+  "status": "unknown",
+  "note": "Nov. 11: Apple Music lists the single as a 2026 release with no day. No other source found. Unconfirmed.",
   "confirmed": false,
-  "checked_on": "2026-10-29"
+  "checked_on": "2026-11-11",
+  "label": "Vicious Vicious (self-released)"
  },
  "jane inc|a rupture a canyon a birth": {
   "date": "2025-10-17",
@@ -5546,10 +5549,16 @@
   "checked_on": "2026-11-07"
  },
  "shelita|into the depths": {
-  "status": "unresolved",
-  "checked_on": "2026-11-07",
+  "date": "2025-08-29",
+  "precision": "day",
+  "sources": [
+   "https://bigtakeover.com/recordings/shelita-into-the-depths-ep-self-released",
+   "https://www.wewriteaboutmusic.com/reviews/shelita-into-the-depths"
+  ],
+  "status": "unknown",
+  "note": "Nov. 11: Pre-release coverage said Aug. 29, 2025. Later reviews (Oct. and Dec. 2025) suggest a slip to early 2026. It is an EP, not an album. No confirmed day. Unconfirmed.",
   "confirmed": false,
-  "note": "Nov. 7: sources disagree. Aug. 2025 press gave Aug. 29 for a full album; Nov. 2025 review calls it a 3-track EP (Apple Music: EP, 2025). No day-precision date. Needs Bandcamp or Apple page."
+  "checked_on": "2026-11-11"
  },
  "shabaka|dance in praise": {
   "date": "2026-02-25",
@@ -5710,5 +5719,383 @@
   "note": "Nov. 8: Wikipedia and Line of Best Fit agree on Oct. 9, 2026. First live album, recorded Dec. 11, 2025.",
   "confirmed": true,
   "checked_on": "2026-11-08"
+ },
+ "mx lonely|all monsters": {
+  "date": "2026-02-20",
+  "precision": "day",
+  "sources": [
+   "https://mxlonely.bandcamp.com/album/all-monsters",
+   "https://staticsoundsclub.com/2026/02/17/mx-lonely-all-monsters-album-review/",
+   "https://slrmagazine.com/2026/02/21/mx-lonely-share-debut-album-all-monsters-via-julias-war/"
+  ],
+  "status": "released",
+  "note": "Nov. 9: Bandcamp, Static Sounds Club and SLR Magazine agree on Feb. 20, 2026. Debut album on Julia's War.",
+  "confirmed": true,
+  "checked_on": "2026-11-09"
+ },
+ "joseph|closer to happy": {
+  "date": "2026-01-30",
+  "precision": "day",
+  "sources": [
+   "https://nettwerk.com/joseph-announces-new-album-closer-to-happy-shares-single-ready-to-let-you-down/",
+   "https://redlightmanagement.com/joseph-announces-new-album-closer-to-happy-out-january-30-2026/",
+   "https://music.apple.com/us/album/closer-to-happy/1834024610"
+  ],
+  "status": "released",
+  "note": "Nov. 9: Nettwerk, Red Light Management and Apple Music agree on Jan. 30, 2026.",
+  "confirmed": true,
+  "checked_on": "2026-11-09"
+ },
+ "sotomayor|wabi sabi": {
+  "date": "2026-02-13",
+  "precision": "day",
+  "sources": [
+   "https://wonderwheelrecordings.com/release/wabi-sabi/",
+   "https://sotomayor.bandcamp.com/album/wabi-sabi",
+   "https://upcomingvinyl.com/record/sotomayor-wabi-sabi-clear-confetti"
+  ],
+  "status": "released",
+  "note": "Nov. 9: Wonderwheel, Bandcamp and Upcoming Vinyl agree on Feb. 13, 2026.",
+  "confirmed": true,
+  "checked_on": "2026-11-09"
+ },
+ "six60|right here right now": {
+  "date": "2026-02-13",
+  "precision": "day",
+  "sources": [
+   "https://www.muzic.nz/news/six60-release-new-album-right-here-right-now/",
+   "https://open.spotify.com/prerelease/5LR3po5JuawUPKcL8bqUEH",
+   "https://www.amazon.com/SIX60-RIGHT-HERE-NOW-VINYL/dp/B0GJYSBFMM"
+  ],
+  "status": "released",
+  "note": "Nov. 9: Muzic.NZ, Spotify and Amazon agree on Feb. 13, 2026. Libel Music page dated Jan. 16 is the announcement.",
+  "confirmed": true,
+  "checked_on": "2026-11-09"
+ },
+ "harry hayes|i did you wrong": {
+  "date": "2026-02-26",
+  "precision": "day",
+  "sources": [
+   "https://harryhayes1.bandcamp.com/album/i-did-you-wrong",
+   "https://music.apple.com/us/album/i-did-you-wrong-single/1871455113",
+   "https://ninjatune.net/release/harry-hayes/i-did-you-wrong"
+  ],
+  "status": "released",
+  "note": "Nov. 9: Bandcamp and Apple Music agree on Feb. 26, 2026. Technicolour is a Ninja Tune imprint. Laurence Guy remix is May 20, 2026.",
+  "confirmed": true,
+  "checked_on": "2026-11-09",
+  "label": "Technicolour (Ninja Tune)"
+ },
+ "ms gloom|j is for joon": {
+  "date": "2026-02-27",
+  "precision": "day",
+  "sources": [
+   "https://rateyourmusic.com/release/mixtape/ms-gloom/j-is-for-joon/",
+   "https://www.albumoftheyear.org/album/1488395-ms-gloom-j-is-for-joon.php"
+  ],
+  "status": "released",
+  "note": "Nov. 9: RYM and Album of the Year agree on Feb. 27, 2026. It is a mixtape. Label BingBong 95! / Rekordz. RMX set is Sept. 17, 2026.",
+  "confirmed": true,
+  "checked_on": "2026-11-09"
+ },
+ "last dinosaurs|wellnxss": {
+  "date": "2026-02-13",
+  "precision": "day",
+  "sources": [
+   "https://nettwerk.com/last-dinosaurs-share-new-songs-apxllo-and-pink-flags-wellnxss-reimagining-due-out-february-13/",
+   "https://en.wikipedia.org/wiki/Last_Dinosaurs",
+   "https://www.thenote.com.au/news/indie-favs-last-dinosaurs-wellnxss-reimagining-sophomore-album"
+  ],
+  "status": "released",
+  "note": "Nov. 9: Nettwerk, Wikipedia and The Note agree on Feb. 13, 2026. Re-recording of Wellness (2015) with five new songs.",
+  "confirmed": true,
+  "checked_on": "2026-11-09"
+ },
+ "damon albarn grian chatten kae tempest|flags": {
+  "date": "2026-02-12",
+  "precision": "day",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Help(2)",
+   "https://fadmagazine.com/2026/02/12/war-child-records-release-new-single-flags-by-damon-albarn-grian-chatten-kae-tempest/"
+  ],
+  "status": "released",
+  "note": "Nov. 9: Wikipedia and FAD Magazine agree on Feb. 12, 2026 single. HELP(2) album is Mar. 6, 2026.",
+  "confirmed": true,
+  "checked_on": "2026-11-09"
+ },
+ "rules|feeling hold on you": {
+  "date": "2026-02-18",
+  "precision": "day",
+  "sources": [
+   "https://www.ninjatune.net/release/rules-and-murphy/feeling-hold-on-you",
+   "https://music.apple.com/us/album/feeling-hold-on-you-single/1870850137",
+   "https://www.beatport.com/release/feeling-hold-on-you/6375377"
+  ],
+  "status": "released",
+  "note": "Nov. 9: Ninja Tune, Apple Music and Beatport agree on Feb. 18, 2026. Credited Rules & MURPHY. Counter is a Ninja Tune imprint. heylucas remix is Sept. 11, 2026.",
+  "confirmed": true,
+  "checked_on": "2026-11-09"
+ },
+ "memblem|out like this feat nia nadurata": {
+  "date": "2026-02-13",
+  "precision": "day",
+  "sources": [
+   "https://youngartrecords.bandcamp.com/track/out-like-this-feat-nia-nadurata-2",
+   "https://www.beatport.com/label/young-art-records/51330/releases"
+  ],
+  "status": "released",
+  "note": "Nov. 9: Bandcamp track page and Beatport agree on Feb. 13, 2026 single. Appears on the jetlag EP, Mar. 13, 2026 (Bandcamp).",
+  "confirmed": true,
+  "checked_on": "2026-11-09"
+ },
+ "mariae cassandra|everything in my backpocket": {
+  "date": "2025-11-21",
+  "precision": "day",
+  "sources": [
+   "https://www.albumoftheyear.org/album/1548221-mariae-cassandra-everything-in-my-backpocket.php",
+   "https://loudwomen.org/2025/12/02/mariae-cassandra-releases-debut-ep-everything-in-my-backpocket/",
+   "https://music.apple.com/nz/album/everything-in-my-backpocket-ep/1843816443"
+  ],
+  "status": "released",
+  "note": "Nov. 9: Album of the Year, Loud Women and Apple Music agree on Nov. 21, 2025. It is a six-track debut EP, not an album. Not a current release.",
+  "confirmed": true,
+  "checked_on": "2026-11-09"
+ },
+ "cain culto|chismosa feat jarina de marco": {
+  "date": "2026-02-20",
+  "precision": "day",
+  "sources": [
+   "https://music.apple.com/us/album/chismosa-single/1860155960",
+   "https://www.shazam.com/song/1860155963/chismosa",
+   "https://audiomack.com/cain-culto/song/chismosa-3707410"
+  ],
+  "status": "released",
+  "note": "Nov. 9: Apple Music, Shazam, Audiomack and YouTube say Feb. 20, 2026. Qobuz says Jan. 23, 2026 (maybe a pre-order date) and RecentMusic says Dec. 10, 2025. Left unconfirmed because of the conflict.",
+  "confirmed": false,
+  "checked_on": "2026-11-09"
+ },
+ "milune|hearts lust": {
+  "date": "2025-03-07",
+  "precision": "day",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Milune",
+   "https://melomaniacsmag.com/album-review-hearts-lust-by-milune/",
+   "https://www.shazam.com/song/1783522805/hearts-lust"
+  ],
+  "status": "released",
+  "note": "Nov. 9: Wikipedia (March 2025), Melomaniacs (Mar. 7) and Shazam (Columbia, Mar. 7, 2025) agree it is a 2025 debut. Staged label Leanza Music not confirmed; Shazam says Columbia. Not a current release.",
+  "confirmed": false,
+  "checked_on": "2026-11-09"
+ },
+ "lmnt 115|isotope": {
+  "date": "2025-12-19",
+  "precision": "day",
+  "sources": [
+   "https://weraveyou.com/2025/12/lmnt-115-daya-paradise-isotope-ep/",
+   "https://www.shazam.com/en-us/song/1818507145/out-of-the-dark"
+  ],
+  "status": "released",
+  "note": "Nov. 9: pre-release coverage said Dec. 12, 2025; Shazam and YouTube show Dec. 19, 2025. It is an EP, label spelled Quasar Music. Unconfirmed.",
+  "confirmed": false,
+  "checked_on": "2026-11-09"
+ },
+ "tigers jaw|lost on you": {
+  "date": "2026-03-27",
+  "precision": "day",
+  "sources": [
+   "https://tigersjaw.bandcamp.com/album/lost-on-you",
+   "https://hopeless.ochre.store/release/560719",
+   "https://www.mixeduprecords.com/products/tigers-jaw-lost-on-you"
+  ],
+  "status": "released",
+  "note": "Nov. 11: Bandcamp, Hopeless store and Mixed Up Records agree on Mar. 27, 2026 (Hopeless Records). Wikipedia says Mar. 26, likely a time zone difference. Produced by Will Yip.",
+  "confirmed": true,
+  "checked_on": "2026-11-11",
+  "label": "Hopeless"
+ },
+ "kekht arakh|morning star": {
+  "date": "2026-03-27",
+  "precision": "day",
+  "sources": [
+   "https://www.sacredbonesrecords.com/products/sbr-377-kekht-arakh-morning-star",
+   "https://kekhtarakh.bandcamp.com/album/morning-star",
+   "https://v13.net/2026/01/kekht-arakh-announces-new-album-for-sacred-bones-morning-star/"
+  ],
+  "status": "released",
+  "note": "Nov. 11: Sacred Bones (SBR 377), Bandcamp and V13 agree on Mar. 27, 2026. 17 tracks.",
+  "confirmed": true,
+  "checked_on": "2026-11-11",
+  "label": "Sacred Bones"
+ },
+ "gladie|no need to be lonely": {
+  "date": "2026-03-20",
+  "precision": "day",
+  "sources": [
+   "https://getbetterrecords.com/products/gladie-no-need-to-be-lonely-pink-yellow-splatter-vinyl",
+   "https://gladie.bandcamp.com/album/no-need-to-be-lonely",
+   "https://consequence.net/2026/01/gladie-no-need-to-be-lonely-jeff-rosenstock/"
+  ],
+  "status": "released",
+  "note": "Nov. 11: Get Better Records, Bandcamp and Consequence agree on Mar. 20, 2026. Produced by Jeff Rosenstock. 12 tracks.",
+  "confirmed": true,
+  "checked_on": "2026-11-11",
+  "label": "Get Better"
+ },
+ "footballhead|weight of the truth": {
+  "date": "2026-03-20",
+  "precision": "day",
+  "sources": [
+   "https://slrmagazine.com/2025/11/22/footballhead-announce-new-album-weight-of-the-truth-out-march-20-via-tiny-engines/",
+   "https://dyingscene.com/releases/footballhead-weight-of-the-truth/"
+  ],
+  "status": "released",
+  "note": "Nov. 11: SLR Magazine (Tiny Engines announcement) and Dying Scene agree on Mar. 20, 2026. Some vinyl retail listings (Tower, Truck) show May 8, 2026.",
+  "confirmed": true,
+  "checked_on": "2026-11-11",
+  "label": "Tiny Engines"
+ },
+ "dropkick murphys haywire|new england forever": {
+  "date": "2026-03-17",
+  "precision": "day",
+  "sources": [
+   "https://en.wikipedia.org/wiki/New_England_Forever",
+   "https://music.apple.com/us/album/new-england-forever/1872968337"
+  ],
+  "status": "released",
+  "note": "Nov. 11: Wikipedia and Apple Music: digital release Mar. 17, 2026 (Dummy Luck). It is an 8-song split with Haywire 617, not a full album. Tour-exclusive 12 in vinyl came first; retail vinyl on Play It Again Sam is listed June 26, 2026.",
+  "confirmed": true,
+  "checked_on": "2026-11-11",
+  "label": "Dummy Luck / Play It Again Sam"
+ },
+ "ladytron|paradises": {
+  "date": "2026-03-20",
+  "precision": "day",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Paradises_(album)",
+   "https://ladytron.bandcamp.com/album/paradises",
+   "https://nettwerk.com/news/iconic-electronic-pop-group-ladytron-announce-eighth-studio-album-paradises-out-march-20th-share-kingdom-undersea"
+  ],
+  "status": "released",
+  "note": "Nov. 11: Wikipedia, Bandcamp and Nettwerk agree on Mar. 20, 2026. Eighth studio album.",
+  "confirmed": true,
+  "checked_on": "2026-11-11",
+  "label": "Nettwerk"
+ },
+ "madame gandhi|love letters from brooklyn": {
+  "date": "2026-03-20",
+  "precision": "day",
+  "sources": [
+   "https://www.nationalsawdust.org/event/madame-gandhi-3-20-26",
+   "https://music.apple.com/us/album/love-letters-from-brooklyn-ep/1884738314"
+  ],
+  "status": "likely",
+  "note": "Nov. 11: National Sawdust launch event is dated Mar. 20, 2026. Apple Music lists it as a 5-song EP with Gender Amplified, not an album. No page gives the release day. Unconfirmed.",
+  "confirmed": false,
+  "checked_on": "2026-11-11"
+ },
+ "flore laurentienne|fleuve vii": {
+  "date": "2026-02",
+  "precision": "month",
+  "sources": [
+   "https://www.killbeatmusic.com/media-releases/2026/2/11/flore-laurentienne-reveals-new-single-from-upcoming-lp-fleuve-vii",
+   "https://montrealrocks.ca/flore-laurentienne-returns-with-new-album/"
+  ],
+  "status": "likely",
+  "note": "Nov. 11: Single announced Feb. 11, 2026 (Killbeat press release). No page gives the single day. Album Volume III is Apr. 10, 2026 on Secret City per Killbeat and Curious Collections.",
+  "confirmed": false,
+  "checked_on": "2026-11-11"
+ },
+ "academy is|almost there": {
+  "date": "2026-03-27",
+  "precision": "day",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Almost_There_(The_Academy_Is..._album)",
+   "https://seasickbham.com/products/academy-is-almost-there-lp-white",
+   "https://www.newreleasesnow.com/album/the-academy-is-almost-there"
+  ],
+  "status": "released",
+  "note": "Nov. 11: Wikipedia, Seasick Records and New Releases Now agree on Mar. 27, 2026 (I Surrender Records). First album in 18 years. The artist is The Academy Is...",
+  "confirmed": true,
+  "checked_on": "2026-11-11",
+  "label": "I Surrender"
+ },
+ "red pk|horse like me": {
+  "date": "2026-03-20",
+  "precision": "day",
+  "sources": [
+   "https://redpk.bandcamp.com/album/horse-like-me",
+   "https://chicagoreader.com/music/gossip-wolf/heavy-crownz-farmer-newchicago-resavoir-uncaged-red-pk-cbvb/"
+  ],
+  "status": "released",
+  "note": "Nov. 11: Bandcamp and Chicago Reader agree on Mar. 20, 2026 (Storm Chasers LTD). Debut LP, 10 tracks.",
+  "confirmed": true,
+  "checked_on": "2026-11-11",
+  "label": "Storm Chasers"
+ },
+ "lauren auder|whole world as vigil": {
+  "date": "2026-03-27",
+  "precision": "day",
+  "sources": [
+   "https://www.clashmusic.com/news/lauren-auder-announces-new-album-whole-world-as-vigil/",
+   "https://www.theupcoming.co.uk/2026/03/23/lauren-auder-whole-world-as-vigil-album-review/",
+   "https://laurenauder.bandcamp.com/album/whole-world-as-vigil"
+  ],
+  "status": "likely",
+  "note": "Nov. 11: Clash and The Upcoming say Mar. 27, 2026 (untitled (recs)). Bandcamp says Mar. 28 and a Spotify pre-release page says Mar. 26. Unconfirmed until the conflict is resolved.",
+  "confirmed": false,
+  "checked_on": "2026-11-11",
+  "label": "untitled (recs)"
+ },
+ "district five|place your bet": {
+  "date": "2026-02",
+  "precision": "month",
+  "sources": [
+   "https://glidemagazine.com/322616/listen-district-fives-place-your-bet-is-moving-jazz-fusion-with-hypnotic-charm/",
+   "https://districtfive.bandcamp.com/album/glut"
+  ],
+  "status": "likely",
+  "note": "Nov. 11: Glide reviewed the single Feb. 19, 2026, so it was out by then. No page gives the day. Album Glut is May 29, 2026 (Stone Pixels, Bandcamp).",
+  "confirmed": false,
+  "checked_on": "2026-11-11"
+ },
+ "taylor ashton|lp": {
+  "date": "2026-11-06",
+  "precision": "day",
+  "sources": [
+   "https://birthdaycakerecords.com/products/charades",
+   "https://www.lovevinylrecords.com/products/taylor-ashton-presale-11-6-26-charades-laguna-blue-ecomix-vinyl-lp-new",
+   "https://www.horizonsmusic.co.uk/products/taylor-ashton-charades"
+  ],
+  "status": "released",
+  "note": "Nov. 11: The album is titled Charades (Birthday Cake Records), third solo LP. Label site, Love Vinyl and Horizons agree on Nov. 6, 2026. An artist TikTok said Nov. 9. Staged title \"LP\" should read Charades.",
+  "confirmed": true,
+  "checked_on": "2026-11-11",
+  "label": "Birthday Cake"
+ },
+ "layla kaylif|call of the yoni": {
+  "date": "2026-03-27",
+  "precision": "day",
+  "sources": [
+   "https://laylakaylif.bandcamp.com/album/call-of-the-yoni",
+   "https://korliblog.com/call-of-the-yoni-layla-kaylif-turns-the-album-into-something-spiritual/"
+  ],
+  "status": "released",
+  "note": "Nov. 11: Bandcamp and Korliblog agree on Mar. 27, 2026. AnalogueTrash credits Paper Garden Records; staged label says self-released. Seven tracks.",
+  "confirmed": true,
+  "checked_on": "2026-11-11",
+  "label": "Paper Garden Records"
+ },
+ "undercover dream lovers|atomic house": {
+  "date": "2026-03-20",
+  "precision": "day",
+  "sources": [
+   "https://www.frontview-magazine.be/en/news/the-undercover-dream-lovers-announce-new-album-atomic-house",
+   "https://setlistmedia.substack.com/p/album-review-the-undercover-dream"
+  ],
+  "status": "released",
+  "note": "Nov. 11: FrontView (announcement) and Setlist Media (review) agree on Mar. 20, 2026 (SoundOn). 14 songs. The Alternative Nation shows Feb. 6, which is the announcement date.",
+  "confirmed": true,
+  "checked_on": "2026-11-11",
+  "label": "SoundOn"
  }
 }

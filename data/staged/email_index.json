@@ -268,5 +268,13 @@
   "kind": "md_list_promo",
   "date": "2026-11-06",
   "subject": "Daily check Nov. 6: Outlook no Music Dept (\"New Music Filtering\", \"KZSU Music: Adds\"), Mark Mollineaux or chartman mail since Nov. 2. KZSU Gmail not checked (no connector in this session). No new items."
+ },
+ {
+  "date": "2026-11-09",
+  "subject": "Daily check Nov. 9 (Monday): Outlook no Music Dept, Mark or chartman mail since Nov. 2. KZSU Gmail (connector available this run): 2 md@ promos dated Nov. 5 (The Bird House \"Mo’ Sticks\" single, Taylor Ashton LP) added; Autumn Luz Moments (Nov. 2) already staged.",
+  "sender": "scan",
+  "uri": "",
+  "items_extracted": 2,
+  "kind": "md_list_promo"
  }
 ]
