@@ -1,9 +1,19 @@
 {
  "playlist": "New Releases for Review",
  "id": "PLIl7VQi0nzk0",
- "snapshot": "2026-11-10",
- "note": "Nov. 10 Tuesday full pass: 30 read (no deletes or adds by Stace), 6 expired and removed, 9 added; verified by reload: 33, newest on top. | Nov. 6 Friday refresh: 35 read (no deletes or adds by Stace), 12 expired and removed, 7 added; verified by reload: 30. | Oct. 30 1:30 p.m. catch-up: 3 adds (a wrong Factory Floor track, End, was removed and replaced with Continuation); verified by reload: 31 tracks.",
+ "snapshot": "2026-11-13",
+ "note": "Nov. 13 Friday full pass: 33 read (no deletes or adds by Stace), 11 expired and removed (Oct. 30 batch), 2 added (Royal Blood, Kim Deal); verified by API read: 24, newest on top. | Nov. 10 Tuesday full pass: 30 read (no deletes or adds by Stace), 6 expired and removed, 9 added; verified by reload: 33, newest on top. | Nov. 6 Friday refresh: 35 read (no deletes or adds by Stace), 12 expired and removed, 7 added; verified by reload: 30. | Oct. 30 1:30 p.m. catch-up: 3 adds (a wrong Factory Floor track, End, was removed and replaced with Continuation); verified by reload: 31 tracks.",
  "tracks": [
+  [
+   "Kim Deal",
+   "Nobody Loves You More (Live at the Barbican)",
+   "1lWtfVNEuk0"
+  ],
+  [
+   "Royal Blood",
+   "Mother Never Told You",
+   "uZH6zB2GHM4"
+  ],
   [
    "GracieHorse",
    "Roadside Assistance",
@@ -86,83 +96,28 @@
   ],
   [
    "Dutch Uncles",
-   "Dutch Uncles - No Note",
+   "No Note",
    "vp3oci4YtL0"
   ],
   [
    "Eric Harm",
-   "Eric Harm - Blood Stirred Up In Me",
+   "Blood Stirred Up In Me",
    "9GohiPQs2tg"
   ],
   [
    "Joshua Idehen",
-   "Joshua Idehen - SAY LESS (Official Video)",
+   "Say Less (Official Video)",
    "owv44Y-GB68"
   ],
   [
    "1000 Rabbits",
-   "1000 Rabbits - Stupid Boy",
+   "Stupid Boy (video upload)",
    "SsnAjvjxFZE"
   ],
   [
-   "oso oso",
+   "Oso Oso",
    "the facts",
    "z9JCrLlajTE"
-  ],
-  [
-   "Factory Floor",
-   "Continuation",
-   "V3LEMJalvpk"
-  ],
-  [
-   "Trinket",
-   "If Not Soon Then Now",
-   "iyOr8YBUxrA"
-  ],
-  [
-   "Wavves",
-   "We Get Around",
-   "TvDQUohO7_c"
-  ],
-  [
-   "THAO",
-   "Show Me",
-   "cVVxhTEoDTg"
-  ],
-  [
-   "Ex:Re",
-   "Frozen Aisle",
-   "yTqUC98zqNU"
-  ],
-  [
-   "Editors",
-   "The Hills We Died Upon",
-   "9tUu9SjKj7w"
-  ],
-  [
-   "2nd Grade",
-   "Anywhere Girls",
-   "fdfS5LDO_Wg"
-  ],
-  [
-   "Sam Burton",
-   "Fairweather Friend",
-   "I4Q0kEAEYgE"
-  ],
-  [
-   "The Big Moon",
-   "F.O.R.E.V.E.R",
-   "uRawjI1x6Bg"
-  ],
-  [
-   "Rocketship",
-   "Hurt Feelings",
-   "oTQgagKGhds"
-  ],
-  [
-   "Sennen",
-   "Something Made Me Think Of You",
-   "zikRXmDO7mk"
   ],
   [
    "The Flaming Lips",

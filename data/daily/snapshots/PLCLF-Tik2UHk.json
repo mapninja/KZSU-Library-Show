@@ -1,8 +1,8 @@
 {
  "playlist": "Stace's Weekly Playlist",
  "id": "PLCLF-Tik2UHk",
- "snapshot": "2026-11-10",
- "note": "Nov. 13 kzsu-thu-draft read: 204 rows via API (197 tracks plus the 7 YTM suggestion rows); no adds or deletes by Stace since Nov. 10. | Nov. 10 Tuesday full pass: read 188 (no Stace edits), added 9, verified by reload: 197. | Nov. 6 Friday sweep: read 171 (no Stace edits; Star Moles The End videoId swapped), added 17, verified by reload: 188. | Oct. 30 1:30 p.m. catch-up: Stace removed 87 tracks after the morning sweep; 4 adds; verified by reload: 163 tracks. | Nov. 5 read: 171 tracks, no adds or deletes by Stace since Nov. 3 (title-format differences only).",
+ "snapshot": "2026-11-13",
+ "note": "Nov. 13 Friday full pass (kzsu-radar-playlists, ran about 3 p.m.): read 197 (no Stace edits since Nov. 10), added 7, verified by API read: 204 videoIds, all 7 present. | Nov. 13 kzsu-thu-draft read: 204 rows via API (197 tracks plus the 7 YTM suggestion rows); no adds or deletes by Stace since Nov. 10. | Nov. 10 Tuesday full pass: read 188 (no Stace edits), added 9, verified by reload: 197. | Nov. 6 Friday sweep: read 171 (no Stace edits; Star Moles The End videoId swapped), added 17, verified by reload: 188. | Oct. 30 1:30 p.m. catch-up: Stace removed 87 tracks after the morning sweep; 4 adds; verified by reload: 163 tracks. | Nov. 5 read: 171 tracks, no adds or deletes by Stace since Nov. 3 (title-format differences only).",
  "tracks": [
   [
    "Dread Spectre Council",
@@ -988,6 +988,41 @@
    "GracieHorse",
    "Roadside Assistance",
    "kvG-uEHXWVE"
+  ],
+  [
+   "Land of Talk",
+   "Dogs",
+   "zv0OwxoyYlg"
+  ],
+  [
+   "Kim Deal",
+   "Nobody Loves You More (Live at the Barbican)",
+   "1lWtfVNEuk0"
+  ],
+  [
+   "Krill",
+   "Hawaii",
+   "fxVmpUl30H8"
+  ],
+  [
+   "The Mountain Goats",
+   "Shallow Grave",
+   "Cbg2Lsi27ic"
+  ],
+  [
+   "The Buttertones",
+   "Circus Rider",
+   "FybxQh3UOdg"
+  ],
+  [
+   "Buzzed Lightbeer",
+   "Cash Grab",
+   "z304Fme3FTU"
+  ],
+  [
+   "Royal Blood",
+   "Mother Never Told You",
+   "uZH6zB2GHM4"
   ]
  ]
 }
