@@ -88,3 +88,5 @@
 - 2026-11-06 (kzsu-thu-archive): Nov. 5 archive built. No Drive moves needed: Nov. 5 finals (FINAL script Word and PDF, Zookeeper CSV, working_playlist.md) were already in /KZSU/Archive/2026/11-05/. Archive playlist PLRveasHv3SKQ (44 spins, public). Stace sets the thumbnail by hand.
 
 - 2026-11-13 (kzsu-thu-night-draft): Show Prep: review_suggestions_2026-11-13.md added. No other Drive changes. Nov. 12 did not air and no Nov. 12 finals existed, so nothing moved to Archive/2026/11-12. No Notes Sheet or script built.
+
+- 2026-11-13 (kzsu-thu-draft, target Nov. 19): Show Prep gained the DRAFT script (Word and PDF, 43 tracks, 2:48), Notes Sheet (Sheet id 1EjT9yL6NxxUgHbU7VUesjZBunSRlTS8T3voFU7Hcvnk), working_playlist_2026-11-19.md. Working gained the draft forward Zookeeper CSV and notes_sheet CSV. Nothing retired or moved. Nov. 12 drafts left in place (show did not air).

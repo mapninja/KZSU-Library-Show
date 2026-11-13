@@ -394,6 +394,39 @@
    "working": "library_show_playlist_2026-11-05.csv at /KZSU/ top level and Working/",
    "retired": [],
    "note": "Reversed order: 67 tracks plus 14 blank mic-break rows (81 lines). First row Fade Into You, last row The Hills We Died Upon. FCC-held Car Seat Headrest is excluded."
+  },
+  "draft_notes_sheet_2026-11-19": {
+   "id": "1EjT9yL6NxxUgHbU7VUesjZBunSRlTS8T3voFU7Hcvnk",
+   "type": "sheet",
+   "folder": "Show Prep",
+   "deployed": "2026-11-13T23:17Z",
+   "working": "Working/notes_sheet_2026-11-19.csv",
+   "retired": [],
+   "note": "kzsu-thu-draft Nov. 13; 43 tracks; Cull and Replace columns empty"
+  },
+  "working_show_script_2026-11-19": {
+   "id": null,
+   "type": "docx+pdf (raw files)",
+   "folder": "Show Prep",
+   "deployed": "2026-11-13T23:20Z",
+   "working": "Library Show Script 2026-11-19 (DRAFT).docx and .pdf in /KZSU/Show Prep/ and repo outputs/recon/2026-11-19/",
+   "retired": []
+  },
+  "zookeeper_csv_2026-11-19_draft": {
+   "id": null,
+   "type": "csv-raw",
+   "folder": "Working",
+   "deployed": "2026-11-13T23:20Z",
+   "working": "Working/library_show_playlist_2026-11-19.csv",
+   "retired": [],
+   "note": "Draft, FORWARD order: 43 tracks plus 8 blank mic-break rows. First row Wavves Layover in Dublin (FCC unverified), last row J Mascis Fade Into You."
+  },
+  "working_playlist_md_2026-11-19": {
+   "id": null,
+   "type": "md-raw",
+   "folder": "Show Prep",
+   "deployed": "2026-11-13T23:20Z",
+   "working": "working_playlist_2026-11-19.md in /KZSU/Show Prep/"
   }
  },
  "folders": {

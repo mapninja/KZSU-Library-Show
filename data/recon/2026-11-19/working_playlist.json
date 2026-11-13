@@ -1,7 +1,7 @@
 {
  "show_date": "2026-11-19",
  "name": "DJ Stace library show working",
- "note": "Thursday-night draft built Fri. Nov. 13, 2026 (kzsu-thu-night-draft, ran late; target = next Thursday). The Nov. 12 show did not air: Zookeeper shows Zootopia (Team KZSU, show 58672, 1800-2300) and no Library log under airname 1428 (see outputs/health/2026-11-13.md). This plan carries over the unaired Nov. 12 plan with the time-sensitive parts refreshed: new releases out Nov. 13 (Wavves, Land of Talk), Triple Shot moved from Neil Young to Kim Deal (Live at the Barbican, 4AD, Nov. 13), Beastie Boys anniversary (Nov. 15), Bay Area feed rebuilt for Nov. 19 on (data/shows/plan_feed_2026-11-19.json). Release dates marked verify have one source. Sources: WebSearch roundups for Nov. 13 (NPR, Radio Milwaukee, The Indy Review), Dork, Saddle Creek, BroadwayWorld and Wikipedia for Land of Talk and Wavves, Far Out, Dork and Bandcamp for Kim Deal, Zookeeper (library tags and label table), Genius in the browser (FCC counts only). Alreadyheard.com returned a Cloudflare page; not retried.",
+ "note": "Thursday-night draft built Fri. Nov. 13, 2026 (kzsu-thu-night-draft, ran late; target = next Thursday). The Nov. 12 show did not air: Zookeeper shows Zootopia (Team KZSU, show 58672, 1800-2300) and no Library log under airname 1428 (see outputs/health/2026-11-13.md). This plan carries over the unaired Nov. 12 plan with the time-sensitive parts refreshed: new releases out Nov. 13 (Wavves, Land of Talk), Triple Shot moved from Neil Young to Kim Deal (Live at the Barbican, 4AD, Nov. 13), Beastie Boys anniversary (Nov. 15), Bay Area feed rebuilt for Nov. 19 on (data/shows/plan_feed_2026-11-19.json). Release dates marked verify have one source. Sources: WebSearch roundups for Nov. 13 (NPR, Radio Milwaukee, The Indy Review), Dork, Saddle Creek, BroadwayWorld and Wikipedia for Land of Talk and Wavves, Far Out, Dork and Bandcamp for Kim Deal, Zookeeper (library tags and label table), Genius in the browser (FCC counts only). Alreadyheard.com returned a Cloudflare page; not retried. Nov. 13 kzsu-thu-draft added 6 Stace adds from Next Show (TV Priest, Death Valley Girls, Sweeping Promises, Lous and The Yakuza and Suki Waterhouse, Waxahatchee, MJ Lenderman) and benched Little Barrie Free Salute. Genius screened them clean; credits and related bands are filled only where a source named them.",
  "ytm_air_order": {
   "name": "01 KZSU - Air Order",
   "id": "PLSosF7JAIkaM",
@@ -140,6 +140,28 @@
      "videoId": "BJTHwRbdBTM",
      "related": "",
      "notes": "Title track Doom Country needs an edit (fuck x2, verse)."
+    },
+    {
+     "artist": "TV Priest",
+     "track": "The Mud Never Dries",
+     "album": "Cartoons",
+     "label": "AMK / Kartel Music Group (verify)",
+     "label_source": "web: Bandcamp, Rough Trade, That Eric Alper; not in ZK label table, album not in library",
+     "tag": "",
+     "released": "2026-11-06",
+     "type": "album track (lead single)",
+     "upcoming": "",
+     "duration": "3:18",
+     "priority": "R",
+     "why": "Stace added the whole Cartoons album to Next Show (Nov. 6). Third TV Priest album, out Nov. 6. Lead single.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, no FCC words, Nov. 13)",
+     "source": "added_by_stace",
+     "videoId": "5WHRuzpERLo",
+     "related": "London post-punk band; earlier albums Uppers (2021) and My Other People (2022)",
+     "credits": "",
+     "notes": "Third TV Priest album, out Nov. 6. First after a lineup change. Other Cartoons tracks are on Next Show if she wants a different one.",
+     "added_by": "DJ Stace"
     }
    ]
   },
@@ -231,7 +253,7 @@
      "source": "weekly playlist",
      "videoId": "7YE22jSxuds",
      "related": "London band",
-     "notes": ""
+     "notes": "London post-hardcore band. Punk focus. Label and release date still unsourced."
     }
    ]
   },
@@ -296,7 +318,7 @@
      "source": "recon (anniversary)",
      "videoId": "f7j4s2FURH8",
      "related": "",
-     "notes": ""
+     "notes": "Cohen died Nov. 7, 2016. You Want It Darker came out Oct. 21, 2016. Last aired Apr. 10, 2024."
     },
     {
      "artist": "Beastie Boys",
@@ -346,7 +368,7 @@
      "source": "bench (Nov. 5 plan)",
      "videoId": "yTqUC98zqNU",
      "related": "",
-     "notes": ""
+     "notes": "Out Oct. 30 on 4AD. Alternate to Radio Station."
     },
     {
      "artist": "DIIV",
@@ -366,7 +388,7 @@
      "source": "bench (Nov. 5 plan)",
      "videoId": "8r5FOvgLsiE",
      "related": "",
-     "notes": ""
+     "notes": "ZIRP! is out Oct. 30 on Fantasy. Trillions has an FCC word, so this track stands in."
     },
     {
      "artist": "Toner",
@@ -386,7 +408,7 @@
      "source": "bench (Nov. 5 plan)",
      "videoId": "NdTZKjWVLgE",
      "related": "",
-     "notes": ""
+     "notes": "Out Oct. 30. Single source (indieisnotagenre)."
     },
     {
      "artist": "THAO",
@@ -546,7 +568,7 @@
      "source": "review rotation",
      "videoId": "xSQw3xCMIAw",
      "related": "",
-     "notes": ""
+     "notes": "Florida Water Blues, reviewed Oct. 4. Week 6 of rotation. Review lists FCC on 1, 5, 7, 9, 10, 12 only."
     },
     {
      "artist": "Dread Spectre Council",
@@ -566,7 +588,7 @@
      "source": "review rotation",
      "videoId": "6H4LtyVuOtc",
      "related": "",
-     "notes": ""
+     "notes": "Thetans, reviewed Oct. 4. Bandcamp focus track. No lyrics posted; listen first."
     },
     {
      "artist": "Little Barrie",
@@ -586,7 +608,7 @@
      "source": "review rotation",
      "videoId": "L-eIlKS1xhE",
      "related": "",
-     "notes": ""
+     "notes": "Gravity Freeze, reviewed Oct. 4. Not aired yet."
     },
     {
      "artist": "Sluice",
@@ -606,7 +628,7 @@
      "source": "review rotation",
      "videoId": "15NFrh3OSmc",
      "related": "",
-     "notes": ""
+     "notes": "Companion, reviewed Oct. 4. Review lists FCC on 3, 4, 6, 10 only."
     },
     {
      "artist": "Tricky",
@@ -626,7 +648,7 @@
      "source": "review rotation",
      "videoId": "xXYOu1iHEzg",
      "related": "",
-     "notes": ""
+     "notes": "Different When It's Silent, reviewed Oct. 4. Review lists FCC on 6 and 10 only."
     }
    ]
   },
@@ -671,7 +693,7 @@
      "source": "weekly playlist",
      "videoId": "0BonOLZPCl0",
      "related": "",
-     "notes": ""
+     "notes": "In the Weekly Playlist."
     },
     {
      "artist": "Nilüfer Yanya",
@@ -691,7 +713,7 @@
      "source": "weekly playlist",
      "videoId": "E_LiLwsfhV8",
      "related": "",
-     "notes": ""
+     "notes": "In the Weekly Playlist."
     },
     {
      "artist": "Twin Peaks",
@@ -711,7 +733,7 @@
      "source": "weekly playlist",
      "videoId": "adRswyRcJmM",
      "related": "",
-     "notes": ""
+     "notes": "In the Weekly Playlist."
     },
     {
      "artist": "Frankie and the Witch Fingers",
@@ -731,7 +753,7 @@
      "source": "weekly playlist",
      "videoId": "MHCK_yst0yY",
      "related": "",
-     "notes": ""
+     "notes": "In the Weekly Playlist."
     },
     {
      "artist": "Dead Meadow",
@@ -751,7 +773,7 @@
      "source": "weekly playlist",
      "videoId": "dXVE5NZl6G4",
      "related": "",
-     "notes": ""
+     "notes": "In the Weekly Playlist."
     },
     {
      "artist": "Radio Free Alice",
@@ -771,7 +793,117 @@
      "source": "weekly playlist",
      "videoId": "jef6-SwnwEY",
      "related": "",
-     "notes": ""
+     "notes": "In the Weekly Playlist."
+    },
+    {
+     "artist": "Death Valley Girls",
+     "track": "Sing For Yourself",
+     "album": "Welcome to Earth",
+     "label": "Suicide Squeeze Records",
+     "label_source": "zookeeper label table 8426; album not in library",
+     "tag": "",
+     "released": "2026-10-09",
+     "type": "album track",
+     "upcoming": "",
+     "duration": "3:46",
+     "priority": "R",
+     "why": "Stace added to Next Show (Nov. 13). Welcome to Earth is out Oct. 9 on Suicide Squeeze.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, no FCC words, Nov. 13)",
+     "source": "added_by_stace",
+     "videoId": "Ir7b6x5XfpM",
+     "related": "Bonnie Bloomgarden; Gregg Foreman (keyboards)",
+     "credits": "Mark Rains and Bonnie Bloomgarden (Bandcamp credits, 2026)",
+     "notes": "Record was inspired by Bloomgarden losing her Altadena home in the 2025 Eaton Fire. Last recordings with keyboardist Gregg Foreman.",
+     "added_by": "DJ Stace"
+    },
+    {
+     "artist": "Sweeping Promises",
+     "track": "Cocoon",
+     "album": "You Say I Romanticize",
+     "label": "Sub Pop Records",
+     "label_source": "zookeeper label table 3124; album not in library",
+     "tag": "",
+     "released": "2026-08-14",
+     "type": "album track",
+     "upcoming": "",
+     "duration": "2:55",
+     "priority": "R",
+     "why": "Stace added to Next Show (Nov. 13). Third album, out Aug. 14 on Sub Pop. Her Pain Without a Touch is in the Weekly Playlist.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, no FCC words, Nov. 13)",
+     "source": "added_by_stace",
+     "videoId": "UoBEFx1r4tk",
+     "related": "",
+     "credits": "",
+     "notes": "Third album, recorded over 18 months at the duo's studio in Kansas (Sub Pop).",
+     "added_by": "DJ Stace"
+    },
+    {
+     "artist": "Lous and The Yakuza & Suki Waterhouse",
+     "track": "Close my eyes",
+     "album": "Close my eyes (single)",
+     "label": "",
+     "label_source": "unverified: no label named in Apple, Amazon, EarOne or press",
+     "tag": "",
+     "released": "2026-10-23",
+     "type": "single",
+     "upcoming": "",
+     "duration": "3:47",
+     "priority": "R",
+     "why": "Stace added to Next Show (Nov. 13). Digital Oct. 23, radio from Nov. 6 (Italian press, Apple Music, Amazon).",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, no FCC words, Nov. 13)",
+     "source": "added_by_stace",
+     "videoId": "vCxm3T4LinE",
+     "related": "Suki Waterhouse (guest)",
+     "credits": "",
+     "notes": "Ballad. Radio push began Nov. 6. Label not found; fill in at the studio.",
+     "added_by": "DJ Stace"
+    },
+    {
+     "artist": "Waxahatchee",
+     "track": "Right Back to It (feat. MJ Lenderman)",
+     "album": "Tigers Blood",
+     "label": "Anti-",
+     "label_source": "zookeeper label table 12142; album not in library",
+     "tag": "",
+     "released": "2024-01-09",
+     "type": "album track (lead single)",
+     "upcoming": "",
+     "duration": "4:34",
+     "priority": "R",
+     "why": "Stace added to Next Show (Nov. 13). Lead single from Tigers Blood, Anti-, Jan. 9, 2024.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, no FCC words, Nov. 13)",
+     "source": "added_by_stace",
+     "videoId": "O6-d7i31UFc",
+     "related": "Snocaps (with MJ Lenderman, Anti-, 2025)",
+     "credits": "",
+     "notes": "Waxahatchee and Lenderman co-headlined a spring 2026 tour. Pairs with Lenderman's track in this set.",
+     "added_by": "DJ Stace"
+    },
+    {
+     "artist": "MJ Lenderman",
+     "track": "You Are Every Girl to Me",
+     "album": "Boat Songs",
+     "label": "Dear Life Records",
+     "label_source": "zookeeper label table 22144; album not in library",
+     "tag": "",
+     "released": "2022",
+     "type": "album track",
+     "upcoming": "",
+     "duration": "3:51",
+     "priority": "R",
+     "why": "Stace added to Next Show (Nov. 13). From Boat Songs (2022). She also added She's Leaving You to the Air Order Oct. 15.",
+     "fcc_status": "CLEAN",
+     "fcc_note": "CLEAN (Genius, no FCC words, Nov. 13)",
+     "source": "added_by_stace",
+     "videoId": "OTMSMgpGEwE",
+     "related": "",
+     "credits": "MJ Lenderman with Alex Farrar and Colin Miller; recorded and mixed by Farrar at Drop of Sun, Asheville (Bandcamp, 2022)",
+     "notes": "Track 8 on Boat Songs. Guitars by Alex Farrar and Lewis Dahm.",
+     "added_by": "DJ Stace"
     }
    ]
   },
@@ -796,7 +928,7 @@
      "source": "carried (DJ Stace add)",
      "videoId": "92Nkrav2-Aw",
      "related": "",
-     "notes": ""
+     "notes": "Stace added it. Did not air Nov. 5."
     },
     {
      "artist": "Chris Cornell",
@@ -816,7 +948,7 @@
      "source": "carried (Next Show add)",
      "videoId": "1DnSiznUrVI",
      "related": "",
-     "notes": ""
+     "notes": "Next Show add. Did not air Nov. 5."
     },
     {
      "artist": "J Mascis",
@@ -836,7 +968,7 @@
      "source": "carried (DJ Stace add)",
      "videoId": "iBapsQ14yhc",
      "related": "",
-     "notes": ""
+     "notes": "Stace added it. Did not air Nov. 5."
     }
    ]
   }
@@ -998,7 +1130,7 @@
    "Tonight: new from Wavves and Land of Talk, Kim Deal live at the Barbican, 50 years of Tom Petty, 40 years of Licensed to Ill."
   ],
   "after_set_1": [
-   "Wavves: Cherry Soda, out Nov. 13 on I Surrender and Bose. Land of Talk: LASTS on Saddle Creek, out Nov. 13. Twisted Teens: The Holy Cross Tigers on Sub Pop. oso oso and Hudson Freeman, both out Nov. 6."
+   "Wavves: Cherry Soda, out Nov. 13 on I Surrender and Bose. Land of Talk: LASTS on Saddle Creek, out Nov. 13. Twisted Teens: The Holy Cross Tigers on Sub Pop. oso oso and Hudson Freeman, both out Nov. 6. TV Priest: Cartoons, out Nov. 6 on AMK and Kartel Music Group (verify)."
   ],
   "after_set_2": [
    "35 years of The Clash The Singles on Nov. 13, 1991 (verify). Television, Marquee Moon, 1977."
@@ -1560,6 +1692,28 @@
    "related": "The Chrome Hearts (second album together)",
    "notes": "Title track Second Song runs 11:21.",
    "bench_reason": "Neil Young Triple Shot planned for Nov. 12 never aired (birthday Nov. 12 passed). Reusable on another angle."
+  },
+  {
+   "artist": "Little Barrie",
+   "track": "Free Salute",
+   "album": "We Are Little Barrie",
+   "label": "Genuine Records (verify)",
+   "label_source": "web; ZK has the artist (Gravity Freeze) but not this album",
+   "tag": "",
+   "released": "2005",
+   "type": "album track",
+   "upcoming": "",
+   "duration": "3:52",
+   "priority": "R",
+   "why": "Stace added to Next Show (Nov. 13). Bench because Little Barrie Gravity Freeze already plays in Set 7.",
+   "fcc_status": "UNVERIFIED",
+   "fcc_note": "UNVERIFIED (not screened Nov. 13)",
+   "source": "added_by_stace",
+   "videoId": "B5XkbWXuD2c",
+   "related": "",
+   "credits": "",
+   "notes": "Debut-era track (YTM lists We Are Little Barrie, 2005). Swap in for Talk It Up if she prefers.",
+   "added_by": "DJ Stace"
   }
  ],
  "review_rotation": {
@@ -1612,5 +1766,5 @@
   "2": "7 to 8 p.m., The Library"
  },
  "target_label": "Thursday Nov. 19, 2026, 6 to 8 p.m. PT",
- "show_length": "2 hours; 37 tracks, 2:26 of music (Hour 1 1:11, Hour 2 1:14). Stace culls about 30 minutes."
+ "show_length": "2 hours; 43 tracks, 2:48 of music (Hour 1 1:15, Hour 2 1:33). Stace culls about 30 minutes or more; the six Next Show adds were not yet culled."
 }
