@@ -23,7 +23,12 @@
   },
   {
    "date": "2026-11-12",
-   "artist": "Neil Young"
+   "artist": "Neil Young",
+   "note": "planned, show did not air"
+  },
+  {
+   "date": "2026-11-19",
+   "artist": "Kim Deal"
   }
  ]
 }

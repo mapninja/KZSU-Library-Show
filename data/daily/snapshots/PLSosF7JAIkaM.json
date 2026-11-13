@@ -1,223 +1,198 @@
 {
- "playlist": "01 KZSU - Air Order",
- "id": "PLSosF7JAIkaM",
- "snapshot": "2026-11-06",
- "note": "Nov. 6 Thursday-night draft for Nov. 12 (kzsu-thu-night-draft): removed 43 aired or stale rows, added 39, moved 4 to the end; 43 tracks = 42 plan tracks plus Stace's Car Seat Headrest add at the end. Verified by fresh read of the playlist.",
- "tracks": [
-  [
-   "Twisted Teens",
-   "Armed With A Vision",
-   "u1uPQ56akBU"
-  ],
-  [
-   "oso oso",
-   "the facts",
-   "z9JCrLlajTE"
-  ],
-  [
-   "Chastity Belt",
-   "Friends for This",
-   "dPra67xcS-A"
-  ],
-  [
-   "Hudson Freeman",
-   "I-40",
-   "BJTHwRbdBTM"
-  ],
-  [
-   "2nd Grade",
-   "Anywhere Girls",
-   "fdfS5LDO_Wg"
-  ],
-  [
-   "The Clash",
-   "(White Man) in Hammersmith Palais",
-   "zI4SDH9BdD4"
-  ],
-  [
-   "The Clash",
-   "Complete Control",
-   "u6ZWV7cCK5A"
-  ],
-  [
-   "High Vis",
-   "Guided Tour",
-   "7YE22jSxuds"
-  ],
-  [
-   "Tom Petty & The Heartbreakers",
-   "Breakdown",
-   "TmDgfRWBAGc"
-  ],
-  [
-   "Led Zeppelin",
-   "Going to California",
-   "PDIz4talyQk"
-  ],
-  [
-   "Kate Bush",
-   "Experiment IV",
-   "_xACR3Lni08"
-  ],
-  [
-   "Leonard Cohen",
-   "You Want It Darker",
-   "f7j4s2FURH8"
-  ],
-  [
-   "Ex:Re",
-   "Frozen Aisle",
-   "yTqUC98zqNU"
-  ],
-  [
-   "Sennen",
-   "Something Made Me Think Of You",
-   "zikRXmDO7mk"
-  ],
-  [
-   "The Big Moon",
-   "F.O.R.E.V.E.R",
-   "uRawjI1x6Bg"
-  ],
-  [
-   "DIIV",
-   "When The Glow Came For Us",
-   "8r5FOvgLsiE"
-  ],
-  [
-   "Toner",
-   "Slidin' Down the Razor",
-   "NdTZKjWVLgE"
-  ],
-  [
-   "THAO",
-   "Show Me",
-   "cVVxhTEoDTg"
-  ],
-  [
-   "Editors",
-   "Surface, Echo & Sound",
-   "sHlg7rg5Iqw"
-  ],
-  [
-   "Nick Cave & The Bad Seeds",
-   "Jubilee Street",
-   "jCGyhMyH2GE"
-  ],
-  [
-   "Buffalo Springfield",
-   "Mr. Soul",
-   "jyc0JSd5q7U"
-  ],
-  [
-   "Neil Young & Crazy Horse",
-   "Cinnamon Girl",
-   "jREf47BPe5w"
-  ],
-  [
-   "Neil Young & The Chrome Hearts",
-   "I'll Love You Forever",
-   "vR2gQ7Dao7I"
-  ],
-  [
-   "Jon Spencer",
-   "Orange Slice Blues",
-   "W5kvT54sSEw"
-  ],
-  [
-   "The Mountain Goats",
-   "Charlie Sheen Reaches Out to the Feds",
-   "sjWfBJWECNg"
-  ],
-  [
-   "Twisted Teens",
-   "Swamp",
-   "xSQw3xCMIAw"
-  ],
-  [
-   "Dread Spectre Council",
-   "Spiderette",
-   "6H4LtyVuOtc"
-  ],
-  [
-   "Little Barrie",
-   "Talk It Up Like It's Wanted",
-   "L-eIlKS1xhE"
-  ],
-  [
-   "Sluice",
-   "Ratchet Strap",
-   "15NFrh3OSmc"
-  ],
-  [
-   "Tricky",
-   "I'm Yours",
-   "xXYOu1iHEzg"
-  ],
-  [
-   "Lael Neale",
-   "Slip Away",
-   "2197T1duhPc"
-  ],
-  [
-   "Twisted Teens",
-   "I Spend My Time Crying",
-   "xm6OkFDYdtw"
-  ],
-  [
-   "Mdou Moctar",
-   "Funeral for Justice",
-   "0BonOLZPCl0"
-  ],
-  [
-   "Nilüfer Yanya",
-   "midnight sun",
-   "E_LiLwsfhV8"
-  ],
-  [
-   "Twin Peaks",
-   "Walk to the One You Love",
-   "adRswyRcJmM"
-  ],
-  [
-   "Gilla Band",
-   "The Gum",
-   "UKY1cs3a4lU"
-  ],
-  [
-   "Frankie and the Witch Fingers",
-   "Burn Me Down",
-   "MHCK_yst0yY"
-  ],
-  [
-   "Dead Meadow",
-   "Everything's Goin On",
-   "dXVE5NZl6G4"
-  ],
-  [
-   "Radio Free Alice",
-   "Lunch Money",
-   "jef6-SwnwEY"
-  ],
-  [
-   "Galaxie 500",
-   "Ceremony",
-   "92Nkrav2-Aw"
-  ],
-  [
-   "Chris Cornell",
-   "Seasons",
-   "1DnSiznUrVI"
-  ],
-  [
-   "J Mascis",
-   "Fade Into You",
-   "iBapsQ14yhc"
-  ],
-  [
-   "Car Seat Headrest",
-   "Drunk Drivers/Killer Whales (Single Version)",
-   "xWRUeNhDwMA"
-  ]
- ]
+"playlist": "01 KZSU - Air Order",
+"id": "PLSosF7JAIkaM",
+"snapshot": "2026-11-13",
+"note": "Nov. 13 read before edits: 39 rows. Stace had cut 6 (Chastity Belt, 2nd Grade, Clash Complete Control, Sennen, The Big Moon, Gilla Band) and added Television Marquee Moon and The Cult She Sells Sanctuary since Nov. 6. Nov. 13 Thursday-night draft for Nov. 19 (kzsu-thu-night-draft): removed 8 stale rows, added 7, 12 moves; 38 rows = 37 plan tracks plus Car Seat Headrest at the end. Verified by fresh read. | Nov. 6 read: 47 tracks, no change since Nov. 5. Read only. | Nov. 6 Thursday-night draft for Nov. 12 (kzsu-thu-night-draft): removed 43 aired or stale rows, added 39, moved 4 to the end; 43 tracks = 42 plan tracks plus Stace's Car Seat Headrest add at the end. Verified by fresh read of the playlist.",
+"tracks": [
+[
+"Wavves",
+"Layover in Dublin",
+"1aCuXqR8Xqc"
+],
+[
+"Land of Talk",
+"4:44",
+"xstegGr1dWo"
+],
+[
+"Twisted Teens",
+"Armed With A Vision",
+"u1uPQ56akBU"
+],
+[
+"oso oso",
+"the facts",
+"z9JCrLlajTE"
+],
+[
+"Hudson Freeman",
+"I-40",
+"BJTHwRbdBTM"
+],
+[
+"The Clash",
+"(White Man) in Hammersmith Palais",
+"zI4SDH9BdD4"
+],
+[
+"Television",
+"Marquee Moon",
+"g4myghLPLZc"
+],
+[
+"The Cult",
+"She Sells Sanctuary",
+"cQS4TzB0EvU"
+],
+[
+"High Vis",
+"Guided Tour",
+"7YE22jSxuds"
+],
+[
+"Tom Petty & The Heartbreakers",
+"Breakdown",
+"TmDgfRWBAGc"
+],
+[
+"Kate Bush",
+"Experiment IV",
+"_xACR3Lni08"
+],
+[
+"Leonard Cohen",
+"You Want It Darker",
+"f7j4s2FURH8"
+],
+[
+"Beastie Boys",
+"Fight for Your Right",
+"pYoN9OraOWM"
+],
+[
+"Ex:Re",
+"Frozen Aisle",
+"yTqUC98zqNU"
+],
+[
+"DIIV",
+"When The Glow Came For Us",
+"8r5FOvgLsiE"
+],
+[
+"Toner",
+"Slidin' Down the Razor",
+"NdTZKjWVLgE"
+],
+[
+"THAO",
+"Show Me",
+"cVVxhTEoDTg"
+],
+[
+"Pixies",
+"Gigantic",
+"BdR-XpNNwDM"
+],
+[
+"The Breeders",
+"Cannonball",
+"ljQprvTZtJQ"
+],
+[
+"Kim Deal",
+"Nobody Loves You More",
+"yVpyOA-Uv8Q"
+],
+[
+"The Mountain Goats",
+"Charlie Sheen Reaches Out to the Feds",
+"sjWfBJWECNg"
+],
+[
+"The English Beat",
+"Mirror in the Bathroom",
+"W_svsNc6seE"
+],
+[
+"Twisted Teens",
+"Swamp",
+"xSQw3xCMIAw"
+],
+[
+"Dread Spectre Council",
+"Spiderette",
+"6H4LtyVuOtc"
+],
+[
+"Little Barrie",
+"Talk It Up Like It's Wanted",
+"L-eIlKS1xhE"
+],
+[
+"Sluice",
+"Ratchet Strap",
+"15NFrh3OSmc"
+],
+[
+"Tricky",
+"I'm Yours",
+"xXYOu1iHEzg"
+],
+[
+"Lael Neale",
+"Slip Away",
+"2197T1duhPc"
+],
+[
+"Mdou Moctar",
+"Funeral for Justice",
+"0BonOLZPCl0"
+],
+[
+"Nilüfer Yanya",
+"midnight sun",
+"E_LiLwsfhV8"
+],
+[
+"Twin Peaks",
+"Walk to the One You Love",
+"adRswyRcJmM"
+],
+[
+"Frankie and the Witch Fingers",
+"Burn Me Down",
+"MHCK_yst0yY"
+],
+[
+"Dead Meadow",
+"Everything's Goin On",
+"dXVE5NZl6G4"
+],
+[
+"Radio Free Alice",
+"Lunch Money",
+"jef6-SwnwEY"
+],
+[
+"Galaxie 500",
+"Ceremony",
+"92Nkrav2-Aw"
+],
+[
+"Chris Cornell",
+"Seasons",
+"1DnSiznUrVI"
+],
+[
+"J Mascis",
+"Fade Into You",
+"iBapsQ14yhc"
+],
+[
+"Car Seat Headrest",
+"Drunk Drivers/Killer Whales (Single Version)",
+"xWRUeNhDwMA"
+]
+]
 }

@@ -86,3 +86,5 @@
 - 2026-11-05 (2:25 p.m., on request): FINAL show script (Word and PDF, 15 pages, 67 tracks, 4:11:53, Hour 1 to 3 bands) and Zookeeper CSV placed at /KZSU/ top level; working_playlist.md at top level refreshed. DRAFT script files moved from Show Prep to _to_delete. A stale 2-hour 'Library Show Final Show Script (Landscape Tables)' pair that appeared at top level at 1:43 p.m. (from a concurrent run) moved to _to_delete. Set names for Hours 2 and 3 repaired in the plan after a concurrent write reverted them.
 
 - 2026-11-06 (kzsu-thu-archive): Nov. 5 archive built. No Drive moves needed: Nov. 5 finals (FINAL script Word and PDF, Zookeeper CSV, working_playlist.md) were already in /KZSU/Archive/2026/11-05/. Archive playlist PLRveasHv3SKQ (44 spins, public). Stace sets the thumbnail by hand.
+
+- 2026-11-13 (kzsu-thu-night-draft): Show Prep: review_suggestions_2026-11-13.md added. No other Drive changes. Nov. 12 did not air and no Nov. 12 finals existed, so nothing moved to Archive/2026/11-12. No Notes Sheet or script built.

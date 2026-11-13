@@ -1383,6 +1383,60 @@
    "videoId": "4DUkHIl7D1E",
    "note": "Stace deleted it from Air Order between the 11:20 a.m. and 1:45 p.m. reads.",
    "cooloff_until": "2027-01-04"
+  },
+  {
+   "date": "2026-11-13",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Chastity Belt",
+   "title": "Friends for This",
+   "videoId": "dPra67xcS-A",
+   "cooloff_until": "2027-01-12",
+   "note": "Cut between Nov. 6 and Nov. 13 per the written rule (deletion = not interested now). Stace may reclassify as a length cull."
+  },
+  {
+   "date": "2026-11-13",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "2nd Grade",
+   "title": "Anywhere Girls",
+   "videoId": "fdfS5LDO_Wg",
+   "cooloff_until": "2027-01-12",
+   "note": "Cut between Nov. 6 and Nov. 13 per the written rule (deletion = not interested now). Stace may reclassify as a length cull."
+  },
+  {
+   "date": "2026-11-13",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "The Clash",
+   "title": "Complete Control",
+   "videoId": "u6ZWV7cCK5A",
+   "cooloff_until": "2027-01-12",
+   "note": "Cut between Nov. 6 and Nov. 13 per the written rule (deletion = not interested now). Stace may reclassify as a length cull."
+  },
+  {
+   "date": "2026-11-13",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Sennen",
+   "title": "Something Made Me Think Of You",
+   "videoId": "zikRXmDO7mk",
+   "cooloff_until": "2027-01-12",
+   "note": "Cut between Nov. 6 and Nov. 13 per the written rule (deletion = not interested now). Stace may reclassify as a length cull."
+  },
+  {
+   "date": "2026-11-13",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "The Big Moon",
+   "title": "F.O.R.E.V.E.R",
+   "videoId": "uRawjI1x6Bg",
+   "cooloff_until": "2027-01-12",
+   "note": "Cut between Nov. 6 and Nov. 13 per the written rule (deletion = not interested now). Stace may reclassify as a length cull."
+  },
+  {
+   "date": "2026-11-13",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Gilla Band",
+   "title": "The Gum",
+   "videoId": "UKY1cs3a4lU",
+   "cooloff_until": "2027-01-12",
+   "note": "Cut between Nov. 6 and Nov. 13 per the written rule (deletion = not interested now). Stace may reclassify as a length cull."
   }
  ],
  "added_by_stace": [
@@ -2266,6 +2320,30 @@
    "videoId": "pCHfn8yYhF4",
    "note": "Whole album added to Next Show between the 9:35 and 10:30 a.m. reads. Newer than her Oct. 13 delete of Cartoons from New Releases for Review (cool-off to Dec. 15); treat TV Priest as a positive signal.",
    "source_playlist": "01 KZSU - Next Show (PLMduzOohHQLrQzt6w4ep6l2zAwcIzoZVF)"
+  },
+  {
+   "date": "2026-11-13",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "Television",
+   "title": "Marquee Moon",
+   "album": "Marquee Moon",
+   "videoId": "g4myghLPLZc",
+   "position": "Air Order",
+   "set": "Hour 1, Set 2",
+   "label": "Elektra Records (West Coast)",
+   "tag": "400857"
+  },
+  {
+   "date": "2026-11-13",
+   "source_playlist": "Air Order (PLSosF7JAIkaM)",
+   "artist": "The Cult",
+   "title": "She Sells Sanctuary",
+   "album": "Love",
+   "videoId": "cQS4TzB0EvU",
+   "position": "Air Order",
+   "set": "Hour 1, Set 2",
+   "label": "Sire Records",
+   "tag": ""
   }
  ],
  "kept": [],
@@ -2374,7 +2452,13 @@
   "Axis: Sova": 1,
   "ameokama": 1,
   "Caroline Rose": 1,
-  "Coil": 1
+  "Coil": 1,
+  "Chastity Belt": 1,
+  "2nd Grade": 1,
+  "The Clash": 1,
+  "Sennen": 1,
+  "The Big Moon": 1,
+  "Gilla Band": 1
  },
  "not_aired": [
   {
