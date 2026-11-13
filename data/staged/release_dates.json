@@ -2743,16 +2743,17 @@
   "label": "Self-released"
  },
  "lovetempo|by your side": {
-  "date": "",
-  "precision": "",
+  "date": "2026-04-17",
+  "precision": "day",
   "sources": [
-   "https://itslovetempo.bandcamp.com/album/there-is-a-light"
+   "https://itslovetempo.bandcamp.com/album/there-is-a-light",
+   "https://music.amazon.com/artists/B0BNR3Y9PW/lovetempo"
   ],
-  "status": "single, date not found",
-  "note": "On the album There Is A Light, released Apr. 17, 2026 per Bandcamp. No standalone single date found. Oct. 29 recheck: no new source.",
-  "label": "Self-released",
+  "status": "released",
+  "note": "Nov. 13: Track 9 on There Is A Light (Apr. 17, 2026). No standalone single date found. A remix by LEONG is on There Is A Light Remixes (Bandcamp lists Oct. 9, 2026). Left unconfirmed as a single date.",
   "confirmed": false,
-  "checked_on": "2026-10-29"
+  "checked_on": "2026-11-13",
+  "label": "Self-released"
  },
  "selah sue the gallands|movin": {
   "date": "2026-03-20",
@@ -5187,11 +5188,18 @@
   "confirmed": false
  },
  "autumn luz|moments": {
-  "note": "Nov. 1: not rechecked; promo lists ADDS 11/3. Still no day-precision release date.",
-  "checked_on": "2026-11-01",
   "date": "",
-  "status": "date not found",
-  "confirmed": false
+  "precision": "month",
+  "sources": [
+   "https://www.psychedelicbabymag.com/2026/09/autumn-luz-on-love-strange-sounds-and-the-making-of-moments.html",
+   "https://ink19.com/2026/10/magazine/music-reviews/rijamc-autumn-luz",
+   "https://bigtakeover.com/news/video-premiere-autumn-luz-tattered"
+  ],
+  "status": "released",
+  "note": "Nov. 13: Debut LP, 7 songs. Previewed Aug. to Sept. 2026, reviewed by Oct. 2026. A Sept. 24 date appears for the track \"Cobalt,\" not confirmed for the album. Bandcamp page (autumnluz.bandcamp.com) not opened. No day found.",
+  "confirmed": false,
+  "checked_on": "2026-11-13",
+  "label": "Self-Released"
  },
  "james blake|death of love": {
   "date": "2026-01-22",
@@ -6097,5 +6105,226 @@
   "confirmed": true,
   "checked_on": "2026-11-11",
   "label": "SoundOn"
+ },
+ "james blake|trying times": {
+  "date": "2026-03-13",
+  "precision": "day",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Trying_Times_(album)",
+   "https://music.apple.com/us/album/trying-times/1862353780",
+   "https://www.officialcharts.com/albums/james-blake-trying-times/"
+  ],
+  "status": "released",
+  "note": "Nov. 13: Wikipedia, Apple Music and Official Charts agree on Mar. 13, 2026. Label Good Boy (Blake left Polydor); the staged \"Good Boy / Virgin\" was not checked.",
+  "confirmed": true,
+  "checked_on": "2026-11-13",
+  "label": "Good Boy"
+ },
+ "tinariwen|hoggar": {
+  "date": "2026-03-13",
+  "precision": "day",
+  "sources": [
+   "https://www.tinariwen.com/Tinariwen-announce-new-album-Hoggar",
+   "https://tinariwen.bandcamp.com/album/hoggar",
+   "https://store.tinariwen.com/release/570927-tinariwen-hoggar"
+  ],
+  "status": "released",
+  "note": "Nov. 13: Band site, Bandcamp and store agree on Mar. 13, 2026 (Wedge, the band label).",
+  "confirmed": true,
+  "checked_on": "2026-11-13",
+  "label": "Wedge"
+ },
+ "ora cogan|hard hearted woman": {
+  "date": "2026-03-13",
+  "precision": "day",
+  "sources": [
+   "https://oracogan.bandcamp.com/album/hard-hearted-woman",
+   "https://www.godisinthetvzine.co.uk/2026/03/13/ora-cogan-hard-hearted-woman-sacred-bones/",
+   "https://www.theskinny.co.uk/music/reviews/albums/ora-cogan-hard-hearted-woman"
+  ],
+  "status": "released",
+  "note": "Nov. 13: Bandcamp, God Is In The TV and The Skinny agree on Mar. 13, 2026 (Sacred Bones). Lead single \"Honey.\"",
+  "confirmed": true,
+  "checked_on": "2026-11-13",
+  "label": "Sacred Bones"
+ },
+ "cashier|weight": {
+  "date": "2026-03-13",
+  "precision": "day",
+  "sources": [
+   "https://cashier-band.bandcamp.com/album/the-weight",
+   "https://thedailymusicreport.com/music-news-releases/cashier-the-weight-03022026/",
+   "https://music.apple.com/us/album/the-weight-ep/1862282884"
+  ],
+  "status": "released",
+  "note": "Nov. 13: This is a 6-song EP, not an album. Bandcamp and the label announcement agree on Mar. 13, 2026 (Julia's War). Title single out Mar. 2, 2026. Japanese CD edition Apr. 17, 2026 (Tobira).",
+  "confirmed": true,
+  "checked_on": "2026-11-13",
+  "label": "Julia's War"
+ },
+ "thundercat|thunderwave feat willow": {
+  "date": "2026-03-10",
+  "precision": "day",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Distracted_(album)",
+   "https://audiomack.com/thundercat/song/thunderwave-1"
+  ],
+  "status": "released",
+  "note": "Nov. 13: Wikipedia and Audiomack agree on the single date Mar. 10, 2026 (Brainfeeder). Album Distracted is Apr. 3, 2026.",
+  "confirmed": true,
+  "checked_on": "2026-11-13",
+  "label": "Brainfeeder"
+ },
+ "poolside|looking backwards": {
+  "date": "2026-03-16",
+  "precision": "day",
+  "sources": [
+   "https://poolside.bandcamp.com/album/looking-backwards",
+   "https://audiomack.com/poolside/album/looking-backwards",
+   "https://www.beatport.com/artist/poolside/180886/tracks"
+  ],
+  "status": "released",
+  "note": "Nov. 13: Bandcamp, Audiomack and Beatport agree on Mar. 16, 2026 (Counter, a Ninja Tune imprint).",
+  "confirmed": true,
+  "checked_on": "2026-11-13",
+  "label": "Counter"
+ },
+ "dj seinfeld|u can t come home feat ts graye": {
+  "date": "2026-03-17",
+  "precision": "day",
+  "sources": [
+   "https://thedailymusicreport.com/music-news-releases/dj-seinfeld-u-cant-come-home-03172026/",
+   "https://open.spotify.com/album/6L71fSWcS2PbjB6B9slBqO",
+   "https://djmag.com/news/dj-seinfeld-announces-new-album-if-it-shares-single-listen"
+  ],
+  "status": "released",
+  "note": "Nov. 13: Daily Music Report, Spotify and DJ Mag agree on Mar. 17, 2026 (Ninja Tune). First single from If This Is It (June 5, 2026). Bandcamp track page shows the album date.",
+  "confirmed": true,
+  "checked_on": "2026-11-13",
+  "label": "Ninja Tune"
+ },
+ "brother ali|another country": {
+  "date": "2026-02-25",
+  "precision": "day",
+  "sources": [
+   "https://brotherali.bandcamp.com/track/another-country",
+   "https://rateyourmusic.com/release/single/brother-ali/another-country/",
+   "https://www.shazam.com/song/1879867223/another-country"
+  ],
+  "status": "released",
+  "note": "Nov. 13: Bandcamp, RYM and Shazam agree on Feb. 25, 2026 (Travelers Media). Radio edit, instrumental and acapella included.",
+  "confirmed": true,
+  "checked_on": "2026-11-13",
+  "label": "Travelers Media"
+ },
+ "moonchild|waves": {
+  "date": "2026-02-20",
+  "precision": "day",
+  "sources": [
+   "https://thisismoonchild.bandcamp.com/album/waves",
+   "https://music.apple.com/us/album/waves/1846114422",
+   "https://rateyourmusic.com/release/album/moonchild/waves/",
+   "https://ratedrnb.com/2025/11/moonchild-announces-new-album-waves-shares-strong-for-yourself/"
+  ],
+  "status": "released",
+  "note": "Nov. 13: Bandcamp, Apple Music, RYM and the announcement agree on Feb. 20, 2026 (ONErpm). Sixth album, 14 songs.",
+  "confirmed": true,
+  "checked_on": "2026-11-13",
+  "label": "ONErpm"
+ },
+ "pick a piper|dandelion": {
+  "date": "2026-03-13",
+  "precision": "day",
+  "sources": [
+   "https://pickapiper.bandcamp.com/album/dandelion",
+   "https://www.deezer.com/en/album/908613782",
+   "https://exclaim.ca/music/article/pick-a-piper-reveal-new-album-dandelion"
+  ],
+  "status": "released",
+  "note": "Nov. 13: Bandcamp, Deezer and Exclaim agree on Mar. 13, 2026. Bandcamp and Exclaim name Halocline Trance as the label; the staged \"Tin Angel\" does not match and is not verified.",
+  "confirmed": true,
+  "checked_on": "2026-11-13",
+  "label": "Halocline Trance"
+ },
+ "ana tijoux|97": {
+  "date": "2026-03-12",
+  "precision": "day",
+  "sources": [
+   "https://music.apple.com/ar/album/97-ep/1869129015",
+   "https://open.spotify.com/intl-es/album/2MMbc6h4YH9POnrHPmfjzz",
+   "https://www.latinousa.org/2026/02/20/anatijouxresistance/"
+  ],
+  "status": "released",
+  "note": "Nov. 13: Apple Music, Spotify and Latino USA agree on Mar. 12, 2026. It is a 4-song EP with DJ Dacel, not an album. Label Victoria Producciones not verified.",
+  "confirmed": true,
+  "checked_on": "2026-11-13"
+ },
+ "ford|music lights color": {
+  "date": "2026-03-19",
+  "precision": "day",
+  "sources": [
+   "https://fordsounds.bandcamp.com/album/music-lights-color",
+   "https://music.apple.com/us/album/music-lights-color-ep/1871239132",
+   "https://earmilk.com/2026/04/09/with-a-new-ep-and-his-own-label-ford-is-ready-for-his-creative-rebirth/"
+  ],
+  "status": "released",
+  "note": "Nov. 13: Bandcamp and Apple Music agree on Mar. 19, 2026. It is a 6-song EP on his own label ecke.",
+  "confirmed": true,
+  "checked_on": "2026-11-13",
+  "label": "ecke"
+ },
+ "memblem|jetlag": {
+  "date": "2026-03-13",
+  "precision": "day",
+  "sources": [
+   "https://youngartrecords.bandcamp.com/album/jetlag",
+   "https://www.shazam.com/en-gb/song/1878462268/broadcast-feat-subtoll"
+  ],
+  "status": "released",
+  "note": "Nov. 13: Young Art Bandcamp says Mar. 13, 2026 and calls it a 5-track album; Shazam lists it as an EP. One Bandcamp track page for \"Out Like This\" shows Feb. 13, 2026, so left unconfirmed.",
+  "confirmed": false,
+  "checked_on": "2026-11-13",
+  "label": "Young Art Records"
+ },
+ "49th main|sleepwalking": {
+  "date": "2026-03-12",
+  "precision": "day",
+  "sources": [
+   "https://ninjatune.net/release/49th-and-main/sleepwalking",
+   "https://northerntransmissions.com/49th-main-share-new-single-sleepwalking/"
+  ],
+  "status": "released",
+  "note": "Nov. 13: Ninja Tune release page is dated Mar. 12, 2026 and Northern Transmissions says out now on Mar. 13. No page states the release day outright, so left unconfirmed. Counter Records is a Ninja Tune imprint.",
+  "confirmed": false,
+  "checked_on": "2026-11-13",
+  "label": "Counter Records"
+ },
+ "robyn|blow my mind": {
+  "date": "2026-03-11",
+  "precision": "day",
+  "sources": [
+   "https://www.albumoftheyear.org/album/1720728-robyn-blow-my-mind.php",
+   "https://femmusic.com/2026/03/11/robyn-blow-my-mind/",
+   "https://libel.co.nz/content/new-music-video-release-robynreleases-single-blow-my-mindfrom-forthcoming-album-sexistential-12th-march-2026"
+  ],
+  "status": "released",
+  "note": "Nov. 13: Album of the Year and a FEMMUSIC post dated Mar. 11 point to Mar. 11, 2026; the Libel NZ release says Mar. 12. Album Sexistential is Mar. 27, 2026 on Young. A Ca7riel and Paco Amoroso remix followed Apr. 29, 2026. Left unconfirmed because of the one-day conflict.",
+  "confirmed": false,
+  "checked_on": "2026-11-13",
+  "label": "Young"
+ },
+ "sella|well i mean": {
+  "date": "2026-03-13",
+  "precision": "day",
+  "sources": [
+   "https://sellasellasella.bandcamp.com/album/well-i-mean",
+   "https://www.scenemusicmedia.com/news/sella-well-i-mean",
+   "https://upcomingvinyl.com/record/sella-well-i-mean"
+  ],
+  "status": "released",
+  "note": "Nov. 13: Artist Bandcamp, SceneMusicMedia and Vinyl Report say Mar. 13, 2026. Retail listings (Upcoming Vinyl, Tower, Josey, Mixed Up, Horizons) say July 24, 2026, possibly the vinyl and CD date. Bar/None. Unconfirmed until the conflict is explained.",
+  "confirmed": false,
+  "checked_on": "2026-11-13",
+  "label": "Bar/None"
  }
 }

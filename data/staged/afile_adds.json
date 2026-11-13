@@ -759,5 +759,70 @@
   "label": "",
   "zookeeper_url": "https://zookeeper.stanford.edu/?action=search&s=byAlbumKey&n=1156407",
   "source_format": "html"
+ },
+ {
+  "email_date": "2026-11-11",
+  "add_id": "896",
+  "zookeeper_tag": "1156586",
+  "artist": "The Avalanches",
+  "album": "No Bad Memories",
+  "category": "General",
+  "reviewer": "Wallace Brontoon",
+  "notes": "Fourth album. Heavy on obsolete tech and 1990s ephemera; several short non-songs marked \"Detritus.\" FCC on track 9, rest clean.",
+  "label": "",
+  "zookeeper_url": "https://zookeeper.stanford.edu/?action=search&s=byAlbumKey&n=1156586",
+  "source_format": "html"
+ },
+ {
+  "email_date": "2026-11-11",
+  "add_id": "897",
+  "zookeeper_tag": "1156609",
+  "artist": "Eels",
+  "album": "Cookie Happened",
+  "category": "General",
+  "reviewer": "Francis D",
+  "notes": "16th album from Mark Oliver Everett. Melancholy folk-rock. RIYL Grandaddy, Elliott Smith, Tom Waits, Beck, Nick Cave. Recommended: 10, 2, 1, 9, 8, 11. No FCCs noted.",
+  "label": "",
+  "zookeeper_url": "https://zookeeper.stanford.edu/?action=search&s=byAlbumKey&n=1156609",
+  "source_format": "html"
+ },
+ {
+  "email_date": "2026-11-11",
+  "add_id": "898",
+  "zookeeper_tag": "1156597",
+  "artist": "The Olivia Tremor Control",
+  "album": "Same Place, The",
+  "category": "General",
+  "reviewer": "Wallace Brontoon",
+  "notes": "Third and final album after Bill Doss (d. 2012) and Will Cullen Hart (d. 2025). Elephant 6 psych pop and musique concrete. No FCCs; some tracks are semi-continuous suites.",
+  "label": "",
+  "zookeeper_url": "https://zookeeper.stanford.edu/?action=search&s=byAlbumKey&n=1156597",
+  "source_format": "html"
+ },
+ {
+  "email_date": "2026-11-11",
+  "add_id": "899",
+  "zookeeper_tag": "1156520",
+  "artist": "Emma Ruth Rundle",
+  "album": "These Killing Times",
+  "category": "General",
+  "reviewer": "DJ Aporia",
+  "notes": "Return to dream rock. Favorites: 2, 4, 5, 7. Related: Chelsea Wolfe, Tara Jane O'Neil, Marriages, The Cure \"Disintegration.\" No FCC info given.",
+  "label": "",
+  "zookeeper_url": "https://zookeeper.stanford.edu/?action=search&s=byAlbumKey&n=1156520",
+  "source_format": "html"
+ },
+ {
+  "email_date": "2026-11-11",
+  "add_id": "900",
+  "zookeeper_tag": "1156575",
+  "artist": "The Tallest Man On Earth",
+  "album": "Just Beyond Endless Mountain",
+  "category": "General",
+  "reviewer": "Francis D",
+  "notes": "Eighth album from Kristian Matsson. RIYL Bob Dylan, Iron & Wine, Phosphorescent, M. Ward, Bon Iver. Recommended: 2, 10, 4, 6, 3, 9. FCC on unedited track 12.",
+  "label": "",
+  "zookeeper_url": "https://zookeeper.stanford.edu/?action=search&s=byAlbumKey&n=1156575",
+  "source_format": "html"
  }
 ]

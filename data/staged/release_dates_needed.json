@@ -45,15 +45,6 @@
   "key": "imperial teen|all hands up"
  },
  {
-  "artist": "lovetempo",
-  "title": "By Your Side",
-  "type": "single",
-  "label": "Self-released",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "lovetempo|by your side"
- },
- {
   "artist": "Christian Taylor",
   "title": "trust (you)",
   "type": "single",
@@ -117,78 +108,6 @@
   "key": "focus wales sxsw|focus wales artist sampler"
  },
  {
-  "artist": "Moonchild",
-  "title": "Waves",
-  "type": "album",
-  "label": "ONErpm",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "moonchild|waves"
- },
- {
-  "artist": "ford.",
-  "title": "Music Lights Color",
-  "type": "album",
-  "label": "ecke",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "ford|music lights color"
- },
- {
-  "artist": "DJ Seinfeld",
-  "title": "U Can't Come Home (feat. TS Graye)",
-  "type": "single",
-  "label": "Ninja Tune",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "dj seinfeld|u can t come home feat ts graye"
- },
- {
-  "artist": "Poolside",
-  "title": "Looking Backwards",
-  "type": "single",
-  "label": "Counter",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "poolside|looking backwards"
- },
- {
-  "artist": "Sella",
-  "title": "Well I Mean",
-  "type": "album",
-  "label": "Bar/None",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "sella|well i mean"
- },
- {
-  "artist": "Ora Cogan",
-  "title": "Hard Hearted Woman",
-  "type": "album",
-  "label": "Sacred Bones",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "ora cogan|hard hearted woman"
- },
- {
-  "artist": "Cashier",
-  "title": "The Weight",
-  "type": "album",
-  "label": "Julia's War",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "cashier|weight"
- },
- {
-  "artist": "Pick a Piper",
-  "title": "Dandelion",
-  "type": "album",
-  "label": "Tin Angel",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "pick a piper|dandelion"
- },
- {
   "artist": "Ambalema",
   "title": "Hiyuyá",
   "type": "album",
@@ -198,75 +117,156 @@
   "key": "ambalema|hiyuya"
  },
  {
-  "artist": "James Blake",
-  "title": "Trying Times",
-  "type": "album",
-  "label": "Good Boy / Virgin",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "james blake|trying times"
- },
- {
-  "artist": "Tinariwen",
-  "title": "Hoggar",
-  "type": "album",
-  "label": "Wedge",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "tinariwen|hoggar"
- },
- {
-  "artist": "Ana Tijoux",
-  "title": "97",
-  "type": "album",
-  "label": "Victoria Producciones",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "ana tijoux|97"
- },
- {
-  "artist": "Memblem",
-  "title": "jetlag",
-  "type": "album",
-  "label": "Young Art Records",
-  "current_date": "",
-  "date_check": "needed",
-  "key": "memblem|jetlag"
- },
- {
-  "artist": "Robyn",
-  "title": "Blow My Mind",
+  "artist": "Antonio Carlos & Jocafi, Adrian Younge, & Ali Shaheed Muhammad",
+  "title": "Quixodó",
   "type": "single",
-  "label": "Young",
+  "label": "Jazz Is Dead",
   "current_date": "",
   "date_check": "needed",
-  "key": "robyn|blow my mind"
+  "key": "antonio carlos jocafi adrian younge ali shaheed muhammad|quixodo"
  },
  {
-  "artist": "Thundercat",
-  "title": "Thunderwave (feat. WILLOW)",
-  "type": "single",
+  "artist": "Endearments",
+  "title": "An Always Open Door",
+  "type": "album",
+  "label": "Trash Casual",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "endearments|an always open door"
+ },
+ {
+  "artist": "Mute Swan",
+  "title": "Skin Slip",
+  "type": "album",
+  "label": "Hit the North",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "mute swan|skin slip"
+ },
+ {
+  "artist": "Tinlicker",
+  "title": "Dreams Of The Machine",
+  "type": "album",
+  "label": "[PIAS] Electronique",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "tinlicker|dreams of the machine"
+ },
+ {
+  "artist": "Flying Lotus",
+  "title": "BIG MAMA EP",
+  "type": "EP",
   "label": "Brainfeeder",
   "current_date": "",
   "date_check": "needed",
-  "key": "thundercat|thunderwave feat willow"
+  "key": "flying lotus|big mama ep"
  },
  {
-  "artist": "Brother Ali",
-  "title": "Another Country",
-  "type": "single",
-  "label": "Travelers Media",
+  "artist": "Shabaka",
+  "title": "Of The Earth",
+  "type": "album",
+  "label": "Shabaka Records",
   "current_date": "",
   "date_check": "needed",
-  "key": "brother ali|another country"
+  "key": "shabaka|of the earth"
  },
  {
-  "artist": "49th & Main",
-  "title": "Sleepwalking",
+  "artist": "V/A",
+  "title": "Barry Can't Swim Late Night Tales",
+  "type": "album",
+  "label": "Late Night Tales",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "v a|barry can t swim late night tales"
+ },
+ {
+  "artist": "Tinariwen",
+  "title": "Amidinim Ehad Solan",
+  "type": "single",
+  "label": "Wedge",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "tinariwen|amidinim ehad solan"
+ },
+ {
+  "artist": "Hone Dijon",
+  "title": "Just Friends (feat. Adi Oasis, Danielle Ponder, SUNI MF)",
+  "type": "single",
+  "label": "SOS",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "hone dijon|just friends feat adi oasis danielle ponder suni mf"
+ },
+ {
+  "artist": "District Five",
+  "title": "Push (feat. Saul Williams)",
+  "type": "single",
+  "label": "Stone Pixels",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "district five|push feat saul williams"
+ },
+ {
+  "artist": "nimino",
+  "title": "Orla",
   "type": "single",
   "label": "Counter Records",
   "current_date": "",
   "date_check": "needed",
-  "key": "49th main|sleepwalking"
+  "key": "nimino|orla"
+ },
+ {
+  "artist": "ford.",
+  "title": "No Holds Barred",
+  "type": "single",
+  "label": "ecke",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "ford|no holds barred"
+ },
+ {
+  "artist": "Grace Inspace",
+  "title": "Heavy Hair",
+  "type": "album",
+  "label": "TODO",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "grace inspace|heavy hair"
+ },
+ {
+  "artist": "Taiwan Beats @ SXSW",
+  "title": "Taiwan Beats @ SXSW",
+  "type": "album",
+  "label": "Taiwan Beats",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "taiwan beats sxsw|taiwan beats sxsw"
+ },
+ {
+  "artist": "Bellaire",
+  "title": "Born Funky",
+  "type": "album",
+  "label": "Le Plan",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "bellaire|born funky"
+ },
+ {
+  "artist": "Flore Laurentienne",
+  "title": "Volume III",
+  "type": "album",
+  "label": "Secret City",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "flore laurentienne|volume iii"
+ },
+ {
+  "artist": "Lolo Zouaï",
+  "title": "Coquelicot (feat. disiz)",
+  "type": "single",
+  "label": "Because",
+  "current_date": "",
+  "date_check": "needed",
+  "key": "lolo zouai|coquelicot feat disiz"
  }
 ]
